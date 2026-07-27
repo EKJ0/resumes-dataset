@@ -1,0 +1,103 @@
+JOB DESCRIPTIONS — .NET DEVELOPER
+Based on a sample of 14 CVs drawn from 125 resumes in the .NET Developer category.
+
+================================================
+DRAFT 1 — Standard / Mid-Level
+================================================
+Job Title: .NET Developer
+
+Overview: We're seeking a .NET Developer to design, build, and maintain web
+applications using the Microsoft technology stack.
+
+Key Responsibilities:
+- Develop web applications using ASP.NET, MVC, and C#
+- Design and optimize SQL Server databases and queries
+- Build responsive front-ends with HTML, CSS, and JavaScript
+- Participate in the full software development lifecycle (SDLC)
+- Debug, test, and maintain existing applications
+
+Requirements:
+- Bachelor's degree in Computer Science or related field
+- 2-4 years .NET development experience
+- Proficiency in ASP.NET, C#, MVC, and SQL Server
+- Familiarity with HTML, CSS, and JavaScript/jQuery
+
+================================================
+DRAFT 2 — Senior / Full Stack .NET
+================================================
+Job Title: Senior .NET Developer
+
+Overview: We're looking for a Senior .NET Developer to lead application
+architecture and mentor developers on a growing engineering team.
+
+Key Responsibilities:
+- Architect and lead development of scalable .NET applications
+- Design database schemas and optimize SQL Server performance
+- Guide technical decisions across the SDLC
+- Mentor junior developers and conduct code reviews
+- Collaborate with product and QA teams on delivery
+
+Requirements:
+- 6+ years .NET development experience
+- Expert-level C#, ASP.NET MVC, and SQL Server skills
+- Experience with WCF, web services, and software architecture
+- Proven leadership in technical design and mentoring
+
+================================================
+DRAFT 3 — Concise Version
+================================================
+Job Title: .NET Developer
+
+We build on the Microsoft stack and need someone who can ship clean, reliable
+ASP.NET applications without hand-holding.
+
+You'll:
+- Build and maintain web applications end to end
+- Write solid SQL Server queries and schemas
+- Work across the full stack — C#, HTML, CSS, JavaScript
+- Debug real production issues, not just demo code
+
+You bring:
+- Real ASP.NET/C#/SQL Server experience
+- Comfort with the full SDLC
+- A "get it done right" mentality
+
+================================================
+DRAFT 4 — Skills/Tools-Focused
+================================================
+Job Title: .NET Developer
+
+Core Skills Required: ASP.NET, C#, MVC, SQL Server, HTML, CSS, JavaScript/jQuery,
+WCF, Visual Studio, SDLC.
+
+Responsibilities:
+- Develop and maintain .NET web applications
+- Write and optimize SQL Server queries and stored procedures
+- Build front-end components using HTML, CSS, and JavaScript
+- Participate in requirements analysis, design, and testing
+- Troubleshoot and resolve application defects
+
+Qualifications:
+- Degree in Computer Science or related field
+- Hands-on experience with ASP.NET, C#, and SQL Server
+- Familiarity with version control and Agile practices
+
+================================================
+DRAFT 5 — Formal / Corporate
+================================================
+Job Title: .NET Developer
+
+Position Summary: The .NET Developer is responsible for the design, development,
+and maintenance of web applications built on the Microsoft .NET framework.
+
+Essential Duties and Responsibilities:
+- Develops applications using ASP.NET, C#, and MVC architecture
+- Designs and maintains SQL Server databases
+- Implements front-end functionality using HTML, CSS, and JavaScript
+- Participates in code reviews and quality assurance processes
+- Documents technical specifications and application changes
+
+Minimum Qualifications:
+- Bachelor's degree in Computer Science or related field
+- Minimum two (2) years of .NET development experience
+- Proficiency in C#, ASP.NET, and SQL Server

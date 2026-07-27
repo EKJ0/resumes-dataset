@@ -1,0 +1,104 @@
+JOB DESCRIPTIONS — BLOCKCHAIN
+Based on a sample of 14 CVs drawn from 32 resumes in the Blockchain category.
+
+================================================
+DRAFT 1 — Standard / Blockchain Developer
+================================================
+Job Title: Blockchain Developer
+
+Overview: We're seeking a Blockchain Developer to design, build, and deploy smart
+contracts and decentralized applications.
+
+Key Responsibilities:
+- Develop and audit smart contracts (Solidity/Ethereum ecosystem)
+- Build decentralized applications (dApps) and integrate with Web3 infrastructure
+- Ensure security and efficiency of blockchain-based solutions
+- Collaborate with product and engineering teams on protocol design
+- Stay current on emerging blockchain technologies and standards
+
+Requirements:
+- Experience with Solidity, Ethereum, and smart contract development
+- Understanding of cryptography and consensus mechanisms
+- Proficiency in JavaScript or Golang
+- Familiarity with DeFi/DEX concepts a plus
+
+================================================
+DRAFT 2 — Senior / Protocol Engineer
+================================================
+Job Title: Senior Blockchain Engineer
+
+Overview: We're looking for a Senior Blockchain Engineer to lead protocol design,
+smart contract security, and platform architecture.
+
+Key Responsibilities:
+- Architect and lead development of blockchain protocols and smart contracts
+- Conduct security reviews and audits of contract code
+- Guide technical decisions on consensus, scalability, and decentralization
+- Mentor junior blockchain developers
+- Collaborate with cross-functional teams on product strategy
+
+Requirements:
+- 4+ years blockchain/distributed systems experience
+- Deep expertise in Solidity, smart contract security, and Web3
+- Track record shipping production blockchain applications
+- Strong understanding of cryptographic principles
+
+================================================
+DRAFT 3 — Concise Version
+================================================
+Job Title: Blockchain Developer
+
+We're building on decentralized rails and need someone who can write smart
+contracts that are secure, efficient, and actually work in production.
+
+You'll:
+- Write and test smart contracts
+- Build the dApp layer that connects users to the chain
+- Think adversarially — security is part of the job, not an afterthought
+- Keep up with a fast-moving ecosystem
+
+You bring:
+- Solidity/Ethereum development experience
+- Solid grasp of cryptography and consensus
+- Comfort with JavaScript/Web3 tooling
+
+================================================
+DRAFT 4 — Skills/Tools-Focused
+================================================
+Job Title: Blockchain Developer
+
+Core Skills Required: Solidity, Ethereum, smart contracts, Web3.js, decentralized
+application development, cryptography, consensus mechanisms, JavaScript/Golang.
+
+Responsibilities:
+- Develop, test, and deploy smart contracts
+- Build and maintain decentralized application front-ends and integrations
+- Implement security best practices across blockchain solutions
+- Participate in code reviews and protocol design discussions
+- Document technical specifications and architecture decisions
+
+Qualifications:
+- Demonstrated experience with blockchain/smart contract development
+- Strong programming fundamentals (JavaScript, Golang, or similar)
+- Understanding of decentralized finance (DeFi) concepts a plus
+
+================================================
+DRAFT 5 — Formal / Corporate
+================================================
+Job Title: Blockchain Developer
+
+Position Summary: The Blockchain Developer is responsible for the design,
+development, and deployment of secure blockchain-based applications and smart
+contracts.
+
+Essential Duties and Responsibilities:
+- Designs and implements smart contracts on relevant blockchain platforms
+- Develops decentralized applications and associated integrations
+- Performs security testing and code review of blockchain solutions
+- Collaborates with engineering and product teams on technical requirements
+- Maintains technical documentation of blockchain architecture
+
+Minimum Qualifications:
+- Degree in Computer Science or equivalent practical experience
+- Demonstrated experience with Solidity, Ethereum, or comparable platforms
+- Understanding of cryptographic and consensus principles

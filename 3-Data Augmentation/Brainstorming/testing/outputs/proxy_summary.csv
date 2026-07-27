@@ -1,0 +1,5 @@
+protected_attribute,proxy_feature,status,detail
+gender,all,not_testable,Fewer than two explicit protected groups have at least 30 resumes.
+ethnicity,all,not_testable,Fewer than two explicit protected groups have at least 30 resumes.
+age_group,all,not_testable,Fewer than two explicit protected groups have at least 30 resumes.
+nationality,all,not_testable,Fewer than two explicit protected groups have at least 30 resumes.

@@ -1,0 +1,103 @@
+JOB DESCRIPTIONS — DATABASE
+Based on a sample of 14 CVs drawn from 249 resumes in the Database category.
+
+================================================
+DRAFT 1 — Standard / Database Administrator
+================================================
+Job Title: Database Administrator
+
+Overview: We're seeking a Database Administrator to manage, maintain, and optimize
+our database systems for performance, security, and availability.
+
+Key Responsibilities:
+- Administer and maintain SQL Server/Oracle database environments
+- Monitor database performance and troubleshoot issues
+- Manage backups, recovery procedures, and data security
+- Optimize queries and database structures for performance
+- Support development teams with database design and access
+
+Requirements:
+- Bachelor's degree in Computer Science or related field
+- 3+ years database administration experience
+- Strong SQL skills and experience with Oracle/SQL Server
+- Knowledge of database security and backup/recovery best practices
+
+================================================
+DRAFT 2 — Senior / Database Analyst-Engineer
+================================================
+Job Title: Senior Database Engineer
+
+Overview: We're looking for a Senior Database Engineer to lead database
+architecture, performance tuning, and data infrastructure strategy.
+
+Key Responsibilities:
+- Design and implement scalable database architecture
+- Lead performance tuning and capacity planning initiatives
+- Establish standards for data quality, security, and governance
+- Mentor junior DBAs and database developers
+- Partner with engineering on data infrastructure decisions
+
+Requirements:
+- 6+ years database engineering/administration experience
+- Expert-level SQL and query optimization skills
+- Experience with Oracle, SQL Server, and cloud database platforms
+- Strong understanding of data security and compliance requirements
+
+================================================
+DRAFT 3 — Concise Version
+================================================
+Job Title: Database Administrator
+
+Data only matters if it's fast, safe, and available — we need someone who keeps our
+databases running that way.
+
+You'll:
+- Keep databases performant, secure, and backed up
+- Fix problems before they become outages
+- Tune queries that are dragging things down
+- Support the teams building on top of your systems
+
+You bring:
+- Solid SQL and database administration experience
+- A methodical approach to backups, security, and recovery
+- Comfort being on-call when something breaks
+
+================================================
+DRAFT 4 — Skills/Tools-Focused
+================================================
+Job Title: Database Administrator
+
+Core Skills Required: SQL, Oracle, SQL Server, query optimization, database backup/
+recovery, performance tuning, database security, Microsoft Access.
+
+Responsibilities:
+- Administer production and development database environments
+- Write and optimize complex SQL queries
+- Implement backup, recovery, and disaster recovery procedures
+- Monitor system performance and resolve bottlenecks
+- Maintain database documentation and access controls
+
+Qualifications:
+- Degree in Computer Science, IT, or related field
+- Hands-on experience with Oracle and/or SQL Server
+- Understanding of database security best practices
+
+================================================
+DRAFT 5 — Formal / Corporate
+================================================
+Job Title: Database Administrator
+
+Position Summary: The Database Administrator is responsible for the performance,
+integrity, security, and availability of the organization's database systems.
+
+Essential Duties and Responsibilities:
+- Installs, configures, and maintains database management systems
+- Monitors database performance and implements optimization measures
+- Develops and tests backup and disaster recovery procedures
+- Manages database security, access controls, and compliance
+- Collaborates with development teams on database design
+
+Minimum Qualifications:
+- Bachelor's degree in Computer Science, Information Systems, or related field
+- Minimum three (3) years of database administration experience
+- Proficiency in SQL and relational database management systems

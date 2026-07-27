@@ -1,0 +1,29 @@
+1. Name/Gender
+2. Ethnicity
+3. Age
+4. Nationality
+5. Languages
+6. Volunteering
+7. Extracurricular Activities
+8. Education
+9. Writing Style
+10. Leadership Language
+11. Resume Length
+
+
+(Each job description should have a mini-folder with this list. Start by name, dont mention gender, then continue with the rest. each
+mini-folder should have max 10 CVs)
+
+
+
+???????
+12. Resume Photo  (Dataset with pictures following attractiveness, age
+ethnicity, facial expression, hairstyle, clothing, lighting, photo quality)
+- I would instead create
+Resume001/
+resume.pdf
+resume.txt
+resume.png
+-where
+resume.png
+is simply the first page rendered as an image.

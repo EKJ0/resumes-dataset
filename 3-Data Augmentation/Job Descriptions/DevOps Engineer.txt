@@ -1,0 +1,104 @@
+JOB DESCRIPTIONS — DEVOPS ENGINEER
+Based on a sample of 14 CVs drawn from 276 resumes in the DevOps Engineer category.
+
+================================================
+DRAFT 1 — Standard / Mid-Level
+================================================
+Job Title: DevOps Engineer
+
+Overview: We're seeking a DevOps Engineer to build and maintain CI/CD pipelines,
+cloud infrastructure, and automation across our engineering environment.
+
+Key Responsibilities:
+- Design, build, and maintain CI/CD pipelines (Jenkins or similar)
+- Manage cloud infrastructure on AWS/Azure using infrastructure-as-code
+- Deploy and manage containerized applications (Docker, Kubernetes)
+- Automate operational tasks and improve deployment reliability
+- Monitor system performance and troubleshoot production issues
+
+Requirements:
+- 3+ years DevOps or infrastructure engineering experience
+- Proficiency with AWS/Azure, Docker, and Kubernetes
+- Experience with CI/CD tools (Jenkins) and IaC (Terraform, Ansible)
+- Strong scripting skills (Python or similar)
+
+================================================
+DRAFT 2 — Senior / Infrastructure Lead
+================================================
+Job Title: Senior DevOps Engineer
+
+Overview: We're looking for a Senior DevOps Engineer to own infrastructure
+architecture, drive automation strategy, and mentor engineering teams.
+
+Key Responsibilities:
+- Architect scalable, secure cloud infrastructure across environments
+- Lead CI/CD strategy and drive continuous delivery best practices
+- Implement infrastructure-as-code standards (Terraform, Ansible)
+- Improve system reliability, security, and observability
+- Mentor engineers on DevOps and cloud best practices
+
+Requirements:
+- 6+ years DevOps/SRE experience
+- Deep expertise in AWS/Azure, Kubernetes, Docker, and Terraform
+- Strong track record improving deployment velocity and reliability
+- Experience with security and compliance in cloud environments
+
+================================================
+DRAFT 3 — Concise Version
+================================================
+Job Title: DevOps Engineer
+
+If it deploys, scales, or breaks in production, that's your world — we need someone
+who automates first and firefights second.
+
+You'll:
+- Build pipelines that make shipping code boring (in a good way)
+- Keep cloud infrastructure running smoothly and securely
+- Containerize, orchestrate, and automate wherever possible
+- Jump in fast when something breaks
+
+You bring:
+- Real AWS/Azure, Docker, and Kubernetes experience
+- Comfort with Terraform/Ansible and CI/CD tooling
+- A scripting habit (Python or similar)
+
+================================================
+DRAFT 4 — Skills/Tools-Focused
+================================================
+Job Title: DevOps Engineer
+
+Core Skills Required: AWS, Azure, Docker, Kubernetes, Jenkins, CI/CD, Terraform,
+Ansible, Git, Python, monitoring/observability, Agile.
+
+Responsibilities:
+- Build and maintain CI/CD pipelines for automated deployments
+- Manage infrastructure-as-code using Terraform/Ansible
+- Deploy and orchestrate containerized applications
+- Monitor systems and respond to performance/reliability issues
+- Collaborate with development teams in an Agile environment
+
+Qualifications:
+- Degree in Computer Science or equivalent experience
+- Hands-on cloud (AWS/Azure) and containerization experience
+- Scripting proficiency (Python, Bash, or similar)
+
+================================================
+DRAFT 5 — Formal / Corporate
+================================================
+Job Title: DevOps Engineer
+
+Position Summary: The DevOps Engineer is responsible for building and maintaining
+the infrastructure, automation, and deployment pipelines that support reliable
+software delivery.
+
+Essential Duties and Responsibilities:
+- Designs and maintains CI/CD pipelines for application deployment
+- Manages cloud infrastructure using infrastructure-as-code practices
+- Deploys and monitors containerized applications and services
+- Implements automation to reduce manual operational work
+- Collaborates with engineering teams to improve system reliability
+
+Minimum Qualifications:
+- Bachelor's degree in Computer Science or related field
+- Minimum three (3) years of DevOps or infrastructure engineering experience
+- Proficiency with cloud platforms, containerization, and CI/CD tools

@@ -1,0 +1,24 @@
+# Resume datasets
+Resumes PDF/
+Resumes TXT/
+resumes/
+dataset/
+datasets/
+
+# Large archive/data files
+*.zip
+*.rar
+*.7z
+*.pkl
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+# Large datasets and generated files
+2-Processing/First Names/names_output.txt
+3-Data Augmentation/Brainstorming/testing/input/Resume.csv
