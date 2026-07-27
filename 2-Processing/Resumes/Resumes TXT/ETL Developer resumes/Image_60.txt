@@ -1,0 +1,58 @@
+ROBERT SMITH
+Senior ETL Developer
+
+Phone: (0123}-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Senior ETL Developer with more than 6 years of professional experience in Software/IT
+industry specializing in Data Engineering and Data Warehousing platform with expertise
+in Data Analysis, Design, and Implementation of Database and ETL processes using
+Informatica PowerCenter application. Proficient is writing. optimizing and tuning SQL
+queries, Domain Experience in major sectors such as Banking, Retail and Insurance,
+
+ICORE COMPETENCIES
+
+Informatica Power Center 9.x/8.x, Informatica Data Quality (IDQ), MDM Databases SQL
+Server DB2,. MySQL. PostgreSQL Languages SQL, PL/SQL. C, UNIX Shell Scripting.
+Python Operating Systems UNIX, Windows Linux, Macintosh DB Tools TOAD, SQL Plus,
+SQL Developer. SQL Server Management Studio Other Tools Autosys. COGNOS. SSRS.
+APEX
+
+PROFESSIONAL EXPERIENCE
+
+Senior ETL Developer
+Rabobank, N.A - June 2014 - Present
+
+Key Deliverables:
+
+* Involved in receiving web service calls from an external vendor and perform ETL to
+integrate it with banks internal host using Informatica data integration hub.
+Partnered with bi tearn on multiple
+
+* Partnered with cross-functional teams to implement advanced analytics on
+customers and products.
+
+* Working on integrating customer data from multiple data sources to achieve
+consistency in data and providing a single source of truth for business decision
+making.
+
+* Gathering the business requirements trom the business users and performing an
+extensive data analysis on the internal host system
+
+* Working closely with the business analysts to create mapping documents,
+
+* Designing complex.and custom ETL code based on the requirements of the
+external vendor and internal host.
+
+* Moditying the schema XSUS based on the changing requirements.
+
+Senior ETL/Data Engineer
+Nike, Inc - October 2012 - May 2014
+
+Key Deliverables:
+* Performed unit testing and support the business users during UAT by analyzing
+the issues raised and performing bug fixes.
+* Successfully integrated multiple web service sources, targets and web service
+consumer.
+
+2259 Oak Street, Old Forge, New York, 13420
+© This Bree Resume Template ls the copyright of Gwikrestune.com, Usage Guidelines

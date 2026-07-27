@@ -1,0 +1,189 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+- Over 7+ years of professional IT experience in Analysis, Design, Development, Testing, and Implementation of various Data warehouse.
+
+- Extensively involved in ETL Development using IICS and Informatica Power Center 9.x/10.X
+
+- Having experience working with Informatica IICS tool effectively using it for data integration (On - premises and cloud-based) and data migration from multiple source systems.
+
+- Experience with lICS (Data Integration, Administrator, Monitor) Services.
+
+- Experience in Building Service connectors for Real Time integration with Third party applications like Google Cloud Storage, BigQuery.
+
+- Strong technical experience building data integration processes by constructing mappings, tasks, task flows, schedules, and parameters.
+
+- Used informatica designer components - source analyzer, transformation developer, mapplet and mapping designer.
+
+- Worked extensively with complex mappings using multiple transformations like source qualifiers, expressions, filters, joiners, routers, union, unconnected / connected lookups and aggregators, hierarchy builder and hierarchy parser, stored procedures, rank and normalizer, sequence and SQL.
+
+- Experienced in performance tuning of jobs. Strong in finding out the bottlenecks and fixing them using various tuning methods like session partitioning, reducing the lookup sizes, using persistent caches and pushdown optimization etc.
+
+- Experience in Implementation of CDC and SCD1/SCD2.
+
+- High Experience in RDMBS (Oracle), including complex SQL constructs and DDL generation, fine tuning the SQL queries that are used at different places like source override, pre SQL and post SQL at source and target and at the lookup override.
+
+- Experience in UNIX shell scripting for creating list files, cleansing the input files, and archiving the source files
+
+- Performed Unit testing at various levels of the ETL and actively involved in team code reviews.
+
+- Experience in working with Agile methodology and Involved in Agile Meetings, Feature Backlog Grooming\Refinements, Daily Stand-ups, Retrospection, SOS (Scrum of Scrum), Sprint Planning, Sprint Internal Demo's, Sprint External Demo's.
+
+- Hands on Experience in Jira/Confluence Tools for Project Management, Sprint Management, Defects.
+
+- Ability to learn new technology and quickly adapt to technology changes, have willing to work attitude.
+
+- lICS, PowerCenter 9.x,10.x « CONTROL M, Autosys
+
+- Oracle, PostgreSQL, Big Query, Google Cloud « Erwin Data Modeler Storage e JIRA, Service Now
+
+- SQL, PL/SQL, UNIX Shell Scripting, Windows e Scrum, Agile Methods Batch Programming ¢ Data Analysis
+
+- GCP
+
+- GitHub
+
+- SQL Developer, DBeaver
+
+SR ETL DEVELOPER (IICS) 09/2019 to CURRENT Wells Fargo | Sparks, NV
+
+- Think of ProsRent as the “Uber” of construction equipment from Porto's and dumpsters to aerial equipment, all the way to Earth moving equipment there's a better way to rent construction equipment - one that utilizes technology to bring renters and suppliers together to do business fairly.
+
+Project Scope:
+
+- Primarily responsible to connect multiple source systems (Order Life Cycle, Billing Management & Invoice Gen, Supplier and Inventory Management System, Notification Management System) in to data warehouse with the effective Design, Development, Validation and Support activities to assure that it's producing values to our Business
+
+Responsibilities:
+
+- Worked with the business analysts and data analytics team to gather business requirements to be translated into design considerations
+
+- Used Informatica Intelligent Cloud Service for (ETL) extraction, transformation and loading data from heterogeneous source systems into target database.
+
+- Prepared Various mappings to load the data into different stages like Landing, Staging, and Target tables.
+
+- Through lICS created mappings for Order Life Cycle Management System to get the data from PostgreSQL in GCP Cloud to On-Premises Oracle Datawarehouse.
+
+- Extracted data from Oracle, PostgreSQL and loaded them into Big Query/Google Cloud Storage.
+
+- Created and maintained SCD-1 and 2 mappings to maintain history from source to target for accessing the history of Order Life Cycle information.
+
+- Extracted the data from Order Life Cycle Management System and transformed the data using IICS and loaded it in to Oracle database for the Invoice Generator application to produce automated Invoice.
+
+- Developed various mappings using Cloud Mapping Designer and worked with Aggregator, Lookup, Filter, Router, Joiner, Source Qualifier, Expression, Sorter, and Sequence Generator transformations.
+
+- Worked on Parameterization of all variables and connections at all levels.
+
+- Created reusable transformation objects such as mapplets, User defined functions to avoid duplication of metadata and reducing the development time.
+
+- Written SQL queries and applied at different levels like Source query, pre-SQL, post-SQL and Optimized SQL scripts to improve performance.
+
+- Experience in partitioning and pushdown optimization.
+
+- Worked on Documentation to describe program development, logic, coding, testing, changes and corrections.
+
+- Participated in Enhancements meeting to distinguish between bugs and enhancements.
+
+- Attend the daily scrum calls and provide my updates and bring to the notice any bottlenecks in working on my user stories.
+
+Environment:
+
+- ICS, Autosys, GitHub, GCP, Google cloud storage , Bigquery, Oracle 19c, PostgreSQL , Unix Server,
+
+SQL Developer.JIRA.
+
+INICDRMATICA DEVELOPER 01/2017 to 08/2019 Children's Place | Austin, TX
+
+Project: Cigna Claim Management - Medicaid
+
+Cigna is a leading health service company committed to help Medicare and Medicaid beneficiaries to achieve
+Medicare Advantage, Medicare Prescription Drug Coverage, Medicaid and other health service products.
+Project Scope:
+
+The scope of the Cigna Claim Management Medicaid EDW project is to hold Medicaid claims by healthcare
+providers vs the amount reimbursed by connecting multiple source systems and host the data in to Oracle
+EDW.
+
+Responsibilities:
+
+- Gathered Requirements and Design the data load specifications based on Business rules.
+
+- Used Informatica Power Center 10.1 for extraction, loading and transformation (ETL) in the data Warehouse
+
+- Designed and developed ETL Mappings to extract data from flat files, csv and Oracle to load the data into the EDW.
+
+- Created and Configured Workflows, Worklets, and Sessions to transport the data to target warehouse Oracle tables using Informatica Workflow Manager (Workflow Manager Tools - Task Developer, Workflow & Worklet Designer)
+
+- Developed several complex mappings in Informatica a variety of PowerCenter transformations, Mapping Parameters, Mapping Variables, Mapplets & Parameter files in Mapping Designer using Informatica PowerCenter.
+
+- The mappings involved extensive use of Aggregator, Filter, Router, Expression, Joiner, Union, Normalizer and Sequence generator transformations.
+
+- Implemented performance tuning techniques to optimize ETL workflows and reduce processing time, resulting in faster data delivery to end-users.
+
+- Examined the workflow log files and assigning the ticket to the production support based on the error.
+
+- Supported migration of ETL code from development to QA and QA to production environments
+
+- Designed and developed Unix Shell Scripts, FTP, sending files to source directory & managing session files.
+
+Environment:
+- Informatica Power Center 10.1, Oracle 11g, PL/SQL,SQL Server, UNIX Shell Scripting, Autosys.
+
+ET DEVELOPER 12/2015 to 01/2017 Frontier Communications | City, STATE
+
+Project Description :
+
+- Frontier is a leading communications provider offering gigabit speeds to empower and connect millions of consumers and businesses in 25 states, It is building critical digital infrastructure across the country
+with its 100% fiber-optic network and cloud-based solutions.
+
+Project Scope:
+
+- Frontier acquisition of Verizon's California, Texas and Florida properties for 3.7M voice, 2.2M Broadband and 1.2M FiOS video connections brought the biggest conversion program, The team of data mappers and ETL developers has been assigned to convert this data from Verizon systems to Frontier system, | was responsible to convert the telecom provisioning data.
+
+Responsibilities:
+
+- Worked with the data mappers to collect the business requirements and base SQL's to be translated into Informatica mappings
+
+- Responsible for analysis of Verizon data and integrate into frontier DPI system
+
+- Performed Source System Data analysis as per the Business Requirement
+
+- Distributed data residing in heterogeneous data sources is consolidated onto target Enterprise Data Warehouse database
+
+- Developed Mappings, Sessions, Workflows and SQL's to extract, validate, and transform data according to the business rules
+
+- Created various Transformations like, Aggregator, Expression, Lookup, Filter, Update Strategy and Router etc
+
+- Extensively worked on design, development and implementation of plant IF file loads such as IFLCS, IFLD, IFSMALT etc
+
+- Building the necessary staging tables and worktables on oracle development environment
+
+- Sourced the data from csv files, flat files and Oracle tables
+
+- Made substantial contributions in simplifying the development and maintenance of ETL by creating re- usable Mapplets and re-usable Transformation objects
+
+- Partitioned the sessions to reduce the load time
+
+- Implemented performance tuning for Informatica Sources, Targets, Mappings, transformations, Sessions, Pushdown optimization and Partitioning
+
+- Implemented incremental load logic to improve the time taken for entire mock conversions
+
+- Designed and executed mock conversion runs every week using integrated workflows and pmcmd commands
+
+- Monitored sessions that were scheduled, running, completed or failed
+
+Environment:
+- Informatica Power Center 9.6.1, ORACLE 119,Unix Shell Scripting, ControiM.
+
+Master of Computer Applications | Computer Science Holy Cross College, Trichy

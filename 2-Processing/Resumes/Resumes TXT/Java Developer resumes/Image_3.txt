@@ -1,0 +1,80 @@
+JOHN SMITH
+
+22 Street Rd. @ City, State 00000 ¢ Phone: (222) 222-2222 ¢ email@address.com
+
+JAVA SENIOR DEVELOPER / ARCHITECT
+
+Hands-On Contributor crafting applications, internal/external websites, and systems to support business needs and
+expand organizational capabilities. Offer skills in business/data analysis, graphics/web and user interface design, and
+requirements gathering. Leverage expertise in JavaEE, JFaces, Strust, Spring, XML, Sun identity Management, Web
+Service Security, C#.Net and ASP.Net with extensive experience in multicultural settings. Analytical Leader driving
+Project completion in stride with key stakeholder needs and building collaborative internal/external retationships.
+Oversee full-phase software/web development, providing platforms and tools to improve business processes and enable
+growth as well as delivering solutions to resolve complex issues. Fluent in Engtish & Spanish; currently studying basic
+French.
+
+Consulting @ = IT Infrastructure /Design IT Security
+
+Process Development ¢ Software Development Project Management
+Quality Assurance/Testing @ Deployment /Migrations Web Design
+
+Team Leadership/Motivation @ Client Relations Training & Development
+
+PROFESSIONAL EXPERIENCE
+
+ITAC, Bogota, Colombia 2009-2010
+2006-2007
+
+ITAC fs @ leading company offering consulting services and solutions in Jave ™, Java EE ™, Web Services, Governance
+
+and SOA (Service Oriented Architecture), Web development & application support based on Java ™ technology, JEE ™,
+
+ESB and BPEL. ITAC develops its own security products and software for the clients in the financial sector.
+
+SOFTWARE ARCHITECT AND JAVA SENIOR DEVELOPER
+
+Assessed client requirements and determined the applicability of Java and JEE technology to a specific contexts.
+
+Project Manager for industry-leading company projects, Java Trainer and key software developer. Led and mentored
+
+the development teams and insured best practice procedures were utilized. Analyzed the current software to minimize
+
+risks and to test the product's stability and reliability and tuned applications in both the development and production
+environment.
+
+@ Designed and developed ITAC'’s WS-Guardian which allows the control of Service Oriented Architecture through the
+virtualization of centralized services. The product allowed ITAC to compete with products including IBM
+Datapower.
+
+Selected as ‘Employee of the Year" at the JavaOne Event in San Francisco, USA.
+
+Java Sun Certified Enterprise Architect for the JEE 5 and one of the first 400 people receiving the Sun Certified
+Business Component Developer JEE 5.0 Beta.
+
+Led the migration of Davivienda internet Banking from WebSphere Application Server to Sun Application Server;
+Davivienda is the second biggest bank in Colombia.
+
+Designed a cutting-edge system to centralize all Davivienda bank stock information.
+
+STAC Client Projects
+
+ITAC WS-Guardian: Designed and developed a product, which allows adding access policies (IP restrictions, http
+headers, digital signatures, encryption etc.) for web services published on Enterprise Service Buses without source
+code alterations. Platform: JEE, EJB 3.1, Hibernate, Icefaces, Eclipse, Web Services Security, Mysql, Oracle
+Database, Glassfish and Weblogic,
+
+ITAC SecureFile: Designed and developed an enhanced encryption product and facilitated the exchange of
+information process among business partners through the use of robust mechanisms of encryption and digital
+signatures.
+
+Davivienda Bank (Retail Bank): Designed and developed a platform to centralize all bank stock information.
+Platform: JEE, EJB 3.0, Toptink, Icefaces, Eclipse, Web Services, Oracle Database and Glassfish.
+
+Servibanca Banking Payment Platform: Design and development of a platform to manage business processes
+related to payments of public and private bill services. Platform: JEE, £J6 3.0, icefaces, Glassfish and SQLServer.
+Bank of Republic (Central Bank of Colombia): Consulted and implemented an identity Administration System.
+Platform: JavaEE, Sun identity Manager, Sun Access Manager, Java Sun Enterprise Application Server, SUN Directory
+Server, Oracle Database.
+
+Davivienda Bank (Retail Bank): Developed and Migrated Davivienda’s Web application banking from Websphere
+Application Server to Sun Application Enterprise Server and designed Web services for fusion with Superior Bank.

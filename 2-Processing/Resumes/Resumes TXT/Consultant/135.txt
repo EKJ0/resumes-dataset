@@ -1,0 +1,198 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+
+* 14+ years of technology services experience including global clients like Westpac, GE, Suncorp, AIB and NAB.
+
+* Working as Technical Lead cum Consulting Manager on One Bank Platform (New Lending Origination Platform) for Westpac, St George,
+Bank of Melboume & Bank SA catering to more than 5000+ bankers & brokers on the system.
+
+* Proven track record of delivering successful solutions for clients using Oracle Fusion & Java applications for over 10 years.
+
+* Expertise in leading and managing a team of developers to deliver high-quality solutions on time and within budget.
+
+* Extensive understanding of Oracle Banking Platform and third-party integrations
+
+¢ Worked as the technical architect for the General Electric — Oracle HR development team with a client-facing role for effort estimation of
+new projects, delivery and RTS changes.
+
+* Skilled in analyzing complex business requirements and designing innovative and effective solutions to meet them.
+
+¢ Experience in working with stakeholders at all levels, including business users, executives, and IT teams.
+
+* Strong communication and presentation skills, with the ability to clearly articulate technical concepts to non-technical stakeholders.
+
+* Proficient in using Oracle development tools such as Oracle Application Development Framework (ADF), Oracle SOA Suite, Oracle
+Developer Cloud Service and Oracle Fusion Middleware.
+
+* Keen understanding of industry best practices and standards, including Agile development methodologies, ITIL, and ITSM.
+
+* Accomplishments in creative problem-solving and cost-effective improvements in process and quality.
+
+« Extensive experience in the Banking and Financial sector which includes Loan Origination, Settlement and Servicing processes.
+
+EXPERIENCE
+
+10/2020 to Current CONSULTANT
+Parametric Technology Corporation — Foster City, CA
+* Currently working for Westpac in Customer Service Hub project — One Bank Platform (New Lending Origination
+Platform) as Consultant Manager & Technical Lead catering to 5000+ bankers & brokers on the system. Extensive
+understanding of Oracle Banking Applications including third-party integrations.
+* Leading a team of developers, providing guidance and support in designing and developing solutions using Oracle
+Fusion applications.
+« Formulated and define systems scope and objectives for complex high-impact application enhancements and problem
+resolution through in-depth analysis and evaluation of complex business processes, systems, and industry standards;
+documents requirements.
+« Analyzing and gathering requirements from stakeholders to understand business needs and identify the appropriate
+solutions.
++ Designing and developing solutions using Oracle Fusion applications to meet business requirements, ensuring that
+they are scalable, maintainable, and adhere to best practices.
+* Collaborating with other teams, such as project managers, developers, and quality assurance, to ensure successful
+delivery of projects.
+* Identified risks, vulnerabilities, and security issues; communicated impact; proposed risk mitigation options.
+* Solved complex customer issues using methodical troubleshooting based on expert knowledge of Oracle Banking
+Platform
+« Embedded and improved an agile and continuous delivery way of working.
+* Conducting code reviews to ensure that the team is adhering to coding standards and best practices.
+* Developing and maintaining documentation related to the solutions, such as design documents, technical
+specifications, and user manuals.
+Participating in the testing and quality assurance process to ensure that the solutions meet the desired quality standards.
+
+11/2018 to 10/2020 Software Development Associate Manager
+Electric Reliability Council Of Texas — Taylor, TX
+* Worked for Westpac project in CSH OBP Release Change (Development Team) as Onshore Manager catering to
+5000+ bankers & brokers on the system. Extensive understanding of Oracle Banking Applications including third-party
+integrations
+¢ Driven team towards self-sufficiency from ground zero to current state wherein more than 90% of the development
+work is carried through Agile Methodology and completed in due time
+¢ Ensured consistent MTTR for complex issue resolutions below 1.5days (Group Tech SLA being 7 days and Buss SLA
+being 2 days)
+* Technical lead for the Westpac development team with a client-facing role for estimation, RTS changes, deliverables,
+and project risk management using agile best practices.
+* Provided thought leadership and championship in process improvement to automate, standardize, and document app
+development tasks
+* Developed health monitoring alerts and dashboards on AppDynamics, Splunk & Atemity for proactive monitoring and
+assessment & prioritization
+* Maintained effective relationships with core and extended program team members, peers, senior stakeholders, and
+business managers
+
+04/2015 to 11/2018 Software Development Associate Manager
+General Electric — City, STATE
+* Worked as Technical Architect (& Project Lead) for GE OHR development team in a multi-vendor agile development
+environment.
+* Conducted deep dive architectural review of critical HR Data Management application and worked towards short-long
+term improvement of application thereby improving performance by 30%
+* Worked on multiple quarterly/monthly releases as part of engagement and delivered on various complex use cases.
+* Worked closely with the client’s Security compliance team to achieve adherence to ISO Principles and guidelines.
+* Collaborated with Principal Architects to ensure ADF application and architecture alignment with high-quality output
+conforming to corporate IT standards and roadmaps.
+* Led a team of developers and technical leads across multiple vendors being a single point of contact for client
+* Designed automated code compliance process for ADF and SOA projects.
+* Designed WebLogic monitoring framework and migration strategy using WLST, ADF, and JAVA.
+* Designed Jenkins pipelines for continuous integration and DevOps for SOA and OSB.
+
+11/2008 to 04/2015 Senior Application Developer
+Oracle Financial Services Software Limited — City, STATE
+© Worked on In-house Banking Product “Oracle Banking Platform” for releases developed and implemented across
+the globe for NAB, Suncorp, AIB & U-Bank
+
+© Oracle Banking Platform Product Releases (Nov 08 — Apr 15)
+Was part of OBP Product development during this timeframe. Worked for the most part in the Loans, Origination &
+Content module. Worked in the delivery of features like Account Configuration, Settlement Pay-out, Loan Serve,
+Repayment, Partial Payoff, Redraw, EFS, etc.
+OBP Version 4.0 (R2.3): Worked on Internal Refinance functionality across account configuration & settlement
+pay-out, any-day reversal and major UX changes across the board were the highlight of this release
+OBP Version 3.0 (R2.2): Back-Dated transaction support as required for Suncorp bank. Developed Manage Loan
+Account (Loan Serve) which had the entire loan transactions clubbed into one screen with the handling of
+authorization & security configured in it.
+OBP Version 2.0 (R2B): Involved in the development of a fully functional loan module integrated with Origination.
+e-pricing, LCM, Collections, Asset Classification, and other modules. Designed approach for Complex loan use
+cases such as integration with Interest module, schedule generation, and calculation, overdraft to term loan
+
+creation, arrears and appropriations, settlement pay-out, etc. Designed & developed whole account creation flow
+(very Complex) and disbursement flow using Oracle ADF.
+
+OBP Version 2.0 (R2A): This release involved the addition of CASA, TD modules, and some new features in the
+Loans Module-specific to NAB. Integration of inter-module communication. Involved in Integration with other
+modules like Content, Pricing. Interest and accounting, Settlement, Demand deposits, etc. Designed various Task
+flows, Templates & Declarative Components in Oracle ADF.
+
+OBP Version 1.0 (R1): This release involved Further customization of 3.2 Flex Cube to 4.0 (Loans Module) and
+some new development specific to NAB. Developed API for Redraw and repayment transactions. Developed the
+UI for both. Exposure to Oracle’s ADF framework. Created various Junit test cases.
+
+Oracle FlexCube 3.2 (AIB): The business logic of the previously present lending module was procedure based. The
+team worked to rewrite the business logic in JAVA, using hibernate. This change transformed the module into an
+easily maintainable, database-independent, and less complicated design. This involved integration of newly
+reengineered loan modules with already existing products.
+
+SKILLS
+¢ Java (J2SE) & Hibernate Framework, Java Design patterns © WebLogic, Tomcat, IBM console, Websphere MQ
+e Oracle ADF, Service Oriented Architecture, Oracle Service Bus, © Eclipse 3.x, Oracle JDeveloper
+Web Services, JackBe Presto & Cloud technologies e Atemity, Splunk & App Dynamics, Batch/Shell scripts, SVN.
+¢ HTML, Java Script, JSON, XML, Angular JS, HTML5, CSS3 Log4J, ANT. Quest Central, Bit Bucket, Jenkins, WLST Scripting
+© Oracle 10g/11g & 12c, IBM DB2, OID, OAAM, BIP, NetIQ.
+LDAP
+ACCOMPLISHMENTS
+
+Multiple Leading Change Awards for FY21/22, Westpac Bank
+
+© Consecutive Performing Awards for FY20/21/22, Westpac Bank
+
+“FY19 Q2 Accenture Celebrates Excellence” award for outstanding performance
+
+© Consecutive "Distinctive Achievement' recognition, Accenture (General Electric) for Nov2016, Nov2017
+Received multiple client appreciations from Westpac End
+
+e “Extra Miler” Award, Accenture (GE)—June 2017
+
+e Awarded with ‘Automation and Innovation Expert’ for June2017-18 by Accenture.
+
+CERTIFICATIONS
+
+Oracle SOA Suite 11g Certified Implementation Specialist Certification
+Oracle ADF 11g Certified Implementation Specialist Certification
+Oracle OSB 11g Certified Implementation Specialist Certification
+Process: Agile Delivery Foundation
+
+Sun Certified Java Developer Certification (SCJP)
+
+ITIL Foundation Certification
+
+ITIL 2011 Certificate in IT Service Management
+
+Digital: Cloud Computing (General) Foundation
+
+ASCENT- The Foundation for your Leadership Journey
+
+EDUCATION AND TRAINING
+
+05/2008 Bachelor of Engineering: Electronics And Tele-Communication
+RIMNU University - India
+
+04/2004 High School Diploma
+Kendriya Vidyalaya No.1 - Bhopal, India
+
+04/2002 Secondary School Certificate
+Bishop Cotton School - Nagpur, India
+
+LANGUAGES
+English: Hindi:
+Negotiated: Negotiated:
+Marathi:
+Negotiated:
+
+ADDITIONAL INFORMATION
+
+© Marital Status : Married
+
+© Date of Birth : 26th May 1986
+
+¢ Nationality : Indian
+
+« Passport : R7033842
+
+e Visa : Bridging Visa A for Subclass 190 (Skilled Nominated PR)

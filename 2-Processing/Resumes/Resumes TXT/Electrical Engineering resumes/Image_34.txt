@@ -1,0 +1,148 @@
+Electrical Engineer
+
+James Taylor
+
+e Possessing a deep understanding of
+circuit analysis, programming
+experience in several computer
+languages, hands-on hardware
+proficiency of implementation,
+knowledge of communication
+protocols, such as I2C, SPI, and UART.
+
+e Proficient in architecting software For
+embedded systems using LabVIEW.
+
+e Highly knowledgeable in the physical
+operation and programmability of
+PLCs and SCADA systems.
+
+e Holding expertise in the diagnosis,
+analysis, and successful
+troubleshooting of myriad
+technologies.
+
+e C, C+: Knowledge of basic
+programming language C, C+.
+
+© MATLAB 2013: Knowledge of a
+circuit implementation on Simulink.
+
+e Microsoft Office: Have a grip on
+Microsoft Word, Excel, PowerPoint.
+
+* Proteus 8.0: Complete
+implementation and execution of an
+electrical circuit.
+
+Software Skills
+
+e Linux e RSLogix
+
+® OrcAD e GEMstudio
+
+e Altium e VirtualBox
+
+e PSpice e Unity Pro XL
+
+e Electric e Visual Studio
+
+e LTSpice e Windows OS
+
+e Hyper-V e Wonderware
+
+e VMware e Microsoft Office
+© Quartus e ISE Design Suite
+
+Programming Languages
+
+eR e Python
+
+eC e Verilog
+cH e Arduino
+
+© C++ e MATLAB
+
+e SQL e LabVIEW
+
+e Julia e Ladder Logic
+e VHDL
+
+e Movies
+© Badminton
+e Reading Articles
+
+Work Experience
+
+Electrical Engineer (Hardware and Software 2015-05 - Present
+Development)
+
+E.ON.
+
+e Developing diagnostic software and testing procedures for Laser Doppler Velocimetry.
+
+e Performing debugging and failure analysis of fiber optical products from multiple
+manufacturers.
+
+e Prototyping instruments used in experiments containing Micro Electro Mechanical
+Systems (MEMS) Matrix Optical Switches, Erbium-doped Fiber Amplifiers (EDFA), Dense
+Wavelength Division Multiplexing (DWDM), Optical Switch Circulators, Beam Splitters,
+Optical Attenuators, Nanosecond Pulsed Laser Diodes, and Tunable Lasers.
+
+e Facilitating research for alternative software architecture used in embedded systems.
+
+e Utilizing LabVIEW and other programming languages to develop complete solutions for
+the automation of diagnostic software for optical and electrical components.
+
+e Collaborating with a National Laboratory to review and suggest best practices for
+control system software development used for Broadland Laser Ranging Systems.
+
+e Creating HMIs and automating procedures with Programmable Logic Controllers (PLC)
+and Supervisory Control and Data Acquisition (SCADA) systems for Shock Physics
+Experiments that require highly accurate timing and Firing.
+
+Assistant Electrical Engineer 2010-05 - 2015-04
+Iberdrola
+
+e Worked on electrical equipment (temperature and pressure sensors, valves, the
+actuator (ASAC 70), etc) on these engines.
+
+e Worked on relays, contactors, MCCB breakers, performed tests for motor proper
+
+working.
+
+Completely familiar with the governor mechanism in controlling the output power of
+
+generator, voltage maintaining, generator synchronization with National Grid,
+
+generated different working modes, and loaded management according to the
+
+situation.
+
+Monitored operated parameters and recorded operated data including electrical
+
+generation, pressures, temperatures, vibration indications, alarms, and other
+
+information related to the safe operation of the powerhouse equipment.
+
+Responsible for startup, normal operation, load management and handling of various
+
+emergencies during the operation of the Unit.
+
+e Maintained daily logs of operation, maintenance and safety activities.
+
+e Investigated and reported accidents.
+
+Maintenance Engineer 2006-03 - 2010-04
+
+Avo Electrical Engineering Services
+
+e Installed cameras security.
+e Fixed problems of laptops, tablet, office PC.
+e Fixed problems of imprimantes (Canon , Epson, Brother, Kyocera).
+
+Master of Sciences in Engineering, Electrical Engineering 2004-2006
+Massachusetts Institute of Technology
+
+Bachelor of Sciences in Engineering, Electrical Engineering 2000 - 2004
+Massachusetts Institute of Technology

@@ -1,0 +1,223 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Diverse experience in IT industry with emphasis on ETL Development, Data Modeling, Data Analysis and SQL Development. Worked on
+multiple domains like Data Integration, Data Mining, and Database Security industries across various clients. Currently working on Informatica
+Power Center tools- Designer, Repository Manager, Workflow Manager, Workflow Monitor. Enhanced in transforming SSIS packages from
+different sources to destination servers. Above 4 years of total IT experience in Data Analysis, System Application Analysis, Data Architecture,
+and Development, Testing and Deployment of Business Intelligence using Data Warehousing and Database Business Systems in the areas of
+banking and insurance Industries. Strong Experience in Data Analysis, Data Cleansing, Data Validation, Data Verification, and Identification of
+Data Mismatch. Excellent Software Development Life Cycle (SDLC) with good working knowledge of testing methodologies, disciplines,
+tasks, resources, and scheduling. Experience in designing Data marts, Star Schema, Snowflake Schema for Data Warehouse concepts like ODS,
+MDM architecture.
+
+SKILLS
+------
+
+- Data Extraction, Transformation and loading data using Informatica.
+
+Proficient in writing complex SQL queries, stored procedures, normalization, database design, creating indexes, functions,
+
+triggers, and sub-queries.
+
+Created reports for the users using Tableau by connecting to multiple data sources like Flat Files, MS Excel, CSV files, SQL
+Server, and Oracle.
+
+Extensively used V-LOOKUP's, Pivot tables and Excel functions, also created Pivot graphs, reports and dashboards.
+
+- Configured Power BI dashboards and reports.
+
+- Experience working in teams, Agile/Scrum development environment.
+
+Good command of Business Intelligence (BI) tool Cognos.
+Excellent knowledge in creating Databases, Tables, Stored Procedures, DDL/DML Triggers, Views, functions, and Indexes
+using T-SQL.
+
+- Experience with Data Extraction, Transforming and Loading
+
+(ETL) using various tools such as Data Transformation Service (DTS), SSIS.
+
+Good Knowledge of Business Intelligence, OLAP, Dimensional modeling. Star and Snowflake schema extraction, transformation
+and loading (ETL) process.
+
+Strong working knowledge of Oracle, SQL, PL/SQL, Teradata, DB2?, Flat Files, MS Access and Sybase.
+
+Good in analysis, requirements gathering, design. development, implementation, and management of full lifecycle data warehouse
+projects. Databases
+
+SQL Server 2014/2012, Teradata V2R5, Oracle 11g/10g, DB2, Sybase, MS Access, UNIX, Windows XP/NT.
+
+- Tools
+
+MSBI, PL/SQL, Informatica Power Center 8.x/7.x, SSIS, T-SQL, SharePoint, Visio, Tableau.
+
+- System Aspects
+
+Data Modeling (ER & Dimensional), Database Design, Requirement Analysis, Object Oriented Design, Development,
+Testing, Data Mapping. Metadata Management, Master Data Management, Data Profiling, Documentation, Project
+
+Management.
+- Languages PL/SQL, Java, C, C++ Microsoft Word and SPSS for Windows. Well-developed skills in data populating.
+- COMMUNICATION:
+
+Excellent written and verbal communication skills.
+Confident, articulate, and professional speaking abilities (and
+
+experience).
+
+Empathic listener and persuasive speaker.
+- Writing creative or factual.
+
+Speaking in public, to groups, or via electronic media.
+
+Excellent presentation and negotiation skills.
+
+WORK EXPERIENCE
+---------------
+
+Informatica ETL / SQL Developer, 02/2017 - Current Gep - Chicago, IL
+- Working on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, Workflow Monitor, Business glossary, Informatica Lineage, DVO Analyzing customized package, PL/SQL code provided by Informatica to provide a solution for Lineage
+
+automation.
+
+Converting the store Procedure to ETL using Informatica.
+
+Created the Incremental Aggregated Transaction Fact.
+Used Type 1, Type 2 SCD mappings to update slowly Changing Dimension Tables.
+
+Involved in Performance tuning at source, target, mappings, sessions, and system levels.
+
+Prepared migration document to move the mappings from development to testing and then to production repositories.
+
+Using various transformations like Filter, Expression, Sequence Generator, Update Strategy, Joiner, Stored Procedure, Union and SQL
+transformation to develop robust mappings in the Informatica Designer.
+
+Process the data load by using the ETL tool Informatica, which is grouped into 4 batches of initial load to the staging area, initial load to
+the facts and dimensions, incremental data from source systems to the staging area and incremental load from staging to the fact and
+
+dimensions, and few independent sessions.
+
+Creating SSIS Packages using Pivot Transformation, Fuzzy Lookup, Derived Columns, Condition Split, Term extraction, Aggregate,
+
+Execute SQL Task, Data Flow Task, and Execute Package Task etc.
+
+- To generate underlying data for the reports and to export cleaned data from Excel Spreadsheets, Text file, MS Access and CSV files to the data warehouse.
+
+- Created sessions, configured workflows to extract data from various sources, transformed data, and loading into data warehouse.
+
+Creating shared dimension tables, measures, hierarchies, levels, cubes and aggregations on MS OLAP/ Analysis Server (SSAS).
+
+Generating periodic reports based on the statistical analysis of the data from various time frame and division using SQL Server Reporting
+Services (SSRS).
+
+Creating SSAS OLAP Cubes and Partitioning Cubes, monitored and full and incremental load using cube wizard.
+
+Gathering functional and non-functional client requirements in order to optimize the design of BI deliverables (reports, dashboards, alerts,
+visualizations).
+
+Designing and developing SSIS Packages for loading data from text files, CSV files to SQL Server databases using SSIS.
+
+- Environment: Informatica Power Center 8.6 (Repository Manager, Designer, Workflow Manager, Workflow Monitor), OBIEE 10.1.3.4 SQL Query Analyzer 8.0, Oracle 10g/11g. MS SQL Server, SQL Developer, Windows, Unix/Linux, putty.
+
+SQL MSBI Developer, 11/2017 - 02/2018 Amazon.Com, Inc. - Maple Grove, MN
+- Designing conceptual, logical & physical data models, data dictionaries and metadata repositories.
+- Working with the Project Management team to prioritize business, information and reporting needs.
+- Working with Enterprise Data Architects to drive acceptance of an enterprise view of data and its use.
+
+Coordinating with DBA's in creating and managing Tables, Indexes, and Table spaces, Sequences, Views and Materialized Views.
+
+Generating DDL scripts using Forward Engineering technique to create objects and deploy them into the databases.
+
+- Partnering with the Data Governance and other data committees to ensure to implement common vocabulary and understanding of business entities and relationships between entities.
+
+Providing thought leadership in the areas of advanced data techniques, including data modeling, data access, data integration, data
+visualization, text mining, data discovery, statistical methods, database design and implementation.
+
+Developing and documented data requirements and design specifications in the form of data models, data mappings and data quality
+metrics.
+
+- Mapped out structure and organization of the relevant data for Aflac.
+
+- Working with internal customers and business units to understand the business requirements and business processes to design data warehouse schemas and define extract-translate & load (ETL) processes for data teams.
+
+Assisting with the analysis, design, development and implementation of logical data models, physical database objects, data conversion,
+
+integration, and loading processes, query and reporting functions, data management and governance and data quality assurance processes.
+
+- Working in collaboration with the Data Analysts & ETL developers to provide source to target ETL requirements and ensured efficient transformation and loading.
+
+- Assisting in maintaining and enhancing the metadata infrastructure, the data dictionary and business metadata, and facilitate publishing the
+
+information to the business and technical communities.
+
+Partnered with the business to create the appropriate business rules for data usage.
+- Environment: Informatica PowerCenter 9.5.1, Oracle, Windows 7, IDQ. SQL Developer 2005, UNIX, PL/SQL, Autosys, Business Objects, AIX, SVN, Tidal, Wave Analytics.
+
+SQL BI Developer, 06/2013 - 11/2014 Web Drills - City
+- Determine the appropriate research projects, data collection, and methodologies.
+- Identify, retrieve, manipulate, relate and/or exploit multiple structured and unstructured data sets from various sources, including building of generating new data sets as appropriate.
+
+Demonstrated leadership and adaptability, with a willingness to readily and voluntarily take ownership of challenging task and problem,
+
+even beyond the initial scope of responsibility.
+
+Thorough analytical skills, with the capability to apply data mining, text analytics, and optimization skills to solve business problems.
+
+Improve our bidding strategy technology (e.g., more accurate and efficient price, volume, and auction-rate estimation) Design and building
+
+tools for scaling campaign management, including automation.
+
+Design methodology for extracting user insights for location data.
+Develop & maintains expertise with MSBI tools including Excel/PowerPivot, SSIS, PerformancePoint, SSAS & SSRS.
+Analysis of large volumes of transactional data to speed collection cycles and identify operational opportunities.
+
+Have to use advanced programming skills in Java, Python or any of the major languages to build software solutions/services, including
+robust data pipelines and dynamic systems.
+
+Environment: Oracle 10g/91/81/7_x, MS SQL Server, UDB DB2 9.x, Teradata, Quality Center, SQL Queries., Siebel Analytics, Oracle BI,
+UML, OLAP, Teradata SQL Assistant, DBMS.
+
+Jr. Software Developer, 12/2010 - 03/2013 Web Drills Pvt. Ltd - City
+- Expertise in Java/J2EE development, and use related technologies/frameworks to develop and optimize applications.
+- Will perform relation database development employing Oracle or PL/SQL Provide strong Big Data design, development and coding expertise on large, complex projects.
+
+Design, code, and unit-test application code using software development life cycle (SDCL) best practices.
+
+Design, develop, debug and support complex data integration interfaces and processes (Including stored procedure and queries) using
+various tools and technologies including SSIS, SSAS, SSRS, T-SQL. MSBI, SQL Server technology.
+
+- Complete estimates and work plans collaboratively for design, development, implementation, and rollout tasks.
+
+Create technical system documentation and ensure that this documentation remains current throughout all phases of the SDLC.
+
+To be able to work with Business Users, understand the requirement and convert into Technical Design.
+
+Responsible for coordinating design, code reviews.
+Environment: C#, NET, WPF, Windows Forms, MS SQL Server, MS Access, XML, Entity Framework.
+
+EDUCATION
+--------- Master's: Computer Information Systems Computer Information Systems Bachelor's Degree: Computer Science Engineering
+Computer Science Engineering
+
+SKILLS
+------
+
+NET, Agile, ATX, analytical skills, articulate, automation, Big Data, BI, Business Intelligence, Business Objects, business processes, C, C++,
+Cognos, client, customer service, data collection, data conversion, data dictionary, data integration, Data Management, data mining, Data
+Modeling, DTS, Data Transformation Service, data visualization, data warehouse, DBA, Databases, database, database design, database
+development, DBMS, Designing, dimensions, DML, Documentation, ETL, XML, Forms, frame, functional, graphs, DB2, DB2 9.x,
+Informatica, J2EE, Java, leadership, team-building, Linux, managing, access, MS Access, C#, Excel Spreadsheets, MS Excel, Excel,
+SharePoint, Windows 7, Windows, NT, Windows XP, Microsoft Word, migration, modeling, negotiation, Enterprise, Object Oriented Design,
+OLAP., optimization, Oracle, Developer, PL/SQL, persuasive, Pivot tables, processes, coding, programming. Project Management, speaker,
+Speaking, Python, Quality, quality assurance, reporting, Requirement, requirements gathering, research, scaling, Scrum, SDLC, scripts, Siebel,
+software development, SPSS, MS SQL Server, SQL, SQL Server, staff development, statistical analysis, Strategy, structured, Sybase, system
+documentation, Tableau, Tables, Teradata, T-SQL, Type 1, Type 2, UDB, UML, UNIX, verbal communication skills, view, Visio, Workflow,
+Excellent written
+
+ADDITIONAL INFORMATION
+
+- Ability to handle and interact with Business users, collect, and analyze business/functional requirements. Willing to relocate: Anywhere Authorized to work in the US for any employer.

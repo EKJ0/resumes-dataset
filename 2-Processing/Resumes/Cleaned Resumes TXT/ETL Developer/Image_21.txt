@@ -1,0 +1,45 @@
+ROBERT SMITH Senior ETL Developer I
+
+E-mail: info@qwikresume.com Phone: (0123)-456-789
+
+Senior E11. Developer I with over 11 years of total IT experience and Technical proficiency in the Duta
+Warehousing teamed with Data Analysis, B1, Data Modeling, and ETL Development &amp: ETL Design
+with full lite cycle Implementation of Data Warehouse. Involved in the clirect interaction with the clients.
+Strong knowledge and experience in various sectors like banking, finance, healthcare, pharmacies, and
+Insurance. Involved in building the logical and physical models.
+
+ETL. Tool: Informatica 9.x/8.x, IDQ. MDM (Power Center/Power Marl/Power Exchange/SSIS) Languages:
+SQL, PL/SQL. SQLPlus. Databases; Oracle SQL. Server 7.0, 2000, 2008, DB2, Teradata, Tera Data
+Utilities, ERP System OLAP Tools: SSRS SQL. Tools: SQL Developer, TOAD, SQLPLUS, SQLLoader.
+Office Tools: MSOffice. MS Project. Operating Systems: Windows, UNIX, Linux, Sun Solaris.
+
+WORK EXPERIENCE
+---------------
+
+Senior ETL Developer I
+Centers For Medicare & Medicaid Services - April 2009 - April 2017
+
+Involved in the development of ETI, packages or newly built data mart by using SSLS.
+Addressed the issues related to &quet:834 benefit enrolment &amp; maintenance transactions&quot;. Improvement of existing process and implementation of new ETL design.
+
+- Designed and implemented a data schedule and time-code data from the different entities and processing the data to provide a unified view of the platform (conformed dimension).
+
+- Supported and implemented appropriate HIPPA standard compliance consolidate redundant
+operational process using EDI and up gradation from 4010 to 5010 and maintenance of upfront
+application for research analyses between b2b. Platform (conformed dimension).
+
+- Developed [DQ standardization mappings according to rules using IDQ transformations and address validators accelerators,
+
+Involved in building the logical and physical models for cimensional modeling projects.
+Loaded the interacting with chents to gather requirements on cleansing rules and duta remediation.
+
+ETL Developer
+ABC Comp - 2006 - 2009
+
+- Designed and developed mapping, transformation logic and processes in Informatica for implementing business rules and standardization of source data from multiple systems into the data warehouse.
+
+- ‘Tested all HPPA transactions for multi-version suppert (4010 and 5010) and validated the database to file clements.
+
+- Researched the existing chent processes and guided the vendors in aligning the HIPAA compliance output with the client systems.
+
+- This Knee Resume. Tomplate + the copyright of Qwikresume.crn, Usage Cmidelines

@@ -1,0 +1,75 @@
+Robert Smith CONTACT DETAILS
+
+1737 Marshwille Road,
+Alabama
+
+Senior Sql Developer (123)-456-7899
+info@qwikresume,com
+www.qwikresume.com
+
+PERSONAL STATEMENT
+
+8+ Years of Professional experience in Data Design, Development MS SKILLS
+
+SQLBI Server [] R2/2012 database developer, design, creation, Transact-SQL, Microsoft
+
+maintenance and Implementation of project requirements for Data SSIS, Microsoft SSAS,
+
+Modeling Data Management. Hands experience installing, configuring, Microsoft SSMS.
+
+managing, upgrading migrating, monitoring troubleshooting SQL Server [] .
+
+RQ. Microsoft SSRS, Microsoft
+SQL Server, Oracle,
+PL/SQL, Stored
+
+WORK EXPERIENCE Procedures And THggers,
+
+Senior Sq! Developer oe
+
+United HealthGroup - June 2014 - 2020 om:
+
+Re sponsibilities:
+* Roles &amp; Responsibilities Actively participated interactions with LANGUAGES
+pe tearn lead, DBAs technical manager fully understarid English (Native)
+Auiceniarts aysteth; French (Professional)
+* Migrated DB2 database and properties to Microsoft SQL Server 2008 R2. Spanish (Professional)
+= Included converts columns, definitions-data types, default values, NOT
+NULL constraints, identity properties by using SQL Server Integration
+Services. INTERESTS
+= Extracted data from DB2 tables to capture all changes made underlying Climbing
+DB2 tables. Snowboarding
+= Created an incremental loading solution of DB2 tables Into SQL Server Cooking
+Database using SSIS. Reading
+« Loaded of tables from DB2 to SQL Server performed every night across
+multiple systerns.
+* Used Sub queries, joins, CTEs and Analytical functions for data retrieval. REFERENCES
+Reference - 1 (Company
+Senior Sq! Developer Name)
+Delta Corporation - 2013 - 2014 Hrlal - 2 (Company
+
+Re sponsibilties:
+
+* Roles &amp; Responsibilities Integrated SQL Server 2008 R2 reporting
+services with MOSS (Microsoft Office Share Point Server) to
+automatically deliver reports to the Share Point portal;
+
+* Defined relationship between tables and enforcing entity referential
+Integrity,
+
+* Involved in Performance Tuning of Code using execution plan and SQL
+profiler and added Indexes to improve performance on tables.
+
+= Capturing error data in flat file using flat file destination, sending the
+error data In flat file attached to the corresponding mail ids using Sent
+Mail Task, and correcting error data,
+
+* Designed and developed efficient SSIS packages for processing fact and
+dimension tables using transformations like Fuzzy lookup, lookup,
+merge, merge join, script component and Slowly changing dimension
+Configured Server for sending autornatic mails to the respective people
+when a SSIS process failure or success,
+
+* Extracted large volurnes of data frorn various data sources and loaded
+the data Into target data sources by performing different kinds of
+© This Eree Resume Template is the copyright of Qwikresume. com. Usage Gukielines

@@ -1,0 +1,206 @@
+SUMMARY
+
+SKILLS
+
+EXPERIENCE
+
+EDUCATION AND
+TRAINING
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Professional Summary
+
+- Over 7+ years of IT Experience in Database Design, Development and business intelligence of Microsoft
+SQL Server 2000/2005/2008 in Development, Test and Production Environments on various business
+domains like Financial, Insurance and manufacturing.
+
+- Hands on experience in installing, configuring, managing, upgrading and migrating, monitoring and
+troubleshooting SQL Server 2000/2005/2008 R2.
+
+- Expertise in SQL Server Integration Services (SSIS) and SQL Server Reporting Services (SSRS) with good
+knowledge on SQL Server Analysis Services (SSAS).
+
+- Experience in report writing using SQL Server Reporting Services (SSRS) and creating various types of
+reports like drill down, Parameterized, Cascading, Conditional, Table, Matrix, Chart and Sub Reports.
+
+- Experience in developing, monitoring, extracting and transforming data using DTS/SSIS, Import Export
+Wizard, and Bulk Insert.
+
+- Excellent in High Level Design of ETL DTS Packages & SSIS Packages for integrating data using OLE DB
+connection from heterogeneous sources like (Excel, CSV, Oracle, flat file, Text Format Data) by using multiple
+transformations provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert , Merge and union
+all.
+
+- Developing reports on SSRS on SQL Server (2000/2005/2008). Sound Experience and understanding of
+SSAS, OLAP cube and Architecture.
+
+- Experience in writing expressions in SSRS and Expert in fine tuning the reports. Created many Drill through
+and Drill Down reports using SSRS.
+
+- Excellent knowledge in creating Databases, Tables, Stored Procedures, DDL/DML Triggers, Views, User
+defined data types, functions, Cursors and Indexes using T-SQL.
+
+- Great ability to create and manage various database objects like tables, views.
+
+- Worked Extensively on ETL process using SSIS package.
+
+- Experience in Data Conversion and Data Migration using SSIS and DTS services across different databases
+like Oracle, MS access and flat files.
+
+- Experience in using T-SQL in SQL Server 2000/2005 and 2008 platforms.
+
+- Experience in Performance Tuning and Query Optimization.
+
+- Well versed in Performance Point Server 2007. Designed Dashboards, Scorecards and reports using
+multiple KPI's, OLAP charts and SSRS Reports with PPS.
+
+- Experience in maintenance and Administration of SSIS by creating Jobs, Alerts, SQL Mail Agent, and
+schedule DTS/SSIS Packages.
+
+- Experience in SQL Server DTS and SSIS (Integration Service) package design, constructing, and
+deployment
+
+- Transformed data from one server to other servers using tools like Bulk Copy Program (BCP), Data
+Transformation Services (DTS) and SQL Server Integration Services (SSIS)
+
+- Experience in creating packages to transfer data between ORACLE, MS ACCESS and FLAT FILES to SQL
+SERVER using DTS/SSIS.
+
+- Expert in creating Parameterized Reports.
+
+- Hands on experience in Creating Star Schema and Snow Flake Schemas.
+
+- Excellent analytical, communication and interpersonal skills. Proficient in technical writing and presentations
+and a good team player.
+
+- Ability to work independently or as part of a team to accomplish critical business objectives and to make
+decisions under pressure.
+
+« TECHNICAL SKILLS e Programming: SQL, T-SQL, PowerShell, and
+« Database: SQL Server 2019, SQL Server 2014, VBScript
+2012, and 2008R2/2008 « Operating System: Windows Server
+e ETL Tools: SSIS, DTS, BCP 2016/2010/2008R2/2008/
+« Reporting: SSRS (SQL Server Reporting ¢ Tools and software: MS Office, Power Bi, Visual
+Services/Server) Basic
+SQL/BI DEVELOPER 08/2021 to CURRENT
+
+Neogenomics Laboratories | Houston, TX
+
+¢ Involved in planning, defining. and designing data and provided documentation
+¢ Worked closely with the business to analyze and consolidate request requirements to improve the
+decision planning process
+« Defined data requirements and report layouts for the business to review
+¢ Created user stories and scripts based on requirements
+« Generated parameterized reports, ad-hoc reports, sub reports, tabular reports using SSRS
+¢ Utilized Dataflow with multiple transformations for Incremental loads and truncate reloads
+¢ Created and modified SQL queries like Views, Functions, and Stored procedures
+¢ Maintained the table performance by following the tuning tips like creating index and applying best
+practices
+« Worked on SQL Server Integration Services (SSIS) to integrate and analyze data from multiple
+information sources
+¢ Experience in configuring and creating SSIS solution for ETL and business intelligence
+¢ Introduced SSRS to help the existing reporting process and designed and developed SSRS
+« Created parameterized reports and linked reports thorough knowledge of report server architecture
+using SSRS
+« Performed minor administrative duties creating folders, monitoring jobs and security related tasks
+e Leverage enterprise business intelligence tools, SQL queries and other tools to develop complex
+models and reports
+¢ Create functional / technical specifications to document design approach
+Environment: MS SQL Server2005/ 2008, SQL Server Integration Services (SSIS), SQL Server
+Reporting Services (SSRS), SQL Server Analysis Services (SSAS), MS Visual Studio.NET# 2008, TFS
+(SharePoint), Visual Basic6.0/VB.net, VB Script and Windows 2008 Server.
+
+PC VER Bi DEVELOPER 02/2018 to 07/2021
+Geico Insurance | Champaign, IL
+
+« Developed Power BI model used that used in creating reporting
+
+« Designed and documented the entire Architecture of Power bi
+
+¢ Expertise in writing complex DAX functions in Power BI and Power Pivot
+
+« Automated Power Query refresh using power by using parameter
+
+e Used various sources to pull data into Power BI such as SQL Server
+
+¢ Installed and configured Enterprise gateway and Personal gateway in Power bi service
+
+¢ Created Workspace and content packs for business users to view the developed reports
+
+¢ Scheduled Automatic refresh and scheduling refresh in power bi service
+
+¢ Worked on all kind of reports such as Yearly, Quarterly, Monthly, and Daily
+
+¢ Worked on all types of transformations that are available in Power bi query editor
+
+« Created stored procedures and SQL queries to pull data into power pivot model
+Environment: MS SQL Server 2012/2008, SQL Server Integration Services (SSIS), SQL Server
+Analysis Services (SSAS), SQL Server Migration Assistant (SSMA), Oracle 11G, SQL Profiler, T-SQL,
+Power Bi Desktop, Power Bi pro, Visual Studio 2010, HTMLS5, Java Script.
+
+SGO/POWER BI DEVELOPE 05/2016 to 01/2018
+Citizens Bank | City, STATE
+
+¢ Import data from different data sources to create Power BI reports and Dashboards
+
+¢ Experience in developing Reports, Charts, Dashboards using Power BI Desktop and manage security
+based on requirements
+
+¢ Transform, define, navigate the data from data source and performed merge and append queries using
+Power Query
+
+¢ Implemented complex query techniques of passing multi-valued parameters and cascading parameters
+in MDX
+
+« Performed transformations like Pivoting, Unpivoting and Splitting of the columns using Power Query
+
+e Created different chart types and drill down reports using Power Bi Desktop (SSRS)
+
+e Involved in defining report layout in SSRS
+
+¢ Created measures, calculated columns, relationships and performed time series analysis using DAX in
+Power BI
+
+¢ Published reports and visualizations to Power BI Service and thereby created dashboards
+
+¢ Created hierarchies in Power BI reports using visualizations like Bar chart, Line chart, etc
+
+¢ Worked with both live and import data into Power BI for creating reports
+
+¢ Managed relationship between tables in Power BI using star schema
+
+e Used different type of slicers available in Power BI for creating reports
+
+e Experienced in creating many dashboards by pinning many visualizations in the workspace as per the
+insights provided
+
+e Experienced in Data Modeling used to define and analyze data requirements needed to support the
+business processes within the scope of corresponding information systems in organizations
+
+e Used Power BI Gateways to keep the dashboards and reports up to date
+
+¢ Experience in developing several Details, Summary reports including line and pie charts, trend analysis
+reports and sub-reports per business requirements
+
+¢ Experience in generating on-demand and scheduled reports for business analysis or management
+decision
+
+e Used recently introduced Power BI to create self-service BI capabilities and use tabular models
+
+e Responsible for creating and changing the visualizations in Power BI reports and Dashboards on client
+requests
+
+« Shared the created workspace across the organization using PowerB!I Apps
+
+e Responsible for creating Row-Level Security (RLS) based on the business requirements
+
+Environment: Power BI, DAX, Power BI Gateway, Power BI Apps, MDX, MS SQL Server
+2016/2014/2012/2008 R2, MS Excel, JSON, Windows 8/10, JIIRA, SSRS, SSAS
+
+Associate | Applied Science Database
+Georgia Piedmont Technical College, Atlanta, GA
+
+Ce_tificate in SQL Server Database

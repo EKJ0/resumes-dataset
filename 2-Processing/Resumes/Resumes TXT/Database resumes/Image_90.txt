@@ -1,0 +1,48 @@
+DARREL KUHLMAN
+
+7964 Dede Highway, San Francisco, CA
+
+PHONE
++1 (555) 944 4822
+
+EXPERIENCE
+
+Daugherty-Donnelly
+Detroit, MI // Senior Teradata Database Administrator // 08/2020 — present
+e Experience administrating MySQL
+e Experience with automation platforms (PowerShell, Python, R server, SQL, CLI, JSON)
+e Support DevOps team by providing routine OS, software, and application support
+e Track, version, deploy, and rollback database changes to production and development databases
+¢ Configure databases to meet cybersecurity requirements, ensure regulatory compliance, and adhere to database best
+practices
+
+Nikolaus Group
+Detroit, MI // IT Database Administrator // 06/2016 — 07/2020
+
+e Very strong analytical skills to identify problems root cause
+
+e Experience with Linux, Networking, Cloud Infrastructure (OCI/AWS)
+e Strong grasp of Computer Science concepts
+
+e BS or MS (preferred) in Computer Science, or equivalent experience
+e Advanced Linux scripting skill and commands
+
+e Experience with Java programming and support Java environment
+
+EDUCATION
+
+Lim College
+Bachelor's in Computer Science
+
+SKILLS
+
+e Experience with VMWare technologies and best practices on VMWare for SQL Server
+
+e Maintain commitment to professionally grow and share knowledge within the team
+
+e Strong experience in process automation, related 3rd party software, as well as in-house solutions
+e Experience with SAN best practices for SQL Server and in AWS
+
+e Experience working with MS Tech Support
+
+e Microsoft BI Stack tools including SSIS, SSRS, and SSAS

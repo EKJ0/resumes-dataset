@@ -1,0 +1,59 @@
+Contact Details
+
+© allanhills@gmail.com
+© (508) 001 6691
+
+© New Jayde, 38184, Texas
+
+Education
+
+@ Bachelor of Science in
+Computer Science
+University of California,
+Berkeley
+2017 - 2021
+
+Skills
+
+C# programming - Expert
+ASP.Net - Expert
+
+SQL Server - Expert
+
+MVC Framework - Expert
+.Net Core - Expert
+
+Web API - Expert
+
+Allan Hills
+
+Dot Net Developer
+
+Summary
+
+Experienced Dot Net Developer with 5+ years of developing and
+implementing web applications. Skilled in C#, ASP.NET, HTML, CSS, and
+JavaScript. Proven track record of successful projects.
+
+Work Experience
+
+Dot Net Developer, Shanahan - O'Kon
+March 2023 - Present
+
+e Developed web applications using ASP.NET, C#, and SQL Server.
+
+e Implemented user interface design using HTML, CSS, and
+JavaScript.
+
+e Assisted in the design and development of WCF services.
+
+Dot Net Developer, Deckow - Bode
+
+May 2021 - February 2023
+e Created stored procedures and functions in SQL Server.
+¢ Developed unit tests using NUnit and MSTest frameworks.
+e Developed and maintained web services using WCF.
+
+References
+
+References available upon request

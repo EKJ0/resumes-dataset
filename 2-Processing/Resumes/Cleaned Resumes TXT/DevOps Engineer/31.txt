@@ -1,0 +1,225 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Over 7 years of professional experience in full SDLC development involving requirements analysis, design, development, testing and
+implementation of various applications.
+
+Experience in Server infrastructure development on AWS Cloud, extensive usage of EC2, IAM, 83, EBS, Route53, ECS, VPC, Cloud
+Formation, Cloud Watch,Lambda,SNS, SQS,Cloud Trail, AWS Config.
+
+Build servers using AWS, importing volumes, launching EC2, RDS, creating security groups, Auto-scaling, Elastic load balancing
+(ELB) in the defined virtual private connection.
+
+Provisioning EC2 instances and have Experience on all resource areas of EC2 like Instances, Dedicated hosts, volumes, Key pairs,
+Elastic IP's, Snapshots, Load Balancers and Security Groups.
+
+Experience in Creating JSON templates in Cloud Formation to manage AWS resources.
+
+Experience with Ansible playbooks to automate the entire deployment process as well as the infrastructure.
+
+Experience in Ansible to manage AWS environments and automate the build process for core AMIs used by all application deployments
+including Auto scaling, and Cloud formation scripts.
+
+Managed Deployment automation using Packer-Docker and Terrafom involved in automated deployments of EBS on to the AWS
+Cloud Ec2 instance server and automated the complete deployment environment on AWS.
+
+Write Terraform scripts from scratch for building Dev, Staging, Prod and DR environments.
+
+Experience with Configuration Management/Automation tool Ansible and has worked on integrating Ansible YAML Scripts.
+Working expertise on all aspects of Ansible concepts like Control Node, Managed Nodes, Inventory, Modules, Tasks, Playbooks etc
+Experience in the configuration of the AWS SDK (Boto3), AWS-CLI.
+
+Good Exposure on Vagrant & Docker based container deployments to create environments for dev teams and containerization of
+environment delivery for releases.
+
+Experience with containerization and clustering technologies like Docker and Kubernetes.
+
+Used Docker to implement a high-level API to provide lightweight containers that run processes isolation and worked on creation of
+customized Docker container images, tagged and pushed the images to the Docker hub.
+
+Hands on experience in Open Shift containers, maintaining pods and managing Kubernetes in automating deployment, scaling and
+management of Containerized applications.
+
+Extensively worked with source code Version Control tools like SVN (Subversion), GIT, GitHub, Bitbucket.
+
+Expertise in using build tools like Ant, Maven and Gradle for the building deployable artifacts such as Jar, War, Ear and Zip extension
+files.
+
+Worked with Docker and Kubernetes on multiple cloud providers, from helping developers build and containerize their application (CI/
+CD) to deploying either on public or private cloud.
+
+Extensively worked on creating CI CD pipelines using Jenkins for building, validating and testing the Cloud formation templates,
+Ansible Playbooks.
+
+Implemented CI/CD process using CDP process for global development team, allowing for dozens of code updates per hour with zero
+downtime.
+
+Created CI/CD pipelines and setup auto trigger, auto build and auto deployment with the help of the CI/CD tool like Jenkins.
+Implementing new projects builds framework using Jenkins as build framework tools.
+
+Easily mingle with the newly evolved technologies in the market.
+
+Convenient with Agile Methodology Environment, Scrum Master.
+
+Good Knowledge of scheduling the task in Jenkins, Linux environment using Cron jobs.
+
+Pretty well knowledge on web servers like Apache and application servers like Web logic, Tomcat, WebSphere to deploy code.
+Configured the Jenkins file to schedule periodic jobs daily and report to the team in case of build failure.
+
+Rehydrate the AMI of the instances using Jenkins job in QA and PROD environments.
+
+Work experience on Web Sphere Data power. Message Queue.
+
+Have good knowledge of Banking Domain that makes me comfortable to understand the business and functional requirement of
+application.
+
+Having sound knowledge on every process of Datapower appliances like SSL certificate management, Raising ITSC request to
+procure SSL certificates, Domain backup and service flow.
+
+Enthusiastic to learn new technologies and work under pressure.
+
+Involved in functional and non-functional requirement clarification with business analysts.
+
+Worked on developing the Web Services, Multi-Protocol gateway, XML Firewall in DataPower.
+
+Familiar with AAA, SSL proxy profile, SLM.
+
+Security concepts (Single sign-on, digital signatures, encryption/decryption, PKI, SSL)
+
+Knowledge of Web Service standards (WSDL, SOAP 1.1, 1.2), XSD, XPATH, WSDL, XSL, and ESQL.
+
+Good exposure in Datapower X1I50, X152, IDG 7.6 development on requirement analysis, requirement gathering, Design, Build, Unit
+testing and implementation phases of the project.
+
+Troubleshoot and debug services using the problem determination tools, logs, and probes provided with the DataPower.
+
+Interested towards the new technologies which are raised newly in the market.
+
+SKILLS
+------
+
+DevOps Tools: Puppet, Chef, Ansible, Vagrant, Docker and Splunk Database: Oracle, SQL, Enterprise NoSQL, Cassandra
+Cloud Technologies: Amazon Web Services, OpenStack, OpenShift Version Control Tools: TFS, SVN, GIT, GITHUB, Perforce.
+Programming Languages: Java, C/C++, HTML/HTMLS, JavaScript, Tools: CyberArk, SpringBoot, Jira, Hibernate, Oracle, Oracle DB,
+
+CSS/CSS3 and Styling SQL Developer, JSON, React
+
+Scripting Languages: PERL, Ruby, Python, Shell Programming Build& Release Engineering / DevOps: MAKE, Jenkins, Cruise
+Web/App Servers: Apache, Tomcat, IIS, JBOSS Control, Remedy, Puppet, Fish eye, AWS, Nagios, Nexus, Rally, Chef,
+Operating Systems: UNIX, Linux, MS DOS, Windows 2012, 2008 Ant, Maven, Gradle, HUDSON, MS Build, Docker, ANTHILLPRO,
+Server and BAMBOO.
+
+Monitoring ToolsSpunk, Nagios: Virtualization/Container Vagrant, Docker, VMware
+
+WORK EXPERIENCE
+---------------
+
+01/2019 to Current DevOps Engineer
+
+Xylem Inc. - North Little Rock, AR
+
+- Involved in designing and deploying a multitude applications utilizing almost all of the AWS stack (Including EC2, Route53, $3, RDS, Dynamo DB, SNS, SQS, LAM) focusing on high-availability, fault tolerance, and auto-scaling.
+
+- Built $3 buckets and managed policies for $3 buckets and used $3 bucket and Glacier for storage and backup on AWS.
+
+- Install and configure chef server / workstation and nodes via CLI tools to AWS nodes.
+
+- Writing reusable, testable, and efficient code in Python & Javascript.
+
+- Worked on JIRA for defect/issues logging & tracking and documented all my work using CONFLUENCE .
+
+- Integrated services like GitHub , AWS CodePipeline , Jenkins and AWS Elastic Beanstalk to create a deployment pipeline.
+
+- Created users and groups using LAM and assigned individual policies to each group.
+
+- Created SNS notifications and assigned ARN to 83 for object loss notifications.
+
+- Created load balancers (ELB) and used Route53 with failover and latency options for high availability and fault tolerance.
+
+- Experience in setting up the Continuous Integration (CI) and Continuous Deployment (CD) practices. for Release Automation of Java and Oracle Fusion Middleware Applications (Oracle ADF, Oracle SOA, OSB)
+
+- Setting up private networks and sub-networks using virtual private cloud (VPC) and creating security groups to associate with the networks.
+
+- Design AWS Cloud Formation templates to create custom sized VPC , subnets , NAT to ensure successful deployment of Web applications and database templates
+
+- Coordinate/assist developers with establishing and applying appropriate branching, labeling /naming conventions using GIT source control.
+
+03/2017 to 10/2018 Sr. Risk Analyst
+
+Mechanics Bank - Arroyo Grande, CA
+
+- Analyze credit risk associated with auto dealerships by utilizing both internal and external customer performance data and internal loss models; adjust pricing strategies according to associated risk of losses. Resolving tickets related to customer or merchant issues.
+
+- Interface with multiple business meetings to collect, review and analyze the most updated financial information.
+
+- Investigate current underwriting strategies to evaluate, optimize and develop new techniques to control portfolio performance and reduce risk of dealership default Present risk assessments to senior management throwing emails of meetings.
+
+- Conducted comprehensive analysis on the static pool tracking, risk analyses and industry trends and reported to Treasury.
+
+- Data Gathering and Analyzing the data to find validation of the case.
+
+- Supported assessment of profitability of different sub- populations of the portfolio based on product, term , sop (system of procedure) and other important segmentations.
+
+- Performed analysis on the applications, originations and portfolio performance trends (1.e., charge off and delinquencies) using Excel, external and internal tools.
+
+- Trained co-workers on new system for KT ( knowledge transfer).
+
+- Identified theft/Fraud patterns, saving company and merchants thousands of dollars.
+
+01/2016 to 03/2017 Human Resources Manager
+
+Atco - Tx, TX
+
+- Collaborated with legal and compliance teams to review paperwork, obtain feedback and procure available information for new training processes.
+
+- Conducted hiring practices including recruiting, screening, interviewing, and new hire paperwork
+
+- Monitored and handled all employee claims, including performance-based and harassment incidents.
+
+- Directed and controlled various benefit programs, including retirement/pension plans, medical, dental, and vision packages.
+
+- Discovered and resolved complex employee issues that affected management and business decisions.
+
+- Maintained 100% protocol and procedural accuracy through HRIS management tools
+
+- Enhanced team workflows and employee job satisfaction by coordinating communication between managers and employees.
+
+- Process payroll for semi-monthly and monthly employees
+
+- Processed vital HR functions including leave, terminations, relocations and promotions
+
+EpucaTIon
+
+05/2021 MBA: Management Information Systems
+
+Concordia University Wisconsin - Mequon, WI
+
+PROJECTS
+--------
+- Data Communication and Networking:
+- Conducted risk assessment on network configuration, performance and fault management.
+- Studied common error detection and correction methods.
+- The overall process of designing and implementing a network.
+- Linking the application layer, segmenting, and session management
+- Financial Management:
+- Evaluated the importance of all the organization’s stakeholders in the value proposition.
+- Outlined Strategies that the financial manager should understand and potentially utilize to protect an organization and increase its value. Several well-known and non-project based financial decisions are "poison-pills", dividends, stock options, and stock buybacks.
+- Evaluated the need for capital in an organization and described the difference between the debt and equity markets.
+
+05/2016 Bachelors of Technology: Computer Science And Engineering
+
+DRKCET - Hyderabad, India
+
+PROJECTS
+--------
+- AUTOMATIC TEST PACKET GENERATION: (ATPG)
+- ATPG is a tool inside the network framework that can auto generate test packets.
+- Test packets are introduced into the network before sending the actual data.
+- ATPG helps find the week layers in networks and helps in finding secure connections
+- Once the test packets are received, we can choose the best route to send the original data so the data wouldn’t be lost or stolen.
+- Deals with Network Security and Enhance High level Configurations.

@@ -1,0 +1,49 @@
+John Smith
+
+Address phone numberj email
+
+OBJECTIVE
+---------
+Seeking a summer Electrical Engineering internship at your company, where | can utilize skills learned
+from institution and build experience, A hard working and a good team player always ready to learn.
+
+EDUCATION
+---------
+
+STATE UNIVERSITY
+- Expected to graduate May 2020
+
+- Major: Electrical Engineering
+
+- Minor: Applied Mathematics
+
+- Related coursework: Electronic Circuit Analysis, Semiconductor Devices, Microprocessors, Electromagnetic Field, Signals and Systems, Random Signals and Noise, Energy Conversion.
+
+Skills & Abilities
+
+Computer Skills:
+- Embedded ARM + Multisim
+- Ct . MATLAB
+- Microsoft Office, Excel, and Word - Arduino
+
+TEAMWORK|
+
+: Agreat team player able to efficiently communicate with others, always ready to ask or respond to help
+to complete goals with positive attitude.
+
+HARD WORKING
+- Amotivated learner always willing to learn new technologies and work very hard to achieve given task.
+
+PROJECTS
+-------- Multisim Simulations
+- Built and simulated Thevenin and Norton equivalent circuits, diode circuit, and PMOS transistor electronic circuits on Multisim. For Thevenin and Norton equivalent circuits and diode circuits, analytic solution was compared to simulation. For PMOS electronic circuits, parameters were modified to make change in IV curve. Band Stop Filter
+- Asagroup project for Electronic Circuit Il, i was responsible for demonstrating band rejection filter to filter out specific frequency range to show how the filter can be used to get rid of unwanted frequencies. A low pass filter and high pass filter were connected in parallel, causing attenuation at unwanted frequency range,
+
+WORK EXPERIENCE
+---------------
+MATH TUTOR | COMMUNITY COLLEGE | JAN 2015 - SEPT 2017
+: Assisted students to solve problems themselves, prepare for the tests, and comprehend class materials.
+
+EXAM PROCTOR | COMMUNITY COLLEGE | SEPT 2017 - CURRENT
+: Worked with professors to create appropriate environment for testing center, increasing efficiency of
+testing process and encourage students to succeed in the class.

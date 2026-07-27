@@ -1,0 +1,156 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1XXX © resumesample@example.com
+
+Professional Summary
+
+* Good experience in implementing Service Oriented Architectures (SOA) with XML/JSON based Web Services (SOAP and REST)
+with technologies like WSDL, SOAP.
+
+¢ Expertise in developing the integration workflows using an ESB framework.
+
+¢ Participate in deployment of Mule ESB applications using Cloud Hub and Strong experience in Integration using Mule ESB in
+integrating various third-party solutions.
+
+« Expertise in using Mule Dataweave in Data transformations for in Mule Flow.
+
+¢ Expertise in working with Mule API manager and RAML over AnyPoint Studio, Cloud-Hub, API Gateway and Management.
+
+* Good Experience with Django, a high - level Python Web framework. Experience object-oriented programming (OOP) concepts
+using Python, Django, and Linux.
+
+¢ Experienced in developing web-based applications using Python, Django, C++, XML, CSS, HTML, JavaScript, Angular JS, and
+
+jQuery.
+
+Good experience in core Java programming concepts like data abstraction, polymorphism, concurrency, synchronization.
+
+¢ Experience in methodologies like Iterative, Agile, Scrum and waterfall approaches.
+¢ Experience in all the phases of Software Development Life Cycle that includes understanding requirement, technical analysis,
+
+design, development, Integration, maintenance, installation, implementation and testing of various client/server web
+
+applications.
+¢ Effective communication and interpersonal skills, ability to work in a team/independently and adapt quickly to new and
+emerging technologies.
+Skills
+Technologies DHTML, RESTFUL, Applets, NetBeans, AJAX, XSLT, JMS,
+
+Mule ESB 3.x, 4.x, API Management, MQ Series, SOAP, REST JDBC, J2EE, Servlets, JSTL.
+services, CloudHub, microservices, WSDL, JAXP, Azure, JAXB, Languages:
+
+Biztalk. Core Java, J2EE, HTML (CSS), JavaScript, jQuery, PHP, XML,
+Versioning Tools: Python
+GIT HUB, STASH, JIRA, Confluence, RTC (Rational Team Databases
+Concert), SVN MS SQL Server 2008, Oracle SQL developer
+Webservice
+Work History
+
+Mulesoft/API Developer, 12/2019 to Current
+Globe Life Inc. — Omaha, NE
+Responsibilities:
+¢ Participate in architectural meeting, conduct client meetings, prepare technical and design document.
+* Coordinate with program managers to explain what tasks were possible for the system to achieve their desired output.
+* Design and implement exception handling, logging, JSON Schema Validation as common reusable components across multiple
+message flows.
+* Create an Integration Component with external third-party application.
+¢ Create Maven Archetypes for generating fully functional REST web service supporting both XML and JSON Message
+transformation.
+¢ Worked on creating SOAP and REST web services in Mule, Consumption of REST and SOAP web services for downstream
+systems.
+¢ Used Mule ESB connectors- SFDC, Message Transformer, Choice Exception Strategies, Batch processing, etc.
+¢ Implement transformers, exception handling, testing & Security of Mule ESB endpoint through OAuth.
+¢ Create MUnit test cases to validate, assert and spy event processors or components.
+¢ Implement interfaces between SAP, Salesforce, and REST web-services.
+¢ Configure Mule ESB projects for the services with synchronous and asynchronous Mule flows.
+* Configure Mule service flows with various exception handling strategies such as Global Exception, Custom Exception and
+Choice Exception Strategies that notifies the user with custom and simple error descriptions.
+* Co-ordinate with testing and back-end teams, client during the smoke tests and aggression tests at Sprint
+¢ Participate in 24X7 production support effort after application go-live.
+Environment: ActiveMQ, RabbitMQ, MuleSoft, Spring MVC, SOAP, MMC, XSD, XSLT, XPATH, AnyPoint Studio, Servlets, Nexus,
+JSP, JSON, JMS, Java, CloudHub, GitHub, XML, JAXP, JAXB, WSDL.
+
+Mulesoft Developer, 11/2017 to 11/2019
+Amazon.Com, Inc. — Bensalem, PA
+Responsibilities:
+¢ - Participate in business meetings to gather requirements.
+¢ - Design and Develop Restful API’s using API Designer and generated flows using RAML file.
+¢ Participate in analysis, design, development, and implementation life cycles of the project.
+¢ Implement and consume both SOAP and Restful web services.
+¢ Promote code from development to testing and production environments.
+* Create Flows, Sub Flows, and DataMapper transformations in Mule configuration.
+¢ Implement data transformation using Dataweave and MEL.
+¢ Participate in trouble shooting and problem solving of the Integrations.
+* Deploy and scheduled mule project on cloud hub.
+¢ Create High level, detailed design, topology, and testing documents.
+* Work with Business Analyst to understand the integration requirements.
+¢ Participate in different phases of Testing with end systems.
+* Create Test plans, Test Suit and Test Cases.
+* Create complex queries with joins, sub-queries, and nested queries in SQL queries.
+¢ Support development, test, and the production databases.
+* Create Exception Handling for the ease of debugging and displaying the error messages in the application.
+¢ Participate in 24X7 production support.
+Environment: Mule ESB 3.9.1, Java 7, Dataweave, Cloud Hub, MS-SQL, Salesforce, Seibel, SAP, workday, REST full APIs.
+
+Web Application/Python Developer, 08/2015 to 10/2017
+BOK Financial Corporation — City, STATE
+
+Responsibilities:
+
+¢ Participate in requirement gathering and analysis phase of the project in documenting the business requirements by conducting
+workshops/meetings with various business users.
+
+¢ Used the Django Framework to develop the application.
+
+¢ Implement web applications in Flask and spring frameworks following MVC architecture.
+
+¢ Use Python to place data into JSON files for testing Django Websites.
+
+* Update and manipulated content and files by using python scripts.
+
+¢ Organize Python code using PEP8 online tool including documentation of scripts.
+
+¢ Implement web applications in Flask and spring frameworks following MVC architecture.
+
+¢ Installing, configuring, and upgrading EMC Power-path for AIX servers.
+
+* Used Django configuration to manage URLs and application parameters.
+
+* Wrote Automation test cases using Selenium WebDriver using Python API.
+
+¢ Analyze performance test requirements and developed test plans and have done debugging to understand test objective
+requirements.
+
+¢ Perform troubleshooting, fixed, and deployed many Python bug fixes of the two main applications that were a main source of
+
+data for both customers and internal customer service team.
+
+Environment: Python, Amazon AWS $3, MySQL, HTML, Python 2.7, Django 1.4, HTML5, CSS, XML, MySQL, MS SQL Server,
+JavaScript, AWS, Linux, Shell Scripting, AJAX.
+
+Security Engineer, 04/2013 to 07/2015
+First Citizens BancShares — City, STATE
+Responsibilities:
+* Monitor and analyze network traffic and security alerts.
+¢ Investigate intrusion attempts and perform in-depth analysis of exploits.
+¢ Provide network intrusion detection expertise to support timely and effective decision making of when to declare incident.
+¢ Conduct proactive threat hunting related threat research.
+¢ Review security events that are populated in Security Information and Event Management (SIEM) system
+¢ Analyze variety of network and host-based security appliance logs (Firewalls, NIDS, HIDS, Sys Logs, etc.) to determine correct
+remediation actions and escalation paths for each incident.
+¢ Independently follow procedures to contain analyze and eradicate malicious activity.
+* Document all activities during incident and provide leadership with status updates during life cycle of incident.
+¢ Provide information regarding intrusion events, security incidents, and other threat indications and warning information to
+client.
+¢ Track security trends, statistics, and key figures for each client
+¢ Assist with development of processes and procedures to improve incident response times, analysis of incident, and overall SOC
+functions.
+
+Education
+
+Associate of Science
+
+Asher College - USA
+
+MuleSoft Certified Developer
+Integration And API Associatea

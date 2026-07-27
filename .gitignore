@@ -1,24 +1,129 @@
-# Resume datasets
-Resumes PDF/
-Resumes TXT/
-resumes/
-dataset/
-datasets/
+# ============================================================
+# Python
+# ============================================================
 
-# Large archive/data files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+ENV/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+.coverage
+coverage.xml
+htmlcov/
+
+
+# ============================================================
+# Local configuration and secrets
+# ============================================================
+
+.env
+.env.*
+!.env.example
+
+*.key
+*.pem
+credentials.json
+secrets.json
+
+
+# ============================================================
+# Local AI/agent configuration
+# ============================================================
+
+.agents/
+
+
+# ============================================================
+# VS Code and other IDE files
+# ============================================================
+
+.vscode/
+.idea/
+
+*.code-workspace
+*.swp
+*.swo
+
+
+# ============================================================
+# Windows and operating-system files
+# ============================================================
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+
+# ============================================================
+# Temporary files and logs
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+~$*
+
+
+# ============================================================
+# Large model and checkpoint files
+# ============================================================
+
+*.gguf
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+
+# ============================================================
+# Compressed archives
+# ============================================================
+
 *.zip
 *.rar
 *.7z
-*.pkl
+*.tar
+*.tar.gz
+*.tgz
 
-# Python environment
-.venv/
-venv/
-__pycache__/
-*.pyc
 
-# Secrets
-.env
-# Large datasets and generated files
+# ============================================================
+# Large files already rejected by GitHub
+# Keep these locally, but do not upload them
+# ============================================================
+
 2-Processing/First Names/names_output.txt
 3-Data Augmentation/Brainstorming/testing/input/Resume.csv
+
+
+# ============================================================
+# Raw CV datasets
+# Keep private/full resume datasets outside GitHub
+# ============================================================
+
+1-Data Collection/Resumes PDF/
+1-Data Collection/Resumes TXT/
+1-Data Collection/resumes/
+1-Data Collection/raw/
+1-Data Collection/datasets/
+
+
+# ============================================================
+# Allow documentation/placeholders inside ignored data folders
+# ============================================================
+
+!1-Data Collection/README.md
+!1-Data Collection/.gitkeep

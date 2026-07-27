@@ -1,0 +1,206 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 « (555) 432-1000 * resumesample@example.com
+
+Professional Summary
+
+Skills
+
+Software Developer skilled at technical leadership, communication and presentations. Experienced in full project life cycle from
+design to implementation to integration.
+
+Over 6+ years of experience in IT industry, involving in Software Design, Analysis, Development integration and Testing at client
+and server side (SDLC) in various domains such as Insurance, Commercial and Finance.
+
+© Good experience in Health Care Domains and gained good working experience in HL7 standards, HIPAA EDI transactions, CDA
+/ Clinical documents.
+
+Experience in developing web pages complying with Web Content Accessibility Guidelines (WCAG) and ability to apply W3C
+web standards
+
+Excellent experience working with UML for drawing the Use Case Diagrams, Class Diagrams, Sequence Diagrams, State and
+Activity Diagrams
+
+Experience as NET developer in developing Windows based and web based applications using .NET technologies such as C#,
+VB.NET, ASP.NET, ADO.NET, win forms, Server controls, web services, NET Framework, HTML/XHTML, DHTML, CSS and
+US.
+
+e Experience in developing applications front end using AngularJS, DOM, Knockout JS, Node JS, HTML 5, DHTML, CSS3,
+Bootstrap, JavaScript framework, Crystal report 9. MS Access, Expression (Blend and Design), AJAX controls, Jquery, VBScript.
+Strong experience in implementation of Object Oriented Languages (OOPS), Object Oriented Application Development (OOAD),
+Relational Database (RDBMS).
+
+Experience on RESTful API's, Design patterns(MVC5(RAZOR), MVP, MVVM) code-first initial developments, Telerik, MVC5
+controls, AJAX controls, VBScript, Visual Basic, developing using the N-tier architectures and applications.
+
+Experience with Kendo UI Controls and Telerik controls in building interactive and high-performance websites and applications.
+Expertise in Object Oriented Programming (OOP) Concepts like Inheritance, Polymorphism, Abstract Classes, Interfaces,
+Delegates and Reflections
+
+Experience in SQL Server Database design developing T-SQL queries, function, stored procedures, and triggers using SQL
+Server and used Data Adapter, Dataset, Data Connection, Data Command, Data reader as a part of ADO.NET to access and
+update database in ASP Net environment.
+
+Expertise in using version controlling tools like Team Foundation Server (TFS) Visual Source Safe (VSS), SVN for source code
+
+maintenance.
+
+Strong analytical and dynamic trouble shooting skills coupled with excellent communication skills and able to work individually
+
+and as a team.
+
+Flexible to work anywhere and ready to relocate
+
+Asp .Net MVC ADO Net
+
+Cc# Entity Framework
+VB .Net WCF
+
+SQL WPF
+
+Telerik Kendo MVVM
+
+HTML SSRS
+
+CSS SSIS
+
+Bootstrap LINQ
+
+Java Script ORACLE
+Angular JS Is
+
+JQUERY AZURE Cloud
+JSON TFS
+
+N- Unit Testing GIT
+
+Crystal Reports Agile Methodology
+
+Work History
+
+Sr .Net Developer, 01/2016 to 06/2017
+Two95 International Inc. — Sunnyvale, CA
+
+© Involved in Software Development Life Cycle like Requirement Analysis, Design, Implementation and Testing.
+
+¢ Followed Agile methodology with daily scrum meetings and providing user story updates Worked with JIRA as an ALM tool for
+the central view for user stories and the bug tracking.
+
+¢ Rendered XML document to an HTML using XSL and XSLT Transformations Designed and developed application using MVC5,
+Kendo UI, and C #.
+
+¢ Used Telerik Controls for rich data visualization while developing applications Developed front-end application using JavaScript
+and AJAX to retrieve data and calling web services for updating the partial page without reloading the complete page.
+
+e Extensively involved in coding with AngularJS, ;Query UI and jQuery to add functionalities and effects like Infinite Scroll bar,
+Slider bar, Draggle/Droppable, Resizable, Progress bar
+
+© Developed SPA (Single page Applications) using Angular JS, widely used angular js UI components like route Providers,
+pagination, ng-grid, ng-directives, Session timeout pop-ups. Also implemented new design feature like nested html view routing
+using "ui-router" bootstap in Angularjs.
+
+© Designed and developed various abstract classes, interfaces, classes to construct the business logic using C#.NET.
+
+¢ Designed an SOAP messages used in WCF to transfer information. Created Interfaces in C# to communicate through the WCF
+services.
+
+¢ Used Web API as an ideal platform in building Restful applications on NET Framework Using SQL server 2014 database as
+back-end along with the Entity Framework and LINQ (LINQ TO SQL And LINQ TO XML) to access the databases.
+
+¢ Implementing the data access layer using Entity Framework Code First approach and writing queries using LINQ to Entity for
+data retrieval.
+
+© Developed various stored procedures for the data retrieval from the database and generating different reports using SQL reporting
+services (SSRS).
+
+© Deployed the applications into the Azure and extracting the data from the Azure cloud services
+
+Environment: Visual Studio 2015, .Net Framework 4.5/4.0,C#, ASP NET MVC 5.0 Framework, Entity Framework, Angular JS 1.6.2,
+HTMLS5, CSS3, Telerik Kendo, AJAX, LINQ. JQuery, XML, WCF, SQL Server 2014, IIS 7.0, SSRS, TFS, Microsoft Azure.
+
+Sr .Net Developer, 10/2014 to 2016
+Two95 International Inc. — Baltimore, MD
+e Involved in designing and implementing Project Module, Budget Module.
+Followed Agile methodologies (Scrum) and Test Driven Development, Pair Programming.
+
+Analyzed business requirements to evaluate the design of the application.
+
+Implemented Custom Validation code to test the UI controls as per the business requirements.
+
+Analyzed and created a Detailed Design Document for various components in FACET implementation.
+
+Used CDA standardized document model in XML form in order to retrieve patient's prescription history.
+
+Used HDF for the processes, tools, actors, rules, and artifacts relevant to development of all HL7 standard specifications
+
+Used C#, MVC, ASP.Net Web API , web forms in the application with MVC 5.0 Razor Engine. Service layer was developed
+using ASP Net Web API for RESTful services.
+
+Used ASP.NET validation controls for validating the information provided by the user and implemented input validation using the
+ASP.NET Input Validation Controls.
+
+Designed and developed summary view to display a rate chart index using ASP NET MVC 5 to help sales in quoting the
+
+customers precisely.
+
+Developed front-end code with Ajax call in AngularJS and jQuery to retrieve data as JSON Object from controllers in back-end
+RESTful Server, then display the well-organized result in web pages by writing AngularJS controller, directives, services, and
+route providers. Also, used Angular. js filter to make the data searchable and sortable.
+
+Wrote SQL Queries, Stored procedures, Joins, Triggers to process large collection of products and used Data Reader, Data
+Adapter, SQL Command and Dataset for retrieving data from database using SQL Server 2012.
+
+Developed SSRS reports to help the manager understand the flow of the Web service calls.
+
+Used WPF built-in set of data controls to bind and mamipulate data within applications
+
+Created WCF REST Services and also used different bindings to make it available to different types of clients and also consumed
+third party Web services .
+
+Deployed the application using Microsoft Azure.
+
+Environment: HL7, Visual Studio 2012, Net 4.0 framework, C#, ASP NET MVC 4.0 Framework, Entity Framework, Angular JS, 4.0,
+AJAX, LINQ, JQuery, XML, WCF, SQL Server 2012, IIS 7.0, SSRS, TFS, Microsoft Azure.
+
+-Net Developer, 03/2012 to 08/2014
+Health Plus Of Michigan — City, STATE
+© Participated in Requirement Analysis study and Involved in requirements gathering.
+© Worked with functional teams to define and implement migration strategies from legacy systems to new architecture and
+technologies.
+¢ Used simplified client and server side validation, better session management and powerful data access management using
+ASP.NET. Design and development of multiple system integration points using -net web services (written in C#) in combination
+with AJAX style web development.
+© Developed a NET batch application responsible for processing Medicare enrollee information from Voyager into FACETS.
+© Worked with daily claim processing and uploading EDI files, HL 7 Files into database Used HIPAA EDI 837, 835 to generate and
+translate EDI files with data from SQL database using C#.
+¢ Generated reports from the extracted data using SSRS.
+¢ Used Cascading Style Sheets (CSS) for ASP. NET web pages. Developed the Data Access Layer using C# and made use of data
+controls Data Grid, Data List and Repeater Controls throughout the application to display data in a customized format in the
+ASP.NET web pages.
+© Developed custom web application module with ASP.NET, C# and integrated with the portal sites. Extensively used XSLT for
+transforming the data and XML in Business Layer.
+© Created, modified existing Stored Procedures, Views, and Functions in SQL Server 2008.
+© Created custom document libraries, content types and web parts for web content management in the portal sites. Written various
+Unit Test methods for testing the application.
+Environment: HL7, Visual Studio 2008, ASP. NET 3.5, C#.NET, ADO.NET, AJAX, IIS 6.0, FACETS, XML, XSL, XSLT, JavaScript,
+Web-Services, WPF, SSIS, SQL SERVER 2008,Multithreading. TFS, GIT, Agile Methodology.
+
+-Net Developer, 10/2009 to 02/2012
+Caprisoft Systems — City, STATE
+¢ Involved in Design, Development and Testing of Windows Forms, Web Forms and Web Services using IIS, ASP NET, XML
+Dataset and .NET Framework.
+© Design and developed components using C#_NET.
+© Created Role Based security levels for Windows Forms Authorization.
+© Implemented server caching techniques, state management, windows and Forms Authentication in ASP NET.
+¢ Involved in customizing the Windows Forms Data grid.
+¢ Involved in the development of SOAP based XML Web Services like Financial account management and Purchase Orders which
+forms the business logic components of the system.
+e Used ADO.NET extensively to access the database.
+© Created Stored procedures, functions and triggers .
+¢ Used the N-Unit for unit testing of the classes.
+Environment: ASP.NET, C#.NET, Web Services, SQL Server 2008, JavaScript, JSON, SOAP, ADO .Net,IIS.
+
+Education
+
+Bachelor of Science: Computer Science, 2009
+Bangalore University - Karnataka

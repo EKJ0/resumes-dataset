@@ -1,0 +1,52 @@
+Samyabrata Roy SAP HANA BW CONSULTANT MobNo : +917760611443
+Sam 14.roy@gmail.com
+
+Career Summary
+
+¢ Around 4.11 years of experience in implementing Business Intelligence and Data Warehousing solutions using
+SAP HANA , BW 7.3/7.40n HANA.
+
+Have worked on SAP HANA
+
+Hay ing experience in SAP BODS .SAP BO (IDT , Webi , Explorer , Design Studo) and SAP Lumira
+
+Ability to understand the business environment and trans late business requirements into technical solutions.
+Bwellent analytical, problem solv ing, interpersonal skills.
+
+Summary of Qualifications
+
+© Bachelors of Computer Applications, 2008-2011 , Bangalore University, India
+® = Masters of Technology (Computer Applications) , 2011 — 2015 , BITS Pilsni , India
+
+Technica Experience:
+
+e SAP BW on HANA :Eyenise in modelling using LSA++ architecture . Modelling using new Info
+providers ADSO(Used it as Standard |Write Optimized , Corporate layer , propagation layer etc) and Open
+ODS view and ODP. Used Information model in BW as transient provider and created Reports. Have
+Geated Virtual, Hybrid and Composite info providers to accommodate Hana Views in BW on HANA to be
+used forreporting on BW 73 on Hana.Have worked with ABAP on Field Routines, End & Stan Routines.
+Expertise on Bex Query Designer. Knowkdge of SAP Hana Dynamic Tiering and SAP BW NLS
+
+« SAP HANA Modelling :Eqpenise in creating various Information Model like Attribute, Analytic and
+Cakulted Views. Using CE functions and SQL Script for creating complex Calculation Views. Decision
+tabks to accommodate business logic on the fly and then accommodating themin views.
+
+Procedures, decision tables and cakulated columns. Good exposure and hands on experience with Data
+Replication scenarios of SAP HANA which inchide BODS 4.2 (ETL Extraction) and Flat files. Consuming
+SAP Hana views on IDT to deliver business ayer using web intelligence and have proven experience with
+reporting specially handling complex scenario’s using joins and SqlSman Data Access.
+
+Experience of creating Row and Column based tabks based on usage.
+
+Good knowkdge on SAP BODS connectiv ity’s, extractions and bading in to HANA Database and BODS
+core functionalities like Jobs creation and data trans fer methodologies and Repository managements
+Knowkdge on SAP HANA Data Provisioning using SAP LT Replication Server (SLT).
+
+e = =SAP ECC :10 COPA Gener Extraction. Creation of Class, Characteristics and Extraction of data to BW.
+
+e SAP BODS 4.2 :Created BODS jobs . WorkFlows , Dataflows , Scripts and worked with Transforms to
+pull data from non-SAP systems.
+
+e SAP BO Design Studio:Created Connections , Data Foundation , Business layers , Webi Repons ,
+Explorer Information Space and Exploration view set. Have created Analytical Application on Design
+Studio based on Bex Query. Knowledge and Hands on with SAP Lumira 1.29.

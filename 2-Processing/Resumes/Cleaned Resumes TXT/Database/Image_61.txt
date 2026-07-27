@@ -1,0 +1,51 @@
+JOSLYN HAHN
+
+533 Marina Walks, Los Angeles, CA
+
++1 (555) 144 3643
+
+WORK EXPERIENCE
+---------------
+
+BARROWS-NIENOW
+Philadelphia, PA | Senior Teradata Database Administrator 03/2018 - present
+- Experience with managing virtual machines, Hyper-V
+- Working knowledge of PowerShell Automation Familiarity with System Center Operations Manager Familiarity with Microsoft Azure, IAAS vs PAAS Oracle certifications Solid Oracle background on Linux platforms Oracle Partitioning Oracle Flashback experience Oracle Enterprise Manager 13C Cloud Control for Database Management experience is - Familiarity with other SQL/NoSQL databases such as PostgreSQL, MongoDB Demonstrating knowledge of Data Modeling and Data Normalization techniques Eager to learn new technologies and take ownership for technical
+
+PROJECTS
+--------
+
+HERMAN INC
+Philadelphia, PA | IT Database Administrator 03/2012 - 09/2017
+- Strong technical background in cloud networking, storage, and security
+- Strong technical knowledge of Kubernetes, Docker, Registry
+- Strong technical knowledge of monitoring and building dashboards
+- Handles hard problems with a positive "can do" attitude Team player and able to work with others all skill levels Design, implement, administer, monitor, and manage enterprise database management systems across multiple data centers Ensure ongoing patching and updating of database systems Perform database backups and restorations Perform complete and partial database refreshes Design, implement and maintain various disaster recovery (DR) solutions Ensure proactive monitoring is configured
+
+EDUCATION
+---------
+
+RHODE ISLAND SCHOOL OF DESIGN Bachelor's in Computer Science
+
+SKILLS
+------
+
+Working knowledge of groovy and grails, Java, COBOL, C, PL/SQL, scripting languages such as bash, PHP
+and/or perl
+
+Familiarity with managing SSL certificates and working with firewalls, Confluence wiki software, and Zabbix
+monitoring application
+
+Knowledge of Analytics/data warehousing
+
+Knowledge of Microsoft SQL Server
+
+Demonstrates a clear sense of their role, responsibilities, and purpose within a working team
+
+Hands-on SQL Server Production DBA experience handling very large database systems
+
+Experience with AWS, Spinning up EC2s, S3, Security Groups, AWS-CLI, AWS-RDS, Cloud formation and AWS
+Migrations
+
+Experience with SQL Server Performance tuning, Capacity planning, Resource usage analysis and
+Recommendations

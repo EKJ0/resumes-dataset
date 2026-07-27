@@ -1,0 +1,59 @@
+ROBERT SMITH
+Software/Network Engineer
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Software/Network Engineer with over 5 years of Experience in designing. architecting.
+deploying and troubleshooting Network & Security infrastructure on routers, switches
+{(L2/L3) & firewalls of various vendor equipment. Experience in handling tickets opened
+for network related issues and resolving as per SLA. Experience in installation,
+configuration, troubleshooting of CISCO routers 2800, 3750, 2900, 7301, 7600, 12410,
+ASRIk. Catalyst 6509, 4507 and Data center switch like 7k, 5k, and 2k of nexus.
+
+(CORE COMPETENCIES
+
+Microsoft Office Suite, Sun Solaris, Microsoft Windows OS, Apple 10S, Project
+Management,Routers, Switches, Firewalls, Wireless, Riverbed, Security
+
+PROFESSIONAL EXPERIENCE
+
+Key Deliverables:
+
+* Responsible for the configuration and troubleshooting of Cisco 2500, 2600, S000,
+7500, 7200 series routers
+
+* Design and configuring of OSPF, BGP on Juniper routers and SRX firewalls,
+
+* Planning and configuring the routing protocols such as OSPF. RIP. and Static
+routing on the routers,
+
+* Supported nationwide LAN infrastructure consisting of Cisco 4510 and catalyst
+6513,
+
+* Optimized performance of the wan network consisting of Cisco 3550/4500/6500
+switches by configuring VLANs.
+
+* Evaluating, designing, documenting, installing, implementing, testing, performing
+problem isolation and resolution, monitoring, tuning and setting standards.
+
+* Maintaining a complex range of computer network Companents and systems
+
+Network Engineer
+ABC Corporation - January 2013 ~ March 2014
+
+Key Deliverables:
+
+* Responsible for daily troubleshooting. support and maintenance and management
+of network infrastructure.
+
+® Helped the lead engineer in performing the racking, configuring the Nexus
+switches like 7000, 5000 and 2000 series in the data center environment.
+
+* Provided a high level of security to the network by installing ASA 5510 along with
+ACLs.
+
+* Designed and implemented DMZ for web servers, mail servers &amp; FTP servers
+using Cisco ASA 5500 firewalls.
+
+2259 Oak Street, Old Forge, New York, 13420
+© This ree Resume Template is the copyright of Quilesume.com, Usage Guidelines

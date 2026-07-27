@@ -1,0 +1,230 @@
+Resume TXT Cleaning Preview
+===========================
+
+Input folder: C:\Users\User\Downloads\resumes-dataset\Resumes TXT
+Output folder: C:\Users\User\Downloads\resumes-dataset\Cleaned Resumes TXT
+Files read: 5
+Files written: 5
+Empty files: 0
+Decode errors skipped: 0
+
+================================================================================
+FILE: Accountant\0.txt
+
+BEFORE
+------
+SUMMARY
+JESSICA CLAIRE
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+Detail-oriented Accountant who effectively manages strict deadClairenes, schedules and tasks with a positive, can-do attitude.
+HiGHLicutTs
+Financial statement analysisGeneral and tax accounting Knowledge of GAAP guideClairenesTime management
+EXPERIENCE
+10/2011 to 04/2013
+02/2013 to 03/2013
+05/2012 to 07/2012
+08/2010 to 11/2010
+EpucatIon
+Accountant
+Transamerica Life Insurance Company - Little Rock, AR
+Coordinated fixed asset additions, using advanced Excel functions to develop reports and Clairests.Suggested process
+improvements to secure prompt and regular receipts for the organization. Verified details of transactions, including
+funds received and total account balance_Drafted meeting agendas, suppClaireed advance materials, executed follow-
+
+AFTER
+-----
+SUMMARY
+-------
+JESSICA CLAIRE
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+Detail-oriented Accountant who effectively manages strict deadClairenes, schedules and tasks with a positive, can-do attitude.
+HiGHLicutTs
+Financial statement analysisGeneral and tax accounting Knowledge of GAAP guideClairenesTime management
+WORK EXPERIENCE
+---------------
+10/2011 to 04/2013
+02/2013 to 03/2013
+05/2012 to 07/2012
+08/2010 to 11/2010
+EpucatIon
+Accountant
+Transamerica Life Insurance Company - Little Rock, AR
+Coordinated fixed asset additions, using advanced Excel functions to develop reports and Clairests.Suggested process
+================================================================================
+FILE: Accountant\0287439839da10d2.txt
+
+BEFORE
+------
+Julie A. McFederal
+11111 Shaw Avenue; Fresno, CA 93740
+(559) 333-4555 (home); (559) 123-4567 (mobile)
+julie.mcfederal@jobsnet.com
+SSN: 222-22-2222
+Citizenship: U.S.
+Veterans Preference: N/A
+Federal Status: N/A
+OBJECTIVE:
+Seeking an entry-level position with Internal Revenue Service (Vacancy Announcement #: PH-
+NM-09-149319-S16)
+Current college student majoring in business administration with an emphasis in accounting
+graduating next May 2010, I have participated in various class projects focusing on accounting in
+Financial, Managerial and Tax Accounting & Planning. My greatest strengths are being able to
+analyze large amounts of data, being detail-oriented, very skilled with Microsoft Excel giving me
+the capability to produce complex financial statements and one who works well under pressure.
+EDUCATION:
+California State University, Fresno (Fresno State), Fresno, CA 93740 5/2010
+
+AFTER
+-----
+Julie A. McFederal
+11111 Shaw Avenue; Fresno, CA 93740
+(559) 333-4555 (home); (559) 123-4567 (mobile)
+julie.mcfederal@jobsnet.com
+SSN: 222-22-2222 Citizenship: U.S.
+Veterans Preference: N/A Federal Status: N/A
+OBJECTIVE
+---------
+Seeking an entry-level position with Internal Revenue Service (Vacancy Announcement #: PH-
+NM-09-149319-S16)
+Current college student majoring in business administration with an emphasis in accounting
+graduating next May 2010, I have participated in various class projects focusing on accounting in
+Financial, Managerial and Tax Accounting & Planning. My greatest strengths are being able to
+analyze large amounts of data, being detail-oriented, very skilled with Microsoft Excel giving me
+the capability to produce complex financial statements and one who works well under pressure.
+EDUCATION
+---------
+California State University, Fresno (Fresno State), Fresno, CA 93740 5/2010 B.S. in Business Administration; Option: Accountancy
+================================================================================
+FILE: Accountant\028cd00be9bb156d.txt
+
+BEFORE
+------
+Tammy Jones
+Accounting Professional
+Organized accounting professional with a record of success helping clients decrease costs, balance
+books, and reconcile accounts. Naturally curious and committed to gaining and applying new
+expertise. Bilingual: Fluent in English and Spanish.
+Professional Experience
+XYZ Accountants, Sacramento, CA January 2012 - Present
+Accounting Specialist
+e €nsure accuracy of all transactions with clients, vendors, and employees
+e Collaborative role working closely with managers and other staff members
+Highlights:
+e Identified and averted over $250,000 in lost revenue from bank errors
+« Won “Accounting Expert of the Month” five times for outstanding diligence and accuracy
+e Enhanced client relationships by actively addressing and resolving late payments
+Education
+Bachelor of Science (B.S.) in Accounting (minor in Business Administration)
+Sacramento University, Sacramento, CA
+Key Skills
+
+AFTER
+-----
+Tammy Jones
+Accounting Professional
+Organized accounting professional with a record of success helping clients decrease costs, balance
+books, and reconcile accounts. Naturally curious and committed to gaining and applying new
+expertise. Bilingual: Fluent in English and Spanish.
+WORK EXPERIENCE
+---------------
+XYZ Accountants, Sacramento, CA January 2012 - Present Accounting Specialist
+- €nsure accuracy of all transactions with clients, vendors, and employees
+- Collaborative role working closely with managers and other staff members
+HIGHLIGHTS
+----------
+- Identified and averted over $250,000 in lost revenue from bank errors
+- Won “Accounting Expert of the Month” five times for outstanding diligence and accuracy
+- Enhanced client relationships by actively addressing and resolving late payments
+EDUCATION
+---------
+Bachelor of Science (B.S.) in Accounting (minor in Business Administration) Sacramento University, Sacramento, CA
+================================================================================
+FILE: Accountant\0452d98376727179.txt
+
+BEFORE
+------
+Howard Jones
+Details
+Profile
+Employment History
+Senior Accountant , Addco Resources, New York
+. nal financial ware to improve the account 6. and
+ness ot rep
+Staff Accountant , Vessel, New York
+. umented pro 4 5 res as part at internal control a
+Education
+B.S. Accounting. Marist College, Poughkeepsie
+High School Diploma, Somers High School, Somers
+Internships
+Accounting Intern, Westley Accountants, White Plains
+References
+Adina Rayez from Addco Resources
+rayer_ad@addcoorg.com | 212-546-5688
+Jeremy Mendel from Vessel
+
+AFTER
+-----
+Howard Jones
+Details
+PROFILE
+-------
+WORK EXPERIENCE
+---------------
+Senior Accountant , Addco Resources, New York
+. nal financial ware to improve the account 6. and ness ot rep Staff Accountant , Vessel, New York
+. umented pro 4 5 res as part at internal control a
+EDUCATION
+---------
+B.S. Accounting. Marist College, Poughkeepsie
+High School Diploma, Somers High School, Somers
+Internships
+Accounting Intern, Westley Accountants, White Plains
+REFERENCES
+----------
+Adina Rayez from Addco Resources
+================================================================================
+FILE: Accountant\0857decaec1c1f99.txt
+
+BEFORE
+------
+Miley Nguyen
+Tax Accountant who achieved results with accuracy and precision in general
+accounting practices, financial statements, federal and state quarterly returns.
+Reliable Tax Accountant with 5 years of experience in tax accounting, account receivable, and
+invoicing. Adept at tracking all expenses and reconciling accounts while complying with
+budgetary guidelines. In the previous role, detected a recurring error in balance sheets, helping
+prevent a loss of $35K.
+ - Phone: (700)-111-9875 Email: miley.nguyen@gmail.com
+Work Experience
+Tax Accountant Prepared multi-state tax returns in compliance with US federal
+and state law, including 1120, 1120S, and 1065 using Lacerte
+software.
+8/2018 - 2/2021 Monitored monthly company expenses and financial risks for
+35+ ongoing projects.
+Assisted clients with daily consultations regarding business
+and individual tax needs.
+Researched tax regulations and analyzed financial statements
+to identify discrepancies in tax reports and transaction data.
+
+AFTER
+-----
+Miley Nguyen
+Tax Accountant who achieved results with accuracy and precision in general accounting practices, financial statements, federal and state quarterly returns.
+Reliable Tax Accountant with 5 years of experience in tax accounting, account receivable, and
+invoicing. Adept at tracking all expenses and reconciling accounts while complying with
+budgetary guidelines. In the previous role, detected a recurring error in balance sheets, helping
+prevent a loss of $35K.
+- Phone: (700)-111-9875 Email: miley.nguyen@gmail.com
+WORK EXPERIENCE
+---------------
+Tax Accountant Prepared multi-state tax returns in compliance with US federal
+and state law, including 1120, 1120S, and 1065 using Lacerte software.
+8/2018 - 2/2021 Monitored monthly company expenses and financial risks for 35+ ongoing projects.
+Assisted clients with daily consultations regarding business and individual tax needs.
+Researched tax regulations and analyzed financial statements to identify discrepancies in tax reports and transaction data.
+Connection tax Services
+Accounting Tax Accountant Performed regular data checks on Lawson for tax audits and other relevant procedures.
+Assisted small businesses and clients in preparing property, Firm income, and occupation tax services, including explaining tax
+Ochsner Taxation Consulting

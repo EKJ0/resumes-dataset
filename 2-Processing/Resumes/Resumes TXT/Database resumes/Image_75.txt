@@ -1,0 +1,51 @@
+ELIJAH KOSS
+
+67429 Smitham Rue, New York, NY
+
+PHONE
++1 (555) 823 9138
+
+EXPERIENCE
+
+Emard-Ullrich
+Dallas, TX // Database Manager // 12/2017 — present
+
+e Discuss team staffing needs and scope with the leadership team. This might lead to discussions of allocations changes
+and/or hiring
+
+e Work closely with the Product Manager, Tech Lead and other teams in our organization on planning upcoming work and
+formalizing proposals
+
+¢ Develop a good understanding of your team. Their strengths, weaknesses and development goals
+
+e Understand your team’s challenges
+
+Hilpert, Zemlak and Douglas
+Dallas, TX // Database Manager // 12/2012 — 08/2017
+
+e You ensure that customer issues get addressed reliably and timely even when they cross team-boundaries. You
+communicate with our customers in collaboration with support and Product Managers
+
+e Identify and remove roadblocks and risks to delivering your team's work
+
+e Coach engineers on your team
+
+e Organize how your team handles interrupt driven work (customer issues, bugs, Cl failures)
+
+EDUCATION
+
+Pratt Institute
+Bachelor's in Computer Science
+
+SKILLS
+
+e Experience monitoring and optimizing database and query performance
+
+e Experience programming with Unix or Linux operating systems
+
+e Experience in database programming using queries, triggers, and stored procedures
+e Experience writing DB scripts
+
+e Experience in networking and utilizing external storage
+
+e Experience managing a team of at least 5 resources

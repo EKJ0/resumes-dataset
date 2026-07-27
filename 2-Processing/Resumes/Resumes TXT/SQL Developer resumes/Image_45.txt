@@ -1,0 +1,62 @@
+ROBERT SMITH
+Oracle PL/SQL Developer
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Oracle PL/SQL Developer with 7+ years of experience on various phases of SDLC such
+as Project Requirement Study, high-level design, low-level design. Coding, Testing,
+Quality assurance Documentation, Implementation and Project Planning. Expertise in
+data modeling for large data warehouses supporting business intelligence applications
+{OLAP) and also online transaction processing systems (OLTP).
+
+‘CORE COMPETENCIES
+
+Oracle. MS SQL Server, IBM DB2 UDB 8.0/7.0. Environment Windows XP. Red Hat
+Linux, Unix, Sun Solaris. Programming Languages PL/SQL, SQL. TSQL
+
+PROFESSIONAL EXPERIENCE
+
+Oracle PL/SQL Developer
+Hp Infosystem, Lic - March 2010 - September 2013
+
+Key Deliverables:
+
+* Responsible for gathering requirements from users for reports development and
+interface program customizations and in analyzing the business process.
+
+* Created and maintained Orack database objects like tables, views, materialized
+views, indexes, Constralrits, sequence, synonyms and database link using SQL.
+
+® Created numerous complex queries involving joins, correlated sub-queries diverse
+business requirements.
+
+* Partitioned tables by determining the suitable methodology to improve
+performance and manageability
+
+* Planned, designed, and implemented the application database code objects, such
+as Stored procedures and views, Indexes,
+
+* Worked on advanced PL/SQL constnicts like Oracle-supplied packages; nested
+lables, varrays, records. types, dynamic SQL and analytical functions:
+
+* Created temporary tables. packages and procedures using SQL developer,
+
+Oracle PL/SQL Developer
+ABC Corp - 2006 - 2013
+
+Key Deliverables:
+
+* Conducted PL/SQL development to solve a business problem
+
+* Worked with various Informatica Power Center transformations like connected
+Samp; unconnected lookups, router, expressions, aggregators, filters, sequence
+generator, joiner etc. and developed complex business logic.
+
+* Developed many workflow sessions, monitored the workflow runs and debugged if
+any errors.
+
+* Created and maintained Oracle database objects like tables, yiews, materialized
+views, Indexes, constraints, sequence, synonyms and database link using SQL.
+
+2259 Oak Street, Old Forge, New York, 13420
+© Thi Free Resume Template t the copy rigin af Quikresume.com, Usage Guidelines

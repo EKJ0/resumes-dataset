@@ -1,0 +1,231 @@
+WEBSITES,
+PORTFOLIOS,
+PROFILES
+
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+CERTIFICATIONS
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor
+
+https://www.linkedin.com/in/Jessica-Claire/
+
+©& (555) 432-1000 4 resumesample@example.com
+
+Experienced professional with a strong background in project management, process improvement, and
+software development. Skilled in Salesforce development, Agile methodology, and integrating third-party
+applications. Proven track record of delivering high-quality solutions on time and within budget. Experienced
+in managing cross-functional teams and driving project success through effective communication and
+collaboration.
+
+Expert in Salesforce development using Apex,
+Visualforce, and Lightning Components to meet
+business requirements and improve user
+experience.
+
+Proficient in implementing Salesforce database
+solutions, including custom objects, fields,
+relationships, and validation rules.
+
+Experienced in integrating Salesforce with third-
+party applications and services using REST and
+SOAP APIs to improve productivity and
+streamline business processes.
+
+Knowledgeable in implementing robust
+Salesforce security features to ensure
+confidentiality, integrity, and availability of
+sensitive data.
+
+Skilled in utilizing object-oriented programming
+concepts to design and implement scalable and
+maintainable code.
+
+SALESFORCE APPLICATION DEVELOPER
+
+American Modern Insurance Group | Plano, Texas
+
+Proficient in conducting comprehensive testing
+and debugging of Salesforce applications using
+tools such as Apex Debugger, System.debug()
+statements, and Salesforce Developer Console.
+Experienced in working in Agile development
+environment, following user stories, sprints, and
+scrum meetings to deliver high-quality solutions
+on time.
+
+Skilled in project management tasks, including
+gathering requirements, creating project plans,
+and managing timelines to ensure successful
+project delivery.
+
+Proficient in managing RPA programs, including
+identifying automation opportunities, building
+high-level architectural specifications, designing
+automation process flows, and implementing
+process automation solutions using RPA
+technologies such as BluePrism, UiPath, and
+Softomotive.
+
+Experienced in collaborating with business
+analysts, process owners, and business
+partners to align unit-level priorities and
+roadmap to successfully manage
+transformational aspects of automation journeys.
+
+03/2020 to CURRENT
+
+Designed and developed custom Salesforce applications using Apex, Visualforce, and Lightning
+Components to meet business requirements and improve user experience.
+Applied object-oriented programming principles to create scalable and maintainable code for Salesforce
+
+applications.
+
+Built and managed Salesforce database solutions, including custom objects, fields, relationships, and
+
+validation rules.
+
+Implemented robust Salesforce security measures to protect sensitive data and ensure confidentiality,
+
+integrity, and availability.
+
+Integrated Salesforce with third-party applications and services through REST and SOAP APIs,
+improving productivity and streamlining business processes.
+
+Conducted thorough testing and debugging of Salesforce applications using tools such as the Apex
+Debugger, System.debug() statements, and the Salesforce Developer Console.
+
+Collaborated with cross-functional Agile teams, following user stories, sprints, and scrum meetings to
+
+deliver high-quality solutions within project timelines.
+
+Contributed to project management activities, such as gathering requirements, creating project plans,
+and managing timelines, to ensure successful project delivery
+
+RFQ TECHNICAL PROJECT MANAGER
+
+Ericsson | Plano, TX
+
+01/2018 to 03/2021
+
+Managed RPA program, including big initiatives and various RPA projects to drive efficiency and cost
+
+reduction.
+
+Aligned unit level priorities and roadmap to successfully manage transformational aspects of Ericsson's
+
+automation journey.
+
+Led and collaborated with business analysts to identify relevant automation opportunities to improve
+
+efficiency, reduce costs, and mitigate risks.
+
+Built high-level architectural specifications, ensuring feasibility, functionality, and integration with existing
+
+systems.
+
+Led partnerships with process owners and business partners to understand as-is processes and design
+
+automation process flows using visual tools like Visio.
+
+Implemented process automation solutions using RPA technologies such as BluePrism, UiPath, and
+
+Softomotive.
+
+Led and collaborated in converting business requirements into automation solution designs.
+Directed and supported team to generate detailed documents related to design, development, and
+delivery of solutions like PDD, SDD, UAT test cases, PDI, and ODI.
+
+Collaborated with other teams from concept to final delivery of solution.
+
+Created proof of concepts to help business recognize feasibility of automation solutions.
+
+Developed relevant use cases for client engagements.
+
+Led various responsibilities of project initiatives until project delivery and successful deployment.
+Managed and resolved issues that came up during development, discovered and handled all possible
+system and business exceptions through designing recovery and exception handling strategies.
+Gathered and shared clients' feedback and insights, made recommendations on process improvement,
+and collaborated with clients with focus on process improvement.
+
+Provided timely responses and solutions as required. Delivered progress reports regarding
+
+performance and ROI! on MANA automation program.
+* Worked within agile development technology (SAFE).
+
+BLGINESS ANALYST
+Ericsson | 6300 Legacy Drive, Plano,tx, 75024
+
+« Spearheaded the successful adoption of Ericsson's sales tool, CAST, increasing utilization from a
+meager 8% to an impressive 96%. This resulted in an annual savings of 4 MUSD by automating the
+presales process, and a significant reduction in RFP lead time by 11 hours.
+
+¢ Collaborated with delivery and pre-sale teams to plan resources, forecast costs, and manage the
+content of the CAST tool. This included identifying required resources, third-party service providers,
+vendors, and materials to optimize resource planning and cost analysis processes.
+
+¢ Developed interactive dashboards on the Tableau platform to visualize data from Ericsson North
+America's portfolio housed in the CAST database. This improved cost analysis processes, allowing for
+more informed decision-making.
+
+¢ Partnered with developers to automate manual processes, resulting in significant time and cost savings
+
+while decreasing errors. This initiative was credited as the primary driving force behind a 39% increase
+in standardization and reusability metric from a year-to-date average of 6% to 45% in August 2016.
+
+¢ Provided ongoing training sessions, presentations, and support to CAST users across the North
+America region to facilitate the tool's adoption and optimization.
+
+¢ Developed over 6,000 standard templates of common service breakdown structures offered by Ericsson
+
+in North America. This initiative resulted in time savings of approximately 11 hours to create a service
+quote by pre-sale teams and earned recognition as the recipient of Ericsson's Operations "Above &
+Beyond" award in 2016.
+
+¢ Created Tableau workbooks to perform various types of analysis on data extracted from costing and
+forecasting tools, including year-over-year, quarter-over-quarter, year-to-date, quarter-to-date, and
+month-to-date analyses. These workbooks provided valuable insights and allowed for more informed
+decision-making.
+
+OFGRATIONAL PROCESS ANALYST
+Iran Ghateh
+
+¢ Led process improvement and Six Sigma Kaizen workshops to identify as-is process, gaps, and
+improvements, resulting in 20% increase in forecasting and planning accuracy for internal teams.
+
+¢ Implemented preferred vendor/supplier strategy, reducing number of suppliers from 20 to 5, resulting in
+
+streamlined procurement processes and cost savings.
+¢ Optimized end-to-end resource and material planning, resulting in $150K savings in 2010.
+
+M.S | Supply chain Management 2015
+
+University of Texas at Dallas, 800 West Campbell Road, Richardson, Texas 75080
+GPA 3.87
+
+M.0| Industrial Engineering 2012
+University of Kharazmi at Tehran, Tehran, Iran
+
+GPA 3.86
+
+B.©]| Computer Engineering 2010
+
+University of Qazvin At Qazvin, Qazvin, Iran
+GPA 3.87
+
+¢  Accredit Blue prism developer . (Nov 2018)
+« Tableau Desktop 10 Qualified Associate( Nov 2016)
+« Certified SAFe® 4 AGILE
+
+09/2013 to 01/2018
+
+04/2010 to 09/2011

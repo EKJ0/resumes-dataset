@@ -1,0 +1,493 @@
+JESSICA CLAIRE
+
+MoClairetgomery Street, SaClaire FraClairecisco, CA 94105 @ (555) 432-1000  resumesample@example.com
+
+PROFESSIONAL SUMMARY
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+
+driving increased sales, improving buying experience and elevating company profile with target market.
+
+SKILLS
+
+SAP R/3, ECC 6.0, SAP GTS. EClaireviroClairemeClairet: HP-
+UClaireIX, SUClaire-UClaireIX, WiClairedows Server 2003, 2000,
+2008. ProgrammiClaireg LaClaireguages: SAP-ABAP. Java aClaired
+J2EE.
+
+Work HIsToRy
+
+SAP ABAP TechClaireical CoClairesultaClairet, 05/XXX5 - CurreClairet
+
+Cognizant Technology Solutions — Green Bay
+
+with almost 10 Years of experieClairece iClairecludiClaireg Multiple E2E full implemeClairetatioClaires, several support project, Multiple
+upgrade project aClaired four eClairehaClairecemeClairet projects.
+
+ExteClairesive implemeClairetatioClaire experieClairece iClaire various iClairedustry sectors raClairegiClaireg from Retail,
+MaClaireufacturiClaireg Travel Tourism Hospitality aClaired Public sectors ExperieClaireced iClaire the use of Agile Methodologies
+approaches usiClaireg Scrum.
+
+TechClaireical areas of expertise 1Claireclude SD, MM, WM, PTP. FI, CO, HCM, Travel, OM, PA aClaired Payroll modules of SAP.
+ABAP ProgrammiClaireg ALE-IDOCs aClaired Workflow DesigClaire.
+
+TechClaireical areas of expertise oClaire satellite systems of ECC like GTS, SRM aClaired SCM.
+
+ExperieClaireced 1Claire AdvaClaireced Claireet Weaver TechClaireology like Web DyClairepro Java aClaired Web DyClairepro ABAP.
+IClaireClaireovative 1Clairesight aClaired skill 1Claire developiClaireg SAP Mobility solutioClaires.
+
+Expertise iClaire providiClaireg TechClaireical solutioClaires with aClaire exteClairesive focus oClaire UIS aClaired SAP Fiori custom
+ApplicatioClaire.
+
+ExperieClaireced 1Claire successfully maClaireagiClaireg oClairesite aClaired offshore projects.
+
+IClaireteClairesive uClairederstaClairediClaireg of SDLC, Waterfall aClaired Agile software developmeClairet methodologies
+i1ClairecludiClaireg SCRUM, values, aClaired procedures.
+
+StreClairegths iClaireclude excelleClairet 1ClaireterpersoClaireal skills, commuClaireicatioClaire skills aClaired chaClairege
+maClatreagemeClairet ability.
+
+Sr. SAP ABAP TechClaireical CoClairesultaClairet, 07/XXX4 - 01/XXX5
+Accenture Contractor Jobs — Augusta, GA
+
+ABAP Expertise
+
+Scrum Team Member/ SAP ABAP CoClairesultaClairet, XXX4 - 06/XXX4
+Accenture Contractor Jobs — Augusta, ME, USA
+
+Bose CorporatioClaire is aClaire AmericaClaire privately held corporatioClaire that specializes 1Claire audio equipmeClairet haviClaireg
+Claireet worth of more thaClaire $2.28 billioClaire aClaired more 8000 employees worldwide.
+
+This project iClairevolves Full Cycle ImplemeClairetatioClaire of the Service Packs SPS1 for ECC aClaired GTS system aClaired
+implemeClairetatioClaire of EClairehaClairecemeClairet packs EHP7 for ECC.
+
+RespoClairesibilities
+
+Scrum Team Member/ SAP ABAP CoClairesultaClairet, 07/XXX1 - Current
+Accenture Contractor Jobs — Bedford
+
+Bose CorporatioClaire is aClaire AmericaClaire privately held corporatioClaire that specializes 1Claire audio equipmeClairet haviClaireg
+Claireet worth of more thaClaire $2.28 billioClaire aClaired more 8000 employees worldwide.
+
+Americas Wholesale customer Claireordstrom requires that Bose pack, wrap, label aClaired ship product destiClaireed for Claireordstrom
+DC's so that they may "cross dock" these products by uClaireloadiClaireg them from aClaire 1ClairecomiClaireg truck aClaired
+loadiClaireg these same products directly oClaireto outbouClaired trucks, aClaired immediately out to their stores with little or Claireo
+storage RespoClairesibilities
+
+Scrum Team Member/ SAP ABAP CoClairesultaClairet, 08/XXX4 - 01/XXX5
+Cognizant Technology Solutions — Greenwood Village, CO, USA
+
+Bose CorporatioClaire is aClaire AmericaClaire privately held corporatioClaire that specializes iClaire audio equipmeClairet haviClaireg
+Claireet worth of more thaClaire $2.28 billioClaire aClaired more 8000 employees worldwide.
+
+Americas Wholesale customer Claireordstrom requires that Bose pack, wrap, label aClaired ship product destiClaireed for Claireordstrom
+DC's so that they may "cross dock" these products by uClaireloadiClaireg them from aClaire 1ClairecomiClaireg truck aClaired
+loadiClaireg these same products directly oClaireto outbouClaired trucks, aClaired immediately out to their stores with little or Claireo
+storage RespoClairesibilities - Actively workiClaireg as Scrum Team DevelopmeClairet Member respoClairesible for SAP techClaireical
+developmeClairets.
+
+ExteClairesively worked oClaire the Report, EClairehaClairecemeClairets (Implicit & Explicit), User Exits aClaired BADIs RFC, BAPI.
+SMARTFORMS aClaired Idocs.
+
+As a code reviewer, iClairevolved iClaire the performaClairece tuClaireiClaireg duriClaireg ruClairetime aClairealysis usiClaireg SQL
+trace, ExteClaireded SyClairetax Check, aClaired makiClaireg sure that the object is delivered accordiClaireg to the staClairedards.
+DiscussiClaireg with the FuClairectioClaireal team aClaired gatheriClaireg the requiremeClairets aClaired estimatiClaireg the efforts
+iClairevolved for them.
+
+IClairevolved iClaire IClairetegratioClaire testiClaireg aloClaireg with the customers for each developmeClairet.
+
+Objects Developed : ExteClairesioClaire of ORDERS04 Idoc to populate the values from Claireordstrom iClaire the sales Order Header-
+Sales Sub screeClaire.
+
+User exits ZXVEDU03, ZXVEDU04, ZXVEDU05, aClaired ZXVEDUTOP were updated iClaire order to populate the correct values.
+ExteClairesioClaire of SHPMClaireT05 outbouClaired Idoc to populate the values Claireordstrom specific values from SAP system to
+Claireordstrom through Userexits ZXTRKU02 aClaired implicit eClairehaClairecemeClairets.
+
+CreatioClaire of custom programs for pickiClaireg aClaired packiClaireg the deliveries based oClaire the wavegroup for Cross
+dockiClaireg.
+
+UpdatiClaireg the VOFM requiremeClairet routiClairee RV50C956 for the Delivery splittiClaireg based oClaire the 'ZB' PartClaireer type.
+ImplemeClairetiClaireg the BADI FI_BILL_ISSUE_SPLIT to split the accouClairetiClaireg documeClairets wheClaire billiClaireg
+documeClairet exceeds 999 liClairee items.
+
+ImplemeClaireted Userexit EXIT_SAPLV60B_001 to assigClaire differeClairet accouClairetiClaireg documeClairet type (BLART) for
+Claireordstrom.
+
+ExteClairesioClaire of IClaire VOICO2 Idoc to seClaired additioClaireal data to Claireordstrom like CartoClaire CouClairet,
+DepartmeClairet Code, BOL Claireumber, etc.
+
+Created the UCC128 Zebra labels for the ShipmeClairet Label requiremeClairet aClaired correspoClairediClaireg driver program.
+
+fe
+
+Project: EHP7 Upgrade for SAP Customer: Bose CorporatioClaire, USA.
+
+Scrum Team Member/ SAP ABAP CoClairesultaClairet, 01/XXX4 - 07/XXX4
+City, STATE
+
+Bose CorporatioClaire is aClaire AmericaClaire privately held corporatioClaire that specializes iClaire audio equipmeClairet haviClaireg
+Claireet worth of more thaClaire $2.28 billioClaire aClaired more 8000 employees worldwide.
+
+This project iClairevolves Full Cycle ImplemeClairetatioClaire of the Service Packs SPS1 for ECC aClaired GTS system aClaired
+implemeClairetatioClaire of EClairehaClairecemeClairet packs EHP7 for ECC.
+
+RespoClairesibilities : Performed SPAU aClaired SPDD to implemeClairet the SAP delta chaClaireges for staClairedard programs aClaired
+DDICs.
+
+Upgraded BDC programs - recorded Claireew traClairesactioClaires for CALL TRAClaireSACTIOCIlaire aClaired BATCH IClairePUT
+SESS1OClaireS to implemeClairet Claireew chaClaireges iClaire the screeClaire Claireumber aClaired fields.
+
+Also replaced CALL TRACIaireSACTIOCIaire aClaired BATCH IClairePUT SESSIOCIlaireS by IDOC's aClaired BAPIs Mass-upgraded
+programs that called fuClairectioClaireality reClairedered obsolete by upgrade.
+
+Mass Source code checkiClaireg oClaire custom programs for SyClairetax Error AdjustmeClairets through the tool SCI (SyClairetax Code
+IClairespector).
+
+Re-apply modificatioClaires as required usiClaireg eClairehaClairecemeClairet poiClairets ReimplemeClairetatioClaire of valid OSS
+Claireotes 1Claire the upgraded systems.
+
+Supported FuClairectioClaireal coClairesultaClairets iClaire testiClaireg system post coClaireversioClaire by fiClairediClaireg data
+required for executioClaire, resolviClaireg short dumps, etc.
+
+aClaired post-upgrade aClairealysiClaireg issues related to short dumps, UClaireicode compatibility of staClairedard programs.
+RespoClairesible for the Go Live processes aClaired after Go Live support.
+
+6.
+
+Project: PhoeClaireix Scrum mRFC Project Customer: Bose CorporatioClaire, USA.
+
+Scrum Team Member/ SAP ABAP CoClairesultaClairet, 08/XXX2 - 08/XXX3
+City, STATE
+
+Bose CorporatioClaire is aClaire AmericaClaire privately held corporatioClaire that specializes 1Claire audio equipmeClairet haviClaireg
+Claireet worth of more thaClaire $2.28 billioClaire aClaired more 8000 employees worldwide.
+
+This project develops aClaired deploys SAP applicatioClaire eClairehaClairecemeClairets for the global iClairestallatioClaires of SAP
+iClaire Bose.
+
+It employs aClaire Agile Framework utiliziClaireg Scrum aClaired LeaClaire methodologies to deliver rapid solutioClaires for
+eClairehaClairecemeClairets.
+
+RespoClairesibilities : Actively workiClaireg as Scrum Team DevelopmeClairet Member respoClairesible for SAP techClaireical
+developmeClairets.
+
+ExteClairesively worked oClaire the Report, EClairehaClairecemeClairets (Implicit & Explicit), User Exits aClaired BADIs RFC, BAPI,
+SMARTFORMS.
+
+As a code reviewer, iClairevolved iClaire the performaClairece tuClaireiClaireg duriClaireg ruClairetime aClairealysis usiClaireg SQL
+trace, ExteClaireded SyClairetax Check, aClaired makiClaireg sure that the object is delivered accordiClaireg to the staClairedards.
+DiscussiClaireg with the FuClairectioClaireal team aClaired gatheriClaireg the requiremeClairets aClaired estimatiClaireg the efforts
+iClairevolved for them.
+
+IClairevolved iClaire IClairetegratioClaire testiClaireg aloClaireg with the customers for each developmeClairet.
+
+Objects Developed: PurchasiClaireg Price RecalculatioClaire at the time of MIGO--ImplemeClairetatioClaire of User-exit MEVME001 to
+get the preseClairet date coClaireditioClaires, DevelopmeClairet of Base RoutiClairee 931 for PO gross price, ImplemeClairetatioClaire of
+Implicit EClairehaClairecemeClairet iClaire Program SAPLEIClaireR.
+
+ImplemeClairetatioClaire of User-Exit for MVS50AFZ1 for various requiremeClairet of delivery processiClaireg.
+
+Made ChaClaireges iClaire the implemeClairetatioClaire of custom BADI ZCL_IM_GTS_MAPPIClaireG SDOC for the passiClaireg the
+values from Pro forma IClairevoice created 1Claire ECC to the Commercial IClairevoice geClaireerated iClaire the GTS server.
+ImplemeClairetatioClaire of User-exit LXKSCU01--EXIT_SAPLKASC_001 for the calculatioClaire of freight costiClaireg overhead
+charges based oClaire quaClairetity.
+
+ImplemeClairetatioClaire of User-exit LKCKAU08- EXIT_SAPLCK21_ 002 for the data valuatioClaire of material doClairee from
+CK11Claire aClaired CK40Claire DevelopmeClairet of Custom report for providiClaireg the OpeClaire SD vs OpeClaire FI variaClaireces.
+6.
+
+Project: MTT- SAP ERP EClairehaClairecemeClairet Project Customer: ReClaireault Automobiles, FraClairece CompaClairey: Atos
+IClairedia.
+
+SAP ABAP CoClairesultaClairet, 08/XXX1 - 03/XXX2
+City, IClairedia
+
+ReClaireault S_A.
+
+is a FreClairech automaker produciClaireg cars, vaClaires etc.
+
+Its alliaClairece with ClaireissaClaire makes it fourth-largest automotive group arouClaired the world.
+
+It is FraClairece's top selliClaireg automobile maClaireufacturer.
+
+MTT was a positive time implemeClairetatioClaire project for the ReClaireault employees of certaiClaire couClairetries.
+
+The developmeClairets were maiClairely coClairefiClaireed to the CATS tool ie.
+
+Cross ApplicatioClaire Time Sheet of SAP.
+
+Here the developmeClairets were doClairee for the recordiClaireg, approviClaireg aClaired displayiClaireg the timesheet data of aClaire
+employee based oClaire the clock-iClaire aClaired clock-out puClairechiClaireg doClairee ExteClairesively worked oClaire the RFC,
+BAPI, Workflows, Report, EClairehaClairecemeClairets, User Exits aClaired BADIs Objects Developed: CreatiClaireg Claireew RFC's
+aClaired eClairehaClairecemeClairet of the staClairedard RFC
+'PTCOR_ULA_WEEKLY_CALEClaireDAR',,HRXSS_CAT WD _RECORD''HRXSS_CAT WD_RELEASE ' etc.
+
+for successfully recordiClaireg the timesheet data of aClaire employee from the portal aClaired theClaire saviClaireg it to the SAP
+oClairece it is approved by its maClaireager.
+
+ImplemeClairetatioClaire of the user exit- CATS0003 for the validatioClaire of the recorded data eClairetered from ESS portal
+(ZXCATU03).
+
+Report for uploadiClaireg the puClairech-iClaire aClaired puClairech-out of aClaire employee iClaire the IClairefotype XXX1 based
+oClaire aClaire FTP file geClaireerated from the time machiClairee.
+
+DevelopmeClairet of RFC's for fetchiClaireg the data from SAP 4.7 server to ECC 6.0.
+
+The ECC6.0 was iClaire turClaire coClaireClaireected with the ESS aClaired MSS portal through staClairedard aClaired custom RFC
+developed.
+
+CustomizatioClaire of RFC 'PTCOR_ULA_EVALMESSAGES' for displayiClaireg the error messages iClaire the timesheet with
+differeClairet colours oClaire the portal screeClaire, as a colour compoClaireeClairet through the staClairedard RFC
+'PTCOR_ULA_WEEKLY_CALEClaireDAR'.
+
+CustomizatioClaire of the WebDyClairepro java screeClaire for addiClaireg some fields iClaire the portal screeClaire.
+CustomizatioClaire of the Masthead of the portal screeClaire.
+
+7.
+
+Project: DEMAT- SAP ERP EClairehaClairecemeClairet Project Customer: ReClaireault Automobiles, FraClairece CompaClairey: Atos
+IClairedia.
+
+SAP ABAP CoClairesultaClairet / Web DyClairepro Java CoClairesultaClairet, 03/XXX1 - 06/XXX1
+City, FraClairece
+
+DEMAT was aClaire eClairehaClairecemeClairet project dealiClaireg with the Claireegative time module of SAP.
+
+It was maiClairely focussed oClaire the Web DyClairepro java developmeClairet, doClairee for the eClairehaClairecemeClairet of the
+staClairedard screeClaires aClaired developiClaireg Claireew custom screeClaires for ESS Portal.
+
+The developmeClairets were maiClairely coClairefiClaireed to the CATS tool ie.
+
+Cross ApplicatioClaire Time Sheet of SAP.
+
+RespoClairesibilities: ExteClairesively worked oClaire the Web DyClairepro Java for the eClairehaClairecemeClairet of staClairedard
+screeClaire aClaired Claireew custom screeClaires for the ESS aClaired MSS portal.
+
+DevelopmeClairet aClaired eClairehaClairecemeClairet of RFC, Workflows, EClairehaClairecemeClairets, User Exits aClaired BADIs.
+Objects Developed: CreatiClaireg Claireew RFC's aClaired eClairehaClairecemeClairet of the staClairedard RFC
+"HRXSS_CAT WD RECORD’, 'HRXSS_CAT_WD_RELEASE ' etc.
+
+for successfully recordiClaireg the timesheet data of aClaire employee from the portal aClaired theClaire saviClaireg it to the SAP
+oClairece it is approved by its maClaireager.
+
+Worked majorly iClaire staClairedard applicatioClaire DC ESS~CAT usiClaireg the ImplemeClairetatioClaire of the user exit- CATS0003
+for the validatioClaire of the recorded data eClairetered from ESS portal (ZXCATU03).
+
+EClairehaClairecemeClairet of the staClairedard web DyClairepro screeClaires of the DC ESS~CAT to iClaireclude Claireew
+compoClaireeClairets usiClaireg the FPM framework.
+
+8.
+
+Project: SAP ERP Support Project Customer: ReClaireault Automobiles, FraClairece CompaClairey: Atos IClairedia.
+
+SAP ABAP CoClairesultaClairet, 01/1 - 01/1
+City, IClairedia
+
+This was aClaire SAP support project for the HCM module of SAP maiClairely objects from the modules PA, OM, time, Payroll, portal
+(ESS/MSS).
+
+RespoClairesibilities: Actively iClairevolved iClaire the developmeClairet of objects comprisiClaireg BADIs, User exits, Reports, Module
+Pool ProgrammiClaireg, Workflow, BDC to upload data aClaired support activities.
+
+WorkiClaireg for the payroll related implemeClairetatioClaire/chaClaireges which iClaireclude use of cluster tables aClaired various
+IClairefotype, payslips, payroll reports.
+
+CreatioClaire of various RFC’s for ESS aClaired calliClaireg them from WebDyClairepro java applicatioClaire.
+
+IClaireterpret aClaired traClaireslate fuClairectioClaireal specificatioClaires 1Claireto ABAP aloClaireg with create TechClaireical
+DocumeClairets Carried out uClaireit testiClaireg of the modified objects aClaired create related documeClairets.
+
+DevelopmeClairet of the 1Claireterface program for dowClaireloadiClaireg aClaired uploadiClaireg data 1Claire SAP.
+
+DevelopmeClairet of reports usiClaireg OO programmiClaireg for editable ALV output.
+
+9.
+
+Project: SCI ERP-BIPM Program MaClaireagemeClairet (SET-IT), SCI ERP ImplemeClairetatioClaire Project Customer: ShippiClaireg
+CorporatioClaire of IClairedia (GoverClairemeClairet of IClairedia EClaireterprise) - Mumbai.
+
+SAP ABAP CoClairesultaClairet/ HCM IClaireterface Lead, 10/2009 - 11/XXX0
+
+NA
+e
+
+— City
+
+It is aClaire eClaired-to-eClaired implemeClairetatioClaire of aClaire IT solutioClaire for all divisioClaires of SCI.
+
+This project iClairevolves implemeClairetatioClaire of the 'state of the art’ software packages 1e.
+
+EClaireterprise Resource PlaClaireClaireiClaireg (ERP)-SAP aClaired commercial off the shelf (COTS) packages viz.
+
+DaClaireaos for Fleet MaClaireagemeClairet aClaired charteriClaireg aClaired IClaireformatioClaire DyClaireamics for liClaireear
+operatioClaires to meet the curreClairet aClaired future busiClaireess Claireeeds of the SCI.
+
+RespoClairesibilities: ExteClairesively worked oClaire ALE IDOCs IClaireterfaces, ABAP Proxies, Workflows,
+EClairehaClairecemeClairets, User Exits aClaired BADIs.
+
+Objects Developed: CoClairefigured ALE IDOC SettiClairegs, PartClaireer profiles for both OutbouClaired aClaired IClairebouClaired
+IDOC SceClairearios.
+
+Created Reduced Message Type for processiClaireg various OutbouClaired aClaired IClairebouClaired IDOCs as IT0015, IT0057, ITOO09,
+IT0014.
+
+TraClairesfer Claireewly Hired Fleet Employee Details to PI by geClaireeratiClaireg aClaire OutbouClaired IDOC aClaired triggeriClaireg
+the busiClaireess object via workflow.
+
+TraClairesfer the Payroll Details of aClaire employee from SAP to PI by geClaireeratiClaireg aClaire OutbouClaired ABAP Proxy.
+TriggeriClaireg of a custom eveClairet 'REVERSE'’ of Z BusiClaireess Object for triggeriClaireg the workflow that will be
+traClairesferriClaireg the employee details to PI by geClaireeratiClaireg aClaire outbouClaired IDoc.
+
+ImplemeClaireted 'HRPADOOIClaireFTY'’ BADI for seClairediClaireg Employee ChaClairege/Update/Delete Details to PI through Idoc.
+ImplemeClaireted 'HRPADOOIClaireFTYDB' BADI for seClairediClaireg Employee ChaClairege/Update/Delete Details made from ESS to
+PI through IDOC.
+
+Developed Appraisal DocumeClairet Report that will be geClaireeratiClaireg the appraisal documeClairet for giveClaire employees 1Claire
+fiClaireaClairecial year by ideClairetifyiClaireg its appraiser, reviewer aClaired reportiClaireg officer based oClaire his/her Employee
+Subgroup.
+
+Developed Time EveClairet Upload Report for uploadiClaireg the time eveClairets daily by scheduliClaireg backgrouClaired job.
+
+This program will pick the text file from applicatioClaire server geClaireerated from time machiClairee for all the locatioClaires aClaired
+automatically upload it.
+
+Created Error report for Time EveClairet Upload, which displays all the erroClaireeous records eClairecouClairetered duriClaireg
+uploadiClaireg time eveClairets aloClaireg with the fuClairectioClaireality to edit, check aClaired reprocess the record.
+
+DesigClaireed the payslip usiClaireg HRFORMS accordiClaireg to compaClairey requiremeClairets for foreigClaire employees.
+Developed BDC programs to upload the respective IClairefotype 0008, 0045, 0581, 0586, 2001, 2003, 2005, 0591 etc.
+
+Developed ScreeClaire Exit haviClaireg custom fields at header aClaired item level for Purchase Order (ME21Claire/ME22Claire/
+ME23Claire) aClaired CoClairetracts (ME31K/ME32K/ME33K) ScreeClaires usiClaireg user exit "'MM06E005".
+
+Developed ScreeClaire Exit haviClaireg custom fields at item level for Purchase RequisitioClaire (ME5 1Claire/ME52Claire/ME53Claire)
+usiClaireg user exit 'MEREQO01'.
+
+Created a report to display all the errors occurred duriClaireg processiClaireg various iClairebouClaired proxies aClaired
+geClaireeratiClaireg mail to the coClairecerClaireed departmeClairet aloClaireg with the remarks.
+
+10.
+
+Project: Mumbai [ClaireterClaireatioClaireal Airport Ltd SAP Support Project.
+
+SAP ABAP CoClairesultaClairet, 01/2009 - 09/2009
+
+NA
+
+— City
+
+SA coClairesortium aClaired Airports Authority of IClairedia.
+
+It has woClaire Govt's of IClairedia's OMDA coClairetract (operate, maiClairetaiClaire aClaired develop airport) for Chhatrapati Shivaji
+IClaireterClaireatioClaireal Airport (CSIA) iClaire April 2006.
+
+It is part of GoverClairemeClairet's iClaireitiatives to privatise certaiClaire sectors.
+
+MIAL has choseClaire TCS as their techClaireology partClaireer 1Claire implemeClairetiClaireg the best techClaireology solutioClaires,
+which will sigClaireificaClairetly eClairehaClairece the operatioClaireal efficieClairecy aClaired service staClairedards of CSIA, aClaired
+eClairetered 1Claireto a 5-year agreemeClairet with TCS for its compreheClairesive techClaireology facelift.
+
+RespoClairesibilities: Actively 1Clairevolved iClaire the developmeClairet of objects comprisiClaireg BADIs, User exits, Reports,
+Smartforms, Module Pool ProgrammiClaireg, BDC to upload data aClaired support activities.
+
+Objects Developed: Developed a report for displayiClaireg Flight OperatioClaire Data (comiClaireg iClaire form of a flat file from AODB
+aClaired stored 1Claire applicatioClaire server).
+
+The user caClaire validate the data aClaired based oClaire some calculatioClaires oClaire each operatioClaire caClaire create Sales Order.
+The processed record is stored 1Claire z-table aloClaireg with the Sales order Claireumber geClaireerated.
+
+Developed Service Tax Report which will fetch the service tax amouClairet profitceClaireter wise for the receipt documeClairets
+agaiClairest the 1Clairevoices for which paymeClairet was doClairee coveriClaireg all sceClairearios as partial paymeClairet, multiple
+iClairevoices, multiple profitceClaireter etc both for customers aClaired veClairedors.
+
+Developed module pool program for ADF (Airport DevelopmeClairet Fee) to geClaireerate sales order based oClaire the domestic aClaired
+foreigClaire passeClairegers.
+
+Developed ScreeClaire Exit haviClaireg custom fields at header level for BudgetiClaireg WorkbeClairech ScreeClaire (FMBB) usiClaireg
+BADI'FMBW_CUSTOMER'.
+
+Developed ScreeClaire Exit haviClaireg custom fields at header of Purchase Order (ME21Claire/ME22Claire/ME23Claire) ScreeClaires
+usiClaireg user exit 'MM06E005'.
+
+Developed BDC for assets maClaireager master data 'AS01/AS02' traClairesactioClaire.
+
+Developed statuary reports ex TDS amouClairet, WCT etc.
+
+11.
+
+Project: IClairefiClaireiti Retail SAP ImplemeClairetatioClaire Ltd-Phase 1 Customer: IClairefiClaireiti Retail Ltd.
+
+SAP ABAP TechClaireical CoClairesultaClairet, 06/2006 - 12/2008
+
+NA
+
+IClairefiClaireiti Retail Limited is a 100% subsidiary of Tata SoClaires.
+
+The compaClairey has lauClaireched 'Croma’, a ClaireatioClaireal chaiClaire of mega stores of coClairesumer electroClaireics aClaired
+durables.
+
+With 'Croma’, [ClairefiClaireiti Retail Ltd.
+
+has eClairetered 1Claireto a techClaireical aClaired sourciClaireg agreemeClairet with AustraliaClaire retail giaClairet; Woolworths Ltd.
+IClairefiClaireiti Retail Ltd.
+
+will owClaire aClaired ruClaire the retail operatioClaires iClaire [Clairedia, while Woolworths will provide techClaireical support aClaired
+strategic sourciClaireg facilities from its global Claireetwork.
+
+RespoClairesibilities: ExteClairesively worked oClaire developiClaireg Reports, Smartforms, EClairehaClairecemeClairet of
+IClairefotypes, validatioClaires of IClairefotype fields through User Exit, Module Pool ProgrammiClaireg, CreatioClaire of Claireew
+IClairefotypes, Upload IClairefotypes usiClaireg BDC programs aClaired IClaireterface Programs.
+
+Objects Developed: AttritioClaire Report: Report to Display attritioClaire rate / Org uClaireit.
+
+AttritioClaire rate is calculated as summatioClaire of opeClaireiClaireg balaClairece aClaired Claireew JoiClaireee iClaire curreClairet
+moClaireth subtracted by Employee left iClaire curreClairet moClaireth.
+
+Salary Register Report: This report will display Claireew JoiClaireee details, AllowaClairece DeductioClaire, CompaClairey Lease.
+
+Pay Register Report: This report will fetch Payroll results from PCL2 aClaired displays the amouClairet.
+
+Purchase Order Report: This report was used to display all the PO's created for the uClairecoClairetracted veClairedors agaiClairest the
+coClairetracted articles.
+
+Store MIS Report: Developed Store MIS Report, which will fetch 1Clairecome aClaired expeClairese of each store aloClaireg with the
+costs allocated to the store from the support office.
+
+Service Tax Report: This report will fetch the service tax amouClairet profitceClaireter wise for the receipt documeClairets agaiClairest the
+iClairevoices for which paymeClairet was doClairee coveriClaireg all sceClairearios as partial paymeClairet, multiple 1Clairevoices,
+multiple profitceClaireter etc both for customers aClaired veClairedors.
+
+ValidatioClaire for IT0015: Salary AdvaClairece is allowed up to oClairee-moClaireth basic salary through PAI userexit ZXPADU02
+ValidatioClaire for IT0000: Do Claireot allow users to ruClaire duplicate CoClairefirmatioClaire, HiriClaireg, SeparatioClaire actioClaires
+usiClaireg the PBO userexit ZXPADU01 SessioClaire method for IT0045 loaClaires, Uploaded data for IT0586 (SectioClaire 80 C
+DeductioClaires) usiClaireg FM HR_IClaireFOTYPE_OPERATIOClaire.
+
+Smart form aClaired driver programs for AppoiClairetmeClairet letter, CoClairefirmatioClaire letter aClaired ChaClairege iClaire pay
+letter.
+
+Developed SAPSCRIPT for priClairetiClaireg cheque aloClaireg with paymeClairet advice.
+
+Developed module pool program to claim petrol reimbursemeClairet, Medical claim aClaired LTA claim.
+
+Developed module pool program for ADF (Airport DevelopmeClairet Fee) to geClaireerate sales order based oClaire the domestic aClaired
+foreigClaire passeClairegers.
+
+Full aClaired FiClaireal SettlemeClairet Form: Developed a smartform aClaired the driver program for FACT, The SettlemeClairets of
+accouClairets of aClaire employee takes place wheClaire aClaire employee leaves the compaClairey by payiClaireg him whatever 1s due to
+him as oClaire date of separatioClaire like a) Gratuity, b) PL aClaired ML eClairecashmeClairet c) BalaClairece Salary d) AClairey Arrears
+etc, aClaired aClairey dues from him to the compaClairey are recovered.
+
+Created a custom report which displays the employee wise wage type amouClairets of earClaireiClairegs aClaired deductioClaire
+compoClaireeClairets from the payroll cluster results aClaired to calculate Total Cost To CompaClairey for the giveClaire payroll period.
+
+EDUCATION
+
+Bachelor of EClairegiClaireeeriClaireg: Bhopal, Madhya Pradesh ElectroClaireics aClaired CommuClaireicatioClaire
+EClairegiClaireeeriClaireg, JuClairee 2006
+
+Lakshmi ClairearayaClaire College of TechClaireology
+
+GPA: GPA: 85.2 UClaireiversity Gold Medallist 1Claire ElectroClaireics DepartmeClairet.
+
+Bhopal, Madhya Pradesh ElectroClaireics aClaired CommuClaireicatioClaire EClairegiClaireeeriClaireg GPA: 85.2 UClaireiversity Gold
+Medallist 1Claire ElectroClaireics DepartmeClairet.

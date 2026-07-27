@@ -1,0 +1,49 @@
+Robert Smith hore Sasbibae
+
+Email: info@qwikresurme.com.
+
+Website : wwew,qwikresume, com
+
+Jr. Java Developer Linkedin: linkedin.corn/qwikresumne
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+
+Jr. Java Developer with around 2 years of professional IT experience as a Prograrnmer Analyst and
+Software Engineer with complete project lifecycle in Java//2EE technologies. Experience in
+analysis, design, development, testing, integration, and deployment of application software in
+web-based environments and client/server architectures. Strong experience in building the
+Frameworks using Struts Model-View-Controller (MVC) and spring frameworks.
+
+SKILLS
+
+Java/|2EE Technologies
+WORK EXPERIENCE
+
+Jr. Java Developer
+SE2 - February 2017 - Present
+* Involving in gathering and analyzing functional requirements and converting to technical
+requirements,
++ Using Eclipse as IDE tool to develop the application and jira for bug and issue tracking.
++ Extensive experience in database programming on stored procedures, functions, and triggers
+using (SQL, PL/SQL) with Oracle,
++ Installing the application on AWS EC2 instances and also configured the storage S3 buckets,
+* Designing and developing the Ul screens with Bootstrap and Angular|s to provide interactive
+screens to display data,
+» Involving in the implementation of MVC pattern using Angular JS, JSF and spring controller,
+* Created groovy scripts using the CLI in spring boot for rapid application development,
+
+Junior Java Developer
+ABC Corp - 2015 - 2016
+« Understood and produced the technical specifications for new or existing systems,
++ Collaborated with the tearn in designing, architecting, implementing, and testing phases,
+* Developed JEE Web applications using available tools &amp; technologies,
+* Researched technology solutions &amp; take charge of vetting and verifying solutions.
+* Made contribution in defining functional and non-functional requirernents,
+» Performed the tasks with minimal direction or supervision.
++ Provided guidance to other developers and monitor progress to ensure a task is completed.
+
+EDUCATION
+Bachelors - (2012)
+
+© This Free Resime Tempimte ls the copyright of Qwikresume.com. Usage Guilctelines

@@ -1,0 +1,49 @@
+INFORMATION TECHNOLOGY (IT)
+
+RESUME SAMPLE
+
+from Resume Genius
+
+about me contact
+
+IT Specialist with over 7+ years of experience in information security and digital forensics. Expert with a wide variety of security,
+engineering, networking, and operating system software. Possesses
+
+an Associate Degree in Information Security and Digital Forensics.
+
+(123) 456-7895
+
+HarperStewart@gmail.com
+
+45 Winfield Dr.,
+Charleston, SC 90764
+
+Linkedin.com/in/username
+
+EDUCATION SKILLS CERTIFICATIONS
+
+SOR CS
+
+B.S. INFORMATION McAfee SIEM/EPO/NSM CERTIFIED INFORMATION TECHNOLOGY FireEye CMS/ETP SYSTEMS SECURITY
+Trident Community College wenYe PROFESSIONAL (CISSP)
+2013 OllyDbg / WinDbg / GBD auu4 MICROSOFT CERTIFIED SYSTEMS i PVi A.A. INFORMATION SECURITY Wireshark / TCPView ENGINEER (MCSE)
+AND CONT AL PORES DNS Servers, Mail Server 2013 Trident Community College
+2011 Windows XP, Vista, 7, 8, Linux COMPUTER SECURITY & FORENSICS CERTIFICATE
+2012
+
+WORK EXPERIENCE
+---------------
+
+2014 - Present SECURITY OPERATIONS SECURITY ANALYST / Security Professionals Inc. / Columbia, SC
+
+® Monitor multiple security systems for a Fortune 500 company
+
+- Investigate incidents caused by malicious activities, and identify false positives
+
+® Document security events daily to create a baseline of activity for the client network
+
+2011 - 2014 NETWORK OPERATIONS MONITORING TECHNICIAN / Technology Smarts / Charleston, SC ® Refined and improved the existing documentation system, resulting in reduced
+labor costs totaling $15,000 annually via increased workplace efficiency
+- ® Consolidated multiple ticketing systems, improving communication and ticket turnover rate by 7%
+
+- Investigated alerts created by IDS/IPS, including malicious file uploads, compromised servers, SQL injections, and port scanning

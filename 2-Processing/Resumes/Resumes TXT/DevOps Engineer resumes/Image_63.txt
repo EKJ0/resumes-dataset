@@ -1,0 +1,58 @@
+ROBERT SMITH
+Jr. DevOps Engineer
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Around 6+ years of IT experience as a DevOps Engineer with expertise in areas of
+Software Configuration Management, Version Control, Build and Release management,
+Linux System Administration. Experienced in branching, tagging and maintaining the
+version across the environments using SCM tools like GIT, Subversion (SVN} and TFS on
+Linux and Windows platforms. Implemented TortoiseSVN and webSVN for Subversion
+and integrated Jira (change management tool), Excellent interpersonal skills, ability to
+interact with people at all levels,
+
+CORE COMPETENCIES
+
+DevOps Tools SCM, Git, GRUNT, SonalQube. Bitbucket, Maven, Chef, Puppet, SaltStack,
+Hudson. Jenkins, Docker, Agile, Jira, Nagios. Operating Systems Red Hat Linux 3.x, 4.x.
+5.x, 6.x. Ubuntu, CentOS, Windows, Hardware IBM P-series, Fujitsu Prime-powers.
+
+PROFESSIONAL EXPERIENCE
+
+dr. DevOps Engineer
+ABC Corporation - January 2015 - Present
+
+Key Deliverables:
+
+* Working as a DevOps Engineer for a tearn that involves three different
+development teams and multiple simultaneous software releases,
+
+* Excellent interpersoru! skills, ability to interact with people at all levels,
+
+* Good experience in working with a team (together to deliver the best outputs in
+given time frames.
+
+* Supporting the application in production and worked closely with off-shore teams.
+
+* Developing and implementing software release management strategies for various
+applications according to the agile process.
+
+* Deploying Java applications to application servers in an agile continous
+integration environment and also automated the whole process.
+
+* Performing integration of code quality analysis techniques - check style, find bugs
+with ci tools
+
+DevOps Engineer
+ABC Corporation - January 2013 - December 2014
+
+Key Deliverables:
+* Supporting - patching, rollbacks into sit, UAT, production environments setting
+up SCM/build tools for developers,
+» Helping to resolve all SCM/builds issues like merge conflicts, compilation errors.
+missing dependencies, branching /merging/tagging,
+* Assist in the inciderit managemerit process by reviewing production data and
+providing analysis of Customer-impacung incidents.
+
+2259 Oak Street, Old Forge, New York, 13420
+© This ree Resume Template is the copyright of Quilesume.com, Usage Guidelines
