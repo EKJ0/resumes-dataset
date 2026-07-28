@@ -1,129 +1,50 @@
-# ============================================================
-# Python
-# ============================================================
-
+@'
+# Python-generated files
 __pycache__/
 *.py[cod]
 *$py.class
 
+# Virtual environments
 .venv/
 venv/
 env/
 ENV/
 
+# Python tool caches
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 .ipynb_checkpoints/
 
-.coverage
-coverage.xml
-htmlcov/
-
-
-# ============================================================
-# Local configuration and secrets
-# ============================================================
-
+# Secrets and environment variables
 .env
 .env.*
 !.env.example
-
-*.key
-*.pem
 credentials.json
 secrets.json
+*.key
+*.pem
 
-
-# ============================================================
-# Local AI/agent configuration
-# ============================================================
-
-.agents/
-
-
-# ============================================================
-# VS Code and other IDE files
-# ============================================================
-
+# Local editor configuration
 .vscode/
 .idea/
-
 *.code-workspace
 *.swp
 *.swo
 
+# Local AI-agent configuration
+.agents/
 
-# ============================================================
-# Windows and operating-system files
-# ============================================================
-
+# Operating-system files
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
 
-
-# ============================================================
-# Temporary files and logs
-# ============================================================
-
+# Temporary files
 *.log
 *.tmp
 *.temp
 *.bak
-*.cache
 ~$*
-
-
-# ============================================================
-# Large model and checkpoint files
-# ============================================================
-
-*.gguf
-*.safetensors
-*.ckpt
-*.pth
-*.pt
-*.onnx
-
-
-# ============================================================
-# Compressed archives
-# ============================================================
-
-*.zip
-*.rar
-*.7z
-*.tar
-*.tar.gz
-*.tgz
-
-
-# ============================================================
-# Large files already rejected by GitHub
-# Keep these locally, but do not upload them
-# ============================================================
-
-2-Processing/First Names/names_output.txt
-3-Data Augmentation/Brainstorming/testing/input/Resume.csv
-
-
-# ============================================================
-# Raw CV datasets
-# Keep private/full resume datasets outside GitHub
-# ============================================================
-
-1-Data Collection/Resumes PDF/
-1-Data Collection/Resumes TXT/
-1-Data Collection/resumes/
-1-Data Collection/raw/
-1-Data Collection/datasets/
-
-
-# ============================================================
-# Allow documentation/placeholders inside ignored data folders
-# ============================================================
-
-!1-Data Collection/README.md
-!1-Data Collection/.gitkeep
+'@ | Set-Content -Encoding UTF8 .gitignore
