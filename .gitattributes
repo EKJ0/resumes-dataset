@@ -2,3 +2,4 @@
 2-Processing/First[[:space:]]Names/names_output.txt filter=lfs diff=lfs merge=lfs -text
 3-Data[[:space:]]Augmentation/Brainstorming/testing/input/Resume.csv filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
+Candidate[[:space:]]Profiles[[:space:]]by[[:space:]]Category.zip filter=lfs diff=lfs merge=lfs -text
