@@ -1,0 +1,77 @@
+Robert Smith a .
+a
+SQL Developer (Intern) (123}-456-7899 info@qwikresume,com
+www.qwikresume.com PERSONAL STATEMENT Over 4 years IT experience in Systern Analysis, Design and Development & SKILLS
+Support of MS SQL Server. Expertise in SQL Server Integration Services MS SQL Server
+(SSIS) and SQL Server Reporting Services (SSRS). Excellent knowledge in 2000/2005/2008r2,201 2,
+
+creating Databases, Tables, Stored Procedures, DDL/DML Triggers, Views, User defined data types, functions, Cursors and Indexes using T-SQL.
+Experience in creating packages to transfer data between Access, Excel,
+
+CSV, Oracle, flat file, Text Data to SOL SERVER using SSIS.
+
+WORK EXPERIENCE
+---------------
+
+SQL Developer (intern)
+ABC Corporation- January 2005 - March 2007
+
+Re sponsibilities-
+
+Responsibilities Supervised the activity of the Database for Identifying the bottlenecks that are slowing down the performance of the data
+warehouse,
+
+Identified and implemented the methods to fine tune the queries, procedures and functions.
+
+Reviewed the executions of views and stored procedure and identified the bottle necks within the query.
+
+Monitored Database and Server Resources with various tools such as Perforrnance Monitor, SQL Profiler, Stored Procedures and Database
+Tuning Advisor,
+
+Implemented Peer to Peer Transactional Replication within the system.
+Creation of file groups for the existing Tempdb Database.
+
+Changing collation in the existing configurations,
+
+SQL Developer
+
+ABC Corporation -
+
+2003 - 2005
+
+Responsibilities:
+
+Project Description A three-year IT outsourcing deal with technology
+giant Microsoft that covers 104 countries.
+
+Infosys will manage Microsofts global internal IT services including helpdesk, desk-side services, and IT infrastructure and applications
+support.
+
+Provided support for MS Order Management Platform and MERT Applications.
+
+Responsibilities Worked in BGOS Cluster as an L3 analyst, providing support for Order Management application Troubleshooting of issues
+faced by users while interacting with the order management systern Help core tearm in providing information on issues faced by cuistorners
+and test the solution before releasing it to custorner.
+
+Monitor Server Alerts and services running on the servers, Responsible for timely updating alert configuration and analyzing
+conditions for throwing the alert and troubleshooting appropriately Actively participates in discussion for proposing enhancements and
+improvernents In the application as per customer requirernents.
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+MS SSRS, MS SQL SSAS, MS SSIS, AS400, DB2 SQL syntax, MS-Access
+2000, C, C++, VB
+6.0,Developer 2000, T- SQL, PL/SQL, ASRNET, HTML, XML, XSL, Visual
+Studio 2008, T-SQL, PL- SQL, Crystal Reports, ODBC, MS Office,
+Windows NT/ 2000 Server) XP, MATLAB, MS SQL Server.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

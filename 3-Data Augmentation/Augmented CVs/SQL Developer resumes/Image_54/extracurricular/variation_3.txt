@@ -1,0 +1,62 @@
+ROBERT SMITH SQL Developer (SSIS)
+
+Phone: (0123)-456-789
+
+SUMMARY
+-------
+
+$+ years of experience in Data warehousing and Business [ntelligence technologies along with 4 years of
+data visualization using Tableau Desktop. Expertise in data cleansing for analysis, perform data quality
+testing for gaps, and liaising with data origination teams.
+
+SKILLS
+------
+
+MS Visual Studio 2008, BITS, SQL Server 2008R2, Windows 2000/XP, XP professional, PPS, Erwin 4.0,
+ETL, XML, Visual Studio 2010.
+
+WORK EXPERIENCE
+---------------
+
+SQL Developer (SSIS)
+ABC Corponition - March 2008 - September 2010
+
+- Responsibilities Interacted with the Business Users and Supervisors to guther business requirements.
+- Converted the User Requirements into Business Requirements Document, Functional and Technical Requirements Documents Created Business Process Models from the requirement specifications.
+
+- Worked on developing Tables, Views, Indexes, Stored Procedures, Triggers, Queries, and Macros
+using MS SQL Server 2105, and MS Access databases Involved in Partitioning tables that have bulk
+inserts, deletes and updates to improve the performance.
+
+- Extracted data from xml and flat files using SSIS Genemted parimeterized/Drilldown, Drill through amp; Cascaded reports using SSRS,
+
+- Created, maintained, modified, and optimized SQL Server databases, dutahase security and auditing Designed, progrimmed, deployed and tested the requested Reports,
+
+® Designed ER diagrams (Physical and Logical using Erwin) and napping the data into database
+objects.
+
+® Developed Data Flow Diagrams, illustrating the flow of data from the legacy systems into the
+Application datuhase Tables, alang with checkpoints for testing verification.
+
+SQL Developer
+ABC Corpomition - 2006 - 2008
+
+- Dr
+
+® Reddys is a global, vertically integrated pharmaceutical company with a presence acmss the value
+chain und uctive pharmaceutical ingredients and biological products The project involyed computerizing Payroll Activities and production control activities of Dr,
+
+® Recklys.
+
+- his capable of generating monthly income statements of all employees.
+
+- itis maintaining the dutabase of entire industry staff and generating reports over each issue.
+
+- Participated in collecting all the requirements for building the database Created and designed required tables, indexes and constraints for all production activities Responsible for Data Modeling
+
+- This Ens Remus Tomphats = the copyright of Qwiknewimecom, Usage Galdsfines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

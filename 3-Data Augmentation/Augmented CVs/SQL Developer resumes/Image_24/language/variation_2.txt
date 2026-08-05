@@ -1,0 +1,67 @@
+Juni SQL Developer Phone: (123) 456 78 99
+= Email: info@qwikresume.com
+Website: www.qwilcres ume.con:
+
+ROBERT SMITH Linkedin: linedin.com/quileresume
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Over 7 and half years of strong experience with Demonstrated success in the Database Design,
+Development and Deployment of large-scale enterprise applications. Expert in MS SQL Server suite
+of products like SSIS, SSAS and SSRS. Hands of experience on Database development in OLTP {Online Processing) and OLAP(SSIS, SSRS and SSAS)
+
+Soltware Development, SQL, Database Management, codereview, unit testing, dao, Oracle, Web
+Services, ide, Business Development, aop, oop.
+
+WORK EXPERIENCE
+---------------
+
+Junior SQL Developer
+Ace Parking - September 2013 - 2019
+
+Design and deploy SSRS reports for visual presentation of the data Developed T-SQL codes, ETL Processes to collect /consolidate data from a variety of sources.
+
+Developed parameterized dashboards and reports with SQL Server Reporting Services (SSRS}.
+Develop T-SQL code, stored procedures, views, functions, and other database objects to supply
+data needed for the reports.
+
+Integrate data from various sources using SSIS, validate data and create reports.
+
+Responsible for developing and optimizing reporting solutions using SQL Server Reporting Services (SSRS} to author, manage, and deliver dynamic, interactive, drill-down web-based
+
+reports.
+
+Used tools (Excel and SQL) to analyze, query, sort and manipulate data according to defined
+business rules and procedures.
+
+Optimized the queries which were running slowly.
+
+SQL Developer
+
+ABC Corporation - 2009 - 2013
+
+Technologies SQL Server 2008, BIDS Description As a part of the e-Governance initiative, Ministry of Commerce {MOC} has entered into a formal agreement with NSDL Databasc
+Management Limited (NDML) for establishing and managing a nationwide integrated solution for administration of Special Econamie Zones {SEZ} of India.
+
+SEZ Online is a total integrated solution offered by NDML for the administration of SEZ to
+facilitate speedy processing of various transactions, transparency In activities by reducing
+physical interface and using modem technology solutions of online electronic transaction processing and payment.
+
+This development is In collaboration with Infasys.
+
+Responsibilities Created disaster recovery plan to restore SQL Server and databases hosted on
+the server Used SQL Profiler to monitor applications using SQL Server Perform periodic checking of databases with DBCC command for maintaining data consistency and integrity
+and rebuilt indexes.
+
+SAN Storage Configuration for clusters & servers Establish and maintain sound backup and recovery policies and procedures Review Database design and implementation and recommend
+improvements Implement and maintain database security (create and maintain.
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

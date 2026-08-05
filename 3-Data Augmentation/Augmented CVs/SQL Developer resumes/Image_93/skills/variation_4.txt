@@ -1,0 +1,69 @@
+Robert Smith
+
+Lead Senior Sql Server Developer
+
+PERSONAL STATEMENT
+
+8 years of IT experience in database design, developrnent and support of Microsoft SQL Server for Production/Development environments, Hands on
+experience In dealing with Relational Database Management Systerns, including Stored Procedures, Constraints, Querying, Joins, Keys, Indexes,
+Data Import/Export, Triggers and Cursors, Normalization.
+
+WORK EXPERIENCE
+---------------
+
+Lead Senior Sqi Server Developer
+ABC Corporation- June 2013 - July 2014 Responsibilities:
+
+= Deployed SSIS Package into Production and used Package configuration to export various package properties to rnake package environment
+Independent.
+
+- Built SQL[] cluster environments on VMware or Physical windows.
+
+= Performed installations of SQL on clustered and standalone servers Uparadtions of sql server versions and applying patches and hot fixes.
+
+- Involved in developrnent &amp;Deployment of SSAS Cubes and Monitor Full and Incrernental loads and support any Issues,
+
+= Created SSIS packages for File Transfer from one location to the other using FTP task with Master SSIS Package to run all other packages
+Adding nodes to already existing clustered servers as a part of data loadHigh availability.
+
+= Configured Transactional Replication and Log Shipping with SQL Server Management Implementation of SQL server logins, Roles and
+Authentication modes as a part of security policies.
+
+= Identified and Defined Key Perforrnance Indicators in SSAS Work on weekly Issues reports which are generated as a part of infrastructure
+setup.
+
+Senior Sq! Server Developer
+Delta Corporation- 2011-2013 Responsibilities:
+= Responsibilities As a member of Database and BI Reporting tearm ,
+
+extensively worked on T-SQLs, Data loads and Reports for Land Administration &arnp; Revenue Accounting groups Created reports
+using SSRS from various sources like SQL Server [] and Cubes frorn Analysis Services Involved in extracting Data from various data sources
+involving oracle, SQLServer, Flat Files, Legacy databases and other sources from various business units Involved in ETL Loads using
+SSIS/DTS Packages frorn various heterogeneous source systerns like ARIES, TOWL and JIB into the databases for Dashboard Reporting on a
+daily basis Involved in designing Aggregations and pre-calculations in SSAS [] Involved in writing stored procedures for both Online and Batch
+requests handling business logic and functionality of various revenue modules Involved In package migration frorn DTS to SSIS, running
+upgrade advisor against DTS Packages before migration,
+- This Eree Resume Template is the copyright of Quékresume. com. Usage Gukielines
+
+CONTACT DETAILS
+1737 Marshville Road, Alabama
+(123)-456-7899 info@qwikresume,.com
+www.qwikresume.com
+
+Microsoft SSIS, Microsoft SSRS, DTS, Transact- SQL, Oracle, Microsoft SSAS.
+
+English (Native) French (Professional) Spanish (Professional)
+
+INTERESTS
+---------
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company
+
+Name) Reference - 2 (Company Name)
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

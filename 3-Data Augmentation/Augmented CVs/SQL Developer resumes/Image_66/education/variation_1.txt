@@ -1,0 +1,55 @@
+ROBERT SMITH SQL Server BI Developer (SQL/SSIS/SSRS)
+
+E-mail: info@qwikresume.com Phone: (0123)-456-789
+
+SQL Server BL Developer with 6 years of experience in the Healthcare domain. Experience in Database
+Design. Programming, Development, and Implementation of Client-Server Applications & Dutabase
+systems using MSSQL. Experienced in Installing, Upgrading and Configuring of Microsolt SQL Server and
+Databases. Proficient in SQL Server and T-SQL. (DDL and DML.) in constructing Tables, Normalization
+techniques on database Tables.
+
+Data Warchouse Tools, SQL. Server Integration Services (SSIS), SQL Reporting Services (SSRS), SSMS,
+Business Intelligence Development Studio, DTS, Enterprise Manager, SQL. Profiler,
+
+WOKK EXPERIENCE
+
+SQL Server BI Developer (SQL/SSIS/SSRS)
+Inventive Health - January 2013 - Present
+
+- Involving in requirement gathering, anulysis, implementation, development. and proeuction,
+
+- Creating dynamic queries to perform ETL. operations by looping through multiple database servers andi tables.
+
+- Importing and extracting data from various sources such as flat file, access, SQL. server and loaded those data into SQL server to build various reports.
+
+- Designing anc developing the yurious analytical reports from multiple data sources by blending data on asingle worksheet in tableau desktop_
+
+- ‘Troubleshooting SSIS packages and migration procedures and documenting the complex SSIS packages ancl migration procedures.
+
+- SQL server database modeling, design und development with complex sql scripts, stored procedure, views, defined functions, triggers.
+
+- Designing and developing the mappings to load the data from flat file to SQL. server tables for Teporting purposes.
+
+SQL Server BI Developer
+ABC Corp - 2012 - 2013
+
+- Involved in creating reports. creating stored procedures and improving query performance.
+
+Developed stored procedures and views for data import and manipulation.
+
+Expert in extracting and transforming data using DTS in SQL. server, SSIS in SQL
+
+Restricted data for particular users using row level security and used filters.
+
+Involved in the migration of databases from SQL. Server 200% to SQL Server 2012 using SSIS and
+
+third-party tools of pragmatic work Dtsxchange.
+
+- Involved in designing, developing and testing of the ETL. (extract, transformation, and load) strategy to populate the data from various source systems feeds using SSIS.
+
+- This Knee Resume. Tomplate + the copyright of Qwikresume.crn, Usage Cmidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

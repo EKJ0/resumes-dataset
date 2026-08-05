@@ -1,0 +1,65 @@
+Robert S mith Phone (123) 456 78 99
+
+Email; InfoS@awikresume,cor
+
+Website > vow. qwikre sume, com
+
+Sql Database Devel op er Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Over 9 years of DBA experience on Data Design, Development and Administration on SQL Server
+2014, 2012, SQL Server 2008 R2, 2008 and 2005 systern in OLTP/OLAP environment. Experience
+in Oracle Database and Adrninistration AND Development database. Expert in RDBMS concepts
+
+and constructs to design relational databases model and implementation as per business needs,
+
+SKILLS
+------
+
+Creating database triggers for use in automation, Maintaining data quality and overseeing database security,
+
+WORK EXPERIENCE
+---------------
+
+Sql Database Developer
+ABC Corporation - March 2012 - February 2014
+- Installed and configured MS SQL Server and Clients.
+- Created and managed schema objects such as tables, views, clusters, indexes, procedures, triggers and maintained Referential Integrity.
+- Performed Data migration (import &amp; export BCP) from Text to SQL Server.
+- Managed Disk space, memory and User connections.
+- Established DR sites using log-shipping and Wrote dynamic stored procedures for moving Databases from production server to DR server.
+- Performed query tuning and reduced response time by 60%,
+- Performed query plans and enforced indexing In each and every query.
+
+Sql Database Developer
+Delta Corporation - 2011 - 2012
+
+- Project Student Management System (SMS) SMS is a web based software that manages day to day operation for schools.
+
+- Worked with T-SQL to create tables, build stored procedures, building and maintaining SSIS packages, and designing ad-hoc reports for our client to manage student data and provide Capabilities for registering students, grading, tuition payments and to perform other related tasks,
+
+» Used AGILE/SCRUM methodology to implement the application,
+
+- Developed physical data models using E-Draw and created DDL scripts to create database schema and database objects,
+
+- Designed and implernented relational database managernent systern (RDBMS) using MS SQL Server 2008R2;
+
+- Normalized and De-norrmalized tables and maintained Referential Integrity by using Tiagers and Primary and Foreign Keys.
+
+- Used T-SQL scripts to create new tables, develop complex stored procedures, views, triagers and user defined functions.
+
+EDUCATION
+---------
+
+Master of Science in Materials Sclence - August 2011(State University of New York - Stony Brook,
+NY)
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Grukie lings
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

@@ -1,0 +1,67 @@
+SQL BI Developer/Consultant Pian 02) 45600 9
+
+Email: Info@qwikresurne.com
+
+R O B E RT S M IT H Website: cammemmery
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+Highly qualified SQL BI Developer/Consultant with over 3 plus years of experience in
+implementing end-to-end BI solutions using the Microsoft BI Stack (SSAS, SSIS, SSRS, and Tableau)
+within several Industries viz. Manufacturing, Health, Service, and Insurance. Involved in gathering
+business requirements from clients through Joint Requirernent Development sessions for functional and non-functional requirements,
+
+SKILLS
+------
+
+Business Intelligence, Sql Server, Ms Access, SSIS, SSRS, SSIS, C++, Java, HTML, CSS, PHP, SQL,
+TSql,
+
+WORK EXPERIENCE
+---------------
+
+SQL BI Developer/Consultant
+ABC Corporation - Septernber 2013 - April 2014
+
+- Gathered business requirements as an endeavor that will facilitate the planning and Implementation phase of a data warehouse for reporting.
+
+- Conducted JAD sessions with different Auditors, Business Users to capture and docurnent the BRD and transform the relevant /approved BRD into SRS and FRS.
+
+- Developed and created logical and physical database architecture using Erwin.
+
+- Created stored procedures for auditing purposes as well as triggers for data consistency checks,
+
+- Dramatically increased query performance, necessary for statistical reporting after monitoring, tuning, and optimizing indexes by Using Performance Monitor, Profiler, and Index tuning wizard,
+
+- Examined and evaluated the data structures in the source and destination databases/staging Tables.
+
+- Developed complex mappings using SSIS to transform and load the data from various source
+systems like Oracle into the SQL 2008R2/2012 Server target staging database.
+
+SQL BI Developer
+ABC Corporation - 2010 - 2013
+
+- Created new tables, written stored procedures for Application Developers and sarne user- defined functions.
+
+- Created SQL scripts for tuning and scheduling. Performed data conversions frorn flat files into a normalized database structure.
+
+- Handling Users/Logins/User Rights CreatioryDeletion of Linked Servers Managing historical data from various heterogeneous data sources (|.e. Excel, Access)
+
+- Engage in detailed and advanced requirements gathering for BI projects and staternents of work
+
+- This is Dummy Description data, Replace with job description relevant to your current role,
+
+- This is Dury Description data, Replace with job description relevant to your current role.
+
+- This is Durnmy Description data, Replace with job description relevant to your current role,
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Community College of Denver

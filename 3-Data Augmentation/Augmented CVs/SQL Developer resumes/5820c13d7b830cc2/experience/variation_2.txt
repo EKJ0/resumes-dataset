@@ -1,0 +1,81 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+James Jones
+
+Junior SQL Developer | Data Analysis Enthusiast
+
+neip@enhancvcom - - linkedin.com San Antonio, Texas SUMMARY STRENGTHS Passionate Junior SQL Developer with 3 years of honing my skills in g Problem Solving
+‘SQL Server Databases and T-SQL queries, eager to bring my expertise Exhibit sotid problem-sotving skits by
+of buiiding robust data solutions to a vibrant, team-oriented efficiently troubleshooting 100+ database
+environment. Biggest achievement includes developing a database felates issues a4 16M resulting in a 20% improvement in data retrieval speed,
+- Self Starter
+
+Proactive with 2 keen interest for leaming EXPERIENCE 29d adapting to new developments in SQL
+
+and database technologies
+Rackspace Technology (8 2019-2022 @ San Armonia, Texas az Detail Oriented
+
+fesventiate ts setening:Brecapton ane aeetainigt 7 Sees
+- Developed and maintained 50+ queries and stored procedures for implementation
+Of business 105% leading to 15% improvement in efficiency by
+
+- Coltaborated with cross-functional teams 10 transioem and load (ETL) data across various busness systems:
+
+- Developed complex reports that amalgamated data from multiple sources sting ‘Shand SSRS
+
+Database Developer
+
+IBM 82017-2019 @ Austin, Texas,
+
+In charge of database administration tasks and data analysis reporting,
+
+- Developed and designed 3 databuves with advanced dita models, enhancing data strectute optimization
+
+- Performed troubhe shooting and solved 100+ database related issues
+
+- Supported senior management with data analysis and reporting tasks, improvieg: ata driven Gecision making by 30%
+
+Systems Analyst
+
+JD Power £3. 2015-2017 - % Westlake Vitlage, CalMorna
+
+important data.
+
+- Implemented detailed data mapping for extraction and transtormation of dat across 5 buuness ystems
+
+- Developed ang maintained SSIS packages to automate tasks, which reduced manual e#fort by 25% in the data collection process
+
+EDUCATION
+---------
+
+Master's in Information Technology
+Texas A&M University (2.2013: 2015 @ College Station, Texas
+
+Bachelor's in Computer Science University of Houston
+
+- 2007-2035 © Houston, Texas
+
+‘Ensured precision in data mapping and ETL processes. contrideRiNg to efficient data transformation and loading
+
+TSQL queries Stored procedures.
+ETL SSIS SAPB1 Data Analysis
+
+AO a lene
+
+Data Modeting
+
+CERTIFICATIONS
+--------------
+
+Microsoft Certified: Azure Data Engineer ‘Associate
+
+Completed a certification course provided by Microsoft
+
+SQL for Data Science A focused course finished via Coursera, providing in-depth knowledge on SQL
+
+PASSIONS ‘ Data Analysis
+
+Passionate about extracting and analyzing data to infivence business decisions
+
+_ Enjoy watching and participating in various ‘sports activities, paeticularty college and
+professional sports

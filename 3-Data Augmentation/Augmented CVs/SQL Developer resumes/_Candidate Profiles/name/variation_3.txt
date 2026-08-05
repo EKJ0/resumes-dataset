@@ -1,0 +1,148 @@
+Lakisha Washington
+
+CANDIDATE PROFILES — SQL Developer resumes
+Folder: SQL Developer resumes  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_79.txt)
+----------------------------------------------------------------------
+Name: Jill Van Beest
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. led
+Resume Length: 296 words, 25 lines (~0.6 pages)
+
+CANDIDATE 2  (source file: b54cc4f2688ad22b.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 353 words, 35 lines (~0.7 pages)
+
+CANDIDATE 3  (source file: e28e92dade8237f3.txt)
+----------------------------------------------------------------------
+Name: First Last
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Resume Worded University
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 505 words, 65 lines (~1.0 pages)
+
+CANDIDATE 4  (source file: 8e416d6e2ed34722.txt)
+----------------------------------------------------------------------
+Name: Robert Smith Sql Developer
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 329 words, 33 lines (~0.7 pages)
+
+CANDIDATE 5  (source file: b91bda8f9a7985cc.txt)
+----------------------------------------------------------------------
+Name: Caroline M.
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Spanish
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2012 - BS in Computer Science | 2016 Chicago University GPA: 3.8
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed
+Resume Length: 335 words, 54 lines (~0.7 pages)
+
+CANDIDATE 6  (source file: Image_37.txt)
+----------------------------------------------------------------------
+Name: Marshville Road
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master Of Computer Application - 2009 (Maharshi Dayanand University )Bachelor Of Science - (Maharshi Dayanand University )
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 344 words, 29 lines (~0.7 pages)
+
+CANDIDATE 7  (source file: Image_52.txt)
+----------------------------------------------------------------------
+Name: First LAst
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Resume Worded University, San Francisco, CA May 2011
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 475 words, 41 lines (~0.9 pages)
+
+CANDIDATE 8  (source file: Image_48.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 349 words, 32 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: Image_33.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: CONCORDIA UNIVERSITY IRVIN, Irvine, CA | Bachelor of Science in Computer Science, July 2012 Honors: cum laude (GPA: 3.7/4.0)
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 335 words, 30 lines (~0.7 pages)
+
+CANDIDATE 10  (source file: f4c834d8f877eaac.txt)
+----------------------------------------------------------------------
+Name: Jill Van Beest
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2010 - 2014
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. led
+Resume Length: 239 words, 38 lines (~0.5 pages)

@@ -1,0 +1,58 @@
+Robert S mith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+Website > www. qwikresume,com
+
+Senior Sql Developer Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+8++ years of experience SQL Server Administration, Development Database Design in Production
+Development Test environments with Microsoft SQL SERVER [] & 2014, Experience working with
+32bit, 64-bit MS SQL Server Clustered and Standalone Server Environment. Handful experience
+outstanding knowledge on High,
+
+SKILLS
+------
+
+Transact-SQL, Microsoft SSIS, Microsoft SSAS, Microsoft SSMS, Microsoft SSRS, Microsoft SQL
+Server, Oracle, .NET, Data Warehousing Tools, Stored Procedures And Triggers,
+
+WORK EXPERIENCE
+---------------
+
+Senior Sql Developer
+Capital One - June 2014 - 2020
+- Responsibilities Created Stored Procedures, Triggers, Views Functions for application.
+- Migrated the legacy Databases in SQL Server 2000 to SQL Server 2005 using SSIS,
+- Wrote T-SQL staternents for retrieval of data Involved in performance tuning of TSQL queries and Stored Procedures,
+- Trouble shooting of Reports by cross checking Report Layouts, Stored Procedures and SSIS Packages.
+- Developed several Complex Reports using SQL Server Reporting Services (SSRS),
+- Created Ad-hoc Reports, Drill Down Reports, Pivot and Tabular Reports.
+- Upgraded SQL Server 2000 DTS Packages to SSIS for uploading various formats of files
+databases MS SQL Server 2005 using SQL Server Integration Services (SSIS).
+
+Senior Sql Developer
+Delta Corporation - 2013 - 2014
+- Responsibilities Installed and configured SQL Server 2005/2008 on the server and client machines, provide connections and manage databases.
+- Created and maintained various databases for Production, Developrnent Servers using MS
+SQL Server 2005/2008,
+- Planning the location of data, Indexes, and Transaction log files on the disk,
+- Use of DBCC Utilities to maintain the consistency and integrity of each database In the production server.
+- Resolved locking and blocking issues,
+- Tuning the Production server to get the performance improvernent,
+- Running Index tuning wizard for optimal query performance.
+
+EDUCATION
+---------
+BS In Computer Science - 2005(Baker - Flint, Mi)
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

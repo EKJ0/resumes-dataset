@@ -1,0 +1,49 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+ROBERT SMITH Senior Sql Developer III
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+8 years of experience Administration, Data Architect and Development using SQL [] systems in OLTP and OLAP environment. Expertise Interest include Administration,
+Database Design, Performance Analysis, Production Support for Large (VLDB) Complex
+Databases. Implemented side place Migration MS SQL server 2000 to [] and applied Patches Service packs update different versions MS SOL server.
+
+‘CORE COMPETENCIES
+
+Transact-SQL, Microsoft SSIS, Microsofi SSAS. Microsoft SSMS, Microsoft SSRS, Microsoft SQL Server, Oracle, PL/SQL, Data Warehousing Tools, Stored Procedures And
+Triggers, MS Access.
+
+WORK EXPERIENCE
+---------------
+
+Senior Sql Developer Mi
+Abbvie Inc - June 2014 - 2020
+
+Key Deliverables:
+
+- Responsibilities Worked extensively on installation configuration of MS SQL
+Server 2005/2008/2008 R2 standalone clustered Environments Involved in
+migration of MS SQL Server 2005/2008 to MS SQL Server 2008 R2.
+
+- Handled clustering between two Production Servers performed daily backups. developed recovery procedures.
+
+- Experience fleld Unit Testing, have tested codes of T-SQL and SSIS packages in the testing environment,
+
+- Configured DB mail for sending automatic mails to respective people when SSIS process fails.
+
+- Migrated DTS packages to SSIS 2005 packages:
+
+- Ariministered MS SOL Server creating User Logins with appropriate Roles, dropping and locking logins, monitoring User Accounts. granting privileges to users.
+
+- Scheduled Backups for Databases perfornied Restoration operations.
+
+Senior Sql Developer Ht
+Delta Corporation - 2013 - 2014
+
+Key Deliverables:
+- Responsibilities Installatian of MSSQL Server 2012/2008R2 on Production, and Development environment,
+- Assimed for Database Optimization that involved re-engineering the databases, data and index organizing, performance tuning and query tuning,
+- Asa part of the team, configured Transactional Replication with multiple publishers and centralized subseriber for real time reporting.
+
+2259 Oak Street, Old Forge, New York, 13420
+- Thi Free Resume Template t the copy rigin af Quikresume.com, Usage Guidelines

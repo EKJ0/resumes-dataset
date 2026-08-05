@@ -1,0 +1,65 @@
+Robert Sm ith Phone (123) 456 7899
+
+Email: info@qwikresurme.com.
+
+Website : wwew,qwikresume, com
+
+SQL Server Developer Linkedin: linkedin.corn/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+SQL Server Developer with over 4 plus years of experience in Design, Development & Analysis of
+SQL Server and SQL Server Business Intelligence Tools (BIDS) - SSIS, SSRS, and SSAS. Experience
+with Installing, Configuring, Managing, Upgrading, Migrating, Monitoring and Troubleshooting SQL
+Server Developrnent and Administration experience in Database Design and Implementation of
+OLTP and OLAP environment using SOL server.
+
+SKILLS
+------
+
+Relational Databases SOL Server Oracle MS Access, MS Excel, DB2, Sybase. Tools And Packages
+SQL Server Management Studio, Enterprise Manager, Profiler, SSIS, SSRS, SSAS, Erwin, DTS.
+
+WORK EXPERIENCE
+---------------
+
+SQL Server Developer
+ABC Corp - January 2016 - Present
+
+- Designing and implementing the snapshots report, report subscription, data-driven subscription and report caching using report manager.
+
+- Generating SSRS reports which included various reporting features such as groups, sub- groups, adjacent-groups, group by total, group by sub-totals, grand-totals, drill-downs, drill through, sub-reports, navigation reports.
+
+- Creating parameterized reports like standard parameter reports, cascading parameter reports which consist of report criteria in various reports to make minimize the report execution time and to limit the no of records required.
+
+- Creating the linked reports, ad-hoc reports based on the requirement, Linked reports are created in the report server to reduce the repetition in the reports.
+
+- Creating the subscriptions to provide reports on a dally/weekly/monthly/quarterly and annual basis.
+
+- Creating stored procedures to validate the data coming with different data discrepancies using data conversions,
+
+- Creating sub-reports, bar chart, matrix reports, parameterized reports, cross-tab reports, drill down reports &amp; summary reports for newly created markets,
+
+SQL Server Developer
+ABC Corp - 2014 - 2016
+- Successfully deployed reports in various sources like XML, web browser and pdf.
+- Designed and developed the micro-strategy schema objects like attributes, facts, and hierarchies using micro strategy architect.
+- Extensively worked in developing metrics, derived metrics, cormpound metrics and filters for complex reports,
+- Created logical views in micro-strategy for complex report creation scenarios.
+- Designed and coded the database tables to store application data,
+- Worked with application developers to create optimized stored procedures,
+- Identified and created the indexes to improve database performance,
+
+EDUCATION
+---------
+
+Bachelor Of Technology in Computer Science &amp; Engineering - 2013 (University Of Kerala )
+
+- This Free Resume Template fs the copyright of Qwikresume.com. Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

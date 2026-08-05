@@ -1,0 +1,48 @@
+Robert Smith
+
+Senior SQL Server / BI Developer
+
+PERSONAL STATEMENT
+
+Senior SQL Server / BI Developer with over 6+ years of strong experience in the Manufacturing domain as a SQL Server Developer (SSIS, SSRS), Tableau
+Desktop and Server with sound business analysis skills. Good knowledge in all phases of Software Development Life Cycle (SDLC), Good knowledge in
+Designing, Building Dimensions, Cubes with Star Schema and Show-Flake Schema using SQL Server Analysis Services (SSAS),
+
+WORK EXPERIENCE
+---------------
+
+Senior SQL Server / BI Developer
+Atrium Corporation - May 2015 - Present Responsibilities:
+- Developing SQL programs and stored procedures as required for the ETL Processes and data integration activities. = Building and maintaining SQL scripts, indexes and complex queries for data analysis, = Planned, designed and implernented application database code objects, such as stored procedures, functions and views.
+- Creating complex SQL scripts using joins (inner and outer), CTE and derived table. = Working on functional design, system analysis, the gathering of user requirements and maintaining good docurnentation,
+- Extensively using joins, stored procedures and sub-queries to sirnplify complex queries involving multiple tables, = Experience on normalization and de-normalization of existing tables for faster query retrieval,
+
+SQL Server BI Developer
+ABC Corp- 2012-2015 Responsibilities:
+» Made the package dynamic by creating project parameters and passing
+into the expression on visual studio 2010.
+= Worked on file system task to rename the source files once it has been loaded into tables,
+» Interacted with business analyst, subject matter experts and stakeholders to understand their needs and provide solutions by writing
+SQL objects.
+= Developed SSIS packages using SQL Azure database and used SQL Azure database to connect to Power Bl,
+- Maintained the historical data in data warehouse used ETL to implement the slowly changing transformation. » Created ETL SSIS packages both design and code to process data to target databases. = Created SSIS package to export and import data from SQL server to text and excel files and configured SQL mail agent for sending automatic emails.
+
+- This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines
+
+1737 Marshville Road, Alabarna
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+MS SOL Server Access, Query Analyzer, DTS, SOL Profiler, Excel, Word
+
+English (Native) French (Professional) Spanish (Professional)
+
+Clirnbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

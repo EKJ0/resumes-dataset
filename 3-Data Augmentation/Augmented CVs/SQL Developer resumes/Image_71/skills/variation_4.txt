@@ -1,0 +1,43 @@
+ROBERT SMITH SQL Server BI Developer
+
+Phone: (0123}-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+‘SQL Server BI Developer with over 7+ years of experience in the Healthcare domain, with experience in Database Design, Development and Implementation of SQLSERVER and
+providing ETL/ Business Intelligence applications using Microsoft components.
+Effectively involved in all the phases of Software Development Life Cycle such as Analysis, Design, Development, Testing. Implementation, and Maintenance of projects.
+
+ICORE COMPETENCIES
+
+SQL Server Tools: BIDS, Enterprise Manager. DTS, Profiler, DTA. Upgrade Advisor. ETL & Reporting Tools: SSIS, SSRS, SSAS, Crystal Reports, Business Objects, ProClarity,
+Databases: MS-SQL Server MS Access.
+
+WORK EXPERIENCE
+---------------
+
+- Experience in working with business analyst in order to gather requirements for design and implementation of the database.
+
+- Optimizing the periormance of queries with modifications in TSQL queries, removing unnecessary colurnns. and eliminating the redundant and inconsistent data.
+
+- Creating the data model enhancements and design for a different location, supplier, and HR systems to consolidate and provide a single interface to any downstream consuming system
+
+- Designing and developing SSIS ETL packages to validate. extract. transform and load data from OLTP systerms to the data warehouse
+
+- Integrating the ETL (batch processing) as well as real time processes using web services that were both subscribed and fed as information into the database.
+
+- Experience in creating tables, views, complex stored procedures to facilitate efficient data manipulation, data integrity, and other TSQL (DDL. DML) statements for various applications,
+
+- Experience in creating packages. jobs and experience in migmtion of data from excel, Hat file, Gracle ta MS SQL server,
+
+SQL Server BI Developer
+ABC Corp - 2011 - 2013
+
+Key Deliverables:
+- Created SSIS packages for dynamic ETL flow to validate, extract, transform and load data into the data warehouse using aggregate, sort, multicasting, lookup, fuzzy lookup, derived column, conditional split to perform data scrubbing,
+
+2259 Oak Street, Old Forge, New York, 13420
+- This Bree Resume Template ls the copyright of Gwikrestune.com, Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

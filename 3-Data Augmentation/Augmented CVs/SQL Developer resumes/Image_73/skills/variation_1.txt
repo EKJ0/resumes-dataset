@@ -1,0 +1,65 @@
+Junior SQL BI Developer Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+ROBERT SMITH eee eacanccaleonemere
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Junior SQL BI Developer with more than two years of experience in end-to-end implementation of
+Data warehousing projects including Modeling, Database design, development and administration
+of applications with Microsoft SQL Server || Hands-on experience in complex Stored Procedures,
+effective functions, Constraints, Querying. Joins, Keys, Indexes and appropriate Triggers to assist
+efficient data manipulation and data consistency.
+
+TSQL, SQL, PL/SQL, SSIS, SSAS, SSRS, Power BI, Excel, Testing, Requirements Gathering
+
+WORK EXPERIENCE
+---------------
+
+Junior SQL BI Developer
+ABC Corporation ~ July 2010 - December 2011
+
+Designed and developed SSIS Packages to import and export data from MS Excel, SQL Server ||
+and Flai files Create jains and sub-querics for complex queries involving nuualtiple tables.
+Responsible for Creating and Modifying T-SQL stored procedures/ triggers for validating the
+integrity of the data.
+
+Created indexed views, and appropriate indexes to reduce the running time for complex quctics.
+
+Involved in the installation and configuration of SQL Server 2005, SQL Server 2008 and SQL
+Server 2012 with the latest Service Packs,
+
+Enhancing performance using optimization techniques-normalization|2nf, indexing and
+Transaction Isolation levels, monitoring logs to ensure the completeness of batch processes,
+scripts, and processes.
+
+Created Linked Servers Lo connect OLE DB data sources and providers Participated in designing a data warehouse to store all information from OLTP to Staging and Staging to
+Enterprise Data warchouse to do better analysis,
+
+Used basic Seript Task for renaming the file names, storing Row Count Values into User Variables.
+
+SQL BI Developer
+
+ABC Corporation - November 2008 - June 2010
+
+Installed and Configured SQL Server 2008.
+
+Performance Monitor to track the size of the SQL Server database transaction logs and set up
+alerts to notify the server before the transaction log files, thus averting problems thai might
+otherwise seriously affect users and applications,
+
+Created Stored Procedures, Triggers, Functions, clicnt-specific Views for the Application.
+Extensive testing on the Performance of the Stored Procedures.
+
+Optimized SQL queries for efficiency and provided queries and procedures for the front-end
+application.
+
+Imported and exported data to and from various heterogeneous sources using various techniques like BCP, DTS.
+
+This is Dummy Description data, Replace with job description relevant to your current role,
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines

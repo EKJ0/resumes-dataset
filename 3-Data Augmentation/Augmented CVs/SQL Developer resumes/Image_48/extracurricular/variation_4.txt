@@ -1,0 +1,58 @@
+ROBERT SMITH Junior Sql Server Developer/Analyst
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+Highly qualified Junior Sql Server Developer with experience in the industry. Enjoy creative problem
+solving and getting exposure on multiple projects, and would excel in the collaborative environment on
+which company prides itself.
+
+SKILLS
+------
+
+Management, Organizing.
+
+WORK EXPERIENCE
+---------------
+
+Junior Sql Server Developer/ Analyst
+ABC Corponition - September 2006 - September 2008
+
+- Implemented of SQL Logins, Roles and Authentication Modes as 4 part of Security Policies far various categories of users,
+
+Rebuilt / Monitored the indexes ut regular intervals for better performance.
+
+Recovered the databases from backup in disasters;
+
+Implemented Point-In-Time Recovery solutions,
+
+Performed SQL Server service pack and Windows Service pack upgrades,
+
+Extensively worked on Enterprise Manager for managing the datuhase,
+
+Troubleshoot performance problems and fine-tuning of databases.
+
+Junior Sq! Server Developer
+Delta Corporation - 2003 - 2006
+
+- Design, create, maintain and manage Enterprise Data Warehouses (EDW), data marts, Operational Data Stores (ODS) Extmet Transform Load (ETL) solutions, XML, indexes, T-SQL and data muanipolation scripts, stored procedures, views, functions, reports and forms.
+
+- Apply DoD data standards to all software applications and database data elements, ensuring logical data models are fully attri buted, normalized, and included in a data dictionary,
+
+® Create data dictionaries for all database efforts that include the following information for each
+functional data element the logical data element nume, its definition that describes the meaning and
+the context of the data element in the system, the damain of the data clement (the allowable values),
+the data type, length, and unit of measur,
+
+- Assist in developing SOP Enterprise metadata standards and document all meta tags, where applicable, in an XML Schema (XSD file) and past to the Metadata Registry after being vetted through a configuration management process.
+
+- Provide consulting services and technical support for database creation, modification, testing, udministrition, monitonng, tuning, backup, and recovery.
+
+® Ensure maximum use of SQL Server Integration Services (SSIS) and SQL Server reporting Services
+(SSRS) for the integration and delivery of information.
+
+- This Ens Remus Tomphats = the copyright of Qwiknewimecom, Usage Galdsfines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

@@ -1,0 +1,47 @@
+Robert Smith thane sical Email; info@qwikresume,com Junior Sql Server Developer ‘ieee earns ae i
+
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Responsible for supporting the lead developer with maintenance of our software, management of
+our server infrastructure, backups, data migrations for client onboarding, diagnose systern issues
+with our technical support tearn and other technical projects,
+
+SKILLS
+------
+
+Management, organizing.
+
+WORK EXPERIENCE
+---------------
+
+junior Sql Server Developer
+ABC Corporation - January 2012 - Decernber 2012
+- Identifies and understands business needs during requirernents gathering to effectively design, develop, test, ard deploy reports or applications,
+- Stress test and optimizes the systern for efficiency In a distributed database,
+- Analyzes internal processes and make recommendations for automated workflow processes with eventual Implementation.
+- Proposes technical solutions, new application design, process flows.
+- Builds custom data Imports as required,
+- Troubleshoots and problem solve SQL database issues.
+- Implements and tests software/server upgrades as needed to gain better functionality.
+
+Junior Sql Server Developer
+Delta Corporation - 2008 - 2012
+- Create stored procedures, views, functions, tables, and ensure their stability, reliability, and performance,
+- Design, develop, and maintain SSRS reports based on user requirements.
+- Write and optimize SQL staternents for data access and retention,
+- Test databases for performance, fine-tune when necessary. » Collaborate with developers on database design, query tuning, and scherna refinernent.
+- Respond to feedback frorn users regarding perforrnance and work with developers to improve the performance of queries and indexes.
+- Tune TSQL queries and stored procedures to Improve performance and sustainability,
+
+EDUCATION
+--------- Bachelor's of Engineering
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

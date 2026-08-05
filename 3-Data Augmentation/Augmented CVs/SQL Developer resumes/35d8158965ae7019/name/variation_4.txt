@@ -1,0 +1,44 @@
+Jamal Jackson
+
+‘Street Address, Caty, State ZIP RER-RRK-SREK + cmuibiaddress.com
+
+Senior SQL Developer, DBA and Data Modeler
+
+Experienced SQL developer and administrator with extensive project management experience. Proven
+record of contribution and successful completion of vital, enterprise-level SQL projects in « demanding
+financial services environment. Outstanding supervisory skills, capable of motivating and leading team
+members, Developed or assisted with development of many major internal SQL applications and projects,
+Drives bottom-line results using a strategic hands-on approach. Understands the synergies of technology,
+Process improvement, business operations, and strategic planning. Consistently exceeds project goals
+with high precision and efficiency.
+
+Skills and Areas of Expertise
+
+- Microsoft Windows Server +* Microsoft Team Foundation Server © Quest SQL Spotlight
+
+- SQL Server 2008 (RI & R2) ¢ Microsoft Visual Studio 2010 © Repliweb
+
+- SQL Server 2005/ 2000/7.0 ¢ Microsoft Visual Source Safe © SQL Litespeed
+
+- SQL Server Reporting Services» Ci, Visual Basic, NET, C++ Executive Leadership
+- SQL Server Integration Services « ERWIN, MYSQL, AS400 * Project Management
+
+‘© SQL Server Analysis Services + SQL Compare © Process Improvements
+
+WORK EXPERIENCE
+---------------
+
+Bank of America, Calabasas, CA 2009 - Present Vice President, Senior Technical Manager
+
+Responsible for key reporting operutions within Enterprise Change, Technology and Operations
+management using Microsoft SQL Server. Designed and developed @ metrics reporting aystem wo
+aggregate all discoverable hardware and software information deployed across the enterprise from various
+sources such a3 Runbook, Maximo and Enventory. Created monitoring tools and processes to monitor
+database storage and file space usage.
+
+Managed « team of six to eight associates responsible for managing hundreds of SQL databases for the
+secondary marketing division. Played a key role in directing strategy and database design, Ensured
+reliability and availability of critical data through configuration, database optimization, mirroring,
+deployment in NAS and SAN environments and centralized backups. Secured databases utilizing best
+practices and developed a proprietary obfuscation system to scrub customer sensitive data before release
+to development and testing environments,

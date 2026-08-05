@@ -1,0 +1,52 @@
+ROBERT SMITH SQL Server BI Developer
+
+Phone: (0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+SQL Server BI Developer committed to deliver high value to the organization. 10 years of extensive IT Professional experience with in the Retail domain. Expertise in Database
+Development, Modeling, Data Warehousing, Design and project management. Ability to
+comprehend and devolop projects that align with program and organizational vision. Adept at
+instituting procedures and initiating solutions to specifications that save tim, reduce costs, and
+eliminate redundancias,
+
+CORE COMPETENCIES Database, MICROSOFT SSRS, MS SQL Server, SQL, SQL Server
+
+WORK EXPERIENCE
+---------------
+
+SQL Server BI Developer
+Dress Barn Inc - January 2014 - Present
+
+Key Deliverables:
+
+- The project involves developing a BI solution for strategic analysis by sales, marketing, and pricing.
+
+- Providing marketing and campaign management capability, an ability to maasure ettectiveness across all products and provide single data set for analysis and tracking of rasults to the management
+
+- Responsible for analyzing business requirements and defining sales and marketing CRM system specifications.
+
+- Swpporting the business and technical professionals in process improvernent, technical designs, and quality assurance.
+
+- Bullding tho CRM sales and marketing application reporting structures using SSAS, SSAS, SSIS, TSQL and SOL server,
+
+- Responsibilities also Include enhancements of the CRM tallored to meet Dressbarns needs while administering day to day activities for supporting the sales and marketing CAM activities.
+
+- Writing high-level test plans and test cases based on the basaline requirements
+
+SQL Server BI Developer
+ABC Corp - 2008 - 2014
+
+Key Deliverables:
+- Provided support for the client applications and solved client issues. = Used various SSIS event handlers In SSIS packages 1o capture the events such as pre- execute, post-execute for initializing settings related to the task. and. used error event handler to log the custom errors and sent email notifications as alerts using send ernall task to the application development team and production support teams.
+
+SS eh hv hv
+2259 Oak Street. Old Forge, New York. 13420
+
+- This Free Resume Template ts the copyright of Qwikresume.com. Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

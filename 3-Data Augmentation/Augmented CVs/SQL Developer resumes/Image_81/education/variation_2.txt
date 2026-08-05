@@ -1,0 +1,54 @@
+ROBERT SMITH Senior SQL BI Developer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Senior SOL BI Developer with 7 years of experience in the IT Industry, having the primary focus
+on Database Design, Application, Development, Implementation, Testing and Deployment in the
+MS SQL Server Environment and MSBI Tools (BIDS/SSDT), Strong understanding of
+Nomaiization/De-nommailization, Normal Form and database design methodology. Well-versed in
+SOL Server 2012, 2008R2, 2005, 2000
+
+CORE COMPETENCIES
+
+MSBI, Data Flow Task, Bulk Insert Task, Execute SOL Task and Execute Package Task, Data Profile Task
+
+WORK EXPERIENCE
+---------------
+
+Senior SQL BI Developer
+Neogen Corporation - 2013 - 2019
+
+ney Deliverables:
+Created dalabase objects like Tables, Indexes, Stored Procedures, Views, User Defined Functions, Cursors, and Triggers.
+
+- Created desired stored procedures for loading the data from different sources according 10 the mapping rules and design specifications:
+
+- Designed SSIS Packages drawing data {rom various data sources such as Flal/Raw File, Excel, CSV, Access, OLEDB, XML, CDC, ADO,NET, etc, , and shown familiarity in using transformations like Aggregate, Conditional Split, Derived Column, Merge, Merge Join, Union ail, Mutticast, Row Count, Lookup, Sort, Audit, Fuzzy Look Up, etc.
+
+= Expenenced in SSIS error handing using event handlers, breakpoints, SSIS ioggings, Package configurations.
+
+- Responsibly managed data and metadata in Business Intelligence (Bl) solutions latest
+upgrades of Microsolt SOL Server 2012, 2014 and SSDT 2013.
+
+- Actively involved in query optimization using SOL Profiler by modifying the siow running queries from the SOL Profiler Trace.
+
+- Involved in optimizing the stored procedures for a faster population of the reports in the Report Server,
+
+SQL BI
+ABC Corporation - 2012 - 2013
+
+wa Deliverables:
+Databases Up to a terabyte /S00,000,000 mows.
+- Users Intemal 500+ External 50,000+ April 2008 to February 2009.
+- Engaged in muttiple projects tc enhance the {unctionality and perlormance of the Accounts Receivable system. = Provided work estimates and prioritized a user wish list
+
+SS
+2259 Oak Street, Old Forge, New York, 13420 ‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

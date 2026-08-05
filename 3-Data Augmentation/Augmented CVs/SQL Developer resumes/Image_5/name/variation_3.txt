@@ -1,0 +1,59 @@
+Lakisha Washington
+
+ROBERT SMITH Sr. SQL Server Developer
+
+Phone: (0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Sr. SQL Server Developer with 6 plus of experience in the Finance domain. Experience in Database Design, Development, and maintenance of database applications on SQL Servor in
+OLTP/OLAP/BI environment. Installation and configuration of SQL Server Management Studio
+2008 R2, Experience in writing complex SQL quaries involving multiple tables inner and outer
+joins, Extensive experience in writing Transact-SQL (DDL/DML) queries,
+
+MS-DOS, Unix, And Solaris Back-end Language T- SQL, PL-SQL, XML. Front-end Language C# Wob Applications ASP.NET 2.0, SOAP, HTTP, Intemet Information Services (IIS 6.0), FTP,
+TCP/IP, LAN, MS-Outlook Express Scripts T SQL, VB, JavaScript, PHP
+
+WORK EXPERIENCE
+---------------
+
+Sr. SQL Server Developer
+State Farm Insurance - March 2015 - Present
+
+Key Deliverables:
+
+- Working on full life cycle development (SDLC) Involving in all stages of development.
+
+- Creating the database objects - schemas, tables, indexes, views, user-defined functions, cursors, triggers, stored procedure, constraints, and roles.
+
+- Writing the stored procedures and user-defined scalar functions (UDFS) to be used in the SSIS packages and SOL scripts,
+
+- Extensively utilizing the joins and sub-quories to streamline complex quastions including different table
+
+= Bullcing, publishing customized interactive reports and dashboards, report scheduling using tableau servor
+
+- Developing the tabular queries for éfficient analysis of report using pivot/unplvot in T-SQL,
+
+- Creating and managing the clustered Indexes and non clustered indexes and optimized quarigs using execution plan
+
+SQL Server
+ABC Corp - 2012-2015
+
+Key Deliverables:
+
+- Expertise in enhancing and deploying the SSIS packages from the development server to production server.
+
+- Designed and developed data load jobs using SSIS package and scheduled in SQL agent
+
+- Migrated old data from MS Access and Excal into SQL server 2008 using SSIS packages in the businass intelligence development studio.
+
+- Assisted with DBA (database administration) duties to support davelopment tasks.
+
+- Collaborate with other developors to create and implament BI best approach solution(s}.
+
+- Troubleshoot the BI tools, systems, and sottware.
+
+SS eh hv hv
+2259 Oak Street, Old Forge, New York. 13420
+- This Free Resume Template ts the copyright of Qwikresume.com. Usage Guidelines

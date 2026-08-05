@@ -1,0 +1,44 @@
+ROBERT SMITH Senior Sql Server Developer/Coordinator
+
+Phone: (0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Over 12 years of experience of Database Design and Development in MS SQL Server Extensive experience in Database activities like Data Modeling, Database design,
+database creation and maintenance, performance monitoring and tuning, troubleshooting, enterprise level replication. Involved in total Software Development
+Lifecycle (SDLC) by identifying the business requirements, documenting technical design documents, developing components to implement business requirements and creating
+and executing unit test plans Experience converting OLTP database to OLAP database for fast reporting.
+
+Emily Walsh
+
+WORK EXPERIENCE
+---------------
+
+Senior Sql Server Developer/Coordinator
+Providence Health & Services - September 2014 - 2020
+
+Key Deliverables:
+
+® Utilized event handling effectively to generate aurclits and logs for the generated SSIS packages.
+
+- Performed archiving and achieved automated processing of the raw data through the ETL process in SSIS
+
+- Managed and administered SQL server servers
+
+- Configured ALWAYS ON setup between different DATA Centres and on Multi Subnet Cluster.
+
+» Configured Windows FailOver Clustering and SQL Clustering on Multi Subnet Cluster.
+
+- Deployed SSRS Reports across multiple environments Including Test, Production and supporting environments.
+
+- Involved in database development by creatinys oracle PL/SQFunctions, Procedures, Triggers, and Packages.
+
+Senior Sqi Server Developer
+Delta Corporation - 2009 - 2014
+
+Key Deliverables:
+- Extensively worked on Report coding to behave according to the front end CRM Application.
+
+- Configured Subscriptions and Security for all critical reports.
+- Handled the database components (Code migration, Change control) for application releases
+
+2259 Oak Street, Old Forge, New York, 13420
+- This ree Resume Template is the copyright of Quilesume.com, Usage Guidelines

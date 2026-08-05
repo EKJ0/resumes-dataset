@@ -1,0 +1,57 @@
+ROBERT SMITH Oracle PL/SQL Developer
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+Onicle PL/SQL Developer having 10 years of programming experience, as a Sr. Oracle SQL, PL/SQL and
+ETL Developerin Analysis, Design, and Implementation of Business Applications using the Oracle
+Relational Database Management System (RDBMS). Experience in Data Migration across various databases
+as well as within the sume database across different systems, Well-versed in different stages of the Software
+Development Life Cycle (SDLC).
+
+Oracle L1G, Onsele PL’ SQL, UNIX Shell Script, SQL Developer, Toad, Omcle Developer, 1BM Rational,
+Agile & Waterfall, PowerBuilder
+
+WORK EAPERIENCT
+
+Oracle PL/SQL Developer
+ABC Corp - 2010 - January 2018
+
+® Created datahase objects like tubles, views, sequences, synanyms, indexes using Oracle tools Like
+SQL PLus, SQL developer, und toud.
+
+- Enforced data integrity using integrity constraint and database triggers.
+
+- Proficient in advance features of Oracle I 1g for PL/SQL programming like using records and collections, bulk bind, ref. Cursors, nested tables, and dynamic SQL.
+
+® Created partitioned tables and purtitioned indexes to improve the performance of the applications.
+
+- Experience with performance tuning for Omele RDBMS using explain plan and hints,
+
+- - Intenicted with web development team to develop in tandem back-end solutians with front-end web executions:
+
+® Executed Quality Control checks of source code created by other developers.
+
+Oracle PL/SQL Developer
+ABC Corp - 2008-2010
+
+- Created and maintained technical documentation, process flows, etc.
+
+- Created and Maintained Seed Data creation seripts.
+
+® Provided technical expertise and recommendations while assisting fellow team members, either of
+development or testing.
+
+- Troubleshoot technical issues und identified modifications needed in existing applications to meet changing user requirements.
+
+- Purticipated in Business Requirement discussions, identified system impacts, und designed solutions.
+
+- Delivered projects on time and within budget with quality.
+
+- Ensured that the projects meet the customer expectations as measured by scorecards.
+
+- This Ens Remus Tomphats = the copyright of Qwiknewimecom, Usage Galdsfines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

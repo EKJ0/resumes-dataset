@@ -1,0 +1,49 @@
+ROBERT SMITH
+
+Oracle PL/SQL Developer (Unix)
+info@qwikresume.com | Linkedin Profile | Qwikresume.com
+
+Over 4+years of professional experience in IT industry as Oracle SQUPLSQL developer, Analysis Design, and Modeing. Strong knowledge of Oracle architecture
+and database design. Excellent skills in designing and development of applications using Oracle, SOL, PL/SOL Good knowledge on Oracle tools like SOL PLUS, PL/SOL,
+SQL and used TOAD in many development projects. Oracle Forms and Reports Experienced in all phases of Software Devel opment Life Cycle (SDLC).
+
+Oracle PL/SQL Developer (Unix)
+Breg - JANUARY 2015 - PRESENT
+
+- Participating in database design within an existing Oracle database structure.
+
+- Helping application devaopment team in preparing technical designs and perform construction activities.
+
+- Working with developers to design and write complex packages to support their needs.
+
+- Writing complex functions and procedures for new packages and update existing packages in an established Oracle database using pre-defined business rules.
+
+- Working with database administrators to implement design changes and new packages.
+
+- Performance testing and rewriting of production Code/SOL statements Samp; procedures performing badly, identified by database administrators.
+
+- Provided database support to developers who write code using WCF, WPF and. Net.
+
+Oracle PL/SQL Developer
+ABC Corp - 2014 - 2015
+
+- Deployed the scripts In production, monitored them and provided production support assistance.
+
+- Actively participated in discussions with DBAs to improve the performance of the DB processes.
+
+- Took part in discussions with data modelers during design meetings and creating 4 logical and physical model for the DB.
+
+- Performed reverse engineering to generate a model using Erwin data modeling tool,
+
+- Ensured SDLC/QA compliance using Defined process and methodology.
+
+- Participated in QA activities final Inspection, reviews audits, metrics data generation, collection, interpretation and submission,
+
+- Defined and established Configuration Management.
+
+- This Free Resume Template 's the copyright of Qwikresume.com, Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Community College of Denver

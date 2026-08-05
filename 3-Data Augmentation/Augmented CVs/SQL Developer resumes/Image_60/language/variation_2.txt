@@ -1,0 +1,28 @@
+ROBERT SMITH
+
+Oracle PL-SQL Developer
+info@qwikresume.com | https://Qwikresume.com
+
+Finding the right solution that provides value and delight to the customer This aptitude and attitude makes me an ideal Intermediate to Senior SQL Developer for
+a range of industries, | have ten years of experience with Microsoft SQL Server.
+Currently developing stored procedures functions, and triggers with T-SQL.
+
+JUNE 2007 - MARCH 2009 ORACLE PL-SQL DEVELOPER - ABC CORPORATION
+- Created Entity-relationship diagrams ER-Diagrams, function relationship diagram, Dataflow Diagrams and enforced all referential integrity constraints. Developed database objects like tables, views, stored procedures, indexes, etc. Tuned SQL statements using views and stored procedures. Rebuilding the indexes at regular intervals better performance Coded various stored procedures for the purpose of application development. Design and implement data access stored procedures and triggers for automating tasks.
+- Extensively used joins and sub-queries to simplify complex queries involving multiple tables.
+
+2005 - 2007 SQL DEVELOPER - ABC CORPORATION
+- Modified Stored Procedures due to changes in Schema occurring due to an update of the ERP system. Needed to update table and column references in the Fsql. Updated a half dozen reports due to the above reason,
+- Optimized a number of queries due to Use of a data warehouse view, eliminating multiple tables and columns,
+- Code was Checked out of TFS and changes checked back In to source control. Completed Modifications on time within schedule.
+Skills Used Use of Visual Studio 2012, Team FoundationServer, SSMS , Email, F SOL, Excel,
+
+EDUCATION
+--------- Bachelor in Information Technology - (JNTU - Hyderabad, Andhra Pradesh)
+
+- The Free Resume Template 8 the copyright of Qwikre wipe.com. Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

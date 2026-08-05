@@ -1,0 +1,49 @@
+Junior Oracle PL/SQL Developer Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+Emily Walsh
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Junior Oracle PL/SQL Developer with over 3 years of expericnee in Design, Development, and
+Implementation of enterprise Oracle databases applications in both OLTP and Decision Support
+systems. Extensive experience using IDE Tools like Eclipse, NetBeans, and IDEA IntelliJ for
+
+Java/J2EE application development and web technologies like HTML, and XML as required for database management. Good knowledge and understanding of Data Modeling concepis, UML
+diagrams using MS Visio.
+
+SQL Plus, SQL Loader, WinSCP, SharePoint, MS Project, Putty, EditPlus, Putty, Conflucnee, TextPad, Build (ANT, MAVEN), SVN, Log4J, PAC2000, JQuery
+
+WORK EXPERIENCE
+---------------
+
+Junior Oracle PL/SQL Developer
+Wells Fargo - September 2014 - April 2016
+- Wrote PL/SQL programs required to retrieve data from the data repository using cursors, UTL file 1/o and exception handling syne up with confluence for project related information.
+- Used SQL Loader/Korn shell script to load data from various sources into an Oracle database.
+- Wrote complex SQL using joins, sub-queries and correlated sub-querics.
+- Used clear case for maintaining the component and for release and version management.
+- Maintained scripts using Korn shell scripting fextension-, Ksh) and Perl to support development.
+- Developed Unix shell scripts to automate repetitive database processes,
+- Tracked all the releases and updating the information on toa centralized loration (wiki).
+
+Oracle PL/SQL Developer
+ABC Corp - 2013-2014
+- Responsible for administration of yersion control tools such as IBM rational clear case, subversion, participated in pecr code reviews and verilying coding standards.
+- tovolved in creating Unix shell scripting. Defragmentation of tables, partitioning, compressing and indexes for improved performance and efficiency.
+- Developed complex database processes with PL/SQL containing bateh or ETL functionality.
+- Developed and enhance an existing DataMart in an OLAP schema,
+- Responsible for requirements gathering, design, development, testing, and documentation.
+- Designed logical and physical ERD diagrams. process flow diagrams, or related data processing documentation.
+- Leveraged Oracle 10g/1 1g features to their fullest on a large-scale multi-terabyte system.
+
+EDUCATION
+---------
+
+Bank - 2013 (Secondary Market System }
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines

@@ -1,0 +1,51 @@
+ROBERT SMITH Sr.Senior Sql Developer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+SQL Server DBA with over 8 years of IT experience with various Industries SOL Server DBA MS
+SQL SERVER administration, analysis, design, development, testing, presentation implementation experience using SOL Server [] Good knowledge of Relational Database
+Management Systems (RDBMS), Good experience installation, upgrade and configuration MS SOL Server databases clustered and non-clustered environments.
+
+Jamal Jackson
+
+Transact-SQL, Microsoft SSAS, Microsoft SSRS, Oracle, PL/SQL, Microsoft SSIS, Microsoft SSMS, Microsoft SOL Server, .NET, Data Warehousing Tools, Stored Procedures And Triggers,
+MS Access.
+
+WORK EXPERIENCE
+---------------
+
+Sr.Senior Sql Developer
+ANI Pharmaceuticals Inc - June 2014 - 2020
+
+Key Deliverables:
+
+- Responsbilities Involved Requirements Gathering [rom the Business Users, Design and Develop work flows.
+
+- Involved database design process data modeling process for application using MS-Visio and SOL database diagrams Involved Data mapping, Column mapping maintain data dictionaries Data models Involved creating, maintaining diflerent SOL Server Objects such Tables, Procedures, Functions, Views, CTEs, Triggers etc.
+
+- according to Requirements,
+
+- Involved in writing complex SOL Scripts using excel sheets for loading data into maintenance tables.
+
+- Queried against Heterogeneous Data Sources like SOL Server, Oracle, Great Plains, Tex! files and some Legacy systems to retrieve multi-million records for data loads using SSIS
+2005/2008,
+
+» Extensively used SSIS Data Protiler Task to profile target source systems (tables &amp;
+views) prior to buliding ETL solutions, which was instrumental in cleaning data for data Consistency and designing tabie structures,
+
+- Built various SSIS packages having different tasks and transformations for various clients and Scheduled SSIS packages.
+
+Sr.Senior Sqi Developer
+Delta Corporation - 2010 - 2014
+
+Key Deliverables:
+- Build technical solutions involving SSIS and stored procedures based’on business requirements.
+- Designed SSIS Packages tor transter data across different piattorms:
+
+- _ - _ - _ - - - - - - _.. - _ - nXn nn
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines

@@ -1,0 +1,58 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+ROBERT SMITH SQL Developer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Around 7 years of professional experience in Design, Implementation & Maintenance of OLTP &
+Data Warehouse systems, Data & Technical Architecture, ETL processes, Business Intelligence
+and Enterprise Application Integration,
+
+CORE COMPETENCIES
+
+SQL, java, Business Analysis, ETL, Scrum, Waterfall, SSIS, SSRS, Databases, Excel, Quality
+Control, Quality Assurance, MySQL, Project Management, Data Analysis, CRM, Salesforce, Documentation, TFS, RDBMS.
+
+WORK EXPERIENCE
+---------------
+
+SQL Developer
+ABC Corporation - October 2009 - November 2010
+
+Key Deliverables:
+
+- Exensively involved in Gathering requirements by holding meetings with users.
+
+- Constructed context diagrams and data-llow diagrams based on a description of a business process.
+
+- Analyzing the data model and identification of heterogeneous data sources.
+
+- Constructed an extended entity relationship diagram based on a narrative description ota business scenario.
+
+- Created Transiormations using the SOL script to modity the data before loading into tables:
+
+- Installed and Configured MS SOL Server 2008,
+
+- Migrated SOL Server 2005 data bases into SOL Server 2008.
+
+SQL Developer
+ABC Corporation - 2005 - 2009
+
+Key Deliverables:
+
+- The aim of the Project is to help the departments in their underwriting process from application through policy delivery, security, and controls, document retention which primarily includes toading and routing the submissions.
+
+» Responsbilities Created new database objects like Procedures, Functions, Packages, Triggers, Indexes and Views using T-SQL in Development and Production environment for
+SOL Server 2000 Actively participated in gathering of Requirement and System Specification,
+
+- Developed SOL Queries’to fetch compiex data from different tables’in remote databases using joins, database links and formatted the results into reports and kept logs Worked on complex T-SOL statements, and implemented various codes and functions,
+
+- Installed, authored, and managed reports using SOL Server 2005 Reporting Services Wrote Transact SOL utilities to generate table insert and update statements.
+
+- <$_$_$$$____
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template is the copyright of Qwikresume.com. Usage Guidelines

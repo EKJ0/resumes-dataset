@@ -1,0 +1,50 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+ROBERT SMITH Sr. SQL Server Developer
+
+E-mail: info@qwikresume.com Phone: (0123)-456-789
+
+SUMMARY
+-------
+
+St SQL Server Developer with over 7+ years of IT experience im the Finance domain and Experience in
+Database Design, Development, and Support of MS SQL Server 2012, 2008, 200Sand 2000. Hands on
+experience in Installing, Configuring, Managing, Monitoring. Troubleshooting, Lipgrading and Migrating
+SQL Server Expertise with DDL and DML. statements, RDBMS, data dictionaries and normal forms.
+Experience in using Try Catch Block introduced in SQL. Server 2005.
+
+SQL Enterprise Manager, Query Analyzer, SQL. Server Management Studio, Business Intelligence
+Development Studio, SQL Profiler, SQL Server Analysis Service (SSAS) ETL Tools Data Transformation
+Services (DTS) - Export/Import, SQL Server Integrution Service (SSIS) Reporting Tools SQL Server
+Reporting Services MS Access, MS Excel, Crystal Reports XI. Database MS SQL. Server MS Access,
+Oracle Programming T-SQL, PL-SQL, C#, ASP.Net, VB. Web Technologies HTML, DHTML, XML, VB Script, JavaScript (Validation), Operating Systems Windows Vista, DOS, UNLX, Modeling
+Techniques/Tools Plow Charts, Sequence Diagrams, Activity Diagrams, Use Case Diagrams, Data
+Modeling. ER Diagrams. MS Visio, MS Visual Source Safe SharePoint Designer 2010,
+
+WORK EXPERIENCE
+---------------
+
+Sr. SQL Server Developer
+Wells Fargo - October 2015 - Present
+
+- Involving in all phases of SOLC, and gathering business requirements [rom business people,
+
+- Converting Data Transformation Services (DTS) application to SQL Server Integrated Services (SSIS) as assigned.
+
+- Developing DTS packages to extract, transform and load into the campaign database trom OLTP datubase using SQL. server integration services (SSIS).
+
+- Created ETL metadata reports using SSRS, reports including execution times for the SSIS packuges, failure reports with the error description.
+
+- Designed SSIS packages to extract, transfer, load (E11) existing data into SQL server from different environments.
+
+- Creating complex stored procedures using a linked server, CTE, temp table, SQL. joins, ranking functions and dynamic SQL and responsible for performing t-SQL tuning, multi-tasking and
+optimizing queries which takes longer time in execution with SQL server 2008/2012.
+
+- Performing documentation for all kinds of reports and DTS and SSIS packages.
+
+SQL Server Developer
+ABC Corp - 2011 - 2015
+
+- Used various ETL tools like SSIS‘/DTS for data flow from source files like XML, Excel, tables, and views to other databases or files with proper mapping.
+
+- This Knee Resume. Tomplate + the copyright of Qwikresume.crn, Usage Cmidelines

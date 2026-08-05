@@ -1,0 +1,70 @@
+Robert Smith Phone (123) 456 78 99
+
+Email: info@qwikresume, corm
+
+Senior Sql Server Developer Nall i airrameeserrenn me
+
+Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabama
+
+SUMMARY
+-------
+
+A motivated and ambitious database developer, proficient in the analysis, design, development,
+implementation, testing, and maintenance of database. A tearn player, knowledgeable in building
+and maintaining database structures, stored procedures, audit reports, data extracts to meet
+project objectives,
+
+SKILLS
+------
+
+SQL Server, Data Modelling, BI Stack.
+
+WORK EXPERIENCE
+---------------
+
+Senior Sql Server Developer
+ABC Corporation - December 2006 - August 2007
+
+Performed business analysis, technical analysis, systems design, application software programming,
+
+Restructured the stored procedure, designing, coding and developing the sare using the T_SQL Programming Transferring the data (ETL) to Data warehouse by SSIS.
+
+Installed, authored, and managed reports using SQL Server 2005 Reporting Services.
+Managed the migration of SQL Server 2000 databases to SQL Server 2005.
+
+Expertised in SQL Server Reporting Services and SQL Server Analysis Services.
+Responsible for gathering the business and user requirernents to meet customer needs.
+Designed and developed SSIS packages using various tasks, containers and transformations like Slowly changing dimension, Merge join, Conditional Split, Fuzzy look up, and data
+validation checks during staging before loading the data into the data warehouse and followed best practices,
+
+Senior Sql Server Developer
+Delta Corporation - 2002 - 2006
+
+Developed, deployed and monitored SSIS Packages including upgrading DTS to SSIS.
+Performed dally tasks including backup and restore by Using SQL Server 2005 tools like SOL
+Server Management Studio, SQL Server Profiler, SQL Server Agent, and Database Engine Tuning Advisor.
+
+Rebuilding the indexes at regular intervals for better performance,
+
+Rebuilding the indexes at regular intervals for better perforrnance,
+
+Providence Health &amp; Services is a non - profit health care system operating multiple hospitals across 5 states, with head quarters in Renton, Washington,
+
+The health systern includes 27 hospitals, more than 35 non-acute facilities and nurnerous
+other health, supportive housing and educational services in the states of Alaska, Washington,
+Montana, Oregon and California,
+
+The goals of the project was to modify the existing packages by Implementing new business logic in it and create new SSIS package based on new business requirement.
+
+EDUCATION
+---------
+
+Diplo Regie - 1985 (Bavarian State Conservatory of Music in Munich - Munchen)
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.
