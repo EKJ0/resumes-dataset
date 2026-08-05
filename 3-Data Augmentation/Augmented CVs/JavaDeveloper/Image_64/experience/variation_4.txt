@@ -1,0 +1,91 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+TARANJEET SINGH taranis@amail.com | +91-9891262898 | 011-27184867
+
+Seeking challenging assignments in Software Development with an organization of repute
+
+SYNOPSIS
+
+- 8.Tech. (Electronics and Communication) from Guru Gobind Singh Indraprastha University.
+
+- Proficiency in grasping new technical concepts quickly and utilizing the same in a productive manner.
+
+- A proactive learner with a flair for adopting emerging trends & addressing industry requirements to achieve organizational objectives & profitability norms.
+
+e@ An exceptional performer with distinction of being commended for exemplary performance in academics as well as
+extra-curricular activities.
+
+- Total experience: 3 year and S months
+
+TECHNICAL ACQUAINTANCE
+
+Languages H Core Java, J2EE (Hibernate 3.0), C/C++
+
+Web Technologies g GWT 2.0 (Google Web Toolkit)
+
+IDE & Tools & Eclipse, TOAD, SQLyog, Microsoft Visio
+
+Web Servers i Apache Tomcat
+
+Database i MySQL 5.0
+
+Web Development é HTML, JavaScript, CSS, AJAX, XML
+
+Operating Systems g Windows XP
+
+Code Management B Tortoise SVN
+
+Mobile Development 8 J2ME, Bluetooth API (JSR 82), Sun Wireless Toolkit
+
+Creative Design Skills £ Adobe Photoshop, Dreamweaver, Flash
+
+CERTIFICATIONS
+--------------
+
+e@ Sun Certified Programmer for the Java 2 Platform (SCJP), SE 6.0
+
+ORGANIZATIONAL EXPERIENCE
+
+[May'os onwards IKaru Projects Pvt. Ltd. Product Engineer |
+
+IKaru Projects Private Ltd is a global software outsourcing company. Its service domain includes e-learning, web
+design and development, social media applications, custom software development, content management system,
+mobile application development and e-commerce solutions.
+
+IKEWIKI is the flagship product of IKaru. It is a social learning platform to make e-learning a reality in organizations
+and educational institutions. Its aim is to develop the most usable and effective e-learning environment at a
+reasonable cost. The product was developed on GWT (Google Web Toolkit) 2.0 platform using Scribd API as document
+repertoire with MySQL as database and Tomcat as server.
+
+Role : Developer - Worked on varied aspects of the application including initial requirement and design phase, back-
+end development as well as front-end implementation. Also worked as testing-lead for an iteration.
+
+Recognitions - Was recognized as a star developer time & again and was always chosen for client interaction and
+handling technical aspects in a sales pitch.
+
+[puty'o7 to March’09 Sapient Corporation Pyt. Ltd, Associate Technology ]
+
+Sapient is a world-renowned global services company that helps clients transform in the areas of business, marketing,
+and technology. It specializes in marketing, advertising, consulting, trading and risk management.
+
+Provisioning System for selective customer data migration (Team Size: 25)
+
+The purpose was to provide an interface to migrate customer data from current mobile network to an advanced
+network based on the willingness of customers, ensuring minimum manual intervention. The solution was a J2EE
+application (Struts framework) using Oracle 9i database and Tomcat server. Log4) was used for logging and Castor for
+XML message generation. Hibernate was chosen as the ORM tool.
+
+Role : Developer - Designed JSPs from wire-frames and requirement documents using tag libraries and created CSS
+markup for the entire application.
+
+Recognitions - Was highly appreciated by the client for suggesting additional enhancements and by the team for
+client-focused delivery, leadership & creativity.
+
+Set Top Box Application for Video on Demand (Team Size: 6)
+
+The purpose was to enhance and support a set-top box application for a leading entertainment provider in Germany.
+It used a special browser for embedded systems (Ant Galio). The application was based on AJAX and was developed
+using OOJS (Object Oriented Javascript)
+
+Role : Developer - Provided major enhancements to the project including complete redesign of the application
+interface as per the changes in business requirement of the client. Supported the application to ensure client

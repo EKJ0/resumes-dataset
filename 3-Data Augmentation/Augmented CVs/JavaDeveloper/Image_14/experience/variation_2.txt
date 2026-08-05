@@ -1,0 +1,86 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+pavelplresume@yaru,
+mob: +3 8096 442.95 96
+
+Java Developer
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+English
+- Upper intermediate / fluent
+- Have experience (>14 years) contacting with foreign co-workers, reporting and phone calls in the international company
+
+Programming Languages/ Technologies
+- OOP/GoF Design Patterns/Task setting
+- Java/Maven/JSP/JSTL/Web/JPA/XML/JAXB
+- JavaScript/HTML
+- SQUPLSQL
+- Linux Shell Scripting
+
+RDBMS
+- Orade
+- MySQL
+
+SQL development tools
+- Orade SQL Developer/ SQL*Plus
+- MySQL Workbench
+
+Methodologies
+
+- Domain Driven Design
+- SCRUM
+- Test Driven Development
+
+Pavel Plakhotnik Skype: pavel plakhotrik
+
+Thave been working in IT programming industry more than 20 years. Took partin implementation different
+software application focused mostly on payrall, finance and accounting. Solved many problems related with
+software and accounting. Have strong programming background.
+
+Frameworks
+- Spring MVC/Spring AOP/Spring JPA/ Spring Security
+- Hibernate/JPA
+- jQuery/Ajax
+
+Application/Web Servers
+- Glassfish
+- Tomcat
+- jetty
+
+Development Tools
+
+- IntelliJ IDEA/Eclipse/ NetBeans
+- Git/vi
+
+Testing Tools
+
+- JUnit/TestNG
+- Mockito/PowerMock
+
+ERP Implementation
+
+- Project management/bugs fixing/ consulting/legislation support/ development/reports development/testing
+
+- User support/administration/couching
+
+- Good understanding of accounting and finance {local and international) /Payroll/Fixed Assets/First event, VAT
+
+- Business process investigation and description.
+
+WORK EXPERIENCE
+---------------
+| General programming >20 years Work in international environment (reports, communications,
+Intellid IDEA <lyear application development, technical support) >14 years Java >2 years sal >16 years
+JUnit 2 years Linux shell scripting lyear JavaScript 3 years JavaScript OOP <lyear jQuery 0.5 year
+Internet-University of Computer Science Certificates (INTUIT) Java Certificates | Other
+2011 | Java and NetBeans IDE | 2012 | English
+2012 | The Use and Expansion of Eclipse | 2012 | Introduction to HTML and CSS
+2012 | Java programming | |
+2014 | Programming Distributed Systems in Java | |
+2014 | Java: OOP and classes | |
+2014 | Java: Basics | | Page 1 of 3 Pavel Plakhotnik, resume.

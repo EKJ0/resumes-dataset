@@ -1,0 +1,76 @@
+TIMOTHY DUNCAN
+
+Senior Java Developer
+
+(410) timothyi6@yahoo.com plush-cuisine.net Lake Marianna, Gambia
+
+SUMMARY
+-------
+
+Enthusiastic and results-driven Senior Java Developer with over 10 years of experience in designing and developing robust web applications. Skilled in
+Java, J2EE, and RESTful web services, with a proven track record of delivering high-quality software solutions. Strong analytical thinking and problem-solving
+abilities, combined with effective collaboration skills, enable me to tackle complex technical challenges. Proficient in Agile methodologies and
+experienced in working with JIRA, WIKI, and Bitbucket. | am excited to contribute to a fast-paced, iterative development environment and make a
+significant impact in delivering cutting-edge software solutions.
+
+WORK EXPERIENCE
+---------------
+Senior Java Developer 2022 - Ongoing Tech Solutions Inc New York, NY
+
+Designed and developed scalable web applications using Java, J2EE, and RESTful
+
+web services.
+
+- Developed backend systems that handled over 1 million daily transactions resulting in a 20% increase in efficiency.
+
+- Built and optimized SQL queries for large databases, reducing response time by 30%.
+
+- Collaborated with the development team, project managers, and engineers to deliver high-quality software solutions on time and within budget.
+
+Lead Java Developer 2017 - 2022 Innovation Technologie: San Francisco, CA
+
+Led a team of developers in the creation of a cutting-edge e-commerce platform using Java and Spring Framework.
+
+- Designed and implemented RESTful APIs that increased overall system performance by 25%.
+
+- Optimized database schema and queries resulting in a 40% reduction in query execution time.
+
+- Mentored junior developers and conducted code reviews to ensure high-quality code standards.
+
+Software Engineer 2015 - 2017 Digital Solutions Ltc Boston, MA
+
+Developed enterprise software solutions using Java, J2EE, and Oracle PL/SQL.
+
+- Collaborated with cross-functional teams to gather requirements, prioritize tasks, and deliver software solutions.
+
+- Implemented database optimization techniques resulting in a 50% decrease in response time.
+
+- Designed and developed web services for seamless integration with external systems.
+
+Poweredby (X7 Enhancu www.enhancv.com
+
+MY LIFE PHILOSOPHY
+
+The best preparation for tomorrow is doing your best today.
+
+STRENGTHS
+
+- Effective Collaboration
+
+Collaborated with cross- functional teams to identify and address technical challenges resulting in timely delivery of
+high-quality software solutions.
+
+Analytical Thinking
+
+Utilized analytical thinking to identify and resolve complex technical issues, resulting in
+improved system performance and efficiency.
+
+SKILLS
+------
+
+Java- J2EE - C# - Design Patterns - Web Services - SQL - PL/SQL - Azure - IIB - Agile - JIRA - WIKI - Bitbucket
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

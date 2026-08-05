@@ -1,0 +1,56 @@
+Phone: (123) 456 78 99
+Java Developer Email: Info@qwikresurne.com
+
+R O B E RT S M IT H Website: cammemmery
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+Java Developer And Tester with 4 plus years of experience in designing, implementing and
+deploying cornmercial Enterprise Applications for Multi-tiered- distributed software products and
+distributed applications using Java/SQL technologies. Involved in various phases of Software
+Development Life Cycle (SDLC) of the application like Requirernent gathering, Design, Analysis
+and Code development. Involved in defining and designing the layers, cormponents of the project
+using OOAD methodologies and standard |2EE patterns and guidelines.
+
+SKILLS
+------
+
+J2EE, EJB 3.0, JMS, SOAP, WSDL, Web Services Serverside Programming Java Serviet 2.4, JSP, JSTL,
+Custom Tag Libraries Scripting Languages JavaScript, AJAX, Python, HTML
+
+WORK EXPERIENCE
+---------------
+
+Java Developer
+ABC Corporation - February 2015 - Present
+- Involved inthe design and implementation of the S13E (statewide rule 13 exception) application.
+- Participated in daily scrurm meetings and sprint retrospective and sprint planning for on-time delivery of business needs.
+- Extensively worked with eclipse to develop, test and deploy the complete application developed UI (front end screens) using JSF prime faces,
+- Developed applications in the eclipse ide and deployed inthe Bluernix (cloud foundry) server environment.
+- Involved in code reviews to make sure the best coding standards and java best practices are used before placing the code in version control,
+- Responsible for the design, development, and engineering of software solutions using Node.js, Angularjs, Angular2+ and other JavaScript-based frameworks for web development
+- Responsible for the design, development, and engineering of REST and SOAP web services
+
+Java Developer - Intern
+ABC Corporation - October 2011 - May 2012
+
+- Responsible for the analysis, documenting the requirements and architecting the application. based on j2ee standards,
+
+- Participated in designing of use case, class diagram and sequence diagrarn for various engine components and used BM rational rose for generating the UML notations, implemented different design patterns like DAO, Singleton pattern and MVC architectural design pattern of springs.
+
+- Responsible for secure batch data flow to downstrearn systems using middleware java technologies.
+
+- Developed an intranet web application using J2EE architecture, using |SP to design the user interfaces and hibemate for database connectivity,
+
+- Designed and developed controller serviet, which will route the request to the application controller.
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

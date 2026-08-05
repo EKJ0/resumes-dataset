@@ -1,0 +1,43 @@
+Greg Baker
+
+Jared Arthur Maica & Personal Info
+
+Phone
+
+Java Developer +1-799-456-8777 E-mail
+Summary j.a.maica@gmail.com
+
+Linkedin
+
+Enthusiastic and well-organized Java developer with 3+ years of : _ :
+experience. Eager to join Microsoft to bring in top-class Java development ree and problem-solving skills. In previous roles reduced app memory Twitter
+
+consumption by 30%, and decreased startup time for apps by 70%. twitter.com/jamaica
+
+- Experience s3) Key Skills JSP
+
+2017 - @ Java Developer
+
+2018 DaCoderZ, Los Angeles, CA @e0e00 : ? Advanced
+- Analyzed and designed program changes. Reviewed and updated requirements documentation, wrote design documents (PRD, FRD, UIRD, HTMLS/CSS TRD, SRS, and SDD). eeeee
+- Planned, documented, and executed tests to ensure code changes meet Advanced requirements and specifications. RESTful
+- Supported programming changes during quality assurance, user eceeee acceptance testing, and post implementation. Advanced
+- Applied relevant technical skills to deliver specifications, program PP ze Prog XMLIJSON changes, unit test scripts, and documentation. ssl . eccee Key achievements: Very good
+- Achieved a 30% reduction in the app’s memory consumption by eliminating duplicate strings via Garbage Collection Logs analysis and nae refactoring the code. eco ss : ‘ Sor icgeesr att F Goo
+- Recognized and improved code inefficiencies that led to a 40% increase in app stability. Problem-solving
+2015 @ Junior J Devel eoeee
+- unlor Java Developer Advanced
+2016 QuantExx, New York, NY - : ‘ Organization
+- Designed, developed, troubleshot, debugged, and implemented software eeee0e code for software components of web applications. . ; ; : Advanced
+- Cooperated with graphic designers and other project team members to develop website's concepts, interface design, and architecture. Communication
+- Integrated web applications with back-end databases. eeee
+- Deployed large web-based transaction systems using application servers. Very good
+- Researched, tested, built, and coordinated the integration of new products Adaptability per production and client requirements. eeeo Key achievement: Very good
+- Reduced startup time for Java apps by 70% via CDS implementation. Time management eee0e Very good
+- Education
+2013 - @ UCLA, BS in Computer Science
+2016 GPA 3.9 Coursework:
+
+- Computer systems architecture
+- Programming languages
+- Algorithms and complexity

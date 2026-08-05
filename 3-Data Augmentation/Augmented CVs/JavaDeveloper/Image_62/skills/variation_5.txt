@@ -1,0 +1,67 @@
+Robert Smith
+
+Senior Java Developer
+
+PERSONAL STATEMENT
+
+Senior Java Developer with over 10 years of IT experience In Desian, Development, Testing, and Maintenance of various distributed and Web
+applications including n-tier, MVC architecture, and User interface using J2EE and Web technologies. Worked with Java, Serviets, JSP, JDBC, JNDI,
+XML, JavaScript, CSS and Apache Struts frarnework. Extensively worked on Web Sphere, Oracle, and Apache Torncat Application servers with IDE
+Eclipse, IBM Web Sphere Studio Application Developer.
+
+WORK EXPERIENCE
+---------------
+
+Senior Java Developer
+Bank Of America - October 2014 - Present Responsibilities:
+
+- Java lead responsible for the handling of server-side business components, coding, UML design and cornpleting the enhancement lifecycle for the work product,
+
+- Completed mainframe integration testing by connecting MQ from the local machine,
+
+= Developed mask table structures based on mainframe transaction input and output data structure,
+
+= Implemented spring web services to fetch the data fromm mainframe IMS transactions.
+
+= Implemented two new Ul screens (backorder and supplemental back order report) using angular js and bootstrap.
+
+= Extensively used hibernate in data access layer to access and update information in the database,
+
+- Worked in offshore development portal project to set up the processes and flow In a project using Java technologies.
+
+Senior java Developer
+ABC Corp - 2008-2014 Re sponsibilities:
+= Developed cost-effective information technology solutions by creating new or modifying existing software applications that are moderately
+complex, = Analyzed and validated moderately complex systern requirernents and existing business processes and Information systems.
+= Developed and implemented new prograrns and/or modifications of existing applications.
+= Responsible for the design, prototyping and other methodologies for new and/or existing systems including the development of test plans
+and program specifications with minimal interfaces, = Coded, tested, debugged, docurnented, and implemented the
+moderately complex software applications according to standards.
+- Developed specifications and programms moderately cornplex technical modules, applications, prototypes and computer prograrns.
+- Performed all aspects of applications programming and developrnent
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marshville Road, Alabama
+(123)-456-7899 info@qwikresume,.com
+www.qwikresume.com
+
+Agile, Test Driven Development, Iterative, Scrum, Prototype, Though Works Typical Product Method.J2EE
+Technologies Servlets, JSP, String Templates
+
+English (Native) French (Professional) Spanish (Professional)
+
+INTERESTS
+---------
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company
+
+Name) Reference - 2 (Company Name)
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

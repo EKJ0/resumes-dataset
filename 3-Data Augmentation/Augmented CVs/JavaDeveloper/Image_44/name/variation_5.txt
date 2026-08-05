@@ -1,0 +1,77 @@
+Maria Garcia
+
+Jr. Java Developer
+
+PERSONAL STATEMENT
+
+Jr. Java Developer with over 2+ years of IT experiences in Software Development, Support, Testing, Java and J2EE Technologies. Strong
+Knowledge of Application Development using Software Development Life Cyde SDLC using various methodologies like Waterfall, Agile/Scrum,
+Experience in working with Multithreading, Collections, and Generics in Java 7, Experience in managing SOAP-based Webservices and Restful
+Webservices.
+
+WORK EXPERIENCE
+---------------
+
+Je. Java Developer
+
+Barclays Capital -
+
+April 2017 - Present
+
+Responsibilities:
+
+Developing the use case diagrams, object diagrams, class diagrarms and sequence diagrams using UML,
+
+Defining and constructing layers, server-side objects and client-side interfaces based on J2EE design pattems.
+
+Working docker container management along with volumes, container- based DB, and services, docker antifactory configuration and setup,
+Creating SQL queries, PL/SQL stored procedures, functions for database layer by analyzing the required business objects and validating thern
+with stored procedures.
+
+Involving in project planning sessions to analyze business IT requirements and developing a working model according to the
+requirements.
+
+Responsible for developing UI components using HTML, CSS, Javascript, jQuery, Angular]s.
+
+Responsible for analysis, design, development, and integration of UI components with backend using j2e€ technologies like servlets and |SP.
+
+Junior Java Developer
+ABC Corp- 2016 - 2017
+
+Responsibilities:
+
+Involving in SOLC requirernents gathering, analysis, design, development, and testing of application developed using agile
+methodology,
+
+Responsible for analyzing, understanding the business requirernents and translate the same into technical specifications.
+
+Designed and developed the user interfaces to internet/intranet applications by setting expectations and features priorities throughout
+development life cycle,
+
+Determined the design methodologies and tool sets.
+
+Completed the prograrnming using languages and software products, Designed and conducted tests.
+
+Recommended system solutions by comparing advantages and disadvantages of custom development and purchase alternatives,
+
+- This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines
+
+1737 Marshville Road, Alabarna
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+SKILLS
+------
+
+Java Technologies: |2EE, JDBC, |SP, Servlets, JSF, Spring, SOAP, Hibemate, Struts. Web Technologies; HTML,
+HTMLS5, CSS, C553, XML, Javascript, |Query, AJAX, Angular JS, PHP.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+REFERENCES
+---------- Reference - 1 (Com Name) pany
+
+Reference - 2 (Com nero) pany

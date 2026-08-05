@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — JavaDeveloper
+Folder: JavaDeveloper  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_48.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. lead
+Resume Length: 467 words, 69 lines (~0.9 pages)
+
+CANDIDATE 2  (source file: e2c7e6496ea170ec.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. established
+Resume Length: 395 words, 57 lines (~0.8 pages)
+
+CANDIDATE 3  (source file: Image_78.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 398 words, 36 lines (~0.8 pages)
+
+CANDIDATE 4  (source file: bc264d878ab1c9c0.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 188 words, 23 lines (~0.4 pages)
+
+CANDIDATE 5  (source file: Image_10.txt)
+----------------------------------------------------------------------
+Name: Carrie Chandler
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 282 words, 27 lines (~0.6 pages)
+
+CANDIDATE 6  (source file: 738fb7ad91b15958.txt)
+----------------------------------------------------------------------
+Name: Michelle Sanders
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science in Computer 2011 - 2015 Science
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 291 words, 47 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: e010de6bc87d1d79.txt)
+----------------------------------------------------------------------
+Name: Get In Touch.
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: MADISON UNIVERSITY
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 121 words, 36 lines (~0.2 pages)
+
+CANDIDATE 8  (source file: fc169ca38f102696.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. leading, established
+Resume Length: 329 words, 56 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: Image_5.txt)
+----------------------------------------------------------------------
+Name: Daniela Cummerata
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 386 words, 33 lines (~0.8 pages)
+
+CANDIDATE 10  (source file: 35fd432b6b041f08.txt)
+----------------------------------------------------------------------
+Name: Jared Arthur Maica
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2013 - 2016
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, coordinated
+Resume Length: 285 words, 44 lines (~0.6 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

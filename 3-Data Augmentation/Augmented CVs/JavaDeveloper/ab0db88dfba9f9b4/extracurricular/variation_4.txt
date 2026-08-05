@@ -1,0 +1,60 @@
+Amelia Bones Senior Java Developer
+
+% +13335557777 @% amelia@hiration.com 9 San Francisco,CA in weawiinkedin.com/in/amelia SUMMA
+
+7+ years experienced java developing professional armed with a prolific track record of conducting code tests and executing end-
+to-end planning of the product development life cycle. Adept at identifying bugs and prescribing solutions to increase efficiency
+and delivering optimal customer satisfaction. Proficient at employing SQL database amongst other tools to achieve maximum data
+security as part of retaining & expanding the customer base exponentially,
+
+| KEY SKILLS
+- Software Development + Unit Testing + Code Optimization + SQL Database + Application Development
+- Code Testing * Quality Assurance * Data Security * Documentation End-user Support + Data Encryption | TECHNICAL SKILLS
+- Programming Languages: HTML, CSS, java, Python, PHP
+- Front-end Development & Coding: javascript & JQuery, /SP & Serviets
+
+- Database & Framework: SQL Server, Struts & Spring, Angular |S,
+- Software: jira, Oracle JDeveloper
+
+WORK EXPERIENCE
+---------------
+Senior Java Developer May 17 - Jun '21 Gerard Technologies San Francisco, CA
+
+Established in 2008, it ¢s 0 tap-teve! opplicavon development company with 3k+ employees Application Development & Quality Assurance
+- Assessed client's need to determine application functions and developed 10+ applications by employing suitable technology
+- Designed, created and implemented Java-based applications and followed-up regularly to ensure 100% client satisfaction
+- Supervised junior developers, provided technical assistance and oversaw completion of projects for optimal quality
+- Performed regular follow-ups with clients and resolved issues immediately while implementing other system improvements Debugging & Data Encryption
+- Conducted routine checks of 15+ applications and assisted junior developers to identify issues and fix software bugs
+- Managed SQL database and deployed CryptoExpert to achieve 100% data security for mitigating data loss & system errors
+- Prioritized and executed tasks throughout the software development life cycle to ensure maximum quality
+- Generated 5+ reports every month on undertaken projects and updated them as deemed for top-level management Java Developer Mar ‘14 - Feb '17 Elementary Software San Francisco, CA
+Company employing 200+ employees with more hon 1000 large scale projects under ks wing Software Analysis & Product Development
+- Conducted routine checks to identify application issues, and resolved them for improving performance by 30%
+- Developed java application cades & software while conducting software analysis and testing with optimal accuracy
+- Leveraged JUnit & TestNG to deliver program changes and unit test scripts and enhanced productivity by 80%
+- Ensured code changes met 100% requirements and specifications by maintaining documentation and conducting tests Data Security
+- Managed SQL database as part of utilizing it for security; achieved 100% data security
+- Devised code for a project to authenticate users to identify intruders and prevent security breaches Quality Assurance & Issue Resolution
+- Supported programming changes during quality checks and post-implementation leading to 99% customer satisfaction
+- Diagnosed software bugs and developed & implemented fixes to increase efficiency by 90% Junior java Developer Jul '13 - Feb ‘14 Last Draw Jersey City, NJ An up and coming clothing opplication with @ customer base of 90,000; which delivers ta 15 states in the USA Application Development
+- Deducted application's memory consumption by 30% by eliminating duplicate strings vie Garbage Collection Logs Analysis
+- Identified and Improved code inefficiencies \eading to increased application stability by 40% Front-end Development & Client Servicing
+- Customized end-user support to include account management at the front-end leading to 100% client satisfaction
+- Delivered 50+ new features in the application which resulted in an increased customer base by 80%
+
+EDUCATION
+---------
+
+- Master's in Computer Science | GPA: 3.8/4.0 | Westcliff University | Sep '14 - May '16
+
+- Bachelor of Science in Computer Science | GPA: 3.6/4/0 | University of California | Sep'10-May't4 | cerviFication
+
+- Oracle Certified Expert | Oracle University | Feb'21
+
+- Gracie Certified Professional java Programmer | Oracle University | jan 20
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

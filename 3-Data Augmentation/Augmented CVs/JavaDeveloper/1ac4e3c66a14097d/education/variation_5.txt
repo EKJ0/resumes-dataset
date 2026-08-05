@@ -1,0 +1,67 @@
+Amelia Bones Java Developer
+
+\ +13335557777 M% amelia@hirationcom @ Irvine,CA im www.linkedin.com/in/amelia
+
+| SUMMARY
+
+Result-oriented Java Developer highly skilled in designing and building Java codes to increase efficiency of applications. Adept at
+identifying client requirements and ensuring specifications are met by routine checks for maximum client satisfaction, Proficient at
+debugging minor fixes, and employing SQL database to achieve maximum data security.
+
+| KEY SKILLS
+
+- Software Development + Unit Testing « Code Optimization + Documentation + Debugging
+- Code Testing + SQL Database + Data Security « Application Development
+
+| TECHNICAL SKILLS
+
+- Programming Languages: HTML, CSS
+
+- Front-end Development: javascript & JQuery
+
+- Database & Framework: SQL Server, Struts & Spring
+- Coding: )SP & Serviets
+
+| INTERNSHIP Java Developer Jan '21 - Jul'21 Mayhem Consulting Services Irvine, CA
+
+With more than 300 employees, the company is known most for their customer service & marketing services
+
+Java Code Development & Operational Efficiency
+
+- Designed, maintained, and built reusable, efficient, and reliable Java code increasing efficiency by 15%
+
+- Assisted senior developers in delivering program changes and unit test scripts which enhanced productivity by 30%
+
+- Documented client requirements and assisted the technical tearm to ensure all specifications are met for 100% satisfaction Debugging & Data Security
+
+- Updated database 2+ times a week to ensure maximum data security and to minimize data loss
+
+- Conducted routine checks for software bugs and implemented minor fixes while communicating the major ones to the team
+
+| EDUCATION University of California, Riverside Sep '18 - Jul ‘21 Bachelor of Science in Information Technology Irvine, CA
+Ranked 35th among top public universities by the 2019 U.S. News & World Report Best Colleges
+
+- GPA: 3.4/4.0
+
+- Among the top 8 percentile
+
+- Relevant Course Modules:
+- Advanced Web Programming | Advanced Programming using Python/java | System Analysis and Design
+- Cloud Computing | Data Programming Languages | Database Design & Management Systems
+
+| PROJECT
+
+- Application Development | University of California | Sep'20 -Mar'21
+- Deployed Java and Python to develop 3+ applications for small businesses in the university campus
+- Collaborated with the business owners to ensure end-to-end smooth functioning and presented the project to the faculty
+
+| ceRTiFICATIONS
+- Oracle Certified Java Developer | Oracle University | Redwood City, CA, US | Jul'17-Jan'18
+
+| ADDITIONAL INFORMATION
+- Languages: English (native) and French (fluent)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

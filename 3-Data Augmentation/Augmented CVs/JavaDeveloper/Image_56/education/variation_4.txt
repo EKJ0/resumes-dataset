@@ -1,0 +1,78 @@
+ADR!
+
+‘SOME STREET NO.240,NY BUILDING NUMBER
+
+MICHAEL WOODROW SENIOR JAVA DEVELOPER
+
+| CONTACT | WEBSITE
+00 122 4555666 | WWW.RESUMESBOT.COM
+
+PROFESSIONAL PROFILE
+
+An accomplished software engineer specializing in Java and Java EE software design and development, with
+extensive experience in the full life cycle of the software design process - including requirements definition,
+prototyping, proof of concept, design, interface implementation, testing, and maintenance.
+
+SKILLS
+------
+
+LANGUAGES:
+
+Java @eeoeeso JavaScript @eeeeoe Java Swing @eeee SQL eeeee CiC++ @e@eoeee XMUXSUHTML @ @ @ @ @
+DATABASE:
+
+Hibernate @eeeoe JDBC @eeeeoe Oracle @eeeee MicrosohSQL @ @ @@®@ Server @eeeeoe SOFTWARE:
+
+Eclipse es ClearCase se ClearQuest eo
+
+WORK EXPERIENCE
+---------------
+
+SENIOR JAVA DEVELOPER
+
+DataOne 07/2015 - Present @ Designed, developed, documented, debugged, tested and supported the
+DataOne Java EE Web application.
+
+@ Created custom modules, services and algorithms within the solutions architecture. Monitored, ensured resolutions of app performance issues.
+
+@ Provided technical expertise for a team of engineers researching a radio frequency identification (RFID) solution for tracking commodities being
+loaded and unloaded on railcars.
+
+@ Built scalable solutions for Java, WebLogic, Hibernate, MS SQL & Oracle technologies.
+
+SOFTWARE ENGINEER HGV Solaris, Inc
+
+@ Designed, developed, and tested Java GU! applications for the HGV Solaris project.
+
+- Designed and developed a system for automatic jumpstart installation of the Solaris operating system and custom software onto a network of Sun machines.
+
+- Maintained online AFD! and JED! software, and tested software for
+
+02/2011 - 06/2015
+
+i Participated in code reviews and process improvement.
+
+EDUCATION
+---------
+
+The George Washington University 2008 - 2012 M.S., Computer Science
+
+Activities and Societies:
+vw GW Graduate Computing Club (GCC)
+
+yw Golden Key International Honour Society
+
+gf Institute of Electrical and Electronics Engineers (IEEE)
+
+CERTIFICATIONS
+--------------
+
+Oracle
+
+Oracle Certification Java Professional Java SE 6 Programmer 2017
+Oracle Certified Expert, Java EE 6 Web Component Developer 2016
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Community College of Denver

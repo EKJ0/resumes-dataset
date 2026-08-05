@@ -1,0 +1,59 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+ROBERT SMITH Jr. Java Developer
+
+Phone: (0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Jr. Java Developer with 4 plus years of IT experience in all phases of SDLC such as Planning,
+Analysis, Design, Implementation, Testing and Maintenance of Web-Based, Client-Servor and N-
+tier Architectures in domains like Finance, Telecom etc. Extensive experiance of designing and
+developing software applications with the EJB, Annotations, Java, JSP, Sorviets, Java Beans,
+JNDI, AJAX, JMS, ORM, JNDI, Web services, JDBC, JAXP, RMI, XML, JavaScript, JQuery, CSS, Wob Services, SOAP
+
+JAVA, J2EE, J2EE Design Pattems, EJB, STRUTS, Hibernate, Spring 3.0, Spring MVC, Serviets,
+USP, SOAP Wab Services, REST Web Servicas JMS, IBM JDBC, Java Beans.
+
+WORK EXPERIENCE
+---------------
+
+dr. Java Developer
+State Of Michigan - June 2015 - Present
+
+Key Deliverables:
+
+- Involving in the cornplete software development life cycle including requirement analysis, design, implementation, testing, and maintenance.
+
+= Actively involved in the analysis, dotall design, development, bug fixing and enhancement
+\n agile methodology
+
+- Participating in scrurn mastings as part of iteration davolopmant process:
+
+- Delivering the new and complex high-quality solutions to clients in response to varying business requirements.
+
+- Utilizing the in-depth knowledge of tunctional and technical experience in Java/J2EE and other leading-edge products and technology in conjunction with industry and business skills to deliver solutions to the customer,
+
+- Designing the application modulas, base classes and utility classes using core Java.
+
+- Designing and implementing the customized exception handling to handle the exceptions In the application
+
+Junior Java Developer
+ABC Corp - 2014-2015
+
+Key Deliverables:
+
+- Designed patterns which will be used in the design and development of the online forms.
+
+- Built modern Python and Java software components that follow industry-standard design pattoms, development methodologies, and deployment models.
+
+- Collaborated with other engineers throughout the development procass,
+
+- Designed, developed, and tested the applications and APIs for devices.
+
+- Articulated and.solved problems with application design, development, and user experiences
+
+SS eh hv hv
+2259 Oak Street, Old Forge, New York. 13420
+- This Free Resume Template ts the copyright of Qwikresume.com. Usage Guidelines

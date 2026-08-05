@@ -1,0 +1,41 @@
+Entry Level Java Developer Reports to: Development Manager
+
+Role:
+
+The Junior Java Developer will be responsible for designing, developing, and supporting software products as well as work with documentation specialists and other development
+team members to develop features and repair defects. Individual will also support test teams and customer support teams in their duties.
+
+Primary Job Functions
+
+Produce Java-based web applications
+
+Support testing activities by internal test teams Help maintain Applications
+
+Write test plans and perform unit test
+
+Assist with nightly build process
+
+Minimum Knowledge, Skills and Abilities
+
+- Bachelor’s degree from a four-year college or university in related field, or
+
+equivalent ex perience
+- Must have some experience with Java, SQL, JSP, HTML and JavaScript
+
+Desired Skills
+
+- Some knowledge with application servers such as JBoss
+
+- Knowledge of Java EE, specifically EIB
+
+- Knowledge of relational databases such as Oracle and Microsoft SQL Server
+- Experience with jQuery development library
+
+- Knowledge of Jasper Report Server
+
+- Motivated to research and learn new technologies, tools, techniques, etc.
+
+Please submit resume to Elizabeth.Hoffman@teds.com or mail to:
+Elizabeth Hoffman, HR TEDS, Inc. 235 Mtn. Empire Rd. Atkins, VA 24311
+
+Visit www.teds.com for more information about TEDS, Inc.

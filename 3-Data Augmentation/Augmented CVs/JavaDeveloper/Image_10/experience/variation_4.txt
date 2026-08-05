@@ -1,0 +1,50 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+CARRIE CHANDLER
+
+Java Developer
+
+153 Seth Street, Bronte, Texas (TX), 76933
+{\ 469-571-1365 iM carriechandler@gmail.com [fn linkedin.com/in/Carrie-Chandler yf twitter.com/Carrie91
+
+£ facebook.com/Carrie-Chandler
+
+SUMMARY
+-------
+
+Java Developer with over 5 years of experience and a wide range of completed projects. Capable of designing the software for different
+clients, as well as providing technical support in evaluating the efficiency of finished and ongoing projects. Has some knowledge of
+Trillium TS Quality, as well as using XML, HTML, and Java to create a valid interface in Trillium Director Services.
+
+EXPERIENCE 03/2018 - present Java Developer INT Inc.
+
+- Worked with clients to identify potential projects and worked on developing software solutions for those projects;
+
+- Helped with full SLC testing of developed software, in order to have a completely bug-free environment;
+
+- Was a technical advisor, when it comes to evaluating a number of ongoing and completed projects and software solutions.
+
+06/2014 - 02/2018 Junior Trillium Developer Ace-stack LLC
+
+- Used Trillium TS Quality version 11.5 to conduct high-profile data cleansing and matching;
+
+- Tested different Data Quality projects, used for standardization and removing unnecessary data;
+
+- Successfully exported a number of Trillium software to Linux and Windows environments;
+
+- Created a wide range of distinctive interfaces for Trillium Director Services by using interface from Java and XML/HTTP;
+
+- Used IDQ version 9.6 to create, test and deploy Data Quality software, used for data cleansing in Real-time and Batch.
+
+EDUCATION 09/2012 - 05/2014 Rice University M.Sc. in Computer Science
+
+09/2008 - 05/2012 University of Texas, Austin B.Sc, in Computer Science
+
+- GPA:9.7/10
+- Participated in multiple student's projects
+
+SKILLS HTML/CSS - Expert JavaScript - Expert Trillium TS Quality - Expert
+
+IDQ - Advanced
+
+Time-management - Advanced

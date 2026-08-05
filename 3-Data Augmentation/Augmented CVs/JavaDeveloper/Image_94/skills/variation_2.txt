@@ -1,0 +1,51 @@
+ROBERT SMITH Junior Java Developer/Systems Engineer
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+Junior Jaya Developer/Systems Engineer with around 44 yeurs of experience in Systems Analysis, Design,
+Development and Implementation of Web and Client/Server and Enterpnse Application development using
+J2BE Framework. Extensively worked on n-tier architecture systems with application system development
+using Core Java, JDBC, Servlets, JSP, EJB, JMS, Web services, Restful Web Services, Spring, Spring boat,
+Struts MVC, JSP. Hibernate.
+
+J2BE Technologies Serviets, JSP, Struts, EJB, JDBC, INDL JMS, RML JAXB, JAX-WS, CXP. Framework
+Spring, Struts, Hibernate 3.0V4.x, Junit
+
+WORK EAPERIENCT
+
+Junior Java Developer/Systems Engineer
+ABC Corponition - 2015 - Present
+
+® Involved in requirements gathenng, analysis and design and documentation as the application was
+started from scratch.
+
+- Developed various j2ce components like servlets, JSP, JSTL, Ajax, SAX, XSLT, JAXP, INDI LDAP, JMS, and MQ series by using md,
+
+® Used Struts/MVC framework to enable the intenictions between JSP/View layer and implemented
+different design patterns with J2EE.
+
+- Implemented business layer using core java, spring beans using dependency injection, spring annotations, spring web-flow components.
+
+- implemented agent-server messaging dialog using camel and JMS (active MQ implementation),
+
+- Setup a Jenkins.server and build jobs to provide automuted builds based on polling the git source contol system.
+
+® Developed custom solutions that act upon Jenkins information in real-time.
+
+Java Developer (Contractor)
+ABC Corponition - March 2010 - April 2011
+
+Involved in handling coding, testing und integration and quality assurance activities.
+Performed event-driven asynchronous io using Node.Js, developed screens using JSP, struts,
+Performed unit testing using J Linit test cases to test the behavior of the coded clusses,
+Provided development support for system integration testing and user acceptance testing.
+Lead the team toward emfting new user experiences that exceed customer expectatians Suggested areas for improvement in intemal processes along with possible solutions,
+
+‘This is Dummy Description data, Replace with job description relevant to your current role.
+
+- This Ens Remus Tomphats = the copyright of Qwiknewimecom, Usage Galdsfines
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

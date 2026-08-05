@@ -1,0 +1,75 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+Robert S mith Phone (123) 456 78 99
+
+Email; info@qwikresume, corm
+
+Lead Java Developer Aah mer arecopee ve
+
+LinkedIn: linkedin.com/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Lead Java developer will be working on an application that Is in construction in the Java
+environment The application is developed using Spring Framework 3.0 and Hibernate for the Data
+Access Layer. The application will have interfaces to other application(s) and also to external
+systems using web services, Follows Agile developrnent methodology. This resource will also
+perform work as needed on other modernization projects,
+
+SKILLS
+------
+
+Management, Java, Jee, Spring.
+
+WORK EXPERIENCE
+---------------
+
+Lead Java Developer
+Global Bank - Decernber 2014 - 2020
+
+Bullds or updates existing Java applications; Java (Java 8),
+
+Builds front-end web pages using HTML, CSS, Angular, AJAX;
+
+Builds back-end application code that manipulates content, and Interacts with other systerns,
+services, and APIs,
+
+Builds and updates RESTful APIs,
+
+Interfaces with PostgreSQL,
+
+Implements unit testing for bullt components using tools such as junit,
+
+Helps the DevOps team set up Continuous Integration and Continuous Deployment.
+
+Lead Java Developer
+Delta Corporation - 2010- 2014
+
+Responsibilities Developed and Implemented WebServices and used Spring Frarnework,
+Developed the Presentation and Controller layers using JSP, HTML, Java Script, Business layer
+using Spring (1OC, AOP), DTO, JTA, and Persistent layer DAO, Hibernate for all modules.
+Developed JSP pages for presentation layer (UI) using Struts 1.2 with client side validations
+using Struts Validator frarnew ork/ JavaScript,
+
+Implemented |SF framework in the application which is based on MVC design architectur Created Dialog boxes using DOJO for better look and feel,
+
+Integrate the Ext)s/Sencha frarnework with Oracle BPM,
+
+Some sample tests were Incorporated using Multi-Threaded Java Applets, Java Scripts were
+used for playing audio clips and to the make the price lists interactive to the User Designed
+and developed Ui Search and results screens for SDWCS operators and other agencies using JSP, JavaScript, HTML and CSS.
+
+Designed GUI with help of Struts Tiles, CSS, using Ajax for data multiplication as well as data
+validation Created the Mock-ups using HTML and JavaScript to understand the flow of the web
+application Create presentation layer using Struts2 tags and thernes (HTML/XHTML) and
+JQuery/Prototype/DWR for AJAX functionality Hooked up the JSP plugins with spring bind and
+JSTL tags Inthe HTML pages Provided weekly content updates for marketing web site using HTML and CSS.
+
+EDUCATION
+---------
+
+Bachelor's of Computers
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings

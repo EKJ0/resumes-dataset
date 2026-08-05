@@ -1,0 +1,69 @@
+Robert Smith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+Website > vow. qwikre sume, com
+
+Senior Java Developer Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabama
+
+SUMMARY
+-------
+
+Senior Java Developer with 11 years of Solid IT experience in Design, Development, and
+Maintenance of Java and J2EE related applications. Highly proficient in developing and deploying
+Java/j2EE applications on Application Servers - WebLogic, IBM WebSphere, JBoss, Glassfish.
+Proficient in Programming using J2SE and |2EE Technologies (JDBC, Servlets, and JSP), Good
+experience in usage of version controls such as Git, SVN.
+
+SKILLS
+------
+
+JAVA, C++, XML, HTML Web Technologies: Serviets, JSP, JDBC, Ajax Frarnew ork: Springs, Hibemate, JPA, JSF Scripting: Java Script, JQuery, Angular JS
+
+WORK EXPERIENCE
+---------------
+
+Senior Java Developer
+Lg - January 2015 - Present
+- Involved in requirements gathering and requirements analysis and participated client meetings,
+- Involved in full life cycle of the application development using agile/scrurm,
+- Design and developed the s/w using test-driven design and developrnent methodology.
+- Implemented design patterns - singleton, factory, abstract factory, decorative and business delegate design patterns,
+- Developed the application using core java concepts like collections, multithreading, oo concepts, exception handling for developing application modules,
+- Extensively used hibernate validation framework has been used for front end validations:
+- Designed and developed an application using representational state transfer (rest) style architecture.
+
+Senior Java Developer
+ABC Corp - 2007 - 2015
+
+- Defined requirernents, design, and timeline for proof of concept. Set up the environment and
+
+implementation of the proof of concept
+
+Worked with vendors and offshore teams,
+
+Enhanced product features.
+
+Handled all aspects of production.
+
+Generated improvements to coding techniques and develop inforrnation technology staff to
+
+Implement improvements,
+
+- Collaborated with other engineering teams and provide leadership in the adoption of a continuous delivery approach and platform that is scalable, adaptable, and optimized for ever changing requirements.
+
+- Designed, developed and executed the development projects to meet the business needs,
+
+EDUCATION
+---------
+
+M.C.A. in Master Of Cornputer Applications - 2010 (S.Vv. University )B.Sc. in Computers - (S.Vv.
+University )
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

@@ -1,0 +1,63 @@
+Emily Walsh
+
+Robert Smith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+ft Website > www. qwikresume,com
+
+Java So are Developer Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+To continue a challenging and rewarding career that offers the opportunity to utilize knowledge as
+8 Java Software Developer.
+
+SKILLS
+------
+
+Javascript, HTML, CSS, Java, SQL, Angular)S, }Query, PHP.
+
+WORK EXPERIENCE
+---------------
+
+Java Software Developer
+Papa John's International - December 2015 - 2020
+
+- Consulted with client groups to gather information about program needs, objectives, functions, features, and input/output requirements,
+
+- Developed RESTful web services using, JDK 1.7, JDK1.8, Spring Web MVC, and Spring Boot, allowing clients CRUD operations to exposed resources,
+
+- Designed and developed User Interfaces, using JavaEE6, HTMLS, and |SP frarneworks,
+
+- Converted designs and specifications Into code.
+
+- Compiled code and correct errors detected In the compilation process.
+
+» Analyzed code to find causes of errors and revise code,
+
+- Tested code using a structured testing methodology, confirrn programs rneet specifications.
+
+Java Software Developer
+Delta Corporation - 2014 - 2015
+
+- Work with tear on designing and Implernenting new product functionality frorn software requirements, using Java 7, Spring 4 using Eclipse, Maven and Subversion,
+
+- Develop serviet-based web applications with MVC module using Spring 4 Framework Create controller objects for processing request, validator objects for validation and command object for storing form data.
+
+- Design and build Seleniurn Grid infrastructure for QA testing group, using Selenium Grid Jenkins plugin, Selenium 2 WebDriver, Jenkins continuous Integration platform, |SON and Maven,
+
+- Design virtual nodes on Seleniurn Grid using JSON confi guration format, which provide Grid with immediate metadata to implement direct access to nodes which allow distributed Pecpssnig tor testing on multiple O/S and browsers,
+
+- Integrate Selenium Grid inte Jenkins platform with virtual nodes used for distributed testing and worked with continuous integration group to configure best practice builds and deploys to SNAP and Production servers,
+
+- Utilize Subversion, Eclipse plugin as main versioning repository for the Development group, implemented creating branch from trunk, checked out branch, develop and/or refactored code, wrote junit to test new code, committed code changes to branch, checked out copy of trunk, if necessary modified new tag number for version, merged mew code changes from branch into trunk, cormmitted trunk with code changes to repository.
+
+- Resolve assigned software defects and pushed back through build and deploy process.
+
+EDUCATION
+--------- B.A, in Philosophy with Cornputer Science Minor - (Spelman College - Atlanta, GA)
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings

@@ -1,0 +1,57 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+Phone; (123) 4567899
+Ju nior Java Developer Email: info@qwikresume.com
+
+ROBERT SMITH eee
+
+linkedin.conyqwikresume
+Address; 1737 Marshville Road, Alabama.
+
+OBJECTIVE
+---------
+
+2 plus years of experience as a Java/|2EE Developer in analysis, design, implementation,
+integration, testing, and maintenance of applications using Java/J2EE and Object-Oriented Client-
+Server technologies. Extensively worked with Retail, Healthcare, Insurance and Investment
+
+dornain with good knowledge of developing complex projects and good management skills of the
+deliverables.
+
+SKILLS
+------
+
+AVA, C, C++, SQL, And PL/SQL, Web Technologies HTML, JavaScript, CSS, Angular JS, Angular 2,
+AJAX, XML, XSLT, Java Beans, JMS.|2EE Technologies Servlets, JSP, |SF, EJB, JMS, JNDI, Web
+services, JDBC, SOAP, RMI, Spring Technologies Spring Core, Spring MVC, Spring Boot, Spring
+Cloud. Methodology Agile, Scrum, TDD, OOAD, SDLC.
+
+WORK EXPERIENCE
+---------------
+
+junior java Developer
+Navistar, Inc - January 2017 - Present
+- Working on agile scrum methodology and involving in stand-up meetings to monitor the progress. » Involving in requirements gathering, analysis, design, and documentation of the application,
+- Implementing the backend business layers using spring and web services.
+- Implementing Java EE components using Spring MVC, Spring lOc, Spring Transactions, and Spring Security Modules, » Developing microservices using java Spring Boot, Hibemate, Restful services with good quality of code. » Configuring the spring integration XML to route request to respective databases,
+- Building application with |S frameworks such as React.Js, Angularjs.
+
+Junior Java Developer
+ABC Corp - 2016 - 2017
+
+- Responsible for developing and unit testing assigned software features and functionalities,
+
+- Performed technical root cause analysis and outline corrective action for given problerns/defects,
+
+- Provided reliable solutions to a variety of problerns using sound problem-solving techniques,
+
+- Participated in daily meetings to communicate work progress and potential roadblocks,
+
+- Worked to continuously improve software delivery processes and practices.
+
+- Presented, collaborated and added the value to the company and team through participation in peer code reviews, providing comments and suggestions.
+
+» Worked collaboratively and professionally with other client employees in cross-functional
+teams to achieve goals.
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines

@@ -1,0 +1,60 @@
+Jamal Jackson
+
+Senior Java Developer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Senior Java Developer with over 8+ years of experience in software design, development,
+implementation and software engineering which also includes integration, maintenance and testing
+of various client/server, and web applications. Design, development, and analysis in OO fields
+(Java, and UML), intemet applications, Application Servers and Web Servers such as Oracle Web-
+logic Server 12c, IBM Web Sphere 5.0/6.0, JBoss Server 7.1.1 and Apache Tomeat 7, J2EE.
+
+CORE COMPETENCIES
+
+Java, J2EE, Java Script, AnguiarJS, JSTL, XML, Shell Scripting. GU! Development Technologies
+GWT Web Application Development Serviets, Java Server Pages (JSP), Java Server Faces
+
+WORK EXPERIENCE
+---------------
+
+Senior Java Developer
+Admaxiocal Lic - April 2015 - Present
+
+Key Deliverables:
+
+- Designed and developad'a MongoDB (NoSOL) based extemal Resttul API for exposing the functionality of an existing saas platform to clients in an agile work environment using the web client.
+
+- Involved in updating the saas plattorm to support the bing AdWords API-and integrating the changes with Google AdWords API,
+
+- Managed product development/implementation using AWS cioud infrastructure,
+
+- Wrote unit and integration tests to test all the desired functionality using JUnit (TDD), Testing, Mockito, and Wiremock.
+
+- Documented the external API using enunciate and modified the auto-generated does with custom CSS to match comorate website and design,
+
+- Created Spring MVC - rest based JSON services, used rest template for making a client call to JAX-RS web services.
+
+- Developed the UI layer using Struts, JSP, Javascript, Jquery, Node.Js, JSTL, XML and XPath, XML big data parser technology and Jwebunit;
+
+Senior Java Developer
+ABC Corp - 2010 ~ 2015
+
+Key Deliverables:
+
+- Performed complex programming assignments requiring an advanced aptitude for established programming standards; methods, and best practices.
+
+» Acquired and interpreted the business requirements, created functional specifications and
+determined the most elficient/appropriate technologies.
+
+- Performed the analysis ‘of business models, logical specifications and/or clistomer fequirements to design and build business solutions utilizing multiple technologies.
+
+- Contributed to, reviewed and approved the technical designs of sottware solutions.
+
+- <$_$_$$$____
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template is the copyright of Qwikresume.com. Usage Guidelines

@@ -1,0 +1,42 @@
+An experienced software developer with practical knowledge of object-oriented software design, problem solving, implementation and maintenance. | perform effectively both
+individually and in teams and have a proven track record in delivering good quality robust
+Emily Walsh
+
+EDUCATION & QUALIFICATIONS
+
+BSc (Hons), 1* class - Computer Science & Mathematics. Wadham College, Oxford.
+
+‘A’ Levels - Mathematics (A), Physics (B), nlerssen A Aa English (C) GCSEs - in 10 subjects. Magdalen College School,
+
+KEY SKILLS / SYSTEMS
+
+Java pA ct taser i apy str toa pppoe ig on Windows and Linux, including JOBC, SQL, Swing, RMI, JUnit,
+Design Pattems / UML. serdets, JSP.
+C++/Unix 5 years experience of C++ design and implementation in a Unix (HP-UX) environment, including interfacing to and writing C code. Also 2 years of C
+programming in a Unix
+
+Strengths Skilled and enthusiastic debugger of legacy code.
+Experienced in all stages of the software development life cycle, from requirements gathering to testing and maintenance.
+Equally capable of working in teams or on own initiative.
+
+CAREER HISTORY:
+
+FENDER SOFTWARE GROUP INC Oct 01 to date Java Application Developer
+
+. pa ial 4 person team implementing a new Java system to replace existing legacy
+
+. Sonsped:porcstert: deta ting: JO8C inaiteve:tw:@0i: Server: 200,-an-wellus:the dom serialisation scheme.
+. Wrote extensive user interface using Java's Swing classes.
+
+. coding, and maintenance.
+. Designed large areas of the system using UML class and sequence diagams.
+- Fully tested the system using JUnit to specify functional and unit test cases.
+
+Java Application Developer
+
+- Part of a 15 person team developing a new product for catalogue sales over the web, using Java serviets, JSP dynamic web pages, and MySQL for data storage-
+- Responsible for leading design and development of modules of the product, including
+
+interface.
+. eae Ee A eee te eee Pa MONG eae Arr neen psOee) OO:
+oriented class and sequence diagrams.

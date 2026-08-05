@@ -1,0 +1,71 @@
+Robert S mith Phone (123) 456 78 99
+
+Email; InfoS@awikresume,cor
+
+Jr. Java Developer Website : vornw,quikresume,com
+
+Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Jr. Java Developer 3+ years of experience In developing web-based enterprise applications using
+J2EE technologies such as Hibernate, Spring, Struts, Multithreading, EJB, JDBC, JSP, TAGLIB,
+Serviets, JMS, JPA, JTA, Ajax, Maven, Ant, Web Services, REST (JAX-RS), SOAP (JAX-WS) and WSDL,
+Experience in development and technical support of Java/|2EE applications for Financial Services,
+Insurance, Banking, E-Commerce, Telecom, and Health Care Dornains.
+
+SKILLS
+------
+
+Spring (MVC, Context, ORM, JDBC, JMS, Webservices, Transactions), Hibernate, Struts, JDBC,
+eh Hae EJB, JSTL, JNDI, SOAP, REST JAXP, JAX-WS, JAX-RS, XML, XSD, XSLT, JSON, DOM Parser,
+
+WORK EXPERIENCE
+---------------
+
+Jr. Java Developer
+ABC Corporation - June 2016 - Present
+
+Working with a small team in enhancing the |behave frarnework using Java for the adaptability
+to the current project for creating the test erwironment
+
+Implemented Java and J2EE design patterns like singleton, business delegate and data transfer object and data access object.
+
+Wrote SPA (Single Page Web Applications) using restful web services plus Ajax and Angularjs.
+Developed web services component using SOAP and restful API for interapplication cornmunication,
+
+Designed and developed business and persistence layer components using Spring [OC and.
+hibernate,
+
+Extensively worked on Veenter with virtualization exposure in developing the functionalities
+related to the application through CLI and API.
+
+Developed a private assembly for the component promotion with the Kubernetes setup.
+
+Back-End Java Developer
+ABC Corporation - Decernber 2015 - June 2016
+
+Analyzed the requirernents and designed class diagrarns, sequence diagrarns using UML and prepared high-level technical docurnents.
+
+Designed and developed to upload gigabyte files to product licensing and delivery systern.
+Designed and developed multiple files concurrently using multi-threaded executor service framework.
+
+Developed web applications using restful web services plus Ajax and Anquilarjs,
+
+Developed web services cornponent using soap and restful API for iInterapplication communication.
+
+Established connections with other applications by using ActiveMQ with JMS.
+
+Designed and developed business and persistence layer components using Spring lOC and hibernate,
+
+EDUCATION
+---------
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Grukie lings
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

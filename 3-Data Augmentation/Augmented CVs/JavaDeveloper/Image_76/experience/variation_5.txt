@@ -1,0 +1,51 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+ROBERT SMITH Jr. Java Developer
+
+Phone: (0123}-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Result-oriented IT Professional with 6+ Years of IT experience in development, testing and documentation of web-based distributed systems, enterprise applications using
+JAVA/J2EE technologies. Designed and implemented several projects in e-Business & Worlsflow Solutions for Health and Financial Industries.
+
+CORE COMPETENCIES
+
+Java Technologies: JDBC Servlets 2.4/2.5, JSP 2.0, JMS, XML, XSL, XPath, XSLT, ‘Swings. Applets. Web Services: JAXP, JAXB, SOAP. Apache Axis, Spring Restful Web
+Services. Frameworks: Springs MVC. Struts, Hibernate 2.0, JSF, Reflux.js, JUnit.
+Testing, Mockito. Databases: Oracle Microsoft -SQL Server MS Access Web/Scripting
+
+WORK EXPERIENCE
+---------------
+
+Jr, Java Developer
+University Of Washington - February 2015 - Present
+
+Key Deliverables:
+- Used Apache Maven for project management and building the application . JSP, Servlets. JOBC, XML, HTML,
+
+implementing applications using Java. J2) Hibernate.
+
+- Developing test cases and validated users input using regular expressions in Javascript as well as in the server side.
+
+- Performing automated functional testing for all the web pages in the application,
+
+- Mapping database objects corresponding to DB2 database tables using POJO classes using JDBC
+
+- Worked on creating and publishing student web services (audit. academic plan ete. ) for other tears to consume,
+
+- Worling on creating and publishing restful APIs, which can accept HTTP.
+
+Junior Java Developer
+ABC Corp - 2011 - 2012
+
+Key Deliverables:
+
+- Designed and implemented of RESTful web service APIs for use by both internal and external developers.
+
+- Designed and implemented the software systems and enhancements in both backend and frontend areas.
+
+- Designed and implemented data transformation processes to prepare data for use by the APL.
+
+- Followed the existing standards and conventions of our API platform and help drive future conventions.
+
+2259 Oak Street, Old Forge, New York, 13420
+- This Bree Resume Template ls the copyright of Gwikrestune.com, Usage Guidelines
