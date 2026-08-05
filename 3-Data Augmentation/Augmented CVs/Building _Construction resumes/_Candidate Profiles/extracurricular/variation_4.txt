@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Building _Construction resumes
+Folder: Building _Construction resumes  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_25.txt)
+----------------------------------------------------------------------
+Name: Carpentry Joinery
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: British
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 401 words, 48 lines (~0.8 pages)
+
+CANDIDATE 2  (source file: Image_4.txt)
+----------------------------------------------------------------------
+Name: First Name Last Name
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. led
+Resume Length: 491 words, 31 lines (~1.0 pages)
+
+CANDIDATE 3  (source file: Image_52.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Certificate in Industrial Maintenance - (Metropolitan Community College- Omaha, NE)
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. supervised
+Resume Length: 346 words, 41 lines (~0.7 pages)
+
+CANDIDATE 4  (source file: Image_97.txt)
+----------------------------------------------------------------------
+Name: Shameka Renner
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: OTIS COLLEGE OF ART AND DESIGN Bachelor's in Construction Management
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 319 words, 46 lines (~0.6 pages)
+
+CANDIDATE 5  (source file: Image_54.txt)
+----------------------------------------------------------------------
+Name: Kevin A. Martyn
+Ethnicity: Not stated in source (not inferred)
+Age: ~47 (estimated from earliest date/grad year 2001, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: The Pennsylvania State University, University Park, PA ® B.A.E/M.A.E. - Construction Option
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed, supervised
+Resume Length: 354 words, 36 lines (~0.7 pages)
+
+CANDIDATE 6  (source file: Image_53.txt)
+----------------------------------------------------------------------
+Name: Lewistown Montana
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: - English - Native Speaker « French - Very Good Command
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 246 words, 33 lines (~0.5 pages)
+
+CANDIDATE 7  (source file: Image_11.txt)
+----------------------------------------------------------------------
+Name: Miles Fleming
+Ethnicity: Not stated in source (not inferred)
+Age: ~44 (estimated from earliest date/grad year 2004, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: ITT Technical Institute 2004 Bachelor of Science: Construction Management Cardiff, Roath
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, lead, supervised, coordinated
+Resume Length: 308 words, 27 lines (~0.6 pages)
+
+CANDIDATE 8  (source file: Image_22.txt)
+----------------------------------------------------------------------
+Name: Scott Construckton Worker-
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: American DRIVING LICENSE Full
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 261 words, 36 lines (~0.5 pages)
+
+CANDIDATE 9  (source file: Image_59.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High school diploma Westview High | 2006-2010
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. established
+Resume Length: 265 words, 39 lines (~0.5 pages)
+
+CANDIDATE 10  (source file: Image_93.txt)
+----------------------------------------------------------------------
+Name: Von Lowe
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: School of the Art Institute of Chicago - Bachelor's in Construction Management
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 291 words, 34 lines (~0.6 pages)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.
