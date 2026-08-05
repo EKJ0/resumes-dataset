@@ -1,0 +1,77 @@
+9 Wichita, KS
+
+EDUCATION
+---------
+
+Bachelor of Science in Blockchain Engineering at Kansas State University, KS
+Sep 2015 - May 2020
+
+Relevant Coursework:
+Cryptography, Data Structures, Computer Networks, Operating Systems, Programming.
+Languages, Smart Contracts, and Blockchain Technologies.
+
+Links
+linkedin.com/in/ilsepasciuto
+
+Smart Contracts
+
+Distributed Ledger Technology (DLT)
+
+Solidity/Ethereum
+
+Hyperledger Fabric/Corda
+
+Network Security
+
+Data Structures
+
+Languages English
+
+Indonesian
+
+Hobbies Cryptocurrency Trading
+
+Ilse Pasciuto
+
+Blockchain Engineer
+
+PROFILE
+-------
+
+tam a Blockchain Engineer with over 3 years of experience in the development, maintenance and optimization of blockchain networks. | have expertise in
+creating distributed ledger technology (DLT) on a variety of platforms, such
+
+as Hyperledger Fabric and Ethereum. My experience includes architecting and managing multi-node distributed networks, developing and deploying smart
+contracts, and developing secure and private blockchain applications. | also have experience in writing AP! endpoints and developing web-based user interfaces.
+My technical skills and knowledge of cryptography, consensus algorithms and distributed databases make me a valuable asset for any Blockchain project.
+
+WORK EXPERIENCE
+--------------- Lead Blockchain Engineer at BlockMedX, KS
+
+Jan 2023 - Present
+- Developed a secure, distributed blockchain infrastructure for the company's medical records platform, which resulted in an 80% reduction in data breaches and an overall improvement in security of over 50%.
+- Designed an innovative blockchain-based algorithm for authenticating patient records, which increased accuracy in record keeping by 95%, Led a team of developers in creating a blockchain-based platform for managing medical records that enabled healthcare providers to securely access patient information with just a few clicks, reducing the time required to access records by 30%. Implemented a blockchain-based system that allowed healthcare providers to share medical records among multiple hospitals and clinics, resulting in a 40% increase in efficiency and cost savings of over $2 million.
+
+Senior Blockchain Engineer at Praxis Technologies, KS
+Jul 2020 - Dec 2022
+
+- Developed and launched a new blockchain-based platform for Praxis Technologies, KS, which improved the company’s operational efficiency by 15%.
+
+- Improved security of Praxis Technologies’ existing blockchain-based applications by implementing advanced encryption algorithms and protocols, resulting in a 25% reduction in data breaches.
+
+- Created and implemented a smart contract system to automate the settlement
+process for Praxis Technologies, resulting in a cost savings of $50,000 annually.
+
+- Designed and built a distributed ledger technology (DLT) platform to support Praxis Technologies’ business operations, resulting in a 40% increase in transaction throughput.
+
+Certificates Certified Blockchain Solutions Architect (CBSA)
+
+Jun 2021
+
+Certified Ethereum Developer (CED)
+Jun 2020
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

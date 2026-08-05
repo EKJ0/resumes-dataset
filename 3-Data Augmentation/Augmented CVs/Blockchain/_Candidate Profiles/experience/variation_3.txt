@@ -1,0 +1,148 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+CANDIDATE PROFILES — Blockchain
+Folder: Blockchain  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 648081c62ce0bd41.txt)
+----------------------------------------------------------------------
+Name: Today Date
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. established
+Resume Length: 415 words, 27 lines (~0.8 pages)
+
+CANDIDATE 2  (source file: d86f112c52272074.txt)
+----------------------------------------------------------------------
+Name: Wichita Ks
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science in Blockchain Engineering at Kansas State University, KS | Sep 2015 - May 2020
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. led, lead, launched
+Resume Length: 406 words, 44 lines (~0.8 pages)
+
+CANDIDATE 3  (source file: Image_71.txt)
+----------------------------------------------------------------------
+Name: Jasmine Bell
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High School Diploma
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. founded, led, leading, mentored
+Resume Length: 518 words, 75 lines (~1.0 pages)
+
+CANDIDATE 4  (source file: 8bd7388c28027f1c.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: platform
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 245 words, 39 lines (~0.5 pages)
+
+CANDIDATE 5  (source file: Image_37.txt)
+----------------------------------------------------------------------
+Name: Ron Phoenix
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High School Diploma
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. founded, led, leading, mentored
+Resume Length: 520 words, 80 lines (~1.0 pages)
+
+CANDIDATE 6  (source file: 42da780484f5d1b9.txt)
+----------------------------------------------------------------------
+Name: Xw Madison Wi
+Ethnicity: Not stated in source (not inferred)
+Age: ~30 (estimated from earliest date/grad year 2018, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master's Degree in Blockchain Technology
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, leading, mentored
+Resume Length: 354 words, 47 lines (~0.7 pages)
+
+CANDIDATE 7  (source file: Image_34.txt)
+----------------------------------------------------------------------
+Name: First Last
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Resume Worded University, New York, NY 06/2005
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, launched
+Resume Length: 326 words, 33 lines (~0.7 pages)
+
+CANDIDATE 8  (source file: 143e6a7e86e7ff33.txt)
+----------------------------------------------------------------------
+Name: Blockchain Developer
+Ethnicity: Not stated in source (not inferred)
+Age: ~26 (estimated from earliest date/grad year 2022, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. leading
+Resume Length: 454 words, 35 lines (~0.9 pages)
+
+CANDIDATE 9  (source file: 2a6008226b225fcb.txt)
+----------------------------------------------------------------------
+Name: Chicago Illinois Us
+Ethnicity: Not stated in source (not inferred)
+Age: ~30 (estimated from earliest date/grad year 2018, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 364 words, 46 lines (~0.7 pages)
+
+CANDIDATE 10  (source file: a82075f86d4e9eaf.txt)
+----------------------------------------------------------------------
+Name: Lorenzo Conrad
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: FE] 2011-09 - 2016-06 G PORTO, PORTUGAL Informatics Engeineering (Bacherlor's Degree)
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 476 words, 62 lines (~1.0 pages)

@@ -1,0 +1,25 @@
+Middle Blockchain Developer
+
+WORK EXPERIENCE
+---------------
+
+- Set-up of a healthcare company’s online payment system with support for bitcoins and Blockchain wallets
+
+- Provision of a Blockchain wallet support proof-of-concept for implementation in a clothing store
+
+- Modification of existing application to add support for bitcoin
+- Creation of a dashboard to display bitcoin statistics from Blockchain website
+
+SKILLS
+------
+
+- SQL, HTML, CSS, JavaScript, React, jQuery, JUnit, Java, Maven, Ukrainian Development Blockchain, Cryptocurrency, Smart Contracts, Geth
+
+Western Management Global Delivery
+
+MOBILUNITY
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University
