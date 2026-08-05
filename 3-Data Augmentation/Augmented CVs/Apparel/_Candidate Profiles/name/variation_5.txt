@@ -1,0 +1,148 @@
+Maria Garcia
+
+CANDIDATE PROFILES — Apparel
+Folder: Apparel  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_48.txt)
+----------------------------------------------------------------------
+Name: Lisbeth Kutch
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 282 words, 29 lines (~0.6 pages)
+
+CANDIDATE 2  (source file: e2bd1a22b6a5fb30.txt)
+----------------------------------------------------------------------
+Name: Jenise Brakus
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Savannah College of Art and Design Collage in Education
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 269 words, 34 lines (~0.5 pages)
+
+CANDIDATE 3  (source file: 14f3bd754bb71ff6.txt)
+----------------------------------------------------------------------
+Name: Robert Smith Apparel Designer
+Ethnicity: Not stated in source (not inferred)
+Age: ~57 (estimated from earliest date/grad year 1991, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. oversaw
+Resume Length: 309 words, 27 lines (~0.6 pages)
+
+CANDIDATE 4  (source file: 40bd2c92db475c7e.txt)
+----------------------------------------------------------------------
+Name: George Anthony Robles
+Ethnicity: Not stated in source (not inferred)
+Age: ~47 (estimated from earliest date/grad year 2001, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. leading, managed, directed, spearheaded, oversaw
+Resume Length: 432 words, 44 lines (~0.9 pages)
+
+CANDIDATE 5  (source file: f985231d46da6475.txt)
+----------------------------------------------------------------------
+Name: Rebecca Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. leading, managed, oversaw, supervised, launched
+Resume Length: 485 words, 45 lines (~1.0 pages)
+
+CANDIDATE 6  (source file: 2073cab4d68e70c2.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor’s Degree In Fashion Design | INTO Washington State University, Pullman / Jan 2006 - Dec 2009
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led
+Resume Length: 307 words, 36 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: 973b6faebc41c9a8.txt)
+----------------------------------------------------------------------
+Name: Olin Gerlach
+Ethnicity: Not stated in source (not inferred)
+Age: ~49 (estimated from earliest date/grad year 1999, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: UNIVERSITY OF PHOENIX - IDAHO CAMPUS 1999 - 2004 Bachelor's Degree in Business
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 414 words, 44 lines (~0.8 pages)
+
+CANDIDATE 8  (source file: 5a6c1a158a033616.txt)
+----------------------------------------------------------------------
+Name: Peter Connolly
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: English
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Business Administration
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, supervised, coordinated
+Resume Length: 332 words, 61 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: Image_92.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 262 words, 33 lines (~0.5 pages)
+
+CANDIDATE 10  (source file: Image_88.txt)
+----------------------------------------------------------------------
+Name: Marcelle Carroll
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Massachusetts College of Art Collage in Education
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 276 words, 36 lines (~0.6 pages)
