@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Finance
+Folder: Finance  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: b751f3cf78191762.txt)
+----------------------------------------------------------------------
+Name: Timothy Duncan
+Ethnicity: Not stated in source (not inferred)
+Age: ~26 (estimated from earliest date/grad year 2022, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 338 words, 43 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: d8ea85e33db6d6e6.txt)
+----------------------------------------------------------------------
+Name: Information James Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: University of Pennsylvania - The Wharton School | Philadelphia, Pennsylvania iNcORPORATES
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 463 words, 44 lines (~0.9 pages)
+
+CANDIDATE 3  (source file: 86e7b72c2594bc7f.txt)
+----------------------------------------------------------------------
+Name: John Smith Finance Manager
+Ethnicity: Not stated in source (not inferred)
+Age: ~58 (estimated from earliest date/grad year 1990, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, leading, supervised, launched
+Resume Length: 442 words, 40 lines (~0.9 pages)
+
+CANDIDATE 4  (source file: aef2fedf55b7dada.txt)
+----------------------------------------------------------------------
+Name: Eddie Larson
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 401 words, 46 lines (~0.8 pages)
+
+CANDIDATE 5  (source file: f4e80993a6633fd0.txt)
+----------------------------------------------------------------------
+Name: Aria Black
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: CERTIFICATIONS
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 296 words, 40 lines (~0.6 pages)
+
+CANDIDATE 6  (source file: 36ee438f1b6d671b.txt)
+----------------------------------------------------------------------
+Name: New York New York
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed, initiated
+Resume Length: 344 words, 33 lines (~0.7 pages)
+
+CANDIDATE 7  (source file: Image_76.txt)
+----------------------------------------------------------------------
+Name: Professional Prince It Prectitioner
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 273 words, 32 lines (~0.5 pages)
+
+CANDIDATE 8  (source file: Image_18.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. led, leading, managed, spearheaded, coordinated
+Resume Length: 482 words, 37 lines (~1.0 pages)
+
+CANDIDATE 9  (source file: Image_93.txt)
+----------------------------------------------------------------------
+Name: Larry Scott
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Magneto IT Solutions
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, managed, directed, mentored
+Resume Length: 495 words, 45 lines (~1.0 pages)
+
+CANDIDATE 10  (source file: 12764da825b60ac2.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: B.A. in Communication - (St. Edward's University - Austin, TX)
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. coordinated
+Resume Length: 298 words, 36 lines (~0.6 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking
