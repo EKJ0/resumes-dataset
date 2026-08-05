@@ -1,4 +1,3 @@
-@'
 # Python-generated files
 __pycache__/
 *.py[cod]
@@ -47,4 +46,3 @@ Desktop.ini
 *.temp
 *.bak
 ~$*
-'@ | Set-Content -Encoding UTF8 .gitignore
