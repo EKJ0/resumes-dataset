@@ -1,0 +1,148 @@
+Greg Baker
+
+CANDIDATE PROFILES — PBO
+Folder: PBO  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 2cfbdd01c315b6b0.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High school diploma Roosevelt High School | 2010 - 2014 Seattle, WA
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, leading, initiated, drove
+Resume Length: 262 words, 36 lines (~0.5 pages)
+
+CANDIDATE 2  (source file: f62753fe22714256.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~44 (estimated from earliest date/grad year 2004, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- Bachelor of Science in Sociology - (Savannah State University)
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. coordinated
+Resume Length: 315 words, 32 lines (~0.6 pages)
+
+CANDIDATE 3  (source file: 66bad2150d7c1269.txt)
+----------------------------------------------------------------------
+Name: Jill Rudlinger
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2005 - 2009
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 277 words, 37 lines (~0.6 pages)
+
+CANDIDATE 4  (source file: 46588c556afc5fd6.txt)
+----------------------------------------------------------------------
+Name: Loyal Porsiztent
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. leading, led
+Resume Length: 367 words, 46 lines (~0.7 pages)
+
+CANDIDATE 5  (source file: 3b5c31987c5565e6.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 325 words, 41 lines (~0.7 pages)
+
+CANDIDATE 6  (source file: 42441db284f46d42.txt)
+----------------------------------------------------------------------
+Name: First Last
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Resume Worded University, New York, NY 2011 Bachelor of Science - Business Administration
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. championed
+Resume Length: 400 words, 32 lines (~0.8 pages)
+
+CANDIDATE 7  (source file: c19e9a620426fabc.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 323 words, 48 lines (~0.6 pages)
+
+CANDIDATE 8  (source file: 1b1a207bee075f3c.txt)
+----------------------------------------------------------------------
+Name: Vanessa Ford
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: English Native
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. managed, led, leading
+Resume Length: 372 words, 52 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: 0cd3efeaaf423d45.txt)
+----------------------------------------------------------------------
+Name: Kelly Jabba
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 181 words, 27 lines (~0.4 pages)
+
+CANDIDATE 10  (source file: ddb5c0efabd25763.txt)
+----------------------------------------------------------------------
+Name: Oa Ucense
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 11 words, 6 lines (~0.0 pages)
