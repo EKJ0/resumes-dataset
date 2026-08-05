@@ -1,0 +1,59 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+ROBERT SMITH Security Engineer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Technology leader with extensive security experience that has built and secured platforms for
+processing the movements of crude oil in Amazon Web Services. Proven leader with experience
+managing multi-million dollar budgets and global teams for one of the largest credit card
+transaction processors. Proven track record of developing roadmaps and plans to improve both
+infrastructure and security. Passionate about employee development and engagement.
+
+CORE COMPETENCIES
+
+Windows Server 2008, CyberArk, Vmware, Citrix Xen Server.
+
+WORK EXPERIENCE
+---------------
+
+Security Engineer
+ABC Corporation - 2007 - 2010
+
+wa Deliverables:
+
+Project lead lor suppon and hardware migration of legacy firewall infrastructure.
+
+- Created documentation and trained team on suppor ol the legacy Concord firewall environment,
+
+- Project lead for migration of two legacy firewall request systems to the Remedy piatiorm.
+
+- Documented and trained team on processes utilizing the Remedy platiorm tor all tirewall requests,
+
+- Project lead for migration of newly acquired companys security infrastructure to the fimwall team.
+
+- Charged with brining the Fundxpress, an online banking provider, up to First Data Security Standaris
+
+- Deployed the first Intrusion Prevention System (IPS) in the US region to help mitigate SSL Denial of Service (DoS) attacks.
+
+Security Engineer
+ABC Corporation - 2003 - 2007
+
+Mey Deliverables:
+
+Responsbilities Monitoring of Multiple Security Incidents using SIEM tool (McAtee Nitro) Working as McAlee ePO Administrator Creating policies, client tasks and assigning to
+client systems when required,
+
+- Initiating scan on systems when required Fixing Agent, VSE related issues and updating them when required.
+
+» Yulnerability Assessment on Monthly and Quarterly Basis using Nexpose,
+
+- Support Clients Security Organization and Our Global Security Operations team requests Integrated Firewall, Windows Servers and End point to SIEM solution successfully,
+
+- _ - _ - _ - - - - - - _.. - _ - nXn nn
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines

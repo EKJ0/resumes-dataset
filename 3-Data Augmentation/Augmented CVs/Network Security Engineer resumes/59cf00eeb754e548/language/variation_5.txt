@@ -1,0 +1,96 @@
+Taia Vahle
+
+Network Security Engineer
+
+® tajavahle@gmail.com
+\ (781) 332-2609 9 Grand Rapids, MI
+
+PROFILE
+-------
+
+1am a highly experienced Network Security Engineer with over 3 years of experience in designing, implementing, and managing secure networks. My
+expertise in network security and engineering comes from years of hands-on experience in the field, working with various organizations and customers.
+
+| have a deep understanding of Firewall technologies and a wide range of security protocols and tools. | am also experienced in risk assessment and
+
+threat management, as well as network security policy development. My ability to develop, implement, and maintain secure networks allows me to
+provide services that exceed customer expectations and ensure the safety of their data.
+
+EDUCATION
+---------
+
+Bachelor of Science in Network Security Engineering at Michigan State University, East Lansing, MI
+Aug 2016 - May 2020
+
+Relevant Coursework: Network Security Engineering Fundamentals, Networking Protocols and Architectures, Computer
+Network Security, Network Security
+
+WORK EXPERIENCE
+---------------
+
+@ Network Security Engineer at FireEye, MI
+Sep 2022- Present
+
+- Spearheaded the implementation of a new FireEye Security Platform, reducing security incidents by 40%. This included deploying and
+
+Policy and Practices.
+
+LINKS
+
+linkedin.com/in/taiavahle
+
+Network Protocols
+
+Intrusion Detection/Prevention Systems (IDS/IPS)
+
+Security Auditing and Monitoring
+
+Vulnerability Scanning and Remediation
+
+Encryption Technologies
+
+System Hardening
+
+LANGUAGES
+
+English
+
+French
+
+HOBBIES
+
+Coding Penetration Testing
+
+configuring network firewalls and intrusion detection/prevention systems to protect against malware threats.
+
+- Developed an automated process for monitoring user access activity across multiple networks which resulted in improved visibility into potential vulnerabilities, leading to increased protection from external attacks.
+
+- Executed upgrades on existing hardware infrastructure which reduced overall operational costs by 20%, allowing more resources to be used towards developing additional security measures.
+
+@ Network Security Associate at IBM Security, MI
+Jul 2020 - Aug 2022
+
+- Developed and implemented a network security policy to protect IBM's MI branch against potential cyber threats, resulting in an 80% reduction of successful attacks.
+
+- Created custom scripts using Python language that automated the process of data analysis for suspicious activities on the company's networks, reducing manual labor by 50%.
+
+- Performed daily monitoring and maintenance tasks related to firewall access control lists (ACLs), identifying 2 critical vulnerabilities which were quickly addressed before they could be exploited.
+
+CERTIFICATES
+
+Certified information Systems Security Professional (CISSP)
+Apr 2021
+
+Certified Ethical Hacker (CEH)
+Nov 2019
+
+MEMBERSHIPS
+
+Information Systems Security Association (ISSA)
+
+International Information Systems Security Certification Consortium (ISC2)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

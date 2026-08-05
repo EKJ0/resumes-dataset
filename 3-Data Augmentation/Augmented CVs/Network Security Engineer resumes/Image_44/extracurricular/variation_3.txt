@@ -1,0 +1,44 @@
+ROBERT SMITH
+
+Asst. Senior Network Security Engineer
+
+info@qwikresume.com | https://Qwikresume.com
+
+7 + years of experience in routing, switching, Network design, troubleshooting and implementation of complex network systems Network security including
+NAT/PAT, ACL, VPN Concentrator. Implemented traffic filters on CISCO routes using Standard Access List and Extended Access list. Experience on NAT/ACLs AAA,
+Layer 2 Security, Layer 3 Security, 1PS/IDS, Cisco (ASA, PIX) 5510, Experience in designing, implementing and Managing LAN, WAN solutions for different client
+setups.
+
+OCTOBER 2013 - 2020 ASST. SENIOR NETWORK SECURITY ENGINEER - COMCAST CORPORATION
+
+- Monitoring and Managing the Firewalls (Checkpoint Boxes, Nokia, Cisco ASA,
+juniper), VPN Devices and Routers a total of over 1900 devices Troubleshooting the Firewalls, VPN Devices and Routers
+Adding rules to firewalls and routers.
+Managing URL Content Altering on Websense Proxy.
+Adding exemption, editing policy groups on Websense Management Server.
+Adding/removing ARM bypass rules on Websense appliances.
+Providing incident response analysis and support.
+
+2009 - 2013 SENIOR NETWORK SECURITY ENGINEER - DELTA CORPORATION
+
+- 0 Developed cost-savings Initiative and risk assessment related to recurring maintenance agreements for infrastructure systems and software resulting .
+
+- 0 Project manager responsible for designing and implementing solution to deliver internet connectivity and fault tolerance via siteto-site VPN ,
+
+- 0 Desgned and deployed Cisco Wireless Control System (WCS) In conjunction
+with ten 4400 and 5500 series Wireless LAN Controllers to support 400+ .
+
+- Security solution provided compliance reporting as well as reducing wide-area network recurring costs by [] per year.
+
+- Troubleshooting and configuring Cisco Routers, Cisco Switches, Cisco ASA, Brocade ADX, FS Devices and delivering the service to the customer ina &quot;.
+
+- Solely managed an enterprise firewall consulting queue for use by Bank of Americas business units worldwide Provided perimeter security engineering .
+
+- Thisis Durnmy Description data, Replace with Job description rdevant to your current role.
+
+- The Free Resume Template 8 the copyright of Qwikre wipe.com. Usage Guidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

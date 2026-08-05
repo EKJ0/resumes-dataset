@@ -1,0 +1,64 @@
+Robert Smith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+s Website > vow. qwikre sume, com
+Cyber rity Engineer Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabama
+
+SUMMARY
+-------
+
+To obtain a position with a cornpany that will give me the opportunity to contribute by utilizing
+exceptional customer-service skills as well as meeting new and potential clients. Motivated self-
+starter with experience in cybersecurity and customer relations. Possess strong written and
+Deco NON skills and ability to partner across departments to meet the needs of
+
+Ss.
+
+SKILLS
+------
+
+Red Team Operations, Intrusion Detection, SIGINT, SIGINT, Networking.
+
+WORK EXPERIENCE
+---------------
+
+Cyber Security Engineer
+ABC Corporation - March 2012 - Septernber 2013
+
+- Tools used on a daily basis included McAfee ePO, WireShark, HP DDMI, Snort, and FireEye,
+
+- Responsible for creating and updating tickets throughout the day using Siebel.
+
+- Responsible to investigate the Discovery and Dependency Mapping Inventory dally report and take action on any unauthorized devices that were picked up as being on the network.
+
+- Monitored and tracked Snort logs throughout the day to monitor traffic and potential threats on the network,
+
+- Created tearn weekly and monthly status reports that got delivered to our National Science Foundation tearn lead COTR.
+
+- Worked hands on with the tearns Prograrn Manager to make sure tearn morale was up and we
+were operating at 100%.
+
+- Managed the operation of arcsight security Information and event management systerns to include arcsight esr 5. 5, connector appliances/smartconnectors, logger appliances, linux servers, network devices and backups.
+
+Cyber Security Engineer
+Delta Corporation - 2009 - 2012 » System Security Lead for DCGS-A enabled Single Source (DE-SS),
+- System Security Lead for Tactical Communications Support Processor (TSCP),
+- Produced Plan of Action G&arnp; Milestones (POAG&amp;Ms),
+- Monitored security capabilities and vulnerabilities of the systern and ensured actions were taken to document findings and/or correct ther,
+- Performed NESSUS, SRR, and SCC scans, on UNIX OS, to verify the security posture of the system,
+- Performed media scanning for digital material entering and exiting classified areas (using Dirty Word Search tools),
+- Assisted Certification &arnp; Accreditation of DE-SS v6.6 for DAMI-IM and working to convert DIACAP to RMF.
+
+EDUCATION
+---------
+
+B.5, In Information Sciences and Technology - (Pennsylvania State University)
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

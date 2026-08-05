@@ -1,0 +1,41 @@
+ROBERT SMITH Cyber Security Analyst
+
+Phone: (0123}-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Seasoned Cyber Security Analyst with 6+ years of experience in system security safeguards with adherence to FISMA and NIST Special Publications. Proficient in risk
+assessment and management, vulnerabilities management, Risk Management Framework (RMF), Assessment and Authorization.
+
+CORE COMPETENCIES
+
+TCP/IP Network Administration [Window IDS/IPS, Penetration Testing, Vulnerability Seanning. Anti-virus. Anti-malware. Networls Security, Snort And Nessus Risle
+Management, Framework Assessment, Authorization, POAM Management, NIST, FISMA, CSAM, FIPS Security Control Assessment, Firewall And Intrusion Detection/prevention
+Protocols. Windows. Mainframe. UNIX And Linux Operating Systems. Networl: Protocols And Packet Analysis Tools.
+
+WORK EXPERIENCE
+---------------
+
+Cyber Security Analyst
+Havilah Group Lic - June 2013 - Present
+
+Key Deliverables:
+
+- Interviewing system administrators and other stakeholders to assist in generation custom reports and/or artifacts in support af the AA process.
+
+- Identifying security controls and construct 2 compliance matrix for tracking.
+
+- Apply appropriate information security control for federal information system
+based on NIST 800-37, evaluate threats and vulnerabilities based on tenable reports.
+
+- Working directly with Isso in the review of packages such as system security plan (SSP) to ensure the ssp is updated based upon findings in the requirement traceability matrix [RTM), and spearhead team of information security professionals responsible for the development of security policies, procedures, and security assessment and authorization (aa) packages for various commercial and government entities,
+
+- Providing security support to information systern security atficers (Isso) and point of contact on the FISMA and Nist process.
+
+- Initiate security assessment and authorization environments such as system security categorization, development of security and contingency plans, security testing and evaluation, system accreditation and continuous monitoring
+
+- Reviewing privacy threshold analysis (PTA) privacy impact assessment (PIA), anda system of record notice
+
+System Support Engineer
+Emjay Global Lic - January 2012 - May 2013
+
+2259 Oak Street, Old Forge, New York, 13420
+- This Free Resume Template ls (le copyright of Qwikrestune.com, Usage Guidelines

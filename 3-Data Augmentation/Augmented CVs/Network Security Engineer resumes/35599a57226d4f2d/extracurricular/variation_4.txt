@@ -1,0 +1,56 @@
+LENNY STEWART
+
+555 APPLE TREE LANE | CITY. STATE. 55555 | 555.555.5555 | EMAIL ADDRESS
+
+NETWORK ADMINISTRATOR / NETWORK MANAGER
+
+Innovative, dedicated. and results-oriented network manager experienced with installation, maintenance and support of
+LAN / WAN infrastructure and management / troubleshooting of network and associated systems, including servers.
+desktops. applications, and general tier 3 support for all network related systems and processes. Proactively takes the
+initiative to drive projects that Increase effectiveness, improve system performance, and boost operational output
+Known for consistently exceeding organizational goals and objectives coupled with solid work ethic and capacity to
+function weil under pressure and display a high level of competence in a rapidly evolving work environment.
+
+NAME OF COMPANY, CITY. STATE 1979 - 2013
+Senior Network Engineer (2001 - 2013)
+Full accountability for managing day to day network changes, including B2B VPN ond firewall changes and hardware or
+software modifications. Accountable forconfiguring. installing. and managing remote installations of LAN / WAN hardware
+forremote offices. Managed web-site security appliance to contro! Internet access, including Cisco IronPort, Websense, Blue
+Coat and Surf Control. Performed server and network hardware rack and stack in date center and installed connections to
+network. Managed network connections using distributed cable management system. Managed dual ISP connectivity and
+redundancy with DS3, 100 and 300 meg cireuits and DNS using FS GTM appliance for internal and external DNS.
+Received award from senior management for overseeing seamless migration of outsourced mainframe
+from previous partner to IBM, including establishment of new network and developing of network test plan.
+Entire project was completed without a single customer impact.
+Integral part of team that successfully transitioned approximately 2,600 network devices from existing in-
+house team to outsourced managed solution.
+Closely collaborated with key stakeholders, including IBM. on sharing knowledge and documentation during
+major network device transitioning project.
+Replaced existing antiquated hardware with IBM-approved cutting-edge technological solutions.
+Successfully migrated web load balanced environments from Cisco CSS platform to an FS LTM for the QA
+internal production and external production websites.
+Served as integral part of tech team tasked with migrating business to IronPort from old system.
+Completed move of mortgage business’ redundant datacenter from Verizon service's in Manassas, VA to the
+‘Sparks, MD, to be hosted in-house.
+Served as network lead for mainframe and distributed systems for BCP planning and testing,
+Mentored and coached new Network Administrators and Network Engineers.
+Managed network monitoring and management systems, including DHCP and static addresses along with server
+and appliance based Syslog systems, and WUG. Cat Tools.
+
+What's Up Gold(WUG), NetScout HP NNM, Fluke WGA. NG Sniffer. Wireshark, Syslog, appliances
+and servers (kiwi). TACACS. NetiQ. Solarwinds IP Administrator, DHCP (Cisco CNR. router). Cisco
+Ironport. Websense, Surf Control, Blue Coat. IBM Admin Portal. Cat Tools
+
+TCP, UDP. ICMP. BGP, EIGRP. SDLC, ISDN. QOS. HDLC. NAT/PAT. PPP, MLPPP. MPLS, DNS, DHCP,
+SSL, IPSec, Multi VRF MPLS, DS3, P2P circuits up to 600 meg GIGE, ATM
+
+Cisco 2924, 2950, 2960, 3500, 3600, 3700, 3825, 3845, 3925, 3945, 5500, 6500. CAT OS and 10S,
+7200, NEXUS 7010. WLC4#402. VPN concentrator 3030 IPSec & SSL VPN. Cisco Local Director and
+CSS. F5 GTM, LTM, Juniper SA 4500, PIX 515, PIX 525. PIX 535, ASA firewalls, Nortel SSL & IPSec
+VPNs, CheckPoint firewalls with management station. Server and network equipment “Rack and
+Stack”. Cable Management systems. Cisco ASR routers.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

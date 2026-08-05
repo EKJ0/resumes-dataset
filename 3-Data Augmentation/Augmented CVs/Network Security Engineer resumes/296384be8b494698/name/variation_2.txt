@@ -1,0 +1,59 @@
+Greg Baker
+
+Associate Network Security Engineer
+
+PERSONAL STATEMENT
+
+Experienced Security Consultant with eight years of IT experience with a focus on designing and developing security solutions, Skilled & technically
+proficient with multiple firewall solutions, network security, and Information security practices.
+
+WORK EXPERIENCE
+---------------
+
+Associate Network Security Engineer
+ABC Corporation- April 2013 - April 2014 Re sponsibilities:
+= Responsible for Security infrastructure engineering as well asa Microsoft Windows, UNIX, Checkpoint Firewalls, Juniper firewalls, PIX
+firewalls, Bluecoat Proxies, Juniper Intrusion Prevention devices, and wireless switch Security Management.
+= Conducted monitoring, optimizing, problern resolution, root cause analysis, and managed all aspects of access to specified systerns.
+- Designed, wrote, and maintained cornmon procedures, SLis and EXECs for installed operating systems. = Organized, allocated, and supervised use of disk space for libraries, files, and common work space, = Acts as a professional assistant or project team member in hardware evaluation, configuration, and software evaluation projects. = Reviewed, analyzed, developed, installed, and modified Security Tools and systems, = Executed security controls to prevent hackers frorn infiltrating cornpany information or jeopardizing programs.
+
+Network Security Engineer
+ABC Corporation- 2009 - 2013 Responsibilities:
+
+= Responsible for maintaining the technical components of the Information security architecture.
+
+= Utilized practical expertise in TCP/IP protocols and systern administration for purposes of maintaining and troubleshooting network
+security measures.
+
+= Enforced network security policies through technical means.
+
+= Maintained firewalls and other security controls.
+
+= Supported the use of encryption and public/private key technologies by EarthLink employees,
+
+- Responsible for responding to and resolving Incidents reported by the NOC or by other employees via the Inforrnation Security Departments trouble ticketing system & quot; Minion &quot; ,
+
+= d) Network Engineer Planned, installed, troubleshoot, and maintained EarthLinks pool of dial-up access equipment, Cisco and Cabletron
+Routers; maintained FDDI and Ethernet cables and power supplies, installed hardware, including filers, switches, hub,
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+CONTACT DETAILS
+
+1737 Marshville Road, Alabama
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+SKILLS
+------ Network Administration.
+
+LANGUAGES
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company
+
+Name) Reference - 2 (Company Name)

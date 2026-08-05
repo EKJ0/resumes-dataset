@@ -1,0 +1,46 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+ROBERT SMITH
+
+Junior Network Security Engineer
+info@qwikresume.com | Linkedin Profile | Qwikresume.com
+
+A self-motivated and hands-on Computer Software/Network Specialist, seeking a postion in Security Management, Information Assurance and Systems
+Administration. Superior technical, organizational, people interface and problernr solving skills coupled with the ability to set priorities and manage multiple tasks.
+Highly analytical, an effective communicator, and a dedicated, responsible team player who follows through to task/project completion.
+
+Junior Network Security Engineer
+ABC Corporation - OCTOBER 2007 - FEBRUARY 2014
+
+Lead projects to test and deploy McAfee security protection solutions for the corporate and retail environments.
+
+Deployed and tested system Upgrades for CyberArk Password Vault application,
+
+Lead team on scheduled firewall rule reviews to establish proper security controls are in place.
+
+Provided support to users, technical groups, and business partners on all security and control policies, strategy, risk assessment, network
+connectivity, system architecture and design requirements.
+
+Worked with Internal Audit to ensure security controls met PCI/SOX compliance.
+
+Crested Active Directory groups to allow secure access to Windows and UNIX/Linux platforms as well as file shares,
+
+Provided security administration support during disaster recovery (DR) exercises,
+
+Security Engineer
+ABC Corporation - 2006 - 2007
+
+Independent Consultant Worked as a consultant focusing on cyber security for over a dozen companies and organizations ranging in size
+from 10 to 100+ employees
+
+Conducted auditing, penetration testing, and incident response.
+Setup and installed hardened servers.
+
+Discovered and eradicated worms viruses, malware, spyware, and trojans
+
+Built Intrusion and anomaly detection systems to assist in tracking malicious activities,
+
+Counseled and staged the threats of cyber terrorism.
+Implemented various authentication systems and the policies suirrounding them for companies of various sizes.,
+
+- This Free Resume Template 's the copyright of Qwikresume.com, Usage Guidelines

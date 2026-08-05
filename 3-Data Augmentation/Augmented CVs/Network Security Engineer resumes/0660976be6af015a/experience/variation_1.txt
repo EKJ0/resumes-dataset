@@ -1,0 +1,67 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+Dima Litvin
+
+@ Glenwood Ter., Fords, NJ 08863 e
+@ Phone: (732) 476-7353 e E-mail: jobfordima@gmail.com «
+
+Network Security Engineer + Team Leader
+Cisco LAN/WAN Networks e Cisco, Checkpoint, Nokia Firewalls and VPN e IBM Blade Centers e SAN Fabrics
+
+Highly accomplished network and security engineering professional with 20 years of experience in designing, deploying,
+migrating and supporting critical multi-site redundant network environments. Expert at leading complex multistage projects.
+Proven ability to manage all phases of installation, monitoring, and administration.
+Outstanding mentoring skills. Exceptional technical-to-business communication skills.
+Known for exceptional competence in four areas:
+- Leadership: Consistently commended by company exccutives, colleagues, and peers for strong work cthic and ability to finish extremely complex jobs on schedule.
+- Technical: Successfully designs highly scalable secure and redundant network environments utilizing most current hardware and software revisions from leading vendors.
+- Documentation: Creates casy to follow step-by-step procedural documentation and casy to read Visio diagrams for environment tumover to end user.
+- Communication: Using PowerPoint presentations and outstanding writing and communication skills efficiently delivers complex technical subject matter to non-technical business area management.
+
+Areas of Expertise and Technical Skills
+
+Hardware: Software:
+
+Cisco routers: 2600, 2800, 3600, 3800, 7200 CatOS and IOS.
+
+Cisco switches: 2900, 3500, 4000, 4500 Windows, Unix and Linux operating systems.
+
+Cisco switches: 3550, 4900, 6500 SUP 24/720 Nokia IPSO 4.2 (Voyager and CLISH)
+
+Cisco firewalls PIX 500 v.6.3 - v.8.0 Distributed and central installation of Checkpoint Cluster XL
+Cisco firewalls: ASA 5500 v.7.0 - v.8.0 and Nokia IPSO Cluster / VRRP Firewall Clusters
+Cisco VPN concentrators: 3000 Checkpoint Secure Platform.
+
+Cisco Nexus switch family: 1000v, 2000, 5000 Checkpoint NG FP3 - NGX R65
+
+Cisco SAN Fabric directors and switches VMware Workstation 6,5 and ESX 3.5.
+
+MDS 9509/9513 and MDS 9124/9134 Mazu/Cascade, Arcsight, CA Unicenter/Service Desk Nokia Security Appliances IP290, IPS60. Sniffer Infinistream , Ethereal/Wireshark
+
+IBM e-Series and h-Series blade centers Cacti, CA cHealth and Spectrum
+
+Protocols:
+
+Frame-Relay, ISDN, NAT/PAT, EIGRP, BGP, OSPF, ARP, STP, VTP, 802.1Q, ACLs, HSRP, IPSEC, Fibre Chanel
+
+Strong analytical and problem solving skills utilizing logical and systematic approach.
+
+Ability to work as a team member or individually. Proven leadership skills.
+
+Capable of making critical decisions and assuming responsibility for results.
+
+Outstanding customer service skills. Excellent writing and verbal communication skills. Excellent math skills.
+
+WORK EXPERIENCE
+---------------
+
+06.2003 - Present ISO, Inc. Jersey City, NJ Network Engineer
+2010: Principal architect and technical lead on Firewall Environment Upgrade Project - multiphase high budget cffort to migrate home
+office firewall environment from PIXS00/VPN3000 to ASA5S500 and from Sun Solaris to Nokia based Checkpoint infrastructures.
+2009: Contributed critical role as technical lead on Checkpoint Upgrade project.
+- Created detailed upgrade plan, step-by-step implementation documentation, and comprehensive test plan
+- Performed 2 hop upgrade from NG FP3 on Sun Solaris 8 platform to NGX R65 on Nokia IPSO 4.2 platform. @ Deployed several IP290 and IPS60 Nokia Security Appliances.
+2008: Technical lead on Network Backbone Upgrade project.
+- Successfully achieved main goal of the project: climinate single point of failure of key network components and create highly scalable infrastructure while utilizing existing cabling.
+- Personally created concept, overall design, detailed diagrams and migration plan documentation.
+@ Implemented migration from Cisco 6509 Sup 2A (CatOS) + MSFC (IOS) to Cisco 6509 Sup 720 (IOS).

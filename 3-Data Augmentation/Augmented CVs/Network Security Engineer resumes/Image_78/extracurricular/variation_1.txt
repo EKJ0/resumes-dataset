@@ -1,0 +1,45 @@
+ROBERT SMITH
+
+Information System Security Engineer
+
+info@qwikresume.com | https://Qwikresume.com
+
+To fully utilize my skills and experience as an IT Security professional by protecting confidentiality, Integrity and availability of information, Technical/Sy stems
+
+WORK EXPERIENCE
+---------------
+
+OCTOBER 2014 - 2019 INFORMATION SYSTEM SECURITY ENGINEER - DATAWIZ CORP CONTRACTOR FOR USDA
+
+- Prepared, arranged and tested Splunk search strings and operational strings,
+
+- Created and configured management reports, dashboards and alerts in Splunk.
+
+- Installed, tested and deployed monitoring solutions with Splunk services:
+
+- Maintained and managed assigned systems, Splunk related issues and administrators Resolved configuration based issues in coordination with infrastructure support teams
+
+- (BS monitoring, analyzing network traffic, log analysis prioritize and differentiate between potential intrusion attempts and false alarms.
+
+- Conduct network vulnerability assessment using tools to evaluate the attack vectors, Identify system vulnerabilities and develop remediation plans and security procedure,
+
+- Create and track investigations to resolution.
+
+2011 - 2014 SECURITY ENGINEER - SUNGARD AS
+- Responsible for managing Sungards Managed Services offerings for both internal IT and external clients.
+- Subject matter expert on MacAfee ESM (Nitro) SIEM product.
+- Handling initial security baseline findings for customer environments.
+- Documented best practices, filtering and incident response
+- Working directly with assigned Project managers on implementation of MacAfee SIEM Conducting design and planning, sizing of MacAfee SIEM Implementation.
+- Providing training to internal SOC team on hand- off of McAfee SIEM product.
+- Responsible for overall operations / maintenance of MacAfee SIEM environment for customer and internal Sungard AS Lab network.
+
+EDUCATION
+--------- Certificate in course completion - (Montgomery College - Silver Spring, MD)
+
+- The Free Resume Template 8 the copyright of Qwikre wipe.com. Usage Guidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

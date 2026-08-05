@@ -1,0 +1,61 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+Nolan Larkin
+
+Network Security Engineer
+
+CONTACT
+-------
+
+(a) nolan.d.larkin@gmail.com © 208-108-6948 (co) linkedin.comyin/nolan-larkin
+
+SUMMARY
+-------
+
+Professional network security engineer with 6+ years of experience in the design, implementation and
+maintenance of secure networks. Highly skilled in analyzing network traffic to detect vulnerabilities and threats
+using various tools such as Wireshark, Nmap, Nessus etc. Successfully developed an autornated process for
+patch management which led to improved performance across all systems. Experienced at developing policies
+& procedures related to Network Security & Access Controls as per industry standards (PCI-DSS}.
+
+EMPLOYMENT
+
+Network Security Engineer | Employer A Rochester | January 2018 to Present
+
+- Accurately implemented and maintained network security systems for 200+ users, ensuring the protection of confidential data from unauthorized access and breaches.
+
+- Utilized a variety of tools and techniques to monitor networks for potential threats on an hourly basis,
+
+reducing system vulnerabilities by 23%.
+
+Streamlined administrative processes across all departments, allowing for effcient management of user
+
+accounts with over $4 million saved annually in costs associated with manual labor.
+
+- Advised IT personnel on best practices related to cybersecurity measures; successfully trained 10 new team members in up-to-date safety protocols within 3 manths’ time frame.
+
+- Resolved 77% of reported technical issues within 12 hours or less while maintaining 99% uptime rate on mission-critical applications used by customers around the world.
+
+Network Security Engineer | Employer B Springfield | March 2012 to December 2017
+
+- Demonstrated technical expertise in designing, implementing and managing network security systems for
+4 Fortune 500 company, reduced total data breaches by 50%.
+
+- Participated in the development and testing of secure metworks to identify potential vulnerabilities and threats; successfully upgraded firewalls on 25+ routers with zero downtime.
+
+- Spearheaded the installation of an automated monitoring system to collect real-time data from aver 150 servers, helping detect anomalies before they became issues.
+
+- Resourcefully configured custom access controls across multiple platforms while enforcing rigorous
+authentication protocols with 100% accuracy rates.
+
+- Structured project plans that enabled teams to complete high-priority projects within budgeted timelines ~ resulting in 35% lower costs than expected timescales previously estimated.
+
+EDUCATION
+---------
+
+Bachelor of Science in Computer Science | Educational Institution XYZ November 2011
+
+SKILLS
+------
+
+Network Security Networking Firewalls

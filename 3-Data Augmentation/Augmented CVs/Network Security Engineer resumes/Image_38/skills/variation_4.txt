@@ -1,0 +1,57 @@
+ROBERT SMITH Senior Network Security Engineer/Analyst
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+Interested in utilizing expenence in Application Delivery, Server and Networking. Preferred work areas are
+Application Architecture Design, Engineering and Operation Support. Installing and administering Linux
+and UNIX OS systems to support Web based application and databases. Additional areas of interest include
+Proxy Services and Domain Name Services administration,
+
+SKILLS
+------
+
+Bigip Administrator, Security.
+
+WORK EXPERIENCE
+---------------
+
+Senior Network Security Enginecr/Analyst
+ABC Corponition - September 2009 - Oetober 2011
+
+- Responsible for a global Juniper firewall deployment of approximately 300 appliances.
+
+- Responsible for engineering and maintaining the Bluccout Proxy Server deployment:
+
+- Utilized of the Enterprise Manager to interact will all of the worldwide deployment for the USAID.
+
+- Analyzed Cheek Point Firewall mnning R75.x to determine Active Directory connectivity issues., and recommended a viable solutions to resolve mobile access and remote VPN authentication,
+
+- Provided consultation in the area of traffic analysis, bandwidth management, traffic shaping, authentication, and related wireless account management issues,
+
+- Assessed, the clients DMVPN network.
+
+® Tested and evaluated network systems to ensue stability, eliminate problems and make improvements ;
+
+Senior Network Security Engineer
+Delta Corponition - 2007 - 2009
+
+- General Dynamics Information Technologies provides world class technology and responsive solutions to our US.
+
+- Government customers,
+
+- Employed as a Contractor assigned to the Department of Homeland Security.
+
+- Whileemployed with GDIT I was responsible forday to day administmition of the ArcSight SEIM in the DHS SOC.
+
+- That included installing Updates, Maintaining the system Archives.
+
+- ‘Training analysts,
+
+- Also, supported the Bluecoat proxy solutian for DHS.
+
+- This Ens Remus Tomphats = the copyright of Qwikrewimecom, Usage Gauldsdiinss
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

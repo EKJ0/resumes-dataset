@@ -1,0 +1,51 @@
+Jamal Jackson
+
+ROBERT SMITH Sr. Network Security Engineer
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+SUMMARY
+-------
+
+Network engineering professional with a wide range of network/secunty experience along with extensive
+server and workstation implementation and troubleshooting. Innovative problem solving and team
+Building/Leadership abilities.
+
+SKILLS
+------
+
+Snort, Microsoft Windows, DISA Gold Disk, Microsoft Office Professional, TCP/IP, Unix, Redhat Linux,
+Stealthwatch, NetQaS, Cisco IOS Routers 7200, 7600, Cisoa Pix, Sidewinder, FWSM, ASDM, VMS,
+PALO ALTO Firewalls, Vyatta Firewalls, Active Directory.
+
+WORK FATHIO ENCE
+
+Sr. Network Security Engineer
+ABC Corponition - April 2007 - November 2011
+
+® Implement access contm! and manage rule-sets / filters on specific ports, IP addresses, or customer-
+
+- Install and upgrade software applications (UNEX and Windows) and hardware components to new and/or existing [DS and Firewalls.
+
+- Administer and maintain unique datahases through SQL, Shell Scripts, and other commercial tools.
+
+- Analysis of IDS packet data, with comprehensive understanding of switching and routing: broad understanding of hacker methodologies and Snon IDS signature development.
+
+- Troubleshoot and maintain of 256 SDP Routers and ensure confidentiality, integrity and availability for thase networks.
+
+- Experience with network vulnerability assessment tools Experience in policy and procedure development.
+
+- = Condvet isk and vulnerability assessments of planned and installed information systems to identify vulnerabilities, risks, and protection needs before implementing into production envimnment Configuration, maintenance and management of Bloc Coat web proxies on an Enterprise Level Performed STIG checks und remediated findings an Gateway and IMS devices to ensure compliance with DISA Standards.
+
+Network Security Engineer
+ABC Corporation - 2004 - 2007
+
+- Traveled to remote sites for the Navy Marine Corps Intranet installing and configuring security systems per specified DoD regulations.
+
+- Builtand installed Netsereen VPN devices using Personal Key Infrastructure.
+
+- ® Worked with Solans Sun boxes und Dell servers setting up Lntmsion Detection Software such as Manhunt.
+
+- Verified functionality and compliance through simulated network attacks.
+
+- This Ens Remus Tomphats = the copyright of Qwiknewimecom, Usage Galdsfines

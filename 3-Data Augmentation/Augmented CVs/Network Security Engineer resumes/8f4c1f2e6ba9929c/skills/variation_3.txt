@@ -1,0 +1,53 @@
+Phone: (123) 456 78 99
+Network Security Email: Info@qwikresurne.com
+
+En gin eer/Administrator Website; www.qwikresuime.com Linkedin:
+ROBERT SMITH Address: 1737 Mershwile Rosa, Alabarna,
+
+OBJECTIVE
+---------
+
+Network Security Engineer with 6+ Years' experience with Cisco ASA, Checkpoints, Juniper SRX,
+Fortigate, Palo Alto, Network Switches/Routers, LAN/WAN/WLAN, TCP/IP, VPN, and
+
+hardw are/software security applications, Skilled at end user support, network troubleshooting,
+intrusion detection/prevention, encryption, WAF, packet filtering firewalls, malware analysis,
+vulnerability scans, pen testing, and preparing security policies.
+
+SKILLS
+------
+
+Network Security, C.
+
+WORK EXPERIENCE
+---------------
+
+Network Security Engineer/Administrator
+ABC Corporation - October 2010 - Novernber 2011
+- Protect and defend; identification, analysis, and mitigation of threats to internal and external IT systems or networks.
+- Monitored network security devices such as firewalls, antivirus, and Intrusion detectiory prevention systerns.
+- Reviewed and implemented access controls security for networks assets and resources including security awareness training effectiveness.
+- Performed a variety of tasks related to network adrninistration, performance and maintenance,
+- Including the Installation, migration, and configuration of network devices (router, switches, servers, desktops) and associated equipment.
+- Perforrned traffic and malware analysis utilizing current applications (BackTrack, WireShark, Metasploit, etc,),
+- Installed, configured, mitigated, troubleshoot, and migrated network security software and hardware applications.
+
+Network Security Engineer
+ABC Corporation - 2007 - 2010
+- LAN/WAN Support and management of Johnson Controls global infrastructure.
+- Performing blackbox penetration testing and ethical hacking on our rernote sites to test for security vulnerabilities and security policy compliance.
+- Creating security policies for new sites.
+- Configuring switches, routers and wireless access points with latest security standards;
+- Designining firewall rules for new connections and VPNs,
+- Collaborating with Verizon on new circuit and router installs,
+- Ordering cisco hardware and docurnenting.,
+
+EDUCATION
+---------
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

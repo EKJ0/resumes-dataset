@@ -1,0 +1,65 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+Information/Network Security Engineer
+
+Josh Burke
+
+(address/phone available on request via ¢-mail)
+E-mail: resume-200802 12 @ 1200802 12.tempmuil.iokui.com
+
+SUMMARY
+-------
+
+OBJECTIVE
+---------
+
+WORK EXPERIENCE
+---------------
+
+Broad knowledge of hardware, software, and networking technologies to provide a powerful combination of
+analysis, implementation, and support. Experience in system and network administration and engineering,
+hardware evaluation, project management. systems and network security, incident analysis and recovery.
+
+Provide network, systems, and security experience, knowledge, and solutions in a system and netw ork-
+diverse environment. Protect confidentiality, integrity, and availability of information and information systems.
+Advise and engineer secure solutions for business opportunities. Learn and experience, mentor and share.
+
+10/2005 - 09/2006 Getty Images Seattle, WA Information Security Analyst III
+
+Provide technical leadership to the enterprise for the information security program. Mentor and train others in
+information security in addition to training for other technical groups, Install and maintain security
+infrastructure, induding IPS, IDS, log management. and security assessment systems. Assess threats, risks,
+and vulnerabilities from emerging security issues. Publish Security Updates newsletter for technical groups.
+Draft enterprise security standards and guidelines for system configuration. Managed process and acted in
+the lead role for computer security incident response team. Perform and create procedures for system security
+audits, penetration-tests, and vulnerability assessments. Develop scripts to maintain and backup key security
+systems.
+
+12/2004 - 10/2005 Starbucks Coffee Company Seattle, WA Information Security Analyst - Technical
+
+Recommended preventive, mitigating, and compensating controls to ensure the appropriate level of protection
+and adherence to the goals of the overall information security strategy. Assisted in the development of
+access-controls, separation of duties and roles. Conducted technical risk evaluation of hardware, software,
+and installed systems and networks. Assisted with testing of installed systems to ensure protection strategies
+are properly implemented and working as intended. Assisted in incident response and recommend corrective
+actions. Communicated with personne! about potential threats to the work environment. Particpated in
+parhigg recovery and analysis. Partidpated in development and maintenance of global information security
+policy.
+
+11/2002 - 12/2004 BEQU (formerly Boeing Tukwila, WA Employees Credit Union) IT Network & Security Analyst
+
+Maintained security of voice and data networks and equipment. Monitored and maintained physical and
+logical security and access to systems. Responsible for support of exdsting security policies and procedures,
+as well as creation and implementation of new security procedures, Risk assessment of partners. Presented
+options to management for the enhancement of ONS, firewall, modernization of firewalls, and inbound e-mail
+security and robustness. Assisted with the upkeep of network infrastructure induding switches and load
+balancers. Assisted in migration of VPN concentrators to new project. Achievements indude completing
+TruSecure enterprise certification, and development of incident handling procedures.
+
+1/2001 - 8/2002 Internap Network Services Seattle, WA Security Systems Engineer, Core Systems Development
+
+Used previous experience in company to focus on securing information and systems. Trained and mentored
+employees in many job descriptions regarding security and system basics, best practices, etc. Documented
+exiting and in-development policies, procedures, and systems. Deployed distributed intrusion detection
+sensor network, Security lead on new product design team, Business continuity consulting. Developed into
+lead security person at company.

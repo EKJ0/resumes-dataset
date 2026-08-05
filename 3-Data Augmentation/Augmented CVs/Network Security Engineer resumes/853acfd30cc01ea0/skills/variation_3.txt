@@ -1,0 +1,61 @@
+ROBERT SMITH Network Security Engineer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Over 7+ Years of extensive hands on experience in Network and Security engineering and
+Network Infrastructure. Strong understanding and experience of Firewail on various platforms.
+Managing and implementing remote firewall for State agencies using NSM, SPACE, Smart
+Dashboard and CSM, Configuration of new juniper SRX firewall for remote site implementation,
+Worked closely with the customer to suggest the need of firewall rules, help them design the
+request.
+
+CORE COMPETENCIES CISSP, SCCM, ACAS, HBSS, Project Management.
+
+WORK EXPERIENCE
+---------------
+
+Network Security
+ABC Corporation - October 2010 ~ November 2011
+
+Hey Deliverables:
+Traveled 1c remote sites forthe Navy Marine Comps Intranet installing and configuring security systems per specified DoD regulations,
+
+- Built and installed Netscreen VPN devices using Personal Key Infrastructure,
+
+- Worked with Solaris Sun boxes and Deli servers setting up Intrusion Detection Software such as Manhunt,
+
+- Verified functionality and compliance through simulated network attacks.
+
+- Installed, configured, and tested devices to connect to the NMCI netwark to include
+Foundry Load Balancers, Raptor Firewall, Juniper NetScreen- 5X7/204/500/5200 VPNs,
+Symantec Manhunt IDS, Cisco IDS, and Windows 2000/2003 Server base buikis:
+
+- Perlormed vuinerability assessment on all network devices using tools such as ISS Intemet Scanner, Ratina, Nessus, and Microsott Baseline Security Analyzer,
+
+- Closely reviewed DISA STIGS to make sure servers were properly hardened, and developed code to test all requirements,
+
+Network Security Engineer
+ABC Corporation - 2009 - 2010
+
+Key Deliverables:
+
+3 month contract) Responsibilities User admin on the firewails RSAM, adding and deleting users as they come and go.
+
+- Manage RSAM tor submit firewall exception, removal. and approval,
+
+- RPSAM allows for automation and continuous risk monitoring ol critical information assets and systems.
+
+- Provided proactive threat defense with ASA that stops attacks before they spread through the network.
+
+- <$_$_$$$____
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

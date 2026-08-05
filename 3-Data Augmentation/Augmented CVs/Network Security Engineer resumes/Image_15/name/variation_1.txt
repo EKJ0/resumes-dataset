@@ -1,0 +1,57 @@
+Emily Walsh
+
+Senior Network Security Engineer Pion 2) a6 ee 9
+
+Email: Info@qwikresurne.com
+
+R O B E RT S M iti H Website: cammemmery
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+8+ years of experience in core technology. Ability to direct cornplex projects fromm concept to fully
+operational status. Planning, designing and deployment of Cloud data centers. Planning, designing
+of Corporate Networks and Firewalls architecture and implementing in distributed environment.
+Established and implernented 1SO standards for small to large business networks.
+
+SKILLS
+------
+
+CCSA knowledge of Checkpoint, CCNA knowledge of Cisco, Microsoft TMG security gateways, Network troubleshooting.
+
+WORK EXPERIENCE
+---------------
+
+Senior Network Security Engineer
+ABC Corporation - May 2008- Septernber 2013
+
+- Planning, designing of Corporate Firewalls architecture and implernenting in distributed environment.
+
+- Designing and implementing resilient, reliable and highly available Network topologies.
+
+- Maintaining Corporate Firewalls &arnp; Analysis of firewall logs using various tools Firernon and Tufin security analyzers.
+
+- Planning &amp; implementation of information security guidelines as per the security standards.
+
+- Designing and implementing different connectivity solutions to various customers with S2S VPN and Remote site VPN across the globe.
+
+- Designing and testing Business Continuity Plan (BCP) and Disaster Recovery,
+
+- Managing Global Network Security Operations.
+
+Senior Network Security Engineer
+Delta Corporation - 2005 - 2008
+- Configuration of CheckPoint firewalls Configuration of Cisco firewalls (ASA), switches, wireless devices Configuration of Juniper routers ;
+- Migrated PIX firewalls to Checkpoint Firewalls,
+- Migrated rule sets, NAT tables, and created various objects.
+- Installed and configured various Cisco switches,
+- Upgraded Cisco 10S for various Cisco Routers,
+- Designed and implernented Nexus 7K/5K/2K and Catalyst 6500/4.900/3750-X in a cornplex DC Core/Aggregation/Access layer on a 10G backbone In Production . » Conducted Cisco ASA, Checkpoint, and Palo Alto Firewalls Adrninistratian Installed and configured highly available HP Virtual Connect FLEX-10 .
+
+EDUCATION
+--------- B.5, In Information Technology - (Macon State College - Macon, GA)
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines

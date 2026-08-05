@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Network Security Engineer resumes
+Folder: Network Security Engineer resumes  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: fb1ece6936a9ca0a.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, oversaw
+Resume Length: 419 words, 33 lines (~0.8 pages)
+
+CANDIDATE 2  (source file: 7b793d7af5edc550.txt)
+----------------------------------------------------------------------
+Name: Senior Network Fagineer
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 222 words, 30 lines (~0.4 pages)
+
+CANDIDATE 3  (source file: 859cfce541835e36.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Details | yulonda.poley@gmail.com | (186) 446-3014
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. leading, managed
+Resume Length: 343 words, 31 lines (~0.7 pages)
+
+CANDIDATE 4  (source file: Image_20.txt)
+----------------------------------------------------------------------
+Name: John Doe
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, leading
+Resume Length: 303 words, 41 lines (~0.6 pages)
+
+CANDIDATE 5  (source file: Image_90.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 296 words, 26 lines (~0.6 pages)
+
+CANDIDATE 6  (source file: Image_45.txt)
+----------------------------------------------------------------------
+Name: John Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, directed
+Resume Length: 388 words, 42 lines (~0.8 pages)
+
+CANDIDATE 7  (source file: f47f5b4a1c5a6028.txt)
+----------------------------------------------------------------------
+Name: Nolan Larkin
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, spearheaded
+Resume Length: 375 words, 36 lines (~0.8 pages)
+
+CANDIDATE 8  (source file: Image_87.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 556 words, 55 lines (~1.1 pages)
+
+CANDIDATE 9  (source file: 0800409c585d4da3.txt)
+----------------------------------------------------------------------
+Name: Manoj Kumar Mobile
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. managed, leading
+Resume Length: 323 words, 24 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: 57d238091afa28e1.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science in Computer Engineering Canyon, TX | West Texas A&M University May 2017
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. oversaw
+Resume Length: 327 words, 34 lines (~0.7 pages)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

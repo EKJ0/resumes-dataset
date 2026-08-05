@@ -1,0 +1,56 @@
+ROBERT SMITH Jr. Network Security Engineer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Driven and results-orientated Intormation Technology Security Engineer Analyst with over 10
+years experience in managing medium to large scale projects in area of Network/Systems
+Administrator’ Security specializing in Cisco devices, Network security, Firewalls and VPNs, Cisco
+Routers, LAN/WAN connectivity, TCP/IP, communications. Experienced in Network Security, Juniper Firewalls, SSL VPN, Checkpoint, RSA, Cisco Nexus, Cisco ACE, Cisco Wireless,
+
+CORE COMPETENCIES
+
+Very quick at adapting to new surroundings and teams,.
+
+WORK EXPERIENCE
+---------------
+
+Jr. Network Security Engineer
+College Board - November 2015 - 2019
+
+wa Deliverables:
+Identified vulnerabilities, recommended corrective measures and ensured the adequacy of existing information security controis,
+
+- Assesses and manages the risks of security threats !o information systems Ensures that information systems possess security levels equal to the level of exposure to potential fisks.
+
+= Security assessment al online applications to identity the vulnerabilities in different categories like Input and data Validation, Authentication, Authorization, Auditing &amp,
+logging,
+
+- Vulnerability Assessment of various web applications used in the organization using Paros Proxy, Burp Suite, and Web Scarab, YASCA, HP Web Inspect, SOAP Ul,
+
+» Coordinate with dev team to ensure closure ol reported vulnerabilities by explaining the
+ease ol exploitation and the impact of the issue.
+
+- Scheduling and completion the Risk Assessment calls for the different work streams of the Client based on the Releases/Iterations planned.
+
+- Troubleshooting connectivity issues within the server zones of the Data center (between application servers, database and web servers) as well as user requests and user connectivity issues from various branch locations, office locations and third party sites to data center,
+
+Network Security Engineer
+ABC Corporation - 2011 - 2015
+
+Key! Deliverables:
+Responsibilities Involved in Migration of Nortel Contivity 1800 VPN routers to Juniper SAX
+firewalls;
+- Involving in VPN (IPSEC, Site to Site) migrations and new designs tor State govemment agencies such as State Police, Doc, HQ and etc..
+
+- _ - _ - _ - - - - - - _.. - _ - nXn nn
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

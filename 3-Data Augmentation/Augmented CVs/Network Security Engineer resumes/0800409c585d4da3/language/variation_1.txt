@@ -1,0 +1,41 @@
+Manoj Kumar Mobile ; +91-8892689290
+EMAIL ID: manojgahlot3389@qmail.com
+
+Network Security Engineer and Consultant
+Seeking a challenging position in a reputed organization which provides opportunities for professional growth and
+advancement, where | can utilize my experience and acquired skills toward becoming a valuable team member.
+
+Professional Overview 3.5+ years
+
+- 3 years of experience in network security for India’s leading private sector organizations.
+- Experience in planning, design, implementation and configuration of network security setup.
+- Maintenance, debugging and troubleshooting of network security architecture.
+
+Experience Summary
+- Wipro InfoTech (Mysore), as a Security Management Engineer Feb 2014 - Present
+- Compton Computers Pvt Ltd (Delhi), as a Network Engineer April 2013 -Feb 2014
+- Baud Technologies (Gurgaon), as a Network Support Engineer Jan 2011-April 2013
+
+PROJECTS
+--------
+
+- First Gulf Bank (in Wipro InfoTech)
+
+(Designation: Security Consultant)
+
+- Managing all International branches in the terms of data security by using Firewalls, VPNs, IPS, Mail gateway, F5-LTM & ASM, RSA and Websense.
+
+- Creating plan of actions for security policies and then implementing on different security products to harden the network from security threats. Removing the vulnerabilities found in security audits. Upgrading IPS and F5 WAF signatures as new updates are released. Troubleshooting various issues related to security products. Maintaining High availability through Clusters and Disaster recovery (BCP/DRP)set-up. Optimizing firewall rules. Taking, scheduling and restoring backup of security products.
+
+> Innodata Isogen (in Compton Computers) (Designation: Network Security Engineer)
+- Successfully deployed and managed Checkpoint 12200 Series UTM Firewalls in Load Sharing and High Availability mode. Managed Cisco ASA, Checkpoint and Juniper firewalls. Managed Site-to-Site VPNs and GRE over IPSec using OSPF for different branches. Used Websense and Cisco lronport for URL filtering, creating custom filters, policies, exceptions, whitelisting and block listing of URLS Configured stacking of switches. Performed hardening of routers, switches and firewalls.
+
+> Baud Technologies
+
+Upgraded Cisco ASA firewalls for various clients.
+Configured and provided support for Routers, Switches, Firewalls & VPNs.
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.
