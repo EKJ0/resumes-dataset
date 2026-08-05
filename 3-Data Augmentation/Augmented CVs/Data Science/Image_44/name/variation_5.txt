@@ -1,0 +1,51 @@
+Maria Garcia
+
+Data Scientist Trainee
+
+PERSONAL STATEMENT
+
+To obtain a position as a Data Architect in a collaborative environment utilizing my creativity and technical skills. The position must demand a high
+degree of self-motivation and the ability to drive data-centric solutions for cornplex business problerns, | most enjoy solving problerns that require my
+data modeling, analytics, and solution architecture expertise,
+
+WORK EXPERIENCE
+---------------
+
+Data Scientist Trainee
+ABC Corporation- March 2014 - April 2016 Responsibilities:
+
+= Business Opportunity Network Kinetix provides Business Assurance and Revenue solutions to mobile carriers, enabling non-intrusive access to
+live network traffic for Immediate analysis, decisions, and action on revenue-impacting events.
+
+- = Examples include Fraud Detection (International Revenue Sharing
+Fraud, Identity Fraud, SIM Box By-Pass Fraud), 911 Outage, Network Operations, and Custorner Experience.
+
+= My Contributions Model complex mobile carrier problerns through using statistical, algorithrnic, mining, and visualization techniques.
+
+= Produce operable insights using supervised and unsupervised machine learning,
+
+= Integrate live data frorn multiple network protocols,
+
+= Create live data analytics applications that make data-driven decisions on each event as it enters the data pipeline based on rules discovered
+through machine learning,
+
+= Deployed on the HP Helion Public Cloud demonstrating a scalable cloud version of network data analytics application,
+
+Data Scientist
+ABC Corporation- 2012 - 2014 Re sponsibilties:
+- Worked on, multiple projects to leverage statistical learning/machine learning algorithms to automate Alternate Asset Servicing. = The automation helped NT to reduce errors and improve operational efficiency. = Further, developed BI reports that provided predictive analytics & Reporting with dashboards on analyst performance, client activity, future workload & anomalies based on data collected from discrete applications. = Defined Project Scope, project Charter & Business Case Prototype machine learning algorithm for POC (Proof Of Concept) Performed Data Cleaning, features scaling, features engineering, Developed predictive models for use in machine learning platform using the scikitlearn python framework Improved statistical models using learning curves, parameter curves, feature selection, and regularization, = Performed ad-hoc data analysis for customer insights using hive on
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marshwille Road, Alabarna
+
+(123)-456-7899
+info@qwikresume.com
+
+Data Architecture, Data Modeling, Big Data, SQL.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)

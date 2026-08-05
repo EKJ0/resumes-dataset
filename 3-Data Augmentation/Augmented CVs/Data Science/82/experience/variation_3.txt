@@ -1,0 +1,188 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+PROFESSIONAL SUMMARY & AREA OF INTEREST
+
+EDUCATION
+---------
+
+SKILL HIGHLIGHTS
+
+WORK EXPERIENCE
+---------------
+
+ACCOMPLISHMENTS AND PUBLICATIONS
+
+ADDITIONAL INFORMATION
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+A teaching assistant with 7 years of experience as a software developer. Expertise in data analysis, data
+mining, machine learning models, and data visualization. Creative thinking, with hands-on experience on
+Python, ML/DL, PyTorch, Keras, Numpy, Pandas, Matplotlib, ML models like CNN, KNN, RF, and data
+structures. | come with prior experience in leading a product delivery in Product & Service based industry with
+Agile. Additionally, | have completed my Master's and bachelor's in computer science, and currently pursuing
+master's in data science at Michigan Technological University.
+
+Area of interest:
+
+Machine learning models, robotics, distributed algorithms, neural networks, computer graphics, graph theory,
+computer graphics, computer vision, Al, python, scala, tableau, mathematics, time series problems.
+
+Master of Science | Data Science 05/2024 Michigan Technological University, Houghton, MI
+
+GPA: 3.5
+
+Coursework: Introduction to Data Science, Regression Analysis, Artificial Intelligence, Big Data, and
+Advanced Data Mining
+
+Miter of Science | Computer And Information Sciences 05/2016 Pune University, India
+
+GPA: 8.01
+
+Coursework: Design and Analysis of Algorithms, Database Management Systems, Computer Networks,
+Systems Programming, Degree Project, Science of Programming, Software Engineering, Advanced Computer
+Architecture, Introduction to Programming, Logical Organization of Computers, Mathematical Foundations,
+Concrete Math and Graph Theory. Numerical Methods, Data Structures and Algorithms, Computer
+Architecture, and Operating Systems.
+
+Ba helor of Science | Computer Science 05/2013 Pune University, India
+
+GPA: 3.51
+
+Coursework: engineering mathematics, applied science, fundamentals of programming, basic electrical
+engineering, basic electronics engineering, basic civil and mechanical engineering, computer graphics,
+discrete structures, data structures, programming and problem solving, microprocessors and
+interfacing,digital signal processing. theory of computation, RDBMS, computer networks, design and analysis
+of algorithms, object oriented programming, advanced databases, and distributed operating systems.
+
+- Complex problem solver ¢ Machine learning Model building and
+
+- Project management performance evaluation
+
+- Expert in python ¢ Model deployments
+
+- Expert in C, C++, and java « Embedded system: Python, C/C++Operating
+- Data analysis, preprocessing, and visualization Systems: Linux Ubuntu, Windows
+
+- Software: Google Analytics, Tableau, Scala, Jupyter, PowerBl, SPSS
+- Backend: SQL, MySQL, RDBMS
+
+TEACHING ASSISTANT, COMPUTER SCIENCE 01/2023 to CURRENT Kansas State University Foundation | Manhattan, KS
+
+Formal Models of Computation
+- Responsible for grading the assignments for graduate students.
+- Explaining the concepts to the students
+
+TECCHING ASSISTANT 08/2022 to 12/2022 Mantech International Corporation | Warrenton, VA
+
+- Prepared and presented lectures for CS1111 regarding C/C++ programming.
+- Led discussion sessions for the introduction for computer science course and graded the homework assignments.
+
+SEQIOR CONFIGURATION DEVELOPER 11/2019 to 08/2022 Vibrent Digital Health Solutions | City, STATE
+
+- Developed and optimized test cases to maximize the success of manual software testing with consistent,thorough approaches.
+
+- Debugged code and located the root causes of problems by reviewing configuration files and logs.
+
+- Collaborated with developers and project managers to assess program capabilities, features, and testing demands.
+
+- Completed tests under tight deadlines to meet client demands and project timelines.
+
+- Collaborated with developers and product owners to stay current on product features and intended functionality.
+
+- Drove corrective and preventive actions at leadership level to accomplish the project.
+
+- Closure and recurrence control, providing necessary resources, and clearing roadblocks.
+
+PROJECT LEAD 10/2015 to 10/2019 Winjit Technologies | City, STATE
+
+- Responsible for planning, execution, and control of assigned projects, ensuring work performed complied with contractual requirements.
+
+- Developed and followed a baseline project plan and milestones for task completion.
+
+- Led team of engineers in providing design and engineering solutions to various clients and market sectors.
+
+- Promoted project completion for new and remodeled locations.
+
+- Met with the manager weekly to provide a detailed project report and milestone updates.
+
+- Defined responsibilities and roles of team members. Analyzed financial reporting systems and project schedules to proactively address potential problems.
+
+- Monitored progress and examined the risks of various projects, including setting forth a contingency plan.
+
+- Leading and teaching a class of undergraduate students for several projects in C/C++.
+
+- Designed machine leaning models.
+
+- Designed a new algorithm for the recovery of large number of agents.
+
+- Collaborated in a project to identify and interpret American american sign language.
+
+PUBLICATIONS
+------------
+
+- OPINION BASED WORD EXTRACTION OF SUPERVISED & UNSUPERVISED MODELS FOR ALIGNMENT
+Jessica Claire, Dr M. U. Kharat http:/Awww.ijarcs.info/index. php/ljarcs/article/view/2601
+
+- Opinion Based Word Extraction of Supervised & Unsupervised Models for Alignment Paper ID:
+NWSRDV415084, Published in: Volume : 4, Issue : 5 Publication Date: 01/08/2016, Page(s): 1641-1644
+
+- Kharat, M. U.; Claire, Jessica, Opinion Based Word Extraction of Supervised & Unsupervised Models,
+International Journal of Advanced Research in Computer Science . Nov/Dec2015, Vol. 6 Issue 8,
+p70-72. 3p.
+
+Research Projects
+
+American Sign Language Classification:
+
+The project aimed to use SVM, CNN among other machine learning models to create an image classification
+
+system for ASL. The ASL dataset was first gathered, and the photos were then preprocessed using scaling,
+
+normalization, and data sampling. Models were then trained and tested using the preprocessed images as
+
+input, mainly PCA as a preprocessing technique. For model performance, we looked at the accuracy of
+
+each model against the execution time taken by each of them. According to the findings, the CNN model
+
+with two layers had an accuracy of 73.76%, while the SVM model with PCA had a maximum accuracy of
+
+86.42%. In comparison to the other models, the SVM model with PCA also had the quickest execution time.
+
+The computational complexity of training and testing deep learning models on huge datasets was one of the
+
+main difficulties encountered, and hence we performed sampling.
+
+Chest cancer classification
+
+The project aimed at classifying chest X-ray images to detect the type of chest cancer. The images were
+preprocessed through augmentation and regularization. Models implied were CNN and ResNet50V2.
+Transfer learning was performed to increase the accuracy of model predictions.
+
+Food Image Classification
+
+Food recognition has become an important task in computer vision due to the increasing interest in developing intelligent
+systems for meal planning, calorie tracking, and dietary analysis ysis. Accurately identifying food items in images is crucial.
+
+for these applications. To address this, we proposed a ma- chine learning model that can precisely classify food items
+from the images. The dataset contains static images of food
+items with 11 classes, and each class has around 100 images.
+for the same food item. The models we aimed at was the clas- sic CNN model for image processing and also transfer learn-
+ing by the EfficientNet model. To improve the model's per- formance, we applied preprocessing techniques such as sam-
+pling, resizing, and Principal Component Analysis (PCA) for feature extraction. The EfficientNet model with preprocessed
+data performed best in terms of accuracy and computation cost. This efficient, model has the potential to aid proper nu-
+trition diet to users.
+
+Awards and Honors:
+
+- Supervised team of 8 staff members.
+
+- Collaborated with team in the development of TeleHealth Product. Resolved product issues through consumer testing.
+
+- Received “Fulcrum Award: Support” in WOW (Winjit One World) 2016.
+
+- Received “Best Team Award” in WOW (Winjit One World) 2018.
+
+- During COVID amidst, delivered COVID surveys to end users to analyze and learn about their symptoms.

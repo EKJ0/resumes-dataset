@@ -1,0 +1,49 @@
+JustH@email.com
+
+Justine Hendrickson ___ 223-78
+
+Houston, TX Metadata Scientist Linkedin Data Science graduate with a passion for data integrity, visualization, and Futter
+statistics. I'm excited to apply my passion for data science to the collaborative efforts of a Chevron team focused on insightful, high-quality data analytics and
+visualizations.
+
+WORK EXPERIENCE SKILLS
+
+Labcorp Python
+
+Entry-Level Metadata Scientist n
+
+Houston, TX | July 2021 - current SQ Identified appropriate quantitative methods and built relevant data sets Tableau
+to address challenges across 6 different domains Hadoop Implemented 32 statistical and machine learning solutions end-to-end Numpy
+through the life cycle of deploying and maintaining metadata at scale Developed measurement solutions and experimentation frameworks to EDUCATION
+ensure 100% informed and effective data-driven decision making Helped shape the technical vision and strategies of 2 engineering B.S.
+partner teams through data-driven recommendations Computer Science
+
+Communicated project results and recommendations to 24 stakeholders University of Houston
+and cross-functional partners September 2017 - May 2021 Houston, TX
+
+PROJECTS
+--------
+
+Weather API Site CERTIFICATIONS
+
+Creator « AWS
+- Used HTMLS5 to design a dashboard visual interface of a previous * Certified Data Scientist
+
+WeatherAPI app with citipy, a simple Python library, and the OpenWeatherMap API to create a weather model across 50+ world
+cities Added features to the app by applying a Bootstrap template, designing the website layout, and adding a picture carousel of cities used in the
+OpenWeatherMap API project Drafted detailed documentation of code utilizing GitHub, complete with
+charts and notes about each sub-page
+
+Stock Analysis Creator
+
+- Used stock market KPIs to determine whether the tech sector of the stock market was in a bubble
+
+- Displayed a working knowledge of Data ETL, Visualization, API frameworks, and statistical methods in Python to develop visualizations and implement analyses
+
+- Cleaned historical data for over 600 companies (in NASDAQ and S&P
+500), accessing JSON endpoints for each company using (Python) Pandas
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

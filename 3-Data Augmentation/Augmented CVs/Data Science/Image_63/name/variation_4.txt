@@ -1,0 +1,57 @@
+Jamal Jackson
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Expertise in problem solving. Excellent in working with business users and colleagues as part of
+requirements, gathering and converting their needs into mathematical models and solutions. Deep
+understanding of Statistical Models, Algorithms and Multivariate Analysis.
+
+CORE COMPETENCIES
+
+Python, SQL, R, Java, C++, SPSS, Excel and all MS Office, Misc: LISREL, HLM; Db Visualizer,
+Googie Analytics, PUTTY, Perl, CMD; Surveymonkey.
+
+Data Scientist
+Bestbuy - January 2016 - 2019
+
+Key Deliverables:
+
+» Worked on commercial and customer activity data analysis, including data collection, table
+treatment, database information, problem analysis, solution proposal and implementation.
+
+- Proposed three solutions to deal with Promotion Effective Analysis with methods to caiculate sales baseline and litt,
+
+- Responsible for data collection, cleansing and variable analysis,
+
+- Designed technical solution roadmap 10 deal with noise in sales data,
+
+» Finished muttipse linear or nonlinear regression models for testing case and achieved very
+good predicting results in scenario tests.
+
+- Developed automation process for variable selection and modal testing and used the
+method on over 5,000 SKUs,
+
+- Worked on Noise Reduction/Moving Average methods’- exponential smoothing and Fast Fourier Transformation methods - and compared them with regression methods,
+
+Data Scientist
+ABC Corporation - December 2014 - December 2015
+
+Key Deliverables:
+
+» Responsbilitie Worked with different departments for data source, responsible for collecting Macro-economy datasets:
+
+» Worked on data transformation & accessed raw marketing data in varied formats with different methods foranalyzing and processing
+
+- Worked with BI team in data investigation, responsible for interpreting variables, making instructions and also data dictionary.
+
+- Responsible in data pattem recognition and data cleaning.
+
+» Identify missing, invalid values and outliers, analyze and categorize variables af datasets.
+
+- Checked data for distribution, classification, missing values, outliers, atc, worked with BI team tor Macro-Economy variable selection to get deeper understanding of datasets.
+
+SS
+2259 Oak Street, Old Forge, New York, 13420 ‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines

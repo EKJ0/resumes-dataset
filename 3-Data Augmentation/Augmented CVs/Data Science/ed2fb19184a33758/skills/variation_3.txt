@@ -1,0 +1,79 @@
+ATRIYA MAJUMDAR
+
+SENIOR DATA SCIENTIST
+
+‘SUMMARY
+
+Computure data scientst mit & years of experience devetoping a ante range uf movutve apphcanons the
+Creat Card Fraud Dewcion, Stock Sentiment Anaiyas Madel, and Customer support system.
+
+Abéity to use (data) atstce and machine marrieg for finding complex duta patarrs that drive meaningful
+impact on the Busnes.
+
+Dita scence professanal adept at developing anaiyoc maduls to process raw data tor wecttying product
+improvement opportunities
+
+Ganed an understanding of duployng mactene learning modding sigoritis for recognizing customer
+entrants as part of enhancing custome satataction
+
+‘Stock Recommender Systems
+
+JP Morgan Asset Management - Florida
+dun 2015 - Aug 2015
+
+Recommande: systema have Become Sve moit popusay feature of tie stock market. We have developed a
+arial intateget stock recommender bo! usng
+
+the Deep Nowal Netwons and clasafcation algortties Tools: Python. skiaaen
+
+Algorithens Ovep Neura Networks, Cacaficasion igor thems
+
+Customer Support System
+
+Data Schentistsee 2015 - tay 2016
+
+Customer support has become a challengng ob for avery business We bust @ “asstomer support
+to adsress and suppor he meds of the custorrars Toots: Open, Pythian
+
+Algorithms: Comouson Neural Network ane oer focal detection sagonitrens
+
+Data Scientist
+
+PWC -Mew York Oct 2078 - Present
+
+- To predict house prices using time series analysis and neural ratorcrcs
+
+(9 Wertity factors Rat predict which ampioywes wit have fhe best performance art wrech will beraft
+tram a change in their job positon using machine seaming
+
+- Designed the wformation actitecture und modal of an crganzaton’s assets
+- Coordinated wit the statatokters an promct
+
+progress.
+(© Involved i the continuous enhancements ant faring the Dest soko.
+
+Data Scientist Consumant
+
+Wells Fargo Asset Management - Florida
+
+May 2016 - Sep 2018
+
+'* Predicting the Stock price using sentiment anaryass trordel
+
+(© Finding the stock market daly patterns and creating a meaningful solution De business.
+
+(© Werating the Mubt bagger stocks using mactine tourney and Al
+
+EDUCATION
+---------
+
+‘Master of Computer Application Cornett University - Ithaca, New York
+Sep 2017 - Sep 2018
+
+Bachelor of Computer Science California Institute of Technology - Catiternia
+Sep 2016 - Sep 2017
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

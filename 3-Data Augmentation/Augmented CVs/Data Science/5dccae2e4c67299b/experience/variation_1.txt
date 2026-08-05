@@ -1,0 +1,58 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+ROBERT SMITH Volunteer Data Scientist
+
+Phone: (0123)-456-789
+
+SUMMAR
+
+Have hands on experience in writing MapReduce jobs using Java, Managing Single node and Multi node
+Cluster Configuratians. Writing Pig Lain scripts and pig commands, Configuring Zoo Keeper, Cassandra &
+Flume to the existing hadoop cluster, Experience in building predictive models using machine leaming
+techni ques. Performed importing and exporting data into HDPS and Hive using Sqoop, Hive queries.
+
+SKILLS
+------
+
+Python, Matlab, Git, Data Analysis, Data Mining, Machine Leaming, C++, Latex, Java, Scala, HTML,
+Hadoop, SQL.
+
+WORK FATHIO ENCE
+
+Volunteer Data Scientist
+ABC Corponition - January 2015 - May 2015
+
+- Analyzed MTA subway data and New York City census data to determine traffic flows and demogniphic patterns of New York City.
+
+® Used Beautiful Soup to scrape publicly available movie dan to better understand the relationship
+
+between box office performance and distribution company.
+
+Using sci-kit leam, ran linear regression and built a model of box office performance.
+
+Based on model, identified two distribution companies whose revenue outperformed peers.
+
+Used mutplotlib and zeveal.js to communicate results of research.
+
+Project McNulty Setup SQL database on cloud server, storing clients data for query analysis,
+
+Used Pythons scikit-learn library to understand details of client telemarketing campaign.
+
+Data Scientist
+ABC Corponition - 2010-2015
+
+- Created multiple projects including |,
+
+- PLANT LEAF SPECIES CLASSIFICATION Built artificial neural networks to carectly classify plant leaf species using binary images and a probabilistic framework of margin, shape, and texture features,
+
+- ‘Technologies used Python, Numpy, Pandas, Scikit-Learn, Scipy, Keras 2.
+
+- CUSTOMER POTENTIAL PREDICTION Created a clussification model that identities customers with the highest potential business value based on their characteristics and activities,
+
+® Technologies used Pythan, Numpy, Pandas, Scikit-Learn, XGboost 3.
+
+- MOBILE USER DEMOGRAPHICS CLASSIFICATION Built a model to predict users demogmiphie characteristics based on their upp usage, geolocation, and mobile device properties:
+
+- ‘Technologies used Python, Numpy, Pandas, Scikit-Learn, Scipy, Keras.
+
+- This Ens Resume Tomphats 2 the copyright of Qwikrewimecom, Usage Gaildedi nes

@@ -1,0 +1,37 @@
+Maria Garcia
+
+123 Street | Delhi, 110085 | +91 9900990999 | rufigrnailcom | tps: (Newer: linkedin. cominrohan-kumer | htips..jgithub com/RohanKumer
+
+Objective / Profile Summary
+
+Seating a chaliengrg opportunty im the Geld of Data Scence Have good ancwtedge of executing date-
+@rven projects using predictive models Prufcent ny numerous stafishcal machine ‘eaming and deep
+leaning aigoritims usch as Linger Regression, Decision Trees, $VM, FUWN Using loom such as R,
+Python, BAS etc
+
+EDUCATION
+---------
+
+- =A Statiatics, University of Delhi, 2019, 1* Division
+- BA Ststieics, University of Dethi, 2017, 1* Division
+- High Schoci, DPS, Commerce, 2014, 85%
+
+WORK EXPERIENCE
+---------------
+Ay 2019 ~ December 2019 intern | Department of Data Analyse | Hewlett-Packard | Delhy
+
+@ (Used predictive analysis such as machine learning and data mining techniques to forecast
+compary sales of new products with 95% accuracy.
+
+@ Develop ETS for data sources used for reporting by sales, inventory, and marketing departments.
+
+CERTIFICATIONS
+--------------
+
+- Duta Science using SAS and R trom Analytix Labs (Jan 2019 - April 2019)
+
+Anabytical Techniques - Segmentation (RFM, Kmeans clustering}, Regression anabyst Gasification, Decision Trees and Time Series Forecasting.
+
+- Advance Big Data Schence trom AnalytixLabs (November 2018 April 2018)
+- Learnt Guta analysis with python, Acvance Statistics, Machine learning algorittyrs, Spark ‘SOL & Datatrame and MLib
+- Performed Fraud Ad Click Oetection where develaped a schution to differentiate a fraud ich fram the genuine dicks and providect a method to remove those fraudulent clicks

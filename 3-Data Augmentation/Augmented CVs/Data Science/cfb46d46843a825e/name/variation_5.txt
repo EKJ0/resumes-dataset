@@ -1,0 +1,60 @@
+Data Scientist Assistant Phas: 02) SG fee
+
+Email: info@qwikresume.com
+
+Maria Garcia
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Data scientist with a strong math background and experience in big dala, machine learning, and
+statistics, Passionate about explaining data science to non-technical business audicnecs.
+
+Machine Learning, Data Mining, Bayesian Inference and.
+
+WORK EXPERIENCE
+---------------
+
+Data Scientist Assistant
+ABC Corporation ~- June 2009 - February 2012
+
+Work closely with various teams across the company to identify and solve business challenges
+utilizing large structured, semi-structured, and unstructured data in a distributed processing
+environment.
+
+Analyze large datasets to provide strategic direction to the company.
+
+Perform quantitative analysis of product sales trends to recommend pricing decisions.
+Conduct cost and benefit analysis on new ideas.
+
+Serutinize and track customer behavior to identify trends and unmet needs.
+
+Develop statistical models to forecast inventory and procurement cycles.
+
+Assist in developing intemal tools for data analysis.
+
+Data Scientist
+ABC Corporation - 2006 - 2009
+
+Objective Logistics is a Google and Atlas venture-funded startup company.
+
+It provides a web-based labor management platform (namely MUSE} that helps lift sales and improve guest experience.
+
+tnvolved in the entire development cycle, including concept prototype, architecture design, code
+implementation, unit/integration testing and bug fixing.
+
+Analyzed large data sets, including 10 million cheeks from over 30 restaurants and 10,000 employees and studied MUSEs effects on store sales and individual employees.
+
+Delivered the mulii-category ranking sysiem to evaluate staff performance (patent [1)}.
+
+Built the configurable reporting system of key performance indicators (KPI).
+Technologics/Tools C#, ASP.Net, HTML, CSS, JavaScript, {Query, MVC, Entity Framework, SQL Server, Windows Azure, Visual Studio. TFS, GitHub, MatLab, R, Excel..
+
+EDUCATION
+---------
+
+MSe in Engineering - (University of Twente)
+
+- This Free Resume Template ts the copyright of Quwikres umecom. Usage Guidelines

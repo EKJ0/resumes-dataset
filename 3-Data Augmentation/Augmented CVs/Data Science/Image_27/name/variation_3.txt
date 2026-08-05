@@ -1,0 +1,55 @@
+Lakisha Washington
+
+Data Scientist, year Microsoft Certified
+
+Personal Info
+2013 -
+
+523-299-0012 E-mail
+
+anne.c.lounsberry@gmail.com
+
+Microsoft Certified Data Scientist with 10+ years of experience in Python, R, Java, and Scala. Applied data mining to analyze ABC Inc. procurement processes demonstrating
+potential savings of $420,000 a year. Seeking to leverage my data visualization and
+
+big data modeling skills to help increase XYZ’s investment returns in the upcoming
+
+WORK EXPERIENCE
+---------------
+
+Senior Data Scientist ACB Inc., Los Angeles, CA
+- Developed end-to-end machine learning prototypes and scaled them
+
+to run in production environments. Increased efficiency by 23%.
+
+Contributed meaningful improvements to existing machine learning
+
+GitHub models through carefully directed research.
+github.com/annecarollounsberry ¢ Derived actionable insights from massive data sets with minimal
+LinkedIn suppor, |
+IACOCICaIninannelotnecerds e Provided input into the collection of new data sources and the
+refinement of existing ones to improve analysis and model
+
+Skills development.
+
+Key achievement: Applied data mining to analyze procurement
+Machine Learning processes resulting in savings of $420,000 a year.
+Data Visualization 2008 - Machine Learning Specialist
+
+2013 AnyCompany, San Diego, CA
+
+- Collaborated with all team members to optimize Customer
+- Bie Relationship Management database for a high-volume real estate a firm. Data Mining e Increased repeat business among real estate investors by 25%. ES e Decreased wasted phone and email time by 57%. Python e Build a machine-learning-based system of matching clients with
+- - - tailored investment opportunities. Increased customer retention by
+
+30%.
+
+R
+eT 2005 - Junior Data Analyst
+fee 2008 Capgemini, San Diego, CA
+
+- Consulted and worked with development teams to determine, execute SS and deliver relevant solutions. scala ¢ Analyzed old information architectures and contributed to the design a and development of the new one. PERL e Provided information, feedback and guidance to clients to support _ - - - - - | technology-related decision making. Problem-Solving Education a
+Active Learning 2005 MSc in Statistics, UCLA, Los Angeles, CA
+RISK Analysis 2014 Google Certified Professional Data Engineer
+
+2008 Microsoft Professional Program Certificate in Data Science

@@ -1,0 +1,196 @@
+Greg Baker
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Results-driven Ph.D. Economist and Solar Technologist, bringing 10+ years of experience developing, implementing, scaling and
+managing solar inclusive projects and programs to empower frontline communities. Expert in energy efficiency programs for low-
+and moderate-income communities, including equitable climate goals and decarbonization policies. Experience developing long term
+strategies and directing strategic programs related to building energy efficiency, renewable clean energy and inclusive solar
+deployment. Successfully led development and implementation of industry-defining SaaS platform, the LIFT Toolkit that empowers
+developers of community solar energy programs to deliver their own custom, personalized energy experiences, accelerating
+transformation of solar energy systems using different financing methodologies by managing, planning and directing work across
+multiple organizations and directly with the US Department of Energy (DOE). Led development of Groundswell’s SharePower
+platform, created scalable approaches for sharing data and analytics, designing user experience and customer success journey across
+technology offices, based on deep engineering analytics background, critical thinking and predictive modeling experience. Led
+development of DOE Community Power Accelerator (formerly Credit Ready Solar Initiative) Course materials, and promoted
+evidence based decision making for the DOE LIHEAP Customer Billing Subscription Platform through collaboration with DOEE
+and analytical structures to support data-driven decision outcomes. Strong industry knowledge and experience designing and
+executing energy efficiency technologies, building systems, and leading cross-functional team.
+
+Education and Training
+
+Leadership Development Training, 04/2023 Korn Ferry - Washington DC
+
+Ph.D.: Economics, 12/2015 University of Bath - Bath
+
+Master of Science: Business Economics and Finance, 11/2010
+
+London Metropolitan University - London
+
+Accomplishments: Energy Transition & Climate Goals
+
+- Successfully delivered LIFT Toolkit (October 2022) and authored DOE End of Project (EOP) LIFT Solar Everywhere Research
+Report in April 2023.
+
+- Respected-leader in the industry, created partnerships with multiple organizations.
+
+- Acted as Special Advisor and Subject Matter Expert for DOE Renewables Advancing Community Energy Resilience (RACER) Funding Program through Groundswell.
+
+- Originated framework and pioneered data analytics for Groundswell'’s SOUL program in LaGrange GA, that led households to
+save on average $500 annually on their utility bills.
+
+- Partnered with NREL/Sharing the Sun to maintain LIFT Toolkit, adding community-owned, and resilience (solar, storage and
+
+battery) projects.
+
+Interfaced with multiple industry led solar organizations (NEAUC, ACEEE, ASES, RE+) and presented research findings to
+
+ACEEE, NEUAC, ASES, SURA, NCSP and other renowned institutions.
+
+Authored numerous energy modeling data-driven publications on clean and renewable energy, and presented at conferences
+
+nationwide.
+
+Consulted with stakeholders and decision-makers on energy efficiency, decarbonization and democratization at Southface
+Institute and Chisholm Legacy Project.
+
+Developed technology models models, research designs, content writing, and user acceptability testing for software tools,
+including the LIFT Toolkit.
+
+- Served as strategic advisor to executive team, and led multiple data governance initiatives for Solar Institutes such as Stanford
+
+Impact Labs and Sustainable Advisors.
+- Influenced decision making of key actionable outcomes to propel development of solar services to marginalized communities using data to deliver insights - for the SharePower Platform & DOEE Income Verification Research through Groundswell.
+
+Built a multi-year strategy around data across different solar organizations to ensure appropriate collection, use and
+
+interpretation of data - including a framework for governance and R&D.
+
+- Developed policy and operating documents to improve energy efficiency policies and programs across the country.
+
+SKILLS
+------
+
+- Energy Modeling & Clean Energy Technologies
+- Inclusive Utility Investments & Clean Energy Transition * Organizational Development & Industry Transformation
+
+Project Management & Compliance Management
+
+- Grant Impact Evaluation & Financial Management
+
+- Climate Finance & Decarbonization
+
+- SaaS, PaaS & Software Development
+
+- Program Evaluation, Entrepreneurial & Creative Abilities
+
+Stakeholder Engagement & Problem-Solving
+
+Staff Development, Training & Mentorship
+
+Business Development & Project Performance Capacity Building & Technical Assistance Statistical Analysis & Data Analytical Design
+Data Visualization & Dashboarding
+
+Data Standardization and Aggregation Quantitative Analytics & Research Reporting
+
+Data Science, Method Development & Policy Analysis Qualitative Research & Survey Analysis
+
+- Strategy Consulting & Business Development Statistical Modeling, MLE & Data Analysis
+
+- Coaching, Supervision & Presentation ¢ Python, R, SQL, Microsoft Word & Microsoft Excel
+- Process Improvement, Quality Assurance & Control
+
+WORK EXPERIENCE
+---------------
+
+VP of Labs and Data Science, 08/2020 to Current Groundswell Inc - City, STATE
+- Delivering high value toolkit to expand development of community solar projects, and energy efficiency programs for
+
+- Equity, Climate Change & Social Justice
+- Racial Justice & Communities of Color
+
+- Thought Leadership & Executive Management
+
+- Administration and People Management
+- Strategic Leadership & Intellectual Soundness
+- Technical Writing, Communication & Organizational Skills
+
+residential low-income households across the country.
+
+Developing and implementing methods of expanding and educating frontline communities on energy efficiency in LaGrange,
+GA.
+
+Developing effective analytical approaches/climate solutions for deploying solar to LMI communities, including systems and
+
+procedures for equitable clean energy access across states.
+
+Interpreting, advising and making recommendations on effects of policies such as IRA and IIJA and regulatory frameworks for
+enabling low-income solar and community solar access.
+- Working closely with CEO/COO to define solar development opportunities for underserved communities, including market
+
+transformation, providing oversight and execution of state-wide solar implementation.
+
+Coaching, supervising staff and leading negotiations on sub-contract agreements and market opportunities.
+
+Developing and overseeing data analysis efforts to produce accurate, efficient, and timely data reporting models, including
+federal and state deliverables (DOE End of Progress Technical Report for the LIFT Toolkit), contract deliverables, ad hoc
+reports, and internal reports for all functional areas - such as DOEE Income Verification Solar for All Program Research.
+
+Evaluating program impacts, leading teams to resolve complex technology, data, and process based issues, gaps, and risks.
+
+Facilitating development, implementation, and user acceptability testing (UAT) for clean energy solar tools to adhere to
+standard operating protocols and outcomes.
+
+- Leading executive cross-functional steering committees (such as Research Advisory Council) related to analytics tools with various functional areas to meet climate change and decarbonization goals for energy democratization in GA and NC.
+
+Progressing solar energy transition by developing SaaS products, research agenda and driving data decisions for the
+organization.
+- Aligning research with customer needs and identifying emerging themes that will impact customer acquisition for the
+
+SharePower Subscriber Management and Customer Billing platform.
+
+Leading strategic data analytical projects and providing thought leadership and expertise on data governance issues for
+Stanford Impact Labs.
+Changing future for renewable energy by reformulating models and producing ground breaking research on energy burden,
+
+energy equity, energy justice and climate change.
+Identifying future growth opportunities and contributing to National Community Solar Partnership (NCSP) LIHEAP research
+
+via DC as pilot state, to develop industry-wide data solutions.
+
+Influential speaker, establishing industry presence as a thought leader and maintaining strong relationship with key
+
+stakeholders.
+
+- Working with excellence and implementing innovative strategies and plans to improve Groundswell's data science capacities through self-directed research.
+
+Facilitating implementation of new processes and programs to deliver data-driven solutions, including data privacy and
+
+governance in collaboration with IT Department.
+
+Head of Risk Management (9 Months Contract), 10/2019 to 07/2020 LEKA RESEARCH INSTITUTE - City, STATE
+- Planned and executed compliance audits to check risk management policies, procedures and controls, including validation requirements for clients.
+- Managed team of Data Scientists, performed price forecasting modeling, conducted performance monitoring, tracked progress, reported status and documented process controls for large bank that passed regulatory audits.
+- Developed organizational methods and policies, implemented training initiatives to deliver ongoing awareness of and compliance with established procedures.
+- Contributed to professional development of client staff through effective training and mentorship.
+- Worked with executive leaders across multiple organizations to deliver project requirements, developed solutions through effective remediation analysis.
+- Developed innovative management strategy to optimize business growth including change management plans for execution and effective implementation at operational and strategic levels.
+
+Senior Analyst - Model Validation & Governance, 03/2018 to 10/2019 RISKSPAN, INC - City, STATE
+- Developed 9 DFAST/CCAR challenger models. Supervised 3 Analysts, completed 12 projects, involving 35 models such as prepayment, credit cards, auto loans, and performed scenario analysis for Pre-Provision Net Revenue (PPNR) model, Allowance for Loan and Lease Loss and Current Expected Credit Loss (CECL).
+- Developed best credit risk strategy to increase customer base, reduce credit risk and maximize profit.
+- Identified model risk and improved outcomes by creating highly successful strategies to ensure correct use of credit models, including recommendations for governance and controls.
+- Performed valuation analysis and cashflow modeling.
+- Held team meetings at conclusion of every project. Improved productivity by 125% - company exceeded growth objectives.
+
+Chief Economist - Research and Development, 03/2013 to 02/2018 BACDU INC - City, STATE
+- Developed guidelines for use in economic policy development.
+- Delivered specialized consultative economic support to various project teams.
+- Presented research and analysis findings in written, tabular and visual format to applicable management teams.
+- Built multiple community development programs from inception to implementation, including design of KPIs and program evaluation reports.
+- Worked closely with team members to deliver project requirements, develop solutions and meet deadlines.
+- Enhanced data collection accuracy by preparing, authoring and updating communications and policy memorandums.
+- Surveyed target demographics and evaluated larger market data to make informed assessments.

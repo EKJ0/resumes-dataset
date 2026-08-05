@@ -1,0 +1,58 @@
+Data Sci tist Phone: (123) 456 78 99
+sao Intern Email: info@qwikresume.com
+
+ROBERT SMITH deca sacle
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+As a Data Scientist Intern, experience can include Good statistical and programming skills with the
+ability to work effectively with complex data. Strong programming skills in R, Python, SQL, Linux.
+Good Analytical, interpersonal & communications skills and proactive attitude,
+
+R, Tableau, SAS, OBIEE, Data Mining, Data Warchousing, Python, Oracle, MySQL, Unix.
+
+WORK EXPERIENCE
+---------------
+
+Data Scientist Intern
+ABC Corporation - January 2015 - 2015
+- Optimized EMS (Ambulance} placements so that response time can be reduced to less than 10 minutes and thus potentially saving human lives.
+- Analyzed weather data tosee impact on call volumes in R-
+- Used Monte Carlo simulation techniques in R programming to determine the maximum area that can be covered by a given number of Ambulances t.c.
+- Understood the business objectives in order to develop or established success criteria metrics.
+- Translated business problems into one or mare data science projects or solutions.
+- Worked on a data science team tackling real business issues.
+- Provided data-driven and machine learning solutions affecting our vacation rental platform -
+
+Data Scientist Intern
+
+ABC Corporation - 2011 - 2015
+
+- Exploraiory data analysis and visualization using python and Tableau.
+
+- Participated tn development of recommendation system using machine learning algorithms.
+
+- Performed data analysis in distributed [ile system using Hive and Spark.
+
+- expected) Independently designed the automatic anomalies detection system for business metrics time series data | Researched on anomaly detection .
+
+- Self-Storage Dynamic Pricing System Applied Regression Models using scikit-learn and R to forecast Demand from street prices for self-storages.
+
+- Best Features selected by Recursive Feature Elimination model.
+
+» RMSE improved trom 1.07 to 0.29.
+
+EDUCATION
+---------
+
+Masters Degree - (National Institute of Technology - Kurukshetra, IN}
+
+- This Free Resume Template ts the copyright of Quwikres umecom. Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

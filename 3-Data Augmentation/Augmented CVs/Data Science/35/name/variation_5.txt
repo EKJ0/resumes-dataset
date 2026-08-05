@@ -1,0 +1,151 @@
+Maria Garcia
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+LINKS
+
+- https://www_linkedin.com/in/evelynClaire/
+https://github.com/evelynClairel
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+driving increased sales, improving buying experience and elevating company profile with target market.
+
+SKILLS
+------
+
+- Python (SciPy, pandas, skleamn, matplotlib, TensorFlow, Keras, © Periscope
+
+NLTK, spaCy) © Power BI eR © Google Analytics
+- SQL © PostgreSQL
+- NoSQL * MySQL
+- Machine Leaming ° IMP
+- Deep Learning © Gurobi
+- ANN © Salesforce
+- CNN, © Bloomberg
+- RNN * Capital 1Q
+- PCA e Marketing analytics (e-commerce)
+- NLP « Fraud detection
+- Time-series analysis e Text analytics
+- Prescriptive analytics © Game analytics
+- Optimization © Web analytics
+- AJB testing
+- Tableau
+
+WORK EXPERIENCE
+---------------
+
+Data Science Summer Intern, 04/2020 - Current American Institutes For Research - Austin, TX
+Incoming Data Science - Product Analytics Summer Intern.
+
+Data Science Summer Intern, 06/2019 - 08/2019 American Institutes For Research - Chicago, IL, China
+- Built time series models to forecast sales by competitive benchmarking; measured conversion rates for 36 sales regions, suggested an optimized pricing strategy and increased monthly revenue by 20% in 3 months.
+- Performed root cause analysis to identify reasons for customer dissatisfaction; recommended and implemented customer operations strategies to drive Net Promoter Score, reported findings directly to Managing Director, Asia. Created 3 data visualization dashboards including 18 metrics using SQL and Power BI independently. Streamlined reporting to drive enhanced analytics; worked cross-functionally with sales and marketing departments to provide weekly
+
+reports. assisted the business development team in achieving the Q3 $1M revenue target.
+
+Venture Capital Summer Analyst, 06/2018 - 12/2018 Tiller Partners - City, STATE
+- Conducted due diligence investigations; identified investment risks, assessed positioning and marketing strategies for 8 potential investments and 2 portfolio companies in a multitude of markets.
+- Recommended Series B financing in AppOnboard, a mobile app demo platform partnering with Google Play Instant.
+- Researched art, technology, education and real estate industries by interviewing entrepreneurs and startup founders.
+- Led a team of 4 intems; distributed tasks according to individuals’ strengths, gave feedback about research reports.
+
+Investment Banking Spring Intern, 04/2018 - 06/2018 Drake Star Partners - City, STATE
+- Collaborated on a 70-page pitch book including details on the gaming industry, public market valuations, mergers and acquisitions, and private placements information for client presentations.
+- Created a prospect list of 172 technology companies with funding of more than $1M for potential business deals.
+- Analyzed gaming, eSports and VR industries to monitor trends, segment key players and pinpoint opportunities.
+
+EDUCATION
+---------
+
+Master of Science: Business Analytics, 12/2020 University of Southern California - Los Angeles, CA
+Relevant Coursework
+
+- Statistical Computing and Data Visualization
+
+- Data-Driven Decision Making
+
+- Strategies for Digital Analytics
+
+- Applied Modern Statistical Learning Methods
+
+- NoSQL Databases in Big Data
+
+- The Analytics Edge: Data, Models, and Effective Decisions
+- Artificial Intelligence
+
+Specialization
+
+- Healthcare Analytics
+
+- Strategies for Digital Analytics
+
+- Game Data Analytics
+
+- Fraud Analytics
+
+- Text Analytics and Natural Language Processing Leadership
+
+- Officer of Competitions at USC Data Science Club
+
+- Officer of Operations at Marshall Interactive Gaming Association
+
+- Ex-Director of Marketing at SkyFarer (a mixed-reality shoulder exercise game produced by USC Game Innovation Lab) Competition
+
+- Salesforce case competition
+
+- Jam City case competition
+
+Bachelor of Science: Business Administration, Finance, 05/2019 University of Southern California - Los Angeles, CA
+Honors
+
+- Dean’s List
+
+- USC Marshall Annual Scholarship
+
+- Transfer Merit Scholarship
+
+- magna cum laude (GPA: 3.82)
+
+Relevant Coursework
+
+- Calculus I, II
+
+- Applied Business Statistics
+
+- Linear Algebra in Investments
+
+- Microeconomics
+
+- Macroeconomics
+
+- Business Finance
+
+- Financial Analysis and Valuation
+
+- Introduction to Venture Capital & Private Equity Activities
+
+- Alpha Kappa Psi
+
+- Site Leader at Marshall Outreach and Volunteer Entrepreneurs
+- Trojan Archery Club
+
+- Ballroom Dance
+
+ADDITIONAL INFORMATION
+
+- Jam City Match 3 Puzzle Game Analysis Spring 2020 - Analyzed 100k records from a Jam City puzzle game: performed trend analysis on the user retention rate. - Built classification models (random forest, gradient boosting, neural networks) to predict user engagement and clustering models to segment and characterize users; recommended a social approach to organic game growth. Los Angeles County
+
+Museum of Art Ticketing Web Analytics Fall 2019 - Conducted quantitative data analysis and qualitative user testing to improve customer
+
+experience for the LACMA ticketing website; provided 3 recommendations to streamline webpage design and improve price visibility. -
+Identified audience, acquisition, and behavior patterns using Google Analytics; measured digital marketing KPIs including time on page,
+
+bounce rate, and checkout abandonment rate.
+
+ACCOMPLISHMENTS
+
+- Founder & President: International Perspective Organization
+- Director of Marketing: Skyfarer (a mixed-reality shoulder game produced by USC Game Innovation Lab)

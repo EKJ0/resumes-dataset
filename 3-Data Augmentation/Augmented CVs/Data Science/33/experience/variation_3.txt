@@ -1,0 +1,104 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Seasoned data science, engineering, and business professional with a strategic mindset that focuses on problem-solving tasks and
+maintaining priorities on strict deadlines.
+
+Professional experience spans project management, cost and process improvement, product development, financial analysis, and
+operational excellence, including a proven track record in analyzing large structured and unstructured datasets (HR, medical,
+financial, and engineering) using different data science tools, techniques, and advanced statistical methods to achieve business goals.
+
+SKILLS
+------
+- R& Python Programming ¢ Problem Solving, Leadership & Management
+- Data & Process Mining © Excellent Verbal & Written Communications
+
+- Predictive Analytics (Machine Learning, Deep Learning, and Forecasting) Theory and Applications
+
+WORK EXPERIENCE
+---------------
+
+Specialist, HR Data Science, 06/2019 to Current Proampac - Rocky Mount, VA
+- Led the development, implementation, and execution of the People Analytics strategy to support SABIC's strategic business objectives.
+- Supporting business leaders and HR leaders globally in developing and deploying strategic workforce planning and analytics capabilities in partnership with HRBP and CoEs leaders for solving workforce-related business challenges.
+- Providing thought leadership through internal and external research on the Future of Work and how digital / technology is changing work, the workforce, and workplaces.
+- Built and deployed complex statistical and machine-learning models and applications to support talent planning, development, and retention.
+- Managed the development and launch of the Global HR Dashboard from project initiation to deployment.
+- Defined appropriate metrics and measurements to drive results.
+
+- Mentoring HR teams in scenario planning and gap analysis to develop mitigation strategies and action plans.
+
+Data Scientist, Pediatric ID Research (Part-Time), 08/2017 to 12/2019 University Of Texas Medical School - City, STATE
+- Optimizing Antibiotics Prescription Decisions based on Epidemiological and Patients' Data: Design and implement machine learning predictive models using different data science techniques and advanced statistical methods to predict bacterial infections and recommend the best antibiotics to prescribe to pediatric patients based on a dataset of ~40,000 patients from the University of Texas Medical Center with a target accuracy of greater than 90%. The project received a top score and was presented at
+the European Society for Pediatric Infectious Diseases (ESPID) in Sweden in June 2018.
+- Detecting Infections Post Appendicitis Surgery: Led the development and implementation of deep learning (Artificial Neural Networks) solution for early detection of bacterial infections in pediatric patients post appendicitis surgery. The abstract was
+selected for poster presentation at IDWeek in October 2019 in Washington, D.C.
+
+Sr. Analyst, Process Improvement, 03/2018 to 06/2019 SABIC - City, STATE
+- Led the development of real-time analytics that provides insights and visualization relative to KPIs, projections, and historical performance using Celonis for the Specialties Customer Service team.
+- Incorporated the use of Machine Learning and Process Mining techniques to investigate root causes for Process Improvement
+- Evaluated performance benchmarks and established review metrics for future tracking.
+- Drove sustainable process improvements to essential service and customer-focused initiatives using Six Sigma and Lean tools and partnering with commercial, manufacturing, and global supply chain teams to drive process improvements and control
+
+plans to improve key business metrics.
+
+Sr. Marketing Technology & Analytics, 11/2017 to 03/2018 Academy Sports & Outdoors - City, STATE
+- Led analytics efforts to redesign existing customer acquisition strategy using advanced analytical and machine learning methods to identify growth opportunities.
+- Analyzed customer attributes from CRM & affiliates to improve targeting. Evaluate customer trends and provide insight into key drivers of customer purchasing behavior.
+- Developed real-time analytics that provides insights and visualization into channel performance relative to KPIs, projections, and historical performance.
+
+Cost & Process Improvement Team Lead, 12/2011 to 06/2017 Navistar, Inc. - City, STATE
+- Led the cost improvement initiative to reduce product cost by analyzing technical and financial data for current products, diagnosing root causes, and proposing alternative solutions that met quality and specifications and managed a cross-functional team to execute the approved projects.
+- Directed delivery of the program set targets of $3.5M (FY2012), $5.8M (FY2013), and exceeded the mark of $4.8M (FY2014) by 19%. Initiated and managed the implementation of lean projects for selected engineering and business processes to enhance efficiency, quality, and profitability.
+
+- Active presenter to executives and upper management at weekly status reviews of current projects and new project ideas.
+
+Financial Analyst /Project Engineer, 06/2008 to 11/2011 Johnson Controls - City, STATE
+- Analyzed various manufacturing processes and related costs to develop competitive costing strategies.
+- Developed and cost BOMs, Labor estimates, tooling, and capital requirements for new business or changes to current business.
+- Selected for a critical role in the design and implementation of SAP processes for the engineering group to manage the product life cycle.
+
+Product Development Engineer, 06/2003 to 05/2008 Yazaki North America - City, STATE
+- Designed, developed, and packaged wire harnesses and electrical modules for the Ford F-150 MY 2010-2011by successfully meeting assigned tasks’ deadlines and cost targets.
+
+Education and Training
+
+Ph.D.: Computational Engineering, 12/2024 Mississippi State University - Starkville, MS
+- Research Area: Continual Deep Learning
+
+Master of Science: Data Science / Analytics, 06/2017 University of Chicago - Chicago, IL
+
+MBA: Business Administration And Management, 08/2011 Wayne State University - Detroit, MI
+
+Master of Science: Industrial & Systems Engineering, 12/2008 University of Michigan - Dearborn - Dearborn, MI
+
+Bachelor of Science: Electrical Engineering, 05/2005 University of Michigan - Dearborn - Dearborn, MI
+
+Languages
+
+English: Arabic:
+Negotiated: Negotiated:
+Italian:
+
+Negotiated:
+
+Accomplishments
+
+- Chairman's Merit Award for Ingenuity (Johnson Controls)
+- Violet Sharpe Scholarship Award (University of Michigan)
+
+CERTIFICATIONS
+--------------
+
+- Artificial Intelligence Certificate (Columbia Univ. - 2019)
+- Data to Insights Prof. Certificate (MIT - 2017)
+
+- HIPPA & General Clinical Practices (2017)
+
+- Lean & Six Sigma (Navistar - 2016)

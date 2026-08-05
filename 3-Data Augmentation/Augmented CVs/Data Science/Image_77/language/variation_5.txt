@@ -1,0 +1,75 @@
+MARKUS ROHAN
+
+79608 Cliff Lights, Los Angeles, CA
+
++1 (555) 412 9591
+
+WORK EXPERIENCE
+---------------
+
+WUNSCH, STARK AND BAUMBACH
+Phoenix, AZ | Director of Data Science 07/2018 - present
+
+Manage, mentor and motivate direct reports across all levels to encourage their professional development while providing daily
+supervision and guidance
+
+Experience in marketing mix modelling and optimization
+
+Experience with software languages (Python, R, SAS)
+
+Experience with SQL and relational databases, query authoring (SQL) and tuning working familiarity with a variety of databases including
+Hadoop/Hive
+
+Comfortable with cloud-based platforms (AWS, Azure, Google) Manage all phases of full life-cycle implementation projects, including
+blueprinting, design, development, testing, deployment and support Identify and remove obstacles, mitigate risks for flawless execution and
+solution delivery
+
+Ensure consistent definitions and metrics across the organization
+
+ROGAHN-TORP
+Phoenix, AZ | Data Science 01/2015 - 05/2018
+
+Experience in conducting analyses to drive business impact Experience with statistical analysis and packages such as scikit-learn,
+spaCy, NumPy
+
+Good understanding of Docker and Kubernetes
+
+Previous analytics experience at an Agency or in Retail
+
+Experience in leveraging best practices in advanced analytics
+
+High level of proficiency with statistical and database concepts Knowledge of ad serving tools and multi-touch attribution
+
+Experience with visualization tools such as Tableau, Power BI or QlikView
+
+Outstanding communication skills with significant experience working closely with executive leadership
+
+EDUCATION
+---------
+
+RHODE ISLAND SCHOOL OF DESIGN Bachelor's in Computer Science
+
+SKILLS
+------
+
+Knowledge of data science, data mining, machine learning and statistics
+
+Understanding of different development methodologies High-end knowledge of data science, data mining,
+machine learning and statistics
+
+Knowledge of R and R plotting and/or Python matplotlib, Scikit, Julia, Spark, Shark, Map-Reduce, Hadoop, Hive,
+Pig
+
+Experience working with open source technologies and communities for innovative
+
+Graduate student in Epidemiology, Biomedical Engineering program or related field enrolled in the Fall
+Semester after completing the internship
+
+Interacts with other departments as directed to complete assigned tasks
+
+Demonstrates strong proficiency in verbal and written communication
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

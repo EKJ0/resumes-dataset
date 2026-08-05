@@ -1,0 +1,368 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+A data science leader with experience in the following with track record of multi folding the revenue and
+optimize the cost incur in the area of marketing, sales, customer acquisition and workforce management
+
+- Build, deploy and maintain optimization/forecasting engine
+
+- Create roadmaps and execute the planning, budgeting, and forecasting of the organization using data
+
+and Al tools
+
+- Design and scale data infrastructure, APIs, Al tools & user interface and A/B test strategy
+
+- Introduce and track technical and business metrics that define the success of the business
+
+- Build data storytelling dashboard for executive reporting
+
+- Roadmap Execution e Machine Learning
+
+- R&D « Data Science
+
+- Scalable Infrastructure e Data Engineering
+
+- Aland Analytical Tools Evaluation e Data Visualization
+
+- Cross Functional Team Management e Cloud Infrastructure
+
+- Predictive Analysis
+
+HEAD OF DATA SCIENCE 06/2021 to CURRENT Ddb | New York City
+
+- Work closely with C-suite executives to develop new methodologies for digital ad conversion, pacing, and yield to improve optimization engines
+
+- Create data science roadmaps and execution plans and lead data science projects including planning, project oversight, coaching and professional development
+
+- Manage managers of cross functional teams of data scientists, data engineers, product managers and DevOps engineers
+
+- Manage data science products from ideation to post-production including ML model research & development, model optimization, MLOps, A/B test strategies, Cl/CD, model drift monitoring and integration with other services
+
+- Lead tasks on R&D, data governance, system infrastructure, analytics and Al tool evaluation, and other cross-team functions, on an as-needed basis
+
+- Define and track accuracy and performance of both technical and business metrics using Tableau
+
+- Drive scalable Machine Learning solutions using available AWS, Snowflake, DataRobot, Sagemaker, Matillion, CircleCl, Harness and other data infrastructure
+
+- Make recommendations and build use cases on new sources of value by addressing the biggest gaps in our data sources in relation to revenue potential
+
+MEMBER OF BOARD OF ADVISORS 01/2022 to CURRENT Deloitte | Providence
+
+- Advise faculties to ensure the curriculum is current and relevant to market demand
+- Mentor students for career opportunity and growth
+
+SECIOR MANAGER, DATA SCIENCE AND ENGINEERING 10/2020 to 05/2021 Accenture | Florham Park
+
+- Worked closely with CMO for planning and budgeting of marketing organization using Al and analytics for ~$200M in the marketing-sourced pipeline
+
+- Manage data science and data engineering projects, planning and prioritization
+
+- Built and maintained data infrastructure across multiple technology platforms to meet analytics, business intelligence (BI) reporting, and forecasting needs
+
+- Defined and measures KPIs to optimize marketing operations to increase both the total revenue and share of marketing contribution
+
+- This includes,
+
+- Marketing funnel performance metrics (Inquiry, MQL, SAL, SQL, Opportunity)
+
+- Lead scoring/account intelligence
+
+- = Attribution and media-mix modeling
+
+- Ascertain data integrity and use of optimal tools and technologies for efficient data pipeline
+
+- Developed analytical plans for data cleaning, data mining, predictive modeling, database design, statistical approaches, and A/B testing for data-driven decision making
+
+- Managed Tableau dashboard to support executive reporting
+
+LEOD DATA SCIENTIST 07/2018 to 10/2020 Accenture Contractor Jobs | Houston, TX
+
+- Provided analytics solutions to VP level executives to make cost effective decisions in marketing, sales/ enrollment and workforce management using artificial intelligence
+
+- Managed comprehensive Al/ML strategy from conception thru design thru production which led K12 for more than ever year-over-year ROI growth
+
+- Built marketing optimization engine which includes
+
+- Lead scoring model
+
+- - Life-time value calculation
+
+- Forecasting models for marketing funnel (web traffic, call center traffic, leads, opportunity, sales, enrollments)
+
+- Campaign sequencing, multi-touch attribution, media-mix modeling, and ROI analysis for digital marketing efficacy
+
+- Marketing operations measurement by defining KPls, A/B test and statistical modeling
+
+- Marketing automation system using Salesforce & marketing cloud
+
+- Managed data science and data engineering projects and led infrastructure deployment, and maintained scalable data platform in driving strong marketing strategies and availing opportunities
+
+- Built and maintain APIs, user-interface and technology stack for analytical and reporting needs
+
+- Led the planning, budgeting, and forecasting of the marketing department and manage marketing automation systems
+
+- Built data storytelling dashboards and business intelligence (Bl) reports for executive reporting
+
+- Derived optimal online marketing strategies by analyzing how search engine management keywords perform in student enrollment and how the enrollment is associated to dollar spend for marketing
+
+- Built tools and plan budget to optimize workforce and robotic needs to meet peak-season demand
+
+- Tools Used: Machine Learning, Python, R, C++, JavaScript, Hive, H2O, AWS EC2/EMR/S3, Scikit-learn, Seaborn, Plotly, Dash, Pandas, Numpy, Selenium, Web Scraping, MS SQL, MS Excel, Adobe Analytics, Salesforce, Marketing Cloud, Tableau
+
+DéCA ENGINEERING CONSULTANT 01/2017 to 07/2018 Accenture Contractor Jobs | Florham Park, NJ
+
+- Developed and implemented data pipelines to clean and process large datasets using SQL and Python in PySpark framework
+
+- Enhanced and integrated new features into existing application frameworks to accelerate the data integration process using R and Python in Unix environment
+
+- Optimized data visualization using matplotlib, plotly, seaborn and ggplot
+
+- Created Hive queries that help for sales analysis by comparing fresh data with legacy data
+
+- Involved in cleansing the messy data coming from a various source in AWS EC2 environment, and loading the clean data to AWS S3
+
+- Designed and developed regression, classification, clustering, and natural language processing based predictive models to determine customer behaviors to enhance sales and marketing forecasting using Scikit-learn and spark MLlib with accuracy more than 96%
+
+- Performed churn analysis on multiple products with an accuracy more than 91% which helped to save
+more than 200000 customers from unsubscribing the products
+
+- Derived stored procedure in Teradata, Oracle and Sybase databases to support report delivery
+
+- Tools Used: Machine Learning, Tensorflow, Python, C++, R, Hive, Spark, AWS EC2 & S3, Scikit-learn, Seaborn, Plotly, ggplot, Pandas, Numpy, SciPy, Tableau, Teradata, Sybase, Oracle, Unix
+
+DéCA ANALYTICS CONSULTANT 05/2016 to 12/2016 Erg Group | Arlington, VA
+
+- Used Python based data manipulation and visualization tools such as Pandas, Matplotlib, Seaborn to clean corrupted data and develop data pipelines to support business requested reports
+
+- Developed Tableau based dashboard from oracle database to present to business team for data visualization purpose
+
+- Architected and implemented SQL workflows to identify the discrepancies on customer accounts and their products between legacy and target system
+
+- Integrated the various file system coming from different sources into MS SQL database and created visualization using SSIS/SSRS
+
+- Streamlined a process to fine tune the quality of data for a data conversion project
+
+- Guided the juniors and interns on data conversion process and designing ETL process using SQL
+
+- Tools Used: Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Tableau, SQL, SSIS, SSRS, Oracle, MS SQL, HP ALM, PuTTY, Linux
+
+DéCA ANALYTICS CONSULTANT 05/2015 to 05/2016 Bed Bath & Beyond | Silverdale, WA
+
+- Extensively worked on cleaning of source data to fit the target system requirement using Python and creating data-based applications
+
+- Developed and maintained complex SQL queries in Oracle, MS SQL and IBM DB2 to create and populate tables in data warehouse for daily reporting across departments
+
+- Streamlined data pipelines to support batch processing, bill cycle adjustment and data extract for over 5 million customers
+
+- Created customized reports and dashboards in Tableau after completion of each mini-SDLC to help making business decision
+
+- Generated visualization effects to compare source and target data using Matplotlib, Seaborn, SSRS
+
+- Involved in conversion code development, test, and deployment activities, planning and establishing cutover and post-cutover activities and support
+
+- Coordinated with system testing and UAT testing team to fine tune quality of the data conversion through ALM platform
+
+- Tools Used: Oracle, IBM DB2, MS SQL, SSIS, SSRS, Tableau, Jupyter Notebook, Pandas, Numpy,
+Matplotlib, PostgreSQL, ALM, SQL Developer, AS/400, Microsoft Visio, Informatica, SharePoint, Erwin
+
+PROUECT ASSISTANT 08/2013 to 12/2014 University Of New Mexico | City, STATE
+
+- Worked in together with senior members to develop simulation code after analyzing the raw data using Matlab, C++ and Python
+
+- Accessed, explored, and analyzed unstructured data related to radar signal processing
+
+- Assisted other senior members on designing machine learning algorithms such as regression, Classification, clustering, neural net and dimensionality reduction techniques
+
+- Used techniques for cleaning, exploring, visualizing, and combining complex multivariate data sets using various tools of Matlab and Python
+
+- Created entity relationship diagrams and then converting them into logical and physical model
+
+- Streamlined a process to store structured data into Oracle database after successful simulation
+
+- Developed and deployed a project related websites via HTML, CSS, Javascript and PHP frameworks
+
+e« Responsible for writing up research papers and presenting research findings to senior managers and at
+academic meetings
+
+- Tools Used: Matlab, Python, C++, Machine Learning, HTML, CSS, PHP. JavaScript, Wordpress, Erwin, Logical/Physical Data Modeling, Linux, Oracle
+
+WB ANALY ST 10/2012 to 07/2013 IT Training Nepal | Nepal
+- Gathered and refined specifications and requirements based on technical needs
+- Worked in cleaning data using various tools of Python before generating end-user business report
+- Integrated both structured and unstructured data from various back-end services and databases to support web applications
+- Worked with senior developers to manage large, complex design projects for corporate clients during various project assignments
+- Generated data analysis reports for legacy, production, and user interface systems
+- Extracted data from Oracle, SQL Server and DB2 to load into a single data warehouse repository
+- Created entity relationship diagrams and multidimensional data models, reports and diagrams as per companies' marketing needs
+- Tools Used: Python, Oracle, MS SQL, SSIS, SSRS, Matlab, C++, HTML, CSS, PHP. Javascript, Wordpress
+
+Ph.D. | Business Analytics & Data Science 2022 Capitol Technology University, Laurel, MD
+
+M<| Electrical Engineering University of New Mexico, Albuquerque, NM
+GPA: 4.00/4.00
+
+Bzohelor of Electronics and Communication Engineering Purbanchal University, Biratnagar, Nepal
+GPA: 3.52/4.00
+
+- Roadmap Execution
+
+- R&D
+
+- Scalable Infrastructure
+
+- Aland Analytical Tools Evaluation
+- Cross Functional Team Management
+- Predictive Analysis
+
+- Machine Learning
+
+- Data Science
+
+- Data Engineering
+
+- Data Visualization
+
+- Cloud Infrastructure
+
+HEAD OF DATA SCIENCE 06/2021 to CURRENT CONSUMERTRACK INC | Remote
+- Work closely with C-suite executives to develop new methodologies for digital ad conversion, pacing, and yield to improve optimization engines
+- Create data science roadmaps and execution plans and lead data science projects including planning, project oversight, coaching and professional development
+- Manage managers of cross functional teams of data scientists, data engineers, product managers and DevOps engineers
+- Manage data science products from ideation to post-production including ML model research & development, model optimization, MLOps, A/B test strategies, Cl/CD, model drift monitoring and integration with other services
+- Lead tasks on R&D, data governance, system infrastructure, analytics and Al tool evaluation, and other cross-team functions, on an as-needed basis
+- Define and track accuracy and performance of both technical and business metrics using Tableau
+- Drive scalable Machine Learning solutions using available AWS, Snowflake, DataRobot, Sagemaker, Matillion, CircleCl, Harness and other data infrastructure
+- Make recommendations and build use cases on new sources of value by addressing the biggest gaps in our data sources in relation to revenue potential
+
+MICMBER OF BOARD OF ADVISORS 01/2022 to CURRENT University Of South Florida | Remote
+
+- Advise faculties to ensure the curriculum is current and relevant to market demand
+
+- Mentor students for career opportunity and growth
+
+SEQIOR MANAGER, DATA SCIENCE AND ENGINEERING 10/2020 to 05/2021 Imperva INC | Remote
+- Worked closely with CMO for planning and budgeting of marketing organization using Al and analytics for ~$200M in the marketing-sourced pipeline
+- Manage data science and data engineering projects, planning and prioritization
+- Built and maintained data infrastructure across multiple technology platforms to meet analytics, business intelligence (BI) reporting, and forecasting needs
+- Defined and measures KPIs to optimize marketing operations to increase both the total revenue and share of marketing contribution
+- This includes,
+- Marketing funnel performance metrics (Inquiry, MQL, SAL, SQL, Opportunity)
+- Lead scoring/account intelligence
+- Attribution and media-mix modeling
+- Ascertain data integrity and use of optimal tools and technologies for efficient data pipeline
+- Developed analytical plans for data cleaning, data mining, predictive modeling, database design, statistical approaches, and A/B testing for data-driven decision making
+- Managed Tableau dashboard to support executive reporting
+
+LEQD DATA SCIENTIST 07/2018 to 10/2020 K12 INC | Herndon, Virginia
+
+- Provided analytics solutions to VP level executives to make cost effective decisions in marketing, sales/ enrollment and workforce management using artificial intelligence
+
+- Managed comprehensive AI/ML strategy from conception thru design thru production which led K12 for more than ever year-over-year ROI growth
+
+- Built marketing optimization engine which includes
+
+- Lead scoring model
+
+- - Life-time value calculation
+
+- Forecasting models for marketing funnel (web traffic, call center traffic, leads, opportunity, sales, enroliments)
+
+- Campaign sequencing, multi-touch attribution, media-mix modeling, and ROI analysis for digital marketing efficacy
+
+- Marketing operations measurement by defining KPls, A/B test and statistical modeling
+
+- Marketing automation system using Salesforce & marketing cloud
+
+- Managed data science and data engineering projects and led infrastructure deployment, and maintained scalable data platform in driving strong marketing strategies and availing opportunities
+
+- Built and maintain APIs, user-interface and technology stack for analytical and reporting needs
+
+- Led the planning, budgeting, and forecasting of the marketing department and manage marketing automation systems
+
+- Built data storytelling dashboards and business intelligence (Bl) reports for executive reporting
+
+- Derived optimal online marketing strategies by analyzing how search engine management keywords perform in student enrollment and how the enrollment is associated to dollar spend for marketing
+
+- Built tools and plan budget to optimize workforce and robotic needs to meet peak-season demand
+
+- Tools Used: Machine Learning, Python, R, C++, JavaScript, Hive, H2O, AWS EC2/EMR/S3, Scikit-learn, Seaborn, Plotly, Dash, Pandas, Numpy, Selenium, Web Scraping, MS SQL, MS Excel, Adobe Analytics, Salesforce, Marketing Cloud, Tableau
+
+DéCA ENGINEERING CONSULTANT 01/2017 to 07/2018 Charter Communications | Tampa, Florida
+- Developed and implemented data pipelines to clean and process large datasets using SQL and Python in PySpark framework
+- Enhanced and integrated new features into existing application frameworks to accelerate the data integration process using R and Python in Unix environment
+- Optimized data visualization using matplotlib, plotly, seaborn and ggplot
+- Created Hive queries that help for sales analysis by comparing fresh data with legacy data
+- Involved in cleansing the messy data coming from a various source in AWS EC2 environment, and loading the clean data to AWS S3
+- Designed and developed regression, classification, clustering, and natural language processing based predictive models to determine customer behaviors to enhance sales and marketing forecasting using Scikit-learn and spark MLlib with accuracy more than 96%
+- Performed churn analysis on multiple products with an accuracy more than 91% which helped to save
+more than 200000 customers from unsubscribing the products
+- Derived stored procedure in Teradata, Oracle and Sybase databases to support report delivery
+- Tools Used: Machine Learning, Tensorflow, Python, C++, R, Hive, Spark, AWS EC2 & S3, Scikit-learn, Seaborn, Plotly, ggplot, Pandas, Numpy, SciPy, Tableau, Teradata, Sybase, Oracle, Unix
+
+DéCA ANALYTICS CONSULTANT 05/2016 to 12/2016 CenturyLink Inc | Monroe, Louisiana
+- Used Python based data manipulation and visualization tools such as Pandas, Matplotlib, Seaborn to clean corrupted data and develop data pipelines to support business requested reports
+- Developed Tableau based dashboard from oracle database to present to business team for data visualization purpose
+- Architected and implemented SQL workflows to identify the discrepancies on customer accounts and their products between legacy and target system
+- Integrated the various file system coming from different sources into MS SQL database and created visualization using SSIS/SSRS
+- Streamlined a process to fine tune the quality of data for a data conversion project
+- Guided the juniors and interns on data conversion process and designing ETL process using SQL
+- Tools Used: Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Tableau, SQL, SSIS, SSRS, Oracle, MS SQL, HP ALM, PuTTY, Linux
+
+DéCA ANALYTICS CONSULTANT 05/2015 to 05/2016 Frontier Communications | Richardson, Texas
+- Extensively worked on cleaning of source data to fit the target system requirement using Python and creating data-based applications
+- Developed and maintained complex SQL queries in Oracle, MS SQL and IBM DB2 to create and populate tables in data warehouse for daily reporting across departments
+- Streamlined data pipelines to support batch processing, bill cycle adjustment and data extract for over 5 million customers
+- Created customized reports and dashboards in Tableau after completion of each mini-SDLC to help making business decision
+- Generated visualization effects to compare source and target data using Matplotlib, Seaborn, SSRS
+- Involved in conversion code development, test, and deployment activities, planning and establishing cutover and post-cutover activities and support
+- Coordinated with system testing and UAT testing team to fine tune quality of the data conversion through ALM platform
+- Tools Used: Oracle, IBM DB2, MS SQL, SSIS, SSRS, Tableau, Jupyter Notebook, Pandas, Numpy,
+Matplotlib, PostgreSQL, ALM, SQL Developer, AS/400, Microsoft Visio, Informatica, SharePoint, Erwin
+
+PROJECT ASSISTANT 08/2013 to 12/2014 University of New Mexico | Albuquerque, New Mexico
+e« Worked in together with senior members to develop simulation code after analyzing the raw data using
+Matlab, C++ and Python
+- Accessed, explored, and analyzed unstructured data related to radar signal processing
+- Assisted other senior members on designing machine learning algorithms such as regression, Classification, clustering, neural net and dimensionality reduction techniques
+- Used techniques for cleaning, exploring, visualizing, and combining complex multivariate data sets using various tools of Matlab and Python
+- Created entity relationship diagrams and then converting them into logical and physical model
+- Streamlined a process to store structured data into Oracle database after successful simulation
+- Developed and deployed a project related websites via HTML, CSS, Javascript and PHP frameworks
+- Responsible for writing up research papers and presenting research findings to senior managers and at academic meetings
+- Tools Used: Matlab, Python, C++, Machine Learning, HTML, CSS, PHP, JavaScript, Wordpress, Erwin, Logical/Physical Data Modeling, Linux, Oracle
+
+WU3 ANALYST 10/2012 to 07/2013 IT Training Nepal
+- Gathered and refined specifications and requirements based on technical needs
+- Worked in cleaning data using various tools of Python before generating end-user business report
+- Integrated both structured and unstructured data from various back-end services and databases to support web applications
+- Worked with senior developers to manage large, complex design projects for corporate clients during various project assignments
+- Generated data analysis reports for legacy, production, and user interface systems
+- Extracted data from Oracle, SQL Server and DB2 to load into a single data warehouse repository
+- Created entity relationship diagrams and multidimensional data models, reports and diagrams as per companies' marketing needs
+- Tools Used: Python, Oracle, MS SQL, SSIS, SSRS, Matlab, C++, HTML, CSS, PHP, Javascript, Wordpress
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

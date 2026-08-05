@@ -1,0 +1,153 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Motivated professional with expertise in Big Data, Business Intelligence, and Artificial Intelligence. Experienced in data modeling,
+analysis, ETLs, and designing/implementing data pipelines. Skilled Systems Engineer with a strong background in IT support,
+software delivery, and Data Warehouses. Proficient in developing advanced analytics and visualization solutions. Strong problem-
+solving skills and a collaborative approach to bridge the gap between technical and business stakeholders. Committed to driving
+projects to successful completion with a high level of accountability.
+
+Highly motivated and customer-oriented data engineer with extensive experience in cloud data operations, including data pipelines,
+transformation, and data virtualization. Proficient in AWS and Azure, adept at architecting and implementing data analytics
+solutions while prioritizing security and data governance. Skilled in data warehouse design, data integration, and advanced
+analytics, with a track record of driving business insights through innovative technologies. Strong project management skills and a
+
+collaborative mindset make me an asset to any team
+
+SKILLS
+------
+- Friendly, Positive Attitude © Tableau
+- Data Management e SOL Server
+- Planning & Organizing * Teradata
+- Training & Development © Denodo MarketPlace
+- Critical Thinking © Power BI
+- Learn continuously ¢ SAP Data Services
+- Collaborate and share knowledge ¢ SAP Business Objects
+- Focus on clients © Data Visualization
+- Communicate and influence e Azure
+- Innovate and try new things e AWS
+- Supervision & Leadership * Data Lake
+- Active Listening * Databricks
+- Strong written and verbal communication e Oracle PL/SQL
+
+WORK EXPERIENCE
+---------------
+
+Reporting and Data Science Consultant, 01/2022 to Current
+
+Inter-American Development Bank, IADB - City, STATE
+
+As a data-driven professional, I have honed my skills in identifying and resolving data anomalies, collaborating with cross-functional
+teams to conduct root cause analysis. With meticulous attention to detail, I clean and manipulate raw data, ensuring its accuracy and
+consistency for meaningful analysis. By crafting compelling data stories and impactful visualizations, I influence decision makers
+and drive strategic initiatives. Collaborating closely with team members and leaders, I gather analytical requirements and deliver
+customized solutions to power users. Designing efficient workflows for ETL processes, I integrate diverse data sources while
+ensuring smooth data interoperability. My expertise in data analysis, forecasting, and documentation ensures transparency and
+facilitates knowledge sharing within the team.
+
+Team Lead Specialist, 10/2008 to 01/2022
+
+Diners Club International - Discover Financial Services - City, STATE
+
+Experienced Systems Engineer at Diners Club of Ecuador, leading the sustain support of critical platforms and systems. Proactively
+addressed incidents, requests, problems, and enhancements to ensure uninterrupted operations. Skillfully combined business
+processes, platforms, and technologies to develop efficient solutions. Meticulously analyzed, documented, and tested platform
+development, logic, process flows, and specifications for accuracy and effectiveness. Fostered collaboration and shared knowledge
+among cross-functional teams. Aligned solutions with customer objectives and IT strategies. Contributed to the evaluation of the data
+governance framework, recommending improvements and proposing a roadmap to align with organizational objectives.
+Collaborated with different teams to define and implement data governance action plans. Managed the BI development team,
+coordinating activities, monitoring progress, and delivering program activities for informational projects. Ensured proper design of
+information management models and coordinated the development of multidimensional models for information delivery. Planned
+and coordinated the development of business intelligence applications and automation systems, supporting decision making at
+strategic, tactical, and operational levels. Provided technical guidance and mentorship to junior colleagues, identifying areas for
+improvement and offering practical solutions. Led the development of new information models, applications, reports, dashboards,
+and management indicator solutions. Oversaw resource allocation and project monitoring within the Information Management Unit.
+Coordinated the delivery of programmed information to different areas of the organization and external agencies. Managed various
+projects, including Enterprise Data Warehouse design and implementation, Business Intelligence platform migration, operational
+knowledge transfer, and statistical reports generation. Successfully executed platform migration projects, including Business
+Intelligence migration from SQL Server 2000 to SOL Server 2005 and SQL Server 2005 to SQL Server 2012. Led the automation and
+budget monitoring project, as well as the development of the customer profitability model.
+
+Technical Consultant of Business Intelligence, 09/2005 to 10/2008
+
+GrupoMAS - City, STATE
+
+Leveraged statistical software to analyze and process extensive data sets, extracting meaningful insights. Produced visually impactful
+graphs and charts to illustrate data analysis results, facilitating comprehension and decision-making. Utilized machine learning,
+natural language processing, and statistical analysis methods to develop predictive models that drove data-driven decision-making.
+Applied data reduction and exploratory analysis techniques to manage and derive value from large and complex data sets. Designed
+innovative models, algorithms, and visualizations to distill key insights from vast volumes of data, enabling actionable
+recommendations. Crafted and delivered technical proposals to clients, showcasing the value and potential impact of data analysis
+solutions. Provided comprehensive training to staff and users, equipping them with the necessary skills to effectively utilize
+
+computer systems and software programs.
+Education and Training
+Master's Degree : Artificial Intelligence and Data Science, 11/2023
+
+Universidad De La Rioja - Espana
+
+Bachelor's Degree: Engineering, Information Systems And Computing
+
+Escuela Politecnica Nacional - Ecuador
+
+Languages
+
+Spanish: English:
+Negotiated: Negotiated:
+
+CERTIFICATIONS
+--------------
+
+- Data Science Expert Program, Betametrica, 2023
+
+AWS Data Pipeline, Coursera, 2022
+
+Database Architecture, Scale, and NoSQL with Elasticsearch, Coursera - 2022
+Data Science for Everyone Track , DataCamp - 2019
+
+The Applied AI and Natural Language Processing (NLP) Workshop, Teradata University, 2019
+Introduction to Neural Networks, handytec Academy, 2019
+
+Big Data Fundamentals - handytec Academy, 2019
+
+Machine Learning and Business Perspectives - handytec Academy, 2019
+Introduction to Machine Learning with Python - handytec Academy , 2019
+
+SAP DATA SERVICES - Noux Academy - 2015
+
+INTRODUCTION TO THE TERADATA DATABASE - Teradata Colombia - 2015
+Microsoft Certified Technology Specialist, Microsoft -2005
+
+Accomplishments
+
+- Successfully implemented a survey analysis model for KIC’s events, leveraging the benefits of data virtualization using Denodo. Integrated SurveyMonkey APIs to transfer data into external database tables, which were then transformed into business logic- driven views. Collaborated with the Data Management team to deploy these views in the semantic layer of the Data Catalog, reducing development and implementation time for the Survey Dashboard. The dashboard has been well-received, aligning the department and promoting a data-driven culture
+
+Implement a Dashboard that presents the Learning results of the active employees of the IDB Group, allowing to improve the
+
+monitoring process to the CRL of annual training hours that the staff must meet as part of their annual goal
+
+Led the team at Diners Club to implement the Teradata Enterprise Data Model for Credit Card, gaining recognition from top
+management. Managed multiple phases, mapping data sources, implementing extraction, transformation, and loading processes
+with a team of 20 data engineers. Loaded a decade's worth of data into the Data Warehouse, optimizing key modules like
+Acquisition, Billing, Rewards, and Core Banking. Proficient in Data Warehousing and cloud technologies, ensuring scalability
+and security using Amazon's services. Demonstrated leadership, collaboration, and successful implementation of industry-
+
+standard data models, showcasing efficiency in handling diverse data sources
+
+Created highly effective automated credit card authorization reports at Diners Club, significantly improving operational
+efficiency. Enhanced the Credit Card Authorization model, enabling the preparation of statistical reports early in the morning.
+This streamlined process eliminated the need for three individuals to spend four hours each day on report generation. The
+optimized system freed up personnel to focus on data analysis, enhancing overall productivity. This accomplishment
+demonstrates my ability to identify process improvement opportunities, develop automated solutions, and maximize resource
+utilization. Improved efficiencies positively impacted operations, resulting in more informed decision-making
+
+- Promoted from Specialist to Senior Specialist in the Diners Club Technology Department, in less than 12 months.
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

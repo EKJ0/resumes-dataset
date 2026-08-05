@@ -1,0 +1,113 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+Websites
+
+- https://www.linkedin.com/in/Jessica-khac-Claire/
+- https://www.researchgate.net/profile/Khac-Jessica-Claire
+- https://scholar.google.com/citations?user=qDW ZxiUAAAAJ&hl-en
+
+SUMMARY
+-------
+
+Hardworking and passionate job seeker with strong organizational skills eager to secure entry-level MaJessicane Learning Engineer
+
+position. Ready to help team aJessicaeve company goals.
+
+SKILLS
+------
+
+- Hard skills: Model order reduction, finite element analysis, _-CAD/CAE Solidworks, Abaqus numerical linear algebra, computational mechanics, data - Programming Python, Matlab, C++ analysis, maJessicane learning, deep learning, data - Libraries: pandas, numpy, scipy, mysql, sqlAlchemy; matplotlib, visualization, numerical optimization methods, simulation & Bokeh, seaborn; sklearn, Keras, TensorFlow modeling, programming, debugging, image classification, natural language processing.
+
+- Soft skills: Excellent communication (speaking & writing), collaboration, problem solving, creative critical thinking, active & fast learner, perceptiveness, judgement, interpersonal
+
+SKILLS
+------
+
+- Computer skills:
+
+WORK EXPERIENCE
+---------------
+
+R&D S&E Computer Science, 03/2019 to 08/2022 Rutgers University - New Brunswick, NJ
+- Combine MalJessicane Learning with Model Order Reduction techniques to build surrogate models for a fastener within a solid mechanics system subjected to various load regimes
+- Deploy Model Order Reduction techniques to build surrogate models for uncertainty quantification of nonlinear time-dependent heat transfer problems
+- Build Bayesian Neural Networks (BNN) to quantify uncertainties within the networks for given datasets
+- Use real-time data from a HPC (High Performance Computing) system to build a ML model to predict/classify which application run on a specific maJessicane within clusters
+- Combine MalJessicane Learning with space-time Model Order Reduction techniques to build surrogate models for nonlinear time-dependent partial differential equations
+- Published 2 top journal papers on these research topics
+- U.S Department of Energy (DoE) sponsors these research projects.
+
+Postdoctoral Appointee, 01/2016 to 02/2019 Kansas State University Foundation - Salina, KS
+- Derive, develop and implement Domain Decomposition with Reduced Order Model techniques (DDROM) to solve nonlinear parameterized partial differential equations
+- Investigate, evaluate and compare the performance (i.e., accuracy versus computational time) of various DDROM solvers for nonlinear parameterized partial differential equations
+- Develop the proposed methodology above for time-dependent nonlinear parameterized partial differential equations
+- Perform domain decomposition on both spatial and temporal domains
+- Published 1 top journal paper and give 2 conference talks on these research topics
+- U.S Department of Energy (DoE) sponsors these research projects.
+
+Research Associate, 01/2015 to 01/2016 Kansas State University Foundation - - Garden City, KS
+- Research, derive and implement Model Order Reduction techniques to solve strongly nonlinear molecular dynamics problems in material design
+- Propose, develop and implement a new error estimation for Model Order Reduction of thermo-elasticity problems, apply the proposed method to solve material design problems
+- Publish 2 top journal papers and give 3 conference/seminar talks on these topics
+- U.S Naval Air Systems Command (NAVAIR) (STTR Phase I base period) sponsors these research projects.
+
+Research Associate, 07/2012 to 12/2014 Cardiff University - City, STATE
+- Develop and implement new goal-oriented error estimations for Model Order Reduction of linear elastodynamics problems, apply the proposed methodology to solve dental implant problems
+- Develop and implement a new Constitutive Relation Error for linear elasticity problems, apply to solve material design problems
+- Publish 2 journal papers and give 5 conference/seminar talks on these topics
+- European Research Council (ERC grant agreement #279578) sponsors these research projects.
+
+EDUCATION
+---------
+
+Ph.D.: Computational Engineering, 06/2012 National University of Singapore - Singapore
+- Thesis: Reduced basis approximation and inverse analyses for dental implant problems
+- GPA: 3.5/4.0
+- Full fellowship (tuition fee + living cost) from National University of Singapore for 5-years PhD course.
+- Research work:
+- Build 3-dimensional dental implant models in CAD/CAE software.
+- Develop and implement inverse analysis techniques to solve inverse problems that identify unknown material properties in the simulation models.
+- Develop and implement Model Order Reduction techniques to solve these large simulation models in real-time.
+- Publish 2 journal papers and give 3 conference/seminar talks on these topics.
+
+Bachelor of Science: Aeronautical Engineering, 04/2007 HoJessicaminh University of Technology - HoJessicaminh City
+- GPA: 3.55/4.0, First Class Honor
+- Perform experiments for undergraduate research project “Aerodynamics of flapping wing in insect flight’. Duties: setup a beetle in a wind tunnel, setup a smoke flow passed through the beetle, use ultra-high-speed camera to capture the aerodynamics flow passed through the beetle to investigate the mechanism of flapping wing. Full fellowship for this research project.
+- Graduate with First Class Honor, receive Silver Medal for the best students in the University (ranked 15/3000 = top 0.5% students graduated in the batch). Scholarship for the best student in the Department. Technology is one of the best engineering
+
+universities in Vietnam Honors, Awards
+
+- 2007-2012: Singapore-MIT Alliance Graduate Research Fellowship, National University of Singapore.
+
+- 2008: CEA-EDF-INRIA Numerical Analysis Summer School Scholarship, Paris, France.
+
+- 2007: Odon Vallet Scholarship, Vietnam.
+
+- 2007: Silver Medal for best students graduated from HoJessicaminh University of Technology batch 2002-2007, Vietnam.
+- 2004-2007: HoJessicaminh University of Technology Scholarship for best students in the Department.
+
+Accomplishments
+
+- 2018 Data Scientist with Python, certificate number #35100 from datacamp.com
+- Data science project Reboot: Box-Plots for Education, a data science competition organized on https://www.drivendata.org/ competitions/46/box-plots-for-education- reboot/
+
+Journal Referees
+
+- Journal referee Advanced Modeling and Simulation in Engineering Sciences (AMSES)
+- Asia Pacific Journal on Computational Engineering (APJCE)
+
+- Computers and Mathematics with Applications (CMA)
+
+- Computer Methods in Applied Mechanics and Engineering (CMAME)
+
+- International Journal of Computer Assisted Radiology and Surgery (JCARS)
+
+- International Journal for Numerical Methods in Biomedical Engineering (IINMBE)
+
+- Journal of Computational Surgery (JCOS)
+
+- Mathematical Problems in Engineering (MPE)

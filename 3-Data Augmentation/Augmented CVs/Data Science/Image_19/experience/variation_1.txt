@@ -1,0 +1,90 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+Kevin Brandon
+
+DATA SCIENTIST
+
+SUMMARY
+-------
+
+Data Scientist familiar with gathering, cleaning and organizing data for use by technical and non-technical personnel. Advanced understanding of statistical,
+algebraic and other analytical techniques. Highly organized, motivated and diligent with significant background in analytics.
+
+WORK EXPERIENCE
+---------------
+
+Research Assistant
+
+University of Newyork Sep 2079 - Present
+- Developed and lead Arduino projects based on C++.
+- Lectured on C++ to approximately 200 students.
+
+- Assisted faculty with in-depth data research in both lab and office environments.
+
+- Used Excel to enter data into project database and provided updates on weekly basis.
+
+- Validated incoming data to check information accuracy and integrity while independently locating and correcting concerns.
+
+Lead Data Analyst, Web Developer, and Communications Liaison
+Bank of America Sep 2078 - Oct 2019
+- Analyzed demographics of students at Dearborn and keynote speakers to optimize UI.
+
+- Tested websites and performed troubleshooting prior to deployment.
+
+Data Analyst and Business Intern
+ExxonMobil Jun 2017-Aug 2017
+- Analyzed different aspects in Blockchain to incorporate parking availability for the citizens of Detroit.
+- Planned and conceived computer systems using information engineering, data modeling and structured analysis.
+- Expedited industry-wide recognition, company awareness, and valuable insights for Detroit
+- Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed.
+- Researched new technologies, software packages and hardware products for use in website projects.
+
+- Applied knowledge of data modeling and statistical analysis to note trends and draw conclusions.
+
+PROJECTS
+--------
+
+Mass Shootings Model
+
+- Formulated data regression analysis of the relationships between 5 factors of the offender and 60 years of mass shooting data
+
+<
+
+CONTACT
+-------
+
+& info@resumekraft.com
+£] 202-555-0120
+- Chicago, Illinois, US
+
+fim linkedin.com/resumekraft
+
+Software
+
+Tableau @eee0e0 Minitab e@eee0 Microsoft Office @@@@@ R Studio @e@ee0e0 Visual Studio @e@ee0e@@
+Technical
+
+R @ee@ee0 SQL @@eeoo Python @eeeo C++ eeee0e@
+
+EDUCATION
+---------
+
+Data Science
+
+San Jose State University
+Sep 2018 - Present
+- Member of SWE
+
+- Dean's List Winter and Fall
+2019
+
+- Coursework in Computational Analytics, Data Analytics/Management and Algorithms and Design
+
+CERTIFICATIONS
+--------------
+
+Data Science in Python
+2019-07-19
+
+Llamasoft Data Management
+2019-05-13

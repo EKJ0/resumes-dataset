@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Data Science
+Folder: Data Science  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 133.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: National Registry of Environmental Professionals - Certified member National Association of | Environmental Professionals - Member Society for Outdoor Recreation Professionals - Member | American Institute of Certified Planners (May 2016) Interagency Visitor Use Management Council - | Member America
+Education: University of Idaho | Moscow, ID + 2008
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (17 instances) — e.g. managed, leading, lead, oversaw, supervised
+Resume Length: 1182 words, 120 lines (~2.4 pages)
+
+CANDIDATE 2  (source file: 32.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: University of Texas at Austin Austin, TX + Current
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. supervised
+Resume Length: 252 words, 38 lines (~0.5 pages)
+
+CANDIDATE 3  (source file: 27.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Jessica Claire
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. led, managed, supervised, coordinated, established
+Resume Length: 927 words, 76 lines (~1.9 pages)
+
+CANDIDATE 4  (source file: c534c85d4bda9498.txt)
+----------------------------------------------------------------------
+Name: Anne Lounsberry
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: MSc in Statistics, UCLA, Los Angeles, CA
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. directed
+Resume Length: 302 words, 42 lines (~0.6 pages)
+
+CANDIDATE 5  (source file: 6bfedbed776fabe4.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- BA COMPUTER SCIENCE Skills & Expertise University of Pennsylvania PROBLEM-SOLVING PYTHON | es Co Es MODELLING VB and CLOUDERA Ln - E - | Honors Student (GPA - 3.85) Excellent record with data science coursework STATISTICS CREATIVITY | Designed a complex final year project that used | a
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 293 words, 37 lines (~0.6 pages)
+
+CANDIDATE 6  (source file: Image_77.txt)
+----------------------------------------------------------------------
+Name: Markus Rohan
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: RHODE ISLAND SCHOOL OF DESIGN Bachelor's in Computer Science
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. directed
+Resume Length: 319 words, 42 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: 74.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master of Arts: Curriculum and Instruction, 2015 University of Missouri-Kansas City - Kansas City, Missouri | Institute for Urban Education Scholarship Recipient and Graduate, GPA: 3.93
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, mentored
+Resume Length: 735 words, 60 lines (~1.5 pages)
+
+CANDIDATE 8  (source file: 0b89db187df11bfe.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Diploma
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. supervised
+Resume Length: 269 words, 39 lines (~0.5 pages)
+
+CANDIDATE 9  (source file: 3.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Jessica Claire
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. led, managed, supervised, coordinated, established
+Resume Length: 927 words, 76 lines (~1.9 pages)
+
+CANDIDATE 10  (source file: aff37fe47dbe202e.txt)
+----------------------------------------------------------------------
+Name: Trisha Stamm
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 358 words, 66 lines (~0.7 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

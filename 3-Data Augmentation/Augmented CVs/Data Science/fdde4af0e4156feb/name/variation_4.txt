@@ -1,0 +1,59 @@
+Jamal Jackson
+
+Robert Smith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+Website : voww.qwikre sume, com
+
+Data Scientist Intern Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+As a Data Scientist Intern, responsible for executing data driven solutions to increase
+efficiency, accuracy and utility of internal data processing. and also creating data regression
+models,implement action oriented solutions to cornplex business problems,
+
+SKILLS
+------
+
+Data Mining, Handling Pressure, Collaboration, Problern Solving Skills.
+
+WORK EXPERIENCE
+---------------
+
+Data Scientist Intern
+ABC Corporation - June 2015 - August 2015
+
+- Conducted data regression analyses of relationship between company prices and Industry trends, achieving a more accurate prediction of performance than previous years.
+
+- Utilized web scraping techniques to extract and organize competitor data,
+
+- Updated corpany data warehousing techniques as data recall and segrnentation, resulting in Increase usability for non-technical staff,
+
+- Modernized data streamlining process, resulting in a redundancy reduction.
+
+- Improved mining process, resulting In a 15 % decrease in a time needed to Infer insights fram customer data used to develop marketing strategies.
+
+- Worked with research tearn to develop cornplex views and stored procedures that extract pertinent information from database for their research.
+
+- Performed data manipulation, analysis, modeling and visualization on massive transaction data with Impala, Python and R Collaborated with Business.
+
+Data Scientist Intern
+ABC Corporation - 2011 - 2015
+- Visualization of final Maps In Arc-GiS and Tableau.
+- Main role in this internship is to evaluate the usage of different machine learning techniques for the dernand forecast of different products and adjust the production,
+- Multivariate Linear and nonlinear regression techniques and classification techniques are Implemented and their performance is evaluated in different contexts and scenarios,
+- Implementations are tested on data on Hadoop cluster using R, Spark MLib, Matlab and Mahout,
+- Sharding technique is used for the MySQL backend instances,
+- EMR Hadoop cluster is used for HBase,
+- Fine perforrnance tuning was performance on both databases and frontend Recommendation Systern for Netflix Movies (Python, scikiteam),
+
+EDUCATION
+---------
+
+Masters Degree
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings

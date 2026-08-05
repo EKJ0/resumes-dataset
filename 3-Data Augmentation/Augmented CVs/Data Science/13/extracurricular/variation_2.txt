@@ -1,0 +1,136 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+- 1+ years of proven work experience as an IT professional in problem-solving, root cause analysis, data analysis and process automation at Infosys Limited. *A very good problem solver with strong analytical thinking. Proficient in Python, R, SQL, Data gathering, Data wrangling, data analysis.
+
+SKILLS
+------
+
+- Python( Pandas, Scikit Learn, Numpy, Matplotlib ), R, SQL, PL/ © JavaScript SQL, C, C++, JavaScript, Linux, Shell Scripting, Hadoop, Spark, e Linux Web Scraping ( Selenium, Beautiful Soup ), Dash, Plotly, OpenCV, © Market
+
+geopandas e MATLAB
+- Machine Learning: Random Forest, XGBoost, Decision Tree, e Access SVM, Naive Bayes, Regression, KNN, Regression, Classification, e MS Excel Natural Language Processing, Sentiment Analysis, Topic e Microsoft Office Modelling, Time Series Analysis, foprophet © Modeling
+- Deep Learning: Keras, Convolutional Neural Network, Recurrent * MySQL Neural Network e Natural Language Processing
+- Tools: SAS, Tableau, Power BI, MATLAB, RStudio, Microsoft * Network Office, Jupyter Notebook, Spyder, Zepl, Google Colab e Neural
+- Databases: Oracle RDBMS, MySQL, MongoDB, Snowflake ¢ PL/SQL
+- Technology: Blockchain, Business Intelligence, AWS © Predict
+
+Certification: Machine Learning A-Z: Hands-on Python and R in Data Science (Udemy), Artificial Intelligence A-Z: How to build
+an AI (Udemy) .
+
+Process improvement
+
+Process management
+
+Programming
+- API SAS e Python
+- Artificial Intelligence, Scripts ® Oracle RDBMS
+- AI Shell Scripting e Research
+- Automation, SQL
+- BL Structured
+
+Business Intelligence, Supply chain
+
+C, Transportation C++, Workflow
+
+Customer relations
+
+Client
+
+Database
+
+Databases
+
+Features
+
+WORK EXPERIENCE
+---------------
+
+Data Science Intern, 06/2020 - Current Amita Health - Mattawan, MI
+- Working with a startup on building advanced analytics for supply chain visibility and transportation management *Implemented ArcGIS to geocode the addresses and performed Geo-fencing to track and map the loads to their corresponding vehicles.
+
+Performing data cleaning, data transformation on 600K+ rows of data.
+
+- Parsed the map data source using python to extract all the data related to interstate highway rest areas.
+
+Created a structured dataset of 1000+ records.
+
+- Scraped data related to all the gas stations in USA using selenium and geocoded the address using ArcGIS to get the coordinates.
+Created a structured dataset of 40000+ records.
+
+Access SQL database to manipulate the data, create visualization and reports to give insights about the data.
+
+Accessed Google cloud to enable the Google maps distance matrix API key.
+
+Implemented ETA and distance prediction by making use of the google maps distance matrix API.
+
+- Performing market intelligence analysis to gain insights on competitor products.
+- Performing UAT to ensure the functionality of the product.
+
+Systems Engineer, 09/2018 - 05/2019 Spireon - Chicago, IL
+- Designed, Developed and implemented process automation using scripts of Workflow model by collaborating with client Goldman Sachs to improve the efficiency of tasks done based on root cause analysis of incidents.
+- Achieved saving more than 200 hours of manual work done per month in resolving incidents benefiting the organization with minimized headcount and labor costs potentially worth more than 500K USD per year.
+- Facilitated process improvement and automation by gathering data, performing data wrangling and analysis to appropriately come up with solutions to solve the problems reducing 40% time spent by experts, and is still used by the team to solve problems.
+- Query from the database to search for patterns as a part of Workflow implementation to resolve incidents.
+- Coached and Transferred knowledge to team members regarding the technical aspects and process management.
+
+Systems Engineer Trainee. 04/2018 - 08/2018 Infosys Limited - City, STATE
+- Successfully completed 4 months of training on soft skills and hard skills( Python, SQL, Linux ).
+
+EDUCATION AND TRAINING
+
+Master of Science: Data Science and Analytics, 2020 Georgia State University, J. Mack Robinson College of Business - Atlanta, GA
+GPA: 4.09/4.3
+
+Relevant Coursework/Projects: «Graduate Research Assistant at the Institute for Insight, J.Mack Robinson College of Business «Better
+Business Bureau Sprint Project Performed data cleaning/merging/processing on the sale pattern, accreditation pattern of around 500K
+rows of data using Python. Analyzed the data set and translated the insights and findings to visualization using python and MS Excel to
+help predict, improve customer retention, and attract new customers. *House Price Prediction Preprocessed data, cleaned it and added
+feature engineering using Python. Implemented a Machine learning model using a voting regressor that combines XGboost, gradient
+boosting regressor, support vector regressor, ridge regressor, and lasso regressor to predict the sale price of the house based on 81
+exploratory variables. Achieved a Mean Absolute percentage error (MAPE) score of 7.66. *Hotel Recommendation Model Scraped
+hotel reviews from Trip Advisor using Beautiful Soup in Python. Performed topic modeling and sentimental analysis using NLTK and
+Vader sentimental analyzer on 3000+ reviews from different hotels to determine the best features of hotels using sentimental scores
+
+associated with them to optimize hotel customer relations.
+
+Top performer during training at Infosys Limited «Best paper award at the 8th International Conference of Science and Innovative
+Engineering ‘Runner Up of the Chess competition held in School «Successfully completed UCMAS course *Member of Leo Club
+
+ACTIVITIES AND HONORS
+
+ACCOMPLISHMENTS
+
+Deep Learning Research Project Preprocessed raw text data by performing stop word removal, lemmatization, keyword match.
+
+Using the data set, implemented various machine learning models with 10 fold cross-validation like Random Forest, Decision Tree, KGB
+Classifier, SVC, and deep learning models like Recurrent Neural Network (RNN) using LSTM to train and classify the text.
+
+Achieved an accuracy of 83% in classifying the texts.
+
+Dell Sprint Project Administered a team of 4 to create visualizations using Tableau for the Analysis of Diversity and Inclusion in an
+
+organization.
+
+Designed, Implemented, and facilitated a Diversity and Inclusion Dashboard using Dash and Plotly framework which is used by Dell
+Technologies as proprietary software for the analysis of Diversity and Inclusion within an organization.
+
+Identify Ships in Satellite Images Built a CNN model using keras in python to train and classify ships in 4000 satellite images.
+
+Validated the model accuracy of 99% using 5 fold cross-validation.
+
+This model could potentially help monitor port activity levels and supply chain analysis.
+
+Courses: Statistical Foundations for Analytics, Data Programming for Analytics, Data Management for Analytics, Data Visualization,
+Machine Learning for Analytics, Predictive Analytics, Deep Learning Analytics, Scalable Data Analytics Anna University, Sri
+Venkateswara College of Engineering Chennai, TamilNadu Bachelor of Engineering in Electronics and Communication May 2018 (Linear
+Algebra and Partial Differential Equations, Probability and Random Processes).
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.
