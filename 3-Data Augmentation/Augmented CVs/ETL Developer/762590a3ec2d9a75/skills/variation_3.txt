@@ -1,0 +1,71 @@
+ETL Developer/SQL Developer Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+ROBERT SMITH deca sacle
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Over 10 years of experience tn Information Technology with a strong background in Database
+development and Data warehousing and nearly § years of experience in ETL process using Informatica Power Center, Good knowledge of Data warehouse concepts and principles.
+
+SKILLS
+------ SQL.
+
+WORK EXPERIENCE
+--------------- ETL Developer/SQL Developer
+
+ABC Corporation - June 2005 - January 2007
+
+Responsibilities Involved tn full life eyele development including Design, ETL strategy, troubleshooting Reporting. and Identifying facts and dimensions,
+
+Prepared the required application design documents based on functionality required Designed
+the ETL processes to load data from Oracle, Flat Files (Fixed Width), and Excel files to siaging
+database and from staging to the target Oracle Data Warehouse database.
+
+Involved in cleansing and extraction of data and defined quality process for the warehouse.
+Documented ETL test plans, test cases, test scripts, test procedures, assumptions, and
+validations based on design specifications for unit testing, system testing, expected results,
+preparing test data and loading for testing, error handling and analysis.
+
+Strong Experience on writing SQL Queries, Stored Procedures in Oracle Databases, Developed shell seripts, SQL procedures, for creating/dropping of table and indexes of
+performance for pre and post session management.
+
+Created documentation on mapping designs and ETL processes.
+
+ETL Developer
+
+ABC Corporation - 2002 - 2005
+
+SummarySEW Infrastructure Lid,, has diversified into construction like lined irrigation canal,
+dams cte.
+
+has implemented Oracle e-business solutions.
+
+They were maintaining their financial data in Tally over the years.
+
+The project involved extracting the data from embedded database and loading it into Oracle e-
+Business suite.
+
+Roles & Responsibilities Complex Business Rules are implemented to identify error records Developing ETL transformations Writing Procedures, Functions, and Queries as per
+requirement.
+
+Customer interaction for requirement analysis for designing reports using SSRS Application
+development required by Customer for interfacing with scripts in C# .net:
+
+Handling issues raised by clients in Production Support environment Preparing test scripts
+and reviewing the test results and Tuning of the mappings to enhance the performance =
+Corporate Computer Solutions Environment SQL Server 2005, SSIS, SSAS, SSRS Windows XP.
+
+EDUCATION
+---------
+
+- This Free Resume Template ts the copyright of Quwikres umecom. Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

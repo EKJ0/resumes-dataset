@@ -1,0 +1,74 @@
+Robert Sm ith Phone (123) 456 7899
+
+Email: info@qwikresurme.com.
+
+Website : www, qwikresume, com
+
+Sr. ETL Developer Linkedin: linkedin.corn/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Sr. ETL Developer with over 11 Years of experience in Software Development Life Cycle (SDLC)
+within Design, Coding, Testing, Development, and Implementation of Data Warehouse/Data Mart
+under Unix and Windows Environments. Extensive ETL experience with Informatica PowerCenter
+Advanced knowledge and excellent concepts in development and design of ETL methodology for
+supporting data transformations and processing ETL solutions,
+
+SKILLS
+------
+
+Databases Oracle SQL Server 2008, Netezza, Teradata Data Modeling Tool ERWIN ETL Tools
+Informatica Power Center SAP BODS/BODI, SSIS RDBMS Tools TOAD, SQL Developer, SQL Plus, MS
+SQL Management Studio Reporting Tools Crystal Reports, Dashboard, Tableau Reports Scripting
+Unix, Python Other Tools Control -M, Autosys, TIDAL, Secure FTP(SSH), MS Excel, Notepad++,
+BMC(Pak 2000) Operating Environment Windows/Mac-OS/ UNIX
+
+WORK EXPERIENCE
+---------------
+
+Sr. ETL Developer
+Wells Fargo Bank - September 2011 - Septernber 2017
+
+- Analyzed the business requirements and designed ETL solution and developed the code using informatica power center,
+
+- Understood the requirement specifications, prepared the functional and technical design documents.
+
+- Written documentation to describe programm development, logic, coding, testing, changes and corrections, optimized the mappings by changing the logic and reduced running time.
+
+- Worked on up gradation process of inforrnatica from version 9,1 to 9.5.
+
+- Included error-handling and exception handling by logging in the error tables and sending an alert message via e-mail to the concerned distributions list.
+
+- Responsible for retrofitting the code to qa environment, and extending the support for the qa and wat for fixing the bugs,
+
+- Responsible for batch monitoring and break fix in the production environment:
+
+Sr. ETL Developer
+Vmware - May 2006 - August 2011
+
+- Involved in bug fixing of the current production issues, and delivery in a short time frame.
+
+» Developed the source definitions, target definitions to extract data from flat files, relational
+sources,
+
+- Created different transformations for applying the key business rules and functionalities on the source data.
+
+- Developed ETL Solutions for reporting designed to sustainably support business outcome requirements.
+
+» Engaged with department and business unit resources to ensure understanding of requirements and data environment.
+
+> Delivered timely, validated, well-tested work product,
+
+- Participated in the development of quality and continuous improvement standards and protocols,
+
+EDUCATION
+---------
+
+- This Free Resime Tempinte Is the copyright of Qwikresume.com. Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

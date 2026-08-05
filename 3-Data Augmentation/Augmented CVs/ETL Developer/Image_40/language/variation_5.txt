@@ -1,0 +1,79 @@
+ETL Developer
+
+Job Summary:
+
+This position will report to the ETL Manager.
+The chosen candidate will be responsible for performing all aspects of the ETL process, to include:
+
+- Development of new ETL processes to facilitate data movement within the organization.
+
+- Development of QA processes to monitor and evaluate the results of ETL inputs and outputs.
+
+- Maintenance and modifications of existing ETL processes.
+
+- Documentation of ETL processes, including flow, function and dependencies.
+
+- ° Documentation regarding impact to business or IT related areas as they relate to the ETL process.
+
+- Collaborate on enterprise data governance projects to provide data architecture, master data management, data quality and business intelligence solutions.
+
+Responsibilities
+
+1
+
+aH ewn
+
+fom
+
+10.
+
+Assist the data team in developing solutions for data validation, accuracy and defects. This includes correction of existing
+problems as well as developing new processes to proactively prevent problems as they relate to the ETL process.
+
+Apply business rules and data processes to ETL solutions using both standard and client-specific logic.
+
+Develop mapping, transformations and load procedures to process incoming/outgoing files.
+
+Develop QA processes to further assist inevaluating process outcomes for data accuracy and completion.
+
+Develop documentation, where necessary, to substantiate claims of inconsistent or inaccurate data.
+
+Function as an integral part of the cross-functional implementation team, assisting as assigned on all implementation
+projects dependent on the ETL processes.
+
+Build data govermance and data quality processes to further advance quality, accessibility and usability of ali data.
+
+Work as part of a team to ensure a consistent flow of information technology products and services.
+
+Thoroughly document all processes encountered or built as part of these tasks, where they are not already documented.
+Performs additional related tasks as assigned.
+
+Qualifications
+
+2.
+
+eu ae
+
+9.
+
+Bachelor's Degree in Computer Science or related field or 5 years equivalent work experience required.
+Expert level experience required in these areas of Microsoft SQL Server 2008 BI Stack:
+- TSQL development, to include creation and maintenance of stored procedure, triggers, views, indexing, and other SAL objects, minimum of 5 years.
+- SQL Server Integration Services (SSIS), minimum of 3 years. Additional areas preferred but not required:
+- SQL Server Reporting Services (SSRS}.
+- SQL Server Analysis Services {SSAS}. Demonstrate familiarity with both medical and pharmacy claims data, as well as health plan eligibility data. Candidate should have atleast 3 years’ experience developing within these data sets. Have a basic understanding of data governance and master data management principles. Implementation experience with new products and/or clients is preferred. Excellent written and oral communication skills required to communicate effectively and professionally. Must be self-directed and able to function both independently and as part of a team. Demonstrate advanced critical thinking and trouble-shooting capabilities to assess, prioritize, plan, and implement tasks and solutions effectively, including the ability to manage multiple projects at a time. Must be able to work in a high-growth, fast-paced environment, requiring occasional overtime.
+
+- Additional valued skills, preferred but not required:
+
+- Development and/or administration of Postgresal.
+
+- Development and/or administration of SharePoint.
+
+- Experience in a “big data” environment.
+
+- Knowledge of healthcare data interchange standards X12 and/or HL7 isa plus.
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

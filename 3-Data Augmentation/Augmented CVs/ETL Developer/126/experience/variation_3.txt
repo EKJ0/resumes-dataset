@@ -1,0 +1,225 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+SUMMARY
+-------
+
+HIGHLIGHTS
+----------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Having Total 10+years of IT experience with complete project life cycle experience, adept at application
+development, testing and optimization. Excels at application development, including coordinating ground-up
+planning, programming and implementation for core modules.
+
+- Expertise in analysis, design and development. « Expertise in analysis, Agile development
+
+- methodologies
+
+- Microsoft Certified Professional Developer in ¢ design and development of client/server, web Developing Web Based Applications Using based and n-tier applications C#.NET ¢ Experienced in developing windows applications,
+
+. web applications, windows services and
+
+- Microsoft Certified Professional Developer in communication services in Microsoft Visual
+Windows Azure Studio.Net 2010, 2008, 2005 using C#, .Net
+
+. Framework (2.0,3.0.3.5, 4.5 ), ASP.NET,
+
+- Microsoft Certified Professional Developer in WINFORM/WPF, Web services, WCF, ADO.NET
+SQL 2012 and SQL Server 2008, R2/2005, SSIS, SSRS.
+
+- Experienced in developing applications Silverlight 4.0 using “MVVM (Model View View Model)” and asynchronous calls.
+
+- Experience with development of Asp.net using MVC pattern
+
+SENIOR DEVELOPER 11/2012 Barclays Bank | Washington, MA
+
+- Financial Royalty is royalty payout business in IEB division of Microsoft. This project uses cloud services to push - pull of transaction ingestion (ingested by other services like Xbox Live, Cl etc)
+
+- Ingest the master data from other existing service providers such as GDNP.
+
+- Games and Video, Raw catalog, Product, Offer using windows NT services. Once master data and transactions data ingested into Royalty system, use ETL to create dashboard and royalty payments to partners (external and internal ) .
+
+Technology _used: C#, Visual Studio 2012, VSTF/TFS , XML. SQL Server 2008 R2, .Net 4.5, Azure Storage
+Services including Table storage, BLOB, Queues, SQL Azure
+
+Role Description:
+
+- Participate in SPRINT meetings, daily scrum.
+- Understanding and Analysis of business requirement.
+- Provide the estimates based on the requirement.
+- Design process for each user stories.
+- Implementation of the user story using technologies. Resolve the Production Bugs as on critical basis.
+- Timely fashioned and quality deliverables
+- Deployment and resolutions of hot fixes.
+
+- Support Operations team in case of critical issues. Coordinate with Test and Operations teams on regular work items.
+
+SECIOR SQL BI (ETL) 04/2012 to 10/2012 Mastech Digital, Inc. | Lowell, MA Project Description:
+- This involves data extraction, transformation and load from various data sources of organization, external web sites using Microsoft SSIS and SQL Server 2008 R2. This also involves the creation of the Slice Reports such as Net Position, Energy Imbalance, Large Industry using Qlikview Business Intelligence tool.
+- Technology used: C#, Visual Studio 2010, VSTF/TFS , XML, SQL Server 2008 R2, .Net 4.0
+
+Role Description:
+- Understanding and Analysis of business requirement.
+
+sLogical and physical architectural design of Data flow and data storage through SSIS services.
+
+- Designing and development of Database objects such Tables, Stored Procedures, Views, function, SQL Jobs
+using the SQL Server 2008 R2, Net framework 4.0 for each report
+
+- Use of Excel Power pivot and Qlikview business Intelligence tool for report UI development.
+
+- Creation of Indexing, constraints, stage tables.
+
+- Use of SQL Profiler and Database tuning of queries.
+
+“Use of Query Analyzer and Optimizer to check performance.
+
+SCTWARE DEVELOPER 11/2011 to 03/2012 T-Mobile | Staten Island, NY Project Description:
+- This involves the replacement of the existing BizTalk 2004 solution by Microsoft Windows Workflow 4.0 which will improve the VRDB System manageability. Design and develop the core processes such as New Voter Registration. Update Voter, Voter Audit, Global Update and Process Identity Check.
+- Technology used: C#, Visual Studio 2010, VSTF/TFS , XML, SQL Server 2008 R2, .Net 4.0, Windows AppFabric Role Description: as Software Developer:
+- -Understanding and Analysis of business requirement analysis,
+- Designing and development of work flow solutions and Database using the Windows Workflow 4.0, C#,
+SQL Server 2010, .Net framework 4.0
+- Use of Windows AppFabric to monitor event and error logging.
+- Deployment of the processes using the windows services as scheduler.
+
+SCOTWARE ENGINEER 2011 to 11/2011 T-Mobile | Steamboat Springs, CO
+
+- Customer Name: Microsoft Corporation
+- Data Services Layer (DSL) is Microsoft BI Engineering initiative which is a data consumption platform.
+- It provides a single location for users to explore & consume data located within EDW & data external to EDW (Enterprise Data warehouse).
+- Itis also called as EDW explorer.
+- EDW Explorer is the UI for exploring, consuming, publishing & requesting access to DSL data packages This DSL /EDW Explorer is a Silverlight based - web based application.
+- This web application uses Silverlight 4.0, C#, Object Orientated design, ADO.Net, SQL Server 2008,
+MVVM pattern, WCF Technology used: C#, Visual Studio 2010, VSTF, XML, SQL Server 2008 R2, .Net
+4.0, WCF, Silverlight 4.0.
+Role Description: as Software Developer:
+- Understood the functionality and process flow according to business requirements.
+- Prepared the technical specifications documents according to the functional documents.
+- Designing and development features and Database using the ASP.net.
+- Use of MVVM patterns ‘Write the WCF methods, Business Layer, Middle Tier (Business Logic, Business Objects, Request/response classes)
+- Add /Modify the methods of the Data Access components using ADO.Net
+- Design new DB tables, stored procedures, Jobs and scheduling.
+- Writing Unit test Cases using Microsoft Pex and Moles.
+- Creating a Build Automation Process using Octopus and VSTF 2010Participated in requirement gathering.
+- Deployment of the application Using Octopus
+- Write a routine Office Open XML to export the Sample data in Excel 2010 Use of Delegates, Event Handling, and Callback functions, Mediator Pattern for View Model, Models of Silverlight UI.
+
+SCOTWARE ENGINEER 05/2010 to 11/2010 T-Mobile | Sunrise, FL
+
+- Microsoft Ad-CRM is a team which pushes the Advertisements to the Bing search page.
+
+- [am part of the integration team, where we are building couple of tools to collect different type of reports on Bing search Advertising traffic.
+
+- Proposal Builder is ASP.Net web application.
+
+- Microsoft ADCRM Team will use the Proposal builder to alleviate the manual processes necessary for Sales to configure proposals at the template level for sending to the client, and track between their Opportunities and Actual Sales.
+
+- Benefits resulting from this project include an automated Order to Opportunity mapping that would streamline pipeline reporting, greater efficiency in formulating proposals, improve visibility to pipeline health, and reducing response times to customer.
+
+- This application is a customization of Microsoft Dynamics CRM used in ADCRM group of MSN (Microsoft Advertising Group).
+
+- This web application uses ASP.Net, C#, Object Orientated design, Entity framework, SQL Server 2008, MVC pattern, WCF, AJAX toolkit, JavaScr.
+
+Role Description: as Software Developer
+
+- Understanding business, requirement analysis,
+
+- Designing the screen - (UI) using asp.net, HTML for demonstration (prototype)
+
+- Designing and development UI and Database using the ASP.net, C#, SQL Server 2008 ..Net framework 3.5
+- Deployment of the application on the Microsoft Dynamic CRM servers under the Sales Module (Opportunity)
+- Use of MVC patterns
+
+- Develop the business component using entity based framework.
+
+- Development of WCF service with wsHTTP and TCPnet bindings.
+
+- Use of AJAX toolkit for Grid view controls.
+
+- Customize the Ribbon control (Office 2007 Ul) menu.
+
+- Development of SSIS packages and SQL jobs.
+
+- Development of reports using SSIS for generation of Proposal Builder documents
+
+SCOTWARE ENGINEER 2010 to 05/2010 T-Mobile | Thomaston, ME
+
+- Andes is ASP.Net web application which delivers the ability for IT to create and manage a Private Cloud with the Dynamic Datacenter Toolkit For Enterprises (DDTE) Solution Accelerator.
+
+- DODTE is a cloud computing platform which dynamically on-boards internal customer computing resources by provisioning virtual machines into production that are configured to their business needs and service availability.
+
+- The successful release of this project will provide IT managers with more centralized control and better management of their combined physical and virtual computing environments.
+
+- Andes reduce the manual steps associated with building physical servers and provisioning virtual machine resources.
+
+- Andes also make reporting on the availability of IT services more manageable.
+
+- And Andes provides Microsoft with a competitive offering against other private cloud disruptors; it allows customers to leverage their current Microsoft licensing agreement with Windows Server and System Center SKU's to build the virtual env
+
+Role Description: as Software Developer:
+
+- Understood the functionality and process flow according to business requirements.
+
+- Development of Globalization of the complete Web Application “Andes” using Microsoft.Net technology 2008, ASP.Net, Framework 3.0, 3.5.
+
+- Development of Setup Application using WPF, C#
+
+SCOTWARE ENGINEER 08/2008 to 11/2009 Mastech Digital, Inc. | Marlborough, MA
+
+- Microsoft Amaliga (formerly known as Azyxxi) is a unified health enterprise platform designed to retrieve and display patient information from many sources, including scanned documents, electrocardiograms, X-rays, MRI scans and other medical imaging procedures, lab results, dictated reports of surgery, as well as patient demographics and contact information using HL7 messaging (through Parser services).
+- Technology Used: MS.Net framework 3.5, WPF, WINDOWS, C# (3.0, 3.5), SQL Server 2008, XML, XAML.
+- VSTS 2008, WPF, Win Forms.
+- Role Description: as Developer: Development of Globalization of the Unified Intelligence System (Health
+Solution Product) using Microsoft.Net technology 2008, .Net Framework 3.0, 3.5.
+e« And SQL Server 2008 database.
+- The Globalization involves design and development of the framework so that it will be utilize across the modules for internalization of this product.
+- This also involves the globalization of the WPF and Win Forms.
+- Involved in VIEW, Amalga Manager Development and TSHOW pa. .
+- Role Description: as Developer:
+- Development of Globalization of the Unified Intelligence System (Health Solution Product) using Microsoft.Net
+technology 2008, .Net Framework 3.0, 3.5. And SQL Server 2008 database.
+- The Globalization involves design and development of the framework so that it will be utilize across the modules for internalization of this product. This also involves the globalization of the WPF and Win Forms.
+- Involved in VIEW, Amalga Manager Development and TSHOW parameters processing bugs fixing.
+- Involved in middle tier services (ADO.Net) bug fixing.
+- Involved in bug fixing of various components such as Fields Manager. Field Viewer, Lab Manager, Lab Viewer, Tablist Controls, Stored Query manager, Data Grid (Patient information list) etc.
+- Working closely with Dev/PM/Test team to get required information and improve quality of the product.
+
+SCOTWARE DEVELOPER 05/2006 to 07/2008 Walt Disney Co. | Daly City, CA
+
+- Safeco Insurance Personal Lines Group added a new tool Click Software Scheduler and Mobile Communication for its Customer Support team and Field Agents in addition to their existing software application.
+
+- This tool can schedule the request and allocate the field agent to visit the incident location (dispatcher
+system), Technology Used: NET, SQL Server 2000/2005, with C#, SOAP/XML and ASP.NET, NET, SQL
+reporting Services 2005 Role Description: as Developer & Tester: Integration and migration of the SQL
+database of existing system to new click database using C# script.
+
+- Involved in the requirement analysis of Logistics business team with the scheduling tool Click software.
+
+- Involved in the data base of the scheduling tool (Click Software) design.
+
+- Specify, design Enterprise Reports using Microsoft Reporting Services 2005 Design and Develop web
+based enterprise reports using MS reporting services 2005 and SQL Server 2000/2005 database and
+STAR SCHEMA pattern to support Claims and Customer.
+
+- There were.
+
+SCOTWARE DEV LEAD 09/2006 to 04/2007 ECCH | City, STATE
+- ECCHis a Win Form based Desktop application to handle the transaction for renewing the Licenses of master licensing, Real Estate licensing and other customer service offices.
+- This is Retail POS application.
+- This also involves integration of transaction (daily) to Actual revenue System using nightly running jobs.
+
+- Technology Used: NET, SQL Server 2000/2005, with C#, SOAP/XML and ASP.NET, NET, SQL reporting Services.
+
+Masters of Business Administration University of Pune, Pune
+
+Ba-helors of Engineering University of Pune, Pune

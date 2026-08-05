@@ -1,0 +1,146 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+A Senior Manager in information technology and software engineering with expertise in diverse range of technologies within multiple lines of
+business settings. 15+ years of demonstrated excellence in leading teams and projects across Automation, Software design, Quality assurance,
+product development and innovation . Well organized, results oriented individual with proven ability to implement standards, procedures and
+processes that improves business functionality. Solid management skill, capable of leading and motivating individuals to maximize levels of
+productivity, While forming cohesive team environments. Exceptional communicator, focused on building strong client relationships.
+commitment to quality and service excellence with aptitude for launching new technology operations, including client relationships, policies
+
+and procedure, business processes , and SLA's.
+
+ACCOMPLISHMENTS
+
+10,000+ hours of project management
+
+- Consistently Exceeding in performance ratings year over year
+
+Excellence awards (Platinum/Gold) recognition on projects
+
+Implementation of standards that helped division in many successful OCC exams.
+Showed 100% Year over Year increase by driving and implementing 1500+ automated solutions In 2020.
+
+SKILLS
+------
+- Project Management ¢ Problem Resolution
+- Team Leadership e Training and Mentoring
+- Solution Design e Requirement Analysis
+- Technology Integration © Implement Best practices and Standards
+- Strategic Planning © Tools and Technology
+- Stakeholder Communications Informatica Powercenter 7.x to 10.x, Informatica DataQuality .Alteryx.
+
+AutoSys, UNIX, Linux, Python, Oracle, SQL Server, Hadoop, SFTP , SSRS, Tableau, Jira, BitBucket.
+
+WORK EXPERIENCE
+---------------
+
+Senior Audit Manager, 01/2017 - Current Mayer Hoffman Mccann P.C. - Uniontown, OH
+Currently managing a high performing team of technical auditors/consultants and maintaining an extensive technology infrastructure.
+The core responsibilities include
+
+- Provide end to end automation solution for the business auditors.
+
+- Is responsible for cost analysis and establishment of various tools and technology for the audit division and pilot use cases in those
+
+platforms.
+
+- Guide organizational technology strategy and roadmaps.
+
+- Adjust project plans to account for dynamic targets, staffing changes and operational specifications.
+
+- Contribute to policies, procedures and manuals governing internal IT use.
+
+- Closely collaborated with project members to identify and quickly address problems. Current Key Projects: Tech Roadmap: This is a multi-year initiative to enhance our technology, providing needed technology and personnel resources to accomplish prioritized projects. The objective of the project is to assess the current technology landscape for Corporate Audit and Credit Review (CACR) and design a framework to drive the technology vision for the next five years. The technology roadmap will help address pain points and drive a more integrated technology environment. Data Lake: working on an enhanced data storage solution for CACR to gather and analyze data in a centralized repository for a divers user group. This is currently built on Hadoop platform with multiple storage layers to support various data intakes. Audit Technology Laboratory: In response to employee feedback and in support of our Innovation Strategy, I designed and built a technology virtual Lab environment to provide an open and collaborative work space for audit users to learn new tools and technologies within a dedicated environment. The Lab is an integrated platform that will allow you to leverage a range of tools in the current technology ecosystem. Implementation of Automated Audit Testing: Continued implementation of continues audit automation testing to drive real time feedback to
+management on exceptions. Working on a stretched goal of 25% YoY growth from 2020 production.
+
+Senior Application Consultant (team lead), 04/2012 - 09/2017 Cognizant Technology Solutions - Fort Wayne, IN
+- Supervised team of developers for creation of new codes as per requirement in the system.
+- Interfaced with cross-functional team of business analysts, developers and technical support professionals to determine comprehensive list
+
+of requirement specifications for new applications.
+
+Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability solutions for
+
+mission-critical applications.
+
+Rapidly prototyped new data processing capabilities to confirm integration feasibility into existing systems.
+
+Stored, retrieved and manipulated data for close analysis for audit teams to perform point in time audit.
+
+Tested troubleshooting methods, devised innovative solutions, and documented resolutions for inclusion in knowledge base for support
+
+team use.
+
+Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client
+requirements.
+- Worked closely with software development and testing team members to design and develop robust solutions to meet client requirements
+
+for functionality, scalability and performance.
+
+Researched, designed and implemented scalable applications for data extraction, analysis, retrieval and indexing.
+
+ETL Informatica Developer, 01/2009 - 04/2012 Android Industries - Detroit, MI
+- Reviewed project requests describing database user needs to estimate time and cost required to accomplish projects.
+- Designed data models for complex analysis needs.
+- Developed database architectural strategies at modeling, design and implementation stages to address business or industry requirements.
+- Developed team communications and information for meetings.
+- Led projects and analyzed data to identify opportunities for improvement.
+- Developed and implemented performance improvement strategies and plans to promote continuous improvement.
+
+- Performed duties in accordance with all applicable standards, policies and regulatory guidelines to promote safe working environment.
+
+SQL Developer, 01/2006 - 10/2007 Bank Of America - City, STATE
+- Devised high-quality database solutions ranging in size and complexity, increasing productivity and improving data sharing.
+- Developed custom database objects, stored procedures and delivered application support.
+- Prepared memory management for database systems.
+- Built useful reporting deliverables to properly document analysis results and provide performance improvement feedback.
+- Analyzed existing SQL queries to identify opportunities for improvements.
+- Performed regular database backup.
+- Reviewed and interpreted business report requirements to address user needs.
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+- Generated, debugged and enhanced existing reports with introduction of new system features.
+
+EDUCATION
+---------
+
+Associate of Applied Science: Engineering Technology Bharathidasan University - Trichy, India
+
+ADDITIONAL INFORMATION
+
+Solid understanding of code design principles on various tools and technology.
+
+Extensively worked on high end ETL tools like Informatica Power Center
+
+Extensively worked on Data analytics tools like Informatica Data quality and sometimes Alteryx
+
+Sound understanding of Data Warehousing concepts and Dimensional Modeling (star/snowflake Schemas)
+
+Strong analytics and conceptual skills in database design and implementation of RDBMS concepts.
+
+Well experienced in Oracle / SQL Server database development using PL/SQL, Stored Procedure, Triggers, Functions and Packages
+Lead and implemented Hadoop, SQL Server, Oracle platforms and other storage and database solutions for the audit division.
+Lead and implemented ETL and reporting tools like Informatica Power center, Informatica Data Quality , SSRS and other technology
+platform for the division.
+
+Solid understanding of Python, UNIX, Linux and other programming language tools.
+
+Lead and implemented Scheduling tools Autosys and Others
+
+Integrated our Audit’s technology platforms to Enterprise tools and technology like Jira, Bitbucket, Jenkins and Ansible for code
+deployment and project management.
+
+CERTIFICATIONS
+--------------
+
+Informatica power center developer 9.x
+PMP - Project Management Professional ( 2018)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

@@ -1,0 +1,271 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+------
+
+- Oracle, SQL Server, XML, MS access, DB2
+
+- Informatica Power Center, Informatica B2B, Informatica Integration Cloud Service
+
+- SQL, PL/SQL, MY SQL, C, C++, VB script, XML, HTML, UNIX Shell Scripting, C# .net
+
+- Salesforce and Cloud Data Integration Patterns
+
+- Windows, Linux distributions, UNIX
+
+- Relational databases, Analysis and modeling
+
+- Agile and Waterfall methodologies
+
+EDUCATION AND TRAINING
+
+University
+Bridgeport, CT + 2010 Master degree: Electrical
+
+Vasad + 2007
+
+Bachelor Degree: electronics and communication
+
+SUMMARY
+-------
+
+9+ years of experience in Software Design, Development, Analysis, Testing, Data Warehouse and
+Business Intelligence tools.
+
+5+ years of experience in Data Warehousing using various ETL tools primarily Informatica.
+Experience in Informatica Integration Cloud Service to integrate on prem database with Salesforce
+cloud system.
+
+Experience in Informatica Developer toll to create or parse EDI files using Libraries.
+
+2 years of Experience on Oracle Warehouse Builder 10g R2
+
+Extensive knowledge with Dimensional Data modeling, Star Schema/snowflakes schema, process
+mapping using the top-down and bottom-up approaches, Fact and Dimension tables.
+
+Experience on various development platforms Windows NT 4.0/2000/xp/9 and RDBMS and Master data management with Oracle 18c/12c/11g/10g /9i/8i, SQL Server, DB2.
+
+Experience working with SDLC, RUP, Waterfall and Agile methodologies
+
+Experience in working with data warehouses and data marts using Informatica Powercenter
+10.4,10.0,9.x, 8.x, 7.x (Designer, Repository Manager, Workflow Manager, and Workflow Monitor).
+Experience in working with OWB (Oracle warehouse builder).
+
+Experience in working with Vertica database and Vertica tool.
+
+Experience developing Complex mappings using various transformations available in Mappings
+Designer also in setting up groups/users/permissions for Informatica users in Repository Manager.
+Experience with Type 1, Type2, Type3 Dimensions
+
+Experience with slowly changing dimension methodology and slowly growing targets methodologies.
+Solid experience with Database migration and data cleansing
+
+Experience with writing and executing test cases for data transformations in Informatica.
+
+Heavy experience in working with COBOL files, XML, and Flat Files
+
+Expert in Oracle development (PL/SQL, Forms, Reports)
+
+Experience in performance tuning of large warehouse jobs (Database level fine tuning, Sql optimization, Workflow/session/mapping optimizations).
+
+Extensive experience with Unix/Linux environments and writing UNIX shell scripts
+
+Ability to prioritize and execute tasks in a high pressure environment
+
+Experience in mentoring and providing knowledge transfer to team members, support teams and
+customers.
+
+Comprehensive problem solving abilities with an ability to deal with people diplomatically,
+Willingness to learn, team facilitator, quick learner and a hard worker with a positive attitude.
+
+WORK EXPERIENCE
+---------------
+
+Cox Communications Inc - Senior Informatica Developer
+Hutchinson, KS + 04/2017 - Current Unique Project Achievements: Salesforce Data Integration
+
+Oversaw deployment, configuration and documentation procedures of Salesforce Data Integration
+using Informatica Cloud and Power Center.
+
+Design the Patterns to load data from Oracle DB into Salesforce using IICS.
+
+Created Reusable Mappings and Templates to use Salesforce different types of Bulk or Standard
+Batch Loads features.
+
+Used Mapping and Synchronization Tasks based on use cases to support agile business process.
+Used Informatica Developer Tool to create JSON files and use webservice transformation to call
+different webservices to load data into vendor system.
+
+Unique Project Achievements: B2B for EDI Files
+
+Review the Companion Guide and functional requirement to create the technical specifications
+Document for overall ETL/Informatica process.
+
+Worked on process to generate 834 EDI file from relational database using B2B HIX Libraries.
+Involved in impact analysis of 837R transaction sets. and worked with claim data.
+
+Created several mappings to load the other files from the external vendor into the data warehouse.
+
+Other Common ETL/Informatica Tasks:
+
+Participated in requirement gathering, identified integration points, created verification
+documents such as high level and low-level documents.
+
+Participated in daily stand-ups for status updates and knowledge transfer with both Offshore and
+On-site teams.
+
+Follow agile methodology and Scrum and was involved in ETL design and participated in technical
+meetings, Effort estimations, backlog grooming etc.
+
+Designed Oracle Data Integrator ETL processes to collect and summarize data for reporting.
+Developed Informatica mappings using various transformations like update strategy, lookup, stored
+procedure, router, filter,sequence generator, joiner, aggregate, and expression transformations in
+extracting data in compliance with the business logic developed.
+
+Experience in using Informatica Workflow Manager and Workflow Monitor to schedule and monitor
+session status.
+
+Developed complex mappings also involving SCD Type-!, Type-I! and Type III mappings in Informatica to load the data from various sources.
+
+Performed extensive Unit testing and worked with testers in testing support and User acceptance
+testing of the developed codes.
+
+Analyzed the session and error logs for troubleshooting Data mappings and sessions.
+
+Implemented efficient and effective performance tuning procedures. created and validated
+different store procedures or PL-SQL queries for performance tuning. Used explanation plan to
+improve performance of SQL.
+
+Extensively used the Informatica Debugger for debugging the Mappings to check the Business rules
+implemented correctly or not.
+
+Worked on shell scripts to create different scripts as per requirements.
+
+Salient Crgt - ETL Developer
+Houston, TX + 12/2013 - 04/2017
+
+implemented various projects/interfaces to production, like Shared Health Product, ORS, Datametrix, MV3, MV25, E Comm.
+
+Provider and Accumulator Claims warehouse built.
+
+Analyzed the requirements and framed the business logic for the ETL process.
+
+Assisted in the creation and implementation of the business rules via stored procedures & database package.
+
+Used different Transformations like Lookup, Joiner, Rank and Source Qualifier Transformations in
+the Informatica Designer.
+
+Created complex mappings using Unconnected Lookup, Sorter, Aggregator, newly changed dynamic
+Lookup and Router transformations for populating target table in efficient manner.
+
+Write the ETL specification, create oracle procedure, Create mappings Using OWB 10gr2 to load
+data from multiple sources into the staging area.
+
+Written long SQL blocks for vertica database.
+
+Created Process flow, scheduled & monitored session.
+
+Fixed specs defects, technical coding defects such that the data loads properly as per business
+needs.
+
+Extensively worked with various Lookup caches like Static cache, Dynamic cache and Persistent
+cache.
+
+Worked with Session logs and Workflow logs for Error handling and troubleshooting.
+
+Responsible for Best Practices Implementation, Performance tuning at all levels and Error Handling
+methods.
+
+Developed Reusable Transformations and Reusable Mapplets.
+
+Wrote complex Procedures incorporating Exception Handling.
+
+Performed Data Analysis, Validation upon completion of the conversion as well as various stored
+procedures.
+
+Created various Oracle DB objects such as Indexes, Materialized Views, Synonyms, Constraints,
+triggers, Packages.
+
+Performed CDC and Implemented SCD.
+
+Participated in meetings, reviews, status updates with the Project Lead and Business Users.
+Written Data Validation Test Scripts to verify the data at the Sources and the Target.
+
+Designed and developed the ELT logic to Cleanse and transform the data in the target from various
+sources using Canonical tables.
+
+Developed various Oracle sub functions like Stored Procedures, Functions, and Packages using PL/
+SQL as per the Design Documents.
+
+Assisted in Migration of code between different environments and Provided Support.
+
+Created technical documents pertaining to ETL processes.
+
+Infosys Ltd - Informatica Developer
+Issaquah, WA + 08/2010 - 11/2013
+
+Gathered Business requirements from the end users and reporting team.
+
+Participated in the entire life cycle of the project, which involved understanding scope of the
+project, functionality, Data modeling, technical Architecture document, technical design and
+complete development.
+
+Extensively used ERWIN to design Logical/Physical Data Models, forward/reverse engineering,
+publishing data model to acrobat files.
+
+Designed and developed Operational Data Store, Slowly Changing Dimension, Staging areas etc.
+Designed Informatica Architecture for development, integration and system test environments.
+Involved in extraction of data from various sources like flat files, Oracle and SQL Server.
+Extensively used all the features of Informatica including Designer, Workflow manager and Repository Manager, Workflow monitor.
+
+Associated with design and development of around 40+ mappings.
+
+Extensively worked with SQL queries.
+
+Created Stored Procedures, packages, Triggers, Views using PL/SQL Programming.
+
+Optimized the performance of the Informatica mappings.
+
+Worked with new transformation like Java transformation, Transaction Control.
+
+Validated complex mappings involving Filter, Router, Expression, Lookup, Update Strategy, Sequence generator, Joiner and Aggregator transformations.
+
+Used debugger to test the mapping and fixed the bugs.
+
+Created and used Debugger sessions to debug sessions and created breakpoints for better analysis
+of mappings.
+
+Created mapping variables and parameters and used them appropriately in mappings.
+Extensively used all the features of Informatica 8.6 including Designer, Workflow manager and
+Repository Manager, Workflow monitor.
+
+Designed and developed several ETL scripts using Informatica, UNIX shell scripts.
+
+Implemented Slowly Changing dimension methodology (type 2) for warehouse tables.
+
+Did QA of ETL processes, migrated Informatica objects from development to QA and production
+using deployment groups.
+
+Analyzed the session logs, bad files and error tables for troubleshooting mappings and sessions.
+Involved in Performance Tuning at various levels including Target, Source, Mapping and Session for
+large data files.
+
+Developed validation queries which were also used to develop reports as specified by the users
+Extensively.
+
+Worked with the suite of Healthcare Applications such as Membership, Provider, Eligibility, Group,
+Product, Enrollment, Provider, Claims, Correspondence and Letters, Facilities, Customer.
+
+Also involved in conducting and leading the team meetings and providing status report to project
+manager.
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

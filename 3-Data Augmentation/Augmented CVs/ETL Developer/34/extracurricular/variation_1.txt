@@ -1,0 +1,382 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+CAREER OVERVIEW
+
+Disciplined, Committed, Highly-Motivated, Focused and Service-Driven ETL/Data warehousing Architect’ Developer/Analyst offering 10+
+years of IT experience with a track record of executing diverse facets of Data-warehousing & related Enterprise wide technologies in various
+
+industries like Financial services, Supply Chain, Consumer and Application development for both operational and decision support systems.
+
+QUALIFICATIONS
+
+Informatica PowerCenter/PowerMart 9.x, 8.x, 7.x), Oracle
+(O.E.M_) 91/81/7.x, MS SQL Server 2000/7.0/2005 (SSIS/SSRS/ SSAS), Business Objects 5.x/4.x/XI R2/R3.1 (Business Objects,
+Designer, Supervisor, Business Query, Business Miner, InfoView), Ab Initio, Oracle Warehouse builder.
+
+Extensive implementation of OLAP - Data Warehouse technologies using MS Analysis services (OLAP services, MDX),
+DTS, Oracle PL/SQL and through knowledge of database management concepts like conceptual, logical and physical data
+modeling and data definition, population and manipulation.
+
+Data modeling experience retaining concepts of RDBMS, OODBMS, ORDBMS and Multi Dimensional Data Modeling
+schema - MDDBMS (Star Join Schema, Snow-Flake Modeling, Facts and Dimensions, Data cubes).
+
+TECHNICAL SUMMARY
+
+ETL/ETT Tools: Informatica- PowerCenter (9.x/8.x/7.x), Power exchange, Power connect, Ab initio, SQL*Plus, SQL* Loader,
+ODBC, JDBC-ODBC Oracle Warehouse Builder, Microsoft Sql
+server (2000,2005,2008) -DTS/SSIS/SSRS/SSAS , CA (InfoPump/ Data Transformer), Pentaaho, Business objects data Integrator
+(BODI).
+
+Analysis/Reporting Tools: Business Objects , Business Objects (Crystal reports XI), Microsoft Analysis Services, MS SQL server
+2005 SSIS.SSAS,SSRS services, Oracle OLAP, Oracle Discoverer, Oracle Reports, and COGNOS.
+
+RDBMS: MS-SQL Server (retaining DTS, BCP), Oracle 8_x/ 91/ 10g, Oracle Enterprise Manager (O.E.M_), MS-Access, IBM-DB2
+UDB
+
+Data-Modeling: Visio, Developer 2000, AS Discoverer, Designer
+2000, DB Artisan, VERITAS, Oracle Warehouse Builder, Informatica PowerCenter/PowerMart 6.2, Business Objects 5.0,
+All-Fusion ER win, Toad, COGNOS
+
+Data-Mining: Business Miner, Business Query (Business Objects), PolyAnalyst 4.6 (Text Analyst & web Analyst), SAS (Base and
+EM- Enterprise Miner), KDD Suite (Knowledge Discovery in DataBases), Machine Learning and Self Organizing Feature Maps.
+Scripting: ASP. VBScript, JSP, JavaScript, Perl, PHP and CGI Languages: Java, C, C++, Pascal, PERL, Fortran, COBOL, SQL,
+T-SQL, PL/SQL, SQLJ, HTML, XHTML, DHTML, XML, DTD, XSL, CSS Java Script , VB Script, ASP 2.2, JSP
+
+Operating Systems: HP/UX, Sun Solaris UNIX, Red Hat LINUX,
+Windows XP/NT/98/95.
+
+TECHNICAL SKILLS
+----------------
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+Senior ETL Architect/Developer, 04/2014 - Current Bank Of Tokyo Mitsubishi BIMU - City, STATE
+
+As part of the SOA/DWH team, Have been working extensively on a major Core Banking initiative to replace legacy source systems which
+currently furnish the data needs of the bank's data regarding the Deals made by the bank like Money Market, Deposits, Forex, Swaps. Trade
+Finance, Commitments and Loans.
+
+Deals are primarily commercial Bank Instruments) Have been instrumental in Logical / Physical data modeling of Control database, Ref
+Data structures, Staging area for Data Cleansing and The Standard Layout tier for Data transformation.
+
+Have also played a significant role in Dimensional data modeling Of the Banks EDM (Enterprise Data marts).
+
+As part of the SOA team's AML/Compliance initiative have successfully implemented the capture of Client Movement and intra-day
+transactional activity.
+
+Designed ETL workflows/sessions/mappings for the daily data needs of Core Bank’s DWH.
+
+Designed and developed a Change data capture network for Source data Acquisition from various Internal and external data sources (Flat
+file, Data base, XML, and Web application interfaces).
+
+Worked on performance tuning of the existing ETL framework.
+
+Scheduled and Monitored workflows on the TIDAL server.
+
+Worked closely with the Business users, DMD (Data management Division), SME group (Subject matter expert) and the DBAs in
+modeling a Presentation layer for Outbound feeds and Reports.
+
+Designed and deployed highly customizable reporting views from the EDW & EDM to meet differing client needs individually.
+Technologies/Tools: DB2 UDB, Oracle 10g, ODBC, Informatica 8.6/9.1/, TIDAL, Unix (AIX), Sap Business Objects 4.1, Qlikview.
+
+Senior ETL Architect/Developer, 06/2010 - 02/2013 Barclays Wealth - City, STATE
+
+As part of Wealth Management Reporting Team, Have worked on providing Investment Representatives with consolidated performance
+reporting for their High-Net worth (HNW) clients.
+
+Was instrumental in Logical / Physical data modeling of the Shared data services (FCISDS) to house Firms ReffData for all legal entities
+from Barclays wealth and Legacy Lehman.
+
+Have also played a significant role in Dimensional data modeling for Data consolidation WMR core system.
+
+As part of the CDM team's FINRA 2111 initiative have successfully implemented capture of Client suitability data for Investment profiles.
+Designing Informatica workflows/sessions/mappings for the daily data needs for the WMR (Wealth management Reporting) online
+application.
+
+Designed and developed a Change data capture network for Source data Acquisition from various Internal and external data sources (Flat
+file, Data base, XML, and Web application interfaces).
+
+Working on performance tuning of the existing ETL framework for the firm's Investment catalog application(IC) based in BWA and
+EMEA.
+
+Scheduled and Monitored workflows on the server using shell scripts (K-shell) and Autosys.
+
+Worked closely with the Business users, RTB and the DBAs in modeling a Schema for Strategy-level performance reporting.
+
+Designed and deployed highly customizable reporting views from the ODR to meet differing client needs individually.
+
+Written Unix shells scripts and SQL-stored procedures to Significantly improved performance data quality Technologies/Tools: DB2 UDB,
+Oracle 10g, ODBC, Informatica 8.6/9.1/, Autosys, Unix (AIX), Java (JRE) 1.6.0.20, Jira 4.0, Mercury Quality Center, SVN, Perforce,
+
+Service Now.
+
+Senior ETL DW Architect/Developer, 08/2009 - 05/2010 Morgan Stanley - City, STATE
+
+Was Instrumental in designing the data model for a brand new application called the depth-charts for the firm's Metrics division (ISG
+operations).
+
+Extensively used All Fusion-ERwin for Logical / Physical data modeling (Transactional app.
+
+DB) and Dimensional data modeling for Learning Management systems & Talent Directory Data warehouses.
+
+Designing Informatica workflows/sessions/mappings for the daily data needs for the Depth charts online application.
+
+Designing a Change data capture network with a threshold check for the department which was used across Source data extraction
+processes for various applications (Talent Directory, Learning Management, Depthcharts).
+
+Working on performance tuning of the existing ETL framework for the firms Learning and management system (LMS).
+
+Scheduled and Monitored workflows on the server using shell scripts (K-shell) and Autosys JIL scripts and Netcool Alerts.
+
+Working on Java programs to handle services (calls) between the DB2 UDB online database (back-end) and Adobe Flex front end.
+
+The Service calls would parse the respective XML responses from the User or DB and would perform the needed Data manipulation.
+Working on Java Programs to connect to the Talent directory URLs and extract the Organization roll-up in XML format which were later
+de-normalized and published to the ISG metrics data warehouse.
+
+Use the in-built Replication and also CDC (change tracking approach) of the Sybase database for source data acquisition.
+
+Involved in building database maintenance stored procedures for the LMS online application (PL/SQL).
+
+Interacted with Management and the end-users to identify key Dimensions and Measures for business performance.
+
+Play a significant role in identifying the data needs for migrating the legacy smith barney student/supervisor portfolio from "citi" to the
+firms Talent Directory and the Firm's Learning application (Plateau) Created a Universe using Business Objects Designer, applied contexts
+and aliases to resolve cyclic dependencies and loops for the enhanced learning management systems data warehouse.
+
+Have worked Closely in training the End-users on how to use the canned Reports (using prompts) for User that were new to WEBI and had
+been using DESKI (As part of migrating all the reports from DESKI to WEBI) Technologies/Tools: Sybase 15_X(ASE), DB2 UDB .Oracle
+10g, ODBC, Informatica 8.6/7.3.1, Business Objects XI R3, Autosys, Perforce 4.0 web , Unix(AIX), Java (JRE) 1.6.0.20_Jira 4.0, Flex
+(Adobe Flash builder 4.0) with data services.
+
+Senior ETL DW Architect/Developer, 08/2009 - 05/2010 Morgan Stanley - City, STATE
+
+Have single handedly designing the data model for a brand new application called the depth-charts for the firm's Metrics division (ISG
+operations).
+
+Extensively use All Fusion-ERwin for Logical / Physical data modeling (Transactional app.
+
+DB) and Dimensional data modeling for Learning Management systems & Talent Directory Data warehouses.
+
+Designing Informatica workflows/sessions/mappings for the daily data needs for the Depth charts online application.
+
+Designing a Change data capture network with a threshold check for the department which was used across Source data extraction
+processes for various applications (Talent Directory, Learning Management, Depthcharts).
+
+Working on performance tuning of the existing ETL framework for the firms Learning and management system (LMS).
+
+Scheduled and Monitored workflows on the server using shell scripts (K-shell) and Autosys JIL scripts and Netcool Alerts.
+
+Working on Java programs to handle services (calls) between the DB2 UDB online database (back-end) and Adobe Flex front end.
+
+The Service calls would parse the respective XML responses from the User or DB and would perform the needed Data manipulation.
+Working on Java Programs to connect to the Talent directory URLs and extract the Organization roll-up in XML format which were later
+de-normalized and published to the ISG metrics data warehouse.
+
+Use the in-built Replication and also CDC (change tracking approach) of the Sybase database for source data acquisition.
+
+Involved in building database maintenance stored procedures for the LMS online application (PL/SQL).
+
+Interacted with Management and the end-users to identify key Dimensions and Measures for business performance.
+
+Play a significant role in identifying the data needs for migrating the legacy smith barney student/supervisor portfolio from "citi" to the
+firms Talent Directory and the Firm's Learning application (Plateau) Created a Universe using Business Objects Designer, applied contexts
+and aliases to resolve cyclic dependencies and loops for the enhanced learning management systems data warehouse.
+
+Have worked Closely in training the End-users on how to use the canned Reports (using prompts) for User that were new to WEBI and had
+been using DESKI (As part of migrating all the reports from DESKI to WEBI) Technologies/Tools: Sybase 15-X(ASE), DB2 UDB .Oracle
+10g, ODBC, Informatica 8.6/7.3.1, Business Objects XI R3, Autosys, Perforce 4.0 web , Unix(AIX), Java (JRE) 1.6.0.20.Jira 4.0, Flex
+(Adobe Flash builder 4.0) with data services.
+
+ETL DW Aanalyst\Lead Developer, 02/2009 - 07/2009 T-Mobile Corporation - City, STATE
+
+Extensively used All Fusion-ERwin for Logical / Physical data modeling and Dimensional data modeling, and designed Star join schemas
+for the National Data warehouse from the highly normalized insite source application (Core site data for the T-mobile towers) Have worked
+on complex Informatica mappings/mapplets/transformations for loading the data into targets using various transformations like Source
+Qualifier, Joiner transformation, Update Strategy, Lookup transformation, Rank Transformations, Expressions, Aggregator, and Sequence
+Generator.
+
+Created reusable transformations and mapplets to use the transformation logic in multiple mappings.
+
+Worked on Repository manager to create and manage user profiles.
+
+Scheduled workflows on the server using shell scripts(K-shell) Implemented performance tuning logic on targets, sources, mappings,
+sessions to provide maximum efficiency and performance.
+
+Have used the in-built Replication and also CDC (change tracking approach) of the sql sever database for source data acquisition (The
+pfimary sources for the warehouse were sql server instances).
+
+Involved in fine tuning queries for better performance ( includes indexing and pre-joining and materializing views) Interacted with
+Management to identify key Dimensions and Measures for business performance.
+
+Created reports using Crystal Reports XI.
+
+Created views and altered some of the dimensional tables to satisfy their reporting needs.
+
+Created Universes using Business Objects Designer, applied contexts and aliases to resolve cyclic dependencies and loops.
+
+Created reports like, Reports by site, Reports by Functional area, Reports by task, Demographic reports and Comparative reports.
+
+Used Polyanalyst 4.6 as a Mining tool to extract existing business rules and possible performance enhancers in case of cost savings,
+department and supplier wise purchase history.
+
+Technologies/Tools: SQLserver 2005/2008, Oracle 10g, ODBC, Informatica 8.6/7.1.4, Business Objects XI R2Tivoli task manager/
+scheduler, Polyanalyst, Unix (AIX).
+
+Sr. ETL Architect /Data warehousing programmer, 04/2007 - 11/2008 Cablevision Systems Corporation - City, STATE
+
+Played the role of a senior ETL architect of the FDR (Federated data Repository) team here at cablevision corp.
+
+Was responsible for Analysis and Design phases for housing application specific data in the warehouse for downstream reporting needs.
+Was Involved in the using Informatica Powercenter as an ETL approach to house the historic Cable data and Inventory (receiver, converter,
+modem repair data) from third party vendors Into the in-house CDR (central data repository).
+
+A need for high performance being the driver in the approach.
+
+Have worked with the data modeling team to ensure that the development provides the exact scope of the requirement.
+
+Have designed the source to target mapping specifications to push data from the external vendor sites to the in-house CDC, CDR and IM1
+Instances.
+
+Have laid out Technical specifications for the overall ETL processes for pushing the data to the target systems.
+
+Played a significant role in Technology! Methodology selection for numerous implementations.
+
+Was instrumental the migration of the Informatica tool set from version 7.1.4 to 8.6 Developed a standard ETL framework/Methodology to
+enable the sharing of similar logic across the board.
+
+Developed a standard API to generate AUDIT META DATA Reports from the Informatica repository on various ETL runs on a day by day
+basis.
+
+Developed generic and well-tuned Informatica mappings, which performed the needed ETL on the back-end.
+
+Have extensively used transformations like joiner, expression, aggregator, union, update strategy, filters, lookup, and stored procedures e.t.c
+to accomplish the needed transformation of the source data.
+
+Developed PL/SQL routines/packages to handle some of the transformation rules, which were later on embedded into the mappings as
+stored procedure calls.
+
+Developed Shell scripts on top of SQL blocks, stored procedures and Deployed Workflows as wrapper Shell scripts.
+
+Maintained documentation for all the phases of the project (S.O.N, Functional, and Technical specifications, Process Flow, Data Flow
+Source to target Mapping specifications, Release notes, Application support sheets and PRB documents).
+
+Technologies/Tools: Oracle 10g, ODBC, Informatica 8.6/7.1.4, Business Objects XI R2, IBM AS/400, DB2 9.1 UDB, SQLserver
+2005(SSAS,SSIS), Appworx scheduler, Trillum, Unix(AIX), MFX/Fairfax (Fairfax Financial Holdings Limited.
+
+ETL Development Lead/Associate, 07/2006 - 04/2007 MFX Fairfax - City, STATE
+
+Have independently worked on a brand new application called the (Large Property to Wins.).
+
+Oracle source to IBM AS/400, DB2 target systems.
+
+Played a Vital role in the Analysis and Design phases of the Large Property premium corrections process.
+
+Have individually designed the source to target mapping specifications to push data from the online Policy transactional system to the PFE.
+PFE which is a DB2 Policy front end).
+
+Have worked with a large Team of developers with an approach towards Standardization, Reusability, and Scalability of the ETL
+framework.
+
+Have laid out the core standards of implementation for the WINS policy systems.
+
+Performed source identification and mapping of the source to target with utmost care and frequent discussions with the Business systems
+Architect.
+
+Have Developed Technical specification for the overall ETL process for pushing the data to the target systems.
+
+Developed a standard ETL framework to enable the sharing of similar logic across the board.
+
+Developed generic and well-tuned Informatica mappings, which performed the needed ETL on the back-end.
+
+Have extensively used transformations like joiner, expression, aggregator, union, update strategy, filters, lookup, stored procedures e.t.c to
+accomplish the needed transformation of the source data.
+
+Developed PL/SQL, T-SQL, SQL routines to handle some of the transformation rules, which were later on embedded into the mappings as
+stored procedure calls.
+
+Developed Shell scripts on top of SQL blocks, Stored procedures and Deployed Workflows as wrapper scripts.
+
+Worked closely with the Autosys job scheduling team to schedule jobs on daily, weekly and monthly frequencies as needed.
+
+Worked closely with the Reporting team during the Business Objects Setup (XI R2) for the PFE (Policy Front End).
+
+Was also involved in the Technology upgrade process of converting legacy ETL (Infopump script based) processes into Informatica
+Mappings for Actuarial and the Billing divisions of the firm.
+
+Oracle source data was transformed and loaded to target DB2 platform.
+
+Maintained documentation for all the phases of the project (S.O.N, Functional, Technical specifications, Process Flow,Data Flow Source to
+target Mapping specifications, Application support guides) Technologies/Tools: Oracle 91 12, ODBC, AIX 5.x, Test Director 7.6,
+Informatica 8.1.1, Business Objects XI R2, IBM AS/400, DB2 9.1 UDB, SQLserver 2005, SSIS, OLAP service, Detail Striva, Infopump
+(Data Transformer), Autosys.
+
+Sr.ETL/BI Analyst, 2005 - 07/2006 JP Morgan Chase - City, STATE
+
+Card Datawarehouse Post JPMC-BankOne Merger) Developed a brand new application called the ADM (AUTH DATA MARTS) right
+from the stage when the idea was conceived.
+
+Performed Analysis and Design of the ADM with the Business system analysts.
+
+Played vital role in designing the conceptual, logical and the physical data models (Star Schema) needed to accommodate these data marts.
+Performed source identification and mapping of the source to target with utmost care and frequent discussions with the Business systems
+Architect.
+
+Developed generic and well-tuned Informatica workflows, which performed the needed ETL on the back-end.
+
+Have extensively used transformations like joiner, expression, aggregator, union, update strategy, filters, lookup, stored procedures e.t.c to
+accomplish the needed transformation of the source data.
+
+Developed PL/SQL routines to handle some of the transformation rules, which were later on embedded into the mappings as stored
+procedure calls.
+
+Developed Shell scripts on top of PL/SQL blocks, Stored procedures and Deployed Workflows as wrappers.
+
+Understood the existing reporting needs of the business and helped the BO team in designing their high performance queries (Canned and
+Ad hoc) to pull reports out of Credit Risk/Fraud databases.
+
+Technologies/Tools: Sql*Loader, Oracle 9112, JDBC-ODBC, AIX 5.x, Test Director 7.6, Harvest Change Manager, Informatica V 7.1 ,
+Business Objects XI R2.Ab Initio 1.1.6, Tivoli storage Manager, Tivoli Work manager.
+
+Oracle/Informatica Developer/Data Warehouse Developer, 06/2003 - 10/2004 Merrill Lynch - City, STATE
+
+Team member of the Merrill Lynch's Financial Globalization initiative (FGI) team and a significant part of the GL-Outbound team.
+Involved in building a Globalized Database Repository on an Oracle environment, primarily called, the FGI-GL (FGI-General ledger).
+Involved in analyzing the functional specifications, interacting with the end-users and designing corresponding technical specifications.
+Used Informatica client tools (Source analyzer, Warehouse Builder, Transformation Developer, Mapping Designer, Mapplet Designer) to
+create source/target definitions, mappings and sessions to extract, transform and load data into staging tables from various sources (flat file
+feeds from Australia, EMEA and Singapore) Used the Informatica server to run the workflows in the processes for extracting, cleansing,
+transforming, integrating and loading data into data warehouse database (Oracle GL interface).
+
+Worked on programs for scheduling workflow tasks (sessions) for transforming and loading source data.
+
+Designed PL/SQL procedures (packaged) for extraction of balances and transactions from corporate entities to feed the firm's FDB
+(Financial Database), which is an OLAP systems enabling Reporting and analysis on the front end.
+
+Involved in performance testing on the workflows and PL/SQL procedures that have gone live on to UAT (user acceptance testing phase)
+and to Production.
+
+Also involved in interactions with the batch scheduling team and the Autosys team, who scheduled most of the processes on the Remote
+UNIX Box.
+
+EDUCATION AND TRAINING
+
+Masters: Computer Science, 2003 University Of Louisiana - Lafayette, Louisiana
+
+Computer Science
+
+Bachelors: Technology, 1999 Osmania University College of Technology - Hyderbad, Andhra Pradesh
+Technology
+
+SKILLS
+------
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

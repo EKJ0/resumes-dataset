@@ -1,0 +1,170 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+- Over 7+ years of professional IT experience in Analysis, Design, Development, Testing. and Implementation of various Data Warehousing and Software Applications for Brokerage and Telecom sectors.
+
+- Extensively involved in ETL Development using IICS and Informatica Power Center 9.x/10.x.
+
+- Worked with IICS in GCP environment using the connectors for PostGreSQL to Oracle, Oracle to Big Query and using hierarchy builder in TICS to convert the structured data to Json and store it in Google Cloud Storage.
+
+- Strong knowledge in Data Architect and Modeling concepts including design of Conceptual, Logical and Physical data models, Entity- Relationship concept, Facts and dimensions tables and Dimensional Modeling (Star Schema and Snow Flake Schema).
+
+- Worked with slowly changing dimensions (SCD) Type1/2 dimension mappings and change data capture.
+
+- Hands on experience in identifying and resolving performance bottlenecks in various levels like mappings, sessions.
+
+- Hands on experience in optimizing SQL scripts and improving performance loading in data warehouse databases such as Oracle, PostgreSQL.
+- Very strong in writing SQL Joins, Nested Queries, Unions, Multi-table joins.
+
+- Good experience in performing and supporting Unit testing, System Integration testing (SIT), UAT and production support for issues raised by
+
+application users.
+
+SKILLS
+------
+- IICS, PowerCenter 9.x.10.x © Scrum, Agile Methods
+- Oracle, PostgreSQL, Big Query, Google Cloud Storage © SQL Developer, DBeaver
+- SQL, PL/SQL, Python, UNIX Shell Scripting ¢ CONTROL M, Autosys
+- GCP (Google Cloud Platform) ¢ Trello, IRA
+- Erwin Data Modeler e Data Analysis
+
+WORK EXPERIENCE
+---------------
+
+Sr ETL Developer, 10/2019 - Current
+
+Two95 International Inc. - Pasadena, CA
+
+Project Description :
+
+Think of ProsRent as the “Uber” of construction equipment. From Porto’s and dumpsters to aerial equipment, all the way to Earth moving
+equipment. There's a better way to rent construction equipment - one that utilizes technology to bring renters and suppliers together to do
+business fairly.
+
+Project Scope:
+
+Primarily responsible to connect multiple source systems (Order Life Cycle, Billing Management & Invoice Gen, Supplier and Inventory
+Management System, Notification Management System) in to datawarehouse with the effective Design, Development, Validation and Support
+activities to assure that it's producing values to our Business.
+
+Responsibilities:
+
+Worked with the business analysts and data analytics team to gather business requirements to be translated into design considerations.
+
+Identified and tracked the slowly changing dimensions (SCD)to capture the changes in heterogeneous sources and worked on Informatica
+Change Data Capture.
+
+Extracted the data from Order Life Cycle Management System from PostGreSQL and transformed the data in to Oracle database for the
+Invoice Generator application to produce automated Invoice.
+
+Through IICS, Converted mappings from PowerCenter and Created new mappings for Order Life Cycle Management System to get the
+data from PostGreSQL in GCP Cloud to On-Premises Oracle Datawarehouse.
+
+Extracted data from Oracle, PostGreSQL and loaded them into Oracle/Big Query/Google Cloud Storage.
+
+Created various Transformations like Joiner, Aggregator, Expression, Lookup, Filter, Update Strategy and Router etc.
+
+Monitored sessions that were scheduled, running, completed or failed.
+
+To retrieve the data from various tables to staging database, wrote SQL Queries and Optimized SQL scripts to improve performance while
+
+loading into datawarehouse.
+
+Worked on Documentation to describe program development, logic, coding, testing, changes and corrections.
+
+Participated in Enhancements meeting to distinguish between bugs and enhancements.
+- Worked with scrum master in an Agile team during development of data warehouse, data lake and cloud technologies. Environment: Informatica PowerCenter 10.1, IICS, Oracle 19c, PostGreSQL, UNIX, SQL Developer, Flat Files.
+
+ETL Developer, 02/2017 - 10/2019
+
+Children's Place - Brandon, FL
+
+Project Description :
+
+BrinksHome is a proven leader in the smart home security industries, BrinksHome is committed to providing powerful and reliable smart home
+security with fast alarm.
+
+Project Scope:
+
+Responsible for creating bundled customer, inventory, alarm notification into a single datawarehouse. Due to multiple mergers, BH has many
+ordering and inventory systems to process the alarms, thus we are tasked to connect multiple systems in to the datawarehouse to monitor the
+alarms, detect the dispatch workload and managing the inventory.
+
+Responsibilities:
+- Worked on building a datawarehouse logic for the sales, marketing, dispatch and inventory management departments of the organization.
+- Converted the business requirements into technical specifications for ETL process by populating data into datawarehouse.
+
+Developing as well as modifying existing mappings for enhancements of new business requirements mappings to load into staging tables
+and then to target tables in DWH.
+
+Transformed the data from multiple ordering/alarm systems (EoS,Order Manager, ADT Alarms) and loaded in to DWH to have the
+combined customer, inventory and alarm information across all the merged companies.
+
+Responsible for loading data - parsed the alarms data and pushed the data into target tables.
+
+Worked with Session Logs, and Workflow Logs for Error handling and
+
+troubleshooting.
+
+Actively used JIRA to track the status of the tasks , participated in code review with all integration team members and participated in
+review meetings with Engineering Manager to ensure that the development of projects meet business and system requirements.
+Environment: Informatica Power Center 9.6.1, ORACLE 11g, Python,Unix, ControlM
+
+ETL Developer, 01/2016 - 02/2017
+
+Children's Place - Bronx, NY
+
+Project Description :
+
+Frontier is a leading communications provider offering gigabit speeds to empower and connect millions of consumers and businesses in 25
+
+states. It is building critical digital infrastructure across the country with its 100% fiber-optic network and cloud-based solutions.
+
+Project Scope:
+Frontier acquisition of Verizon's California, Texas and Florida properties for 3.7M voice, 2.2M Broadband and 1.2M FiOS video connections
+brought the biggest conversion program. The team of data mappers and ETL developers has been assigned to convert this data from Verizon
+systems to Frontier system. I was responsible to convert the telecom provisioning data.
+Responsibilities:
+
+- Worked with the data mappers to collect the business requirements and base SQL's to be translated into Informatica mappings.
+
+- Responsible for analysis of Verizon data and integrate into frontier DPI system.
+
+Performed Source System Data analysis as per the Business Requirement. Distributed data residing in heterogeneous data sources is
+consolidated onto target Enterprise Data Warehouse database.
+Developed Mappings, Sessions, Workflows and SQL's to extract, validate, and transform data according to the business rules.
+
+Created various Transformations like Joiner, Aggregator, Expression, Lookup, Filter, Update Strategy and Router etc.
+Extensively worked on design, development and implementation of plant IF file loads such as IFLCS, IFLD, IFSMALT etc.
+
+Building the necessary staging tables and worktables on oracle development environment.
+Sourced the data from XML files, flat files and Oracle tables.
+Made substantial contributions in simplifying the development and maintenance of ETL by creating re-usable Mapplets and
+
+Transformation objects. Partitioned the sessions to reduce the load time.
+
+Implemented performance tuning for Informatica Sources, Targets, Mappings, transformations, Sessions, Pushdown optimization and
+Partitioning.
+
+Implemented incremental load logic to improve the time taken for entire mock conversions.
+
+wrote sql queries on AS400 for testing IF files.
+
+Designed and executed mock conversion runs every week using integrated workflows and pmcmd commands.
+- Monitored sessions that were scheduled, running, completed or failed. Environment: Informatica Power Center 9.6.1, AS400, ORACLE 11g. Python, Shell Scripting, ControIM.
+
+EDUCATION
+---------
+
+Master of Computer Applications: Computer Science, 05/2010 Holy Cross College - Trichy, India
+
+LANGUAGES
+
+English: Tamil:
+Negotiated: Negotiated:

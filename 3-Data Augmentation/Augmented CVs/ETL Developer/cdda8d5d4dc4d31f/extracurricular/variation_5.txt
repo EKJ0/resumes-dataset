@@ -1,0 +1,80 @@
+Brilie Kerek
+
+ETL Developer
+
+Results-driven ETL Developer with 2 years of experience in designing, implementing, and optimizing scalable data
+extraction, transformation, and loading processes. Proficient in SQL, data warehousing, and various ETL tools. Adept
+at collaborating with cross-functional teams, troubleshooting complex data issues, and delivering timely and accurate
+data solutions to drive business growth and decision making. Demonstrated ability to learn quickly and adapt to new
+technologies.
+
+brilie. kerek@gmail.com ©
+(668) 670-8331 @)
+
+WORK EXPERIENCE
+--------------- ETL Developer at C&A Industries, NE
+May 2023 - Present
+
+123 Elm Street, Lincoln, NE ‘ .
+é oO * Developed and implemented a new ETL process that increased data
+
+68508, USA integration efficiency by 40% within the first year, leading to a 15% reduction in processing time for critical business reports at C&A
+Industries, NE.
+Education * Successfully migrated 10+ legacy systems to a centralized data
+
+warehouse, resulting in a 30% improvement in data accuracy and a 20% reduction in data storage costs for the company.
+
+Trained and mentored a team of five junior ETL developers, helping
+them to improve their technical skills and achieve a 100% project completion rate within their first six months on the job.
+
+Bachelor of Science in Data Engineering at University of Nebraska-Lincoln, NE
+
+Aug 2017 - May 2021
+
+Relevant Coursework: Database Systems, Data Structures and Algorithms, Big Data Analytics,
+
+Associate ETL Developer at First National Bank of Omaha, NE
+Aug 2021 - Mar 2023
+
+Data Warehousing, Machine Learning, Data Integration, Cloud Computing, Data Visualization, and Distributed
+Systems.
+
+Talend
+
+Informatica
+
+DataStage
+
+Apache NiFi
+
+Microsoft SSIS
+
+Languages
+
+- Developed a custom ETL process that reduced data loading time by 40% and improved overall efficiency, enabling the bank to process over 1 million transactions daily without delay.
+
+Implemented data validation and error handling mechanisms that reduced data inaccuracies by 35%, ensuring reliable financial
+analysis and accurate business decision-making.
+
+Collaborated with a team of developers to design and implement a scalable and robust ETL architecture, supporting a 50% increase
+in the volume of data processed and improving data quality and consistency.
+
+Streamlined the bank's data integration processes, resulting ina 20% reduction in operational costs and contributing to an annual
+savings of $500,000.
+
+Certificates
+
+Microsoft Certified: Azure Data Engineer Associate
+Jun 2022
+
+Informatica PowerCenter Data Integration Certification
+Jul 2020
+
+Memberships International Association for Information and Data Quality
+
+(IAIDQ) The Data Warehouse Institute (TDWI)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

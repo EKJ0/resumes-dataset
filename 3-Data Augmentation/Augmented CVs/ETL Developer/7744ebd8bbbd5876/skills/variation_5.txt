@@ -1,0 +1,40 @@
+Basha Mail ID:basha0706@ gmail.com
+ETL Developer Mobile No: +91-9962539345
+
+> Having 3 years of Professional experience in ETL tool like IBM InfoSphere Datastage 9.1 and Adequate Knowledge in Data Warehousing concepts.
+
+> Extensively used ETL methodology for supporting Data extraction, transformation and loading processing, in a corporate-wide-ETL Solution
+
+> Experience in developing Datastage parallel jobs and Job sequence for calling jobs and sequencing data load.
+
+> Experience in code deployment (Export and Import jobs from UAT -OAT & OAT- PROD) by using SOX process
+
+> Experience in key stages such as Transformer, Join, Lookup, Sort, Aggregator, Copy, Funnel, CDC, Filter, Remove Duplicate, Sequential File, Dataset ete.
+
+> Experience in Debugging, performance tuning, and unit testing for Datastage jobs
+
+> Exposure in preparing Test Case Document for ETI. codes and naming convention for jobs, stages and change management process.
+
+» Having experience in implementing Slowly Changing Dimension (SCD) types in ETL using Datastage and exposure in Data warehouse concepts such as Dimension and Facts,
+Snow-Flake Schemas, OLTP and OLAP and Data marts.
+
+Experience in Datastage client components (Designer, Director and Administrator).
+
+> Expenence in Datastage Environment setup tn all environments such as DEV, TESTUAT,OAT & PROD.
+
+v
+
+v
+
+Worked in various operating systems like UNIX and Windows, > Experience in oracle database and UNIX commands.
+
+» Excellent team player with highly favorable interpersonal, multitasking, communication skills with hard working, fast learning and prioritizing capabilities,
+
+Educational Quatification M.CA from Anna University
+
+‘Acchnical Sommary
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

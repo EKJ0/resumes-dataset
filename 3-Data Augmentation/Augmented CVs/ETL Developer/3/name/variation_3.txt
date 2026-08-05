@@ -1,0 +1,197 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Lakisha Washington
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+Master's candidate with close to 4 years of experience as an ETL Developer and shell scripting and result
+oriented approach in agile environment. Articulate communicator & team builder possessing strong technical
+skills in analytics and automation.
+
+Hands on experience in development of Data Warehouses/Data Marts using Ab Initio Co OP. GDE,
+Component Library, Oracle and UNIX for mainly Banking/Financial/Insurance industries.
+
+Solid experience in Extraction, Transformation and Loading (ETL) mechanism using Ab Initio.
+Knowledge of full life cycle development for building a data warehouse.
+
+Proficient with various Ab Initio Parallelism and Multi File System (MFS) technique.
+
+Knowledge in translating business requirements into workable functional and non-functional
+requirements at detailed production level using Workflow Diagrams, Sequence Diagrams, Activity
+Diagrams and Use Case Modeling.
+
+Proficient in Software Design and Development with a solid background in Developing and Experience
+developing applications in Unix Environment.
+
+Highly motivated, dedicated, quick learner and Ability to co-ordinate effectively with development team,
+business partners, end users and management.
+
+Excellent written and oral communication skills to work in a globally distributed team and with results-
+oriented attitude.
+
+ETL Tools Scheduling Tools
+
+Ab-initio GDE 3.1.5, Co >Opsys (3.0 to2.15), Talend. AutoSys, Arow and Control-M
+
+Data Base Version Control Tool
+
+Oracle, Microsoft SQL Server, IBM DB2. EME, GIT.
+
+Operating System Defect Tracking Tool
+
+UNIX, Windows 7, Windows XP. Pac 2000.HP-Mercury Quality Center
+
+Languages Data Modeling
+
+SQL, PL/SQL, Unix shell scripting. Star Schema and Snowflake schema, Erwin tool.
+
+ETL DEVELOPER 01/2021 to CURRENT
+
+Salient Crgt | Fort Bragg, NC
+
+Extracted data from various sources like databases, delimited flat files.
+
+Extensively Used Ab Initio components like Reformat, Scan, Rollup, Join, Sort, Partition By key,
+Normalize, Input Table, Output Table, Update Table, Gather Logs and Run SQL for developing graphs.
+Implemented procedures for management of Ab Initio applications and Citrix servers.
+
+Developed and enhancement of Ab Initio Graphs and business rules using Ab Initio Functions.
+Performed validations, data quality checks and Data profiling on incoming data.
+
+Generated Configuration files, DML files, xfr files for specific Record format, which are used in
+components for building graphs in Ab Initio
+
+Developed various BTEQ scripts to create business logic and process the data using Teradata
+database.
+
+Involved in design of database and creation schemes and tables in normalized form.
+
+Extensively used Multi-load and Fast-load utilities to populate the flat files data into Teradata database.
+Performed evaluations and made recommendations in improving the performance of graphs by
+minimizing the number of components in a graph, tuning the Max Core value, using Lookup components
+instead of joins for small tables and flat files, filter the data at the beginning of the graph etc.
+Responsible for deploying Ab Initio graphs and running them through the Co-operating systems mp
+shell command language and responsible for automating the ETL process through scheduling.
+Generate SQL queries for data verification and backend testing. Detect and Correct Data Quality
+issues.
+
+Written stored procedures and packages on server side and developed libraries.
+
+Written UNIX scripts to perform certain tasks and assisting developers with problems and SQL
+optimization.
+
+Implemented phasing and checkpoint approach in ETL process to prevent data loss and to maintain
+uninterrupted data flow against process failures.
+
+Automate the complete daily, weekly and monthly refresh using custom build UNIX SHELL SCRIPTS.
+
+ETODEVELOPER 01/2020 to 01/2021 Salient Crgt| Fort Eustis, VA
+
+.
+
+Developed Ab initio Graphs in order to pull data from the mainframes systems and load them into Data
+Warehouse.
+
+Responsible for reading the Mainframe data by creating the DML and applying various business
+transformations and loading them in to EFS Datawarehouse.
+
+Extensively used Redefine, Reformat, Multi Reformat, Input table, Output table and Partition By
+Expression etc components in order to apply the business logic.
+
+Worked with production support team to debug issues in production and for migrations from pre prod to
+production
+
+Generated Configuration files, DML files, xfr files for specific Record format, which are used in
+components for building graphs in Ab Initio
+
+Provided support in Migration of Ab initio Jobs from RHEL 6 server to RHEL 7 server.
+
+Developed JIL files for automating the Ab initio graphs through AutoSys.
+
+Actively involved in writing the code in MySQL and in developing ETL Transformations using ETL tool.
+Developed alerts emails by using stored procedures to notify the users when a certain table is loaded.
+Created SQL Agent Jobs in order to perform various user tasks such as scheduling some T-SQL
+commands or command line statements.
+
+Generated SQL queries for data verification and backend testing. Detect and Correct Data Quality
+issues.
+
+Used inquiry and error functions like is_valid, is_defined, is_error, is_defined and string functions like
+string_substring, string_concat and other string_* functions in developing Ab Initio graphs to perform
+data validation and data cleansing.
+
+Responsible for designing and developing of the Ab Initio Graphs based upon the client requirement.
+Implemented phasing and checkpoint approach in ETL process to prevent data loss and to maintain
+uninterrupted data flow against process failures.
+
+Knowledge of checking the data flow through the front end to back end and used the SQL queries to
+extract the data from the database to validate it at the back end.
+
+Participating in the agile trainings and meetings as a part of the agile team.
+
+Created Functional Specific Documents (FSD), Business Requirement Documents.
+
+ETO DEVELOPER 08/2017 to 01/2020 Salient Crgt | Fort Lee, VA
+
+Developed and enhancement of Ab Initio Graphs and business rules in Ab Initio Functions.
+
+Providing Support in migration of Ab Initio Business logic in cloud by using SPARQL.
+
+Performed Data Profiling to assess the risk involved in integrating data for new applications, including
+the challenges of joins and to track data quality.
+
+Performing Data Validations between On Prem and Cloud.
+
+Write and modify several application specific scripts in UNIX in order to pass the Environment variables.
+Worked with data mapping from source to target and data profiling to maintain the consistency of the
+data.
+
+Involved in monitoring the Ab Initio jobs in and schedules through control M and Arrow.
+
+Worked with production support team to debug issues in production and for migrations from pre prod to
+production
+
+Developed Ab Initio graphs for Data validation using validate components like compare records,
+compute checksum etc.
+
+Worked with Wrapper scripting with UNIX Shell programming, Scheduling of Ab Initio jobs with Arow.
+Worked on testing AB INITIO jobs in DDE as well as in AIC (Ab initio in cloud), which was a part of the
+migration to cloud.
+
+Knowledge of checking the data flow through the front end to back end and used the SQL queries to
+extract the data from the database to validate it at the back end.
+
+Generated Quick Reports for users for data analysis on numerous occasions.
+
+Involved in setting up the routes in EFG (EXTERNAL FILE GATEWAY) tool for different vendors.
+Worked in various services in AWS like Step functions, lambda, EC2, S3, IAM, SNS.
+
+Created high level and low level technical design documents.
+
+Worked with production support team to debug issues in production and for migrations from pre-prod to
+production.
+
+Extensively used File management commands like m_Is, m_wce, m_dump, m_copy, m_mkfs etc.
+Responsible for cleansing the data from source systems using Ab Initio components such as reformat
+and filter by expression.
+
+Developed psets to impose reusable business restrictions and to improve the performance of the
+graph.
+
+Extensively used m_db commands to query the oracle databases for reporting purposes.
+
+Master of Science | Computer Science 05/2017
+
+University Of Central Missouri, Warrensburg, MO

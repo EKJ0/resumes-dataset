@@ -1,0 +1,226 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+------
+
+- Informatica 10.1 & 9.1
+
+- CA Workload Automation
+
+- Qlik Sense Jun 2019,
+
+- MSBISSRS 2008 R2
+
+- Business Objects 6.5 & XIR3.1
+- Oracle 11g & 10g
+
+- Teradata 15.10 & 16.20
+
+- Unix Shell Scripting
+
+- MKS Integrity Client
+
+- Data Quality Management
+- Data Analysis
+
+- Data validation, Reporting
+- Data Mining
+
+EDUCATION AND TRAINING
+
+Anna University
+Chennai, India + 05/2010
+
+Bachelor of Science: Electronics And Communications Engineering
+
+SUMMARY
+-------
+
+- Over 9 years of IT experience with expertise in analysis, design, development and implementation of Data warehousing applications using ETL and BI tools with Oracle and Teradata databases on windows/Unix platforms.
+
+- IT professional with experience in all phases of software development life cycle, with forte at successful project implementations - analyzing systems, understanding & defining requirements, development, technical designs & reviews and project planning.
+
+- Sound knowledge of Data Warehouse concepts with primary competency in Oracle, Teradata, SQL, Informatica Power Center, Unix Shell Scripting, Qlik Sense, Business objects, Microsoft SSRS and CA Workload Automation.
+
+- Strong Informatica technical knowledge in the areas of Informatica Designer Components - Source Analyzer, Warehouse Designer, Mapping Designer, Mapplet Designer, Transformation Developer, Workflow Manager and Workflow Monitor.
+
+- Expert in Teradata and Oracle SQL Concepts with 9 years of strong working experience in writing large/complex SQL queries.
+
+- Expertise in creating tables, triggers, macros, views, stored procedures, functions, Packages, joins and hash indexes in Teradata database. And worked with Teradata utilities like BTEQ, Fast Export, Fast Load, Multi Load to export and load data to/from different source systems including flat files.
+
+- Experience in Dimensional Data Modeling, Slowly Changing Dimensions Type |, Il & Ill, ODS, Star/ Snowflake Schema modeling, Fact & Dimension tables, OLAP & OLTP Systems.
+
+- Technically proficient in debugging and Performance tuning of existing mappings and SQL queries by analyzing the data flow and evaluating the architecture.
+
+- Extensive experience with Scrum and Waterfall software development methodologies
+
+- Involved in Data Analysis, Development and Implementation of Data warehouse, Technical trouble shooting, Business Intelligence, Data Governance, Application Development and Database Performance Tuning & Optimization.
+
+- Working Experience in UNIX Shell Scripting and knowledgeable on Python language
+
+- Clear documentation skills with working knowledge on creating Project deliverable documents like Functional Requirement Specifications, Detailed Design document, System Integration and Unit Test cases and Results.
+
+- Proactive and result-oriented Team Leader adept in mentoring and motivating dynamic teams.
+
+- Problem solver with a passion for technology; skilled in grasping the big picture, conceptualizing & implementing solutions & partnering closely with business leaders & stakeholders for enabling effective solutions leading to high customer satisfaction and low operational costs
+
+- An effective communicator with excellent relationship & interpersonal skills
+
+WORK EXPERIENCE
+---------------
+
+Microsoft Corporation - Sr Data Engineer
+
+Charleston, SC +» 02/2018 - Current
+
+- Requirement Analysis- Work with business team to understand requirement for each dashboard
+
+- Accountable for Business Requirement evaluation & analysis, determining project scope, system design and handling build and testing activities
+
+- Create Data Model and flexible design to expand Semantic layer for future scope
+
+- Used Informatica 10.1 PowerCenter for extraction, loading and transformation (ETL) of data.
+
+- Loading data from various data sources like Flat files, Teradata and Oracle into Teradata warehouse using Teradata Parallel Transporter, MULTI LOAD, FASTLOAD and ODBC Connections through Informatica PowerCenter.
+
+- Performance tuning, including collecting statistics, analyzing explains & determining which tables needed statistics. Increased performance by 40% in some situations.
+
+- Performed SQL tuning and Application tuning using various tools like EXPLAIN PLAN, and AUTOTRACE.
+
+- Development of several complex mappings in Informatica PowerCenter using a variety of transformations, Mapping Parameters, Mapping Variables, Mapplets & Parameter files in Mapping Designer.
+
+- Developed Advance SQL procedures, triggers, functions, Indexes to implement business logic in Teradata.
+
+- Written Pre and Post Session SQL command (DDL & DML) to create file lists and to execute shell scripts.
+
+- Examined the workflow log files and assigning the ticket to the Informatica support based on the error.
+
+- Extensive analysis and troubleshooting of data queries raised by Business.
+
+- Experience in developing Unix Shell Scripts for automation of ETL process.
+
+- Created File Transfer Protocol jobs to transfer files from vendor location to Informatica Unix server.
+- Creating complex views in Teradata for the usage of downstream BI Tools and Ad-Hoc reports.
+
+- Assigning and prioritizing tasks & enforcing project processes & policies; monitoring project results for significant deviations and ensuring adherence to quality standards and processes
+
+- Planning, directing, and coordinating activities of various project phases and delivering quality artifacts; formulating estimates and timelines for project activities
+
+- Analysis, design, implementation and execution of the Integration test cases
+
+- Configuration and Environment setup for Integration testing
+
+- Documentation of changes and integrating changes into existing operation documents.
+
+- Get approval from business for project deliverables.
+
+- Migration of ETL code and Database objects from development to QA and production environments by maintaining the versions through MKS Integrity client.
+
+- Performed post-production support and maintenance of ETL process.
+
+- Creation of Project deliverable documents like Functional Requirement Specifications, Detailed Design document, System Integration and Unit Test cases and Results
+
+- Developed various Ad-Hoc reports depending on custom requirements from Business
+
+Two95 International Inc. - Sr ETL Developer
+Alamo, CA + 01/2016 - 01/2018
+
+- Team lead for development, enhancement and support of Abbvie US Commercial systems - Sales and Marketing Data Warehouse, Care Model Data Warehouse and Real-World Data Warehouse.
+
+- Creation and Maintenance of complex ETL process to generate Incentive compensation extracts using the monthly prescription sales data as a source from IQVIA, Symphony and Specialty Pharmacies.
+
+- Developed complex Teradata SQL procedures, triggers and functions to implement Incentive compensation business logic in Teradata.
+
+- Development of several complex mappings in Informatica PowerCenter using a variety of transformations, Mapping Parameters, Mapping Variables, Mapplets & Parameter files in Mapping Designer.
+
+- Used Teradata utilities such as TPT Update, TPT Stream, Multi Load, Fast Load and ODBC connection to load the data into Teradata Tables using Informatica.
+
+- Development of Unix Shell Scripts for pre-processing of source files provided by data vendor.
+
+- Built an automated data validation tool with Teradata and Unix Server and saved clients in $10,000 in man hours every month.
+
+- Developed an elaborate ETL process to store sales, inventory, referral, claims and physician payor data of the AbbVie new product brands in Care Model Data Warehouse.
+
+- This provided insights on the activities and business behind new product launches.
+
+- SME for onboarding new datasets and vendor files into Care Model Data Warehouse and Real-World Data warehouse through Data Quality Management.
+
+- Involved in Business and Technical Requirement Analysis, co-ordinates with clients for design clarifications.
+
+- Migration of ETL code and Database objects from development to QA and production environments by maintaining the versions through MKS Integrity client.
+
+- Ran the workflows on a daily and weekly basis using CA Workload Automation tool.
+
+- Extensive Data analysis to address the data questions by Business.
+
+- Trouble shooting of existing ETL process and implement process and performance improvements.
+
+- Implementation of ITIL Service management in the managed services.
+
+Jpmorgan Chase & Co. - ETL Developer
+Newark, NJ +» 07/2012 - 01/2015
+
+- Team lead for Enhancement and Operational Support of Longitudinal Patient Data mart and Commercial Data Warehouse systems namely National Level Audits and Regional Sales Analytics.
+
+- SME for onboarding new data vendors into Data Quality Management (DQM) system.
+
+- Working with customer and technical resources to address business information and application needs.
+
+- Development of ETL processes to onboard specialty pharmacy provider data files into AbbVie Data Warehouse.
+
+- Developed UNIX Scripts to automate the pre-processing of multiple specialty pharmacy files.
+
+- Involving in Business and Technical Requirement Analysis by coordinating with Business Analysts and clients.
+
+- Translating requirements into logical data models and physical data models.
+
+- Playing a major role in Analysis, Design and implementation of the ETL architecture using Informatica 9.1.
+
+- Responsible for estimates given to client for new requirements.
+
+- Migration of ETL code and Database objects from development to QA and production environments by maintaining the versions through MKS Integrity client.
+
+- Ran the workflows on a daily and weekly basis using CA Workload Automation tool.
+
+- Extensive Data analysis to address various data questions by Business.
+
+- Trouble shooting of existing ETL process and Teradata stored procedure to implement process and performance improvements.
+
+- Automation of manual ETL process to reduce the operational costs.
+
+- Responsible for developing technical specifications from business requirements.
+
+- Understandings of the business requirement of external source systems and perform cleaning, standardization and generate match case and clusters.
+
+- Worked on System Integration Testing and User Application Testing of ETL process changes.
+
+- Project #4 Project Name: Transact Customization Client Abbott Laboratories.
+
+Ipss Corp - Programmer Analyst
+Princeton, NJ * 05/2010 - 06/2012
+
+- Involved in Business and Technical Requirement Analysis, Report development, Testing, Migration and Version Maintenance.
+
+- Coordinated with Onsite Technical Lead for design clarifications.
+
+- Worked with offshore team in understanding complex business requirements and communicated the technical aspects of business to the team which helped the team to work collectively for a better output in all phases.
+
+- Played a major role in driving the testing phase of the BI project which involved unit testing, system integration testing and User Acceptance Testing (UAT).
+
+- Played a key role in deployment and initial production phases for the application.
+
+ACCOMPLISHMENTS
+
+- Informatica Certified Power center Data Integration 9.x : Developer Specialist.
+
+- Certified Teradata V2R6 - Practitioner Level.
+
+- Certified - Domain expert in Life Sciences Industry Innovation Title - Data Integrity Framework (DIF).

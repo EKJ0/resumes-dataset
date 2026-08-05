@@ -1,0 +1,267 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+ACCOMPLISHMENTS
+
+Experience in Elastic Search Engine Lucene/Index based search, ELK log analytics tool, Elastic Search, Log Stash, Kibana Experienced in
+using Kafka/ZooKeeper as a distributed publisher-subscriber messaging system Involved in implementing data cleansing flow using Alteryx
+Design and implemented REST Web Services using Spring MVC which act as a middle layer to communicate between MongoDB and web
+application Used Memcached which advocates web app nodes to be independent and self-sufficient (Shared Nothing Architecture) Proficient in
+JAVA, Object Oriented Methodologies Good hands on experience working with Spring Data template, native Mongo JavaScript and shell
+commands Worked on InfiniDB to enable performance-intensive analytics on social media posts.
+
+Hands on experience in NoSQL technology like MongoDB (CRUD Ops, Indexing, Replication, Aggregation, Sharding, various ops manager
+activity) Experience in using Alchemy API to calculate the sentiment of the Social Media Posts.
+
+Hands on experience of writing JSON Rest services and creating batch job using Mule ESB Worked on Quartz scheduler using spring batch to
+schedule the data processing work flows in Mule ESB Involved in all phases of software life cycle like analysis, designing, development,
+testing, installing, configuring and maintaining applications Hands on experience in analyzing, optimizing, and tuning the performance of the
+application using Java Profiler (Yourkit, JAMon) Experience in delivering project using Agile Methodology Experience in a public cloud like
+Amazon (AWS EC2) RDBMS experience includes Oracle, DB2, PostgreSQL, MySQL and programming using PL/SQL, SQL Experience in
+automation and integration tool like Chef, Jenkins Good understanding in writing Python Scripts and Shell scripts Hands on experience in log
+monitoring tool like Splunk, Graylog.
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Over 10 Years of extensive experience in JAVA/J2EE including 3 years in Big Data and Analytics *Experience in full text search and feature
+implementation with multi-tenancy using Elastic search and Java ES API *Created data acquisition flow using Alteryx Tool to download raw JSON
+file from AWS S3 and ingested it in a MongoDB.
+
+SKILLS
+------ JAVA: J2SE: OOD, Threads, Collection, Junit, log4j), JAVA Mail J2EE: Spring MVC, Struts MVC, JDBC, Jackson, Tomcat, JSP.
+Servlet, Memcache
+
+Hadoop Ecosystem: Kafka, Zookeeper, MapReduce
+
+Web Services: Spring REST, Apache AXIS, Mule ESB REST
+
+SQL DB: Oracle, MySQL, PostgreSQL, DB2, InfiniDB
+
+NoSQL DB: MongoDB, Elasticsearch
+
+Web Technology: CSS, Java Script, JQuery, HTML, AJAX, Free marker template
+
+Tools: ANT, Maven, GIT, JMeter, Chef, Jenkins, LogStash, Kibana, Chef, Sensu
+
+Methodology: Waterfall, Agile (Rally)
+
+OS: Linux (Centos, Ubuntu), Windows
+
+WORK EXPERIENCE
+---------------
+
+MongoDB DBA, 08/2016 - Present Two95 International Inc. - Phoenix, AZ
+
+A360 is a collaboration tool that helps engineers and designers view, share, review, and find 2D and 3D design and project files in one central
+workspace.
+
+Keep your projects, files, and teams up to date, whether you're at the office or in the field.
+
+A PAAS based application called "Nitrogen" is being used to store all files/images/metadata which uses MongoDB as a primary data source.
+Responsibilities: Experience in performing Mongo DBA operational routines MMS configuration experience Configuring and monitoring
+replica sets Optimizing database/query performance Maintain MongoDB instances and infrastructure for a massive, high-throughput
+transactional system Troubleshoot performance optimization in MongoDB Backup and restore procedures for MongoDB databases using
+various backup strategies Participate in an on-call rotation In depth experience with MongoDB, replica sets, shards, and distributed databases
+Update and maintain MongoDB Chef for configuration changes Used Sensu for alerting mechanism Created scripts to identify missing Config
+entries, enable/disable balancer during balancer window Optimized Backup scripts Managed 9 Shards having more than 10TB of data Log
+monitoring and in depth analysis using Splunk.
+
+Bigdata ETL developer, 02/2015 - 08/2016 Cognizant Technology Solutions - Warrensville Heights, OH
+
+B2B-Signals is a next gen intelligence platform to achieve Faster, Scalable, SaaS based web based lead platform.
+
+As a part of the development we are doing data extraction’/text mining, automated ontology building, creating data repository and building BI
+visualization.
+
+Responsibilities: Implemented utility to download JSON files from AWS $3 buckets to MongoDB Design and Implemented REST web services
+(Spring, JAX-RS, Jersey) which adhere to SOA (Service Oriented Architecture).
+
+Through which each ETL pipeline process communicates with each other.
+
+Implemented completion analyzer in Elastic search for faster auto-suggest Integrated Kibana with Elasticsearch to analyze indexed data and get
+insight into the data in visual forms.
+
+Developed Map Reduce jobs in Python for data cleaning and data processing Responsible for continuous monitoring and managing Elastic
+cluster using Marvel Filtrating using Mongo Projection aggregation Written jobs of cleansing and normalizing contacts fetched from LinkedIn
+Association and Graph modeling of the contacts with the company using Alteryx flows Responsible for indexing processed data to MongoDB
+and Elastic Search to be used in WEB APP.
+
+Performance Tuning of the ETL steps (Java/JS) JavaScript optimization to load small sized Mongo collection in memory Performance Tuning
+of Elastic Search Indexing Created batch processing to enable parallelization Optimized code to index parallel using MongoDB Bulk API
+(Insert/Update) Used JQuery/D3_js to implement Function Org chart which describes organization hierarchy in form of sun burst chart.
+
+Peer code review using fabricator Analysis of the team code using Sonar Lint Used GIT to create and maintain code repository and to work
+effectively with team sitting at different location.
+
+Used Memcached as a Cache layer to store user information to improve web app response.
+
+Used Chef to automate deployment of property files on all Processing servers and Orchestrator server Worked on creating Python script to
+insert/update data in Elasticsearch Used Python script to validate output of ETL steps Used Java Executor Framework to implement
+multithreading while indexing data into Elasticsearch Comprehensive knowledge and experience in normalization/de-normalization, data
+extraction, data cleansing Log monitoring and in depth analysis using Graylog Environment: JAVA, Elastic Search, Kibana, Log Stash,
+MongoDB, Spring Mongo template, GIT, Spring MVC, REST services, Alteryx, JavaScript/JQuery, IntelliJ, Jenkins, Chef, Junit, Log4J,
+Phabricator, Sonar Lint, Graylog Client: American Big Data www.ambigdata.com.
+
+Big data developer, 01/2013 - 01/2015
+
+A Social Media tool provides sentiment and trending of keywords.
+
+It provides ability to user to search any keywords by specifying criteria and get posts, user detail, source information etc.
+
+relevance with that given keyword.
+
+It also allows user to monitor sentiment/trending of any keywords of his choice for which system will continuously collect data using batch
+process and process the data.
+
+Responsibilities: Participated in the requirement analysis and provide inputs on the technical feasibility.
+
+Involved in importing the real time posts/tweets from various data source like FB, Twitter, Google Plus to MongoDB using Kafka producer/
+consumer model.
+
+Involved in creating Mule ESB layer for the different component of the product Involved in creating Spring Quartz batch program which fetches
+data from the Social API for a given set of keywords Responsible for integrating different modules like Liferay, MongoDB, Alchemy, InfiniDB
+using JSON Rest services.
+
+Peer code review using Sonar code analyzer Automated build deployment using Jenkins Start/Monitoring Data extraction/processing jobs and
+fixing the blocker issues on priority basis Extensive experience in using MongoDB Bulk JAVA API for insert/update Extensively used Mongo
+Aggregation API for sentiment analytics Performance Tuning of the application using Java profiler Used Yourkit profile to identify slow
+methods Optimized Mule flows to use multiple threads using Java Executor Framework Developed and maintain several batch jobs to run
+automatically depending on business requirements Import and Export JSON data using MognoDB tool mongoimport, mongoexport Built
+relevancy of data using MongoDB text search functionality Used Shell scripting for Jenkins job automation Performance Tuning of the
+application using Java profiler Environment: Core JAVA, Mule ESB, REST services, Maven, Tortoise SVN, MongoDB, Alchemy API,
+InfiniDB, My SQL, Eclipse, D3.js, Jenkins Client: Rite Aid Pharmacy www-iteaid.com.
+
+Java Frontend/Backend developer, 07/2012 - 08/2013
+
+Portal offers its client's a facility to enroll in different types of programs like Wellness, Pharmacy, Shop, Photo, Load2Card etc.
+
+It allows user to locate store online and refill his prescriptions online.
+
+He can also avail different types of benefits under the programs offered by Client.
+
+User can also purchase medicine products offered by Amazon through his portal account itself.
+
+Responsibilities: Involved in daily client communications and demoing application to the client on weekly basis.
+
+Involved in working all the critical fixes that are found in testing.
+
+Delivered modules that meet budgeted time lines, productivity standards and process standards.
+
+Visited client in Philadelphia (PA, USA) to understand underlying back-end services of the application and transferred knowledge to the team
+within short time.
+
+During onsite visit, was responsible for gathering information about the client's existing back end services and providing daily update to the
+offshore team Involved in providing solutions to the client for any issues being generated during development of the front-end application to
+integrating it with the back-end services.
+
+Environment: Liferay 5.4, Spring MVC Portlets, Freemarker, JSP, Servlets, Java Script, JQuery, AJAX, HTML, Tomcat 6.0, MySQL 5, ANT,
+Eclipse 3.4, GIT Client: Global Compliance Services, Inc. www.globalcompliance.com.
+
+Java Frontend/Backend developer, 01/2011 - 06/2012 Comcast
+
+Global Compliance is a leading provider of integrated ethics and compliance solutions.
+
+Global Compliance (GC) offers its clients a product that integrates LMS administrative functionalities into an already deployed ethics and
+compliance portal product.
+
+Product empowers managers to create training programs, assign employees to the programs and track the progress of students against those
+training programs.
+
+Involved in development of LMS(Learning Management System) module by creating new portlets using plugin environment.
+
+Involved in analyzing the requirements, and identified the area where all customization is required.
+
+Involved in creating roles, assigning permissions to portlets, managing users, mapping roles to user using Liferay control panel.
+
+Did customization in hook.
+
+Extensively involved in creating Web services to integrate module with client's portal.
+
+Used JQuery and Ajax in development of portlets.
+
+Involved in working all the critical fixes that are found in testing.
+
+Delivered modules that meet budgeted timelines, productivity standards and process standards.
+
+Perform unit testing to meet product quality requirements as specified.
+
+Environment: Tomcat 6.0, SQL Server DB 2008. Java Script, JQuery, STL, AJAX, ANT, Struts 1.3 Protlets, JSP, Servlets, Spring 3.0,
+Hibernate 3.0, HTML, SOAP services, Eclipse 3.4, SVN, JIRA Client: Birla Sun Life Insurance www.birlasunlife.com Project: RWS - Receipt
+Writing System.
+
+Java Developer, 04/2009 - 12/2010
+
+RWS is an application by which agents do the receipting of various policies.
+
+Different Types of transactions like application entry, edit, upload of data, change for receipt timing at branches etc.
+
+are done through RWS.
+
+It also contains master module for giving access rights of various transactions and reports to the different branches.
+
+It makes the policy taking process fast for the policy holder.
+
+Responsibilities: Involved in analyzing the requirements, and identified the area where all customization is required.
+
+Extensively involved in enhancing the application as per requirements.
+
+Developed application service components and configured beans using Spring IoC, creation of Hibernate mapping files and generation of
+database schema Preparing technical and functional documents, design and development of the application.
+
+Deliver programs that meet budgeted timelines, productivity standards and process standards.
+
+Configured Hibernate framework with Spring MVC to provide more modularity in terms of DAO layer implementation Implemented an
+asynchronous, AJAX (JQuery) based rich client to improve customer experience Environment: JAVA, Spring MVC, Hibemate, JSP, Servlet,
+Oracle 91, DB2, Eclipse 3, Tomcat 6, JQueryd Project: Spool files generation of Notices and Letters.
+
+Java Developer, 10/2007 - 03/2009
+
+As the printing of letters and notices is being done by Third Party, we are providing spool files of all letters/notices to them.
+
+Spool file is a text file which is generated as an output of the program.
+
+It contains details for each policy in single line separated by pipeline character.
+
+Spool file is being generated for various letters like Policy Account Statement, Reminder Notice, Lapsation Notice, Pending Policy Letter,
+Renewal Letter, Overdue Letter etc.
+
+Responsibilities: Involved in analyzing the requirements, designing and developing the application.
+
+Have used LOG4j for debugging purpose.
+
+Involved in unit testing and critical bug fixing.
+
+L-Engineering Software Pvt.
+
+Ltd.
+
+Client: J M Wilson, Concorde General Agency, Insurance House, American Underwriting Managers, Distal Group (DART), USA.
+
+Software Engineer, 12/2005 - 09/2007
+
+This is an online web based application providing insurance to the Customers through Agents which are the end-users of the application hooked
+to particular Insurance Agency and provider's on-line quotation.
+
+Responsibilities: Deliver programs that meet budgeted time-lines, productivity standards and process Have used LOG4 for debugging purpose.
+Responsible for writing SQL Queries.
+
+Involved in writing POJOs and have used Java Script to handle client side validation.
+
+Involved in unit testing and critical bug fixing.
+
+WWw.cignex.com 6 www.cignex.com 6 www.cignex.com 6 www.cignex.com 6.
+
+EDUCATION
+---------
+
+Bachelor of Science: Computer Science, 2005
+
+Computer Science
+
+B.V.M
+
+Community College of Denver - GJ
+
+SCJP 5 *MongoDB Developer (M101J - 10gen education)

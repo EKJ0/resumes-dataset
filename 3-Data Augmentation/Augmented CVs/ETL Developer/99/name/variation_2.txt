@@ -1,0 +1,189 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+Greg Baker
+
+ACTIVITIES AND HONORS
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+Over 6 years of experience in designing, developing, and maintaining Business Intelligence (Bl) database
+applications using MS SQL Server 2019, 2016, 2014, and 2012 in Development, Test, and Production
+Environments. Experience in installation and configuration of SQL Server Database Engine and BI
+components with all the necessary security considerations. Experience in creating and maintaining Stored
+Procedures, Functions, CTE, Indexes, Tables, Views, Triggers, and other database objects using T-SQL.
+Experience in Performing T-SQL tuning and optimization of queries for ETL Packages and SSRS reports that
+take longer execution time using MS SQL Profiler, Index Tuning Wizard, and SQL Query Analyzer in MS SQL
+Server. Reporting Services Power BI /SSRS Report Gathered and translated business requirements and built-
+out insightful reporting solutions using Power BI. Created Power BI Reports and Dashboards using different
+types of Slicers and Visualizations like Bar Charts, Line Charts, Graphs, Pie Charts, etc. to make it more
+attractive and explore data in a variety of ways across multiple visualizations. Used DAX function to compute
+Calculated Columns and Measures. Implemented Row Level Security (RLS) Role to restrict users’ report
+datasets. Troubleshoot Power BI reports by identifying poorly performing measures, relationships and Visuals.
+Proficient in Microsoft SQL Server with the ability to write complex queries, and generate stored procedures to
+develop complex SSRS reports. Modified existing reports per the requirements and as per end users’
+requests when it is needed. Designed, maintained, and supported operational reports such as dashboards,
+charts, and KPI-based scorecards using Microsoft BI tools like SSRS, and Report Builder. Proficient in
+designing and developing Drilldown, Drill-through, and Sub-report using different data regions like Tabular,
+Matrix, and Charts using Visual Studio and/or Report Builder. Experience in deploying reports to a Report
+Server using Report Manager and SQL Server Data Tools (SSDT). Created and configured Standard and
+Data-Driven Report Subscriptions to render reports to end users. Troubleshot and maintained SSRS reports.
+Modified existing reports per the requirements and as per end users’ requests when it is needed. Data
+Integration Services (ETL/SSIS) Proficient in SQL Server Integration Services (SSIS) to design ETL Packages
+that extract data from various data sources such as CSV, Excel, XML, and databases such as SQL Server
+database, transform and load data into a staging database and data warehouse. Experience in creating
+Packages with a variety of transformations, such as Slowly Changing Dimensions, Lookup, Aggregate,
+Derived Column, Fuzzy Lookup, and Data Conversion. Experience in providing Logging, Error handling by
+using Event Handler, and Custom Logging for SSIS Packages. Created and configured SQL Agent Jobs,
+Alerts, and Scheduled SSIS Packages. Prepared Documentation for ETL processes involved in maintaining
+the database for future reference. Experience in designing and building Star Schema in Enterprise Data
+Warehouse and Data Marts using Kimball Data Warehouse methodology. Hands-on experience in designing,
+developing, and populating Dimension and Fact tables in the Data Warehouse. Designed and develop SSIS
+packages by Extracting data from different sources such as CSV, Excel, TXT, and other databases,
+transferring and loading to Enterprise Data Warehouse. Experienced in designing and building different types
+of Dimensions such as Roleplaying, slowly changing, confirmed, etc. Jessica A well-organized, highly
+motivated, goal-oriented, and creative contributor in a team environment with excellent analytical,
+troubleshooting, and problem-solving skills. Delivering projects prior to due dates and taking advantage of the
+knowledge of SMEs to achieve project expectations. Motivation to get a detailed understanding of the
+organization's business and where the Business Intelligence Solutions fit in. Worked in Agile System
+Development Life Cycle (SDLC) methodology project environments. Good ability to quickly grasp and master
+new concepts and technologies, and willing to learn new things.
+
+- TECHNICAL SKILLS e Reporting Tools: SQL Server Reporting Services
+- Databases: (SSRS), Power BI Server, and Services.
+
+- MS SQL Server 2019/2016/2014/2012. e Data Modeling Tools: ER Assistant, MS SQL
+
+- BI Tools: SQL Server Integration Services Server Database Diagram
+
+(SSIS), SQL Server Reporting Services (SSRS), © Project management tool: Jira, ServiceNow SQL Server management studio (SSMS), SQL e Version Control SVN, TFS, Git
+Server Data Tools (SSDT), and SQL Profiler. e Interpersonal Skills
+- Operating Systems: Windows XP/2007/ Server
+2010/server 2012
+- Programming Language: T-SQL, C++
+
+BUSINESS INTELLIGENCE SSRS/POWER BI DEVELOPER 12/2018 to CURRENT DentaQuest | City, STATE
+
+- Design and develop Power BI report and dashboard to explore data in a variety of ways across multiple visualizations
+
+- Installed and configured personal and enterprise gateways in Power BI service
+
+- Created views by joining multiple database tables and pulling them to create a power bi report
+
+- Resolved inconsistency, unexpected or null values, and data quality issues in the power query editor
+
+- Implemented Time Intelligence functions on power bi report using DAX
+
+- Used various data sources, such as SQL Server DB, Excel, etc
+
+- To pull data into Power BI desktop
+
+- Developed Power BI reports that provide clear visualizations of various market-specific KPIs
+
+- Developed new reports and maintained the existing reports
+
+- Modified different types of reports, such as Claim reports, Enrollment reports, and others
+
+- Design and Develop Parameterized, Cascaded, Ad hoc, drill down, Drill through, and Summary Reports using SSRS
+
+- Modified existing stored procedures that were embedded in the report dataset
+
+- Developed Stored Procedures to generate various drill-down and drill-through reports using different data regions, such as Tabular, Matrix, Bar graph, and Pie chart reports using SSRS
+
+- Worked closely with the offshore team in finding solutions to arising problems
+
+- Identify the associated Store Procedures and parameters used for the reports in order to fix bug smoke
+
+- Created SSIS package to extract, transform and load data from source systems to staging and EDW
+
+- Created error handling in the SSIS package in order to handle runtime error
+
+- Used various data transformations such as Conditional Split, Data conversion, Derived Column, Lookup, fuzzy lookup, Merge, OLEDB command, Multicast, and so on
+
+- Deployed SSIS packages to MSDB and scheduled those SSIS packages for an incremental load of Datamart.
+
+D/CM INTEGRATION ENGINEER ETL/SSIS/SSRS/POWER BI DEVELOPER 10/2017 to 11/2018 NIH | City, STATE
+
+- Designed and developed ETL packages to extract, transform and load data from various sources to Data warehouse using SQL Server Integration Services
+
+- Created complex SSIS packages using various data transformation components, such as Conditional Split, Derived column, Data conversions, Lookup, Row Count, etc
+
+- Maintained log information in SQL Server database to track Errors, and record package execution status
+
+- Troubleshoot when package failed
+
+- Prepared Documentation for ETL Packages for better reference and to make it easy to troubleshoot
+
+- Modified stored procedure that was returning incomplete records
+
+- Investigated and solved missing data that was leading the ETL process to fail
+
+- Investigated and enhanced performance issues on a stored procedure that took several minutes to a couple of seconds
+
+- Update stored procedure to nourish and maintain Historical Data in the Data warehouse
+
+- Wrote complex SQL queries and stored procedures to develop SSRS reports
+
+- Design and Develop Parameterized Reports, Sub-Reports, Drilldown-Reports, Drill through, and Summary Reports in SSRS
+
+- Created Dataset using complex SQL query for Tabular, Chart, and Matrix reports as per user requirements
+
+- Modified existing reports as per the requirements and end users' requests when it is needed
+
+- Created multi-parameterized and cascade reports using different kinds of data regions such as matrix
+
+- Created sub-reports to present more detailed information about the summary report
+
+- Developed and rendered monthly, weekly and daily reports as per the requirement, and make the user access reports quickly with respect to security in Report Manager
+
+- Design and develop Power BI report and dashboard to address business objectives and meet report requirements
+
+- Design and develop various Power BI reports using different types of visualizations, for instance, Tabular, Matrix, Dona chart, Bar Charts, Line Charts, Graphs, Pie Charts. etc
+
+- Created Calculated tables to summarize data using DAX
+
+- Applied Hierarchies to report visuals based on report requirements
+
+- Implemented Row Level Security Role to restrict dataset, so that, users can only see data pertaining to them based on report requirements.
+
+JUCIOR ETL/SSIS DEVELOPER 11/2016 to 09/2017 Ahmed, Elephant Insurance | City, STATE
+
+- Used SQL Server Integration Services (SSIS) to extract, transform and load (ETL) data to data warehouse from different sources like CSV, Excel, TXT, and database sources such as SQL Server database
+
+- Gathered business requirements from Actuarial, Claims, Accounting, and Database Marketing departments on new projects
+
+- Designed and develop ETL/SSIS Packages and Stored Procedures to load Dimension and Fact tables
+
+- Created Master ETL Package to call child ETL packages and deployed them on MSDB in Integration Services Server
+
+- Worked on failures and performance issues with the jobs that | own or assigned by the team lead
+
+- Used ETL to implement the Slowly Changing Dimension Transformation to maintain Historical Data in the Data warehouse
+
+- Designed new Dimensions and Facts and worked on the redesign of existing dimensions in the Enterprise Data Warehouse environment
+
+- Designed and developed ETL packages to extract, transform and load data to OLAP database using SQL Server Integration Services
+
+- Created ETL packages and used Analysis Services processing task to process the cube from SSDT
+
+- Designed and develop Fact and Dimension tables in OLAP system using T-SQL
+
+- Created SSIS package for File Transfer from one location to the other using FTP task
+
+- Created ETL Packages in SSIS with error handling and worked with different methods of logging in SSIS
+
+- Used SQL Server Agent to schedule ETL Package executions and troubleshot job failures
+
+- Prepared Documentation for all ETL Packages for future reference.
+
+BA Degree | Business Management 01/2007 Jimma University
+
+SQLPass

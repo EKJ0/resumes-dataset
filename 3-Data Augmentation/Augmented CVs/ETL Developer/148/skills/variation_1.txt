@@ -1,0 +1,251 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Over 7+ years experience in business intelligence profession well-versed in mining data, developing databases, database design,
+administration, generating reports with MS SQL Server 2008/2012/2014/2016 using SSIS, SSRS, SSAS (BI Tools) in Financial, Banking
+Industries and Supply Chain Management.
+
+SKILLS
+------
+- Business Intelligence Analysis e Data Visualization
+- SQL Server Management Studio (SSMS) e HTML and XML
+- ETL - SQL Server Integration Services (SSIS), TSQL-Stored © Office Tool- MS Word, MS Excel, MS Powerpoint, One Note, Procedures Visio
+- SQL Server Reporting Services (SSRS) e Requirements gathering
+- SQL Server Analysis Services (SSAS) e Data Warehousing
+- Data Modeling - Microsoft Visual Studio © Solution development
+
+WORK EXPERIENCE
+---------------
+08/2018 to Current Business Intelligence Developer
+
+Sequoia Benefits - San Francisco, CA
+
+- Processed and generated reports for the end business users on a daily, weekly, and monthly basis.
+
+- Developed and managed dashboards using Visual Studio.
+
+Collected data from wide-ranging sources, including MS SQL Server, MS Excel and Flat files.
+Experienced in working with many SQL queries using joins and date functions to generate various reports.
+Designed customized data collection models for specific visualization tasks.
+
+Developed drilldown, drill through, parameterized, and Ad hoc reports and charts using SSRS.
+
+Advanced extensible reporting skills using SQL Server 2016 reporting services (SSRS).
+
+Created many stored procedures/functions and used them in SSRS directly to generate ad-hoc reports.
+Created and modified all the needed stored procedures, user defined functions, scripts, and SSIS packages to
+extract, transform and load (ETL) the data from several data sources to MS-SQL server data warehouse.
+Formulated and documented the physical ETL process design based on business requirements and system
+
+specifications, including source to target mappings, transformations, lookups, aggregations and expressions.
+Designed SSIS packages to bring data from existing OLTP databases to the new data warehouse by performing
+different kinds of transformations like lookup transformations, merge joins, fuzzy look ups, derived columns,
+merge join, conditional split, data conversion with multiple data flow tasks.
+
+Created and implemented complex SSIS package to migrate data from multiple data sources for data analyzing,
+deploying and dynamic configuring of SSIS packages.
+
+Created complex SSIS packages using various transformations and tasks like Sequence Containers, Script, For loop
+and For Each Loop Container, Execute SQL/Package, Send Mail, File System, Conditional Split, Data Conversion,
+Derived Column, Lookup, Merge Join, Union All, flat file source and destination, OLE DB source and destination,
+
+excel source and destination etc.
+
+Worked with XML configuration files and variables for deploying SSIS packages into various environment.
+Transferred data from various OLTP data sources, such as Oracle, MS Access, MS Excel, Flat files, CSV files into
+SQL Server.
+
+- Organized Error and Event Handling by using Precedence Constraints, Break Points, Logging.
+
+- Involved in creating C# scripts using script task in SSIS
+
+- Performed efficient tuning of SQL source queries for data load/ Usage of stored procedures for performance.
+
+- Participated in AGILE iterative development methodology.
+
+- Participated in Quality processes such as design reviews, peer code reviews, version control and documentation.
+
+10/2017 to 02/2018 SQL BI Developer SSRS Reporting
+
+Rushmore Loan Management Services LLC - City, STATE
+
+- Prepared monthly ad hoc reporting in alignment with client needs.
+
+- Improved existing reporting by researching data sources, compiling data and designing output.
+
+- Gathered the requirements, creation/review of business, functional requirement documents for business systems, experience in database design process and data modeling process.
+
+- Interacted with users extensively in gathering the requirements and analyzing the needs of the end users .
+
+- Defined the report layout and identified datasets for the report generation.
+
+- Developed reports using complex T-SQL queries, user defined functions, stored procedures and views.
+
+- Conducted process interviews with stakeholders to obtain requirements for analysis and problem solving.
+
+- Designed Business Requirements Documents, Functional Specifications by conducting process interviews
+
+- Converted various SQL statements into stored procedures thereby reducing the Number of database accesses.
+
+- Created SSRS report projects in BI Visual studio and created, modified and managed various report models with multiple objects, source fields and expressions.
+
+- Developed various types of complex reports like Drill Down, Drill Through, Gauges, Pie Chart, Bar Chart, Sub- Reports
+
+- Developed drilldown, drill through, parameterized, and Ad hoc reports and charts using SSRS.
+
+- Designed and develop Dashboards and Reports using SSRS.
+
+- Wrote SQL queries and stored procedures to generate data for reports.
+
+- Deployed and scheduled Reports using SSRS to generate all daily, weekly, monthly and quarterly Reports including current status.
+
+- Participated in AGILE iterative development methodology.
+
+- Participated in Quality processes such as design reviews, peer code reviews, version control and documentation.
+
+02/2016 to 05/2017 SQL BI Developer- ETL SSIS
+
+Capital One Financial Corp - City, STATE
+
+- Gathered business requirements, definition and design of data source and data flows.
+
+- Develop technical design specifications and code specifications to meet business requirements/specifications.
+
+- Involved in Technical decisions for Functional requirements, Data Mapping, Data Directory. Interaction with Business Analysts, Client team, Development team
+
+- Interpreted business needs and developed code
+
+- Used SSIS to create ETL packages to validate, extract, transform and load data to data warehouse databases
+
+- Performed data extraction, transformation and loading (ETL) between systems using SQL tools such as SSIS
+
+- Extracted data from multiple sources including (Excel, SQL, etc.)
+
+Created SSIS packages to load customer information from flat file.
+
+Database development experience with Microsoft SQL Server in OLTP/OLAP environments using integration
+
+services (SSIS) for ETL (Extraction, Transformation and Loading).
+
+Database Administrative skills including, backups, recovery, database maintenance.
+
+Analyzed source system data to determine the data model and ETL solution that will meet business requirements.
+
+Formulated and documented the physical ETL process design based on business requirements and system
+
+specifications, including source to target mappings, transformations, lookups, aggregations and expressions.
+Designed SSIS packages to bring data from existing OLTP databases to the new data warehouse by performing
+different kinds of transformations like lookup transformations, merge joins, fuzzy look ups, derived columns,
+merge join, conditional split, data conversion with multiple data flow tasks.
+
+Created and implemented complex SSIS package to migrate data from multiple data sources for data analyzing.
+deploying and dynamic configuring of SSIS packages.
+
+Created complex SSIS packages using various transformations and tasks like Sequence Containers, Script, For loop
+and For Each Loop Container, Execute SQL/Package, Send Mail, File System, Conditional Split, Data Conversion,
+
+Derived Column, Lookup, Merge Join, Union All, flat file source and destination, OLE DB source and destination,
+
+excel source and destination etc.
+
+Worked with XML configuration files and variables for deploying SSIS packages into various environment.
+Transferred data from various OLTP data sources, such as Oracle, MS Access, MS Excel, Flat files, CSV files into
+SQL Server.
+
+- Organized Error and Event Handling by using Precedence Constraints, Break Points, Logging.
+
+- Involved in creating C# scripts using script task in SSIS
+
+- Performed efficient tuning of SQL source queries for data load/ Usage of stored procedures for performance.
+
+- Participated in AGILE iterative development methodology.
+
+- Participated in Quality processes such as design reviews, peer code reviews, version control and documentation.
+
+02/2011 to 01/2016 Data Reporting Analyst - SQL Server/SSRS/SSIS ETL
+
+EpucatIon
+
+12/2014
+
+CERTIFICATIONS
+--------------
+
+Bank Of America - City, STATE
+
+Gathered business requirements, definition and design of data source and data flows.
+
+Develop technical design specifications and code specifications to meet business requirements/specifications.
+Involved in Technical decisions for Functional requirements, Data Mapping, Data Directory. Interaction with
+Business Analysts, Client team, Development team
+
+Interpreted business needs and developed code
+
+Created SSRS report projects in BI Visual studio and created, modified and managed various report models with
+multiple objects, source fields and expressions.
+
+Developed various types of complex reports like Drill Down, Drill Through, Gauges, Pie Chart, Bar Chart, Sub-
+Reports
+
+Developed drilldown, drill through, parameterized, and Ad hoc reports and charts using SSRS.
+
+Designed and develop Dashboards and Reports using SSRS.
+
+Wrote SQL queries and stored procedures to generate data for reports.
+
+Deployed and scheduled Reports using SSRS to generate all daily, weekly, monthly and quarterly Reports
+including current status.
+
+Used SSIS to create ETL packages to validate, extract, transform and load data to data warehouse databases
+Performed data extraction, transformation and loading (ETL) between systems using SQL tools such as SSIS
+Extracted data from multiple sources including (Excel, SQL, etc.)
+
+Created SSIS packages to load customer information from flat file.
+
+Database development experience with Microsoft SQL Server in OLTP/OLAP environments using integration
+services (SSIS) for ETL (Extraction, Transformation and Loading).
+
+Database Administrative skills including, backups, recovery, database maintenance.
+
+- Analyzed source system data to determine the data model and ETL solution that will meet business requirements. Formulated and documented the physical ETL process design based on business requirements and system
+
+specifications, including source to target mappings, transformations, lookups, aggregations and expressions.
+Designed SSIS packages to bring data from existing OLTP databases to the new data warehouse by performing
+different kinds of transformations like lookup transformations, merge joins, fuzzy look ups, derived columns,
+merge join, conditional split, data conversion with multiple data flow tasks.
+
+Created and implemented complex SSIS package to migrate data from multiple data sources for data analyzing,
+deploying and dynamic configuring of SSIS packages.
+
+Created complex SSIS packages using various transformations and tasks like Sequence Containers, Script, For loop
+and For Each Loop Container, Execute SQL/Package, Send Mail, File System, Conditional Split, Data Conversion.
+
+Derived Column, Lookup, Merge Join, Union All, flat file source and destination, OLE DB source and destination,
+
+excel source and destination etc.
+
+Worked with XML configuration files and variables for deploying SSIS packages into various environment.
+Transferred data from various OLTP data sources, such as Oracle, MS Access, MS Excel, Flat files, CSV files into
+SQL Server.
+
+- Organized Error and Event Handling by using Precedence Constraints, Break Points, Logging.
+
+- Involved in creating C# scripts using script task in SSIS
+
+- Performed efficient tuning of SQL source queries for data load/ Usage of stored procedures for performance.
+
+- Participated in AGILE iterative development methodology.
+
+- Participated in Quality processes such as design reviews, peer code reviews, version control and documentation.
+
+Associate of Arts Collin College - Plano, TX
+
+Microsoft SQL Server Data Analytics- Business Intelligence Applications Colaberry School of Data Science & Analytics
+Credential ID: 10080-2019-32347-46538277
+
+Nov 2019

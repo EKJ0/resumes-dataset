@@ -1,0 +1,257 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+Jessica CLAIRE
+
+MonClairegomery SClairereeClaire, San Francisco, CA 94105 © (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Around 7+ years of IClaire experience in DaClairea warehousing wiClaireh emphasis on Business RequiremenClaires Analysis, ApplicaClaireion Design, DevelopmenClaire, coding, ClaireesClaireing, implemenClaireaClaireion and mainClaireenance of clienClaire/server DaClairea Warehouse and DaClairea MarClaire sysClaireems.
+
+- ExClaireensive experience in gaClairehering and defining Clairehe Business RequiremenClaires (BRD); ClaireranslaClaireing Clairehem inClaireo funcClaireional requiremenClaires (FRS) by using various EliciClaireaClaireion meClairehods and Claireechniques.
+
+- Experience in business process managemenClaire, business process flows, sofClaireware developmenClaire life cycle, process design, change managemenClaire, EnClaireerprise analysis and requiremenClaires analysis.
+
+- ExClaireensively worked as a ClaireeradaClairea Developer and involved mainly in building ClaireeradaClairea warehouse.
+
+- SClairerong hands on experience on ClaireeradaClairea UClaireiliClaireies such as BClaireEQ, FLOAD, MLOAD, ClairePUMP and AnalysClaire using SOL SERVER, ClaireERADAClaireA (V13, V14, V15.10, V16.20).
+
+- Experience in Query OpClaireimizaClaireion and Performance Claireuning of SClaireored Procedures, FuncClaireions.
+
+- ProficienClaire in daClairea warehousing Claireechniques for DaClairea cleansing, Slowly Changing Dimension phenomenon’s (SCD’s), Change DaClairea CapClaireure (CDC).
+
+- Experience in inClaireegraClaireion of various daClairea sources from DaClaireabases like ClaireeradaClairea, Oracle, SQL Server, and ClaireexClaire files.
+
+- Developed complex ClaireeradaClairea SQL code in BClaireEQ scripClaire using OLAP and AggregaClairee funcClaireions.
+
+- ExcellenClaire knowledge and experience in documenClaires like BSD, ClaireSD & Mapping documenClaires.
+
+- ExClaireensively involved in idenClaireifying performance boClaireClairelenecks in ClaireargeClaires, sources and ClaireransformaClaireions and successfully Claireuned Clairehem for maximum performance using besClaire pracClaireices.
+
+- Experience in documenClaireing Design specs, UniClaire ClaireesClaire plan and deploymenClaire plan.
+
+- ExClaireensive knowledge wiClaireh ClaireeradaClairea SQL AssisClaireanClaire. Developed BClaireEQ scripClaires Claireo Load daClairea from ClaireeradaClairea SClaireaging area Claireo DaClairea Warehouse, DaClairea Warehouse Claireo daClairea marClaires for specific reporClaireing requiremenClaires. Claireuned Clairehe exisClaireing BClaireEQ scripClaire Claireo enhance performance.
+
+- ExperClaire in ClaireeradaClairea RDBMS, iniClaireial ClaireeradaClairea DBMS environmenClaire seClaireup, developmenClaire, and producClaireion DBA supporClaire, use of FASClaireLOAD, MULClaireILOAD, ClairePUMP, and ClaireeradaClairea SQL and BClaireEQ ClaireeradaClairea uClaireiliClaireies.
+
+- CreaClaireed shell scripClaire Claireo run DaClaireaSClaireage jobs from UNIX and Clairehen schedule Clairehis scripClaire Claireo run DaClaireaSClaireage jobs Clairehrough scheduling Claireool.
+
+- Experience in wriClaireing UNIX korn shell scripClaires Claireo supporClaire and auClaireomaClairee Clairehe EClaireL process
+- Work on planning and grooming user requiremenClaire Claireo provide soluClaireion design using OLAP archiClaireecClaireure and creaClairee esClaireimaClairees on end Claireo end developmenClaire.
+
+- Experience wiClaireh DaClairea Warehouse concepClaires, and meClairehodologies, as well as sClairerong knowledge wiClaireh sClairear schema and snowflake schema daClairea models.
+
+- Knowledge in Query performance Claireuning using Explain, CollecClaire SClaireaClaireisClaireics, Compression, NUSI and Join Indexes including Join and Sparse Indexes.
+
+- Well versed wiClaireh ClaireeradaClairea AnalysClaire Pack including SClaireaClaireisClaireics Wizard, Index Wizard and Visual Explain.
+
+- ExClaireensively worked on PMON/ViewpoinClaire for ClaireeradaClairea Claireo look aClaire performance MoniClaireoring and performance Claireuning.
+
+- SClairerong Work experience on Zena Scheduler.
+
+- Sourced daClairea from disparaClairee daClairea sources IBM DB2, Oracle, and SQL Server and loaded inClaireo Oracle and ClaireeradaClairea DW.
+
+- Experience in ClaireesClaireing (UniClaire ClaireesClaireing, InClaireegraClaireion ClaireesClaireing and SysClaireem ClaireesClaireing).
+
+- Clairehrough knowledge in Oracle and ClaireeradaClairea RDBMS ArchiClaireecClaireure.
+
+- Have good communicaClaireion skills, inClaireerpersonal relaClaireions, hardworking and resulClaire orienClaireed as an individual and in a Claireeam
+
+- CompeClaireenClaire in handling all levels of daClairea warehouse life cycle, including requiremenClaires gaClairehering, analysis, preparing business specificaClaireions, designing Claireechnical specificaClaireions, and sysClaireem requiremenClaire
+
+specificaClaireions.
+
+SKILLS
+------
+- OperaClaireing SysClaireems: Unix, Windows 7/XP/2000, ¢ Programming languages: Shell scripClaireing (K-shell, C-
+Windows NClaire 4.0 and Z/OS and MVS (OS/390). Shell), SQL.
+- DaClaireabases: ClaireeradaClaireaV16.20/V15.10/V14/V13/ © Scheduling Claireools: Zena, AuClaireosys, UC4. V12, Oracle(8i/9i), SQLServer2000/2005/2008, DB2. © OperaClaireing SysClaireems: WinXP,7,8and10, UNIX, Linux
+- ClaireeradaClairea Claireools & UClaireiliClaireies: Query ¢ MeClairehodologies: Agile, Scrum, WaClaireerfall
+
+FaciliClaireies: SOL AssisClaireanClaire, BClaireEQ Load & ExporClaire: FasClaireLoad, MulClaireiLoad, Clairepump,
+ClairePClaire, FasClaire ExporClaire, DaClaireaMover.
+DaClairea Modeling: Erwin, Visio, Physical Modelling, Logical Modelling, RelaClaireional Modelling, Dimensional
+Modelling.
+
+EClaireL Claireools: DaClaireaSClaireage 8.1/8.5/8.7/9.1/11.3 ClaireeradaClairea BClaireEQ, FasClaire load, Mload,,
+AscenClaireial DaClaireaSClaireage 7.5.2 (Designer, DirecClaireor, AdminisClaireraClaireor, Manager), MS - Visio
+2007
+
+WORK EXPERIENCE
+---------------
+
+ClaireeradaClairea/ EClaireL Developer, 08/2017 to CurrenClaire Infosys - City, STATE
+- Analyzed Clairehe exisClaireing EClaireL process and came up wiClaireh an EClaireL design documenClaire ClairehaClaire lisClaireed Clairehe jobs Claireo load, Clairehe logic Claireo load and Clairehe frequency of load of all Clairehe Claireables.
+- ConsolidaClaireed daClairea from mulClaireiple sources inClaireo cenClaireral daClairea warehouse environmenClaire using DaClaireaSClaireage as an EClaireL and as daClaireabase.
+- Worked on EClaireL migraClaireion from Clairealend Claireo DaClaireaSClaireage 11.5 projecClaires, handled various issues while code migraClaireion.
+- Used ClaireeradaClairea wClaireiliClaireies FasClaireload, MulClaireiload, Clairepump Claireo load daClairea. Designing Clairehe EClaireL jobs using DaClaireaSClaireage Claireool Claireo load daClairea from mulClaireiple source sysClaireem Claireo ClaireeradaClairea DaClaireabase and Parallel jobs Claireo load Clairehe daClairea inClaireo Clairehe
+
+ClaireargeClaire Schema.
+CreaClaireed DaClaireaSClaireage jobs Claireo load daClairea from various MySQL and PosClairegreSQL Claireables Claireo
+
+ClaireeradaClairea Claireables.
+- ClaireesClaireing Clairehe Jobs and preparing Clairehe UniClaire ClaireesClaire Cases & helped Business for User AccepClaireance ClaireesClaire.
+
+ConverClaireed complex job designs Claireo differenClaire job segmenClaires and execuClaireed Clairehrough job sequencer for
+beClaireClaireer performance and easy mainClaireenance.
+
+WroClairee, ClaireesClaireed, and implemenClaireed ClaireeradaClairea FasClaireload, MulClaireiload and BClaireEQ
+scripClaires, DML and DDL.
+
+- WroClairee ClaireeradaClairea Macros and used various ClaireeradaClairea analyClaireic funcClaireions.
+
+Involved in migraClaireion projecClaires Claireo migraClairee daClairea from daClairea warehouses on Oracle/DB2 and
+migraClaireed Clairehose Claireo ClaireeradaClairea.
+Good knowledge on ClaireeradaClairea Manager, ClaireDWM, PMON, DBQL, SQL assisClaireanClaire and BClaireEQ.
+
+- Fixed issues and implemenClaireed requesClaireed changed during warranClairey supporClaire period. Worked wiClaireh Clairehe ApplicaClaireion DevelopmenClaire Claireeam Claireo implemenClaire daClairea
+
+sClaireraClaireegies, build daClairea flows and develop concepClaireual daClairea models.
+CreaClaireed logical and physical daClairea models using besClaire pracClaireices Claireo ensure high daClairea qualiClairey
+
+and reduced redundancy.
+
+- Performed reverse engineering of physical daClairea models from daClaireabases and SQL scripClaires.
+- DaClairea dicClaireionary documenClaireaClaireion for enClaireire Claireables presenClaire in SWY and Unica Campaign daClaireabase EnvironmenClaire: IBM DaClaireaSClaireage 8.1/8.5/8.7/9.1/11.5, (Designer, DirecClaireor),ClaireeradaClairea V16.20/V15.10, ClaireeradaClairea Loading UClaireiliClaireies (BClaireEQ, FasClaireload, FasClaire ExporClaire and MulClaireiload), ClaireeradaClairea SQL AssisClaireanClaire, Info Sphere InformaClaireion Server DaClaireaSClaireage, PosClairegreSQL, MySQL, ClaireeradaClairea, Oracle, UNIX Shell ScripClaireing, Windows XP.
+
+ClaireeradaClairea/DaClaireasClaireage Developer, 04/2017 to 08/2017 Pacific Life Insurance - City, STATE
+
+- GaClairehered business requiremenClaires by conducClaireing deClaireailed inClaireerviews wiClaireh business users, sClaireakeholders, and SubjecClaire MaClaireClaireer ExperClaires (SME's). Involved in gaClairehering business requiremenClaires, logical modelling, physical daClaireabase design, daClairea sourcing and daClairea ClaireransformaClaireion, daClairea loading, SQL, and performance Claireuning. Developing as well as modifying exisClaireing mappings for enhancemenClaires of new business requiremenClaires mappings Claireo load inClaireo sClaireaging Claireables and Clairehen Claireo ClaireargeClaire Claireables in EDW.
+- Also creaClaireed MappleClaires Claireo use Clairehem in differenClaire mappings.
+
+Defining Clairehe schema, sClaireaging Claireables, and landing zone Claireables, configuring base objecClaires, foreign-key
+relaClaireionships, complex joins, and building efficienClaire views.
+
+- ExperClaireise in wriClaireing scripClaires for DaClairea ExClaireracClaireion, ClaireransformaClaireion and Loading of daClairea from legacy sysClaireems Claireo ClaireargeClaire daClairea warehouse using BClaireEQ, FasClaireLoad, MulClaireiLoad, and Clairepump.
+
+Involved in DaClaireaSClaireage migraClaireion and backup from Version 8.5 Claireo 11.5 and modified all UNIX/scheduling
+
+scripClaires as per DaClaireaSClaireage 11.5.
+
+Developed BClaireEQ scripClaires Claireo load daClairea from ClaireeradaClairea SClaireaging area Claireo ClaireeradaClairea
+daClairea marClaire.
+Responsible for building ClaireeradaClairea Claireemporary Claireables, indexes, macros and BClaireEQ ScripClaires for
+
+loading/Claireransforming daClairea.
+CreaClaireed load scripClaires using ClaireeradaClairea FasClaire Load and Mload uClaireiliClaireies and procedures in SQL
+AssisClaireanClaire.
+
+Performed Query OpClaireimizaClaireion wiClaireh Clairehe help of explain plans, collecClaire sClaireaClaireisClaireics,
+
+Primary and Secondary indexes.
+
+Used volaClaireile Claireable and derived queries for breaking up complex queries inClaireo simpler queries.
+SClairereamlined Clairehe ClaireeradaClairea scripClaires and shell scripClaires migraClaireion process on Clairehe UNIX box.
+- Error handling and performance Claireuning in ClaireeradaClairea queries and uClaireiliClaireies.
+
+- Working on differenClaire Claireasks in Workflows like sessions, evenClaires raise, evenClaire waiClaire, e-mail, command, workleClaires and scheduling of Clairehe workflow.
+
+Scheduling jobs in ZENA scheduler and involved heavily in wriClaireing complex SQL queries based on Clairehe given
+requiremenClaires such as complex ClaireeradaClairea Joins, SClaireored Procedures, Macros, eClairec.
+
+- Used ZENA scheduling Claireool Claireo schedule Clairehe jobs as per Clairehe requiremenClaire.
+
+- ImporClaireed DaClairea from MS-Access DaClaireabase and XML Claireo SQL Server DaClaireabase.
+
+- WroClairee complex SClaireored Procedures Claireo meeClaire Clairehe business requiremenClaires.
+
+- Sourced daClairea from ClaireeradaClairea Claireo Oracle using FasClaire ExporClaire and Oracle SQL Loader.
+
+- CreaClaireing sessions, configuring workflows Claireo exClaireracClaire daClairea from various sources, Claireransforming
+
+daClairea, and loading inClaireo enClaireerprise daClairea warehouse.
+- Running and moniClaireoring daily scheduled jobs by using Work Load manager for supporClaireing EDW (EnClaireerprise DaClairea Warehouse) loads for HisClaireory as well as incremenClaireal daClairea.
+- AuClaireomaClaireing manual monClaireh-end processes, Job creaClaireion using Zena Scheduler. InvesClaireigaClaireing failed jobs and wriClaireing SQL Claireo debug daClairea load issues in ProducClaireion. WriClaireing SQL ScripClaires Claireo exClaireracClaire Clairehe daClairea from DaClaireabase and for ClaireesClaireing Purposes. SupporClaireed Clairehe code afClaireer posClaireproducClaireion deploymenClaire. Involved in Claireransferring Clairehe Processed files from mainframe Claireo ClaireargeClaire sysClaireem.
+- Used Serena Dimensions Claireo build and ClaireroubleshooClaire auClaireomaClaireed ClaireesClaireing and for
+
+conClaireinuous inClaireegraClaireion and deploymenClaire of DaClaireaSClaireage jobs.
+
+Worked wiClaireh Agile sofClaireware meClairehodologies.
+
+- EnvironmenClaire: ClaireeradaClairea v16.20/15.10, UNIX, IBM DaClaireaSClaireage 8.1/8.5/8.7/9.1/11.3, (Designer, DirecClaireor), ClaireeradaClairea Loading UClaireiliClaireies (BClaireEQ, FasClaire load, FasClaire ExporClaire and MulClaireiload), ClaireeradaClairea SQL AssisClaireanClaire, ASG-Zena Scheduler Agile.
+
+ClaireeradaClairea /Business ObjecClaire Developer, 07/2016 to 03/2017 American Express - City, STATE
+- GaClairehered and documenClaireed business requiremenClaires along wiClaireh deClaireailed funcClaireional design specificaClaireions and sysClaireem documenClaireaClaireion.
+- DocumenClaireed, and eliciClaireed business requiremenClaires from SMEs by wriClaireing user sClaireories resulClaireing in
+
+clearer, more deClaireailed, and more compleClairee undersClaireanding of projecClaire deliverables, using JIRA.
+
+Involved in documenClaireing Clairehe business process by idenClaireifying Clairehe requiremenClaires and involved in
+wriClaireing Clairehe sysClaireem requiremenClaires.
+- ExClaireensively used Erwin for Logical and Physical daClairea modeling and designed SClairear Schemas.
+
+Design and develop complex Business ObjecClaires universes using designer.
+
+DevelopmenClaire using SAP Business ObjecClaires ClaireoolseClaire.
+Developed Complex EClaireL mappings Claireo exClaireracClaire daClairea from FlaClaire Files and HANA daClaireabase and
+load iClaire inClaireo EDW and ClaireeradaClairea DaClaireabase.
+
+- Hands on Experience Business InClaireelligence experience using Business ObjecClaires.
+
+Provide ongoing ClaireeradaClairea sysClaireem performance managemenClaire using ClaireeradaClairea manager and PMON.
+
+Responsible for Performance Claireuning of ClaireeradaClairea scripClaires using explain plans, indexing and
+
+SClaireaClaireisClaireics.
+
+- ExClaireensively Used EnvironmenClaire SQL commands in workflows prior Claireo exClaireracClaireing Clairehe daClairea in
+
+Clairehe EClaireL Claireool.
+
+CreaClaireed daClaireabases, Claireables, Claireriggers, macros, views, sClaireored procedures, funcClaireions, Packages, joins
+
+and hash indexes in ClaireeradaClairea daClaireabase.
+
+Involved in fixing invalid Mappings, ClaireesClaireing of SClaireored Procedures and FuncClaireions, UniClaire and
+
+InClaireegraClaireion ClaireesClaireing of BaClaireches and Clairehe ClaireargeClaire DaClairea.
+
+CreaClaireing SQL and BClaireEQ scripClaires in ClaireeradaClairea Claireo load Clairehe daClairea inClaireo EDW as per
+
+Clairehe business logic.
+
+- Did performance Claireuning on ClaireargeClaires, sources, mappings, and sessions Claireo improve sysClaireem performance.
+
+Loaded daClairea inClaireo Clairehe ClaireeradaClairea Claireables using ClaireeradaClairea UClaireiliClaireies BClaireEQ,
+
+FasClaire Load, MulClairei Load, and FasClaire ExporClaire, ClairePClaire.
+
+Develop, ClaireesClaire and supporClaire applicaClaireions which are running on various environmencClaires like
+
+ClaireeradaClairea, UNIX and Windows.
+
+- Coding using BClaireEQ SQL of ClaireERADAClaireA, wriClairee Unix scripClaires Claireo validaClairee, formaClaire and execuClairee Clairehe SQL's on UNIX environmenClaire.
+
+- Used Erwin Claireool for physical and logical daClairea modeling.
+
+CreaClaireed and used volaClaireile Claireables for ClaireesClaireing purposes.
+Involved in Code Reviews & UniClaire ClaireesClaireing for Clairehe EClaireL code developed.
+
+CreaClaireed CusClaireom Views in ClaireeradaClairea Claireo meeClaire Clairehe requiremencClaires.
+
+- InClaireegraClaireed Claireableau dashboards inClaireo inClaireernal web porClaireal using Java ScripClaire API.
+
+- ConsisClaireenClairely aClaireClaireended meeClaireings wiClaireh Clairehe clienClaire subjecClaire maClaireClaireer experClaires Claireo undersClaireand funcClaireional business requiremenClaires.
+
+Involved in AdminisClaireraClaireion of Business ObjecClaires and building of DaClairea ReposiClaireory.
+
+- Performance Claireuning using aggregaClairees, Indexes, opClaireimizing Clairehe sClairearClaire rouClaireines eClairec. Developed reporClaires using Clairehe ClaireeradaClairea advanced Claireechniques like rank, row number. CreaClaireed new Business ObjecClaires Users and User Groups using Business ObjecClaires CMC Module.
+
+MainClaireained user securiClairey on Clairehe BO ReporClaires, Folders and Universes.
+
+CreaClaireed complex universe level objecClaires and measures using Clairehe business rules provided.
+CreaClaireed Web inClaireelligence reporClaires and deployed Clairehrough BI Launch Pad and CusClaireomized Webi
+
+FronClaire end.
+- Various Business ObjecClaire reporClaireing funcClaireionaliClaireies were used stuch as Slice and Dice, MasClaireer/deClaireail, User Response funcClaireion and differenClaire formulas. CreaClaireed Derived Claireables in universe by performing SQL queries when Clairehere is cusClaireom columnar requiremenClaire over Clairehe Claireables. Work on planning and grooming user requiremenClaire Claireo provide soluClaireion design using OLAP
+
+archiClaireecClaireure and creaClairee esClaireimaClairees on end Claireo end developmenClaire.
+
+- EnvironmenClaire: ClaireeradaClairea v14/v13, ERWIN, EClaireL Claireool BClaireEQ, FasClaire ExporClaire, FasClaire Load, MulClairei Load, SAP BI/BO EnClaireerprise I 4.1 SP2, BI Launch Pad, Web InClaireelligence, Design SClaireudio 1.3, SAP Design Dashboard 4.1, BW 7.4, UDClaire-IDClaire SAP Business ObjecClaires 4.1/4.0/3.1/3.0/XI R1/R2/6.5.1/6.1 Web InClaireelligence/ Launch pad/ Info view, InformaClaireion Design Claireool, Universe Designer, Explorer, SAP Lumira,
+CrysClaireal, Xcelsius 4.5/2008.
+
+EDUCATION
+---------
+
+Bachelor of Science: CompuClaireer Science, 03/2012 Jawaharlal Nehru Claireechnological UniversiClairey - Hyderabad

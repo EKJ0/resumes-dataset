@@ -1,0 +1,73 @@
+Junior ETL Developer Pig Ss a) 096 ee
+
+Email: Info@qwikresurne.com
+
+ROBERT SMITH emmy)
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+Over 6+ years of experience in Analysis, Developrnent, and Implementation of business
+applications including Development and Design of ETL methodologies using Informatica Power
+Exchange, Informatica Power Center, Pharmaceutical, Financial, and Telecom sectors,
+
+SKILLS
+------
+
+Datastage, Informatica, Oracle, Data Warehousing, etl.
+
+WORK EXPERIENCE
+---------------
+
+Junior ETL Developer
+ABC Corporation - Septernber 2007 - April 2008
+
+Responsibilities Extracted data transformed and loaded into Oracle database according to the
+specifications.
+
+Used various transformations like lookup transforming the Sales Force Data according to the
+business logic update strategy, router, filter, sequence generator, source qualifier/Joiner on
+data and extracted as per the technical specifications.
+
+Created Mapplets using Mapplet Designer to reuse Mapplets in the mappings,
+
+Experience in performing the analysis, design, and prograrnmina of ETL processes for Teradata,
+
+EDI Standard Evolution and Migration Solution Speciation-Driven Transformation Used by Informatica to provide up-to-the-minute pre-built transformations in support of industry
+standards.
+
+Created debugging sessions before the session to validate the transforrnations and also used
+existing mappings in debug mode extensively for error identification by creating break points
+and monitoring the debug monitor,
+
+Improved the performance of the mappings by moving the filter transformations early into the
+transformation pipeline, performing the filtering at Source Qualifier for relational databases
+and selecting the table with fewer rows as master table In joiner transformations.
+
+ETL Developer
+ABC Corporation - 2005 - 2007
+
+Organization Satyarn Computer Services Lirnited, India Location Offshore Bhubaneswar Onsite
+NA Duration Offshore Septernber 09-March 10 Onsite NA Tearn Size Project 4 Module 1
+Environment (with skill versions) Languages Database Oracle 109 Tools Erwin 6.1, Informatica
+8.1 O/s Windows XP, Sun Solaris Unix Responsibilities Integration with SAP source system, Data Integration Tools Selection frorn source to target.
+
+To understand the legacy source systerns JOE and Compass and restructuring of GRID Asa developer in GRID responsible for pulling data frorn SAP into GRID BW (Oracle).
+
+To analyze the system and giving better picture to handle the data.
+
+Generating ABAP codes to extract data frorn SAR
+
+ETL Code reviews and migration to Production Systern,
+
+Project Profile 6 Project Narne SEDW,
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

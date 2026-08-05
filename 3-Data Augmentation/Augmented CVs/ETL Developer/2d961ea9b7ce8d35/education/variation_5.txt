@@ -1,0 +1,61 @@
+Sebastian Martin
+
+Senior ETL DataStage Developer | SQL | Unix Scripting
+
+@ help@enhancv.com @ linkedin.com @ Houston, Texas
+
+SUMMARY
+-------
+
+Senior ETL DataStage developer with over 10 years of professional IT experience, focused on ETL, data integration, and system
+optimization. Adept at utilizing tools like IBM DataStage, SQL, and Unix scripting. Proven record in managing large projects and
+delivering high-quality database solutions.
+
+WORK EXPERIENCE
+---------------
+
+Senior ETL DataStage Developer
+
+IBM
+& 2016-Ongoing @ Houston, Texas Implemented and maintained ETL data pipelines using IBM DataStage.
+
+- Designed ETL processes using IBM InfoSphere for multiple projects, one of which involved a multi-terabyte database.
+- Worked closely with lead developers to design database structures adhering to project specifications.
+- Compiled and ran DataStage jobs regularly, resulting in optimal efficiency and data quality.
+
+ETL Developer
+
+Accenture
+@3 2012-2016 9 Houston, Texas Assumed a leading role in ETL development and data integration.
+
+- Played a primary role in designing and building a data warehouse for a major client, resulting in improved data accessibility.
+- Utilized SQL scripting and Unix scripting for data manipulation and database management.
+- Coordinated with team members to address and resolve data quality issues.
+
+STRENGTHS
+
+¥* ETL Data Construction & Client Communication
+Successfully implemented ETL procedures for multiple large- Exceptional skills in addressing data quality issues with users
+scale projects, notably a multi-terabyte database. and explaining complex database structures.
+
+Ay Problem Solving
+
+Proven ability to troubleshoot and resolve multiple development issues and ensure project deliverables.
+
+EDUCATION
+---------
+
+Master's Degree in Computer Science
+
+Rice University
+@8 2008-2010 9 Houston, Texas
+
+Bachelor's Degree in Computer Science
+
+University of Texas at Austin
+@8) 2004-2008 9 Austin, Texas
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

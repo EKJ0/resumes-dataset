@@ -1,0 +1,209 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Around 7+ Years of extensive IT experience as a Microsoft SQL Server 2008R2/ 2012/ 2014/2016/2019. Developer in creating Business
+Intelligence Solutions like SSIS, SSAS, SSRS and expertise in designing and implementing Relational Database model as per business needs
+in different domains like Manufacturing, Banking, Finance and HealthCare. Extensive knowledge and Experience in dealing with Relational
+Database Management Systems including Stored Procedures, Constraints, Querying, Joins, Keys, Indexes, Data Import/Export and Cursors.
+Good understanding in Normalizing and De-normalizing the tables and maintaining Referential Integrity by using Triggers and Primary and
+Foreign Keys. A well-organized, goal-oriented, highly motivated, and effective team leader/member with excellent analytical,
+troubleshooting, and problem-solving Skill and project-oriented team player.
+
+SKILLS
+------
+- Technical Skills: © Tools Microsoft Visual Studio 2016/2019/2013/2012, Share Point
+- SQL Server Tools SQL Server Management Studio, SSIS, SSRS, Server, Microsoft Project Server 2007, APEX SQL SSAS. e Architecture Relational DBMS, OLAP, OLTP
+- Database MS SQL Server 2019,2016,2014.2012, Oracle. © Reporting Tools SSRS (SQL Server Reporting Services), Crystal
+- Language C#, T-SQL, Vb.net. Reports, PowerBI
+- Operating System Windows 10/8/7, SQL Server e ETL Tools SSIS (SQL Server Integration Services)
+2008R2/2012/2016/2019.
+Worx History
+
+10/2021 to Current SR ETL Developer Two95 International Inc. - Newark, NJ
+
+- Of Area Project - The project provides services to the insurance companies to ease data communication between home and host clients
+
+- Project is designed to perform ETL as home and host clients and upon doing business validations, data transformation as per the requirement
+
+- Providers from host client will be able to raise a request for information and receive the response from Home clients
+
+- Responsibilities:
+
+- Working in an Agile environment to perform all the steps of SDLC cycle
+
+- Collaborate and coordinate with team members to work in Source control code repository
+
+- Responsible for creating the ETL process to load heterogenous data sources into the database
+
+- Creating and managing schema objects such as tables, views, indexes, stored procedures, and triggers & maintaining Referential Integrity
+
+- Created Clustered and Non-Clustered Indexes on tables for performance optimization of complex stored procedures
+
+- Implemented error handling and custom error handling in SQL Server and SSIS packages using the try catch blocks, raise error functions in stored procedures, user defined functions, event handlers in SSIS
+
+- Created SSIS packages to data from various data sources following the ETL framework architecture
+
+- Experience in performance tuning and debugging of SSIS packages also schedule jobs for SSIS packages to run on specific routine
+
+- Used various SSIS tasks such as Conditional Split, Dertved Column, Merge join, Union, Union all, data validation checks during Staging. before loading the data into the Data warehouse
+
+- Configured SSIS packages using parent and child configurations to allow packages run when called from a parent package with parent package configurations
+
+- Worked with Meta-Data Driven SSIS Packages to pull the data from various sources and load to Data mart
+
+- Used Shared Connection managers and project parameters, project level connection managers
+
+- Designed and developed matrix, chart, and tabular reports with drill down, drill through and drop-down menu in SSRS
+
+- Generated and consolidated monthly reports and budget analysis to drive forecast production plan with SSRS and PowerPivot
+
+- Developed complex SSRS reports using multiple data providers, Global Variables, Expressions, user defined objects, aggregate aware objects, charts, and synchronized queries
+
+- Made us various tools like TFS, GitHub and Gitbash for version control of the code
+
+- Environment: MS SQL Server 2019/2016, SSIS/SSRS 2019, SSMS, Team Foundation Server, C#, NET
+
+- GitHub, Bitbucket and Bamboo.
+
+03/2020 to 10/2021 SR SQL Server, SQL Developer Virginia Retirement System - City, STATE
+
+- Investment DB Restructure - This is a ETL and data restructure project to recreate legacy ETL jobs to SSIS packages for loading data files from external vendors to IDS DataMart
+
+- Creating an ETL framework and implementing data loads within framework
+
+- Writing stored procedures to perform data transformations and enhancing existing processes for better performance
+
+- Responsibilities:
+
+- Worked in the AGILE environment, requirement gathering, scrum meeting, stand ups and iteration planning
+
+- Worked closely with the stake holders to understand business requirements, data analysis and identifying final deliverables
+
+- Designing the ETL architecture for data integration from vendors to database system
+
+- Responsible for developing, maintaining, and supporting SQL applications for exporting structured data to reports and web pages
+
+- Created databases, Schemas, Tables, Cluster/Non-Cluster Indexes, stored procedure, views, functions, and various other database objects to perform data transformation and integration according to the business requirements
+
+- Involved in Source Data Analysis, Design, and creation of Data Mappings for Extracting data from heterogeneous sources like Flat Files, Excel and other OLEDB, ODBC data sources
+
+- Creating Complex ETL Packages following the VRS ETL framework using SSIS to extract data from staging tables to partitioned tables with incremental load, generate the outbound files in several formats
+
+- Created parent and child packages as part of framework and used EPT task to configure parent child relationship
+
+- Extensive use of SSIS components such as for each loop container, for loop container,
+
+- Execute SQL task, Dataflow task and data transformers as lookup, fuzzy lookup, conditional split, merge join, union all and others to validate the data and migrate as per requirement
+
+- Performed event handling in SSIS for logging process in file logging, database logging using events such as pre- execute, post-execute and on failure
+
+- Usage of the C# and -net to attain custom approaches as delayed time lookup for inbound file and call the database objects in SSIS using Script task
+
+- Worked on development of Data mart and different SSIS packages to load staging, fact, dimension, and metric data into data mart
+
+- Automated the ETL processes using SQL server agent job and sending email alerts from different environments about success and failures of job
+
+- Maintained SQL objects and SSIS packages versions and deployed them to TEST, PROD environment as package, project deployments and configured SSIS packages using package configurations, environment variables
+
+- Provided requirements, workflow, test cases, Source-to-target mapping, and testing documentation of each ETL Process
+
+- Involved in design and deployment of Report Models for generating Ad-Hoc reports as per the client requirements
+
+- Using SQL Server Reporting Services (SSRS) delivering enterprise, Web-enabled reporting to create reports that draw content from a variety of data sources
+
+- Created Reports in SSRS with different type of properties like Chart controls, filters, Interactive sorting, SQL parameters etc
+
+- Performed unit testing and worked closely with testing team to fix bugs in minimal duration and prepared documentation for unit testing. process flow
+
+- Made use of various Apex SQL tool features as part of development activities for better standards
+
+- Environment: MS SQL Server 2019/2016, SSIS/SSRS 2019, SSMS, Apex SQL, Team Foundation Server, C#,
+- NET.
+
+11/2017 to 02/2020 SQL Server /SSIS, SQL Developer Santander Bank - City, STATE
+- Argus Exit Project - The Main focus of the project is to re-build the Argus process of generating the contributor files for the FRY processing on the Santander Environment
+- Argus was one of the major vendors to process the raw data from PR and Miami, which using for monthly and quarterly FED reporting
+- Golden Source Consistency - The goal of the project was to perform the data comparison over the different environments and send out the reports to guide users maintain the data consistency across sources LDM, RDM, CCMIS and FMIS
+- Enhancements - Working for several other projects and ad hoc for the existing applications Responsibilities: Gathered functional requirements and Business requirements and wrote the technical specifications for building the highly efficient system Involved in daily/weekly meetings to work collaboratively with team members and meet the deliverables Review Input files from PR and Miami, understand the logics and create layouts for RAW Data Extensively involved in code review and applying changes to the existing manual process, for generating the outbound files automatically Responsible for Creating and Modifying tables, stored procedures, and other database objects to Load, validate, transform, and Extract the data as per project requirements
+
+Involved in designing a framework for validating data consistency among different source environments across the
+organization
+
+Designed SSIS Packages to transfer data between servers, load data into database, archive data file from various
+sources using SQL Enterprise Manager/SSMS on SQL
+
+Automated manual data processing into generic processes and re-run for historical data
+
+Created SQL logging table for capturing the error and success logs along with sending the email notification based
+on the run of SQL Server Agent Job
+
+Implemented error handling in SQL Server with try-catch blocks, raise error functions in stored procedures, user-
+defined functions
+
+Built SSIS packages for ETL process and used different data flow elements like Flat File, OLEDB, Excel Sources,
+Destinations and Data Flow Transformations like Data Conversion, Conditional Split, and Derived Column etc
+Implemented Event Handlers and Error Handling in SSIS packages and notified process results to various user
+environments
+
+- Performed Unit testing and effectively fixed bugs
+
+- Prepared a detail documentation of data mapping, process flow and running jobs
+
+- Environment: MS SQL Server 2014/ 2008R2, SSMS, SSIS, SSRS, T-SQL, XP Cmdshell, Tortoise SVN, Microsoft Office.
+
+09/2015 to 10/2017 Server SSIS/SSRS/T-SQL Developer QUALCARE Inc, CIGNA - City, STATE
+@ QUALCARE Inc 1s the health insurance provider in the New jersey providing healthcare for small groups,
+businesses, associations, and large corporations
+- Qualcare Integration Project: As a part of the data team, I was responsible for building the SSIS and SQL objects required to perform the data integration from Qualcare to Cigna Inc
+- The data comprises of Structure, Members, Memberships, Claims and insurance policies Responsibilities: Involved in the project FINANCIAL HUB, responsible to build the ETL from scratch to generate data extracts from multiple tables in databases Retrieved data from front-end application which stores the Groups, members, claims and other confidential insurance data of insured members to database tables Performed multiple DDL, DML, T-SQL queries, Stored Procedures, User Defined Functions UDF's, CTE's, Database Triggers, Schemas, Tables, Cluster/Non-Cluster Indexes and Exception Handlers to meet business requirements and integrate data with end clients Worked on the data from different databases at a time using the linked server concepts Creating Complex ETL Packages using SSIS to import claims data from external sources and process multiple files at a time, perform business validation and load data into database Designed an ETL Process for the payment processing of the claims to generate extracts for different banks in
+
+custom formats and validations
+
+Designed dynamic SSIS packages to transfer data crossing different platforms, validate data and data clearing
+during loading, and archived data files for different DBMS
+
+Created Script tasks to check for existence of Source files for a specified amount of time
+
+Worked with the event handlers in SSIS for logging the process in file logging, database logging using events such
+
+as pre-execute, post-execute, on failure
+
+Deployed the SSIS packages to the test servers and the prod servers using TFS and automated the processes on the
+
+respective servers sing SSIS Package configurations
+
+Work on development of Data mart and different SSIS packages to load staging, fact, dimension, and metric data
+
+into data mart
+
+Eliminating the redundancy of data, organize the data efficiently, perform the error handling while processing the
+
+inbound files and generate the error and summary files for the transformation performed
+
+Worked on Data Marts, Data warehousing, Operational Data Store ODS, OLAP, Data Modeling like Dimensional
+
+Data Modeling, Star Schema Modeling, Snow-Flake Modeling, FACT and Dimensions Tables using Analysis
+
+Services
+
+- Performed unit testing and worked closely with the testing team to fix the bugs in minimal duration, also prepared the documentation for the unit testing and process flow using MS Visio
+
+- Environment: MS SQL Server 2014/2012, SSIS/SSRS 2012, T-SQL Advanced Server, SSMS, VB.NET, C#,
+Windows 2007, Team Foundation Server.
+
+Epucarion
+
+08/2015 Master of Science: Mechanical Engineering Fairfield University - Fairfield, CT
+
+05/2013 Bachelor of Technology: Mechanical Engineering
+
+Jawaharlal Nehru Technological University - Hyderabad
+
+ADDITIONAL INFORMATION
+
+- Experience in using CTE, Recursive CTE’s, temp tables, Dynamic SQL Pivot, Un pivot, BCP, and Bulk Load to facilitate efficient Data Loading, Manipulation and Consistency. Worked on the SQL profiler to perform the tuning operation to resolve the deadlocks and improve the performance of long running queries. Worked on all activities related to the development, implementation, administration, and support of ETL processes for large-scale Data Warehouses using SSIS 2019/2016/2012/2008/2008R2. Designed elevated level ETL architecture for overall data transfer from the source server to the Enterprise Services Warehouse which encompasses server name, database name, accounts, tables and direction of data flow, data dictionary and Metadata using SSIS. Experience in using several SSIS components such as For-Each Loop Container, Sequence Container, VB Script task, Expressions, Execute SQL task, Variables, Send Mail Task, Package Execution task. Experience in performing data manipulation as per requirements using Look up, Data conversion, Merge Join, Union all, Derived Column, Conditional Split, and Aggregate transformations in SSIS package data flow. Experienced in data modeling techniques, logical and physical database design. Experienced in designing prominent level ETL architecture, creating, configuring and fine tuning ETL workflows for overall data transfer from the OLTP to OLAP with the help of SSIS. Experience in creating Jobs, Alerts, SQL Mail Agent, Database Mail and Scheduled DTS and SSIS Packages. Expert in designing Enterprise reports using SQL Server Reporting Services SSRS 2012 and above use of multiple value selection in parameters pick list, cascading prompts, matrix dynamics reports and other features of reporting services. Experience in writing expressions in SSRS and Expert in fine tuning the reports. Created many Drill through and Drill Down reports using SSRS. Usage of global variables, expressions, and functions for the reports with immense experience in handling sub reports in SSRS. Experience in Designing and Building the Dimensions and cubes with star schema using SQL Server Analysis Services (SSAS). Created sophisticated calculated members using MDX queries; designed and created aggregations to speed up queries and improve performance in SSAS. Deployed and processed SSAS cube weekly to update information by using SQL Server Agent. Capable of forming and maintaining positive and productive working relationships in internal/ external and team environments.

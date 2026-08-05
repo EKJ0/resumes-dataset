@@ -1,0 +1,324 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- 7+ years of experience in database design and development SQL Server 2016/2014/2012/2008R2 large-scale databases.
+
+- Expert level skills in Object creation such as Tables and Views, Table Normalization, User-created Data Types, user functions, views, user profiles, data dictionaries, data integrity, Performance tuning, Indexes, and appropriate Triggers to facilitate efficient data manipulation and data consistency.
+
+- Expert in TSQL DDL/DML, perform most of the SQL Server Enterprise Manager and Management Studio functionality using T-SQL Scripts and Batches.
+
+- Good understanding of the Data modeling concepts like Star-Schema Modeling, and Snowflake Schema Modeling.
+
+- Prepared various types of documents like ETL specification, Data Mapping, Test cases, Data dictionary, etc. Worked Extensively on ETL process using SSIS package.
+
+- Excellent in Data Extraction, Transforming, and Loading (ETL) using SQL Server Integration Services (SSIS), DTS, Bulk Insert, and BCP.
+
+- Expert in the design and development of SQL Server Integration Services (SSIS) packages and using various control flow tasks and data flow transformation.
+
+- Excellent in creating SSIS Packages for integrating data using OLE DB connection from heterogeneous sources (Excel, CSV, Oracle, flat file, Text Format Data) by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert, merge, and union all.
+
+- Analyze business requirements, technical specifications, and physical data models for ETL mapping and process flow.
+
+- Performed data profiling and data cleansing, applying rules and developing mappings to move data from source to target systems
+- Expert in designing complex reports like reports using Cascading parameters, Drill-Through Reports, Parameterized Reports, Report Models, and ad-hoc reports using SQL Server Reporting Services (SSRS) based on client requirements.
+
+- Absolute knowledge of software development life cycle, database design, RDBMS, data warehousing, and data modeling concepts.
+- Extensive knowledge of coding languages, including Java, XML, and SQL.
+
+- Demonstrated leadership abilities and teamwork skills as well as the ability to accomplish tasks under minimal direction and supervision.
+
+- Proficiency in creating different types of Reports such as Crosstab, Drill-down, Summary, Parameterized, and Sub reports and formatting them using SSRS.
+
+- Strong Knowledge in Enhancing and Deploying the SSIS Packages from Development Server to the Production Server.
+
+- Database / ETL Performance Tuning: Broad Experience in Database Development including effective use of Database objects, SQL Trace, Execution Plan, Different types of Optimizers, Indexes, Table Partitions, Sub Partitions, Views, and Temporary tables
+
+- Experience in making sure that storage, archiving, back-up, and recovery procedures are working correctly.
+
+- Experience working in Troubleshoot performance problems, fine-tuning databases, and index Analysis.
+
+- Strong Knowledge and experience in Azure SQL, data factory, and Azure SQL Data warehousing
+
+- Experienced in creating and populating data warehouses OLTP data with various SSIS ETL packages with transformations, containers, variables, configurations, and schedules. Debugging knowledge with loggers and event handlers.
+
+- Experienced in performance testing and query optimization for faster data access.
+
+- Capable of handling responsibilities independently as well as being a proactive team member. Strong Analytical skills and ability to work cross-functionally.
+
+- Strong Knowledge and experience in Azure SQL, data factory, and Azure SQL Data warehousing.
+
+- Experience in Extraction & Migration of Data from heterogeneous data sources like Excel, MS Access, Oracle, and DB2 to MS SQL Server by using Import Export Wizard, DTS SSIS, BCP & Bulk Insert utilities
+
+- Proficiency with warehousing architecture techniques, including MOLAP, ROLAP, ODS, DM, and EDW.
+
+- Developed mapping to load Fact and Dimension tables, for type 1 and type 2 dimensions and incremental loading and unit-tested the mappings.
+
+- Responsible for debugging and performance tuning of targets, sources, mappings, and sessions.
+
+- Experience in transforming structured data from various data sources using SSIS Transformations like Conditional Split, Lookup, Merge Join, and Sort and Derived Column for cleaning bad data, and validating data.
+
+- Experience in all phases of the Software Development Life Cycle (SDLC).
+
+- Proficient in Conceptual, Logical, and Physical Modeling
+
+- Excellent understanding of Financial, Health Insurance, and Mortgage domains.
+
+- Experienced with the full development cycle of a Data Warehouse, including requirements gathering, design, implementation, and maintenance.
+
+- Proficient in creating dynamic SSIS packages for Incremental Loads and used change data capture (CDC) control task that makes efficient data loading.
+
+- Experienced in Data Design and Development on Microsoft SQL Server, T-SQL, Performance Tuning, Troubleshooting, SSIS/DTS Package Configuration, SSRS, SSAS, Data-warehousing, and Cube Development.
+
+- Maintaining code version in the repository with TFS/VSTS, TORTOISE SVN, and GIT
+
+- Experienced in standard SDLC Methodology Agile/Scrum and Waterfall
+
+SKILLS
+------
+- SQL Processing e IBM DB2
+- Extraction Transformation and Loading (ETL) * Client Requirements
+- Performance Tuning © Operational Data Store
+
+- Data Visualization Intelligence Reports
+
+Business Requirements Gathering
+
+Data Profiling
+
+- Product Data Management Query Execution
+
+Informatica PowerCenter
+
+- Enterprise Data Management
+- Analytic Functions
+
+- Informatica Data Quality
+
+- Verification and Testing
+
+- Analysis and Modeling
+
+- System Mapping
+
+Data Integrity
+
+Data Warehouse Development
+
+Complex Problem-Solving
+
+Data Governance
+
+Data Validation
+
+- Structural Design
+
+WORK EXPERIENCE
+---------------
+
+SQL / Data Warehouse Developer , 12/2021 to 11/2022
+
+Apex Systems - Eglin Air Force Base, FL
+
+- Resolved issues and provided on-call support for the production database.
+
+- Orchestrated the designing, testing, support, and debugging of new and existing ETL and reporting processes.
+
+- Cooperated with developers, data architects, DBAs, project managers, and client business users to develop specifications.
+
+- Created web application using C#.
+
+- Created Talend jobs to copy the files from one server to another and utilized Talend FTP components.
+
+- Analyzing the source data to know the quality of data by using Talend data quality.
+
+- Tuned & optimized the performance of queries with modification in T-SQL queries, finding missing indexes, checking fragmentation level and re-index tables, normalized tables, established joins, and created indexes wherever necessary.
+
+- Responsible for monitoring and making recommendations for performance improvement in hosted databases. This involved index creation, index removal, index modification, file group modifications, and adding scheduled jobs to re-index and update statistics in databases
+
+- Extensive knowledge of data mining algorithms and statistics
+
+- Scheduled the jobs to streamline and automate cumbersome repeated tasks using SSIS.
+
+- Experienced with .Net application development using C# and VB language.
+
+- Created ETL(SSIS) process to transfer data from OLTP Files to the data warehouse, scheduled and monitored job.
+
+- Experienced in writing complex SQL queries involving multiple tables’ inner and outer joins.
+
+- Experienced in optimizing the queries by creating various clustered, and non-clustered indexes and indexed views.
+
+- Handled and maintained data storage process, including networks.
+
+- Created T-SQL Stored Procedures, User Defined Functions, Indexes, Views, Constraints, and Triggers, and wrote complex queries using Joins, Aggregate Functions, Sub-queries, Derived tables, and CTEs.
+
+- Implemented the project using ASP.Net, C#, and backend database as a Microsoft SQL server.
+
+- Designed and worked with dimensional models including understanding the Kimball Method facts and dimensions, star schemas, and data modeling techniques
+
+- Extracted the necessary data and transferred it to the new system after the development of the warehousing system.
+
+- Tested the designs to ensure the proper functioning of the system and fixed any issues that may arise.
+
+- Provided technical support for existing SSRS reports by troubleshooting issues, identifying root causes, and implementing solutions.
+
+- Developed SSRS reports using SQL Server Management Studio and Visual Studio to meet the needs of multiple business units.
+
+- Developed complex Talend ETL jobs to migrate the data from flat files to the database. Implemented custom error handling in Talend jobs and worked on different methods of logging.
+
+- Analyze existing SQL queries for performance improvements.
+
+- Developed SQL databases and written applications to interface with SQL databases. Development often consists of designing tables and storing procedures, views, and functions.
+
+- Supervised impact analysis of changing upstream processes to data warehouse and reporting system.
+
+- Analyzed data sources to design simple and efficient query transforms Loaded data from flat files Designed workflows and data flow Cleaned data.
+
+- Experienced expression language, MDX, and DAX are designed to query an SSAS Cube.
+
+- Extracted data from DB2 VSAM files, XML Files, and Flat Files and populated them into Data Warehouse.
+
+- Designed and implemented effective analytics solutions and models with Snowflake.
+
+- Developed Complex transformations, and mapplets using Informatica to Extract, Transform and load data into Data marts, Enterprise Data warehouses (EDW), and Operational data stores (ODS).
+
+- Documented user requirements translated requirements into system solutions and developed an implementation plan and schedule.
+
+- Designed OLAP data mart for worker's compensation reporting Created Data Stage (ETL) jobs denormalized and load OLTP data Developed DB2 SQL and.
+
+- Transformed business requirements into technical specifications, and source-to-target mappings.
+
+- Implemented complex mappings such as Slowly Changing Dimensions Typel, Type 2, and Type3.
+
+- Interpreted logical and physical data models for Business users to determine common data definitions and establish referential integrity of the system.
+
+- Worked with mappings using expressions, aggregators, filters, lookup, update strategy and stored procedure transformations.
+
+- Worked with Variables and Parameters in the mappings to pass the values between sessions.
+
+- Participated in the testing of the data design, tool design, and data extracts/transforms.
+
+SQL/SSIS/ETL/ Data Warehouse Developer, 06/2018 to 12/2018
+
+Ihs Markit - Seal Beach, CA
+
+- Implemented integrations of a different system of record data into existing risk. platform and make updates to organizational hierarchy and legal entity data.
+
+- Performance improvement of existing views and procs and identify deadlocks, and missing indexes and alter indexes where necessary.
+
+- Debug the existing ETL packages for troubleshooting.
+
+- Created Mapping Parameters, Session parameters, Mapping Variables, and Session Variables.
+
+- Performing ETL and database code migrations across environments using deployment groups.
+
+- Designed, built, and maintained mappings, sessions, and workflows for the target load process.
+
+- Used C# when creating custom tasks using script task and script component transformation.
+
+- Involved in the data analysis and database modeling of both OLTP and OLAP environments.
+
+- Involved in extracting the data using SSIS from OLTP to OLAP.
+
+- Involved in the development and implementation of SSIS and PBI reports for various business units across the organization.
+
+- Implemented Snowflake data modeling and ELT using Snowflake SQL, implementing complex stored procedures and best practices with data warehouse and ETL concepts.
+
+- Experienced with Microsoft BI platform and languages (SSIS, SSAS, SSRS, T-SQL, MDX, DAX, etc.)
+
+- Created in-house applications using the .NET framework.
+
+- Formulated and documented ETL process design based on business requirements and system specifications including source-to- target mappings, data dictionaries, and transformations.
+
+- Enabled CDC on the existing OLTP tables for continuous integration into the data mart and created Power BI reports for stakeholders.
+
+- Involved in Debugging and maintaining written C# codes.
+
+- Created T-SQL Stored Procedures, User Defined Functions, Indexes, Views, Constraints, and Triggers, and wrote complex queries using Joins, Aggregate Functions, Sub-queries, Derived tables, and CTEs.
+
+- Effectively communicate in verbal and written communication ensuring well-written, accurate, and appropriate communication to the intended audience.
+
+- Perform detailed analysis and reporting of applications, process, and infrastructure reviews
+
+- Experience in developing code to encrypt and decrypt to protect individuals’ medical records and other personal health information.
+
+- Experience in developing Dashboard Reports, Parameterized Reports, linked reports, and sub reports.
+
+- by Region, Year, Quarter, Month, and Week.
+
+- Developed build and deployment processes for Pre-production environments.
+
+SQL/SSIS Developer, 10/2014 to 12/2017 Commercial Bank Of Ethiopia - City, STATE
+- Analyzed existing SQL queries to identify opportunities for improvements.
+- Created optimal technical solutions to user needs with in-depth system analysis.
+- Developed, implemented and optimized stored procedures and functions using T-SQL.
+- Performed regular database backups to prevent information loss.
+- Resolved complex business issues, proposing long-term solutions to avoid repeat problems.
+- Enhanced existing reports with introduction of new system features.
+- Supported projects enabling delivery efficiencies and technical resolution.
+- Built data integration solutions to introduce new sets into asset repositories.
+- Designed and developed customized extract, transform and load (ETL) applications per client specifications.
+- Devised high-quality database solutions ranging in size and complexity, increasing productivity and improving data sharing.
+- Followed standard practices for migrating changes to test and production environments.
+- Documented analysis results and provided performance improvement feedback.
+- Helped plan data extraction and processing tasks, aiding in eventual deployments.
+- Managed workload independently but collaborated with colleagues to complete larger scale tasks in distributed team environment.
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+- Designed and implemented TSQL queries for reporting and complex solution development.
+- Developed custom database objects, stored procedures and delivered application support.
+- Used T-SQL to develop DDL, DML, and dynamic SQL daily.
+- Used SSDT to develop SSIS packages.
+- Maintaining code version in the repository with TFS/VSTS, TORTOISE SVN, and GIT
+- Created Complex ETL Packages using SSIS to extract data from staging tables to partitioned tables with the incremental load.
+- Performed T-SQL, SSIS (SSDT) Package, and Workflows performance tuning and optimization of queries for reports that take longer execution time.
+- Designed complex database and data warehouse system architecture and create schemas.
+- Designed components and perform complex coding/programming, debugging, and testing within a data warehouse system and documents data warehouse system.
+- Reviewed data extraction, loading, cleansing, and data modeling for data warehouses.
+- Developed, deployed, and monitored SSIS Packages.
+- Defined unit testing and system integration best practices.
+- Enhancing, developing, and deploying SSIS packages across different environments.
+- Experience in agile software development paradigm (e.g., Scrum, Kanban)
+- Used SSIS to create ETL packages to Validate, Extract, Transform and Load data to Data Warehouse and Data Mart Databases.
+- Performed T-SQL tuning and optimization of queries for reports that take longer execution time using MS SQL Profiler, Index Tuning Wizard, and SQL Query Analyzer in MS SQL.
+- Extracted data from heterogeneous sources (OLTP, Flat Files, Microsoft Excel) and transferred to OLAP using SQL Server Integration Services (SSIS)
+- Used SSDT to develop SSIS packages.
+- Identified the data sources and created sources to target mapping documents to be used by the packages in SQL Server Integration Services (SSIS).
+- Maintaining code version in the repository with TFS/VSTS
+- Used various transformations in the ETL packages while transferring the data from OLTP source to destination using SSIS 2008/2016
+- Developed complex stored procedures to be used in SSIS 2008 packages to audit the information about the data flow from one stage to other.
+- Involved with the full development cycle of a Data Warehouse, including requirements gathering, design, implementation, and maintenance.
+- Performed complex Expressions to create calculated fields and used Global Variables in SSRS 2012.
+- Deployed and managed the reports in the Report Manager using SSRS 2012. Wrote complex stored procedures, and views using TSQL in Management Studio
+
+SQL Developer, 09/2013 to 10/2014
+
+Ethiopian Revenue And Customs Authority - City, STATE
+
+- Wrote complex SQL queries including inline queries and subqueries for faster data retrieval from multiple tables.
+
+- Working experience in BI Solutions (ETL & Reporting) using SSIS, SSRS, and T-SQL Programming using DDL, DML, and DCL commands for various business applications.
+
+- Developed dynamic SSIS solutions using Data tools and T-SQL in a SQL Server 2014 environment.
+
+- Extensive experience in data architecture, logical database design, physical database design, ER models, database schemas, ETL tools, OS scripting, and job scheduling.
+
+- Performed analysis, development, and evaluation of data mining in a data warehouse environment that includes data design, database architecture, metadata, and repository creation.
+
+- Developed new and maintained/optimize existing business intelligence tools.
+
+- Developed queries to return data from the databases for the different products.
+
+EDUCATION
+---------
+
+No Degree: Data Analytics Certification , 10/2020 Colaberry School Of Data Analytics &Data Science - Dallas
+
+Bachelor of Arts: Economics, 07/2013 Universty of Gondar - Gondar
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

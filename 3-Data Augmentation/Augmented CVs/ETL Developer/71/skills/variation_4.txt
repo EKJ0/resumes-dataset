@@ -1,0 +1,243 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Over 4 years of experience in Software Quality Assurance Manual testing focusing on web-based and client/
+server applications. Experience working in Manufacturing,Healthcare and Insurance domains. Strong
+experience testing Siebel CRM applications and ETL Data Warehouse processes. Strong T-SQL and PL/SQL
+experience to test Database and Data Warehouse systems. Experience working in Waterfall and Agile/SCRUM
+development. Hands on experience with analysis of business, technical and functional requirements, develop
+comprehensive test cases and execute the tests. Proficient in writing test documentation, test plans, test
+cases, test scripts, check lists according to the business specification requirements. Performed Functional,
+GUI, System, Data Conversion, Regression, Integration, UAT, data-integrity, XML, positive and negative
+testing. Report software bugs using custom and commercially available bug-tracking systems and follow up
+with reported problems until satisfactory resolution. Strong communication in interacting with business analyst,
+developers, clients and project managers to better understand and validate business process. Strong
+knowledge of sales, claims and service business processes. Tested XML files for tags and data during
+integration testing. Experience using Enterprise Audit Server tools to validate transactions for defect
+debugging. Worked on testing applications on different mobile platforms. Able to write hundreds of pages of
+documentation using GSM methodology in the FDA regulated environment. Demonstrate ability to learn and
+adapt to new technologies.
+
+Handle multiple tasks as well as work independently or in a team.
+
+Extensive experience in writing Test Plans, Test Cases/Scenarios, Test Procedures, Test Strategies, Defect
+tracking and reporting.
+
+Enthusiastic Manual QA eager to contribute to team success through hard work, attention to detail and
+excellent organizational skills.
+
+Clear understanding of Testing methodologies and training and experience in Agile and waterfall. Motivated to
+learn, grow and excel in Healthcare industry. Organized and dependable candidate successful at managing
+multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+
+- = Technical Skills e Databases: MS SQL Server 2008/2012 R2, MS
+- Testing tools: Quality Center/ALM, IBM Rational Access, Oracle 9i, 10g. DB2
+
+Team Concert, Clear Quest, IBM Rational Quality « CRM: Siebel 7.7 /8.1 /8.1.1
+
+Manager, Clear Case e Bh Oracle BIP, SSIS 2012, SSRS 2012, Cognos
+- Platforms: Windows, UNIX/Linux 10.1.1, Business Objects, Crystal Reports, e« Languages: T-SQL, PL/SQL, XML Informatica Power Center 9.1
+
+- Database IDE: IBM Data Studio, Toad, SQL Query Analyzer, SSMS
+
+ETL TESTER/QA-QC ANALYST 08/2016 to 12/2016 Ntt Data Corporation | Delray Beach, FL
+
+- Data Management Initiative(DMl):Scope of project is having eligibility load process using new Viper system
+
+- Health Fitness requires improved ability to receive, analyze, ingest and report on eligibility data and made suitable for reporting purposes
+
+- Tested positive and negative scenarios
+
+- Tested global and client specific rules
+
+- Tested old data with old MPI eligibility process and new MPI eligibility process
+
+- Validated error reports and error messages
+
+- Participated in Defect calls
+
+¢« Wrote complex sql queries to test data. Interacted with QA's, business analyst, project manager and
+developers
+
+- Claims ICD9-ICD10 Conversion: Scope of project is to convert diagnosis codes, procedure codes and Major disease group code data from ICD9-ICD10
+
+- Wrote complex sq! queries to test pharmacy and medical claims
+
+- Tested Medical and pharmacy claims related to multiple Health fitness clients
+
+- Tested client specific tables to see accuracy and data completion
+
+- Tested sample records and worked on Minus queries
+
+- Attended Claims daily stand up meeting
+
+- Interacted with developers, leads and business analyst
+
+- Tested defects during testing process
+
+- Wrote Generic claims test cases, identified test scenarios
+
+- Monitored resolution of bugs, tested fixes and helped developers tackle ongoing problems by providing QA perspective
+
+- Environment: MS SQL Server 2012, Oracle,SQL Developer, Sql Server Management Studio, Sharepoint
+
+UfO TESTER 07/2013 to 09/2014 Health Care Service Corporation, BCBSIL, BCBSOK, BCBSNM, BCBSMT & BCBSTX| City, STATE
+
+- (HCSC) is largest customer-owned health insurance company in United States
+
+- HCSC offers wide variety of health and life insurance products and related services, through its operating divisions and subsidiaries; including Blue Cross and Blue Shield of Illinois, Blue Cross and Blue Shield of Montana, Blue Cross and Blue Shield of New Mexico, Blue Cross and Blue Shield of Oklahoma and Blue Cross and Blue Shield of Texas and Dearborn National
+
+- HCSC uses eSales tool for their small group new sales and renewals which integrated with applications like Cognos, Blue Star and Trionfo
+
+- Project URE Small Group Enrollment 2014 & Small Group Renewals involves updating systems in accordance with ACA rules
+
+- Worked with business analyst, developers and project managers during project test cycle
+
+- Involved in testing and documentation for application developed in agile environment
+
+- Creating Test plans, Test plan Approach and Test Execution Summary
+
+- Defect detection and write up and resolution - working closely with developers/programmers /BA's
+
+- Participated in Scrum meetings, reviews and developed test scenarios
+
+- Responsible for test data and test data distribution for testing, development, UAT, BA's
+
+- Performing System Test, Regression, End to End and Integration Testing using BlueStar system
+
+- Resolution of defects through conference calls with support teams
+
+- Created Traceability between Requirements and Test Cases
+
+- Created Test plans for UAT Signoff
+
+- Maintained Test Logs, Test Summary reports and participated in bug reviews
+
+- Conducted testing of system end to end manually
+
+- Responsible for creating and maintaining regression test for new builds
+
+- Responsible for answering Small Group Underwriters questions with eSales, logging issues in issues log and follow up with developers until issues are resolved
+
+- Exceeded goals through effective task prioritization and great work ethic
+
+- Demonstrated respect, friendliness and willingness to help wherever needed
+
+- Environment: Blue Star, eSales, Rational Team Concert, Cognos Reports, XML, Quickr
+
+ETOQA ANALYST 03/2011 to 06/2013 Boston Scientific Corporation, The Boston Scientific Corporation | City, STATE
+
+- (abbreviated BSC) is worldwide developer, manufacturer and marketer of medical devices whose products are used in range of interventional medical specialties,
+
+- ADAM Project
+
+- ADAM is data warehouse used to aggregate data from various sources like TRAC Il, Latitude, Dragon, Patient Registries and SAP system within Boston Scientific CRM and is made suitable for reporting and analysis
+
+- Data is extracted by ETL tool (Informatica) using update strategy transformations and loaded into Operational Data Store (ODS), Integration of various data sources
+
+- Responsible for writing scripts for about 60 test tables by extensively using complex SQL queries
+
+- Used ER diagrams to develop PL/SQL scripts
+
+- Joining code source tables in SQL queries to make debugging easy
+
+- Uploaded test cases to IBM Rational Quality Manager
+
+- Leading test case review meeting
+
+- Attended code review meetings
+
+- Involved in system, incremental and regression testing
+
+- Discussed data issues with Subject Matter Experts, Developers, Business Analysts and test team
+
+- Involved in testing error data that needs to be in log files
+
+- Using TOAD tool to test data tables and transformation logics
+
+- Comparing source data columns and target data columns
+
+- Raising bugs using IBM Rational ClearQuest when there is discrepancy between source and target tables
+
+- Environment: Informatica Power Center 9.1, TOAD 10.6, PL/SQL, IBM Rational ClearQuest, IBM Rational Quality Manager
+
+- CTMS Upgrade Project
+
+- Siebel Tester
+
+- Boston Scientific uses Siebel eClinical called Clinical Trial Management System (CTMS) for their clinical trials with data integration to and from various web based and client server applications used across enterprise
+
+- This project involves upgrading CTMS from Siebel eClinical 7.7 to Siebel eClinical 8.1
+
+- This project scope also includes migrating Clinical trials data from various heterogeneous applications used across worldwide locations of Boston Scientific Organization to CTMS 8.1
+
+- Involved in system testing, out of box testing, data conversion testing, data migration testing and integration testing
+
+- Worked in FDA regulated environment
+
+- Worked with business analyst , developers and project managers during project test cycle
+
+- Followed GSM methodology for writing test scripts and uploaded them to PDM application
+
+- Updated RTM document and map requirement with test case and test specification numbers
+
+- Developed many end to end tests based on requirement specification documents and BLD's
+
+- Extensively involved in integration testing, as many applications like RAVE, SAP. CDC, CMCR and Oracle BIP are integrated with CTMS application
+
+- Wrote hundreds of scripts and executed them during data migration and data convergence from Siebel 77 to Siebel 8.1
+
+- Extensively involved in testing of Siebel screens Administration Clinical, Payments, Subjects, Audit Trail, Admin-application, Service Request, Administration - Data, Admin - Product, Admin - iHelp, Admin Users, site management, Protocols, Activities, Programs, Regions Accounts, Contacts, Assets. User preferences screens
+
+- Validated CTMS application with different roles (BAA, Trial Operations, Monitoring, CRV Project Manager, NEU Project Manager, Compensation, Product Group and Basic user) and responsibilities (BSC CTMS BAA, Account and Contact Read only, Account and Contact Activity, Account and Contact Write Access, Payment Write Access, Protocol, Clinical Programs and Regions Read Only
+
+- Used IBM Rational ClearQuest for defect tracking
+
+- Used Siebel Tools 7.7 and 8.1 to compare business components, screens, views, applets, field Captions and to validate backend table and column field is retrieving data
+
+- Extensively worked with TOAD to query database for CMCR views, CDC views, DataMart Views and to compare 7.7 and 8.1 backend databases
+
+- Wrote complex queries when validating data during data migration & data convergence from 7.7 to 8.1
+
+- Developed SQL stored procedures from database design documents to query database
+
+- Involved in daily and weekly Test Triage meeting to discuss defects and issues with business users and CTMS team
+
+- Worked with MQSeries during integration testing
+
+- Generated BIP reports from CTMS and validated them by comparing data with backend data
+
+- Generating folders in CDC for Protocol, Sites, Accounts and Contacts through integration with CTMS
+
+- Helped development team to create iHelp items to assist real-time users as they navigate through application
+
+- Involved in testing application in WIN 7, IE&, and Office 2010 using VMware
+
+e« Environment: Siebel eClinical 7.7, Siebel eClinical 8.1, Toad, Oracle, IBM Rational ClearQuest, MQ
+Series, XML, Siebel Tools, PDM, CDC, VMware 4.5, IE 6.x, IE 8.x, Oracle BIP reports, SSIS 2008
+
+- Collaborated with team members to achieve target results
+
+Master of Science | USA 08/2010 San Francisco Bay University, Fremont,CA
+
+BzOhelor of Technology | Electrical, Electronics Engineering Technologies 05/2007 JNTU, Hyderabad, India
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

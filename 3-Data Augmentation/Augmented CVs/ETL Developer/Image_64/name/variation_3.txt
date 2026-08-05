@@ -1,0 +1,36 @@
+ROBERT SMITH ETL Informatica Developer II
+
+Phone: (0123}-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Over 15 years of experience as the ETL/Informatica developer. Good experience in the Analysis, Design, Development, Testing and Implementation of business application
+systems for Health care, Insurance and Financial purpose, Experience in Business
+
+Intelligence solutions using Data Warehousing/Data mart design, ETL and reporting tools.
+
+Lakisha Washington
+
+Informatica Powercenter. SQL. PL/SQL, Dimensional Modeling, Data Mapping. ETL.
+Data Migration, Data Warehousing, Informatica Powerexchange. Data Profiling
+
+ETL Informatica Developer I
+Morgan Stanley - January 2005 - Present Key Deliverables:
+
+- Analyzing the source data, coordinating with data warehouse tearm in developing relational model and participated in the design team and user requirement gathering.
+
+- Working as a developer in creating complex stored procedures, triggers, functions, indexes tables, views and other T-SQL code and SQL joins tor applications. Developed various T-SQL.
+
+- Storing procedures; functions and packages. built Data. Transtormation Services (OTS) packages for ETL using LTS wizard, involved in designing er models flogical/ physical) for Oracle database to store data retrieved from other sources including legacy systems.
+
+- Extensively using Informatica Power Center to extract data from various sources and load into staging database,
+
+- Solving T-SQL performance issues using query analyzer, Parsed the data from XMLs XSD file using XML. transformation. Participating in the detailed level and high-level design documentation of the ETL system and mapping of business rules
+
+- Interacting with the business representatives for need analysis and to define business and fiunetional specifications. Retrieving the data fromm MQ series sources.
+
+- Working on golden copy of master data management tool of informatica (Informatica MLM).
+
+Junior ETL Software Developer
+ABC Corp - 2003 - 2005
+
+2259 Oak Street, Old Forge, New York, 13420
+- This Bree Resume Template ls the copyright of Gwikrestune.com, Usage Guidelines

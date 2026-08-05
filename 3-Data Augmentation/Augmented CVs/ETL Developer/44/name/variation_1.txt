@@ -1,0 +1,158 @@
+Emily Walsh
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Seeking the position of a BI/ETL developer in an organization, wherein, my technical efficiency and commitment will contribute
+towards the organizational as well as personal growth.
+
+SKILLS
+------
+
+- Oracle BIEE 11G Analytics - Conducted by Maverick
+Solutions - Miami,FL(3Days) -2013
+
+- Oracle BI Publisher - Conducted by Oracle -Web based (2
+Days) -2016
+
+- Participations:
+
+- Active member in Oracle Technology Network (OTN) ,Providing solutions and discussing on OBIEE/BI Publisher at OTN
+
+- Skills
+
+- RDBMS
+
+- Oracle 10g/11g, SQL SERVER 2000,DB2
+
+- ETL Tools
+
+- Informatica (Power Center 9.0/ 8.6, Oracle Data Integrator.
+
+- Operating Systems
+
+- Windows/Linux/Unix.
+
+- Languages/Utilities
+
+- SQL, PL/SQL, XML, HTML
+
+- Other Tools
+
+- SQL
+
+- PLUS, SQL Developer, Toad
+
+WORK EXPERIENCE
+---------------
+
+BYV/ETL Developer, 02/2016 to Current FDNY - City, STATE
+- Effectively interacted with the end users for requirement gathering and defined requirement specifications document by access and retrieval of financial and personnel data from one single source.
+- Worked on different FDNY Applications like CID, CPAT, TRAINING, TRACKING,BHS.
+- Applied Optimization Techniques for the better performance of the reports.
+- Generated Tableau Dashboard with quick/context/global filters, parameters and calculated fields on Tableau reports.
+- Created Functions , Packages in Oracle to support Data Loading
+- Environment: OBIEE 11.1.1.7 ,Tableau9.0, Oracle BI Publisher, Smart View, Oracle11G,Unix,SQL Developer, Toad.
+
+OBIEE/Tableau Developer / BI Analyst, 10/2015 to 12/2015 Dunkin Brands - City, STATE
+- Understanding the Client requirements, source data, business objectives and key performance indicators.
+- Configuring the Analytics repository (RPD) and implementing the security to authenticate and authorize Oracle users.
+- Built the Physical Layer /Logical Layer/Business Model and Mapping Layer/ Presentation Layer of a Repository by using Star Schemas.
+- Identified the Facts, Dimensions, and grain of the Dimensional mode, and referential joins.
+- Built Repository at 3 layers ie., Physical Layer (connecting to Data sources and import schema), Business Model / data mapping (create Logical tables and data source mapping) and Presentation Layer level (create presentation catalogs).
+- Created Business Facts & Dimensions and defined Logical relation between them in BMM layer.
+- Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.
+- Developed Tableau visualizations and dashboards using Tableau Desktop.
+
+- Environment
+
+OBIEE/ETL Developer, 12/2014 to 10/2015 Audible - City, STATE
+- Involved in gathering requirements and prepare functional and Technical Code document for development.
+- Worked extensively with Physical Layer, Business Layer and Presentation Layer to customize the existing business models and also developed new models for maintenance.
+- Developed new Dashboards and Reports, for users through OBIEE Answers.
+- Involved in Performance Tuning of OBIEE Reports and BI Publisher Reports.
+- Involved in writing complex SQL Queries as part of report development in BI Publisher.
+- Involved in Performance tuning the complex SQL Queries by using different types of Hints.
+- Worked on different databases like Oracle, Redshift.
+
+- Environment
+
+OBIEE/ETL Developer, 10/2014 to 11/2014
+
+UPMC - City, STATE
+
+Involved in translating functional requirements into technical requirements assisted in building detailed project schedule, gathering
+the requirement, completed the proof of concept, Designed, Developed and Making Technical designs and Unit test scripts.
+
+- Creating KPI\'s (Key Performance Indicators), Interactive Dashboards, Administering Oracle OBIEE.
+
+- Applications.
+
+- Responsible for offshore / onsite coordination.
+
+Build test cases and tested the Reports/Dashboards by comparing the SOL Output on the Data warehouse to the values in the
+Reports/Dashboards, documented the test results.
+
+e« Enviroment
+
+OBIEE/ETL Developer, 07/2014 to 08/2014 ADT Security Services - City, STATE
+- Interacted with business Management representatives for gathering the Reports/ Dashboards requirements and to define business and functional specifications.
+- Created new repository, customized existing metadata Repository (rpd).
+- Designed and developed Physical Data Layer, Business Model & Mapping and Presentation Layer using BI Administration Tool.
+- Designed Physical relationship diagrams using Fact and Dimensional tables.
+- Developed Dimensions and Time Series objects in the Business Model and Mapping Layer.
+- Configured measures in the Logical Layer and mapped to multiple Physical source tables.
+- Configured iBots to deliver Analytics content based on schedule, automated iBot queries to obtain weekly reports, delivery of reports through email, hand-held devices and mobile phones.
+- Extensive Performance tuning in BI by implementing Aggregate navigation and cache management.
+
+- Environment
+
+OBIEE/ETL Developer, 03/2013 to 06/2014 BankUnited - City, STATE
+- Built Business model and established relationships & Foreign Keys (Physical & Logical) between tables.
+- Involved in Migration of Repository from Test Environment to Production Environment.
+- Compared Data from Hyperion Essbase with OBI for Data Validation.
+- Applied Optimization Techniques for the better performance of the reports.
+- Extensively used SQL Tuning to improve performance.
+- Created Financial Reports using SQL and PL/SQL in BI Publisher.
+- Created highly formatted pre- built reports with BI - Publisher.
+
+- Environment
+
+OBIEE/ETL Developer, 12/2012 to 02/2013 PNC Bank TCS - City, STATE
+- Involved in RPD Development, Oracle BI Administration, Oracle BI Answers, Scheduling IBOTS and BI Publisher.
+- Upgraded from 10g to 11g.
+- Created Views and alias for complex queries in the physical layer of OBIEE in order to improve the performance of the reports and to implement complex reports.
+- Developed Physical Layer, Business Model & Mapping and Presentation Layer using Oracle BI Administration Tool.
+- Specified Dimensional hierarchy, Aggregate levels for the dimensions.
+- Developed different brand level Reports, Filters, and Prompts using Oracle BI Answers.
+- Administered NOSCONFIG.INI and Instanceconfig.xml configuration files.
+- Creating KPI\'s (Key Performance Indicators), Interactive Dashboards, Administering Oracle OBIEE Applications.
+
+e¢ Environment
+
+Oracle BI Consultant, 08/2012 to 12/2012 Aramark Uniform Services - City, STATE
+
+- Involved in building detailed project schedule, gathering the requirements, completed the proof of concept in translating functional requirements into technical requirements, designed, developed and made Technical designs and Unit test scripts.
+
+- Designed and developed the OBIEE Metadata Repository (.rpd) using OBIEE/Siebel Analytics Server Admin tool by importing the required objects (Dimensions, Facts & Aggregates) with integrity constraints into Physical Layer using connection pool, developing multiple Dimensions (Drill-Down Hierarchies) & Logical & Facts / Measures objects in Business Model Layer, and creating the Presentation catalogs in Presentation Layer.
+
+- Upgrading OBIEE 10g to 11g and fixing the errors coming on the way.
+
+- Well versed with DataModelling/Data Quality/ETL.
+
+- Performed Data Validation of data in the reports, Fixed all the errors and warnings in the repository and web catalog.
+
+- Performed Unit, Integration, and Regression testing of various Dashboards / Reports and Repository.
+
+- Environment
+
+EDUCATION
+---------
+
+Master\'s Degree: Electrical & Electronics Mobile, May-2012 University of South Alabama - AL
+
+Bachelor\'s Degree: Electrical & Electronics Guntur RVR & JC College of Engineering - AP Electrical & Electronics Guntur
+
+RVR&JC

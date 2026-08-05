@@ -1,0 +1,61 @@
+Robert Smith CONTACT DETAILS
+
+1737 Marshwille Road, Alabama
+
+Informatica ETL Developer (123}-456-7899 info@qwikresume,com
+www.qwikresume.com
+
+PERSONAL STATEMENT
+
+Accomplished and results driven professional with years of experience and SKILLS
+
+an outstanding record of accomplishments providing technology solutions Oracle 9x/10/x/11 x,
+
+that meet dernanding time constraints. | exceed expectations on a Informatica 7x/@/9x,
+
+consistent basis. Expertly develop scalable solutions that drarnatically PL/SQL, Oracle
+
+improve efficiency, productivity, and profitability. Ware e Bullder 10x/L1x, Business
+
+WORK EXPERIENCE Analysis, Data
+
+Informatica ETL Developer ue] ny:
+
+ABC Corporation- June 2005 - February 2007
+
+Responsibilities: LANGUAGES . persion oe Extraction, Transformation and Loading of data using English (Native)
+imatica, French (Professional)
+- Involved in the design and development of all interfaces using Spanish (Professional) Informatica Powermart tools.
+- Used Debugger to test the mappings and fix bugs, = Used |nforrnatica to Extract and Transforrn the data from various source INTERESTS systerns by incorporating various business rules, Climbing = Developed standards and re-usable mappings and mapplets using Snowboarding various transformations like expression, aggregator, joiner, source Cooking qualifier, router, lookup, sorter, union, and filter. Reading = Created, updated and maintained the ETL technical documentation. = Managed Repository Users, Groups and Privileges,
+
+REFERENCES
+----------
+
+ETL Developer Reference - 1 (Company
+
+ABC Corporation- 2004-2005 Name)
+
+Responsibilities: Reference = 2 (Company
+
+Name)
+
+- Duration Feb 2005 - Sept 2005 Responsibilities Responsible for performance tuning ETL process to optimize load and query Performance Created complex transforrnations using connected / unconnected lookups / procedures Perforrned analysis of the data transformations.
+
+- Added and modified Informatica mappings and sessions to improve performance, accuracy, and maintainability of existing ETL functionality.
+
+= Provided suggestions to Improve existing mappings Wrote SQL overrides in source qualifiers with appropriate scherna names for extracting only
+the required rows for optimal performance.
+
+- Implemented cornplex expressions in expression transformations.
+
+= Tested the queries thoroughly in SQL navigator for integrity and identifying data errors Preparation of Unit Test Plans and verification of
+functional specifications and review of deliverables Setting of Error Logic for strearnlining and automating the.
+
+- Used the target load order feature for loading tables with constraints Provided production support by monitoring the processes running daily Identified the bottlenecks and improved overall performance of the sessions Environment Informatica Power Center 8.6, Erwin 4, Oracle
+Qi/10g, PL/SQL, PVCS, SQLLoader, TOAD, MS SQL Server 2005/2008,
+- This Eree Resume Template is the copyright of Quékresume.com. Usage Gukielines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

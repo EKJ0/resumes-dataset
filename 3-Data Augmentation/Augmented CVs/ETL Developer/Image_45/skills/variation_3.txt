@@ -1,0 +1,64 @@
+ETL Consultant II Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+ROBERT SMITH eee eacanccaleonemere
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Over 8 years of ETL Consultant IT Experience in analysis, design, development, implementation
+and troubleshooting of Data warchousec/Data Services applications and nearly 6 years of Experience in Informatica Power Center , 3 years of Experience in Datastage and Talend.
+
+ETL, Informatica, SSIS,
+
+WORK EXPERIENCE
+---------------
+
+ETL Consultant HI
+Scientific Technology Corp - February 2015- 2020
+
+Built environment which ereating and supporting state of the art IT systems for public health.
+Responsible for developing Platform as a service for 13 states for AFIX implementation.
+
+Plans recommend and architects solutions around large data Business intelligence solutions
+for the Interoperability of Healthcare data.
+
+Implemented in the areas of coding, configuration and query writing of BI solutions.
+
+Played as administrator for setting up development environments for Talend, Jasper soft, Postgres for AFIX development and documenting install plan at client locations.
+
+Worked on Talend ETL for building ODS/OLAP tables and responsible for preparing mapping documents.
+
+Responsible for creating test data for reports demos.
+
+ETL Consultant
+Delta Corporation - 2012-2015
+
+implemented Retail DW Team HUB-Spoke data model to build Multiple Data Marts {spokes} from legacy systems.
+
+The project is logically divided into two deliverables - Oracle DW (Hub) and Mart {spoke}.
+
+Hub ETL team extracts/loads data from DB2 to Oracle DW via staging Oracle structures.
+
+Mart ETL Team extracts/loads data from Oracle DW (Hub) to Campaign Management Data Mart {spoke}.
+
+This DW project implemented Agile methodology to deliver the business necds.
+
+Responsibilities Worked with Business Analyst to design Business Requirement Documents.
+Created a data dictionary to map the business requirements to attributes to design logical data
+model implementing star schema.
+
+EDUCATION
+---------
+
+B.Tech in Informatica Technology - (JNTU}
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

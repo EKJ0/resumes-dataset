@@ -1,0 +1,61 @@
+Robert S mith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+Website > www. qwikresume,com
+
+Informatica Etl Developer \liacadins linkacktecorneeelioeaurre
+Address; 1737 Marshwille Road, Alabarna
+
+SUMMARY
+-------
+
+Over 7+ years of experience In IT industry including 6 years of expertise in Analysis, Design,
+Development, Implementation, Modeling, Testing, and Support for Data Warehouse applications,
+Informatica Master Data Managernent, Data Quality and Data integration. Strong DWH & ETL experience in Informatica Power Center development, design, process and best practices
+experience as ETL Analyst and Developer in US,
+
+SKILLS
+------
+
+MS Office, Management,
+
+WORK EXPERIENCE
+---------------
+
+Informatica Et! Developer
+ABC Corporation - March 2013 - August 2015
+
+- Performed major role in understanding the business requirements and designing and loading the data into data warehouse (ETL),
+
+- Used ETL (Informatica) to load data frorn source to Data Warehouse,
+
+- Used Informatica client tools - Source Analyzer, Warehouse designer, Mapping Designer, Mapplets Designer, and Transformation Developer for defining Source Garp; Target definitions and coded the process of data flow from source systern to data warehouse,
+
+- Developed mappings in Inforrnatica to load the data from various sources into the Data Warehouse, using different transformations like Joiner, Aggregator, Update Strateay, Rank, Router, Lookup, Sequence Generator, Filter, Sorter and Source Qualifier.
+
+- Used Informatica repository manager to backup and migrate metadata in development, test and production ervironments,
+
+- Worked with mapping wizards for slowly changing dimensions and slowly growing dimensions by using Informatica rapping designer,
+
+- Used Informatica Workflow Manager and Workflow Monitor to schedule and monitor session status.
+
+Informatica Etl Developer
+Delta Corporation - 2009 - 2013
+- Interacted with the Functional Analysts to understand the process flow and the business,
+- Analyzing Source to Target mapping Excel docurnent.
+- Coordinating the tearn and assigning dependencies tasks to team,
+- Created Reusable Transformations and Mapplets, used thern in Mappings to develop the business logic for transforming source data into target.
+- Implemented Type ll Slowly Changing Dirnension methodology for accessing the full history of customers.
+- Created cormplex mappings using Unconnected Lookup, Sorter, Aggregator, dynamic Lookup, Filter, Update Strategy, and Router transformations,
+- Worked with Mernory cache for static and dynamic cache for the better throughput of sessions containing Rank, Lookup, Joiner, Sorter and Aggregator transformations.
+
+EDUCATION
+--------- Bachelors of Technology in Technology - (JNTU)
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Grukie lings
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

@@ -1,0 +1,124 @@
+Maria Garcia
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+History of mining, warehousing and analyzing data at the company-wide level. Knowledgeable about the principles and
+implementation of CRISP-DM to make sure clients get what they need. Create team playing making sure we achieve every goal in
+every project. fast learner and hardworking.
+
+SKILLS
+------
+- Enterprise information architecture ¢ Reverse engineering skills
+- AWS * Quality analysis
+- Informatica 9.6/10.2 ¢ Data mining
+- SSMS ¢ Data analytics
+- Tableau e Warehouse models
+- Oracle ¢ Data management
+
+- Security Protocols
+
+WORK EXPERIENCE
+---------------
+
+Tableau aND ETL Informatica Developer, 04/2018 to Current RR Donnelley - City, STATE Informatica Developer
+- Responsible for Business Analysis and Requirements Collection
+- Worked on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, and Workflow Monitor
+- Identify Source data quality issue and resolve discrepancies
+- Involved in building the ETL architecture and Source to Target mapping to load data into Data warehouse
+- Extracted the data from the flat files,CSV and other RDBMS databases into staging area and populated onto Data warehouse.
+- Used various transformations like Filter, Expression, Filter, Router, Update Sequence Generator, Sorter, Update strategy, Lookup, Joiner, and Union to develop robust mappings in the Informatica Designer
+- Created mapplets to use them in different mappings.
+- Worked on different tasks in Workflows like sessions, events raise, event wait, decision, e-mail, command, worklets, Assignment, Timer and scheduling of the workflow
+- Created sessions, configured workflows to extract data from various sources, transformed data, and loading into data warehouse.
+- Used Type 1 SCD and Type 2 SCD mappings to update slowly Changing Dimension Tables. TABLEAU DEVELOPER
+- Designed,developed,tested and maintained tableau function report based on user requirement.
+- Defined best practice for report development
+- Mastered the ability to design and deploy excellent graphic VIZ with drill down and drop down menu option and parameter to help users understand reports.
+- Used customer query to filter data source from oracle and SSMS based on client requirement and to improve dashboard performance.
+- Used dual axis for analyzed two measures for better VIZ based on requirement.
+- Responsible for creating calculated fields, combine fields,bins,sets,geo coding, and hierarchies.
+- Worked extensively with Advance analysis Actions, Calculations, Parameters, Background images, Maps, Trend Lines, Statistics and table calculations.
+- Restricted data for users using Row level security and User filters.
+- Collaborate with end users, project stakeholders and support partners to identify needs, goals, and business models
+- Developed Tableau workbooks from multiple data sources using Data Blending.
+- Developed Tableau workbooks from multiple data sources using Data Blending. AWS EXPERIENCE
+- Architecture experience in AWS technologies and administration including $3, EC2, IAM, VPC, Glacier, Lambda
+- Responsible for creating billing alarm, pricing tier options and AWS organization.
+- Responsible for cross replication, security and encryption.
+- Responsible for creating security groups, cloudfront.
+- Responsible for Ebs, snapshot backup and cloud watch.
+- Responsible for Database in AWS cloud, multi-AZ, redshift and database migration.
+- Responsible for Route 53 simple,weighted,latency,geolocation and failover policies.
+- Responsible for VPC SQS,SNS and Kinesis.
+
+Tableau and ETL Informatica, 02/2016 to 01/2018 Ladders Group - City, STATE Informatica Developer
+- Responsible for Business Analysis and Requirements Collection
+- Worked on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, and Workflow Monitor
+- Identify Source data quality issue and resolve discrepancies
+- Involved in building the ETL architecture and Source to Target mapping to load data into Data warehouse
+- Extracted the data from the flat files,CSV and other RDBMS databases into staging area and populated onto Data warehouse.
+- Used various transformations like Filter, Expression, Filter, Router, Update Sequence Generator, Sorter, Update strategy, Lookup, Joiner, and Union to develop robust mappings in the Informatica Designer
+- Created to use them in different mappings.
+- Worked on different tasks in Workflows like sessions, events raise, event wait, decision, e-mail, command, , Assignment, Timer and scheduling of the workflow
+- Created sessions, configured workflows to extract data from various sources, transformed data, and loading into data warehouse.
+- Used Type 1 SCD and Type 2 SCD mappings to update slowly Changing Dimension Tables. TABLEAU DEVELOPER
+- Designed,developed,tested and maintained tableau function report based on user requirement.
+- Defined best practice for report development
+- Mastered the ability to design and deploy excellent graphic VIZ with drill down and drop down menu option and parameter to help users understand reports.
+- Used customer query to filter data source from oracle and SSMS based on client requirement and to improve dashboard performance.
+- Used dual axis for analyzed two measures for better VIZ based on requirement.
+- Responsible for creating calculated fields, combine fields,bins,sets,geo coding, and hierarchies.
+- Worked extensively with Advance analysis Actions, Calculations, Parameters, Background images, Maps, Trend Lines, Statistics and table calculations.
+- Restricted data for users using Row level security and User filters.
+- Collaborate with end users, project stakeholders and support partners to identify needs, goals, and business models
+- Developed Tableau workbooks from multiple data sources using Data Blending.
+- Developed Tableau workbooks from multiple data sources using Data Blending. AWS EXPERIENCE
+- Architecture experience in AWS technologies and administration including $3, EC2, IAM, VPC, Glacier, Lambda
+- Responsible for creating billing alarm, pricing tier options and AWS organization.
+- Responsible for cross replication, security and encryption.
+- Responsible for creating security groups, cloudfront.
+- Responsible for , snapshot backup and cloud watch.
+- Responsible for Database in AWS cloud, multi-AZ, redshift and database migration.
+- Responsible for Route 53 simple,weighted,latency,geolocation and failover policies.
+- Responsible for VPC SQS,SNS and Kinesis.
+
+Tableau and ETL Informatica, 06/2015 to 01/2016 Pennywise - City, STATE Informatica Developer
+- Responsible for Business Analysis and Requirements Collection
+- Worked on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, and Workflow Monitor
+- Identify Source data quality issue and resolve discrepancies
+- Involved in building the ETL architecture and Source to Target mapping to load data into Data warehouse
+- Extracted the data from the flat files,CSV and other RDBMS databases into staging area and populated onto Data warehouse.
+- Used various transformations like Filter, Expression, Filter, Router, Update Sequence Generator, Sorter, Update strategy, Lookup, Joiner, and Union to develop robust mappings in the Informatica Designer
+- Created to use them in different mappings.
+- Worked on different tasks in Workflows like sessions, events raise, event wait, decision, e-mail, command, , Assignment, Timer and scheduling of the workflow
+- Created sessions, configured workflows to extract data from various sources, transformed data, and loading into data warehouse.
+- Used Type 1 SCD and Type 2 SCD mappings to update slowly Changing Dimension Tables. TABLEAU DEVELOPER
+- Designed,developed,tested and maintained tableau function report based on user requirement.
+- Defined best practice for report development
+- Mastered the ability to design and deploy excellent graphic VIZ with drill down and drop down menu option and parameter to help users understand reports.
+- Used customer query to filter data source from oracle and SSMS based on client requirement and to improve dashboard performance.
+- Used dual axis for analyzed two measures for better VIZ based on requirement.
+- Responsible for creating calculated fields, combine fields,bins,sets,geo coding, and hierarchies.
+- Worked extensively with Advance analysis Actions, Calculations, Parameters, Background images, Maps, Trend Lines, Statistics and table calculations.
+- Restricted data for users using Row level security and User filters.
+- Collaborate with end users, project stakeholders and support partners to identify needs, goals, and business models
+- Developed Tableau workbooks from multiple data sources using Data Blending.
+- Developed Tableau workbooks from multiple data sources using Data Blending. AWS EXPERIENCE
+- Architecture experience in AWS technologies and administration including $3, EC2, IAM, VPC, Glacier, Lambda
+- Responsible for creating billing alarm, pricing tier options and AWS organization.
+- Responsible for cross replication, security and encryption.
+- Responsible for creating security groups, cloudfront.
+- Responsible for , snapshot backup and cloud watch.
+- Responsible for Database in AWS cloud, multi-AZ, redshift and database migration.
+- Responsible for Route 53 simple,weighted,latency,geolocation and failover policies.
+- Responsible for VPC SQS,SNS and Kinesis.
+
+Education and Training
+Master of Science: Data Science, 03/2021
+
+Southern New Hampshire University - Hooksett, NH
+
+Bachelor of Science: Finance, 03/2017 Bridgewater State University - Bridgewater, MA

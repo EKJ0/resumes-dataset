@@ -1,0 +1,55 @@
+Lakisha Washington
+
+ETL Developer
+
+256-751-4786
+JonathanSKeller@hotmail.com
+Linkedin.com/in/jonathankeller
+
+SUMMARY
+-------
+
+Driven ETL developer with 6 years of professional experience. Researched and implemented 4 data
+management systems from the ground up. Improved efficiency and reduced bug occurrence by 17% through
+optimizing data warchousing software, in tum resulting in higher rate of met deadlines. Looking to employ my
+skillset to elevate PixaDrive on the business analytics market.
+
+WORK EXPERIENCE
+---------------
+
+ETL Developer
+
+Enginey, Chicago, IL
+
+April 2019-present
+
+Programmed, developed, and optimized databases daily using Teradata and SQL. Stecred team productivity
+toward a 22% increase in deadline meeting speed. Supervised communication to and between 30+ other
+technical and non-technical staff members, Stayed on top of all data authentication processes and prepared
+diligent bi-weekly error reports. Migrated existing data flows for all client accounts, moving away from an
+obsolete system and decreasing end user waiting times by up to 40%,
+
+Data Engineer
+
+Fareboard, Westerville, OH
+
+November 2014-December 2018
+
+Built new ETL packages using Microsoft SSIS. Served as a MySQL administrator for several extemal and
+internal databases. Created auditing plans for over 60 individual vendors to verify month-end market data
+closing.
+
+EDUCATION
+--------- MSc in Electronics & Computer Technology Miami University, Oxford, OH
+2013
+
+SKILLS
+------
+- Critical Thinking * MongoDB
+- Problem Solving « Informatica
+- Communication © CH
+- Teamwork e Java
+- SQL «Python
+- Teradata Other
+
+. Participated in over 10 regional hackathons, starting at age 17.

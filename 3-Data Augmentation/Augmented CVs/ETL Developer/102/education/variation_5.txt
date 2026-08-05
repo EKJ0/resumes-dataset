@@ -1,0 +1,447 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+CAREER OVERVIEW
+
+- IT professional having 8+ years of IT experience in analysis, design, development, testing, maintenance and implementation of complex Data Warehousing applications using ETL tool Informatica Power Center on OLAP and OLTP environment for Banking . Insurance and Health care clients. *Proficient using of Power Center tools (Designer, Workflow Manager, Workflow Monitor, Repository manager) and databases like Oracle,Teradata,.DB2, SQL Server on windows and UNIX environments. *Experience in all the phases of life cycle involving Requirement Analysis, Design, Coding, Testing, and Deployment. *Proficient in data modeling for OLTP relational databases and Data warehouse applications using Ralph Kimball and Bill Inman design principles including Facts and dimensions tables, Slowly Changing Dimensions (SCD) and Dimensional Modeling - Star and Snow Flake Schema. *Expertise in developing and running Mappings, Sessions/tasks, Workflows, Worklets and Batch processes. * Worked in Production support team for maintaining the mappings, sessions and workflows to load the data in Data warehouse. *Experience in integration of various data sources like Oracle, Teradata, DB2, Sybase, SQL server, MS Access and non-relational sources like Flat files and XML files into staging area. *Experience in designing Reusable Transformations in Informatica such as Joiner, Sorter, Aggregator, Expression, Lookup, Router, Filter, Update Strategy, Sequence Generator, Normalizer and Rank and Mappings using Informatica Designer and processing tasks using Workflow Manager to move data from multiple sources into targets. “Experienced in developing Master Data Management solutions using Informatica MDM. Proficient in configuring and creating Landing, Staging and Base tables in Informatica MDM Hub. *Expertise working with Informatica MDM components Hub Console, Hub Store, Hub Server and Cleanse Match Server used in building and administering MDM solution. *Worked on Data Profiling using Informatica Data Explorer (IDE) and Informatica Data Quality (IDQ) to examine different patterns of source data. Proficient in developing Informatica IDQ transformations like Parser, Classifier, Standardizer and Decision. *Experience in identifying bottlenecks in ETL Processes and Performance tuning of applications using Database Tuning, Partitioning, Index Usage, and Aggregate Tables, Session partitioning, Load strategies, commit intervals and transformation tuning.
+- Solid experience with Informatica PowerCenter Data Validation client for Unit testing ETL mappings and transformations. *Strong SQL, PL/SQL programming skills in Oracle 11g/10g, SQL Server 2012/2008, Teradata 14/13/12 and DB2 databases. Proficient in writing Packages, Stored Procedures, Triggers, Views, Indexes and query optimization. *Experience in Data masking of sensitive elements using Information Lifecycle Management(ILM) *Knowledge of Global Regulatory compliances like HL7, ICD, HIPAA and other standards relevant to the Life Sciences industry.
+
+QUALIFICATIONS
+
+- BI & ETL Tools
+
+- Informatica Power Center 9.6.1/9.5.1/9.1/8.6/8.1.Informatica Power Exchange, Informatica MDM 9.5, IDE 9.5.1, IDQ 9.6.1/9.5.1, B2BDX/DT v 8.0
+
+- Databases
+
+- Oracle11g/10g, SQL Server 2008/2012, MS-Access, DB2 and Teradata.
+
+- Operating System
+
+- Windows Server 2012/2008, Windows 7/2003/2000, Unix and Linux.
+
+- Languages
+
+- SQL, PL/SQL, BTEQ, UNIX shell scripting, HTML, XML and a
+
+- Domains
+
+- Annuity & Life Insurance, Finance and Health Care
+
+- Methodologies
+
+- Data Modeling Logical / Physical, Star’ Snowflake Schema, FACT& Dimension Tables, ETL, OLAP, Software Development Life Cycle (SDLC)
+
+- Others Tools
+
+- HP Quality Center, Edit Plus, Microsoft word , Excel VBA ,Toad, Autosys, Control-M.CA Harvest, AR Remedy Ticket Tracking System , WinScp, Putty and SVN tortoise.
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+Senior Informatica Developer Cox Communications Inc - Torrance, CA
+- Surge (Enterprise Onboarding) Duration : September 2015 to Till-date Project Description: HMS organization is providing Business Intelligence to State and Federal government to reduce the cost in Health Insurance Sector. Enterprise Onboarding project is about Provider Loads and Claims files is to load information of Commercial Insurance and information provided by State and Federal. Extract data from Mainframe source, Process for Cleansing, reformat, data validation; apply rules, Transform and Load in to DB2 tables. Power Exchange is to read source data from Mainframe system, Power Center for the ETL and DB2 as Targets. Responsibilities:.
+- Analyzed the existing data for Requirement gathering at initial stage of project. Contacted Business users for clarification and worked with Business Analyst to have complete understanding of Business needs and expectations. Extensively worked with Informatica Designer. Designed and developed Informatica mappings for data loads and data cleansing. Created Informatica Mappings, Sessions and Workflows as per technical design specifications in Informatica Powercenter Designer.
+
+Used various transformations like Filter, Router, Expression, Lookup (connected and unconnected), Aggregator, Sequence Generator,
+Update Strategy, Joiner, Normalizer, Sorter and Union to develop robust mappings in the Informatica Designer.
+Developed and documented Informatica Mappings/Transformations, and Informatica sessions in a detail design document.
+
+Tuned performance of Informatica session for large data files by increasing block size, data cache size, sequence buffer length and target
+based on commit interval.
+
+- Tuning the ETL-Informatica code in Mapping level and session level.
+
+Created Sessions and Batches to run Informatica Workflows.
+
+- Used Informatica Powerexchange Passport tool to analyze raw source data for legacy systems.
+
+- Identified reusable functionality, developed re-usable Transformation, Mapplets, Sessions and Worklets.
+
+In order to maintain data quality developed data profiling, data mapping, data validation, data manipulation using Informatica Data
+Quality tool.
+
+Implemented Pass Through, Auto Hash, User defined Hash Key and Data Base Partitions for performance tuning in Informatica.
+Debugging with debugger and Verbose Initialized, Verbose Data types in Informatica.
+
+Designed Mappings using B2B Data Transformation Studio.
+
+Used Data Transformation Studio to transform unstructured to structured forms.
+
+Used major components like Serializers, Parsers, Mappers and Streamers in Data Transformation Studio for conversion of XML files to
+other formats.
+
+Worked with XSD and XML files generation through Informatica ETL process.
+
+Followed Peer review, Group review for the source code.
+
+Unit testing of the mappings.
+
+Preparing Validation SQL scripts.
+
+Migrating the all UNIX shell scripts, Parameter files, and Env files thru SVN Version to various Environments.
+
+- Order the Control-M jobs from Desktop to Enterprise Manager and automated the Informatica Jobs.
+
+- Migrating the Informatica- Workflows, Mappings and sessions to QA and Production environment.
+
+Worked with ICD Codes.
+
+Environment: Informatica PowerCenter 9.6.1/9.5.1, B2B DX/DT , MS SQL Server (v2008, v2014),Oracle 11g, DB2.Flat Files,
+Mainframe Files, TOAD 9.7, Passport Mainframe Tool ,Informatica PowerExchange Informatica Data Quality(IDQ) 9.6.1/9.5.1 , SQL/
+PLSQL, UNIX Shell Scripting ,Track+ and CA Harvest.
+
+08/2014 to 09/2015 ETL Developer
+
+Cgi Group Inc. - Providence, RI
+
+- Citi Bank is a banking firm which provides various financial services to its clients.
+
+One of its domains is Mortgage banking.
+I worked on Mortgage Banking Data Analysis.
+This project targeted to maintain the data for regulatory requirement in mortgage business.
+In Mortgage data analysis we assess the credibility of the borrower and the worth of the foreclosed properties.
+We get data from various upstream sources, some of them are internal while others are External, and we load the
+data and then provide the data to the middle office and downstream consumers.
+Responsibilities:.
+Interact with business users to get Business requirements and analyses source systems data.
+
+Gathering the Information from Source systems, Business documents and prepares the Data Conversion and
+migration technical design documents.
+
+Working with clients on Design, Development and walkthroughs.
+
+Performed analysis of Business requirements and interpreted transformation rules for all target data objects.
+
+Developed ETL specification based on business requirements.
+
+Created Informatica Mappings, Sessions and Workflows as per technical design specifications.
+
+Creating Informatica mappings with transformations like Source Qualifier, Lookup, Aggregator, Expression, Filter,
+Router, Update Strategy, Sequence Generator, etc.
+
+Worked with Different Informatica data transformations like Aggregate, Data conversion, Derived Columns, Union
+All, Sort, and Merge joins, look up etc.
+
+Developed Complex mappings in Informatica to load the data from various sources using different transformations
+
+like Source Qualifier, Look up (connected and unconnected), Expression, Aggregate, Update Strategy, Sequence
+Generator, Joiner, Filter, Update Strategy Rank and Router transformations.
+
+Used debugger to test the mapping and fixed the bugs.
+
+Played an extensive role in business requirement gathering, requirement analysis, database design, ETL design,
+
+development and implementation of the end to end solution, using SDLC techniques.
+
+Developed Informatica Mapplets using corresponding Source, Targets and Transformations.
+
+Executed Informatica sessions, sequential and concurrent batches for proper execution of mappings and sent e-mail
+using server manager.
+
+Used Informatica session partitions, dynamic cache memory, and index cache to improve the performance of
+Informatica server.
+
+In order to maintain data quality developed data profiling, data mapping, data validation, data manipulation using
+Informatica Data Quality.
+
+Created table profiles and join profiles.
+
+Created Informatica mappings and mapplets using Informatica Informatica Data Quality tool.
+
+Used Informatica Data quality tool where address validator transformation (address doctor) to validate incoming
+address.
+
+Perform data population tests against target system to ensure accuracy and quality of data.
+
+Perform UNIT testing on deliverables and documenting.
+
+Identifying source data quality issues and resolves discrepancies.
+
+Tuning the ETL-Informatica code in Mapping level and session level.
+
+Migrating the all UNIX shell scripts, Parameter files, and Env files thru SVN Version to various Environments.
+Order the Control-M jobs from Desktop to Enterprise Manager and automated the ETL Jobs.
+
+Migrating the ETL- Workflows, Mappings and sessions to QA and Production environment.
+
+Created and scheduled workflows using Workflow Manager to load the data into the Target Database.
+Performed Unit Testing and Integration Testing of Mappings and Workflows.
+
+Assisted in migrating jobs across Development, QA, Production environments.
+
+Involve in Production support rotation basis (24.
+
+- 7).
+
+- Involve in Status Reporting to the Customer and Management.
+
+- Environment: Informatica PowerCenter 9.5.1, Oracle 11g, SQL Server 2012, Flat Files, TOAD, SVN Tortoise, Control-M Desktop/Enterprise Manager, UNIX Shell Scripting.
+
+03/2013 to 06/2014 ETL Developer Cgi Group Inc.
+
+- Davita has a central HUB database where all the patient and Pharmacy details are stored.
+
+- Here all the source system data PATTY/ REGGIE/ DART is migrated to a new system.
+
+- All this data has been divided to different ingestion pipelines and moved to the target systems through XML's and flat files as per the requirements.
+
+- Responsibilities:.
+
+- Analyze the data from different sources te.
+
+- SFDC Apex Data Loader,Oracle, SQL Server and Flat file and define Data Warehouse/ ETL process.
+
+- Designed the Data Warehouse/ ETL processes using Informatica Power Center to extract, transform and load data from multiple input sources like SQL Server and Oracle to target Oracle database.
+
+- Created complex mappings using various transformations such as Rank, Joiner, Expression, Lookup (Connected/ Unconnected), Aggregate, Filter, Update Strategy, Sequence Generator etc to implement the user requirements.
+
+- Used various transformations like Filter, Router, Expression, Lookup (connected and unconnected), Aggregator, Sequence Generator, Update Strategy, Joiner, Normalizer, Sorter and Union to develop robust mappings in the Informatica Designer.
+
+- Developed and documented Informatica Mappings/Transformations, and Informatica sessions in a detail design document.
+
+- Designed Informatica Mappings using B2B Data Transformation Studio.
+
+- Used Informatica Data Transformation Studio to transform unstructured to structured forms.
+
+- Used major components like Serializers, Parsers, Mappers and Streamers in Data Transformation Studio for conversion of XML files to other formats Informatica Powercenter.
+
+- Used Informatica Powerexchange Passport tool to analyze raw source data for legacy systems.
+
+- Implemented Type II Slowly Changing Dimensions Methodology to keep track of historical data.
+
+- Used Informatica Powercenter Session parameters, Mapping variable/parameters and created Parameter files for imparting flexible runs of workflows based on changing variable values.
+
+- Created and scheduled Informatica Powercenter workflows using Workflow Manager to load the data into the Target Database.
+
+- Tuning the ETL-Informatica code in Mapping level and session level.
+
+- Performed Unit Testing and Integration Testing of Mappings and Workflows developed.
+
+- Worked with HL7 Data,HIPAA Transactions, and ICD Codes.
+
+- Worked with HIPAA Transactions and EDI transaction sets (834, 835, 837, 824, 820, 270, 276, 271, 278).
+
+- Environment: Informatica PowerCenter 9.1, Informatica PowerExchange, B2LBDX/DTv,SFDC.SFDC Apex Data Loader, Oracle 11g, SQL.PL/SQL ,UNIX Shell Scripting.
+
+04/2012 to 02/2013 IDQ Developer Cognizant Technology Solutions - Lewisville, TX
+
+- CNA Financial Corporation 1s a financial corporation based in Chicago, Illinois, United States.
+
+- The data related to their operations is present in various source systems like oracle.
+
+- CNA'S Data Warehouse stores terabytes of Premium, Claims & Accounting information.
+
+- This data is loaded into Data Marts for Actuarial & Financial analysis.
+
+- Responsibilities:.
+
+- Designed and developed ETL framework/MDM/IDQ.
+
+- This is the collections of all claims, customer's information.
+
+- Played an extensive role in business requirement gathering, requirement analysis, database design, ETL design.
+
+- Implemented Informatica MDM hub.
+
+- Obtained golden records using Informatica master data management hub console.
+
+- Created base objects, relations ships using Informatica MDM.
+
+- Designed schema and relations ships between tables.
+
+- Created and configured schema objects.
+
+- Configured relation among table to obtain LKP.
+
+- Cleated mappings and clench functions to load staging tables in Informatica MDM.
+
+- Configured Match/merge in Informatica MDM to obtain golden records.
+
+- Configured validation and trust.
+
+- Related queries and packages in hub console.
+
+- Configured batch group to load the jobs.
+
+- Configured auto merge.
+
+- Configured manual merge.
+
+- Hand on experience on IDD.
+
+- Loaded the landing tables with the help of etl jobs.
+
+- Tested the code and deployed in to production environment.
+
+- Redesigned the existing data mart ODS, in order to increase the performance and reduce the maintenance cost.
+
+- Successfully implemented this in production.
+
+- Prepared high level and low level design documents.
+
+- Implemented Type-1 & Type-2 Mappings for both Dimensions and Facts.
+
+- Designed the complex mapping with complex business logs.
+
+- In order to maintain data quality developed data profiling, data mapping, data validation, data manipulation using Informatica Data Quality.
+
+- Created table profiles and join profiles.
+
+- Created mappings and mapplets using Informatica Informatica Data Quality tool.
+
+- Used address validates transformation (address doctor) to validate incoming address.
+
+- Analyzed/profile data for the incoming sources.
+
+- Used Source Analyzer, Warehouse designer, Mapping designer, Mapplet Designer.
+
+- Developed Mappings, Sessions and Workflows using Informatica Power Center Designer and Workflow Manager.
+
+- Automation and scheduling of UNIX shell scripts and Informatica sessions and batches using Control-M.
+
+- Participated in Resource Planning, Estimation, Design, Coding, Unit Testing and Production Support.
+
+- Worked with various teams like QA, DBA, System Maintenance and Support, Underwriters and Compliance.
+
+- Creation & Review of Unit Test case documents.
+
+- Did the peer reviews of ETL code.
+
+- Assisted Testers with data issues as well as tested the ETL flows.
+
+- Provided Pre & Post production assistance.
+
+- Uploaded/modified Customer Parameter files in UNIX to use variables for Workflow sessions.
+
+- Played the role of admin and performed admin tasks.
+
+- Worked with Shortcuts across Shared and Non Shared Folders.
+
+- Migrating the all UNIX shell scripts, Parameter files, and Env files thru SVN Version to various Environments.
+
+- Order the Control-M jobs from Desktop to Enterprise Manager and automated Informatica Jobs.
+
+- Migrating the Informatica~ Workflows, Mappings and sessions to QA and Production environment.
+
+- Environment: Informatica PowerCenter 9x, Informatica IDQ 9.1, Informatica MDM 9.5, Teradata, Oracle 11g, SQL Server, Toad, Control-M, Unix Shell Scripting (korn shell), SQL, PL/SQL.MS Excel, HP Defect Tracker, AR Remedy Ticket Tracking System.
+
+01/2012 to 03/2012 ETL Developer Cgi Group Inc. - Rochester, NY
+
+- Ochsner Health Systems is non-profit health care provider in Louisiana.
+
+- The objective of the project is to consolidate the patient data originating from different departments into Oracle Data warehouse and then data is loaded into downstream data marts.
+
+- Responsibilities:.
+
+- Collect business requirements from the users/Business Analysts & Converted the Business logic into functional specs with enhancements to get better performance of the system.
+
+- Created and Worked technical requirements and detail level documents.
+
+- Involve in the entire SDLC (Software Development Life Cycle) process that includes implementation, testing, deployment and maintenance.
+
+- Analyzed different data sources like Oracle 11g, Flat files and XML files and understand the relationships by analyzing the OLTP Sources and loaded into Oracle data warehouse.
+
+- Performed Oracle Data Warehousing design and development including data modeling and backend processes, specifically, Extraction, Transformation and Loading (ETL) of data into staging tables and then into Data Marts/ Warehouses.
+
+- Extensively worked on developing Informatica Mappings, Mapplets, Sessions, Workflows and Worklets for the data to target warehouse using Informatica Workflow Manager.
+
+- Developed Mapplets and Reusable Transformations to prevent redundancy of transformation usage and maintainability.
+
+- Implemented and extensively worked on Slowly Changing Dimensions (SCDs both Type 1 & Type2).
+
+- Configured the sessions using Workflow Manager to have multiple partitions on Source data and to improve performance.
+
+- Used Informatica Debugger, session logs and Toad to resolve problems in a timely manner.
+
+- Worked on performance tuning Informatica Mappings to identify and remove processing bottlenecks.
+
+- Deployed and monitored Informatica mappings into production.
+
+- Wrote PL/SQL Packages, Stored Procedures and Views in Oracle 11g.
+
+- Coordinate and develop all documentation related to ETL design and development.
+
+- Worked extensively with HL7 Data, EDI X12 Messages, HIPAA Transactions, and ICD Codes.
+
+- Worked with HIPAA Transactions and EDI transaction sets (834, 835, 837, 824, 820, 270, 276, 271, 278).
+
+- HL7 data was used in creating EMPI and also Patients Datamart.
+
+- Parsed HL7 messages and worked with HL7 Delimiter definitions (Segment Terminator, Field Separator, Component Seperator, Subcomponent separator, Repetition Separator, Escape Separator) for identifying and Separating HL7 data.
+
+- Environment: Informatica PowerCenter 9x,Informatica PowerExchange, Toad Data Modeler, Oracle 10g/11g. Toad,XML flies, PL/SQL, Linux, UNIX Shell Scripting.
+
+08/2009 to 12/2011 Informatica Developer Cognizant Technology Solutions - Lombard, Australia
+- Isentia is the Asia-Pacific region's leading media intelligence company, providing over 5,000 clients with
+information, analysis 24/7/365.
+
+- Isentia has more than 1,100 employees across 15 countries filtering information from over 5,500 print, radio and television media outlets and over 250 million online conversations per month Extracting the necessary data from various enterprise data sources defining. standardizing and measuring the quality as it is loaded into DWH, the providing a common toolset to be used by business users to measure results, solve problems, analyze and take actions to make world class BI program. Responsibilities:. Analyzed the Performed Data profiling on source systems data and the current reports at the client side to gather the requirements for the Design inception. Prepared the High Level design documents like TAD and LLD documents like ETL specification documents. Analyzed Logical data Models and Forward Engineering the Physical data models using Erwin tool and execute them in DEV environment. Created Informatica Mappings, Sessions and Workflows as per technical design specifications. Creating Informatica mappings with transformations like Source Qualifier, Lookup, Aggregator, Expression, Filter, Router, Update Strategy, Sequence Generator, etc. Worked with Different Informatica data transformations like Aggregate, Data conversion, Derived Columns, Union All, Sort, and Merge joins, look up etc. Developed Complex mappings in Informatica to load the data from various sources using different transformations
+
+like Source Qualifier, Look up (connected and unconnected), Expression, Aggregate, Update Strategy, Sequence
+Generator, Joiner, Filter, Update Strategy Rank and Router transformations.
+
+Used debugger to test the mapping and fixed the bugs.
+
+Played an extensive role in business requirement gathering, requirement analysis, database design, ETL design,
+
+development and implementation of the end to end solution, using SDLC techniques.
+
+Experience with upgrading and migrated all the jobs from 7x to 8x.
+
+Designed and modified more than 20+ jobs for Informatica ETL components.
+
+Experience in modifying existing job according to client requirement and loading data into staging tables.
+Steps to improve the quality of identity data.
+
+Designed Jobs Using complex Stages like Web Services Client (source), XML Input Stage, Complex Flat File
+Stage, and Hashed file Stage.
+
+Involved and worked in staging area and supporting and developing.
+
+Involved in designing relational models for ODS and data marts using Kimball methodology.
+
+Extracted and transformed data from high volume data sets of delimited files and relational sources to load into
+target Database.
+
+Used parameters and variables extensively in all the mappings. sessions and workflows for easier code
+
+modification and maintenance.
+
+- Analyzed existing SQL queries, tables and indexes for performance tuning and advised based on the loading time.
+
+- Effectively used error handling logic mechanism for data and process errors.
+
+- Performance tuning has been done to increase the through put for both mapping and session level for large data files by increasing target based commit interval.
+
+- Prepared Unit test reports and executing the Unit testing queries.
+
+- Supporting the UAT and fixing the issues raised in QA.
+
+- Providing post production support for the project.
+
+- Environment: Informatica PowerCenter 7x/8x, Oracle 10g, WinScp, putty, TOAD, SQL Developer, SVN tortoise.
+
+EDUCATION AND TRAINING
+
+2008 Bachelor of Technology: National American University - Hyderabad Electrical and Electronics
+
+TECHNICAL SKILLS
+----------------
+
+SKILLS
+------
+
+Accounting, AR. Automation, B2B, banking, Business Analyst, BI, Business Intelligence, C, CNA, CA, conversion, Client, clients, Data
+Analysis, Data Conversion, data management, Data Modeling, data validation, data warehouse, DBA, Databases, Data Base, Database,
+database design, Data Warehousing, Debugging, designing, Dimensions, documentation, downstream, Edit, EDI, e-mail, Erwin, ETL, Excel
+VBA, XML, Finance, Financial, Financial analysis, forms, functional, government, HP, HTML, HUB, DB2, IDE 9.5.1, Informatica,
+Insurance, korn shell, Linux, logic, Mainframe, memory, MS-Access, MS Excel, Exchange, office, Windows 7, 2000, 9x, Microsoft word,
+migration, Enterprise, ODS, OLAP, Operating System, Oracle, Oracle database, Developer, PLSQL, PL/SQL, Peer review, processes, profit,
+Coding, Quality, QA, radio, read, Reporting, Requirement, Router, scheduling, SDLC, scripts, Software Development, Sorter, specification,
+MS SQL Server, SQL, SQL Server, Strategy, structured, Tables, television, Teradata, TOAD. TOAD 9.7, Type, Type2, Type 1, Type II,
+UNIX, UNIX shell scripts, UNIX Shell Scripting, upgrading, upstream, Validation, Windows Server, Workflow

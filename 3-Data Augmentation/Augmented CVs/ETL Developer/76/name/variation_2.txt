@@ -1,0 +1,189 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Greg Baker
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales
+professional with track record of driving increased sales, improving buying experience and elevating company
+profile with target market.
+
+- = Java/C/C++
+
+ETL TESTER 09/2013 to CURRENT Cognizant Technology Solutions | Brooklyn, NY
+
+- Reviewed Source to Target mappings, identified data dependencies and created test data sets. Wrote and executed test cases. Tested the Extract, Transform, and Loading (ETL) ETL functionality and validated the ETL logic
+
+- Performed back end SQL testing through iterative incremental releases. Executed and monitored Autosys batch jobs. Performed data validation on the Dimensional, Fact and Lookup tables and ensured that Type 1 and Type 2 slowly changing dimensions are handled correctly. Performed data reconciliation between source and target tables and checked data integrity. Ensure the correct application of Data transformations including Data roll-ups/aggregations and event processing rules
+
+- Investigated data retrieval issues, Date load failures, Data redundancy and Data inconsistency defects. Researched system logs to trace the source of problems
+
+SFOQA ANALYST/ SYSTEMS TESTER 09/2005 to 11/2007 Datto | Richmond, VA
+
+- Validated the ETL functionality (properly processing good data, transformations, calculations, and
+derivations) and performed back end testing through extensive use of SQL (300 +) queries and MS
+Access Automation
+
+- Reviewed business requirements, process flows and data models to grasp the input data sources, how business rules are applied to the data and how data is represented externally. Translated work stream related technical specs into testable requirements
+
+- Developed test plans and test cases including documentation of test procedures and test results using Quality Center. Continually adapted the enhancements and change requests to redefine the testing scope. Created and maintained modular test scripts for iterative incremental testing
+
+- Performed Data Analysis, Identified data dependencies within the source systems to create test data sets. Used Excel, MS Access and SQL to extract and analyze information
+
+- Validated the operational processes including the Extraction, Transformation, Data Mapping and Data Load steps. Verified that the data output by the work stream complied with the specified processing logic and data controls
+
+- Reconciled data between source and target tables. Performed validations of target populations for data consistency and accuracy. Conducted process and data level checks to ensure data integrity and that the client-specific business rules are applied correctly
+
+- Performed component and end-to-end testing in an operational environment to assess the extent to which the interrelated data systems supported the SCBSL process
+
+- Worked with development team to create a suite of test data (both input files and expected results) that fully exercised data validation (detecting and rejecting bad data). Provided data queries / data extracts as requested by the business or internal Data Management teams
+
+- Validated data corrections and on-top adjustments to resolve up-stream data issues
+
+- Extensively used Ab Initio graphs to test custom ETL processes and functionalities. Performed component test activities for change requests and production fixes. Supported data cleanup efforts through root cause analysis
+
+- Executed and monitored the Autosys batch jobs to ensure successful operation
+
+- Performed component/cross-product failure analysis. Researched system logs to trace the source of problems. Escalated and retested issues through adherence to the internal defect management process
+
+Tools/technologies used: Ab Initio, Autosys, Oracle 10g, SQL, PL/SQL, Unix(Sun Os) , Shell Scripting, HP
+Quality Center, IBM DOORS, Rational ClearQuest, MS Access, MS Excel, TOAD, Rapid SQL
+
+ETO TEST ANALY ST 03/2012 to 08/2013 Harmon International Industries | Albany, NY
+
+Project: U.S. Department of Education - Federal Student Aid's (FSA) Debt Management Collection System
+(DMCS). This system holds $45 billion in default student loans for 4 million borrowers. It enables collection
+agencies, educational institutions, Government agencies, and individual default borrowers to track and
+manage student loan collection and payout activities. Testing activities including Production support testing
+for existing ETL processes, verification and validation of new ETL programs and data cleansing initiatives.
+
+- Achieved 100% full volume data validation for the areas / subsystems assigned. Automated data testing using SQL and ensured full coverage from the point of view of data combinations and data workflows
+
+- Led data clean-up efforts including problem analysis and solution proposal. Served as the primary testing Point of Contact for the assigned projects; researched data quality issues and recommended solutions
+
+- Performed data-quality checks and data reconciliation on file-to-file, file-to-table and table-to-table data transfers. Tested data processing from start to finish including checking for completeness, conformity, consistency, accuracy, duplicates, and integrity
+
+- Conducted source to target analysis on existing ETL processes: performed change impact analysis on ETL code changes and provided testing estimates. Reviewed Workflows, mapping specifications, data definitions, data relationships and business rules; Conditioned and/or acquired test data to create test scenarios
+
+- Created and maintained root cause analysis documentation for each issue associated with data elements across upstream and downstream systems. Identified problematic areas in ETL processes, data gaps. inconsistencies and exceptions. Performed initial debugging procedures by reviewing configuration files, logs, or code pieces to determine the breakdown source
+
+- Archived and maintained Test Artifacts including actual vs. expected results as well as a suite of regression test queries with baseline data used to test post-release modifications and enhancements
+
+TEOT AUTOMATION / SR. QA ANALYST 10/2008 to 02/2011 Xerox Education Solutions | City, STATE
+
+Project: Common Services for Borrowers (CSB) project for the Federal Student Aid (FSA) office of the U.S.
+Department of Education, a servicing system to manage the federal student loan program for 10 million
+student borrowers. Performed test automation, manual and backend QA activities on the CSB Web and
+Terminal (Cobol Green screen) applications.
+
+Accomplishments/ Responsibilities:
+
+- Applied test automation concepts, practices and procedures to the CSB project's Web and Terminal applications. Achieved 80% test case automation coverage; Reduced regression execution time by 60% (from 40 hours to approximately 16 hours). Executed and monitored automation runs (500 test cases) in SIT and UAT environments
+
+- Supervised a team of 4 QA automation engineers
+
+- Wrote and created a 600 + SQL queries repository for test data preparation and back end data validation
+
+- Designed and implemented an object based framework providing a consistent structure for reusable and maintainable test automation scripts. Wrote Test Automation Framework document. Defined the automation process and approach
+
+- Established and promoted coding standards and conventions. Provided technical direction and organization of framework architecture ensuring minimal duplication of efforts through maximum reuse of defined solutions
+
+- Migrated manual test plans into the framework. Automated test cases using Rational Functional Tester (RFT) for inclusion in functional and regression suites
+
+- Coded and maintained test automation harness consisting of custom function libraries, common components, utilities and test drivers. Designed program logic and data processing, evaluated procedural and programming data, and developed Java classes and method constructs that are well structured and sufficiently commented
+
+- Used Descriptive Programming (Dynamic Object Recognition) concepts to promote quick test script development. Wrote Super Helper Classes and Wrapper Classes (to RFT's API) to perform operations on controls
+
+- Applied Object Oriented programming techniques and constructs including Inheritance, exception handling, parsing, regular expressions, single / multidimensional arrays and file operations
+
+- Developed data-driven, modular and extensible scripts using spreadsheets and csv files to store test data and expected results. Wrote complex SQL to mine and condition test data
+
+- Used JDBC connectivity to submit SQL calls from the automation script and automatically create the test data file
+
+- Defined ClearCase repository structure: Integrated RFT and ClearCase: Version controlled the test automation assets
+
+- Maintained suites/scripts across a series of phased releases. Performed impact analysis of application and data changes. Incrementally updated scripts to base-line and keep in-sync with the application's functionality
+
+- Participated in reviews of test automation deliverables ensuring a closed loop between the system and test design. Apprised project management with presentations on detailed status of each active test automation project including overall product quality, outstanding bugs, targets achieved and upcoming milestones
+
+- Analyzed reporting requirements in relation to business processes, system interfaces and data structures
+
+- Tested MicroStrategy upgrade from version 8.1 to 8.3 to ensure that existing reports function as expected in the upgraded infrastructure. Validated reports based on information available through the application's user interface and using SQL queries
+
+- Performed data quality analysis, defined test conditions and expected results using SQL and Excel. Tested the data extraction procedures designed to extract data into flat feed files. Analyzed data flow requirements. Validated mapping specifications and transformation rules from source to target
+
+- Verified the initial and incremental data loads into the data mart. Developed standard data quality checks to ensure nightly loads complete successfully. Performed data quality checks to ensure completeness, validity, referential integrity and accuracy to source. Executed backend data-driven test efforts with a focus on data transformations. Evaluated the accuracy of data transcriptions/conversions based on a set of predefined business rules
+
+Tools/technologies used: Rational Functional Tester v8.x, Rational Quality Manager, Rational
+TestManager, Rational ClearQuest, Rational ClearCase, Java SDK 1.6, Java (J2EE) 2.0, Terminal
+Applications (Cobol Green Screens), MicroStrategy 8.1, Oracle 10g, MS SQL Server, Toad v9.0, Transact-
+SQL (T-SQL), SQL, Pervasive Data Integrator, MS Excel, MS Access, I.E. 7.0 & 8.0
+
+SFOQA ENGINEER 03/2011 to 02/2012 The Carlyle Group | City, STATE
+
+Project: PeopleSoft Financials ERP application (Project Mercury) - Modules include Accounts Payable (AP),
+Cash Management, Project Costing, Billing, AR and GL.
+
+Accomplishments/ Responsibilities:
+- Successfully performed testing activities on a major International bank project including the UAT with end users.
+- Led the testing efforts in support of PeopleSoft applications that included implementations, customizations, integrations and upgrade projects. Worked independently and as part of a cross- functional team in an informal and unstructured environment with many concurrent tasks where constant change is the norm
+- Coordinated and facilitated UAT sessions for a Banking Integration project. Prepared task list and documentation including test data and test scripts; managed the UAT execution and provided summary to stakeholders
+- Tested complete modules and as well as single functional initiatives within a business process area. Tested across multiple environments as related to data fixes, patches, enhancements and upgrades including testing code changes to existing objects, interfaces and conversions
+- Performed Online and Batch transaction testing; End-to-End testing; Functional and Regression testing ) PeopleTools and Application Upgrade & Patch testing: Role-based Security testing; Work Flow Testing o Production Support testing; Integration testing; Data Conversion and SQL testing: XML validations
+- Modified the PeopleSoft configurations settings (user profiles, roles, security access) for test execution
+- Analyzed Change requests to determine potential upstream/downstream impacts; estimated task efforts: performed root cause analysis of application problems, defect tracking and defect triage activities
+- Established a regression testing base line for the as-is-state while keeping them synchronized for future use Tools/technologies used: PeopleSoft v 9.1, SQL Server 2008, SQL, Excel, HP Quality Center, VersionOne e@
+
+SFCQA TEST ANALY ST 2008 to 09/2008 Marriott International | City, STATE
+
+Project: Key responsibility was performing functional and regression QA of the main revenue generating,
+customer-facing and data intensive online Marriott Reservation system (www.Marriott.com - a $3 billion J2EE
+web application), the associated 25 brand and global Internet domains, and 10+ micro-sites.
+
+Accomplishments/ Responsibilities:
+
+- Over 500 application defects were detected and resolved across various releases prior to production implementation. Rewrote and updated the regression test suites by reducing the number of single- threaded test cases by 30% and combining them with detailed steps in preparation for automation
+- Applied the departmental standard test process for testing Marriott.com. Reviewed and analyzed business and functional specifications, Use cases, workflows and designs to ensure testability and determine application/component functional readiness for test
+- Developed and directed the preparation and execution of comprehensive test plans for the eBusiness Systems group initiated projects ensuring checkpoints are met
+- Converted requirements into the resultant test scenarios. Wrote structured and reusable test cases and test scripts. Created QA traceability matrix and test impact analysis documentation for complete system and subsystems
+- Provided detailed project schedules for the QA tasks, conveying clearly the defined milestones for test preparation, execution, and reporting activities and deliverables
+- Performed Functional, Regression and Production Support testing. Executed Smoke, Boundary, Positive & Negative, GUI and Cross-browser tests. Tested application security features, including session expiry, book marking, passwords and compatibility across multiple browser types
+- Evaluated, documented and communicated issues using ClearQuest. Tracked and validated the resolved defects. Created detailed test execution reports and analyzed, interpreted, and summarize the data into higher level reports and charts. Apprised project teams on the test progress using test metrics, test coverage, test summary and defect reports
+- Maintained existing test suites and scripts as new enhancements and fixes are introduced. Updated and maintained the repository of automated scripts. Performed Data-Driven testing using Rational Robot. Mapped tests to requirements by documenting tests and testing results in a central repository, and through a reusable component based structure
+- Guided and assisted other testers with tasks to complete testing of data intensive, customer facing and back office solutions. Organized and conducted walkthroughs of test asset documentation; ensured that the deliverables are produced in compliance with the company standards
+- Participated in requirements analysis and QA reviews. Worked with Business and Development groups, and cross functional program teams during the requirement phase and design phase to identify functional incompatibilities and software issues early in the QA process Tools/technologies used: Rational TestManager, Rational ClearQuest, Rational ClearCase, Rational Robot, Rational Unified Process (RUP), Oracle, SQL, Windows XP. Java (J2EE) 2.0, JSP. JavaScript, Vignette 7.2, IE, FireFox, Safarion MAC Os
+
+Q/CANALYST 10/2002 to 01/2004 Freddie Mac | City, STATE
+
+Project: Tested web, client-server and back-end applications in the Single Family and Multifamily divisions.
+Projects include - Portfolio Evaluation, Restatement database, Correspondent Management, Watch list
+Placement, Assessments, Underwriting Redesign, Small Loans, Document Automation, Security Migration,
+Online Registration
+
+Accomplishments/ Responsibilities:
+- Functioned as the sole QA resource and successfully completed the QA tasks on multiple projects
+- Tested 200+ complex Statistical calculations for the Portfolio Valuation project using SQL and excel.
+Wrote more than 500+ SQL queries and performed data validations and data quality checks
+- Provided direct input to project management on status and issues associated with testing effort(s). Created test metrics. traceability matrices and test evaluation summary reports
+- Planned, designed, implemented, executed, and evaluated test scenarios to test the system functionality
+- Analyzed requirements, design documents and applications to define the testing needs across a complex array of systems and data structures. Determined the optimal functional decomposition that will facilitate the most robust system-level testing and effectively compliment the QA functional testing efforts
+- Implemented the test plan. Interviewed business analysts and developers to gain detailed information on complex statistical calculations and exception processing in order to validate the back end utilizing SQL Plus
+- Identified, created, and maintained appropriate test data bed with valid and invalid data to thoroughly test program logic and verify system flow
+- Performed GUI based functionality, regression and post-deployment enhancement testing. Tested database views, stored procedures and triggers. Performed Functional testing in a Data warehouse environment. Executed and validated MicroStrategy data mart report. Tested static and dynamic reports
+- Verified data consistency across multiple platforms and databases. Reconciled table data against source Excel files. Performed process validation and verified calculations on the data imported into the tables
+- Detected and documented defects. Retested software corrections to ensure problems are resolved
+- Participated in QA peer reviews and phase gate review. Mapped test cases to requirements. Updated test documentation to ensure proper synch with requirements definition. Delivered the test plan, traceability matrix, regression test set, daily execution metrics, test coverage, and test summary reports Tools/technologies used: /BM DB2 7.2, Sybase 12.5, MicroStrategy 7.2, SQL, MS - Excel, MS - Access, Visual Basic 4.0/5.0, Citrix MetaFrame 6.01, Lotus Notes Database R5, Rational ClearQuest 2002, Rational TestManager 2002, Windows 2000, Weblogic Server 6.1, JavaScript, Java 2.0, JSP. IBM Policy Director v3.8
+
+Bachelor of Arts | Business Administration 2013 San Francisco State University, San Francisco, CA

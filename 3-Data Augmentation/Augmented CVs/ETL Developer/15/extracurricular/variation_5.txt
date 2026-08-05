@@ -1,0 +1,170 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+A well-organized, goal-oriented, highly motivated effective team member with excellent analytical, troubleshooting, and problem solving
+skills.
+
+SKILLS
+------
+
+- RDBMS / Databases - MS SQL Server 2017,2014.2012,2008, e Reporting Tools - SQL Server Reporting Services (SSRS), Crystal
+MS-Access 97-2007 Reports 8/10
+
+- Languages - T-SQL, Visual Basic 6.0, HTML, C, C++, Visual © Integration Services - SQL Server Integration Services (SSIS),
+Studio 2013,2012, MS SharePoint, MS Team Foundation Server Data Transformation Services (DTS)
+(TFS), (RDBMS & SQL) e Database Tools - MS SQL Server Enterprise Manager, SQL
+
+- Operating Systems - Windows Server 2008/XP/2000/NT/98/95, Profiler, Query Analyzer, OLTP, OLAP, Database Engine Tuning MS DOS 6.2 Advisor (DTA)
+
+- Modeling Tools - Microsoft Visio 2003, Erwin 3.x Internet Tools - Internet Information Server (IIS 5.0 / 6.0), FTP.
+
+TCP/IP
+
+WORK EXPERIENCE
+---------------
+
+03/2021 to Current SQL/ETL Developer Apex Systems - Dover, NH
+- Created SSIS packages to migrate data from different data sources to data warehouse Successfully extracted transformed and load data into data warehouse Created packages by testing and cleaning the Standardized Data by using tools in Data Flow Transformations (Data Conversion, Export Column, Merge join, Sort, Union all, Conditional Split and more) for existing/new packages and huge CSV file import from different data sources and other ongoing tasks for mapping
+
+Scheduled SSIS packages for running monthly and weekly feeds from various guarantors and multiple servers and
+resources
+
+Involved in enhancing and deploying the SSIS Packages from development server to production server
+Responsible for the Performance tuning of the SQL Commands with the use of the SQL Profiler and Database
+Engine Tuning Advisor
+
+Installed and Configured SQL Server Active/Active and Active/Passive clusters
+
+Monitored Scheduled jobs and alerts
+
+Designed and developed ETL solutions for transformation of data from source transactional systems or other data
+feeds, into a dimensional database, or other destinations
+
+Created, Scheduled, Generated and optimized ETL jobs
+
+Created/Updated Stored Procedures, Triggers, Functions, Cursor, Views, and Indexes with extensive use of T-SQL
+Created, documented, and implemented unit test plans, scripts, and test cases
+
+Created and maintained technical documentation using defined technical documentation templates
+
+Contributed to the creation of solid coding techniques and recommended and reviewed coding standards
+Evaluated database performance and performed maintenance duties such as Tuning, Backup, Restoration and
+Disaster Recovery for the data
+
+Wrote documentation, data warehouse artifacts and data lineage for ETL tools
+
+Environment: MS SQL Server 2012/2008R2/2008/2005/2000, Visual studio 2010/2008 (SSAS/SSIS/SSRS),
+Microsoft Access 2007/2003, Microsoft Excel (Pivot Table), OLAP and OLTP, Outlook. MS SQL Profiler, SQL
+server Query Analyzer, Index Tuning Wizard, C#
+
+- Crystal Reports 8/ 9/10, Frame Work 2.0, C#, Dash Board by Crystal report, Erwin8/7.3/3.5, Windows 2007/2010 Advanced Server/Professional, Window XP, MS Access, My SQL
+
+07/2018 to 02/2021 SSRS/ETL Developer Cigna Health Benefits - City, STATE
+- Created ETL packages to validate, extract, transform and load data to data warehouse databases, data mart databases
+
+- Developed SSIS Templates that can be used to develop SSIS Packages
+
+- Worked on development, implementation and support of ETL processes for large-scale Data Warehouses using SSIS and DTS Created SSIS process design architecting the flow of data from various sources to target Involved in extracting the data using SSIS from OLTP to OLAP Responsible for Deploying, Scheduling Jobs, Alerting and Maintaining SSIS packages Developed SQL Queries to fetch complex data from different tables in remote databases using joins, database links and formatted the results into reports and kept logs Created SSIS packages to retrieve data from Legacy sources to retrieve user data from the Flat files on monthly and weekly basis Responsible for data analysis, loading data from Data feed to Data Warehouse tables Used techniques like backups, restore, replication, and standby databases to ensure higher availability Production Environment
+
+Performed database transfers and queries tune-up, integrity verification, data cleansing, analysis and interpretation
+Developed, monitored and dynamically deployed SSIS packages into Dev., Test and Production Environments
+Responsible for maintaining cubes using SSAS and populate the cubes with the data
+
+Created Tabular Matrix reports, Charts and graphs as per customer requirements Using SSRS
+
+Good understanding of SSRS with Report authoring, Report management, Report delivery and Report security
+Created reports with Analysis Services Cube as the data source using SSRS 2005/2008
+
+Involved in designing the physical database models on SQL Server RDBMS using DML/DDL implementing
+constraints
+
+Extensively used T-SQL to manipulate and architect to produce results for users
+
+Filtered inaccurate data from legacy system using complex T-SQL statements, and implemented various constraints
+
+and triggers for data consistency
+
+Identified, tested, and resolved database performance issues (monitoring and tuning) to ensure database
+optimization
+
+Created incremental data load task using SQL Server Integration services
+
+Involved in project status report updates/ creation of issue items for reviews/ updates of technical and
+transformation files on timely basis
+
+Performed efficient tuning of SQL source queries for data load/ Usage of stored procedures for performance
+Worked on Transactional Replication and replicated thousands of tables from various Databases to different
+production Server
+
+Worked with development teams in the design of physical databases and in modification
+
+Involved in migration from SQL Server 2005 to SQL Server 2008
+
+Created Quick View files updated on timely basis as database updates
+
+Developed QuickView Functions and Reports as business needs
+
+Environment: MS SQL Server 2016/2014, SSRS, SSAS, SSIS. SQL Query Analyzer, SQL profiler, IIS 6.0,
+Oracle10g, 11g, Enterprise Manager, ERWIN Data Modeler, Windows Server 2003/2008, DTS, Share Point Portal
+Server, HTML, XML, C#, Net, ASP.NET, Visual Studio 2005, MS Access, Crystal Reports, MS Excel 2007.
+
+03/2016 to 06/2018 SQL Server BI Developer
+
+Humana HealthCare - City, STATE
+
+- Designed SQL SSIS Packages in Business Intelligence Development Studio (BIDS), to extract data from various
+
+data sources such as Access database, Excel spreadsheet, and flat files into SQL Server, for further Data Analysis
+and Reporting by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split,
+Bulk Insert, merge and union all
+Created complex Stored Procedures, Triggers, Functions, Indexes, Tables, Views, SQL joins and other T-SQL code
+to implement business rules
+Created SQL server Reports using SSRS 2005 for the manager and the brokers involved and formatted the report
+layout for the requirement of the end users Generated reports for end user requirements using SSRS
+Deployed developed reports on to the server for the end users
+
+Expert in cleansing data for data consistency whether the data source is a single system or multiple disparate
+sources
+
+Expert in Merge Join transformation, which can take two different inputs and merge them together by comparing a
+set of key columns, which performs different types of joins
+
+Experience in Event Logging. Resource management, Log files, File and File Groups, Security, Backup and
+
+Recovery
+
+Designed SQL SSIS Packages in Business Intelligence Development Studio (BIDS), to extract data from various
+
+data sources such as Access database, Excel spreadsheet, and flat files into SQL Server 2008, 2005 for further Data
+
+Analysis and Reporting by using multiple transformations provided by SSIS such as Data Conversion, Conditional
+
+Split, Bulk Insert, merge and union all; Scheduled and maintained nightly and weekly loads of data by creating the
+
+corresponding job tasks in Visual Studio
+
+Supported Application Development team with any database issues, updates or new releases
+
+Support included deadlock issues, best practices in structuring SQL Queries, debugging unexpected SQL results,
+
+etc
+
+- Environment: MS SQL Server 2014, SQL Server Reporting Services (SSRS), MS Access, MS Excel, SSIS, T-SQL. Oracle Enterprise edition, Oracle Enterprise edition, Tableau Desktop, Power BI, Visual SourceSafe, Win 2003
+
+Advanced Server, Power
+
+EDUCATION AND TRAINING
+
+Bachelor’s Degree ADDITIONAL INFORMATION
+
+- 6+ years of IT Experience in Business Intelligence /Data Warehouse/(SSIS/SSRS) MSSQL Server 2017/2014/2012/2008R2 Database & Visual Studio 2013 SSRS Worked on all phases of data warehouse development lifecycle, from gathering requirements to design implementation, testing, and support data warehouse and data mart entities. Building a DW from the ground up. Demonstrated expertise utilizing ETL tools, including SQL Server Integration Services (SSIS), Data Transformation Services (DTS), and Data Stage and ETL package design, and RDBM systems like SQL Servers 2012/2014. Work with developers, DBAs, and systems support personnel in elevating and automating successful code to production. I have very good financial and health care experience in my previous projects in creating Chart reports, Drill down and Drill through Reports by passing parameters in SQL Server Reporting Services (SSRS). Expertise in Data Extraction, Transforming and Loading (ETL) using SQL Server Integration Services (SSIS), Worked on Tableau, development of dashboards and publishing the reports on 9.0 and 9.3 Tableau Server. Extensive knowledge in Tuning SQL queries and improving the query performance. Proficient in creating Index, Views, Complex Stored Procedures, appropriate functions, and effective experienced in implementation of strong referential integrity and auditing by the use of triggers and SQL Scripts. Expert in creating traditional as well as Web-based interactive reports using SSRS. In-depth knowledge of Transact-SQL (DDL and DML). Experience in optimizing the database by creating various Clustered, Non-clustered indexes. Expert in creating Chart reports, Drill down and Drill through Reports by passing parameters in SQL Server Reporting Services (SSRS). Experienced with converting excel and Crystal reports to SSRS reports and migrate crystal reports to higher versions. Expert in Database Normalization, Optimization and Tuning, Backup/Restore, Data Import/Export, Troubleshooting, and Database Objects authorization. Experience in creating Jobs, Alerts, SQL Mail Agent, and Scheduled SSIS Packages. RDBMS experience, including SQL programming, data analysis and data verification and validation Knowledgeable in planning and implementing MS SQL Server Security, DBA and database Permissions. Self-motivated and possess ability for critical thinking, analysis, good interpersonal and communication skills.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

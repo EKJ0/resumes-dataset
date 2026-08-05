@@ -1,0 +1,258 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Around 7+ years of IT experience in Data warehousing with emphasis on Business Requirements Analysis, Application Design, Development, coding, testing, implementation and maintenance of client/server Data Warehouse and Data Mart systems.
+
+- Extensive experience in gathering and defining the Business Requirements (BRD); translating them into functional requirements (FRS) by using various Elicitation methods and techniques.
+
+- Experience in business process management, business process flows, software development life cycle, process design, change management, Enterprise analysis and requirements analysis.
+
+- Extensively worked as a Teradata Developer and involved mainly in building Teradata warehouse.
+
+- Strong hands on experience on Teradata Utilities such as BTEQ, FLOAD, MLOAD, TPUMP and Analyst using SQL SERVER, TERADATA (V13, V14, V15.10, V16.20).
+
+- Experience in Query Optimization and Performance Tuning of Stored Procedures, Functions.
+
+- Proficient in data warehousing techniques for Data cleansing, Slowly Changing Dimension phenomenon’s (SCD’s), Change Data Capture (CDC).
+
+- Experience in integration of various data sources from Databases like Teradata, Oracle, SQL Server, and text files.
+
+- Developed complex Teradata SQL code in BTEQ script using OLAP and Aggregate functions.
+
+- Excellent knowledge and experience in documents like BSD, TSD & Mapping documents.
+
+Extensively involved in identifying performance bottlenecks in targets, sources and transformations and successfully tuned them for
+maximum performance using best practices.
+
+- Experience in documenting Design specs, Unit test plan and deployment plan.
+
+- Extensive knowledge with Teradata SQL Assistant. Developed BTEQ scripts to Load data from Teradata Staging area to Data Warehouse, Data Warehouse to data marts for specific reporting requirements. Tuned the existing BTEQ script to enhance performance.
+- Expert in Teradata RDBMS, initial Teradata DBMS environment setup, development, and production DBA support, use of FASTLOAD, MULTILOAD, TPUMP, and Teradata SQL and BTEQ Teradata utilities.
+
+- Created shell script to run DataStage jobs from UNIX and then schedule this script to run DataStage jobs through scheduling tool.
+
+- Experience in writing UNIX korn shell scripts to support and automate the ETL process
+
+- Work on planning and grooming user requirement to provide solution design using OLAP architecture and create estimates on end to end development.
+
+- Experience with Data Warehouse concepts, and methodologies, as well as strong knowledge with star schema and snowflake schema data models.
+
+- Knowledge in Query performance tuning using Explain, Collect Statistics, Compression, NUSI and Join Indexes including Join and Sparse Indexes.
+
+- Well versed with Teradata Analyst Pack including Statistics Wizard, Index Wizard and Visual Explain.
+
+- Extensively worked on PMON/Viewpoint for Teradata to look at performance Monitoring and performance tuning.
+
+- Strong Work experience on Zena Scheduler.
+
+- Sourced data from disparate data sources IBM DB2, Oracle, and SQL Server and loaded into Oracle and Teradata DW.
+
+- Experience in Testing (Unit testing, Integration Testing and System testing).
+
+- Through knowledge in Oracle and Teradata RDBMS Architecture.
+
+- Have good communication skills, interpersonal relations, hardworking and result oriented as an individual and in a team
+
+- Competent in handling all levels of data warehouse life cycle, including requirements gathering, analysis, preparing business specifications, designing technical specifications, and system requirement specifications.
+
+SKILLS
+------
+
+- Operating Systems: Unix, Windows 7/XP/2000, Windows NT ¢ Programming languages: Shell scripting (K-shell, C-Shell),
+
+4.0 and Z/OS and MVS (OS/390). SQL.
+- Databases: TeradataV16.20/V15.10/V14/V13/V12, Oracle(81/ * Scheduling tools: Zena, Autosys, UC4.
+
+91), SQLServer2000/2005/2008, DB2. © Operating Systems: WinXP.7,8and10, UNIX, Linux
+- Teradata Tools & Utilities: Query Facilities: SQL Assistant, © Methodologies: Agile, Scrum, Waterfall
+
+BTEQ Load & Export: FastLoad, MultiLoad, Tpump, TPT, Fast
+
+Export, DataMover.
+
+- Data Modeling: Erwin, Visio, Physical Modelling, Logical Modelling, Relational Modelling, Dimensional Modelling.
+
+- ETL tools: DataStage 8.1/8.5/8.7/9.1/11.3 Teradata BTEQ, Fast load, Mload., Ascential DataStage 7.5.2 (Designer, Director,
+Administrator, Manager), MS - Visio 2007
+
+WORK EXPERIENCE
+---------------
+
+08/2017 to Current Teradata/ ETL Developer Infosys - San Antonio, TX
+- Analyzed the existing ETL process and came up with an ETL design document that listed the jobs to load, the logic to load and the frequency of load of all the tables.
+- Consolidated data from multiple sources into central data warehouse environment using DataStage as an ETL and as database.
+- Worked on ETL migration from Talend to DataStage 11.5 projects, handled various issues while code migration.
+- Used Teradata utilities Fastload, Multiload, tpump to load data.
+- Designing the ETL jobs using DataStage tool to load data from multiple source system to Teradata Database and Parallel jobs to load the data into the Target Schema.
+- Created DataStage jobs to load data from various MySQL and PostgreSQL tables to Teradata Tables.
+- Testing the Jobs and preparing the Unit Test Cases & helped Business for User Acceptance test.
+- Converted complex job designs to different job segments and executed through job sequencer for better performance and easy maintenance.
+- Wrote, tested, and implemented Teradata Fastload, Multiload and BTEQ scripts, DML and DDL.
+- Wrote Teradata Macros and used various Teradata analytic functions.
+- Involved in migration projects to migrate data from data warehouses on Oracle/DB2 and migrated those to Teradata.
+- Good knowledge on Teradata Manager, TDWM, PMON, DBQL, SQL assistant and BTEQ.
+- Fixed issues and implemented requested changed during warranty support period.
+- Worked with the Application Development team to implement data strategies, build data flows and develop conceptual data models.
+- Created logical and physical data models using best practices to ensure high data quality and reduced redundancy.
+- Performed reverse engineering of physical data models from databases and SQL scripts.
+- Data dictionary documentation for entire tables present in SWY and Unica Campaign database Environment: IBM DataStage 8.1/8.5/8.7/9.1/11.5, (Designer, Director),Teradata V16.20/V 15.10, Teradata Loading Utilities (BTEQ, Fastload, Fast Export and Multiload), Teradata SQL Assistant, Info Sphere Information Server DataStage, PostgreSQL, MySQL, Teradata, Oracle, UNIX Shell Scripting, Windows XP.
+
+04/2017 to 08/2017 Teradata/Datastage Developer Pacific Life Insurance - City, STATE
+- Gathered business requirements by conducting detailed interviews with business users, stakeholders, and Subject Matter Experts (SME’s).
+
+- Involved in gathering business requirements, logical modelling, physical database design, data sourcing and data transformation, data loading, SQL, and performance tuning. Developing as well as modifying existing mappings for enhancements of new business requirements mappings to load into staging tables and then to target tables in EDW. Also created Mapplets to use them in different mappings. Defining the schema, staging tables, and landing zone tables, configuring base objects, foreign-key relationships, complex joins, and building efficient views. Expertise in writing scripts for Data Extraction, Transformation and Loading of data from legacy systems to target data warehouse using BTEQ, FastLoad, MultiLoad, and Tpump. Involved in DataStage migration and backup from Version 8.5 to 11.5 and modified all UNIX/scheduling scripts as per DataStage 11.5. Developed BTEQ scripts to load data from Teradata Staging area to Teradata data mart. Responsible for building Teradata temporary tables, indexes, macros and BTEQ Scripts for loading/transforming data. Created load scripts using Teradata Fast Load and Mload utilities and procedures in SQL Assistant. Performed Query Optimization with the help of explain plans, collect statistics, Primary and Secondary indexes. Used volatile table and derived queries for breaking up complex queries into simpler queries. Streamlined the Teradata scripts and shell scripts migration process on the UNIX box. Error handling and performance tuning in Teradata queries and utilities. Working on different tasks in Workflows like sessions, events raise, event wait, e-mail, command, worklets and scheduling of the workflow. Scheduling jobs in ZENA scheduler and involved heavily in writing complex SQL queries based on the given requirements such as complex Teradata Joins, Stored Procedures, Macros, etc. Used ZENA scheduling tool to schedule the jobs as per the requirement. Imported Data from MS-Access Database and XML to SQL Server Database. Wrote complex Stored Procedures to meet the business requirements. Sourced data from Teradata to Oracle using Fast Export and Oracle SQL Loader. Creating sessions, configuring workflows to extract data from various sources, transforming data, and loading into
+
+enterprise data warehouse.
+Running and monitoring daily scheduled jobs by using Work Load manager for supporting EDW (Enterprise Data
+Warehouse) loads for History as well as incremental data.
+
+Automating manual month-end processes, Job creation using Zena Scheduler.
+Investigating failed jobs and writing SQL to debug data load issues in Production.
+Writing SQL Scripts to extract the data from Database and for Testing Purposes.
+Supported the code after postproduction deployment.
+
+Involved in Transferring the Processed files from mainframe to target system.
+
+Used Serena Dimensions to build and troubleshoot automated testing and for continuous integration and
+deployment of DataStage jobs.
+
+Worked with Agile software methodologies.
+
+Environment: Teradata v16.20/15.10, UNIX, IBM DataStage 8.1/8.5/8.7/9.1/11.3, (Designer, Director), Teradata
+Loading Utilities (BTEQ, Fast load, Fast Export and Multiload), Teradata SQL Assistant, ASG-Zena Scheduler
+Agile.
+
+07/2016 to 03/2017 Teradata /Business Object Developer American Express - City, STATE
+- Gathered and documented business requirements along with detailed functional design specifications and system documentation.
+- Documented, and elicited business requirements from SMEs by writing user stories resulting in clearer, more detailed, and more complete understanding of project deliverables, using JIRA.
+- Involved in documenting the business process by identifying the requirements and involved in writing the system requirements. Extensively used Erwin for Logical and Physical data modeling and designed Star Schemas. Design and develop complex Business Objects universes using designer.
+
+Development using SAP Business Objects toolset.
+Developed Complex ETL mappings to extract data from Flat Files and HANA database and load it into EDW and
+Teradata Database.
+
+Hands on Experience Business Intelligence experience using Business Objects.
+
+Provide ongoing Teradata system performance management using Teradata manager and PMON.
+
+Responsible for Performance Tuning of Teradata scripts using explain plans, indexing and Statistics.
+
+Extensively Used Environment SQL commands in workflows prior to extracting the data in the ETL tool.
+Created databases, tables, triggers, macros, views, stored procedures, functions, Packages, joins and hash indexes
+in Teradata database.
+
+Involved in fixing invalid Mappings, testing of Stored Procedures and Functions, Unit and Integration Testing of
+Batches and the Target Data.
+
+Creating SQL and BTEQ scripts in Teradata to load the data into EDW as per the business logic.
+
+Did performance tuning on targets, sources, mappings, and sessions to improve system performance.
+
+Loaded data into the Teradata tables using Teradata Utilities BTEQ, Fast Load, Multi Load, and Fast Export, TPT.
+Develop, test and support applications which are running on various environments like Teradata, UNIX and
+Windows.
+
+Coding using BTEQ SQL of TERADATA, write Unix scripts to validate, format and execute the SQL's on UNIX
+environment.
+
+Used Erwin tool for physical and logical data modeling.
+
+Created and used volatile tables for testing purposes.
+
+Involved in Code Reviews & Unit Testing for the ETL code developed.
+
+Created Custom Views in Teradata to meet the requirements.
+
+Integrated Tableau dashboards into internal web portal using Java Script APL
+
+Consistently attended meetings with the client subject matter experts to understand functional business
+requirements.
+
+Involved in Administration of Business Objects and building of Data Repository.
+
+Performance Tuning using aggregates, Indexes, optimizing the start routines etc.
+
+Developed reports using the Teradata advanced techniques like rank, row number.
+
+Created new Business Objects Users and User Groups using Business Objects CMC Module.
+
+- Maintained user security on the BO Reports, Folders and Universes.
+
+Created complex universe level objects and measures using the business rules provided.
+
+Created Web intelligence reports and deployed through BI Launch Pad and Customized Webi Front end.
+
+Various Business Object reporting functionalities were used such as Slice and Dice, Master/detail, User Response
+function and different formulas.
+
+Created Derived Tables in universe by performing SQL queries when there is custom columnar requirement over
+the tables.
+
+Work on planning and grooming user requirement to provide solution design using OLAP architecture and create
+estimates on end to end development.
+
+Environment: Teradata v14/v13, ERWIN, ETL tool BTEQ, Fast Export, Fast Load, Multi Load, SAP BBO
+Enterprise I 4.1 SP2, BI Launch Pad, Web Intelligence, Design Studio 1.3, SAP Design Dashboard 4.1, BW 7.4,
+UDT-IDT SAP Business Objects 4.1/4.0/3.1/3.0/XI R1/R2/6.5.1/6.1 Web Intelligence’ Launch pad/ Info view,
+Information Design tool, Universe Designer, Explorer, SAP Lumira, Crystal, Xcelsius 4.5/2008.
+
+03/2013 to 12/2014 Teradata Developer Tata Consultancy Services - City, STATE
+
+- Massaged the data using BTEQ by applying the business rules for the source data for validation and transformation.
+
+- Developed BTEQ script for pre population of the worktables prior to the main load process and performed the transformation in the later stages.
+
+- Performance tuning was done at the functional level and map level.
+
+- Used relational SQL wherever possible to minimize the data transfer over the network.
+
+- Developed Unix script to sftp, archive, cleanse and process many flat files.
+
+- Created and ran Pre-existing and debug sessions in the Debugger to monitor and test the sessions prior to their normal run in the Workflow Manager.
+
+- Extensively worked in migrating the mappings, worklets and workflows within the repository from one folder to another folder as well as among the different repositories.
+
+- Created Mapping parameters and Variables and written parameter files.
+
+- Designed and Implemented Tables, Functions, Stored Procedures and Triggers in SQL Server 2008.
+
+- Wrote the SQL queries, Stored Procedures and Views.
+
+- Performed application level activities creating tables, indexes, monitored and tuned Teradata BETQ scripts.
+
+- Written several Teradata BTEQ scripts for reporting purpose.
+
+- Developed BTEQ scripts to load data from Teradata Staging area to Teradata data mart.
+
+- Developed Teradata utilities to populate the data into EDW like Fastload, BTEQ, Fast Export and Multi Load.
+
+- Analyze & translate functional specifications & change requests into technical specifications.
+
+- Generated and implemented Micro Strategy Schema objects and Application objects by creating facts, attributes, reports, dashboards, filters, metrics, and templates using Micro Strategy Desktop.
+
+- Developed and tested the UNIX shell scripts for running the Teradata scripts.
+
+- Used various Teradata Index techniques to improve the query performance.
+
+- Created unit test plans to unit test the code prior to the handover process to QA.
+
+- Helped users by Extracting Mainframe Flat Files (Fixed or CSV) onto UNIX Server and then converting them into Teradata Tables using BASE SAS Programs.
+
+- Environment: Teradata V13/14, Teradata SQL Assistant, Teradata Utilities (BTEQ, Mload, Fastload, Fast Export
+and TPT), DB2, SQL server 2005/2008, Control-M, UNIX.
+
+Epucation
+05/2016 Master of Science: Information Technology Valparaiso University - Valparaiso, IN
+03/2012 Bachelor of Science: ECE - Electronics and Communication Engineering
+
+Jawaharlal Nehru Technological University - Hyderabad
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

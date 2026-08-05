@@ -1,0 +1,242 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+CAREER OVERVIEW
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+driving increased sales, improving buying experience and elevating company profile with target market.
+
+QUALIFICATIONS
+
+- Oracle Technologies SQL, PL/SQL
+
+- Development Tools TLM 2.7, Informatica Power Center 9.1, SQL Developer, Putty, SVN
+
+- Database Oracle 10g/1ig
+
+- Operating System UNIX, LINUX, Windows
+
+- Languages Java,C++
+
+TECHNICAL SKILLS
+----------------
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+TLM and ETL Developer JPMC, J. P. Morgan Chase Bank - STATE, USA
+
+- Project#1: Melbourne Cash and Security Position Reconciliation Nov '13 to till date Description: The project is for Melbourne region, Cash and Security position Reconciliations which are in a legacy system and need to migrate to the strategic platform of choice, Transaction Lifecycle Management (TLM).
+
+- The focus is to migrate three cash transaction reconciliations: 1) CCS Vs CHESS 2) CCS Vs AUSTRACLEAR and 3) CCS Vs.
+
+- NZCLEAR.
+
+- The expected benefits are improved dashboards, better reporting and Management Information Systems (MIS) capabilities.
+
+- Understand the AS-IS Process.
+
+- Defining the TO-BE process Discuss with the Business Analyst to understand the feasibility of the requirements Prepare the Technical Design document with all the details including the configuration, dataflow, upstream system details and disaster recovery process.
+
+- Preparing the Feed Specification Document.
+
+- Working on the TLM configuration for cash, securities and position reconciliation Hands on configuration in Design Studio, Smart Studio and Recon Admin tools for creation of passes, business logic tools, and dashboards.
+
+- Knowledge and hands-on experience on Webconnect, Smartschema, Security Admin Tool, Configuration Transfer tools, RemoveTran Data and Static Data utility.
+
+- Prepare the Design document for Informatica build used to reformat the existing feeds.
+
+- Interact with the development team for the development of Informatica workflows.
+
+- Develop the informatica workflows to change/add new columns, to merge multiple input feed files into a single file and transform the input feed file format to a format that is suitable to be loaded onto TLM Implemented Aggregator, Sorter, Router, Filter, Joiner, Expression, Lookup, XML, Update Strategy, Union and Sequence Generator transformations.
+
+- Deploy the Informatica workflows and automate the feed enrichment process in UNIX Environment.
+
+- Prepare the JIL Code required for the setup of Autosys Jobs and interact with support teams for the deployment of the same in UAT and Production.
+
+- Develop the UNIX scripts required to reformat the pseudo SWIFT files.
+
+- Developing the KPI (Key Performance Indicators) using Oracle SQL, test the same in Development environment and promote to the higher environments.
+
+- Support the Operations during UAT.
+
+- Track the defects/issues raised by UAT users, fix them and revert back with necessary clarifications.
+
+- Prepare the documentation necessary to onboard a new Reconciliation into Production and get approval from all the stakeholders by setting up meetings and following them up with required additional information.
+
+- Production release activities and post production support of issues and enhancements Solution Environment: Smart stream TLM 2.7, Informatica 9.1, Oracle 11g, Linux, SVN Project#2: Data Archival for TLM Database Dec '12 to Oct '13 Description: The project is to implement archival solution for 2 TLM databases.
+
+- By implementing archival, the performance of the dashboards on source database would be increased and the archived data will also be available on the archival database for future references.
+
+TLM Developer
+
+- Understand and analyze the user requirements.
+
+- Prepare the Technical Design document with all the details including the Archival passes, Unix Shell Scripts, Autosys Jobs.
+
+- Configure the archival passes in AAS client and test it in DEV environment.
+
+- Create autosys jobs (scheduler) to run the Unix scripts daily.
+
+- Provide support to SIT and UAT testing (bug fixing).
+
+- Hold meetings with all stake holders and prepare the necessary documentation to implement the same in production.
+
+- On-board the new archival database in production (setting up all the helpdesk/support users) and the archival solution for the source database and provide the warranty support.
+
+- Leading a team of 2 members Solution Environment: UNIX, Oracle11g, Smartstream TLM 2.7, SVN Project#3: PERES PA Cashflow and Marketvalue Reconciliations Feb'12 to Nov'12 Description: The project is for PERES region.
+
+- Both the Cashflow and Marketvalue Reconciliations are manual and are to be migrated to TLM.
+
+- The expected benefits are improved dashboards, better Match rate, reduced FTE and Management Information Systems (MIS) capabilities.
+
+Team Member Oracle Developer
+- Impact analysis of the business scenarios in BOF application Solution approach -Includes modifying the code in BOF and developing PL/SQL constructs for Archival Schema Database Design Performance tuning Solution Environment: windows, PL/SQL, Oracle 11g.
+
+TLM Tester
+
+- Requirement Analysis, understanding of both functional and non functional requirements Identifying various scenarios to cover all requirements gathered Preparation of Test Plan, Test Procedures, Manual Test Cases, Report defects.
+
+- Hands on experience on TLM webconnect to test working of various dashboards, business logic tools Testing of Asset register loading, feed file loading, Conversion file loading Test the access and limits of various users Test the passes, initiations and reference masking tules SIT (System Integration Testing) and Regression testing.
+
+- Preparing data for performance testing as millions of GC(Global Custody) records will be loaded into TLM database.
+
+- Preparing test cases for performance testing Setting up virtual performance test users who try to access webconnect at same point.
+
+- Project #7: BOF-Data Archival Sep'07 to Oct’08 Description: The Swiss Re Group is a leading wholesale provider of reinsurance, insurance and other insurance-based forms of risk transfer.
+
+- BOF (Business Of Future) application provides services to create, edit and maintain policy and treaty information _Data Archival implements archiving the policy data which is no longer actively used in BOF application there by decreasing the query response time in BOF.
+
+TLM and ETL Developer
+
+- Understanding the AS-IS process.
+
+- Defining the TO-BE process.
+
+- Preparing the Technical Design Document/Configuration Document based on the requirements gathered.
+
+- Preparing the Feed Specification Document.
+
+- Hands on configuration in Design Studio, Smart Studio and Recon Admin tools for creation of passes, business logic tools, and dashboards.
+
+- Knowledge and hands-on experience on Webconnect, Smartschema, Security Admin Tool, Configuration Transfer tools, RemoveTran Data and Static Data utility.
+
+- Knowledge on TLM Housekeeping, KPI (Key Performance Indicator), Foglight Monitoring and Archival process.
+
+- Knowledge of Oracle sql, Pl sql and UNIX.
+
+- Write UNIX shell scripts as per the requirements to make modifications to the feed files and JIL (Job Information Language) code for autosys jobs.
+
+Prepare the Design document for Informatica build used to reformat the existing feeds Develop the informatica workflows to change/add
+
+new columns, to merge multiple input feed files into a single file and transform the input feed file format to a format that is suitable to be
+
+loaded onto TLM Implemented Aggregator, Sorter, Router, Filter, Joiner, Expression, Lookup, XML, Update Strategy, Union and
+Sequence Generator transformations.
+
+Develop and Deploy the Informatica workflows and automate the feed enrichment process in UNIX Environment.
+
+Migration of code from Development to UAT environment.
+
+Coordinate with the users during UAT.
+
+Prepare the documentation necessary to onboard a new Reconciliation into Production and get approval from all the stakeholders by
+setting up meetings and following them up with required additional information.
+
+- Production release activities and post production support of issues and enhancements.
+
+Solution Environment: Linux, Oracle11g, Smartstream TLM 2.7, Informatica 9.1,SVN Project #4: PEFS Cash Reconciliation Oct'10 to
+Jan'12 Description: The project is for PEFS (PEFS - Private Equity Fund Services) Cash Reconciliations which is in SSR and need to
+migrate to the strategic platform of choice Transaction Lifecycle Management (TLM).
+
+- The focus is to migrate three cash transaction reconciliations: 1) DDA Vs CHK, 2) DDA Vs Investran and 3) CHK Vs.
+
+- Investran for all Heritage accounts.
+
+- The expected benefits are improved dashboards, better reporting and Management Information Systems (MIS) capabilities.
+
+01/1 to 01/1 TLM Developer NA
+
+- Understanding the AS-IS process.
+
+- Requirement Analysais.
+
+- Feed Analysis.
+
+- Prepare the JIL Code required for the setup of Autosys Jobs and interact with support teams for the deployment of the same in UAT and Production.
+
+- Develop, Testing the UNIX scripts & Autosys Jobs to schedule the statement and ledger files to load into TLM.
+
+- Configure matching rules and dashboard for the cash reconciliation.
+
+- Developing the KPI (Key Performance Indicators) using Oracle SQL, test the same in Development environment and promote to the higher environments.
+
+- Support the Operations during UAT.
+
+- Track the defects/issues raised by UAT users, fix them and revert back with necessary clarifications.
+
+- Prepare the documentation necessary to onboard a new Reconciliation into Production and get approval from all the stakeholders by setting up meetings and following them up with required additional information.
+
+- Production release activities and post production support of issues and enhancements.
+
+- Leading a team of 2 members Solution Environment: Linux, Oracle11g, Smartstream TLM 2.7, SVN The project is
+
+for Performance Equity Management Cashflow Reconciliation.
+
+- It is a manual reconciliation and is to be migrated to TLM.
+
+- The expected benefits are improved dashboards, better Match rate, reduced FTE and Management Information Systems (MIS) capabilities.
+
+01/1 to 01/1 TLM Developer NA - City, India
+
+- Understand the AS-IS Process Discuss with the Business Analyst to understand the feasibility of the requirements Prepare the Technical Design document with all the details including the configuration, Dataflow, Upstream system details and disaster recovery process.
+
+- Prepare the JIL Code required for the setup of Autosys Jobs and interact with support teams for the deployment of the same in UAT and Production.
+
+- Developing the KPI (Key Performance Indicators) using Oracle SQL, test the same in Development environment and promote to the higher environments.
+
+- Hands on configuration in Design Studio, Smart Studio and Recon Admin tools for creation of passes, business logic tools, and dashboards.
+
+- Knowledge and hands-on experience on Webconnect, Smartschema, Security Admin Tool, Configuration Transfer tools, RemoveTran Data and Static Data utility.
+
+Knowledge on TLM Housekeeping, KPI (Key Performance Indicator), Foglight Monitoring and Archival process.
+
+- Knowledge of Oracle sql, Pl sql and UNIX.
+
+- Write UNIX shell scripts as per the requirements to make modifications to the feed files and JIL (Job Information Language) code for autosys jobs.
+
+- Migration of code from Development to UAT environment.
+
+- Coordinate with the users during UAT.
+
+- Unit testing, SIT and Regression testing.
+
+- Prepare the release plan for moving the code into UAT/Production environment.
+
+- Document and share the lessons learnt and best practices within the Team Solution Environment: Linux, Oracle11g, Smartstream TLM 2.7, SVN Project #6: Global Custody Security transactions Reconciliation.
+
+- The project is for Global Custody Security Transaction Reconciliation which are in a legacy system and need to migrate to the strategic platform of choice, Transaction Lifecycle Management (TLM).
+
+- The expected benefits are improved dashboards, better reporting and Management Information Systems (MIS) capabilities.
+
+EDUCATION AND TRAINING
+
+Bachelor Of Engineering, Apr 2007 Computer Science and Engineering
+
+SKILLS
+------
+
+approach, automate, benefits, Business Analyst, C++, Conversion, client, databases, Database, Database Design, Dec, disaster recovery,
+documentation, edit, Equity, focus, forms, functional, GC, Informatica 9.1, Informatica, insurance, Java, Languages, ledger, LINUX, logic,
+meetings, access, Windows, Migration, MIS, Management Information Systems, Oct, Operating System, Oracle, Developer, Pl sql, PL/SQL,
+Oracle SQL, reporting, Requirement, Router, securities, Specification, SQL, Strategy, strategic, SWIFT, System Integration, UNIX, Unix
+scripts, UNIX shell scripts, Upstream, XML
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

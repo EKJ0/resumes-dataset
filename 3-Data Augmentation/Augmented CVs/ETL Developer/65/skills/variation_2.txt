@@ -1,0 +1,302 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+
+& (555) 432-1000
+
+100 Montgomery St. 10th 9 Floor
+
+SKILLS
+------
+
+- Development tools/Languages: SQL, PL/SQL, Birst BQL, Shell script, C#, ASP.NET, Web Services, JavaScript, XML, C, C++, Python, Tableau, Spark
+
+- Middleware/Databases/ETL: Oracle 91/10g/11g/12c, MS SQL
+Server 2008/2012, Informatica Power Center
+
+- Software Product/Platforms: Oracle SQL*PLUS, SQL*Loader, Oracle Enterprise Manager, TOAD, Erwin Data Modeler, Oracle SQL Data modeler, Tableau, Tableau Desktop, Tableau Server, Birst Business Intelligence Platform, Microsoft Visual Studio, Business Objects, Crystal Reports, AWS QuickSight
+
+- Change Management - Team Foundation Server, PVCS, GIT
+
+- Processes - Agile, Waterfall
+
+- Operating Systems: Windows, Linux
+
+EDUCATION
+---------
+
+JNTUA
+India - 06/2005
+
+Bachelor of Science: Electronics
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Senior IT Developer with expert-level acumen in application development and delivery of new
+technology capabilities around Data and Analytics space by transforming data into insights and turning
+those insights into strategy. Innovative and creative problem solver with proven track record in
+improving operational excellence and enabling business capabilities for organizational strategy and
+competitive positioning. Excellent interpersonal dexterity with proven ability to converse, liaise,
+negotiate and relate with key Stakeholders and client’s global projects.
+
+Area of Expertise
+
+Over 15 years of experience in architecting, designing, implementing complex, high performance,
+scalable IT solutions with specific interest in creating data systems - operational data stores,
+information data warehouses and business intelligence applications.
+
+Data Modelling: 8+ years of experience in E/R modeling for OLTP, Anchor modeling for enterprise
+Data warehouse (EDW) and Dimensional modelling for OLAP data marts using Star/Snowflake
+schemas. Extensively worked on Reverse/Forward Engineering to generate Conceptual, Logical and
+Physical models using Erwin and Oracle Designer tools. Extensively worked on Establishing Enterprise Data Standards, Policies, Guideline, Data Management practices, Data Security,
+Developing and Managing Data Models, Metadata management and Master Data Management.
+Database/ Data warehouse Development: 12+ years of strong experience in Data Warehouse Full
+Software Development Lifecycle (SDLC). Extensively worked in all the phases of Data warehouse
+development including Business Requirement Gathering, Converting Business requirements into
+Functional and Technical specifications, Data Analysis, Data Architecture, Design, Development,
+Testing & Implementation of ETL and BI applications.
+
+Extract-Transact-Load (ETL/ELT): 10+ years of extensive experience with ETL & BI Architecture,
+Design, Development, Testing and Implementation using Oracle PL/SQL. Extensively developed and
+implemented ETL process following Ralph Kimball’s Dimensional Modeling concepts.
+
+Business Intelligence and Data Visualization: 6+ years of experience in building rich and dynamic
+dashboards and reports using Tableau, Birst, Business Objects and Crystal reports to deliver
+actionable insights. Extensive experience using Python and its libraries for data processing and
+data visualization.
+
+Excellent knowledge of agile fundamentals, extensive experience of working in and managing agile
+project, task planning, workflow scheduling, and customer-in-loop development.
+
+Communicates effectively with executives, management, peers, subordinates, and customers enabling and fostering professional relationships.
+
+WORK EXPERIENCE
+---------------
+
+Adb Airfield Solutions - Senior Datawarehouse/ ETL/ BI Developer
+Columbus, OH + 06/2011 - Current
+
+Lead design and development of the Enterprise Data warehouse (EDW) and Operational Data Store
+(ODS) in Agile environment while working with program staff across the organization to build
+automated data solutions for analytics and reporting.
+
+Provided consultation on complex projects and was considered top level contributor for most
+phases of systems analysis, while considering the business implications of the application of
+technology to the current and future business environment.
+
+Devised and modified procedures to solve complex problems considering computing capacity,
+limitations and operation time. Suggested processing improvements that saved over 3 hours for
+each automated daily night cycle.
+
+Created data models for relational schemas (OLTP) and dimensional schemas (OLAP) with proper
+normalization and de-normalization techniques using Erwin and Oracle designer.
+
+Created the (ER) Entity Relationship diagrams and maintained corresponding documentation for
+corporate data dictionary with all attributes, table names and constraints.
+
+Designed data models following Ralph Kimball’s dimensional modeling concepts - Star and Snowflake schema, slowly changing Dimensions (Type1, Type2, and Type3).
+
+Implemented ETL/ELT processes by extracting data from Oracle OLTP, SQL Server, CSV, XML, JSON
+using APIs, shell scripts, Oracle SQL loader. Developed Complex database objects like Stored
+Procedures, Functions, Packages and Triggers using SQL and PL/SQL for transforming and loading
+the data into dimensional data marts and OLAP cubes.
+
+Worked on SQL*Loader to load data from flat files obtained from various facilities every day. Used
+standard packages like UTL_FILE, DMBS_SQL, and PL/SQL Collections and used BULK Binding involved in writing database procedures, functions and packages.
+
+Developed scripts in Python to parse JSON documents and load the data in relational database.
+Implemented advanced concepts like Collections, Bulk Collect, Dynamic PL-SQL, Exception Handling, Global Temp Table, Nested Tables, External Tables, Advanced Queuing, Analytical
+functions and REF Cursors to perform ETL.
+
+Effectively made use of Table Functions, Indexes, Table Partitioning, Collections, Analytical
+functions, Materialized Views, and Query Re-Write.
+
+Performed root cause analysis on failures. Resolved performance tuning related issues and queries
+using Hints, EXPLAIN PLAN, TKPROF, SQL Trace, Indexing, and Partitioning.
+
+Performed data migration into data warehouse using Shell script, Oracle External Tables, SQL*
+Loader, Import/Export, bulk and batch processing.
+
+Automated different workflows using UC4 automation.
+
+Responsible for analyzing the quality of source data and designing and implementation of data
+quality controls.
+
+Designed and developed efficient Error Handling methods and implemented throughout the mappings.
+
+Built rich and dynamic dashboards and reports using Tableau and Birst to deliver actionable
+insights.
+
+Generated 300+ canned reports, sub-reports, drill-down reports, drill-through reports and
+parameterized reports to provide visible data for data analysts and business using Business
+Objects and Crystal Reports.
+
+Migrated over 300+ reports from Crystal reports to Birst and Tableau.
+
+Developed and managed over 60 dashboards consisting 400+ KPis/charts on Birst and Tableau BI
+platform that are used by management and employees across multiple departments.
+
+Trained over 80 end users across multiple departments on how to use dashboards and interact with
+Birst and Tableau Server.
+
+Worked on Tableau online and Tableau Server POC’s.
+
+Migrated change management system from PVCS to Microsoft TFS.
+
+Worked with Business Analysts and QA team to implement agile development practices including
+project scoping, analysis, design, development, testing, and implementation of ETL and Bi applications.
+
+Served as backup for Oracle Database administrator for analysis of Oracle sessions, tablespace
+usage and indexes.
+
+Provide support, root cause identification for any Production issue during the warranty period after
+post implementation, conducted walk-through meeting and guiding !/T support.
+
+Successfully completed POC for using Informatica for ETL.
+
+Maintained Defect tracks, Bug fix, ad hoc Reports, projects and assigned works using JIRA tools.
+
+Blackwell Consulting LLP - Senior Datawarehouse/ ETL/ BI Developer
+City, STATE + 05/2010 - 05/2011
+
+Lead projects at various stages from requirements gathering and business rules analysis to
+
+creating physical database model, ETL development ,BO Universe Architecture and Reporting.
+
+Lead and improvised existing Enterprise Data Warehouse
+
+Instrumental in creating process , procedures, policies and standards for data warehouse
+
+implementation
+
+Designed conceptual data model based on the requirement, Interacted with non-technical end users
+
+to understand the business logics.
+
+Modeled the logical and physical diagram of the future state, Delivered BRD and the low level
+
+design document
+
+Successfully led the Analytics team, implemented various reporting and analytics projects using
+
+Excel Dashboards, Birst and Crystal Reports.
+
+Supported thousands of users and hundreds of reports across all organizational units and business
+
+functions by maintaining an active and trusted business intelligence environment
+
+Created PL/SQL stored procedures, functions and packages for moving the data from staging area
+
+to data mart.
+
+Conducted and improved database performance tuning by SQL statements, index tuning, creating
+
+materialized views, and data warehousing.
+
+Extensively involved in using hints to direct the optimizer to choose an optimum query execution
+n.
+
+Used Bulk Collections for better performance and easy retrieval of data, by reducing context
+
+switching between SQL and PL/SQL engines.
+
+Generated server side PL/SQL scripts for data manipulation and validation and materialized views
+
+for remote instances.
+
+Created Shell Scripts for invoking SQL scripts and scheduled them using cron tab.
+
+Wrote Unix Shell Scripts to process the files on daily basis like renaming the file, extracting date
+
+from the file, unzipping the file and remove the junk characters from the file before loading them
+
+into the base tables.
+
+Involved in the continuous enhancements and fixing of production problems.
+
+Deloitte Consulting LLP - Senior Web and Database Developer
+City, STATE + 01/2007 - 04/2010
+
+Provided consultation on complex projects and was considered top level contributor for most
+phases of systems analysis, while considering the business implications of the application of
+technology to the current and future business environment.
+
+Lead meetings with the Business users to capture, collate and document business requirements for
+project implementation.
+
+Responsible for development of technical programs and components for the system using Microsoft
+ASP.NET, C#, writing procedures in Oracle database, creating reports using Crystal Reports.
+Proficiently worked with Logical, conceptual and physical data models also created various
+dimensions for warehousing data process.
+
+Involved in data profiling and cleanup process after requirement analysis for the Data Mart.
+Generating scripts and schemas by using reverse engineering through Erwin Data Modeler.
+Responsible for developing, support and maintenance for the ETL (Extract, Transform and Load)
+processes using Oracle PL/SQL.
+
+Extensively used ETL to transfer and extract data from source files (Flat files, JSON and XML) and
+load the data into the target database.
+
+Responsible to tune ETL procedures and STAR Schemas to optimize load and query performance.
+Created complex SQL, PL/SQL Functions and Procedures, Packages, Cursors, Triggers.
+
+Analyzed all technical design documents and development of various Data flow diagrams, data
+models, PL/SQL packages and database objects to provide support to developers.
+
+Developed PL/SQL procedures/packages to kick off the SQL Loader control files/procedures to load
+the data into Oracle.
+
+Worked on LIST, HASH Table Partitioning, STATS Gathering, Table Analysis and various Oracle
+Indexes.
+
+Wrote PL/SQL procedures for reconciliation of financial data between source and target to automate testing phases and help business for preliminary validation.
+
+Fine-tuned procedures/SQL queries for maximum efficiency in various databases using Oracle
+Hints, for Rule based optimization.
+
+Created GLOBAL TEMPORARY TABLES to handing multilevel data staging operation.
+
+Extensively worked on Oracle Query Optimization, performances tuning using EXPLAIN PLAN, DBMS
+PROFILER and re-engineering the existing process with highly efficient and robust.
+
+Monitored and maintained health of the assigned modules and overall application.
+
+Develop and documented Data Mappings/Transformations as per the business requirement.
+Participating in user acceptance testing and hand holding the business users as necessary.
+
+Agile InfoSystems Private Limited - Software Developer
+City, STATE + 09/2005 - 12/2006
+
+Designed and developed multi-tier data driven web applications in support of internal and external
+organizational needs.
+
+Understand data and business intelligence requirements to ensure system compatibility and
+transform complex customer business requirements into effective, efficient, and maintainable
+enterprise-level solutions.
+
+Developed physical data models and created DDL scripts to create database schema and database
+objects
+
+Designed data models using Erwin.
+
+Wrote user requirement documents based on functional specification.
+
+Created new tables, written stored procedures, triggers for Application Developers and some user
+defined functions. Created SQL scripts for tuning and scheduling.
+
+Involved in performing data conversions from flat files into a normalized database structure.
+Developed functions, views and triggers for automation
+
+Extensively used Joins and sub-Queries to simplify complex queries involving multiple tables and
+also optimized the procedures and triggers to be used in production.
+
+Provided disaster recovery procedures and policies for backup and recovery of Databases.
+Performance Tuning in SQL Server using SQL Profiler and Data Loading.
+
+Supported the testing team in Integration and User Acceptance Testing.
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

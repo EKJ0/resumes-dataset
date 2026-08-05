@@ -1,0 +1,72 @@
+Application Programmer /ETL Phone: (123) 456 78 99
+Email: info@qwikresume.com
+Developer Website: www.qwilresume.com
+
+LinkedIn: linkedin.com/qwikresume
+
+ROBERT SMITH ‘Address: 1737 Marshville Road,
+
+Alabama
+
+OBJECTIVE
+---------
+
+7 years of IBM Infosphere DataStage experience ranging from Design, Development, Test Support,
+Implementation and Production Support. Worked extensively on designing and developing parallel
+DataStage jobs in V || Good experience in Data ware house designs, and data modeling, Star and
+snowllake schemas. Worked in detail with different stages in DataStage like Database connectors,
+Transformer, Lookup, Join, change capture and Aggregator and successfully ran jobs fram medium
+to high complexity levels,
+
+WORK EXPERIENCE
+--------------- Application Programmer/ETL Developer
+
+ABC Corporation - Noventber 2010 - March 2012
+
+Responsibilities Design, Develop and Implementation of ETL jobs to load internal and external
+data into data mart,
+
+Worked closely with business team to gather requirements.
+
+Developed the Souree-Target Mapping for cach Dimension and Fact tables.
+
+Develop and modify ETL jobs to meet monthly and quarterly report needs.
+
+Developed ETL processes to load data into fact tables tram multiple sources like Files, Oracle,
+Teradata and SQL Server databases.
+
+Extracted data from Oracle database transformed and loaded into Teradata database according
+to the specifications,
+
+Used Teradata utilities like Multi Load, T Pump, and Fast Load to load data into Teradata data
+warchouse from Oracle and DB2 databases,
+
+ETL Developer
+
+ABC Corporation - 2009 - 2010
+
+Developed Mappings and transformation rules to map business mules, requirements and policies, using Oracle Warchouse Builder (OWB) 9.2.
+
+Developed PL/SQL scripts and processes to convert legacy codes and data to standardized and
+normalized format for OWB Transformation.
+
+Defined and worked with client to formalize OWB architecture and archiving processes.
+Created daily mapping functionalities to move data from Oracle 111 Applications environment
+to warehouse.
+
+Defined, designed and created PL/SQL scripts to effect sales data recasting and recast data
+extracts for use by Sales reps.
+
+Fine-tuned scripts for performance and enhancements using PL/SQL.
+
+Generated schema comparison scripts to enable clicnt to maintain schemas in syne with OWB repository.
+
+EDUCATION
+---------
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

@@ -1,0 +1,111 @@
+Lakisha Washington
+
+Senior ETL Developer | BI Services | Data Integration
+
+@ help@enhancv.com @ linkedin.com
+
+SUMMARY
+-------
+
+Passionate Senior ETL Developer with 7 years of experience in agile development,designing complex data integrations using SSIS, and Power
+BI reporting. My experience in BISL, focus on cost-effective solutions, and success in project management aligns with this job's high-stake
+challenges.
+
+WORK EXPERIENCE
+--------------- Senior SSIS ETL Developer
+
+Boeing
+
+&4 2015-2020 9 Philadelphia, Pennsylvania
+
+Company Description
+
+- Designed, developed, debugged, and supported complex ETL processes, increasing efficiency by 35%.
+
+- Automation of jobs resulting in 60% reduction of manual efforts and boosting ROI.
+
+- Maintained and enhanced databases, resulting in improved data quality by 40%.
+
+ETL Developer
+
+Dell Technologies
+
+@§ 2011-2015 9 Philadelphia, Pennsylvania
+
+Company Description
+
+- Managed Power BI Reporting, streamlined AP! management, and automated data refreshes.
+
+- Monitored and troubleshoot ETL and data profiling jobs, reducing errors by 15%.
+
+- Successfully configured and maintained complex data integration interfaces using SSIS.
+
+Junior Database Developer
+
+IBM
+
+&8 2009-2011 9 Philadelphia, Pennsylvania
+
+Company Description
+
+- Contributed to development of database designs that improved response times by 25%.
+
+- Supported and updated curated data objects, ensuring timely and accurate data availability.
+
+- Performed data integration of disparate sources, improving data transfer efficiency by 30%.
+
+EDUCATION
+---------
+
+Master's degree in Data Science
+
+University of Pennsylvania
+4 2007-2009 9 Philadelphia, Pennsylvania
+
+9 Philadelphia, Pennsylvania
+
+STRENGTHS
+
+VW Problem Solving
+
+Successfully troubleshoot complex data issues, identifying root causes and implementing effective solutions in my job at Company X.
+
+5 Leadership
+
+Successfully led a team of 5 at Company Y in implementing a complex ETL process across the
+organization.
+
+“~e Communication
+
+Stellar communication skills which facilitated clear expectations and efficient cross-team
+collaboration, reducing project timelines by 20% at Company Z.
+
+SKILLS
+------
+
+SSIS Power Bl
+
+ETL Solution SOL
+
+Data Quality Management
+
+Project Management
+
+CERTIFICATIONS
+--------------
+
+Certification in Agile Software Development
+
+Completed in-depth study of Agile software development methodologies via Coursera.
+
+Professional Certification in Data Science Harvard University, focusing on R, Python, and SQL.
+
+PASSIONS
+
+5 Following Tech Trends
+
+Passionate about keeping updated with the latest trends and innovations in technology.
+
+7 Traveling
+
+Love to explore new cultures, food and places around the world.

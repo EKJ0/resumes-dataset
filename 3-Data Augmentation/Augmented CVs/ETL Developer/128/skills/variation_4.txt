@@ -1,0 +1,165 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Backend Engineer offering 11 years in the IT industry with a focus on product design and development. Extensive knowledge of
+ElasticSearch, MongoDB, Logstash, Kafka, Microservices and Core JAVA
+Designed and developed full-text search platform using NoSQL ElasticSearch engine, allowing for much faster, more scalable and more
+
+intuitive user searches in domains include Product Documentation search (www.docs.vmware.com), Marketing/Sales accelerating product
+(www.b2bsignals.com) and Social Sentiment Analysis among others
+- Experience in using Logstash-Kafka-Logstash as a messaging system.
+
+Design and implemented Spring Boot Micro-services
+- Experience in creating custom Apache Nutch plugins Used Apache Tika for parsing HTML, PDF content
+
+Worked on SmartLogic components like Classification Server to classify content
+
+- Hands on experience in NoSQL technology like MongoDB (CRUD Ops, Indexing, Replication, Aggregation, Sharding, various ops manager activity)
+
+Used Memcached which advocates web app nodes to be independent and self-sufficient (Shared Nothing Architecture)
+
+Proficient in JAVA, Object Oriented Methodologies
+
+- Worked on InfiniDB to enable performance-intensive analytics on social media posts.
+
+- Hands-on experience in analyzing, optimizing, and tuning the performance of the application using Java Profiler like Yourkit, JAMon
+
+- Experience in delivering project using Agile Methodology
+
+- Experience in a public cloud like Amazon (AWS EC2)
+
+- RDBMS experience includes Oracle, DB2, PostgreSQL, MySQL and programming using PL/SQL, SQL
+- Experience in automation and integration tool like Chef, Jenkins
+
+- Good understanding in writing Python Scripts and Shell scripts
+
+- Hands on experience in log monitoring tool like Splunk, Graylog
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer Science, 2005 Sardar Patel University - Vallabh Vidya Nagar, GJ
+
+CERTIFICATIONS
+--------------
+
+- SCJP JDK 5 (Sep 2007)
+C100DBA: MongoDB Certified DBA Associate Exam (Dec 2016 - Present License 636913252)
+
+SKILLS
+------
+- JAVA: OOD, Threads, Collection, Junit, log4j, JAVA Mail © Hadoop Ecosystem: Kafka, Zookeeper, Apache TIKA
+- Web Services: Spring Boot REST, Apache AXIS, Mule ESB © SQL DB: Oracle, MySQL, PostgreSQL, DB2, InfiniDB REST * NoSQL DB: MongoDB
+- Tools: ANT, Maven, GIT, JMeter, Chef, Jenkins, Chef e ELK Stack: ElasticSearch, Logstash, Kibana
+- Methodology: Agile (Rally, JIRA) © Web Crawler: Apache Nutch
+
+WORK EXPERIENCE
+---------------
+
+Back-End Developer, 05/2017 - Current Aecom - Duluth, MN
+
+Project: PowerMe Product
+- Design and development of Micro-service REST API
+- Migrated API written in ES ver 1.7 to ES 5.x
+- Optimized response time by introducing Hazelcast/Guava caching mechanism Environment: ElasticSearch, Logstash, Core JAVA, Spring Boot Micro-services, docker, Hazelcast and Guava cache
+
+Search Developer, 10/2016 - 04/2017 Two95 International Inc. - Philadelphia, PA Employer: Enquero Inc.
+Project: CDF (Content Delivery Framework)
+- Led ground-up full-text search engine design and development
+- Configured Messaging Queue using Logstash-Kafka-Logstash between various micro service modules which helped to handle back- pressure Designed to provide local based search in 11 languages including Japanese, German, Chinese (Simplified and Traditional) and Spanish.
+
+Design and implementation of Spring Boot Micro-services like SearchService (search data from ES) and FeedService (Index data into ES).
+Responsible for installing and troubleshooting Elasticsearch and Logstash
+
+Used web crawler Apache Nutch to crawl Knowledge Base site and indexed crawled data into ElasticSearch
+
+Wrote custom Apache Nutch plugins like sending data to Logstash
+
+- Parsed documents(HTML and PDF) using Apache Tika
+
+Classified documents using Classification Server before sending data to ElasticSearch
+
+Cleaned up ElasticSearch query logic with Search Template
+
+Implemented micro service to read data from ElasticSearch using REST Java API
+Design and Implemented Did YouMean search, Suggestions, Auto-complete, Search Highlighter, Boosting search result, More Like This
+Query, Synonym Search
+
+- Created various utility scripts in Python like creating indices, Re-indexing data from one index to another, creating back-up of indices Environment: ElasticSearch, Logstash, Kafka, Core JAVA, Spring Boot Micro-services, SmartLogic Classification, Ontology Editor, MongoDB, Kibana , Perforce, Python, Apache Nutch, Apache Tika, docker
+
+MongoDB DBA, 06/2016 - 09/2016 Salient Crgt - Fayetteville, NC Employer: CIGNEX-Datamatics Inc
+Project: Nitrogen - PAAS based product
+- Responsible for providing support as a MongoDB DBA
+- Experience in configuring MMS
+- Configuring and monitoring replica sets
+- Optimizing database/query performance
+- Created scripts to identify missing Config entries, enable/disable balancer during balancer window
+- Managed 9 Shards having more than 10TB of data
+- Log monitoring and in-depth analysis using Splunk Environment: MongoDB, Chef, Python, MMS, Splunk
+
+ETL Developer, 10/2015 - 06/2016 Opentext Corporation - Virtual, DE Employer: CIGNEX-Datamatics Inc
+Project: B2B Signals
+- Responsible for design and implementation of ETL jobs
+- Implemented utility to download JSON files from AWS S3 buckets to MongoDB Design and implemented Spring Boot Micro-services of each ETL modules like acquisition, cleaning, association, NER, Indexing etc. Used MongoDB to store intermediate data of each step.
+- Indexed data into Elasticsearch to provide free full-text search. Integrated Kibana with Elasticsearch to analyze indexed data and get insight into the data in visual forms. Implemented ETL Filtrating step using Mongo ProjectionWritten jobs of cleansing and normalizing contacts fetched from LinkedIn Created Alteryx flows for association and Graph Modeling of LinkedIn Contacts Responsible for indexing processed data to MongoDB and ElasticSearch to be used in WEB APP.
+- Performance Tuning of Elastic Search Indexing
+- Code review using Fabricator Environment: JAVA, Elastic Search, Kibana, Log Stash, MongoDB, Spring Boot, GIT, Alteryx, IntelliJ, Jenkins, Chef, JUnit, Log4J, Phabricator, Sonar Lint, Graylog
+
+Lead Consultant, 11/2010 - 09/2015 Rtx - Andrews Air Force Base, MD
+
+Project: Social Media Tool Providing Sentiment and Trending of keywords
+
+- Involved in importing the real-time posts/tweets from a various data source like FB, Twitter, Google Plus to MongoDB using Kafka
+
+producer/consumer model.
+
+- Developed Spring boot micro-services to communicate between Mule ESB and MongoDB
+
+- Involved in creating Mule ESB layer for the different component of the product
+
+- Involved in creating Spring Quartz batch program which fetches data from the Social API for a given set of keywords
+
+- Responsible for integrating different modules like Liferay, MongoDB, Alchemy, InfiniDB using JSON Rest services.
+
+- Extensively used Mongo Aggregation API for sentiment analytics
+
+- Optimized Mule flows to use multiple threads using Java Executor Framework
+
+- Built relevancy of data using MongoDB text search functionality
+
+- Performance Tuning of the application using Java profiler Environment: Core JAVA, Mule ESB, Spring REST services, Maven, Tortoise SVN, MongoDB, Alchemy API, InfiniDB. My SQL, Eclipse, D3.js, Jenkins
+
+Project: Learning Management System
+
+- Design and development of portlets using Liferay and Struts
+
+- Involved in creating roles, assigning permissions to portlets, managing users, mapping roles to the user using Liferay control panel
+
+- Did customization in the hook.
+
+- Extensively involved in creating Web services to integrate module with client’s portal. Environment: Tomcat 6.0, SQL Server DB 2008, Java Script, JQuery, STL, AJAX, ANT, Struts 1.3 Protlets, JSP, Struts 1.x, Liferay, HTML, SOAP services, Eclipse 3.4, SVN, JIRA
+
+Sr. Software Engineer, 08/2007 - 11/2010 Sharp Decisions - Harrisburg, PA
+
+Project: Insurance Portal - Receipt Writing System
+- Extensively involved in enhancing the application as per requirements
+- Developed application service components and configured beans using Spring IoC, creation of Hibernate mapping files and generation of database schema
+- Configured Hibernate framework with Spring MVC to provide more modularity in terms of DAO layer implementation
+- Implemented an asynchronous, AJAX (JQuery) based rich client on improving customer experience
+- Implementation of different batch jobs like Notices and Letter Generation Environment: JAVA, Spring MVC, Hibernate, JSP. Servlet, Oracle 91, DB2, Eclipse 3, Tomcat 6, JQuery
+
+Software Engineer, 11/2005 - 08/2007 L-Engineering Software Pvt. Ltd. - City, STATE
+
+Project: Online Insurance Application
+- Involved in writing POJOs and have used JavaScript to handle client side validation.
+- Implemented service layer to communicate to Stored procedure
+- Participated in database schema design and creating stored procedure and views in PostgreSQL
+- Optimized SQL queries Environment: JSP, Servlet, Core JAVA, JavaScript, PostgreSQL, TAOD client, SVN
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

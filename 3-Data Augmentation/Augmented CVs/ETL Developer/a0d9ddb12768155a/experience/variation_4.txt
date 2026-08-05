@@ -1,0 +1,59 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+Robert Sm ith Phone (123) 456 7899
+
+Email: info@qwikresurne.com
+
+. Website : www, qwikresume, com
+
+ETL Informatica Developer finecdiatligmeditncord/aedkresure
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+A detail-oriented ETL Informatica Developer with over 6 years of experience in Analysis, Development, Testing, Implementation, and Maintenance of Data Warehousing/Integration
+projects and knowledge on administrator part as well, Extensive experience in gathering and
+analyzing requirernents, Gap Analysis, Scope Definition, Business Process Improvernents, Project
+Tracking, Risk Analysis, and Change ControlManagement. Good experience in AIX & NIX working
+environment.
+
+SKILLS
+------
+
+Informatica Power Center 9,x/8.x, Informatica Power Exchange 9.x/8.x, |IDQ 9.6/9.1 BI Tools OBIEE
+(10G, 11G), Tableau. Scheduling Tools Control-M, Autosys Languages C, Java, C++, Python, R.
+RDBMS Oracle/ Exadata/119/10g, DB2V9, Teradatal4/13, PL/SQL, SOL Server 2008 Tools/Utilities
+Toad, Perl, UNIX Shell, Business Objects XI Rl Operating Systems Windows, UNIX, Linux Web Technologies HTML, CSS, XML, JAVA SCRIPT
+
+WORK EXPERIENCE
+---------------
+
+ETL Informatica Developer
+Houston Independent School District - July 2015 - Present
+- Involving in direct conversations with the business users and gather the requirements to how to handle the source data and design accordingly the ETL process.
+- Using Informatica power center 9.6.1 to extract the data from insurance application AS400 to transform and load the data into the enterprise data warehouse Samp; data mart.
+- Developing the logical data rnodels and physical data rnodels with experience in forward and reverse engineering using Erwin, » Involving in Information administration including creating new users and groups, backing up the repository and domain as well as handling various upgrades.
+- Used Informatica B2B data exchange to handle EDI (electronic data exchange) for handling the payments for the scheduled dates.
+- Using major components like parsers, Mappers and streamers in data transformation studio for conversion of XML files to other formats.
+- Implementing various data modeling schemas such as star schema and snowflake scherna.
+
+ETL Developer
+
+ABC Corp - 2012 - 2015
+- Created reference/passthrough ports in xml transformations to correlate the parsed data,
+- Extracted data from Salesforce.com(sfdc), Oracle, Excel , Data files using Informatica ETL
+
+Mappings/SQL PLSQL scripts.
+- Created and scheduled sessions, jobs based on dernand, run on time and run only once using
+
+workflow manager.
+- Implemented slowly changing dimension methodology for accessing the full history,
+- Created several informatica mappings to populate the data into dimensions and fact tables.
+- Performed incremental aggregation to load incremental data into aggregate tables,
+- Developed unix shell scripts for event waits, wait for files and pre-session tasks,
+
+EDUCATION
+---------
+
+- This Free Resime Tempimte ls the copyright of Qwikresume.com. Usage Guilctelines

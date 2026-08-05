@@ -1,0 +1,239 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Over all 4+ years of IT experience in Data Engineering, Analytics and
+
+Software development for Banking and Retail customers.
+
+Strong knowledge on Cloud technologies including AWS - EC2, EMR, $3, Lambda, SQS. SNS.
+
+AWS Certified Solutions Architect - Associate.
+
+Strong Working exposure with ETL, Data Warehousing with strong knowledge on Dimensional modeling on MS SQL Server, Snowflake.
+Strong programming knowledge of Java 7, Java 8 and experience with
+
+scripting languages - Python 3.
+
+Strong experience in Python libraries - Numpy, Pandas, Matplotlib.
+
+Knowledge in data Engineering technologies including Hadoop 2, Spark , Elastic Map Reduce.
+
+Working Experience in cloud technologies including AWS $3, EMR, EC2,
+
+Athena.
+
+Proficient in performing EDA (Exploratory data analysis), Root Cause Analysis, Impact Analysis on large volume of datasets.
+Experienced in querying Snowflake, Oracle, Redshift, MS SQL server
+
+databases for OLTP and OLAP. Solid understanding of RDBMS database concepts including performance tuning and Query optimization
+Advanced working SQL knowledge and experience working with relational databases, query optimization (SQL) as well as working
+familiarity with a variety of databases.
+
+Strong analytic skills related to working with unstructured datasets. Experience with building processes supporting data transformation,
+data structures, metadata, dependency and workload management.
+
+Experience in complete Software Development Life Cycle (SDLC) involving Analysis, Design, Development and Testing.
+
+Experience performing root cause analysis on internal and external data
+
+and processes to answer specific business questions.
+
+Working knowledge of message queuing, stream processing, and highly
+
+scalable ‘big data’ data stores. Experience creating APIs and interfacing with front-end systems Experience with stream-processing systems
+using PySpark.
+
+Strong knowledge of data structures, algorithms, operating systems, and distributed systems fundamentals.
+
+SKILLS
+------ Snowflake , Python 3 , Pandas, Numpy, SQL, No SQL. AWS- EC2, $3, Glue , Spark with EMR.
+MS SQL Server , Redshift Informatica Power Centre 9.5, IBM Cognos, Statistica.
+Java 7, Java 8, Spring. Windows, Linux .
+
+WORK EXPERIENCE
+---------------
+
+Data Engineer, 07/2019 - Current Motion Recruitment - Mckinney, TX
+
+Working currently as Data Engineer in Data Risk Management Team in Auto Finance Division of Financial Client.
+
+Responsible for assessing and improving the Quality of Customer Data.
+
+Worked on end-to-end data quality process setup on AWS for entire Financial Auto Loans division.
+
+Worked on data profiling and created Logical Datasets on Snowflake to administer quality monitoring process for various data elements.
+Worked on creating Logical dataset scripts on snowflake using SQL Joins, Aggregations, transformations, Window functions -
+
+Worked on developing ETL pipelines on $3 parquet files on data lake using AWS Glue .
+
+Performed data quality issue analysis using Snow SQL by building analytical queries on Snowflake.
+
+Analyzed data quality issues through Exploratory data analysis (EDA) using SQL , Python and Pandas.
+
+Achieved 400% growth in data quality check creation process by creating Rule Automaton tool in Python.
+
+Created and executed CRON jobs to automate the execution process of mass data quality monitoring of datasets on Ec2 instances with EBS
+volumes attached.
+
+As a part of new producer request review , built a python script that validates the source to target mappings and automates the lineage
+checks to some extent.
+
+Worked on metadata management including data classification and designing Quality rules for each elements.
+
+Regulatory Reporting. Streamlined the process of stress test regulatory reporting by developing a detailed process tracker in Excel and
+Python.
+
+Reconciled monthly stress test and quarterly financial reports in order to ensure regulatory compliance.
+
+Worked on building Python scripts to generate heat maps to perform issue and root cause analysis for data quality report failures.
+Involved in the code migration of quality monitoring tool from AWS EC2 to AWS lambda inorder to reduce the costs incurred due to
+reserved EC2 instances.
+
+Environment: Python, Snow SQL, Pandas, Numpy, Matplotlib, seaborn, Excel, Tableau, AWS EC2, AWS .S3, AWS Lambda , AWS EC2.
+$3, Glue.
+
+Lambda, OneNote(Jupyter Notebook),Spyder, Anaconda , Nebula, Linux Shell Scripting
+
+Software Engineering Analyst , 01/2016 - 04/2016 Accenture - Columbus, OH
+
+Worked on SLB logistics application to do shipment and field logistics of
+
+Schlumberger.
+
+Contributed to the development and enhancement of data warehouses and marts for modules that are used by SLB business users.
+Involved in end to end ETL process by cleaning, wrangling and exploring
+
+the raw data and building analytical warehouses in MS SQL Server using
+
+SSIS and Informatica Power Centre 9.5.1.
+
+Worked on building reports using IBM Cognos.
+
+Worked agile in a team of 6 members and contributed to the backend
+
+development of application -
+
+Gained expertise in writing SQL queries against MSSQL server with query optimization and Performance tuning techniques.
+Performed data analysis using Python and involved in critical problem
+
+solving situation and troubleshooting abilities.
+
+Leveraged various python modules to enhance the data validation, testing and automated daily processes.
+
+Skillset : MS SQL Server 2012, SSIS , Informatica Power Centre 9.5.1,
+
+Cognos, Excel, SSMS.
+
+ETL Developer, 07/2015 - 01/2016 Ipmorgan Chase & Co. - Gastonia, NC
+
+Project- Claims Fraud Analytics- Insurance Client.
+
+Claims Fraud Analytics project aims to identify the fraudulent claims from the information available from internal and external sources.
+Responsibilities:
+
+Involved in gathering, analyzing and documenting business requirements and functional requirements and data specifications from users
+and transformed them into technical specifications.
+
+Extensively worked on data extraction, Transformation and loading data
+
+from various sources like SQL Server, NETEZZA, Flat files, XML files, CSV
+
+files.
+
+Developed the Informatica Mappings by using transformations like UDT,
+
+Web service consumer, TCL, Xml Generator, Xml Parser, Aggregator,
+
+sorter, expression, Joiner, Union, SQL overrides usage in Lookups (both
+
+connected as well as un connected), source filter usage in Source
+
+qualifiers, and data flow management into multiple targets using router.
+
+Used IDQ in cleaning the data by using Address Doctor, Parser,
+
+Standardizer Transformations. Created Stored Procedures in PL/SQL.
+
+Strong skills in Data Analysis, Data Requirement Analysis and Data
+
+Mapping for ETL processes.
+
+Extensive use of statistical tool Statistica for Text mining and scoring.
+
+Used debugger in identifying bugs in existing mappings by analyzing data flow, evaluating transformations.
+
+Created prompt, list and chart reports using IBM Cognos Report Studio.
+
+Identified performance bottlenecks and Involved in performance tuning of sources, targets, mappings, transformations and sessions to
+optimize
+
+session performance.
+
+Tools: Informatica 9.5.1, MS SQL Server2008, Netezza, Cognos 8, Statistica.
+
+Java Developer, 08/2013 - 06/2015
+
+Infostretch - Bethesda, MD
+
+Wipro Technologies - Hyderabad, Andhra Pradesh, India FedEX-FLM-FSNG-ADM -
+
+Worked with Fedex client for Fedex Locker Management System (FLMS) to develop RESTful services to the Fedex kiosk( FSNG) in
+request-response style.
+
+Extensive Involvement in Requirement Analysis and system
+
+implementation, SDLC phases.
+
+Contributed to a team of 6 in an agile environment in developing new interfaces for the FLMS application.
+Contributed in developing RESTful services and business logic in the
+
+backend of the FLMS portal to serve requests of several Fedex Ship and
+
+Get Kiosk applications on front end using Spring REST . Spring MVC.
+
+Worked on Object Relation mapping technologies like JPA(Hibernate) to
+
+develop the Data Access Layer and Repositories layer.
+
+Worked on RabbitMQ Message Queueing System to integrate FLMS
+
+application with Cargo applications and other downstream applications to receive parcel data in real time and batches.
+Worked on developing web services to interact with cross platform
+
+applications (FSNG) to exchange the data in the form of XML and SOAP
+
+protocol for consuming WCF services
+
+Implemented OLTP systems to the backend by creating complex SQL
+
+Queries, Reusable Triggers, Functions, Stored procedures using PL/SQL.
+
+Worked in pair programming, Code reviewing and Debugging.
+
+Involved in unit test development using Mockito and Bug Fixing.
+
+Involved in UAT and production deployments and support activities.
+
+Tools & Technologies: Java SE 7, Spring 4.0, Spring REST, Spring
+
+JDBC. Hibernate , Oracle 11g, Maven, Eclipse, SVN, Bugzilla.
+
+EDUCATION
+---------
+Master of Science: Computer Science, 05/2019 New Jersey Institute of Technology - Newark, NJ
+Master of Science: Electrical Engineering, 06/2013 Sastra University - Thanjavur, TamilNadv, India
+
+CERTIFICATIONS
+--------------
+
+AWS Certified Solutions Architect Associate.
+https://www-.youracclaim.com/badges/d6cacb44-4385-4d0d-a236-05795a45e069/public_url
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

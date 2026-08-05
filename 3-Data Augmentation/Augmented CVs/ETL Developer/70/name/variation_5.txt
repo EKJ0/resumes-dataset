@@ -1,0 +1,242 @@
+SUMMARY
+-------
+
+Maria Garcia
+----------------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
++10 years of experience in Analysis, Design and Development of various software applications with over 7
+years of extensive Data Warehousing experience.
+
+“Worked on multi-year, highly complex projects in Finance, Insurance and Logistic domain for different clients
+from 3 different countries.
+
+Experience in the implementation of full lifecycle in Data warehouses with Star Schemas and Snow flake
+Schemas.
+
+- Strong expertise in IBM InfoSphere Datastage 8.5 & IBM WebSphere Datastage 7.5 Server edition
+- Designed, developed and implemented DataStage ETL jobs to process very high-volume data sources.
+- Developed DataStage Parallel jobs using various built in stages such as Sort, Aggregator, Filter, Join, Look up, Funnel, Transformer, Change data capture, Sequential File, Data Set, Oracle Connector interface, ODBC, Stored Procedure, FTP etc.
+
+- Developed DataStage Server jobs using various built in stages such as Hashed file, Sequential file, Transformer, InterProcess, Link collector, Link Partitioner, Sort, Merge, Pivot, Oracle Connector, ODBC, DRS, Stored Procedure, FTP etc.
+
+“Worked with Local Containers, Shared Containers and Job Sequencers.
+
+- Adept at Debugging, Troubleshooting, Monitoring and Performance Tuning of DataStage Jobs (server and parallel).
+
+Experience of working with different databases such as Oracle, DB2, MS SQL Server.
+
+sHighly skilled in writing and performance tuning of complex SQLs.
+
+- Performed QA to ensure that developed code & documents, meet required quality standards
+
+- Familiar with UNIX Shell Scripting.
+
+- Experience of programming in MVS Cobol, DTB COBOL & Java.
+
+Experience of using Informatica Power Center 8.x (Repository manager, Designer, Workflow manager,
+Workflow monitor).
+
+Team Player with excellent Organizational and Interpersonal skills.
+
+- Excellent written and verbal communication skills.
+
+“Ability to quickly adapt to changing priorities, requests, and environments.
+
+- Dedicated to maintain high quality standards.
+
+ETL ToolsIBM InfoSphere DataStage 8.5, IBM WebSphere DataStage 7.5 Server Edition, Informatica Power Center &
+
+RDBMSOracle 119/10g/9i, MS SQLServer 2008, MS SQL Server 2012, DB2 UDB.
+RDMBS ToolsSQLDeveloper, TOAD, SQL Server Management Studio
+
+ProgrammingSQL and PL/SQL, UNIX Shell Scripting, MVS COBOL, DTB COBOL, Java
+Operating SystemsWindows 2000/XP. Windows 7, MS-DOS, IBM MVS OS and Linux.
+Scheduling ToolsControl-M, OPC
+
+Version ControlPVCS
+
+SENIOR ETL CONSULTANT 04/2010 to CURRENT Two95 International Inc. | San Bruno, CA
+
+The Northern Trust Company is a leading provider of investment management, asset and fund administration,
+fiduciary and banking solutions for corporations, institutions and affluent individuals worldwide. Northern
+Trust, a multibank holding company based in Chicago, has a growing network of 85 offices in 18 U.S. states
+and has international offices in 12 locations in North America, Europe and the Asia-Pacific region.
+
+nFORM: (Northern Financial Objectives Reporting and Management) is an initiative to setup an enterprise
+level warehouse aimed to support the Management in arriving at effective business decisions.
+
+nFORNM is a financial data warehouse implemented using PeopleSoft Enterprise Performance Management
+(EPM) 8.9 methodology that transforms and houses the information to cater to reporting needs of various
+business streams viz., Trust Asset Reporting, Capital Allocations, Revenue Allocations, Costing, Funds
+Transfer Pricing, Income Statement, Balance sheet.
+
+The data from various external and internal source systems are fed into the EPM Warehouse by Extraction
+Transformation and Loading (ETL) Processes.
+
+Environment:IBM InfoSphere DataStage 8.5, IBM WebSphere DataStage 7.5, UNIX, Oracle 119/10g. SQL
+Server 2008 & SQL Server 2012
+
+Responsibilities:
+
+- Extract the data from the flat files and other RDBMS databases into staging area and populate into Data warehouse.
+
+- Develop DataStage Parallel jobs using various built in stages such as Sort, Aggregator, Filter, Join, Look up, Funnel, Transformer, Change data capture, Sequential File, Data Set, Oracle Connector interface, ODBC, Stored Procedure, FTP etc.
+
+- Develop DataStage Server jobs using various built in stages such as Hashed file, Sequential file, Transformer, InterProcess, Link collector, Link Partitioner, Sort, Merge, Pivot, Oracle Connector, ODBC, DRS, Stored Procedure, FTP etc.
+
+- Design and develop the parallel jobs for loading slowly changing dimension (SCD Type1, SCD Type 2) and Fact tables.
+
+“Write SQL queries and Stored Procedures and incorporate them in data stage, as per need.
+
+Perform the performance tuning at source, Target and Data Stage job levels using Indexes, Hints and
+Partitioning in ORACLE and Data Stage.
+
+- Convert the DataStage server jobs into DataStage parallel jobs to leverage parallel processing capabilities of DataStage parallel jobs.
+
+Analyze the dependencies between the jobs and Design Control-M schedules.
+
+Perform Quality Control for the jobs/modules being developed.
+
+- Coding, Unit Testing, Performance Testing, SIT, and UAT.
+
+- Code reviews to maintain accuracy, and to ensure coding standards are followed.
+
+- Provide 24 by 7 production support.
+
+Key Achievements:
+
+- Played a key role in design, development and successful implementation of number of critical projects such as General Ledger, Asset Reporting, Management reporting, Client Profitability, Banking Parallel upgrade, and EPM Upgrade.
+
+Performance tuning of Asset reporting module resulted in time from reducing the processing 30 hrs to
+
+less than 12 hrs.
+
+Performance tuning of General Ledger ETLs resulted in saving of 3 hours of processing time every day.
+ensuring timely delivery of daily reports before 09:00 AM.
+
+OIMGITE COORDINATOR/DEVELOPER 2006 to 03/2010 Fiserv, Inc. | Morristown, NJ
+
+Axa-Germany is ranked second in the German non-life insurance market and sixth in the life insurance
+market. The company has 4 million customers and 10 million contracts, worth 6.9 billion pounds. They have
+various Mainframe and desktop applications to support their products and agents.
+
+The project is to develop and support multiple applications and systems for the client.
+
+Janus: Axa still uses IBM mainframe as their enterprise platform. The core enterprise data is maintained in
+DB2 database. Using ETL tool, Informatica, this data is extracted, transformed and loaded into a data
+warehouse on Oracle database. The DW also received data from source files generated by mainframe
+programs
+
+Conas-Host: This is a primary system based on mainframe platform. The complete information of insurance
+agents, installations, clients and their contracts resides on host in DB2 database.
+
+ACC Anwendung: This is one of the most critical applications for the client. This application is used by the
+client for handling In-Bound and Out-Bound calls, marketing insurance products etc. The application is using
+Power++ as front end with Oracle as back end.
+
+Kampagne Re-engineering: Kampagne is a critical tool is used for creation and management of their product
+related campaigns. The original tool was developed in Power++, an old variant of C++. We re-engineered &
+re-designed the existing Campaign application using Java and java based frameworks such as Eclipse RCP.
+Spring, and iBatis.
+
+Environment: Informatica 7.1 and 8.0, DB2 v7.1, DB2 8, Oracle 9i, Oracle 10g, MS Access, Java with Eclipse IDE and J2EE frame works Spring and iBatis,
+COBOL, ISPF, TSO, OPC, CSV, DMR, MVS OS.
+
+Responsibilities:
+
+- As an onsite coordinator, attend meetings with the client to understand business requirements,
+
+resolve issues, discuss project plan, report progress of different project tasks and work with offshore team
+members to get the project tasks completed in given timeframe with compliance to set standards.
+
+- Design and development of Infomatica work flows, mappings and mapplets.
+
+- Extract the data from the flat files and other RDBMS databases into staging area and populate into Data warehouse.
+
+- Used various transformations like Filter, Expression, Sequence Generator, Update Strategy, Joiner, Stored Procedure, and Union to develop robust mappings in the Informatica Designer.
+
+“Worked on different tasks in Workflows like sessions, events raise, event wait, decision, e-mail, command,
+worklets, Assignment, Timer and scheduling of the workflow.
+
+- Created sessions, configured workflows to extract data from various sources, transformed data, and loading into data warehouse.
+
+- Used Type 1 SCD and Type 2 SCD mappings to update slowly Changing Dimension Tables.
+
+“Write SQL queries & stored procedures for Oracle and DB2 database.
+
+- Performance Tuning of Informatica work flows, SQL queries in Oracle and DB2.
+
+“Write Java programs to enhance existing applications and to develop new applications.
+
+Perform code reviews, peer testing, System integration testing and User acceptance testing.
+
+- Facilitate code migration from Acceptance to Production environment.
+
+- Occasionally write and test mainframe programs using MVS Cobol, JCL and schedule them using
+
+OPC scheduler.
+
+- Conduct in house trainings for team member in Informatica and Oracle SQL.
+
+Key Achievement
+
+- Received Ace Performer award for significant contribution to this project.
+
+- Received appreciation from client for delivering multiple applications with zero issues in UAT testing and production.
+
+SCC}TWARE DEVELOPER 01/2004 to 11/2006 OTTO-UK Group | City, STATE
+
+The client is the world's largest mail-order company and second largest online retailer (after amazon.com).
+The division of client is engaged in delivery of goods ordered by the customers of its parent mail order
+company.
+
+The logistics solution provided will deliver benefits between 1m and 4m per annum. In addition to this, it will
+provide a stable systems platform for the operation for the next 5-10
+
+3-tier Architecture is used for the development of the project. The different layers used in the Architecture are
+as follows
+
+GUI is used to develop the Presentation Layer (screens will be designed using JSP Struts Framework).
+Cobol and CICS is used to develop the Business logic / Middle Layer (Z/OS on IBM M/F)
+
+DB2 8.0 is used as a database / Data Layer. Stored Procedures are written to access the data (Z/OS on IBM
+MIF)
+
+Responsibilities:
+
++Requirement Analysis, preparing Unit test case documents, and Technical specifications.
+
+- Programming using JCL, DTB-Cobol on MVS OS & writing SQLs and stored procedures for DB2 for Z/OS.
+- Design GUI screens using QUAD, an in house Java based tool.
+
+Peer reviews, Testing & Documentation.
+
+- Module Estimation.
+
+MCBILE GAME DEVELOPER 08/2004 to 2004 India Games Ltd | City, STATE
+
+Indiagames Ltd is India's benchmark mobile and online games company and a leading global mobile game
+publisher. The Company is engaged in publishing and developing games across various platforms including
+Online and Mobile. Indiagames' products are developed and published across all major technology platforms
+and are distributed through partnerships with mobile operators in over 75 countries.
+
+Environment: J2ME
+
+Responsibilities:
+
+- Involved in the design and development of India Games most famous games and application of that time such as Lion King for Walt Disney Studio, Spider Man for Marvel Studio, and Kama sutra.
+
+- Porting the games to various J2ME enabled devices with different screen sizes, and processing capabilities.
+- Work with special Game testing team member to fix the flaws and bugs in the games
+
+Bachelor of Engineering | Information Technology 2003 University of Mumbai, Mumbai, Maharashtra

@@ -1,0 +1,279 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 100 Montgomery St. 10th Floor
+
+SKILLS
+------
+
+PROFESSIONAL
+
+CERTIFICATIONS
+--------------
+
+IBM Cognitive Certii-cations on Data Analysis with Python and
+Data Science (2020)
+
+IBM Data Visualization with Python (DVO101EN)
+
+IBM Machine Learning with Python (MLO101 ENv3)
+
+IBM Data Science Tools (DSO105EN)
+
+PCEP - Certified Entry-Level
+Python Programmer (2021) Teradata Basics V2R5 Exam Teradata SQL Specialist Exam Informatica Certii-ed Designer
+Version 8.x
+
+|. PowerCenter 8 Mapping Design
+
+li. PowerCenter 8 Advanced Mapping Design
+
+lii. PowerCenter 8 Architecture and Administration
+
+TECHNICAL SKILLS
+----------------
+
+Software and Tools Data Warehousing ETL Tools:
+Informatica PowerCenter 10.x/ 9.x/8.x/7.x/6.x, WorkFlow Manager, Informatica Server, Repository Manager, Designer
+tool, Goldengate, Business Object data Integrator.
+
+Data Modeling & Design Tool:
+Erwin, Microsoft Visio Replication Tool: Oracle
+Goldengate 12c/11.x
+
+File Transfer tools: Move-IT, LSYNC/RSYNC (Unix utility) Scheduling Tools: AutoSys Agile Tools:
+
+Source and Version Control:
+Jira, Bit-bucket, Git, Ansible, GitHub, SVN
+
+Processes: Agile/SCRUM, Waterfall model/SDLC Databases Oracle 12c/11g/10g,
+MS SQL Server 2008/2000, Teradata V2 R5/R4
+
+Scripting Languages: UNIX/ LINUS shell scripts, Batch Script, XML, SQL, PL/SQL, Python
+
+Object-Oriented Programming Operating Systems Windows
+Server 2003/2008/2012, UNIX (Sun Solaris, HP-UX, IBM-AIX), Red Hat Linux
+
+EDUCATION AND TRAINING
+
+EAST WEST INSTITUTE OF TECHNOLOGY
+01/2007
+
+Bachelor of Engineering
+
+SUMMARY
+-------
+
+Accomplished, results oriented and Innovative Senior ETL Lead with 15+ years of experience in
+Business Intelligence and Datawarehouse technologies brings track record of success in delighting
+customers with top-notch applications for diverse needs.
+
+Polished and executive presence with an aptitude of confidently presenting ideas to a wide range of
+clients, with a persuasive communication style that positively influences the decision makers.
+Immense exposure to revitalize operational performance with a focus on value-added solutions that
+improve overall organizational performance and aligned deliverables. Adds values to any organization
+in need of great collaboration, interpersonal and multitasking abilities.
+
+AREAS OF EXPERTISE:
+
+- IT Delivery
+
+- ETL Architecture
+
+- Hands-on team player
+
+- Informatica ETL Development
+
+- Informatica ETL Administrator
+
+- Hadoop
+
+- Python
+
+- Strategic Planning and Execution
+
+- Solution Architecture
+
+- Client Management
+
+- Agile Methodologies
+
+- Continuous Performance Improvement
+
+- Problern Analysis and Resolution
+
+- Team Building
+
+WORK EXPERIENCE
+---------------
+
+Cognizant Technology Solutions - Senior ETL Lead
+Boston, MA + 07/2017 - Current
+
+- Size: 10
+
+- Bank of America is one of the world’s leading Financial institutions, serving individual consumers, small and middle-market businesses and large corporations with a full range of banking, investing, asset management and other Financial and risk management products and services
+
+- The company provides unmatched convenience in the United States, serving approximately 66
+million consumer and small business clients with approximately 4,300 retail financial centers,
+including approximately 2,700 lending centers, 2,600 financial centers with a Consumer Investment
+Financial Solutions Advisor and approximately 2,400 business centers; approximately 17,000 ATMs;
+and award-winning digital banking with approximately 39 million active users, including approximately 31 million mobile users.,
+
+Roles and Responsibilities:
+
+- Hands-on Architect involved in Design, develop and implement ETL solutions for Risk Management groups The ETL solutions encompassed of developing mappings that load data from source systems to the corresponding Data warehouses and Marts
+
+- Created detailed ETL Migration Processes for Informatica, Database, Scheduling, O/S and H/W teams
+
+- Experienced in designing and developing Reusable Common objects shared across various Repositories. Automated, Redesigned and tuned several ETL Processes for optimal utilization of Time and resources
+
+- Created several Repository Mappings and Queries facilitating rapid analysis, troubleshooting, code verification and deployment
+
+- Experienced working on both agile Development methodology (SCRUM) and waterfall-SDLC
+
+- Responsible for working with the business partners to ensure correct understanding of regulatory requirements and then owning the functional delivery end to end
+
+- Assisted in User Acceptance Testing for Surveillance customers, verifying ETL jobs complied with assigned parameters, achieving required results.
+
+- Designed customized technical solutions to meet functional specifications outlined by business owners providing Architectural Road Map, direction and work packets for ETL needs
+
+- Analyzed user needs and software/Data/report requirements to determine design feasibility.
+
+- Conferred with project managers and other stakeholders to fully understand software design specifications and plan optimal development approaches.
+
+- Identified opportunities for process improvements to decrease in support calls/production failures
+
+- Wrote user manuals and other documentation for roll-out in customer training sessions.
+
+- Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+
+- Managed 5+ junior developers by delivering consistent coaching and constructive feedback.
+
+echnology Stack:
+
+- UNIX (RHEL), Oracle (Exadata), Informatica 10.4, Autosys, Ansible, Jenkins, Horizon, Jira, Git Bash, Python (beginner)
+
+Accenture - ETL Tech Lead/Goldengate Administrator
+City, STATE + 01/2009 - 07/2017
+
+- Team Size: 16
+
+- Project: Starwood Hotels and Resorts Worldwide, Inc is an American hotel and leisure company headquartered in Stamford, Connecticut. One of the world's largest hotel companies, it owns, operates, franchises and manages hotels, resorts, spas, residences, and vacation ownership
+properties under its 11 owned brands. As of 1 December 2014, Starwood Hotels and Resorts owned,
+managed, or franchised over 1,200 properties. On September 23, 2016, Marriott International
+acquired Starwood Hotels and Resorts Worldwide for $13.6 billion, creating the world’s largest hotel
+chain.
+
+- Starwood Enterprise Data warehouse (EDW) was built to integrate the transactional data from NDS source system which in turn got the data from PMS systems maintained at the property via Booking engine for decision making
+
+- Weused the Oracle Goldengate application to replicate data from the transactional system to EDW on nearly real time speed
+
+- Informatica power Center tool was used to transform and load data from ODS layer to Fact/ Dimension layer to feed Microstrategy reports
+
+- The refresh of data to the Fact/Dimension is done on a daily/weekly/monthly basis depending on the application, the data warehouse also serves as a centralized information repository to help businesses to arrive at better decisions and also to improve the operational efficiency.
+
+- Expertise in ETL Architecture, Development, Maintenance and Production support, Data Modeling, reporting along with Business requirement, system requirement gathering of Enterprise Data warehouses
+
+- Hands-on experience using Informatica PowerCenter 9.x/8.x/7.x/6.x
+
+- Expertise in designing and developing Informatica mappings from varied transformation logic using filter, expression, rank, router, aggregator, joiner, lookup, and update strategy
+
+- Expertise in Developing Mappings, Define Workflows & Tasks, Monitoring Sessions, Import & Export Mappings and Workflows, Backup and Recovery
+
+- Experienced in Extraction, Transformation and Loading of data from heterogeneous source systems like Flat files, Excel, XML, Oracle, SQL Server and Teradata
+
+- Experienced in Data Modeling using Dimensional Data modeling, Star/Snowflake Schema modeling, FACT and Dimensional tables, Physical and logical data modeling, using Erwin
+
+- Extensively worked on Error Handling, Testing, Debugging and Performance tuning of targets, sources, transformation logics
+
+- Expertise in performing the RCA (Root Cause Analysis) and resolving performance bottlenecks and optimization of the mappings, sessions and workflows
+
+- Experience in working with UNIX Shell scripts, Linux scripts, Batch scripts
+
+- Strong skills in analyzing the database design, coding using SQL and PL/SQL, Oracle 10g / 9i / 81 / 8.0, SQL Server, SQL Loader, Teradata V2R5 and SQL Plus database applications
+
+- Delivered various Stored Procedures, Packages and Triggers using PL/SQL
+
+- Expertise in Oracle Goldengate replication
+
+- Installation, set-up of Extracts, Data Pumps and Replicates for data replication between OLTP and OLAP systems
+
+- Ability to coordinate the i-ow of development initiatives and experienced in Requirement Analysis, Design, Development, and all the phases of Testing like Unit testing, Integration Testing, Regression testing, Performance, Acceptance testing
+
+- Automation, Scheduling and monitoring of jobs with scheduler Autosys.
+
+- Successfully lead the ETL Administration and development team for ‘Exadata Refresh Project’
+
+- Lead and executed the project which involved upgrading operating systems, database, softwareas, ETL tools, etc
+
+- Informatica was upgraded from 9.1.0 to 9.6.1HF3, Goldengate was upgraded from 11.0.1.0 to 12c along with Unix server upgrade, DB upgrade from 11g to 12c. It was a system wide upgrade
+
+- Working closely with the vendor in acquiring the software licenses, providing server requirements to respective teams like Unix and DBA team for preparing the environments for installation
+
+- Installations of Informatica 9.6.1HF3 along with Repository content upgrade and migration from one server to another
+
+- Worked on keeping the to-be production environment up and running in Parallel Mode to conduct validations against the real production environment
+
+- Worked with business analysts to identify the critical tables and report that would be used for data validations and preparing validation scripts for those to be run during the Cutover phase
+
+- Coordinating with offshore teams and providing the inputs on installation and Repository Content migration for STG, QA and Dev environments
+
+- Coordinated with Multiple teams like DBA team, Network team, Unix/Window support teams for issues that arouse during the parallel run
+
+- Also worked on identifying all the systems that depend on Enterprise data warehouse for their daily activities and helped set therm up for testing
+
+- Set up a parallel File transfer mechanism using LSYNCH/RSYNCH to transfer the source i-les from current production environment to to-be production environment for the interdependent ETLs to
+run testing and running close to 500 workflows in parallel and gathering run statistics, time taken
+to complete, total target success records, etc
+
+- As part of the validations and compared against the statistics with current production and fine tuning the existing code wherever necessary to be consistent with the upgrades
+
+- Coordinated with the DBA team in creating LOGON Triggers while interacting directly with OLTP systems or other target systems, created a separate set of connection strings to use the new ID's
+
+- As Goldengate Administrator, lead and delivered the Destination Phoenix project as an Goldengate Administrator
+
+- Performed installation and upgrade of Goldengate software version 11.0.1.1 on AIX OS and moved the OLTP data center of approximately 50TB in size and having 100M transactions per day from Houston to Phoenix location without any downtime on the frontend applications
+
+- This was the most critical project for the client (C-Suite Executives were briefed on the status every hour) as all the applications that accepts property reservations would be down for 15 hours and everything had to be flawless - switch to Upgraded DB (11.1.0.1) on AIX OS (from HP) and to have up to date transactions on the new environment and along with the replication to OLAP system
+
+- It was also crucial to make sure that no transactions were missed during this process. Executed initial load from File to replicate and Goldengate direct load methods, also created Extracts to read from active redo logs and Archive logs
+
+- Worked on error handling techniques by using ‘HANDLECOLLISION’ parameter and then analyzing the discard logs and also using the EXCEPTIONSONLY and MAPEXCEPTIONS parameters redirecting the error to an error log table
+
+- Running extracts and Data Pumps on OLTP database and also running replicates on DWH/OLAP database server along with 24/7 availability during project development/testing time frame
+
+- Developed Proactive monitoring scripts at Unix server level to alert on extract/replicate failure.
+
+Accenture - ETL Informatica Developer
+City, STATE + 10/2007 - 01/2009
+
+- Team Size: 8
+
+- Project: Cisco IT Marketing Application - CISCO is a fortune 500 company with over 38,000
+employees, including more than 1000 marketing professionals supported by Marketing IT 26
+Marketing Applications was supported by Accenture of varying complexity which includes Epiphany
+(CRM and ETL) tool and 24 Java & Perl Applications. Cisco hopes to control and reduce the cost of
+support and maintenance of existing applications over time to allow more funds to be spent on
+projects.
+
+Roles and Responsibilities:
+
+- Developed ETL mapping, transformations and extracts for the Campaigns a- Developed and executed epiphany campaigns for Marketing Cisco products and services
+
+- Monitored ETL workflows for any errors and made sure the campaigns completed on-time every time
+
+- Resolved production issues raised by the users within the SLA and created proactive monitoring to identify the issues before the users
+
+- Designed the ETL workflows for business requirements based on the industry best practices
+
+- Performed root cause analysis for the critical production support issues and documented the solutions in the knowledge repository
+
+- Created Design documents, unit test cases for the enhancements, bug fixes etc.
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

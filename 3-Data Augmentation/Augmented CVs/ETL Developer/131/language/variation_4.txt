@@ -1,0 +1,93 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Over 6 years of experience in analysis, architectural design, prototyping, development, integration and testing of applications using Java and J2EE Technologies *3+ years of extensive implementation experience in Mule ESB over Anypoint Studio, Anypoint Platform, CloudHub, API Gateway and Management *Immensely experienced in writing SQL Queries, Oracle PL/SQL, JDBA and JPA along with good knowledge on NoSQL and MongoDB ¢Strong experience in Integration Technologies like Mule ESB integrating various third-party financial solutions with the custom-made web application «Design and develop enterprise services using RAML and REST based APIs *Expertise in web development applications using Core Java, Servlets, JSP, EJB (Session Beans, Entity Beans), JDBC, XML, XSLT, RMI, JNDI, Java Mail, XML Parsers (DOM and SAX), Java Beans, JMS and Web Services ¢Proficient in working on Java related Frameworks like MVC, Struts 1-x/2.x, Hibernate 3.x, JSF, and Spring Framework 2.x/3_x *Experience in implementing various design patterns like MVC, Data Access Object, Front Controller, Intercepting Filter, Service Locator and Transfer Object «Extensive experience in SOA and experience in developing Web services, WSDL, SOAP and JAXB/JAX «Experience using mule connectors like DB, HTTP, HTTPS, FTP, FILE, SFTP, JMS, SalesForce etc as a part of integration usage «Strong development experience with producing and consuming Java Web Services using WSDL, SOAP, JAX-WS, JAX-RS, CXF, AXIS, JERSEY, XML, WS-Security *Hands on experience in Dataweave Expression Language, MuleSoft Expression Language (MEL) to access payload data, properties and variable of Mule Message Flow «Technical experience in the areas of Object-Oriented Analysis (OOA) and Object-Oriented Design (OOD) using UML and SDLC of distributed applications. Hugely experienced in using MuleSoft Studio that integrates APIs, databases and SaaS applications and deployed MuleSoft applications to CloudHub and on-premise servers *Good hands on experience using mule connectors like Salesforce, File, Database, JMS, SMTP and other connectors as a part of integration usage *Proficient in developing web pages using HTMLS5, JavaScript, JSP, CSS3, AJAX, JSON, JQUERY, JSTL and Struts Taglibs «Proficient in coding/design guidelines and checking Check styles, PMD defects & Find Bugs *Extensive experience with Web Logic 10.x, JBoss 7.0, WebSphere 7.x/8.x, and Tomcat 7.0
+- Experience with Agile - Sprint methodologies to do requirements gathering, analysis and planning, development & testing and documenting them *Strong application integration experience using Mule ESB with connectors, transformations, Routing, ActiveMQ. JMS and RabbitMQ
+- Experience with different version control/tracking systems like CVS, Harvest, GIT, Clear Case & SVN *Have experience in development and deploying mule projects on CloudHub «Application integration using Mule ESB, OSB and IBM Message Broker for integrating and orchestrating the services *Good understanding of implementing SOAP based and Web Services «Good exposure for Java/J2EE applications using IDEs like My Eclipse & Eclipse, RAD & Net Beans, Anypoint studio *Hands on experience on developing logging framework using KIBANA with ELK search «Performed unit testing using JUnit test cases and used Mockito for stub, integration and deployment of applications done using tools like ANT and Maven and debugging through Log4j *Experience on creating Flows, Sub Flows, Exception strategy, DataWeave transformations, and other activities *Expertise in DB Design, DB normalization and writing SQL queries & PL/SQL- Stored Procedures,
+
+Functions, Triggers, Sequences, Indexes and Views etc.
+
+SKILLS
+------
+- Mule ESB 3.8.x/4.1.x, Anypoint Platform, Mule API Proxy, e API, Java 1.8, SQL Server Anypoint Studio6.5/7.5, IIB, API-CONNECT, DataPower e Approach, JSP1.2, SSL
+- Monitoring: Splunk, ITCAM, Dynatrace e Automation, JavaScript, Struts 1.3
+- Application Server: WAS, WebLogic, Tomcat © C, JMS, Sybase
+
+Protocols: HTTP, MQ, FTP, SFTP. TCP/IP. IDCO, BAPI, SOAP
+- Web service: XML, WSDL, XSD, JSON, Swagger, XSL Automation: Jenkins, GIT, SVN, CVS, Artifactory, Ant, Maven Security: OAuth, SAML, LDAP, SSL, TLS
+
+Operating Systems: Windows, UNIX, Linux, DOS Databases/Tools: DB2, Sybase, MySQL, SQL Server and CVS, Windows NT, UML
+
+Oraclelig/12c DAO, MySQL, UNIX
+
+- Other tools: UML, Altova XMLSpy, TOAD, SQL Developer and = « Data Warehouse, Operating Systems, UNIX scripting
+
+Client/server, LDAP, System Integration
+
+Content, Linux, Tables
+CSS, Log4j 1.2.14, TCP/IP Client, Logic, TOAD
+
+Version control, Windows, Tomcat
+
+SOAP UI e Database, Optimization, WebLogic
+- SQL Developer, UNIX scripting, Windows NT, Informatica 8.1, e DOS, DB, Written
+OBIEE, Erwin, Oracle 10g, SQL Server 2008, Flat files, SQL, e EJB, Processes, XSL
+
+putty, UltraEdit-32, shell Programming, Toad ETL, Protocols
+
+Ant, Java, SOAP Gateway2.1, QA
+
+- Apache, Java 1.7, SQL e HTTP, Routing
+
+Databases, Oracle, Workflow Informatica 8.1, Scheduling Eclipse, Developer, XML J2EE, SLA
+
+Erwin, Programming, XSLT
+- FTP, Proxy
+- HTML, Relational database DB2, SAS
+
+- Informatica, Shell Programming
+
+WORK EXPERIENCE
+---------------
+
+MuleSoft Developer, 07/2018 - Current Nvent Electric Inc. - Atlanta, GA
+- Worked on REST and SOAP based Web services in WSSE standards for Mule ESB flows and SAML and RAML for API configuration
+
+- Involved in deploying applications into MuleSoft CloudHub and Mule Management Console «Responsible in developing integration workflows using Mule ESB framework and implemented DataWeave and content-based routing using Mule ESB «Involved in creating HTTP inbound & outbound flows and orchestration using XPath using MULE ESB «Developed flows/orchestrations for integrating the component written on top of different internal platforms using Mule ESB *Configuring the Mule process for fetching the data from topic and make service calls to the Middle Tier Mule ESB for processing «Gathered requirements and planning on integration of both SAS applications using Mule ESB and integrated Mule ESB system while utilizing Rabbit MQ, HTTP, File system and SFTP transports «Used Git as a version and source controlling tool and deployed the application on premises as well as on CloudHub «Responsible for onshore and offshore coordination in working together to complete the tasks on time Environment: Anypoint Studio 6.5/7.5, RAML, Postman, SVN, Jenkins CloudHub, Log4j 1.2.14, GIT, JIRA, API Gateway2.1, Webservices, Bitbucket, Mule ESB 3.9/4.1, Java 1.8, Eclipse, Active MQ 5.3, AWS, Apache-Maven 3.3.9.
+
+MuleSoft Developer, 10/2016 - 06/2018 Nvent Electric Inc. - Baltimore, MD
+- Involved in unit testing of several deployed APIs in Mule CloudHub Created several Jenkins jobs to deploy mule applications in CloudHub for continuous deployment *Used MUnit for mocking and unit testing mule flows and Implemented cluster-based approach while deploying applications in QA and PROD environments «Involved in development of API's requiring integration of mobile application «Created mule Flow using End Point, Connector and Component bean using Mule ESB to communicate client/server systems.
+- Inspected flows and sub-flows in error handling and implemented effective exception handling techniques «Implemented RabbitMQ message broker for communication between applications *Developed several adapters in Mule to consume messages from RabbitMQ topic using AMQP protocol and send to different applications *Worked on fixing many defects and design changes in Mule flows for several APT's *Verified consistency of data when merging of data was done from various sources by employing integration parsing techniques in Mule Message Flow Environment: Apache-Maven 3.3.9. RAML, Webservices, GIT, Postman, Java 1.7, Eclipse, Jenkins, Any point Studio 5.0.x, MySQL, Mule ESB 3.7.3, ActiveMQ 5.3, AWS, Microsoft Azure.
+
+ETL Developer, 08/2014 - 09/2016 Ipmorgan Chase & Co. - Kirkland, WA
+- Roles and Responsibilities: ‘Designed and developed processes to handle high volumes of data and high volumes of data loading in each
+
+SLA *Used debugger, session logs and workflow logs to test mapping and fixed bugs «Analyzed dependencies between jobs and scheduling
+them accordingly using Work Scheduler «Created Informatica mappings, enabling extract, transport and loading of data into target tables
+- Wrote complex SQL Queries involving multiple tables with joins «Prepared reusable transformations to load data from operational data source to Data Warehouse «Improved performance of mappings, sessions using various optimization techniques *Schedules and ran Workflows in Workflow Manager and monitored sessions using Informatica Workflow Monitor «Developed Informatica mappings, enabling ETL process for large volumes of data into target tables «Created Workflow, Worklets and Tasks to schedule loads at required frequencies using Workflow Manager.
+
+Java Developer, 09/2013 - 07/2014 Luxoft - Munich, ND
+- Implemented Spring IOC, Spring Controllers methodologies «Involved in fetching and storing objects from DB using Hibernate
+
+- Implemented persistence layer using Hibemate and configured Hibernate with Spring to interact with Database from DAO *Developed Hibernate mapping files for Object Relational Mapping while configuring Hibernate Coordinated with testing team in resolving issues and finally moving to production «Application support for System Integration Testing and User Acceptance Testing «Involved in creating test cases *Responsible for understanding client requirements and coordinating with offshore team in successful implementation of project
+- Used CVS version control to maintain different version of application "Implemented data persistence functionality of application by using Hibernate to persist Java data object to relational database.
+
+Tasks included - configuring and maintaining Hibemate configuration file Part of Issue Management Team involved in development and
+fixing issues which were raised by Client ‘Developed Spring Aspect Oriented Programming (AOP) for Exception handling logic
+- Communicated with Business Analysts to resolve requirement issues for team «Coordinated with team in implementation of business logic Environment: Session Bean (EJB), Oracle 10g, Oracle ADF , JavaScript, JMS, Struts 1.3, HTML, CSS, selectors, pseudo classes, XML, XSLT, SOAP, Hibemate 3.0, Java, J2EE, WebLogic 11.1.1, JSP1.2.
+
+EDUCATION
+---------
+
+Bachelor’s: Computer Science, 10/2012 University of Aksum - Aksum
+
+Certified MuleSoft Developer
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

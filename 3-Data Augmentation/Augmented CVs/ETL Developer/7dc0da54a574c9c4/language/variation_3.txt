@@ -1,0 +1,53 @@
+ROBERT SMITH Programmer Analyst/ETL Developer
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+SUMMAR
+
+More than 5 years of experience in IT as SQL Server Developer with strong work experience in Business
+Intelligence tools. Excellent T-SQL development skills to write complex queries involving multiple tables,
+great ability to develop SQL Objects and maintain Stored Procedures and User defined functions.
+
+SKILLS
+------
+
+Informatica, Oracle L0G.
+
+WORK EXPERIENCE
+---------------
+
+Programmer Analys/ETL Developer
+ABC Corponition - January 2010 - March 2012
+
+® Intenicted with users extensively in gathering the requirements and analyzing the needs of the end
+users,
+
+- Design, Develop and Deploy reports in MS SQL Server environment using SSRS-2008 Understanding the various complex reporting requirement of company and creating web reports using Reporting Services Extensively formatted reports into documents using SSRS Report Builderfor creatian of Dashboands.
+
+- Developed reparts using SSRS 20052008 to generate all daily, weekly, monthly and quarterly Reports based on the user business requirements.
+
+- Part of team for analyzing and implementing the physical design for the database.
+
+- Responsible for drafting and documentation for describing the metadata and writing technical guides,
+
+- Created Stored Procedures, Triggers, Cursors, Tubles, Views and SQL Joins and other statements for various applications, maintained referential integrity and implemented complex business logic.
+
+- Analyzed and tuned complex Queries/Stored Procedures in SQL Server 2008 for faster execution and developed database structures,
+
+ETL Developer
+ABC Corponition - 2005 - 2010
+
+- Business Process Data Mart (BPDM) acts as » consolidated repository of all CoreLogic ‘Transactions.
+
+- ® So BPDM accumulate data from all the necessary sources and data is organized in a way to help the users to perform Custamer Analysis, Product Analysis, COGS Analysis, Operational Reporting, Revenue Analysis, Support Tax Related Reporting and Vendor Cost,
+
+- Understanding Source Systems, Creating Design Specifications and Test Plan:
+
+- Creating Tables, Views, Indexes and Stored Procedures Developing various Packages using SSIS ETL Tool as per business/technical scenarios like Extnictian, Validations, tedious reject processing as well,
+
+- This Ens Resume Tomphats 2 the copyright of Qwikrewimecom, Usage Gaildedi nes
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

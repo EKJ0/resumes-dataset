@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — ETL Developer
+Folder: ETL Developer  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 81.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Jessica Claire
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 1737 words, 133 lines (~3.5 pages)
+
+CANDIDATE 2  (source file: 19ed026e4d1f8994.txt)
+----------------------------------------------------------------------
+Name: William Spark Etl Developer
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. orchestrated
+Resume Length: 270 words, 22 lines (~0.5 pages)
+
+CANDIDATE 3  (source file: Image_26.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 451 words, 63 lines (~0.9 pages)
+
+CANDIDATE 4  (source file: 137.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: No Degree: Data Analytics Certification , 10/2020 Colaberry School Of Data Analytics &Data Science - Dallas
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, supervised, orchestrated, established
+Resume Length: 2641 words, 185 lines (~5.3 pages)
+
+CANDIDATE 5  (source file: 151.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master of Science: Software Engineering, 7 2010 Stratford University - Falls Church, VA
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 1591 words, 130 lines (~3.2 pages)
+
+CANDIDATE 6  (source file: Image_45.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: B.Tech in Informatica Technology - (JNTU}
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 306 words, 35 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: 102.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2008 Bachelor of Technology: Electrical and Electronics INTU University - Hyderabad Electrical and Electronics
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 3554 words, 247 lines (~7.1 pages)
+
+CANDIDATE 8  (source file: 27.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 2371 words, 122 lines (~4.7 pages)
+
+CANDIDATE 9  (source file: 7dc0da54a574c9c4.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 338 words, 28 lines (~0.7 pages)
+
+CANDIDATE 10  (source file: 99.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: ACTIVITIES AND HONORS
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, leading
+Resume Length: 1630 words, 119 lines (~3.3 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

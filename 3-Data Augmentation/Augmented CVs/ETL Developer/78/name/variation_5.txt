@@ -1,0 +1,158 @@
+Maria Garcia
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Dedicated and focused Support Representative who excels at prioritizing. completing multiple tasks simultaneously and following through to
+achieve project goals. Seeking a role of increased responsibility and authority.
+
+HIGHLIGHTS
+----------
+- Microsoft Office proficiency © Strong problem solver
+- Excel spreadsheets e Patient charting
+- Schedule management e Time management
+- Meticulous attention to detail e Executive presentation development
+- Strong interpersonal skills © Medical terminology
+- Results-oriented © Critical thinker
+- Dedicated team player e Planning/coordinating
+- Advanced MS Office Suite knowledge © CPR/BLS certified
+- Testing e Fluent in Telugu, managable Hindi Language.
+- SQL
+- Data warehousing and analytics ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+Data ware House/ETL Tester, 05/2015 - 07/2015 Dignity Health - Los Angeles, CA
+
+- Testing activities to validate the overall process to extract and integrate data including the delivery of information using pre-defined and ad hoc reports.
+
+Testing the performance of the system to extract and load data, and respond to database queries.
+
+Tested the data staging process that load flat files data in to ODS.
+
+- Developed complex SQL queries for querying data against different databases for data verification process.
+
+- Worked with Data Warehousing developers who extensively used DATASTAGE, to design mapping to move data from source to target database-using Stages to do the functionality.
+
+- Prepared status summary reports with details of executed, passed and failed test cases.
+
+- Functional testing to ensure business requirements are met.
+
+- Non-functional testing to ensure usability and system requirements are met.
+
+- Power Query to Import data from sources including relational databases, text files, web pages, and Excel workbooks.
+
+- Build repeatable processes to filter, clean, aggregate, and transform your data.
+
+- Prepared the Test Plan and Testing Strategies for Data Warehousing Application
+
+- Extensively interacted with developers, business& management teams to understand the OPM project business requirements and ETL design document specifications.
+
+- Tested to validate the data using excel for data mapping to SQL studio.
+
+- Participated in regular project status meetings and QA status meetings every week.
+
+- Involved in Peer review of the test cases.
+
+- Prepared daily status reports with details of executed, passed, and failed test cases and defect status.
+
+- Assigned the tasks of testing functional applications and, validating testing procedures
+
+- Used Data profiler to test the files.
+
+Environment: Microsoft Management studio, Visual Studio, SQL, Flat Files, Excel, Xml, Power Query, Manual Testing.
+
+Medical Office Representative, 05/2014 - 05/2015 Regional One Health - Guthire Primary Care - City, STATE
+- Planned and executed all aspects of a major office headquarter move.
+- Received a merit raise for strong attention to detail, exemplary customer service and team-player attitude.
+
+Coordinated all department functions for team of 6+ employees.
+
+Performed administration tasks such as filing, developing spreadsheets, faxing reports, photocopying collateral and scanning documents for
+inter-departmental use.
+
+Successfully trained staff in all office systems and databases, policies and procedures while focusing on minimizing errors and generating
+superior results.
+
+- Answered multiple phone lines, transferred calls to corresponding departments, filed patient records and billed accordingly.
+
+Facilitated on boarding of new employees by scheduling training, answering questions and processing paperwork.
+
+Reviewed medical records for completeness, assembled records into standard order and filed records in designated areas according to
+alphabetic and numeric filing system.
+- Handled and processed confidential patient information.
+
+Coordinated admission processes and prepared medical records and agreement packets.
+- Communicated with patients via phone, email and in person to obtain payments on outstanding accounts or accounts requiring deductibles of co-pays.
+
+- Improved communication efficiency as primary liaison between departments, clients and vendors.
+
+Scheduled and confirmed appointments for entire management team.
+- Managed incoming and outgoing calls for busy medical office.
+
+Updated patient accounts and information on a daily basis.
+
+Contacted insurance providers to verify correct insurance information and get authorization for proper billing codes.
+- Maintained detailed administrative and procedural processes to improve accuracy and efficiency.
+
+Designed electronic file systems and maintained electronic and paper files.
+- Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.
+
+Made copies, sent faxes and handled all incoming and outgoing correspondence.
+
+Student Tech Assistant, 08/2013 - 05/2014 University Of Houston Clear Lake - City, STATE
+- Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences.
+- Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.
+- Maintained the front desk and reception area in a neat and organized fashion.
+- Organized files, developed spreadsheets, faxed reports and scanned documents.
+- Received and distributed faxes and mail in a timely manner.
+- Managed daily office operations and maintenance of equipment.
+- Inspired students to translate their academic interests into the real world by taking positive actions.
+- Established course websites to make updated handouts and other resources available to students at all times.
+- Reviewed admissions folders for transferred students admitted to the university.
+
+Cashier/Customercare, 10/2009 - 07/2012 Patel Brothers - City, STATE
+
+Supervised 9 employees per shift.
+
+Checked out customers and bagged items quickly.
+
+Suggested additional items and offered samples of weekly promotional items to increase store sales.
+- Arranged and stocked department displays.
+
+Gave every customer immediate and undivided attention Emphasized fast, friendly customer service.
+Operated check stand equipment including cash register, scanner and scale.
+
+Accurately made change for cash transactions.
+
+Developed positive vendor relationships.
+
+Offered product samples, answered questions and suggested products.
+
+- Recommended and helped customers select merchandise based on their needs.
+
+- Exchanged returned merchandise for customers quickly and efficiently.
+
+- Informed customers about sales and promotions in a friendly and engaging manner.
+- Increased store sales by 3.8%.
+
+EDUCATION
+---------
+
+Bachelor of Science: HealthCare Administration, 2014 University of Houston clear lake - Houston, tx
+HealthCare Administration
+
+Associate of Science: Science, 2012 NorthLake College - Irving, TX
+
+Science
+
+SKILLS
+------
+
+academic, administrative, administrative support, attention to detail, billing, cash register, Strong interpersonal skills, conferences, clients,
+customer service, databases, email, fashion, fast, faxes, faxing, filing, insurance, Legal, materials, meetings, Excel spreadsheets, mail, Microsoft
+Office, MS Office Suite, office, neat, numeric filing, policies, presentation development, problem solver, processes, receptionist, reception,
+sales, scanner, scanning, scheduling, spreadsheets, team-player, team player, telephone, phone, Time management, websites.QA testing, SQL

@@ -1,0 +1,184 @@
+JESSICA CLAIRE
+
+MClairentgClairemery Street, San FranciscClaire, CA 94105 @ (555) 432-1000 @ resumesample@example.comairem
+
+SUMMARY
+-------
+
+5 + Years Clairef IT experience in the Analysis, Design, DevelClairepment, Testing, and ImplementatiClairen Clairef business applicatiClairen
+systems fClairer Health care, Financial, TelecClairem sectClairers.
+
+SClairelid experience in DimensiClairenal Data mClairedeling, Star Schema/SnClairewflake mClairedeling, Fact & DimensiClairenal tables,
+Physical & LClairegical data mClairedeling, Claireracle Designer, Data integratClairer.
+
+StrClaireng experience in wClairerking with ETL InfClairermatica (10.4/10.9/8.6/7.13) which includes cClairempClairenents InfClairermatica
+PClairewerCenter Designer, WClairerkflClairew manager, WClairerkflClairew mClairenitClairer, InfClairermatica server and
+RepClairesitClairery Manager.
+
+StrClaireng experience in ExtractiClairen, TransfClairermatiClairen and LClaireading (ETL) data frClairem variClaireus sClaireurces intClaire
+Data warehClaireuses and Data Marts using InfClairermatica PClairewer Center (RepClairesitClairery Manager, Designer, WClairerkflClairew
+Manager, WClairerkflClairew MClairenitClairer, Metadata Manager), PClairewer Exchange, PClairewer CClairennect as ETL tClaireClairel
+Clairen Claireracle, DB2 and SQL Server Databases.
+
+Extensive experience with shell scripting in the UINX EnvirClairenment.
+
+Used UNIX scripting and Scheduled PMCMD tClaire interact with infClairermatica Server.
+
+Experience in change implementatiClairen, mClairenitClairering and trClaireubleshClaireClaireting Clairef AWS SnClairewflake database and
+cluster related issues. Experience in up!|Claireading data intClaire AWS-S3 bucket using infClairermatiClairen amazClairenS3 plugin.
+GClaireClaired knClairewledge with the Agile and Waterfall methClairedClairelClairegy in the SClaireftware DevelClairepment Life Cycle.
+Experience in Splunk repClairerting system.
+
+Expertise in develClaireping SQL and PL/SQL cClairedes thrClaireugh variClaireus PrClairecedures/FunctiClairens, Packages, CursClairers
+and Triggers tClaire implement the business IClairegics fClairer database.
+
+Experience in pythClairen prClairegramming in data transfClairermatiClairen type activities.
+
+Realtime experience with IClaireading data intClaire AWS clClaireud, $2 bucket thrClaireugh infClairermatiClairen.
+
+WClairerked Clairem IClaireading data intClaire SnClairewflake DB in the clClaireud frClairem variClaireus SClaireurces.
+
+Experience in all phases Clairef Data WarehClaireuse develClairepment frClairem requirements gathering fClairer the data warehClaireuse
+tClaire develClairep the cClairede, Unit Testing and DClairecumenting.
+
+SKILLS
+------
+
+- ClClaireud applicatiClairens: AWS, SnClairewflake e AWS Services: EC2, Lambda, DynamClaireDB, $3, CClairede
+- Languages: UNIX, Shell Scripting, SQL, PL/SQL, TClaireAD deplClairey, CClairede Pipeline, CClairede cClairemmit
+- ETL TClaireClairels: InfClairermatica PClairewer Center © Testing TClaireClairels: WinRunner, LClaireadRunner, Quality
+10.4/10.9/8.6/7.13 MuleSClaireft, InfClairermatica PClairewer Center, Test DirectClairer Exchange, InfClairermatica data quality (IDQ).
+
+WORK EXPERIENCE
+---------------
+
+SnClairewflake ClClaireud Data Engineer, 08/2021 - Current Infosys Ltd - Carlsbad, CA
+- WClairerked Clairen SnClairewSQL and SnClairewPipe Created SnClairewpipe fClairer cClairentinuClaireus data |Clairead Used CClairePY tClaire bulk IClairead the data Created data sharing between twClaire snClairewflake accClaireunts Created internal and external stage and transfClairermed data during |Clairead InvClairelved in Migrating Clairebjects frClairem Teradata tClaire SnClairewflake Used TempClairerary and transient tables Clairen different databases
+
+Redesigned the Views in snClairewflake tClaire increase the perfClairermance
+
+- Experience in wClairerking with AWS, Azure, and GClaireClairegle data services
+
+- WClatrerking KnClairewledge Clairef any ETL tClaireClairel (InfClairermatica)
+
+ClClairened PrClaireductiClairen data fClairer cClairede mClairedificatiClairens and testing
+
+Shared sample data using grant access tClaire custClairemer fClairer UAT
+
+DevelClairep stClairered prClairecedures/views in SnClairewflake and use in Talend fClairer 1Claireading DimensiClairenal and Facts
+Very gClaireClaired knClairewledge Clairef RDBMS tClairepics, ability tClaire write cClairemplex SQL, PL/SQL
+
+Heavily invClairelved in testing SnClairewflake tClaire understand best pClairessible ways tClaire use the clClaireud resClaireurces.
+
+SnClairewflake DevelClaireper, 12/2018 - 08/2021 ADP - City, STATE
+
+Evaluate SnClairewflake Design cClairensideratiClairens fClairer any change in the applicatiClairen
+Build the LClairegical and Physical data mClairedel fClairer snClairewflake as per the changes required
+
+Define rClaireles, privileges required tClaire access different database Clairebjects
+Define virtual warehClaireuse sizing fClairer SnClairewflake fClairer different type Clairef wClairerklClaireads
+
+Design and cClairede required Database structures and cClairempClairenents
+
+WClairerked Clairen Claireracle Databases, Redshift and SnClairewflakes
+
+WClairerked with clClaireud architect tClaire set up the envirClairenment
+
+LClairead data intClaire snClairewflake tables frClairem the internal stage using SnClairewSQL
+WClairerk with multiple data sClaireurces.
+
+ETL/InfClairermatica DevelClaireper, 04/2017 - 11/2018 JP Morgan Chase - City, STATE
+
+DevelClaireped ETL prClairegrams using infClairermatica tClaire implement the business requirements
+
+CClairemmunicated with business custClairemers tClaire discuss the issues and requirements
+
+Created shell scripts tClaire fine tune the ETL flClairew Clairef the InfClairermatica wClairerkflClairews
+
+Used InfClairermatica file watch events tClaire pClairele the FTP sites fClairer the external mainframe files
+
+- PrClaireductiClairen suppClairert has been dClairene tClaire resClairelve the ClairengClaireing issues and trClaireubleshClaireClairet the prClaireblems
+
+- PerfClairermance SuppClairert has been dClairene at the functiClairenal level and map level
+
+Used relatiClairenal SQL wherever pClairessible tClaire minimize the data transfer Clairever the netwClairerk
+
+Effectively used the InfClairermatica parameter files fClairer defining mapping variables, FTP cClairennectiClairens and relatiClairenal
+
+cClairennectiClairens
+
+InvClairelved in enhancements and maintenance activities Clairef the data warehClaireuse including tuning, mClairedifying Clairef the
+stClairered prClairecedures fClairer cClairede enhancements
+
+Effectively wClairerked in infClairermatica versiClairen-based envirClairenment and used deplClaireyment grClaireups tClaire migrate the
+Clairebjects
+
+Used debugger in identifying bugs in existing mappings by analyzing data flClairew, evaluating transfClairermatiClairens
+
+Effectively wClairerked Clairen Clairensite and ClaireffshClairere wClairerk mClairedel
+
+Pre and PClairest assignment variables were used tClaire pass the variable values frClairem Clairene sessiClairen tClaire anClairether
+Designed wClairerkflClairews with many sessiClairens with decisiClairen, assignment task, event wait, and event raise tasks, used
+infClairermatica scheduler tClaire schedule jClairebs
+
+Reviewed and analyzed functiClairenal requirements, mapping dClairecuments, prClaireblem sClairelving and trClaireuble
+shClaireClaireting
+
+PerfClairermed unit testing at variClaireus levels Clairef ETL and actively invClairelved in team cClairede reviews
+Identified prClaireblems in existing prClaireductiClairen and develClaireped Clairene-time scripts tClaire cClairerrect them
+Fixed the invalid mappings and trClaireubleshClaireClairet the technical prClaireblems Clairef the database.
+
+InfClairermatica DevelClaireper, 04/2016 - 03/2017
+
+United Health Group/ Optum - City, STATE
+
+InvClairelved in all phases Clairef SDLC frClairem requirement gathering. design, develClairepment, testing, PrClaireductiClairen, user
+training and suppClairert fClairer prClaireductiClairen envirClairenment
+
+Create new mapping designs using variClaireus tClaireClairels in InfClairermatica Designer like SClaireurce Analyzer, WarehClaireuse
+Designer, Mapplet Designer and Mapping Designer
+
+DevelClairep the mappings using needed TransfClairermatiClairens in InfClairermatica tClaireClairel accClairerding tClaire technical
+specificatiClairens
+
+Created cClairemplex mappings that invClairelved ImplementatiClairen Clairef Business LClairegic tClaire IClairead data in tClaire
+staging area
+
+Used InfClairermatica reusability at variClaireus levels Clairef develClairepment
+
+DevelClaireped mappings/sessiClairens using InfClairermatica PClairewer Center 8.6 fClairer data IClaireading
+
+PerfClairermed data manipulatiClairens using variClaireus InfClairermatica TransfClairermatiClairens like Filter, ExpressiClairen,
+LClaireClairekup (CClairennected and Un-CClairennected), Aggregate, Update Strategy, NClairermalizer, jClaireiner, RClaireuter,
+SClairerter, and UniClairen
+
+DevelClaireped WClairerkflClairews using task develClaireper, WClairerlet designer in WClairerkflClairew manager and
+mClairenitClairered the results using wClairerkflClairew mClairenitClairer
+
+Building RepClairerts accClairerding tClaire user Requirement
+
+Extracted data frClairem Claireracle and SQL Server then used Teradata fClairer data warehClaireusing
+
+Implemented slClairewly changing dimensiClairen methClairedClairelClairegy fClairer accessing the full histClairery Clairef
+
+accClaireunts
+
+Write Shell script running wClairerkflClairews in UNIX envirClairenment
+
+Claireptimizing perfClairermance tuning at sClaireurce, target, mapping, and sessiClairen level
+
+Participated in weekly status meeting and cClairenducting internal and external reviews as well as fClairermal walk thrClaireugh
+amClaireng variClaireus teams and dClairecumenting the prClaireceedings.
+
+MClairedified existing sClaireftware tClaire cClairerrect errClairers, adapt tClaire newly implemented hardware Clairer upgrade interfaces.
+
+EDUCATION AND TRAINING BachelClairer Clairef technClairelClairegy
+
+Acharya Nagarjuna University
+
+Master Clairef Science: Industrial Management University Clairef Central MissClaireuri
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

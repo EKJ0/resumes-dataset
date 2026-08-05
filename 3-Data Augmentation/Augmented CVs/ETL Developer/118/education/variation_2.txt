@@ -1,0 +1,491 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+CERTIFICATIONS
+--------------
+
+- Teradata Certified Professional
+- NRF Certified Retail Professional
+
+EDUCATION AND TRAINING
+
+Bachelor of Technology: Computer Science and Engineering
+
+CAREER OVERVIEW
+
+- Expertise in Enterprise Data Warehousing with 9 years of IT experience.
+
+- Proficient in Data warehouse Architecture, Data Integration and Data Quality.
+
+- Detail-oriented professional with extensive experience on ETL and Reporting.
+
+- Managing a team of 8 spread across geographies with Global Delivery model.
+
+- Client facing skills and reports to Director Information Management.
+
+- Customer focused with diverse industry experience in Retail, Health Care, Insurance andTelecom.
+
+- Experience in complete Development life cycle including System analysis, Design, Development, Testing and Implementation of Business Warehouses.
+
+- Articulative and effective negotiation skills to arrive at Solutions.
+
+- Building Semantic layer for Reporting purposes and hands-on knowledge with MicroStrategy and Cognos reporting tools.
+
+- Practitioner of AGILE methodologies to build a High-performing and Organized team.
+
+- Expertise in OLTP/OLAP System Study and Dimensional Data modeling.
+
+- Extensive experience to define, store and maintain Secured Information.
+
+- Skilled in Estimation and Budget, Project planning, Resource Scheduling and Status Reporting using Microsoft Project.
+
+- Has strong ability to build productive relationships with peers, Senior Leadership, and Business using strong communications, organizational, and planning skills.
+
+- Release coordination with Change Management, participated in Project Audit and Project Retrospective meetings.
+
+- Knowledge of MDM, Canonical Data Modeling using SOA and Data Governance.
+
+- Mentoring and ambitious to train the team and conduct Technical trainings and sessions.
+
+- Proactive in documenting knowledge gained and lessons learnt through Retrospective meetings.
+
+SKILLS
+------
+
+Project Management : Microsoft Project / Integrated Project Management
+- Databases : Teradata / Oracle
+
+- ETL Tools : informatica / DataStage
+
+- Reporting Tools : MicroStrategy / Cognos
+
+- Release Management : Dimensions / CASCM
+
+- Scheduling Tools : Control -M / Tivoli
+
+- Operating Systems : Unix / Linux / Windows
+
+ACCOMPLISHMENTS
+
+Project Management
+
+- Managed complex BI/DW deployment programs, facilitating acquisition of business requirements.
+
+- Approachable and reliable for Technical and Functional directions.
+
+Recognitions
+
+- Awarded Most Valuable Player and Best Motivated Team.
+
+Technical Training
+
+- Actively mentored, trained new team members to make them adhere to Organizational standards and Best practices.
+
+Client Interface
+
+- Improved client relationships and project predictability through shared business and technical perspectives, agreed project roles, risk assessment, use cases, transparent business-aligned development efforts, and time-boxed delivery.
+
+Team Collaboration
+
+- Brainstormed development team evolution strategy and deployed best practices, such as Peer Code reviews, Constructive feedbacks and regular one-to-one meetings with the team.
+
+- Defined project skill sets in line with methodology and drove Data warehouse sessions to appraise the team.
+
+WORK EXPERIENCE
+---------------
+
+Nokia - Technical Project Manager
+
+Wexford, PA + 08/2013 - 03/2014
+
+With GAP Inc. expanding its footprint globally and opening Franchise and Brick and Mortar stores
+across the Globe focusing on Asia, the data warehouse should be enabled to accept data from the
+newly opened stores and Franchises. The Item number is identified differently across the various RMS
+systems throughout the PDLC. This is a bottle neck to the global reporting team where the same item
+spans across multiple genres under different numbers. To streamline the Item number, the proposed
+solution is to clean up the Multi-parent items and assign the correct hierarchy at all levels. Re-
+assignment has been achieved at Style /Style Color / SKU level. Item Master which is the Global
+source for generating Item numbers is considered the Systern of record. Data correction in
+Dimensions, Cross reference and Lookup tables was done and then the corrected keys have been re-
+stamped in facts. It involves various LOB’s like Planning, Inventory, Price, Sales and Order.
+Responsibilities:
+
+- Worked with product Owner to break the Epics into User stories.
+
+- Involved in identifying the Sprint backlogs from the Product backlog.
+
+- Managing and Leading team of 8 spread across geographies with Global Delivery Model.
+
+- Committing to Sprint deliverables and ensure timely completion from the team.
+
+- Burn Down charts shared with team to show case the day to day progress.
+
+- Guiding offshore and onshore team on the best development standards and processes.
+
+- Tracking team’s progress on a day to day basis and addressing any road blocks.
+
+- Providing directions on Technical dependencies across teams and identifying solutions.
+
+- Creating a Detailed Design document with Pseudo code to help development team gain better understanding.
+
+- Working with Enterprise Architect to identify the impact of changes across Source systems and any Downstream reporting impacts.
+
+- Handling huge volumes of data and ensuring performance is never compromised.
+
+- With a Sprint duration of 3 weeks, worked closely with the team to resolve Technical questions.
+
+- Captured the Best practices followed throughout the project and sharing it with other teams.
+
+- Gathering team’s inputs with a thorough retrospection and documenting Lessons learnt.
+
+- Focusing team’s achievement with Leadership and Senior Management to keep up the momentum.
+
+- Addressing team issues with knowledge sharing and providing training to the team as required.
+
+- Captured the Design changes in a HLD and brought Business in sync on the impacts they would see after the changes.
+
+- Working with Data Analyst Group to identify and resolve any anomalies in Production data.
+
+- Working on Technical and Functional spikes to analyze aggregate functional behavior and the determine feasibility.
+
+- Working with Change management team to get Business users comfortable with the changes that appears on reports.
+
+- Committing to sprint deliverables and ensuring team follows and understands the Agile methods.
+
+- Leading an 8 member culturally diverse team spread geographically.
+
+- Delegating work and tracking the progress of the team.
+
+- Resolving any technical and functional impediments across team’s way by involving the right people.
+
+- Breaking down the extra-large tables based on partitions and estimating the run times.
+
+- Involve Production support and DBA to negotiate the Deployment window.
+
+- Audit and Balance control has been implemented to keep track of counts of records being updated.
+
+- Any anomalies will be highlighted immediately with an alert to stake holders.
+
+- Assisting the QA team in completing test cycles.
+
+Deloitte - Project Delivery Lead
+
+Charlotte, TX + 03/2013 - 07/2013
+
+Upgrading to a New Teradata Server for the SOX Compliance Data processing 2650 (Teradata Data
+Warehouse Appliance), profoundly for processing High volumes of Data is configured and the existing
+Production processes have been migrated to this Data Processing Engine. With this, the existing 6680
+(Teradata Active Enterprise Data Warehouse Appliance) server transformed to a Reporting Engine and
+acts a Single Source for all the User reports and Business queries. With heavy lifting being done at
+2650, the reporting server will better be utilized for addressing Business questions. The Data after
+being cleansed, transformed will be copied using a Custom built TPT process on to 6680. This enables
+real time data availability across servers. As this is a Financial Data Mart, SOX Compliance is in place
+and data is being masked to ensure its availability to identified Users.
+
+Responsibilities
+
+- Identifying the processes to be migrated to the new server.
+
+- Designing the data copy process and defining the transfer methods.
+
+- Understanding the dependencies on availability of data across servers and transferring the data at regular intervals.
+
+- Bringing the team together when the team is impeding with low confidence levels.
+
+- Gain the confidence of the team and making sure there is value add delivered always.
+
+- Maintain high spirits with in the team with cross functional trainings and knowledge sharing.
+
+- Publishing artifacts on the team’s achievements across the board.
+
+- Scheduling one on one meeting with the team to understand the hurdles and get them to closure.
+
+- Working with DBA to identify long running copy jobs and resolve any performance issues.
+
+- Creating the deployment plan to run all the pre-migration scripts.
+
+- Conscientiously tracking the production migration status and getting to closure.
+
+- Acting as a Liaison to business and get reports validated pointing to the new server.
+
+- Classification of tables as D/I and Delta loads based on the volumes processed.
+
+- Metadata driven loading by creating a Configuration table to handle to load process.
+
+- Any changes to load process can be easily handled by altering at one place.
+
+- Masking of critical sales data has been in place and views with masked data have been created to users.
+
+- Involved Teradata Experts in fine tuning the new server settings and completing a Health checkup for the new server before hosting the Heavy processes.
+
+- Audit issues and Data issues have been solved by identifying the variances and sending a report to stake holders.
+
+- Successfully delivered the project in a Fixed pricing model and rendered warranty support.
+
+- Acknowledged by the Client for working in a high pressure environment and aligning things at a short notice.
+
+- Received Appreciations from Senior Leadership for delivering a seamless migration.
+
+Cognizant Technology Solutions - Informatica Lead
+
+Corinth, MS + 06/2012 - 02/2013
+
+eP! is Enterprise Person Identifier (eP!) project is linked to the 2012 BCBSM strategic plan through the
+consumer strategy. The Enterprise Person Identifier is a core foundational element for enabling BCBSM
+to better know and engage with consumers across their lifetime. It built the infrastructure and
+populated the solution with core membership systems. eP! takes in data from disparate source
+systems and links records that refer to the same person. The linking is done by assigning a Unique
+Person Identifier (UPI) to records that are considered to be referencing the same person. eP! uses the
+power of IBM’s Initiate software to compare membership records and generate two person outputs
+that are housed in the EDW. In order to create and promote new products to sustain and enhance
+market share, it is critical to link, analyze, and leverage individual consumer behavior and health care
+history. eP! will allows the foundation to enhance consumer strategy and customer satisfaction.
+Responsibilities:
+
+- Involved in gathering and analyzing the Business requirements from End users.
+
+- Documenting the LLD (Low level Design) and HLD (High Level Design) and reviewing with external teams and Business Users.
+
+- Understanding the end user requirements on the Usage of data and leverage the reports.
+
+- Working with Data modeler to get the required set of columns from the source system.
+
+- Defining UDF tables to store User Defined Data and load it to EDW.
+
+- Dynamic View creation for the end users and leveraged it to make it user friendly.
+
+- Data stewardship to profile the source data and identify any Data issues.
+
+- Applying EDIT process on the incoming data to allow Cleansed data to be loaded to EDW.
+
+- Experience with both Inbound and Outbound Data Feeds.
+
+- Requirement gathering from the Reporting team on structuring the reports.
+
+- Extracting the Output data into flat files and SFTP them to external vendors.
+
+- Performance tuning of jobs by partitioning the large tables and accessing only relevant data as necessary.
+
+- Applying SCD Type-2 and maintaining Change Data Capture by having Historical data in the tables.
+
+- Assisting the QA team in completing test cycles.
+
+Cognizant Technology Solutions - ETL Lead
+
+Cumming, GA + 01/2012 - 05/2012
+
+ABIS is an Enterprise Data warehouse built for reporting purposes to leverage the data availability to
+Business to measure the trends and buying patterns of customers. There are wide ranges of Metrics
+and Semantics defined to diversely provide the required data using Cognos reporting solutions. The
+claim, patient and prescription information is loaded from source systems using Ab-Initio to Teradata
+systems. As the reports are pulled with few years of data, Teradata handles it efficiently with quicker
+response times. The reports are provided with various filters to enable users filter the data as per
+their necessity.
+
+Responsibilities:
+
+- Involved in gathering and analyzing the Reporting requirements from Business users.
+
+- Documenting the Functional Specifications, LLD (Low level Design) and HLD (High Level Design) and reviewing with external teams and Business Users.
+
+- Collecting the Data Demographics to select on Index candidates.
+
+- Requirement gathering frorn the Reporting team on the value access and range based access data elements to define the Primary Index and Secondary Indexes.
+
+- Identifying the VONUS! (Value Ordered NUS!) to accommodate high volume periodic batch queries.
+
+- Defining the Partitioned Primary Indexes along with Primary indexes to improve the performance for Range based queries.
+
+- Avoiding FTS (Full Table Scans) by declaring NUS! appropriately and running the EXPLAIN plans to see if the secondary indexes are being used.
+
+- Dropping any unused Secondary indexes for better performance and space utilization.
+
+- Developed stored procedures to load and transform data and working on various databases Teradata and Oracle.
+
+- Extracting high volumes of data using FastExport from Teradata Data warehouse and secure copying the files to external vendors.
+
+- Assisting the QA team in completing test cycles.
+
+Cognizant Technology Solutions - ETL Lead and Designer
+
+Dayton, NJ * 07/2010 - 05/2011
+
+E-Receipt is an electronic way of sending the sales receipt to customer's personal email address. This
+is a new service rendered for more customer satisfaction and an effective way for the customer to
+keep track of Purchase history and for any future returns. E-Receipt transactional data from the
+source is extracted and sent as flat files. This will be loaded to Teradata warehouse database to
+identify the new customers and their marketing preference. Daily and Weekly reports are created from
+warehouse database using Microstrategy and distributed the reports to the users using Report Center.
+Responsibilities:
+
+- Involved in gathering and analyzing the Business requirements from End users.
+
+- Documenting the Functional Specifications, LLD (Low level Design) and HLD (High Level Design) and reviewing with external teams and Business Users.
+
+- Collecting the Data Demographics to select on Index candidates.
+
+- Requirement gathering from the Reporting team on the value access and range based access data elements to define the Primary Index and Secondary Indexes.
+
+- Defining the Partitioned Primary Indexes along with Primary indexes to improve the performance for Range based queries.
+
+- Avoiding FTS (Full Table Scans) by declaring NUS! appropriately and running the EXPLAIN plans to see if the secondary indexes are being used.
+
+- Dropping any unused Secondary indexes for better performance and space utilization.
+
+- Developed stored procedures to load and transform data and working on various databases Teradata and Oracle.
+
+- Extracting high volumes of data using FastExport from Teradata Data warehouse and secure copying the files to external vendors.
+
+- Assisting the QA team in completing test cycles.
+
+Cgi Group Inc. - ETL Lead
+
+Columbus, OH + 11/2009 - 06/2010
+
+Rack Scheduling is an Employee Workforce Management Application to forecast Employee work hours
+using Historical data, scheduling Labor as per availability and Actual Hours logged. Weekly and
+Monthly reports are created and distributed to the users using Micro Strategy narrowcast
+Administrator. The objective of this project is migration of ETL from the legacy system on Access
+database and Excel reports to a High performance Teradata Database and Microstrategy reports with
+improved Design Process.
+
+Responsibilities:
+
+- Involved in gathering and understanding Business requirements from Vendor and MBIO (Marketing Business Information Office) team.
+
+- Designing the Logical and Physical Data models for extracting data from multiple heterogeneous sources.
+
+- Defining referential integrities by providing ER Modeling and developing Data Mappings according to Business rules.
+
+- Developed complex Extract Transform and Load (ETL) jobs, hands on experience in UNIX shell scripting and worked on various databases Teradata, Oracle.
+
+- Extracting high volumes of data using Fastreader from Oracle and loading into Teradata using Fastloader.
+
+- Extracting data from Excel files, Oracle tables and loading to Teradata warehouse using FastLoad and Multiload.
+
+- Transforming the data per Business rules and loading to warehouse and mart tables using BTEQ scripts and stored procedures.
+
+- Managing User Access and creating Database objects in Development and Test environments.
+
+- Assisting the QAG (Quality Assurance Group) team in complete system and End-to-End Testing.
+
+- Involved with supporting UAT for Business Users.
+
+CVS/Pharmacy - ETL Senior Developer
+
+City, STATE + 02/2009 - 10/2009
+
+The objective of this project is to provide data for the Planning application. Sales Transaction data
+from OLTP source system is loaded to Teradata database for analyzing the trends and support DSS
+applications. Daily and Weekly extracts are created from warehouse database using Teradata
+FastExport.
+
+Responsibilities:
+
+- Involved in gathering and analyzing the Business requirements from Business users.
+
+- Documenting the Functional Design document.
+
+- Defining the Primary Indexes for even data distribution and value access.
+
+- Avoiding FTS (Full Table Scans) by declaring NUS! appropriately and running the EXPLAIN plans to see if the secondary indexes are being used.
+
+- Developed stored procedures to load and transform data based on business logic.
+
+- Extracting high volumes of data using FastExport from Teradata Data warehouse and secure sharing the files using mechanisms like NASMOUNT.
+
+Sysco Corporation - ETL Senior Developer
+
+City, STATE + 07/2008 - 01/2009
+
+The CDM database/ platform in Teradata will collect all the available customer data including historical
+data from all different LOBs and host it in its central repository. When an LOB doesn't find required
+customer information they will send a request to CDM application. CDM collects all requests and send
+them to Vendors on a daily basis. Informatica collects all the requests from the CDM and performs the
+required transformation and sends it to Vendors. Vendors send the Response files and Informatica
+process them and send back to CDM.
+
+Responsibilities:
+
+- Responsible for the Data Analysis on the Source systems.
+
+- Created and Validated mappings and workflows for various sources like Teradata, flat files to load and integrate data to warehouse.
+
+- Developed various mappings, Reusable transformations and validated the ETL logic coded into mappings.
+
+- Extracted data from source systems, transformed as per the business rules specified in the ETL design document and loaded into the staging tables.
+
+- Implemented lookups and different transformations in the mappings.
+
+- Used parameter files to parameterize relational and native connections at session level and work flow level.
+
+- Used SQL overrides in source qualifier, joiner and lookup transformations to avoid unused or unconnected ports and to improve performance.
+
+- Scheduled sessions and work flows using Work Load Manager tool.
+
+Toys'R'Us - ETL Senior Developer
+
+City, STATE + 10/2007 - 06/2008
+
+The objective of this project is to track the Store Sales performance. All the transaction data is
+captured in the source system and sent in flat files to be loaded to Teradata warehouse. Historical
+data snapshot for last 10 years is maintained in the warehouse. Data is stored in Aggregate and Fact
+tables. Reports run at a weekly batch interface to drill up the data to Division and Zone level. The
+performance of the store is compared with the Average sales per store. Top selling items and least
+selling items are other significant reports.
+
+Responsibilities:
+
+- Designing the Logical and Physical Data models for extracting data
+
+- Defining referential integrities by providing ER Modeling and developing Data Mappings according to Business rules.
+
+- Developed complex Extract Transform and Load (ETL) jobs, hands on experience in UNIX shell scripting and worked on various databases Teradata, Oracle.
+
+- Extracting high volumes of data using Fastreader from Oracle and loading into Teradata using Fastloader.
+
+- Extracting data from Excel files, Oracle tables and loading to Teradata warehouse using FastLoad and Multiload.
+
+- Transforming the data per Business rules and loading to warehouse and mart tables using BTEQ scripts and stored procedures.
+
+- Managing User Access and creating Database objects in Development and Test environments.
+
+- Assisting the QAG (Quality Assurance Group) team in complete system and End-to-End Testing.
+
+- Involved with supporting UAT for Business Users.
+
+Toys'R'Us - ETL Developer
+
+City, STATE + 05/2005 - 09/2007
+
+ERoster Application is an Associate Scheduling Application to forecast Employee work hours for the
+future weeks. Manager/Employee can make any further edits and the historical snapshot is stored
+until the actuals are captured for these weeks. A Weekly and Monthly report with the latest version of
+forecasted data and the actual metrics are extracted and sent across for measuring the Manager's
+performance. Zonal and Divisional Managers use the reports. Supporting multiple application suite,
+answering End user questions and helping them resolve their Technical and Business questions.
+Responsibilities:
+
+- Designing the Logical and Physical Data models for extracting data from multiple heterogeneous sources.
+
+- Preparing the Functional specifications and Detailed Design documents for reviewing with Business.
+
+- Developed ETL jobs, hands on experience in UNIX shell scripting.
+
+- Documenting the support process for team’s future reference.
+
+- Helping the new joiners in the team with Knowledge transition.
+
+- Documenting Unit testing Plans and Integrated test plans.
+
+- Assisting the test teams in completing system and End-to-End testing.
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

@@ -1,0 +1,109 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+Accomplishments
+
+- Reignited a vital predictive analytics project (SSAS) that had languished for 3 years and completed it within 3 months including. Architected/modeled more than a dozen high availability database solutions. Successfully led team for datacenter move of over 1400 SQL Servers. Refactored MRP from Oracle to SSIS and improved accuracy and performance by 500%. Led numerous teams of up to 10 members to project completion.
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Iam a very experienced SQL Data Architect/modeler committed to maintaining cutting edge technical skills and up-to-date industry
+knowledge. I enjoy the challenges data presents and relish in clever ways to solve those problems. I focus on satisfying the needs of
+the customer but keep an eye on future desires. I am considered an expert by my peers in SQL Development, design, data modeling
+(relational and dimensional), ETL, data warehousing, and database administration along with a honed skill in leading and managing
+
+people.
+
+SKILLS
+------
+- SQL Data Architect/Modeler e Full Microsoft stack
+- Data warehouse Architect ¢ Data Analytics (SAS, R, Python)
+- SQL Database Administrator * Oracle Integration
+- ETL (SSIS/SSAS/SSRS) ¢ .Net/Clarion Development
+
+WORK EXPERIENCE
+---------------
+
+SQL Architect/DBA/ETL Architect, 04/2016 to Current Apex Systems - Arden Hills, MN
+- Improve Medical Billing process for Medicare/Professional audits.
+- Created/refined SSIS claims history import.
+- Created data analytics warehouse for claims history data.
+- Proposed technical feasibility solutions for new functional designs and suggested options for performance improvement of technical objects.
+
+SQL DBA/Developer Trainer, 03/2016 to 04/2016 Accenture Contractor Jobs - Colchester, VT
+- Trained employees on SQL best practices
+- Performance improvement, server troubleshooting, and made architectural suggestions to improve their performance, archiving strategies, deadlocking improvements.
+- Refactor Oracle MRP into SSIS 2016 with improved detail and 350% faster.
+- Recommended architectural improvements, design solutions and integration solutions.
+
+Business Intelligence Tech Lead, 09/2015 to 01/2016 CHS Community Health Systems - City, STATE
+- Modify SQL/SSIS code for ICD10 changeover.
+- Install and move data from 38 hospitals over to new servers effectively splitting the DW into 2 separate entities.
+
+Business Intelligence Architect/ Project Manager, 10/2014 to 07/2015 Kpit Infosystems Inc - City, STATE
+- Managed teams and client relations
+- Completed a stalled project for engine mortality data warehouse. Completed it within 3 months when it was 3 years behind.
+- Predictive Analytics using SQL/SSIS, SAS tools, R Server, and Power BI.
+- Established compatibility with third party software products by developing program for modification and integration.
+- Coordinated with systems partners to finalize designs and confirm requirements.
+
+SQL DBA, 08/2014 to 10/2014 CHS Community Health Systems - City, STATE
+- Team Lead in successfully moving data center of 1400 SQL Servers in 90 days time.
+
+- Monitored database performance and provided performance statistical reports for both real-time and historical measurements.
+
+Data Architect, 2012 to 08/2014 CIGNA/HealthSpring - City, STATE
+- Assess current BI environment and re-architect for improved reporting.
+- Reduced SSIS maintenance by implementing best practices.
+- Over 50% performance improvement on existing processes.
+- Created Dimensional model from existing ODS.
+- Heavy query performance, T-SQL work, Tuning, DBA, .Net coding, Power BI.
+- Modeled, coded, and architected move to Teradata.
+
+SQL Data Architect, 10/2011 to 2012 Baker Hughes Oil & Gas - City, STATE
+- Architected, created, and moved data to new front end using SQL Azure as backend.
+- Re-architected data warehouse load.
+- Proposed technical feasibility solutions for new functional designs and suggested options for performance improvement of technical objects.
+
+SQL DBA/Data Architect/System Architect/DBA/Team Lead, 03/2011 to 09/2011 Blue Mountain Labs - City, STATE
+- Architected Data Model for large Healthcare CMS Claims Processor.
+- Architected SQL Server systems from Development to User Acceptance.
+- Led team of 2 other architects and 1 ETL Developer plus team consisted of several SOA developers utilizing Cloud Computing (SQL Azure).
+- TDE, partitioning, clustering, and peer-to-peer replication, DBA.
+
+- Connected social media data using Cassandra.
+
+SQL DBA/Programmetr/SSIS Architect, 11/2000 to 03/2011 LS. Software Design Associates - City, STATE
+- Maintained Client relations and managed teams sizing from 1 to 6.
+- Led projects utilizing SQL Server technologies including:
+- Setup Replication between 6 plants that run 20 hrs/day.
+- Technical advisor on web server setups, Major performance tuning.
+- ASP.Net designing/coding, Setup Server 2008 running IIS, Active Directory.
+- Upgraded SQL 2000 to 2005 then 2008, implemented SSIS, SSAS, and replication Architect/Design central DataVis Warehouse (OBIEE) project as well as SSIS advanced coding.
+- Created, Marketed, and conducted 11 three-day seminars for Clarion developers instructing them how to interface best with SQL Server and other RDBMS systems
+- Upgrade From SQL Server 2000 to 2005(64bit) with performance tuning on 8+ terabyte system
+
+EDUCATION
+---------
+
+Master of Science: 2017 Capella University Data Analytics
+
+Master of Science: Computer Science Belmont University Computer Information Systems
+
+Bachelor of Science: Business Data Management Carson Newman College
+
+Business Data Processing
+
+CERTIFICATIONS
+--------------
+
+- Microsoft Certified Professional - SQL Server Development
+- Microsoft Certified Professional - SQL Server Administration
+- Certified Clarion Developer
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

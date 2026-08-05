@@ -1,0 +1,40 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+ROBERT SMITH Oracle PL/ETL Developer
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Over 7 years of experience in IT industry with expertise in MSSQL, Oracle, Informatica and ETL tools. 6+ years of experience in the Development and Implementation of Data
+warehousing with Informatica, OLTP and OLAP involving Data Extraction, Data Transformation, Data Loading and Data Analysis. Experience in all phases of the Data
+warehouse life cycle involving Analysis. Design, Development and Testing of Data warehouses
+
+(CORE COMPETENCIES
+
+using ETL Logic, Oracle PL/ ETL Developer
+ABC Corporation - January 2009 - April 2010
+
+Key Deliverables:
+- Interpreted and comprehend business/data requirements from upstream processes.
+
+- Documented technical requirement specifications and detailed designs for ETL processes of moderate and high complexity
+
+- Created and documented source-to-target mappings and ETL specifications Performed Root cause analysis and resolved complex issues.
+
+- Involved all phases of the project life cycle such as analysis, design, coding, testing, production and post-production.
+
+- Created detailed documentation including ETL source-to-Larget mapping, high level ETL architecture, ETL design. test cases, test scripts, and code migration.
+
+- Extensively working on Repository Manager, Informatica Designer, Workflow Manager and Workflow Mortitor.
+
+- Created complex mappings, complex mapplets and reusable transformations in Informatica Power Center Designer
+
+- Involved with project analysis to understand the business requirement specification and implemented the ETL jobs using DataStaye Server and Parallel Extender,
+
+- Extract Transform and Load legacy systents to core and datamarts,
+
+- Read XML files as source then load to a table as data change event key.
+
+- Monitored performance and statistics using DS Director.
+
+2259 Oak Street, Old Forge, New York, 13420
+- Thi Free Resume Template t the copy rigin af Quikresume.com, Usage Guidelines

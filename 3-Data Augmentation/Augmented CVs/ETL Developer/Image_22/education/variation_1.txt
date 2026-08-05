@@ -1,0 +1,61 @@
+ROBERT SMITH ETL Developer/Analyst
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Experienced in cluster configuration set up for Hadoop, Spark Standalone, Cassandra database.
+Experienced in processing the large volume of data using the Hadoop MapReduce, Spark frameworks,
+
+CORE COMPETENCIES
+
+Spark, Scala, SparkSql, HDFS, Sqoop, MapReduce, Hive, Pig, Cassandra, DB2, ETL Datawarehouse, SOL.
+
+WORK EXPERIENCE
+---------------
+
+ETL Developer/Analyst
+ABC Corporation - April 2010 - December 2013
+
+Key Deliverables:
+
+- Project Finance Transformation Program-Financial Processing.
+
+- Responsbilities Design, Develop and execute test cases for unit and integration testing:
+
+- Hands on experience in ETL tool Scalable Architecture Financial ReportingiSAFR) an IBM toal,
+
+- Worked on creating Extract Views, Summary Views, Copy Input Views in SAFR ETL tool.
+
+- Created metadata like Logical Records, Physical files, Logical files which are required for Views.
+
+- Worked on mapping the fields of the Views from the Source LA of the View as per the business requirements,
+
+- Created dynamic fields and static fields while creating a View.
+
+ETL Developer
+ABC Corporation - April 2008 - April 2010
+
+Key Deliverables:
+
+- Nokia, India Project Johnson and Johnson Responsbilities Working with business users and business analyst for requirements gathering and business analysis.
+
+- Designing and customizing data models for Data warehouse supporting data [rom multiple sources on real time,
+
+= Extmeted data from different flat files, MS Excel, MS Access and transformed the dala based on user requirement using Informatica Power Center and loaded data into target, by
+scheduling the sessions,
+
+- Worked on Informatica Power Center 9.1/8.6/8.5, Informatica Power Exchange Center 8.6 tool - Source Analyzer, Data Warehousing designer, Mapping, Transtormation Designer and tuning of mappings for better performance,
+
+- Created reusable mappiets and Transformations starting concurrent batch process in server and did backup, recovery and tuning of sessions,
+
+- _ - _ - _ - - - - - - _.. - _ - nXn nn
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

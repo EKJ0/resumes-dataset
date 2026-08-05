@@ -1,0 +1,208 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Over 13 years of IT experience with a strong background in SDLC, Data Integration tools including Informatica PowerCenter,Informatica
+
+Intelligent Cloud Services(IICS), Informatica PowerExchange, IDQ and business Intelligence tools like Power BI.
+
+- Expertise in Data Warehouse/Data mart, ODS, OLTP and OLAP implementations teamed with project scope, Analysis, requirements gathering, data modeling, Effort Estimation, ETL Design.development, System testing, Implementation and production support.
+
+- Experience working with Informatica IICS tool effectively using it for Data Integration and Data Migration from multiple source systems.
+
+- Experience working with IICS concepts relating to data integration, Monitor, Administrator, deployments, permissions, schedules.
+
+- Expertise in Informatica Power Center 10.2/10.1/9.5.1/9.0.1/8.6/7. 1 extracting data from Oracle, SQL Server, Teradata, DB2 databases,
+
+Flat files, Web Services, API's, XML & Json files.
+
+Worked with various transformations like Normalizer, expression, rank, filter, group, aggregator, lookups, joiner, sequence generator,
+
+sorter, SQLT, stored procedure, Update strategy, Source Qualifier, Transaction Control, Union etc.,
+
+- Expertise in implementing complex Business rules by creating complex mappings/mapplets, shortcuts, reusable transformations and Partitioning Sessions.
+
+- Experience in Performance Tuning of sources, targets, mappings, transformations and sessions.
+
+- Experience in Installation, Configuration of Informatica Power center 10.x/9.x Client, Server in UNIX.
+
+- Experience in Performance Tuning and Debugging of existing ETL processes.
+
+- Experience in Integration of various data sources like Oracle, Teradata, SQL Server, DB2 and Flat Files in various formats like fixed width, CSV and excel.
+
+Designed complex mappings to load into Snowflake.
+- Expertise in SQL/PLSQL programming, developing & executing Packages, Stored Procedures, Functions, Triggers, Table Partitioning, Materialized Views.
+
+SKILLS
+------
+
+- Informatica Intelligent Cloud Services © C,Cct
+- Informatica PowerCenter 10.2/10.1/9.6/9.1.0/8.6.0/8.5.1/8.1/7.1 ° XML
+- Informatica PowerExchange 10.1/9.6/9.1.0/8.6.0/8.5.1/8.1/7.1 MS-DOS
+
+- TICBO Designer 5 © Windows95/98/2000/XP/VISTA/Windows 10
+- Oracle 12c/11g/10g/91/8.x e UNIX
+- SQL Server 2008/2005/2000 © PL/SQL
+- MS Access e Agile Methodology
+- Teradata4.0 © ActiveMQ
+- MySQL ° RAML
+- TOAD 12.12 « JSON
+- SQL*PLUS e Snowflake
+- SQL Developer © Salesforce
+- SQL*Loader e Automic
+- SQL, PLSQL e Dimensional Data Modeling
+- GIT Hub © Star Schema Modeling
+- Shell Scripting
+
+WORK EXPERIENCE
+---------------
+
+Sr. Informatica/IICS Developer, 09/2021 - Current Cognizant Technology Solutions - Bellevue, WA
+JM Family Enterprises Inc. is specialized in vehicle processing and distribution, retail vehicle sales, finance and insurance.
+Responsibilities:
+- Understanding the business rules and sourcing the data from multiple source systems using IICS.
+
+Designing and customizing data models for Data warehouse supporting data from multiple sources.
+Implemented Type1, Type2, CDC and Incremental load strategies.
+Extracted data from flat files, Excel files and transformed the data based on user requirement using Informatica Power Center.
+
+- Performed analysis on quality of source data to determine accuracy of information being reported.
+
+Debugging the mappings and used session log files to trace errors that occur while loading.
+- Performance tuning by optimizing the mappings and sessions. Performed Unit Testing and tuned for better performance.
+
+- Worked closely with DBAs, admins, ETL developers and change control management team for migrating developed mappings across Dev, QA, and PROD environments.
+
+Provide support for deployment activities and production support activities.
+
+- Environment: IICS/Informatica Power Center 10.4/IICS/Snowflake/Oracle Exadata/SQL Server/MongoDB
+
+Sr. Informatica Developer/IICS Developer, 10/2020 - 08/2021 Brown & Brown, Inc. - Columbia, SC
+PRA Health Sciences Inc. provides comprehensive clinical development services, including data management, statistical analysis, clinical trial
+management, medical writing, and regulatory and drug development consulting.
+Responsibilities
+- Designed and built IICS mappings to extract data from SFDC, Oracle, SQL Server and loaded into Oracle/Designed the ETL flows for generating flat file extracts as per the business need.
+- Worked on converting Informatica PowerCenter ETL code to IICS using PC to Cloud Conversion service. Involved in enhancements and maintenance activities of the data warehouse. Implemented Type1, Type2 and Incremental load strategies in IICS.
+
+Handled configuration activities like setup run time environment and create connections,schedules,tasks.mappings.mapplets and
+
+components.
+Designed Mappings, Integration Templates, Bundles and Task flows.
+
+- Used various transformations to extract data from different formatted files and relational source system.
+
+Developed and tested Informatica mappings based on the specification.
+
+Design and develop PL/SQL packages, stored procedure, tables, views, indexes, and functions; implement best practices to maintain
+optimal performance. Developed/Automated (PowerCenter/IICS) jobs through Automic.
+- Environment: IICS, Informatica Power Center 10.4/10.2, SalesForce, Oracle, SQL Server,GitHub.
+
+Sr. Informatica Developer, 04/2011 - 10/2020
+
+Tennessee Valley Authority, TVA - City, STATE
+
+The Tennessee Valley Authority is a corporate agency of the United States that provides electricity for business customers and local power
+companies serving 10 million people in parts of seven southeastern states. As a Sr. Software Engineer I was involved in the implementation of
+Enterprise Asset Management & P6 Data warehousing, CDC, eF MS, Maximo 7.5 version upgrade, TRIRIGA, Enterprise Content Management,
+Portfolio optimization project, Power supply, Enterprise Material Tracking System and supported various software and database upgrades.
+Responsibilities
+
+Involved in Requirement gathering, analysis, design and development of the project.
+
+Worked on design and development of Informatica PowerCenter mappings. workflows to load data from multiple sources into staging area,
+data warehouse and data marts in SQL Server and Oracle on real time.
+
+Extensively used Informatica Power Center,IICS to create mappings, sessions and workflows for populating the data into dimension, fact,
+
+and lookup tables simultaneously from different source systems (SQL server, Oracle, Flat files).
+
+- Used Change Data Capture (CDC) to capture changes in multiple environments and deliver the most accurate data to the business in data warehouse applications.
+
+- Worked on Migrating Informatica PowerCenter code to IICS.
+
+- Experience integrating data using IICS for reporting needs.
+
+Provided leadership and direction to project team by understanding business processes, gathering requirements, identifying potential
+usability issues, managing scope, and ensuring that an appropriate level of application quality was maintained at all times.
+
+Providing architecture review for proposed projects and enhancements to aid the governance process in decision making.
+
+- Worked with Repository DB to find the deviations from Company's ETL Standards for the objects created by users such as Sources, Targets, Transformations, Log Files, Mappings, Sessions and Workflows.
+
+Integrated Data Quality routines in the Informatica mappings to standardize and cleanse the data.
+
+Involved in Performance tuning at source. target, mappings, sessions, and system levels.
+Designed and developed UNIX scripts for scheduling the jobs using PMCMD.
+Involved in providing Technical support to the team members, as well as, the Business.
+
+- Performance tuning using round robin, hash auto key, Key range partitioning.
+
+Successfully Implemented Slowly Changing Dimensions.
+Successfully Integrated Multiple XML sources and created a de-normalized, flat-structured file
+
+Involved in writing SQL Stored Procedures, Functions, Triggers and Views for Oracle database
+
+Ensure that all support requests are properly approved, documented, and communicated using Team Foundation Server(TFS).
+
+Worked with project managers, developers, quality assurance and customers to resolve technical issues.
+- Estimated work hours and tracked progress using Agile methodology.
+
+Reviewed ETL code and worked with development teams to correct problems, run test scenarios and prepare for deployment.
+
+Met with stakeholders, contractor product teams and customers throughout system development life cycle.
+
+Delivered and sign-off of deliverables pertaining to the Transactional Data warehouse.
+
+Tested troubleshooting methods, devised innovative solutions, and documented resolutions for inclusion in knowledge base for support
+team use.
+
+- Environment: Informatica Power Center 10.2/10.1/9.6/9.1/8.6.1, ICS, Informatica Power Exchange 10.2/9.6/9.1/8.6.1, Informatica Data Quality 8.6.1,Google BigQuery, Admin Console, Oracle 12c/11g/10g, SQL Server 2005 .PL/SQL, UNIX, WindowsNT4.0, Tableau, Power BLGIT, Team Foundation Server TFS.
+
+ETL Developer, 12/2010 - 04/2011 Wells Fargo Bank - City, STATE
+Wells Fargo Bank is one of the largest commercial banks in the United States, and provides Customers with a full range of financial products
+and services. As a ETL Developer at Wells Fargo Bank on Mortgage Project to design, develop, and implement the ETL process to load the
+Products Data Mart, which helped generate Business Intelligence and Performance Management reports.
+Responsibilities
+- Extensively involved in gathering business requirements and translating them into technical requirements.
+- Used Informatica PowerCenter & Ab Initio to extract the data from Mainframe.
+- Responsible in strictly maintaining naming standards and warehouse standards for future development.
+- Coordination and Leading the offshore in development activities. Extracted data from various sources such as Flat Files, Mainframe , SAP and Oracle using Informatica Power Exchange. Designed and Developed Stored Procedures in DB2. Achieved performance improvement by tuning SQL queries, extraction procedures between Oracle/DB2 and Power Center.
+
+Offered 24/7 production support for the application on a time-time basis.
+
+Developed complex Power Center mappings by using different transformations and components respectively to meet the data integration
+and data quality requirements.
+
+Created and monitored workflows/sessions using Informatica Server Manager/Workflow Monitor to load data into target Oracle database.
+
+Performed Unit testing, Integration Testing, and User Acceptance testing to pro-actively identify data discrepancies and inaccuracies.
+
+Involved in performance tuning at source, target, mapping and session level.
+
+Prepared design documents, ETL Specifications and migration documents
+
+Maintained daily Tech Tracker for the updates from the team regarding their objects, issues and progress
+
+Involved in Informatica Power Center 8.1.1 Repository upgrade to Informatica Power center 8.6.1
+
+Involved in providing Informatica Technical support to the team members, as well as, the business
+- Environment Ab Initio, Informatica Power Center 8.1.1/8.6.1, Teradata, Oracle.
+
+EDUCATION AND TRAINING
+
+Master of Science: Software Engineering, 7 2010 Stratford University - Falls Church, VA
+
+Bachelor of Technology: Electronics and Communication Engineering, 2 2008 INTU - Hyderabad, AP
+
+CERTIFICATIONS
+--------------
+
+Informatica certified professional CDI & CAI R38(IICS) Informatica Power Center 8 Certified Developer.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

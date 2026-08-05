@@ -1,0 +1,62 @@
+Informatica Etl Developer II Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+ROBERT SMITH eee eacanccaleonemere
+
+Address: 1737 Marshville Road, Alabama
+
+Over 7+ years of combined Industry Expericnee as an ETL Developer in designing, developing and
+implementing ETL processes for business applications. Have clear understanding of Data
+
+Warehousing concepts with emphasis on ETL and Life Cycle Development including requirement
+analysis, design, development, testing and implementation,
+
+Informatica, ETL, SQL Server,
+
+WORK EXPERIENCE
+---------------
+
+Informatica Etl Developer II
+ABC Corporation - August 2012 - December 2014
+
+Understanding the Business requirements based on Functional specification to design the ETL
+methodology in technical specifications.
+
+Developed data conversion/quality/cleansing rules and executed data cleansing activities.
+Responsible for developing, support and maintenance for the ETL (Extract, Transform and Load) processes using Informatica Power Center 9.5.
+
+Involved in integration of heterogencous data sources like, Salesforce, SQL Server and Flat
+Files (Fixed &amp; delimited) into Staging Arca.
+
+Performed analysis, design, development, and configuration functions as well as detine technical requirements for assignments of intermediate complexity.
+
+Participated with team to perform analysis, assessment and resolution for defects and incidents of intermediate complexity and escalate appropriately,
+
+Worked within guidelines set by team to independently tackle well-scoped problems.
+
+Informatica Etl Developer
+Delta Corporation - 2008 - 2012
+
+Description InfoTech enterprises Limited are a global engineering services and solutions company,
+Ithas 11,000+ employees across 38 global locations as of November 2013,
+Infotech Enterprises is among the top 100 outsourcing companies in the world.
+Responsibilities Interacted with business analysts, data architects, application developers to
+develop a data model.
+Designed and developed complex aggregate, join, look up transformation rules {business rules)
+to generate consolidated {fact /summary} data identified by dimensions using Informatica Power Center 6.x/7.0 tool.
+Created sessions, database connections and batches using Informatica Server Manager/Work flow Manager.
+
+mappings, sessions/tasks, source, and target databases as part of the performance tuning.
+
+EDUCATION
+---------
+
+Bachelor's in Computer Science - (JNT University - Hyderabad, Andhra Pradesh}
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

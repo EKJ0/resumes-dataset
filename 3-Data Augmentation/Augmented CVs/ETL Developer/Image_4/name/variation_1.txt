@@ -1,0 +1,51 @@
+Emily Walsh
+
+Senior ETL Developer/Lead
+
+PERSONAL STATEMENT
+
+Senior ETL Developer/Lead with 12 years of experience in the Healthcare domain, Having IT experience in Design, Development, and Implementation
+and Testing of Database/Data Warehousing applications using Extraction, Transformation, Loading and Data Analysis. Extensive hands-on experience
+in using the Data warehousing tool BM Web Sphere Datastage 7.5/ 7.5.1 Infosphere Datastage 11.3, 8.7, Talend ETL and also involved in Data
+Migration projects.
+
+WORK EXPERIENCE
+---------------
+
+Senior ETL Developer/Lead
+United Health Care- September 2010 - Present Responsibilities:
+= Working on &quot;UHG Talend Migration Project&quot; as an ETL specialist to execute CSP platform which includes Datastage 8.7 ETL to
+Talend studio ETL with Hadoop,
+- Responsible for building scalable distributed data solutions using Hadoop. = Worked for hands-on Datastage 8.7 ETL migration to Talend studio ETL process.
+- Designing, developing, validating and deploying the Talend ETL processes for the DWH tearn using Hadoop (pig, hive) on Hadoop.
+- Collaborate with the data warehouse team to design and develop required ETL processes, performance tune ETL programs/scripts, = Handled importing of data from various data sources, performed transformation like ETL (extract transform and load) and ELT (extract load and transform) into HDFS,
+- Extracted the data fromm Oracle 12c, transformed and load in HDFS using Talend studio ETL tool.
+
+ETL Developer
+ABC Corp- 2006-2010 Responsibilities:
+- Designed and Built ETL processing modules based on transformation rules, mapping rules, processing requirements and database model. = Designed and Built the ETL auditing steps to ensure data integrity and completeness of the ETL process. = Designed and Built the ETL process flow including module dependencies and parallel processing opportunities.
+- Lead the design-build of programming specifications for each ETL component,
+- Lead the design and execution of testing plans for each phase of the development process.
+- Planned and ensured accuracy and quality of prograrn code as well asa thorough data validation procedures. = Developed efficient code that met the analysis and design criteria.
+
+- This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines
+
+1737 Marshville Road, Alabarna
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+ETL Tools IBM DataStage 11.3, 8.7, 8.5, Talend Integration ETL Tool 5 &amp; 6, Ascential DataStage 7.5
+Databases Oracle MS Access, HBase, Fig ,Hive, CASSANDRA, MONGO_DB Languages UNIX SHELL, HSQL, COL
+(CASSANDRA QUERY), TERADATA, SQL, ATS&arnp:T Product- Cymbel Query Language, JAVA, XML Operating Systems
+Windows XP/NT/2000, UNIX, Linux. Scripting Unix Shell Scripting. TWS Composer Files Other Tools Ms Office, SOLPlus,
+TOAD, SQL Developer, Teradata, Management Studio, Schedulers Datastage Internal Scheduler, Cron Tab,
+Zera, IBM Tivoli TWS
+
+English (Native) French (Professional) Spanish (Professional)
+
+NTERESTS
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company

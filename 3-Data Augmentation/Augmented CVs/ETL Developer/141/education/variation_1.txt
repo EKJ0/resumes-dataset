@@ -1,0 +1,221 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Over all 8+ years of IT experience in IT industry. Experience in in Data Analysis , Design , Implementation , Administration and Business Intelligence , OLTP , OLAP, ETL, Data warehousing, Data mining, DBMS and Data Modeling MSBI Tools SQL Server
+2012/2008R2 /2008/2005, SSIS , SSRS,SSAS,SDLC.
+
+Experience Software Development Life Cycle ( Analysis, Design, Development, Testing and maintenance ) using Waterfall and Agile
+
+methodologies.
+
+Skillful in ETL - Operations Data Store concepts, OLAP and Architecture
+
+- Good knowledge in Power BI, Power BI Pro, Power BI Mobile, Power BI & Reporting and visualizations and Power BI Dashboards in to rich look.
+
+- Good Hands on Azure Data Factory, moving data from Kusto DB to Azure SQL DB with the help of Confidential Flows.used Azure
+
+download/Updated tasks.
+
+Knowledge on Microsoft Azure and Azure Data Factory, Storage, Azure ML, Azure Data Lake analytics.
+
+- Expert in writing complex T-SQL (DDL, DML), new features like CTE, Ranking Functions, TOP(n), PIVOT, XML PATH, SQL, Physical, logical database design and Performance tuning and creating Views, Constraints, Triggers, Joins, Cursors, Temp Table,
+
+Table Variable, Functions, Batch Scripts and numerous stored procedure consumed at various stages of migration / cleansing
+process, reports or data validation.
+
+- Expert creating packages with DTS/SSIS to transfer data between ORACLE, MS ACCESS and FLAT FILES to SQL SERVER. Using tools like Bulk Insert Task (BCP) in SSIS
+
+- Developing reports on SSAS understanding of SSAS, Experience in report writing using SSRS and creating various types of reports like drill down, drill through, Parameterized, Cascading, Conditional, Table, Matrix, Chart, and Sub Reports
+
+- Experience maintain Report Manager and Report Server for SSRS
+
+- Good Knowledge in Data Modelling OLTP systems and Star Schema and Snowflake multi-dimensional modelling.
+
+- Expert in developing Dashboard Report, Parameterized Reports, Linked reports . Sub reports by Region, Year. Quarter, Month and Week.
+
+- Has strengths such as commitment to work, position to excel and innovate, flexibility and self-determination
+
+- Excellent communicator, good listener, planner and adorable team player.
+
+SKILLS
+------
+
+Databases: Confidential SQL Server (2005/2008/2008 R2/2012). Reporting Packages: SQL Server Reporting Services, MS Excel.
+Oracle 81/91, Oracle 10g/91 DB2,Postgre MS Access, NoSql Tools/Methodologies: MS Project, SQL Profiler, Toad, TFS 2010,
+Databases(Hbase). Agile, Jira, Waterfall.
+
+Database Tools: MS SQL Server (2005/2008/2008 R2/2012), MS- Cloud Technologies: AWS, Azure (ADF V1 and ADF V2)
+Access, SQL Server Integration Services(SSIS), Data Transformation Operating Systems: Windows XP, Windows 7,Windows 8, Win
+Services(DTS), SQL Server Reporting Services(SSRS) 2003/2008/2008 R2
+
+Development skills: T-SQL, PL/SQL, SSIS/SSRS, SQL PLUS, Power
+
+BI
+
+Languages: VB.net, Python .Linux, Unix, Java
+
+ETL Tools: DTS, SSIS (SQL Server Integration Services),
+
+Informatica, COMOS, Kettle
+
+WORK EXPERIENCE
+---------------
+
+02/2020 to Current Senior BI Developer American Medical Association - Newport Beach, CA
+- Developed Power BI model used for financial reporting of P & L and Headcount.
+- Designed and documented the entire Architecture of Power bi Poc
+- Expertise in writing complex DAX functions in Power BI and Power Pivot.
+- Automated Power Query refresh using power shell script and windows task scheduler.
+- Used various sources to pull data into Power BI such as Sql Server, SAP BW, Oracle, SQL Azure etc...
+- Installed and configured Enterprise gateway and Personal gateway in Power bi service.
+- Created Workspace and content packs for business users to view the developed reports. Scheduled Automatic refresh and scheduling refresh in power bi service. Wrote calculated columns, Measures query's in power bi desktop to show good data analysis techniques.
+
+Weekly presentation to the business users about the reports and their changes as required.
+
+Worked on all kind of reports such as Yearly, Quarterly, Monthly, and Daily.
+
+Worked on all types of transformations that are available in Power bi query editor
+
+Created stored procedures and SQL queries to pull data into power pivot model.
+
+Participated in project planning sessions with project managers, business analysts and team members to analyze
+
+business requirements and outline the proposed solution.
+
+Database creation (DDL, DML, DCL) . database tuning, SQL tuning, performance planning.
+
+Extensively used Joins and Sub-Queries to simplify complex queries involving multiple tables.
+
+Developed tabular queries for efficient analysis of report using Pivot/Un pivot in T-SQL .
+
+Transformed complex business logic into Database design and maintaining it by using SQL objects like Stored
+Procedures, User Defined Functions, Views . T-SQL Scripting and Jobs.
+
+Creating and Modifying Tables, Stored Procedures . Views, Indexes , User-defined Functions, and Triggers as
+required.
+
+Created Jobs Performance report that queries system tables to track the duration of each job and weekly-average
+duration using SSRS .
+
+Designed and created data extracts, supporting SSRS, POWER BL, Tableau or other visualization tools reporting
+applications.
+
+Creating data blending in case of merging two different datasets using Tableau
+
+Created Datasets in T-SQL, stored procedures for SSRS.
+
+Developed Excel PowerView, PowerQuery and PowerPivot dashboards for data analysis
+
+Developed confidential proprietary analytical tools and reports with Confidential Excel, and Power Pivot and
+Power Point.
+
+Performed Index analysis for tables and came up with more efficient solutions to use Clustered and Non-
+Clustered Indexes for significant performance boost using index tuning wizard.
+
+Created SSIS packages to import data from Access , Excel, XML, OLE DB Source and Fiat Files -
+
+Filtered bad data using Derived column, Lookups . Fuzzy Lookups, Conditional split -
+
+Designed SSIS packages to import and transform data between databases and external data sources using various
+transformations like Data conversion , File system task, Row counts, OLE DB Source, OLE DB Destination,
+OLE DB Command, Merge Join, Look up, Sort, Data flow task .
+
+Designed and created data extracts, supporting SSRS, Power BI, Tableau or other visualization tools reporting
+applications.
+
+Debugging SSIS packages, Performance tuning on Slowly running SSIS Packages.
+
+Configure and maintain using Report Manager and Report Server for SSRS . Deployed and Scheduled the
+Reports in Report Manager
+
+Created Reports using Charts . Gauges , Tables , matrix -
+
+Created Parameterized Report . Dashboard Report , Linked report and Sub Report by Year, Quarter, Month,
+and Week.
+
+- Created Drill Down Reports, Drill Through Report by Region.
+
+03/2016 to 12/2019 BI Developer Expeditors International Of Washington, Inc. - El Paso, TX
+- Gathered business requirements , definition and design of the data sourcing and data flows, data quality analysis, working in conjunction with the data warehouse architect on the development of logical data models.
+- Designed and created data extracts, supporting SSRS, Power BI, Tableau or other visualization tools reporting applications.
+- Expertise in creating visualizations and reports using Power BI and Dashboards
+- Created logical and physical data models using Erwin for new requirements after discussion with technical team and application users.
+- Designed and implemented complex SSIS package to migrate data from multiple data sources for data analyzing , deploying and dynamic configuring of SSIS packages.
+- Created OLAP cubes and dimensions for the analysis of specific areas using SSAS.
+- Developed and maintained a combined data store for reporting purposes.
+- Generated reports using Global Variables . Expressions and Functions using MS SQL Server Reporting Services
+2008.
+- Identified the database tables for defining the queries and defined datasets for report generation.
+- Defined report layouts including report parameters and wrote queries for drill down reports using SSRS 2008.
+- Generated daily , weekly and monthly reports for the managers.
+- Administered interface to organize reports and data sources, schedule report execution and delivery, and track
+reporting history using SSRS 2008.
+- Designed high level ETL architecture for overall data transfer from the OLTP/OLAP with the help of SSIS.
+- Extensively used performance monitor / SQL profiler to solve dead locks/long running queries.
+- Tested the reports and fixed bugs in the stored procedures -
+- Responsible for the Performance tuning of the SQL Commands and the troubleshooting of the technical problems
+in MS SQL Server 2008 with the use of the Query Analyzer and Database Engine Tuning Wizard -
+- Established backup and recovery of MS SQL server 2005 by using SQL Server Agent Jobs for periodic Backups with backup devices, database maintenance plans and recovery. Environment: MS SQL Server 2008, SSAS 2008, SSRS 2008, SSIS 2008, T-SQL, Visual studio 2008, DTS, Data Analyzer, MS Access, Word, Excel, SQL Profiler, Windows XP, Erwin v4.2, Version One
+
+01/2014 to 02/2016 ETL DEVELOPER Abt Associates - New York, NY
+
+- Highly responsible for data transformation from various formats to company's format on a weekly basis. Managed external client project contracts from technical consultation to delivery of projects
+
+- Involved in Planning , Defining and Designing database based on business requirements and provided documentation.
+
+- Developed logical and physical data models for schemas using Erwin -
+
+- Installed MS SQL Server 2008R2 and Management tools using SQL Server Setup Program.
+
+- Coordinated with DBA in creating and managing tables , indexes , triggers , db links and privileges.
+
+- Designed, created and reviewed primary objects such as views . indexes based on logical design models, user requirements and physical constraints.
+
+- Helped to designed all kind of production and sales reports for Sales and procurement departments using SSRS
+
+- Responsible for optimizing all indexes . SQL queries , stored procedures to improve the quality of software.
+
+- Designed SSIS Packages to transfer data from flat files to SQL Server using Business Intelligence Development Studio .
+
+- Generated periodic reports based on the statistical analysis of the data using SQL server Reporting service ( SSRS ):
+
+- Extensively used SSIS transformations such as lookup , merge . derived column , data conversion , conditional split and aggregate for creating SSIS ETL Solution.
+
+- Responsible for creating cubes and dimensions using MS SQL Server Analysis Services (SSAS).
+
+- Created business critical KPIs using MS SQL Server Analysis Services ( SSAS ) representing aggregations in several different ways - hierarchically and using custom groupings that the company will use to analyze performance.
+
+- Calculated measures and dimension members using MDX , mathematical formulas and user defined functions.
+
+- Used Transformations such as Union All, Merge and Breakpoints in SSIS.
+
+- Generated ETL Packages tasks daily using SQL Server Agent jobs by scheduling and also manually configured.
+
+- 1 Used all types of container tasks such as for loop, for each loop and sequence container in SSIS.
+
+- Designed, Developed and Deployed reports in MS SQL Server environment using SSRS - 2008R2
+
+- Generated Sub-Reports . Drill down reports . Drill through reports and Parameterized reports using SSRS for Different Regional Sales Head by Monthly and Quarterly Report.
+
+- Created reports to retrieve data using Stored Procedures that accept parameters.
+
+- Used SQL Server profiler for auditing and analyzing the events which occurred during a particular time horizon and stored in script.
+
+EpucatIon
+09/2011 Master of Science
+
+Harvard University - Gaziantep, Turkey
+05/2009 Bachelor of Science
+
+Inonu University - Malatya, Turkey
+
+CERTIFICATIONS
+-------------- Certificates
+
+- Microsoft Analyzing Data with Microsoft Power BI Certificate
+- Oracle Certified Associate (OCA) Java SE 8 Programmer

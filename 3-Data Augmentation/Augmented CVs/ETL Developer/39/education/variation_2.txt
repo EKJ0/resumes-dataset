@@ -1,0 +1,178 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+Over 6+ years of professional experience in the Information Technology field as SQL/ BI developer in MS SQL
+server2014/2016/2017/2012/2008R2/2008 environment covering various domains. Excellent in writing T-SQL queries, creating clustered and
+non-clustered Index, Data Cleansing, Data Migration and using them to alter and build objects. Ability to assign different types of keys with
+their preferred data types. Experienced in installing, upgrading, and configuring Microsoft SQL Server and Databases. Hands on experience
+in database normalization, de-normalization, optimization, Tuning, Back-up, migration, conversion, and document processing using data
+modeling tools. Experienced in creating Sub-Queries and Joins for complex queries involving multiple tables and Exception Handlers.
+Confident with operators, variables, wildcards, views, triggers in T-SQL. Clear cut idea about data warehouse, dimensional modeling, OLAP.
+OLTP, RDBMS and schemas. Proficient in creating dynamic packages for Incremental loads and data cleansing in data warehouse using SSIS.
+Involve in all phase of SDLC, create detail analysis-design document with source to target mapping. Develop DataStage jobs to do ETL (load
+collection of data from multiple source to different destination with required business transformation.) Experience in maintaining Batch
+Logging, Error Logging with Event Handlers and Configuring Connection Managers using SSIS. Extracted, transformed, and loaded data
+from various heterogeneous data sources and destinations like Access, Excel, CSV, flat files using connectors, tasks and transformations
+provided by SSIS. Accomplished in creating Packages, scheduling Job, and sending Alerts using SQL Mail. Ability to build data marts and
+cube by analysis tool SSAS. Easy to build and deploy analytic solutions for decision support systems. Ability to measure, edit and compare
+business data with different queries. Good experience on KPI (Key Performance Indicators) areas. Extensive experience in Capacity Planning,
+Disaster Recovery, Troubleshooting, Backup and Restore procedures Experience in Application systems and understanding how the data
+resides in the source system to effectively create OLAP Structures to support reporting. Excellent experience in developing drill down,
+cascading, parameterized, Drill through, Sub reports and Charts using Global variables, Expressions and Functions for the business users.
+Experienced with visualization tools like Power BI and Tableau Experienced in creating Ad hoc reports with complex design to query the
+database for Business Intelligence. A well-organized, goal-oriented, highly motivated effective team member.
+
+SKILLS
+------
+- Technical skills and tools e Analysis Tool: SQL Server Analysis Services (SSAS)
+- Databases: © Database Tools: MS SQL Server Enterprise Manager, SQL
+- SQL Server 2019/2016/2014/2012 Profiler, Query
+- Language: T-SQL e Analyzer, DTA
+- Reporting Tool: SQL Server Reporting Services (SSRS), Tableau, © Other Tools: Microsoft Office 2003/2007/2010 Power BI © Business Skills / Technical Skills:
+- Integration Tool: SQL Server Integration Services (SSIS), Azure « MS SQL Server 2012/2014R2/2008/2010 Visual studio
+Data Factory V2 2010/2008 (SSAS/SSIS/SSRS), Microsoft Access 2007/2003, Microsoft Excel (Pivot Table), OLAP and OLTP, Outlook, MS
+SQL Profiler, SQL server Query Analyzer, Index Tuning Wizard,
+C#. Net, VB.Net. / Share point, Crystal Reports 8/ 9/10 .
+ADO.NET, ASP.Net, Frame Work 2.0, MDM, Oracle, DB2, Dash Board by Crystal report, Erwin, MS Access
+
+WORK EXPERIENCE
+---------------
+
+12/2021 to Current SQL/ETL Developer Apex Systems - Waltham, MA
+
+- Worked with Business Analysts to understand the report requirements
+
+- Interacted with end users to understand the Business Logics as per the need
+
+- Created, implemented and maintained a reporting suite of over 56 standard reports while also customizing many reports to meet individual client needs
+
+- Developed various operational Drill-through, Drill-down and parameterized reports based on the report's requirements using SSRS
+
+- Used cascaded parameters to generate a report from two different Data Sets
+
+- Involved with Query Optimization to increase the performance of the Report
+
+- Created complex stored procedures to generate reports using SSRS
+
+- Designed Reports in SSRS, using Shared data source and specified data source
+
+- Identified and defined the Datasets for the report generation
+
+- Defined the report layouts and formatted the reports using the Global Variables and Expressions
+
+- Deployed and Subscribe Reports using SSRS to generate all daily, weekly, monthly Reports
+
+- Developed and rendered monthly, weekly, and daily reports as per the requirement and gave roles, user access with respect to security in Report Manager
+
+- Performed data extraction, transformation, and loading (ETL) between systems using SQL tools such as SSIS
+
+- Created SSIS Packages to export and import data from CSV files, Text files and Excel Spreadsheets
+
+- Used For Loop, For Each Loop, Sequence Container, Execute SQL Task, Send Mail Task, Package Events, Precedence Constraint to achieve business requirement
+
+- Designed configurations, logging/auditing, package error handling, data error logging and checkpoint in SSIS Package model
+
+- Prepared required documentation for system support and end users and provide end-user training for the reports and analytical solutions
+
+- Provided technical assistance by responding to inquiries regarding errors, problems, or technical questions; train end users and technical support staff as required
+
+- Interacted in weekly meetings with IT Manager to give status updates on projects
+
+- Tools and Technologies: MS SQL Server 2014/2008R2/2008, T- SQL, MS Excel 2007/2003, Microsoft SQL Server Integration Services (SSIS), Microsoft SQL Server Reporting Services (SSRS), SQL Server Business Intelligence Development Studio.
+
+01/2018 to 11/2021 SQL Server SSIS/SSRS Developer/ETL Developer GAVS - - City, STATE
+
+- Created ETL SSIS packages both design and code to process data to target databases
+
+- Identify and resolve problems encountered during both development and release of the SSIS code
+
+- Debugging and troubleshooting the technical issues while implementing the applications Created Complex ETL Packages using SSIS to extract data from staging tables to partitioned tables with incremental load Created DTS Packages for extracting data from Flat Files, Excel, MS Access, Oracle and MS SQL Server
+2016/2019
+Created packages in SSIS with error handling and worked with different methods of logging in SSIS
+Developed, Maintained, and Monitored all import/export and Data Transformation into the Staging and Production
+environments
+
+Experience in providing Logging, Error handling by using Event Handler, and Custom Logging for SSIS Packages
+Created ETL packages with different data sources (SQL Server, Flat Files, Excel source files, XML files etc.) and
+then loaded the data into destination tables by performing complex transformations using SSIS/DTS packages
+Used ETL to implement Slowly Changing Dimension to maintain historical data in Data Warehouse
+
+Responsible for Deploying, Scheduling Jobs, Alerting and Maintaining SSIS packages and Updating and
+maintaining Visual Source Safe
+
+Created complex Stored Procedures, Triggers, Functions (UDF), Indexes, Tables, Views and other T-SQL code and
+SQL joins for applications following SQL code standards
+
+Responsible for data analysis, loading data from Data feed to Data Warehouse tables
+
+Performed efficient tuning of SQL source queries for data load/ Usage of stored procedures for performance
+Created Stored Procedures to transform the Data and worked extensively in T-SQL for various needs of the
+transformations while loading the data
+
+Created views to display required information on user interface, and triggers to validate consistent data entry into
+the database
+
+Experience in report writing using SQL Server Reporting Services (SSRS) and creating various types of reports
+like Tabular, Matrix, Drill Down, Drill Through and web reporting by customizing URL Access
+
+Designed different kinds of reports from scratch depending upon the requirements of the markets, vendors,
+
+providers and scanners
+Documented all the work and all the process of integration and reporting services for further references
+
+Worked extensively on system analysis, design, development, testing and implementation of projects (Complete
+SDLC)
+
+Environment: MS SQL Server 2012/2008R2, SSRS, SSIS, SQL Query Analyzer, SQL profiler, IIS 6.0,Enterprise
+Manager, Windows Server 2003/2008, DTS, Share Point Portal Server, HTML, XML, C#, Net, ASP_NET, Visual
+Studio 2005/2010, MS Access, Crystal Reports, MS Excel 2007.
+
+04/2015 to 12/2017 MS BI/ETL Developer Booz Allen - City, STATE
+
+- Created SSIS packages to migrate data from different data sources to data warehouse
+
+- Successfully extracted transformed and load data into data warehouse
+
+- Created packages by testing and cleaning the Standardized Data by using tools in Data Flow Transformations (Data Conversion, Export Column, Merge join, Sort, Union all, Conditional Split and more) for existing/new packages and huge CSV file import from different data sources and other ongoing tasks for mapping
+
+- Extensively designed the packages and data mapping using Control flow task, Sequence container task, Dataflow Task, Execute SQL Task, Data conversion task, Derived Column task and Script Task in SSIS Designer
+
+- Scheduled SSIS packages for running monthly and weekly feeds from various guarantors and multiple servers and resources
+
+- Involved in enhancing and deploying the SSIS Packages from development server to production server
+
+- Responsible for the Performance tuning of the SQL Commands with the use of the SQL Profiler and Database Engine Tuning Advisor
+
+- Installed and Configured SQL Server Active/Active and Active/Passive clusters
+
+- Monitored Scheduled jobs and alerts
+
+- Designed and developed ETL solutions for transformation of data from source transactional systems or other data feeds, into a dimensional database, or other destinations
+
+- Created, Scheduled, Generated and optimized ETL jobs
+
+- Created/Updated Stored Procedures, Triggers, Functions, Cursor, Views, and Indexes with extensive use of T-SQL
+
+- Created, documented, and implemented unit test plans, scripts, and test cases
+
+- Created and maintained technical documentation using defined technical documentation templates
+
+- Contributed to the creation of solid coding techniques and recommended and reviewed coding standards
+
+- Evaluated database performance and performed maintenance duties such as Tuning, Backup, Restoration and Disaster Recovery for the data
+
+- Wrote documentation, data warehouse artifacts and data lineage for ETL tools.
+
+EDUCATION AND TRAINING
+
+Bachelor’s Degree
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

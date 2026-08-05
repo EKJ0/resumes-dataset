@@ -1,0 +1,267 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+ODI/OBIEE Developer
+
+7+ years of success in delivery of technical strategies and solutions to fit the business needs and goals that have consistently led to
+increased revenue, customer retention and productivity, decreased operating expenses and error rates, improved business processes,
+
+and better quality systems.
+
+WORK EXPERIENCE
+---------------
+
+ODI/OBIEE Developer, 03/2011 to Current
+
+XO Communication - City, STATE
+
+- Interacted with procurement and operation/maintenance business representatives for gathering the OBIEE reports/Dashboards requirements and to define business and functional specifications.
+
+- Involved in translating functional requirement into technical requirements.
+
+- Conducted research and analysis of business requirement problems and available technologies to define system solutions that
+
+increase efficiency and effectiveness.
+- Create ODI data model, tables indexes, views, materialized views, synonyms, sequences for better performance of DB.
+- Utilized Oracle Data Integrator to develop and integrate Master, Work Repositories, data migration, quality and profiling.
+
+- Designed and Customized OBIEE dashboards and reports / Dashboards with different analytic views (Drill-Down/Dynamic, Pivot Table, Chart, Column selector, Tabular with local and global filters) using OBIEE/Siebel Analytic Web.
+
+- Created interactive maps using the new OBIEE 11g "Map Views" feature.
+
+- Worked on Informatica Power Center tools- Designer, Repository Manager, Workflow Manager, and Workflow Monitor.
+
+- Created Data Maps/Extraction group in Power Exchange Navigator for legacy IMS Parent Sources.
+
+- Staged Data from legacy Proclaim IMS System into Oracle 11g Master Tables.
+
+- Performed CDC Capture Registrations.
+
+- Developed mappings that perform Extraction, Transformation and Load of Source data into derived Masters Schema using various Power Center Transformations like Source Qualifier, Aggregator, Filter, Router, Sequence Generator, Look Up, Rank, Joiner,
+
+Expression, Stored, Procedure, SQL, Normalizer and update strategy to meet business logic in the mappings.
+
+- Designed the Process Control Table that would maintain the status of all the CDC jobs and thereby drive the load of Derived Master Table.
+
+- Created Post Unix scrips to perform operation like gunzip, remove and touch files.
+
+- Involved in building ODI ETL architecture and Source to Target mapping to load data into Data warehouse.
+
+- Maintained stored definitions, transformation rules and targets definitions using Informatica repository Manager.
+- Used Type 1 SCD and Type 2 SCD mappings to update slowly Changing Dimension Tables.
+
+- Modified existing mappings for enhancements of new business requirements.
+
+- Designed and customized dashboards for review by the business users. * Extensive experience in OBIEE RPD (Physical, Business Model and Mapping and Presentation layers) for both Stand-Alone and Integrated OBIEE implementations.
+
+- Extensively worked in creating hierarchies, level-based measures, Time series metrics and aggregates in the BMML.
+- Excellent proficiency in data and object level Security in OBIEE.
+
+- Extensive experience in customizing OBIEE dashboards and reports.
+
+- Extensive experience in RPD and Reports performance tuning.
+
+- Modified Presentation Layer to add presentation tables and columns to meet the business user needs.
+
+- Worked on repository and session variables.
+
+- Used the security settings in Siebel Analytics Admin tool to setup users, Groups and Access privileges.
+
+- Created materialized views and aggregates to improve performance.
+
+- Customized Activity and Revenue star schemas.
+
+- Setup Usage tracking option to monitor frequently run reports in order to provide caching for the reports and perform database optimization by analyzing query performance.
+
+- Customized reporting with OBIEE Answers and integrated them into the Dashboards.
+- Generated Reports and Dashboards by using Report features like Pivot tables, charts and view selector.
+- Created user level security for intelligence dashboards based on Business Requirement.
+
+- Customized and Developed OBIEE Analytics Reports Account Activity, Revenue on business segmentation, Actual Vs Forecast Response rates, Segment, and Offer responses.
+
+- Created Dashboards with Dashboard prompts, Charts, Pivot tables.
+
+- Performed Data Validation of data in the reports and dashboards.
+
+- Extensively used SOL Tuning to improve performance.
+
+- Created iBots to send pre-processed reports using OBIEE Delivers.
+
+- Unit, integration and system testing for all components in OBIEE. Test cases have been prepared and documented the results.
+
+- Worked on evaluation of Oracle BI Enterprise Edition and its new utilities including BI Server, Answers, Delivers and Publisher.
+- Built Report prototype based on initial business requirements.
+
+- Created custom resource Catalogue and Manage content in the resource Catalogue.
+
+- Built Analyses and created Dashboards with Global prompts, column selectors, navigation and automatic development
+
+Documentation drilldown.
+
+- Performed testing and Data Validation of data in reports against the databases using SQL Developer and Toad.
+
+- Performed post-upgrade documentation and experience with OBIEE 12c install and configuration.
+
+Sr. BI Developer/Admin, 2010 to 01/2011
+
+Academy Sports & Outdoors
+
+Responsibilities:
+
+- Managed planning and portfolio for business investments budget.
+
+- Extensively used Qlikview data model concepts to recreate the existing dashboard from OBIE into Qlikview.
+
+- Worked with direct and cross functional teams to drive foundation plans, execution plan, administration, and reporting.
+- Conducted Financial Analytics with OBIA.
+
+- Performed Business and Financial Analysis using oracle EBS for assigned portfolio and across cross matrix business areas.
+
+- Created Daily & Monthly balance reports for regular operational purpose and published on same EBS portal, which was central Portal for business needs.
+
+- Worked Asset accounting reports (Total Value, Taxable value reports). © Provided comprehensive consultation to infrastructure administrators and business analysts in resolving issues.
+
+- Perform trouble shooting for all defects and analyzed of GL, AP and AR data models.
+
+- Prepared security matrices, designed security architecture and implemented row-level security at OBIEE and PeopleSoft level.
+- Developed Technical design solution, and unit testing.
+
+- Extensively conducted Master Data Management.
+
+- Created impersonator username, made changes in instanceconfig.xml and implemented SSO for the organization.
+
+- Ensured restricted, confidential and sensitive access to data with the design of solid security architecture.
+
+- Configured and Scheduled BI Scheduler for report bursting to File and email locations and used advanced reporting features such as Online Analyzer, Excel Analyzer and report security options.
+
+- Designed reporting data model also called as RPD, which acted as the base for developing canned as well as ad-hoc reports using OBIEE Answers.
+
+- Involved in system study, analysis, design, coding, testing and debugging of software, implementation and training for users.
+
+- Delivered data visualizations in the form of reports and dashboards required by projects within a project team for larger projects and as the primary resource for smaller projects.
+
+- Performed analysis on data from multiple sources and worked with Architect to provide input to Data Model and ETL processes.
+- Reported development tasks, such as RPD and report/dashboard design and development.
+
+- Enhance performance of Reports/ Dashboards by implementing the Aggregate tables, Materialized Views, Table partitions, re- building of indexes and managing Cache etc.
+
+- Configured LDAP server to Authenticate users and implemented both object level and data level security based on roles and
+
+responsibilities.
+
+- Security settings were implemented in Siebel Analytics Administration Tool to set up groups, access privileges and query privileges.
+
+- Created templates as required by the client using BI Publisher.
+- Performed Unit, Integration and Regression testing to validate reports and mapping.
+
+Sr. Business Systems Analyst/ Data Warehouse Architect/ETL Developer, 02/2009 to 2010 MOAM IT CONSULTING - City, STATE
+
+Render extensive analytical and technical acumen via research capabilities in the areas of report management, data procurement and
+
+project development.
+
+- Organize joint application development (JAD) sessions for requirement gathering, with the stakeholders, dealers and super dealers,
+
+senior managements and end users.
+
+- Analyze business requirements documents and develop flow chart diagrams and activity diagrams.
+
+- Develop and support a set of standard software processes utilized by agencies
+
+- Work with team to review and develop data standards, data exchange, XML data standard and data sharing model.
+- Train, manage, and evaluate both temporary and permanent employee workforce.
+
+- Monitor and track success of process improvements.
+
+- Analyze business risks, identify mitigating controls, plans and perform onsite testing.
+
+- Determine effectiveness of control systems.
+
+- Manage a multilevel responsibility matrix providing senior leaders with a thorough operative report.
+
+- Play key role in call center turn around project resulting in reducing caller waiting time, improving call response times and
+
+increasing first call resolution by 48%.
+- Gather requirements and turn them into design suitable for Business Intelligence.
+
+- Perform COGNOS Implementation - Serve as an Analyst supporting the Sales team for the integration of global sales data from various ERP systems into COGNOS as a single repository, replacing several different reporting tools with one global analytical tool.
+
+- Lead strategic planning initiative to secure proposed budget for the consolidation of six call centers by identifying CRM and process improvements opportunities.
+
+- Evaluate the need of different programs and help determine the most efficient allocation of the Organization's limited resources.
+- Assist in the creation, collection, analysis and reporting of performance metrics.
+- Advise team and client on tools and techniques to improved existing business processes.
+
+- Serve as the key participant in ongoing strategic planning, workforce analysis, resource allocation and performance measurement
+
+efforts.
+
+- Utilized 3.0 years of SAP R/3 experience as FICO Functional Consultant with three full project life cycle implementation and post live production support.
+
+- Identity and document SAP business requirement.
+
+- Organize business requirement gathering workshops with various business functional users.
+
+- Lead team through structured business functional questionnaires.
+
+- Understand the existing business processes and identify and document the requirements in the wake of new implementation.
+- Work with implementation team to break down business processes, Identifies and configures the SAP settings.
+
+- Check baseline configuration and testing of the functionality of the system.
+
+- Suggest changes to the baseline configuration if necessary after testing.
+
+- Collaborate with team to resolve all open issues and analyze for proper system configuration.
+
+- Support daily, monthly and yearly reporting and closing activities.
+
+- Gained experience in Data Warehousing, Database design, Data modeling and Database triggers.
+
+EDUCATION
+---------
+
+Associate of Applied Science: Health Care Management Howard Community College
+
+Bachelor of Arts: Information Technology University Of Maryland University College
+
+Additional Information
+
+AREAS OF EXPERTISE
+
+- Expertise in tactical and strategic solutions such as relational and multi-dimensional data marts, which take rapid advantage of OLAP and data mining technology.
+
+- Multi-dimensional data modeling, design, sizing, development, implementation, and rollout in multi-platform environments utilizing DB2, SQL Server, and Oracle database technologies.
+
+- Strong experience in analyzing source systems and business requirements.
+
+- Identifying and documenting business rules and design.
+
+- Strong experience as BI Developer in developing/modifying repositories and reports using OBIEE/Siebel Analytics.
+- Good experience in creating RFT Templet.
+
+- Good understanding of functional specs and converting them into technical specs.
+
+- Strong experience in Metadata Modeling at all three layers (Physical, Business Model and Presentation) using the OBI Administration Tool.
+
+- Strong experience in Business Model development with Dimensions, Hierarchies, Measures, Aggregation Rules, Time Series.
+
+- Good experience in creating OBIEE Reports & Interactive Dashboards with prompts.
+
+- Good experience in setting up Object level and data level security. Configured OBIEE Actively. ENABLING TECHNOLOGIES.
+- Applications / Modules: OBIEE 10g/11g, BI Publisher 10g/11g, EBS Financial.
+
+- Languages: PL/SQL,SQL, HTML, XML.
+
+- Methodologies: Oracle AIM, SDLC, Agile.
+
+- Operating Systems: MS Windows, UNIX.
+
+- Software: Microsoft Office Suite, including MS Project, XML, Web Services.
+
+- Databases / Tools: Oracle SQL Developer, Toad, Informatica Power Center, ODI, Erwin, SSIS, Apex.
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

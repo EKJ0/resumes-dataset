@@ -1,0 +1,171 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+ACCOMPLISHMENTS
+
+AWARDS
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+CERTIFICATIONS
+--------------
+
+ADDITIONAL INFORMATION
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+- Close to 9 years of experience as ETL/EDW/BI Developer and Lead.
+
+- Strong SQL & PL/SQL skill.
+
+- Profound knowledge of Query performance tuning techniques and efficient database design & data modeling.
+
+- Have knowledge of development and testing in Teradata, UNIX, Oracle, Informatica, Business Objects, Perl, Java and Autosys.
+
+- Teradata Certified Technical Specialist.
+
+- Good analytical and problem solving skills and good communication skills.
+
+- Successful track record of efficiency & achievement in all assignments; consistently progressed to positions of increasing responsibility.
+
+- Motivated to learn new concepts and technologies.
+
+- Have domain experience in Manufacturing, Logistics, Entertainment and hospitality.
+
+- Teradata trainer for North America region.
+
+- Teradata ¢ Data Warehousing
+
+- = Informatica ® Eb
+
+- SyncSort ¢ Business Intelligence
+- Oracle ¢ Reporting
+
+- UNIX e Advance SQL
+
+- Core JAVA ¢ Performance Tuning
+
+- AWK, e Dimension Modeling
+
+- Business Objects ¢ Strong analytical skills
+
+- Big Data, Hadoop
+
+- Successfully trained around 50 employees on Teradata 14. "Excellent" rating for the training provided.
+
+- Automated SCD Type 1, 2 script generation that helped in reducing development effort by 75%. Published as white paper for the organization.
+
+- Introduced design patterns to achieve Push down optimization in ETLs.
+
+- Served as a leader of Teradata Coding standards and Query optimization team.
+
+- Teradata Certified Technical Specialist.
+
+- Third Prize in Mobile Application Development Competition
+- Infosys Star Award 2012
+- FedEx On the Spot Award 2014
+
+BIVETL LEAD 02/2016 to CURRENT Marsh & Mclennan Companies, Inc. | Walnut Creek, CA
+
+- IHG has around 20 % booking revenue coming via reservation offices. The project's completion is dependent on successfully bringing all call related data in the warehouse.
+
+- Working as ETL and BI lead for the CRO projects (Call Reservation offices)
+
+- 6 different aggregates were created in EDW to support call, agent, Hotel and revenue performance reporting.
+
+- Currently the direction from the client is to move towards big data. Ingesting all call data files into HDFS and creating HIVE tables. Currently, working on the design.
+
+ETO TECHNICAL LEAD 11/2014 to 01/2016 Worldgroup Careers Mwt | Detroit, US-MI
+
+- The project aimed at providing data from the following Disney Parks and Resorts lines of business transaction systems in a data mart for reporting and analytics purposes for Analytics and Sales Finance team.
+
+- Understand the business requirement and work efficiently to deliver the tasks on time.
+
+- Work closely with the Up-stream Business analysts to understand data source and nature of data, how it is being captured and store in source systems. Work with Data Modeler to understand the Logical and Physical data models and set the rules, define any transformations or derivations that need to be performed to capture on this incoming information and help store in Data Warehouse, built over Teradata, along with capturing the history and maintain versions to help business users in their analysis.
+
+- Develop the objects; define logic for Extraction Transformation Load (ETL) process, whether being Teradata objects like (Views, Queries) and Informatica Mappings.
+
+- Preparation of the various documents like High Level Analysis and Approach document, High Level Design Document, Detailed Design Document, System test plan and test procedure document.
+
+- Extract data from different source systems (Oracle, Teradata, XML, Flat file) move them into the Warehouse.
+
+- Walk-through with the end business users /reporting teams after development to help them understand how data is being captured and how it can be queried for different reports and at what grain for different reporting needs.
+
+- Converted 16 Informatica Workflows (~ 750 mappings) to run using the ETL framework that follows the new reference Architecture guidelines. No change in the SLA.
+
+TEQADATA TECHNICAL SPECIALIST 02/2014 to 10/2017 Syntel Inc (Client FedEx) | City, STATE
+
+- Lead Teradata/ETL projects for Subsidiary and Buyouts data integration in FedEx EDW.
+
+- Performance tuning of legacy ETLs.
+
+- Automation of data ingestion error restart process.
+
+- Worked as Techno functional lead, attended Requirement gathering sessions and meetings.
+- Prepared Source to Target mapping documents.
+
+TEOHNOLOGY LEAD 08/2008 to 01/2014 Infosys Ltd (Client Apple) | City, STATE
+
+- Played major role in migration of Apple iTunes reporting from legacy systems (Oracle) to Enterprise Data warehouse (Teradata).
+
+- Lead the ETL projects in the Sales and Finance area.
+
+- Worked as BI lead for campaign management.
+
+- Gather and review requirements with Business users and provide robust & efficient BI solutions.
+
+- Understand the data and coordinate with upstream teams to induct data to EDW system (using in-house ETL framework) for business reporting.
+
+- Design, develop and test ETL and database models as per business requirements by applying performance optimization techniques.
+
+- Automation of data processing using Unix shell scripting & Autosys.
+
+- Design and provide architecture for dashboard reporting solutions by coordinating with UX designers & UI developers.
+
+- Lead the technical team of both database & UI developers and coordinate with team to ensure timely & quality delivery.
+
+- Help finance and operations customers group with ad hoc reporting solutions.
+
+- Implement enhancements for existing applications.
+
+- Provide warranty support for developed applications.
+
+Master of Science | Information and Communication Technology 2008
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, Gujarat
+
+- Applied Statistics
+
+- Information Security
+
+- Computer Graphics
+
+- Algorithms
+
+- Graph Theory
+
+- Database
+
+- Teradata 12 Basics (TEO-121)
+- Teradata 12 SQL (TEO-122)
+- Teradata 12 Physical Design and Implementation (TEO-123)
+
+- Work Permit - H1B Visa
+
+- Citizenship - India
+
+e« Gender - Male
+
+- Linkedin Profile - https:/Awww.linkedin.com/in/Jessica-Claire-a2a06367/
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

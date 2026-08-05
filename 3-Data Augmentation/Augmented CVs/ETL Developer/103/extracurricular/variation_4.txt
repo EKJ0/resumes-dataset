@@ -1,0 +1,225 @@
+SKILLS
+------
+
+Use Cases
+
+Defect tracking
+
+Data formatting
+
+Data validation
+
+Data profiling
+
+Activity diagrams
+
+Data analysis
+
+Business needs analysis Technical Writing Software Testing Life Cycle (STLC)
+
+Technical Analysis
+
+EDUCATION
+---------
+
+Northern India Engineering College
+Lucknow, India + 05/2009
+
+Bachelor of Science:
+Information Technology
+
+Coursework in Data Structures and Algorithms, Design and Analysis of Algorithms, Internet Web
+Programming, Software Engineering and Artificial Intelligence
+
+Minored in Operating Systems (Unix Programming), Computer Networks , Simulation and Modelling
+
+Literary and Hospitality Head of Abhyuday College Committee in year of
+2008-2009
+
+Key member of organizing committee of annual fest that include Sports, Literary and cultural in year
+of 2007-2008
+
+Elected as school house Captain of Team Peace
+
+CERTIFICATIONS
+--------------
+
+Oracle OCA Certification, Tata Consultancy Services -
+2012
+
+Lean Six Sigma Green Belt, Tata Consultancy Services -
+2015
+
+Basic Agile Awareness on Teams and Scrums, Tata
+Consultancy Services -2016 Digital : BigData and Hadoop Ecosystems_Foundation, Tata Consultancy Services
+- 2016
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Business and data analyst with 11+ years of experience across diverse industries.
+Expertise in analysis and testing of business requirements to drive deployment of
+applications, business processes and system solutions. Highly analytical and detailed with
+documented track record in full software development life cycle (SDLC) methodologies and Agile techniques. Detail-focused Data Analyst with knowledge in data warehousing,
+process validation and business needs analysis. Proven ability to understand customer requirements and translate into actionable project plans. Dedicated and hard-working
+with passion for Big Data.
+
+ACCOMPLISHMENTS
+
+- | worked in two of the major projects for my client GE Treasury Notional/MTM Walk Reporting Solution & Third Party Debt to significantly improve workflow efficiency.
+
+- Established and enforced technical standards for deliverables of ETL & BO projects.
+
+- Supporting Synchrony Bank on various Banking Applications and Data Warehouse like Connected Teller, Aperio, Signature
+
+- Awarded with the ‘On The Spot' title for as fixing a ETL data code on live trade for GE treasury project during nightly data load cycle without delaying any data distribution to downstreams
+
+- Supervised team of 6 staff members as a Techincal Lead
+
+WORK EXPERIENCE
+---------------
+
+Pearson - Senior Data Analyst
+Baltimore, MD + 03/2020 - Current
+
+- Collected data and developed detailed spreadsheets to identify trends and create revenue, profitability and expense forecasts.
+
+- Corrected any data entry error to prevent later issues such as duplication or data degradation.
+
+- Created and improved intelligence resources to facilitate consistent.
+
+- Synthesized current business intelligence data to produce reports and polished presentations, highlighting findings and recommending changes.
+
+- Evaluated consistency and importance of different business intelligence data against needs to determine optimal courses of action.
+
+- Participated in requirements meetings and data mapping sessions to understand business needs.
+
+- Transformed project data requirements into project data models.
+
+- Created various Excel documents to assist with pulling metrics data and presenting them to give concise understanding of best placement for needed resources.
+
+- Developed database objects, including tables, views and materialized views using SQL.
+
+- Compiled, evaluated and reviewed engineered data integrated system.
+
+- Researched and resolved issues regarding integrity of data flow into SQL databases.
+
+- Produced monthly Financial reports using advanced Excel spreadsheet functions, Spotfire, Microsoft Power BI.
+
+- Designed and developed schema data models.
+
+- Recommended data standardization and usage for protection of data integrity.
+
+Cognizant Technology Solutions - Informatica Developer
+Adrian, MN + 11/2010 - 10/2021
+
+- Developed mappings, workflows and tasks using Informatica.
+
+- Prepared technical design documents and specifications for Technical and Business Understanding.
+
+- Documented all software development methodologies in technical manuals to be used by Business Analyst's in future projects.
+
+- Maintained existing applications
+
+- Authored code fixes and enhancements for inclusion in future code releases and patches.
+
+- Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.
+
+- Collaborated with developers and performance engineers to enhance supportability and identify performance bottlenecks.
+
+- Used interpersonal and communication skills in all interactions, enriching team collaboration, customer relationships and on different projects.
+
+- Translated technical concepts and information into terms all parties could easily comprehend.
+
+- Worked closely with clients to establish specifications and system designs.
+
+Comcast - Junior Data Analyst
+Millington, TN + 11/2017 - 02/2020
+
+- Evaluated consistency and importance of different business intelligence data against needs to determine optimal courses of action.
+
+- Developed flowcharts and diagrams to describe and lay out logical operational steps.
+
+- Planned and conceived computer systems using information engineering, data modeling and structured analysis.
+
+- Established requirements and developed tailored methodology to bolster management decision support reporting.
+
+- Resolved malfunctions with systems and programs through troubleshooting.
+
+- Participated in internal audits regarding quality management system.
+
+- Mapped current business and operational processes and recommended areas for improvement.
+
+- Created workflow diagrams and Gantt charts to clearly demonstrate processes and timelines.
+
+- Reviewed files, records and other documents to obtain business information and key data informing responses to development requests.
+
+Cognizant Technology Solutions - Technical Lead Analyst
+Alhambra, CA + 01/2016 - 10/2017
+
+- Evaluated current processes to develop improvement plans.
+
+- Leveraged on-site observation and personal interviews to identify team and individual strengths.
+
+- Collected, organized and modeled data using [Software].
+
+- Created and optimized records management strategies to coordinate and protect information.
+
+- Evaluated diverse organizational systems to identify workflow, communication and resource utilization issues.
+
+- Compiled research data and gave professional presentations highlighting finds and recommended optimizations.
+
+- Gathered, documented and modeled data to assess business trends.
+
+- Reviewed internal systems and organized training plans to address areas in need of improvement.
+
+- Carried out day-day-day duties accurately and efficiently.
+
+Tata Consultancy Services - ETL Informatica Developer
+City, STATE + 06/2010 - 01/2016
+
+- Designed data models for complex analysis needs.
+
+- Documented and communicated database schemas using accepted notations.
+
+- Developed and delivered business information solutions.
+
+- Established and secured enterprise-wide data analytics structures.
+
+- Developed database architectural strategies at modeling, design and implementation stages to address business or industry requirements.
+
+- Collaborated with system architects, design analysts and others to understand business and industry requirements.
+
+- Actively listened to customers’ requests, confirming full understanding before addressing concerns.
+
+- Saved Thousands of dollars by implementing cost-saving initiatives that addressed long-standing problems.
+
+- Worked flexible hours; night, weekend, and holiday shifts.
+
+- Used coordination and planning skills to achieve results according to schedule.
+
+- Completed minor preventative maintenance and mechanical repairs on equipment.
+
+- Planned and installed upgrades of database management system software to enhance database performance.
+
+- Gathered, defined and refined requirements, led project design and oversaw implementation.
+
+- Managed identification, protection and use of data assets.
+
+- Demonstrated respect, friendliness and willingness to help wherever needed.
+
+Tata Consultancy Services - LiveLink Team Member
+City, STATE + 03/2010 - 10/2010
+
+- It is Web-based collaboration and document management system
+
+- Loading and maintaining the the digital documents in the system through the tool
+
+- Completed all paperwork, recognizing any discrepancies and addressing them in a timely fashion.
+
+- Developed and implemented treatment plans and modified according to presentation.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

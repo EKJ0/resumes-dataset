@@ -1,0 +1,231 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Software Test Engineer with progressive experience in ensuring Quality Data Systems. Focused experience in Business Intelligence (Database,
+ETL, OLAP, Data warehouse & Reporting) Projects. Quick learner with strong communication skills and high level of motivation
+
+- Experience in System Analysis, Development and Quality Assurance & Testing.
+
+- Conversant with all phases of Software Testing Life Cycle (STLC), Software Development Life Cycle (SDLC) in Requirement gathering, Analysis, Design, Development, Testing, Methods like Waterfall and AGILE. Skilled in creating test Traceability Matrix, Test plan, Test design, Use cases, Test cases, Test procedures, Test log, Automated Test scripts
+
+and Defect reporting.
+
+Strong in Analyzing Business Specs and Developing Test Plans, Test Scripts and Test Cases and Execution. Worked on Test tools like
+Quality Center/Test Director, ALM, Win Runner, and Quick Test Pro.
+
+Involved in Manual and Automated Testing of applications on Windows and UNIX Environment.
+
+- Experience with structured QA Methodology and QA Process to ensure the Quality Assurance Control. Extensive experience in White Box & Black Box Testing.
+
+Highly Performed Back-End testing to check the Data Integrity throughout the database.
+
+- Expertise in RDBMS backend testing for data validation and data integrity using SQL.
+
+- Experience in testing and writing SQL and PL/SQL statements.
+
+- Experience in performing GUI, functional, integration, system, regression, Performance testing and User acceptance testing in Client/ Server, and Web based applications.
+
+- Experience in ETL methodology for supporting Data Extraction, Transformations and Loading process in a corporate-wide-ETL solution using SQL BI, Datastage, Informatica Power Center 8.x and Abinito Expertise in implementing complex Business rules by creating mapping and various transformations Experience in testing database applications of RDBMS in ORACLE and MS SQL Server.
+
+- Good knowledge on Use cases, Configuration Management. Executed negative and positive test cases to test application functionality
+
+against user requirements. Worked in Medium-paced as well as Fast-paced Projects with successful completion.
+
+SKILLS
+------
+
+ETL, BI & Other Tools: SQL Server IntegrationServices (SSIS) © Testing tools: Mercury Quality Center 9.2, Test Director, HP
+
+2012, Datastage 9.1, 8.x, Informatica 7.1.4/8.x, Business Objects, ALM, Quick Test Pro (QTP), Win Runner
+
+Cognos e Languages C, C++, Java, J2EE, SQL, XML, HTML, VBScript.
+- Operating Systems: MS Windows NT/Server 2003, MS-DOS, ¢ RDBMS: Oracle8i/9i/10g/11g, DB2 and MS SQL SERVER.
+
+UNIX
+
+- GUT: Visual Basic 6.0, Developer 2003 and MSOffice
+- Project management: Rally (Agile Software)
+
+WORK EXPERIENCE
+---------------
+
+Data warehouse/ETL QA Analyst, 09/2015 - Current Butler Technical Group - Opa Locka, FL
+Environment: SQL Server Integration Services (SSIS) 2012, SQL Server Management studio, Oracle 11g, IBM Cognos Business Intelligence,
+CA Agile central, TFG Mainframe.
+Description: Currently working as an ETL Tester to test the Data Warehouse of Western Reserve Group, which is a Property & Casualty insurer
+who is upgrading their Legacy Systems to Guide wire.
+- They are using SSIS ETL to get the related data from their Data Hub to the new legacy applications and the data warehouse.
+- In this process, we are migrating different lines of insurance into Data warehouse.
+- Responsibilities: Analyzing the business requirements and technical specification documents Preparing Test plan and Test strategy documents Validating source files received from the source systems and creating test data to cover all positive and negative test scenarios Validating the load process of ETL to make sure the target tables are populated according the data mapping provided that satisfies the transformation rules.
+- Perform root cause analysis and backtracking the issue up to the source data if any discrepancy found in data Tested the entire data
+
+reconciliation process for multiple source and target systems.
+
+Wrote complex SQL scripts using joins, sub queries and correlated sub queries.
+
+Troubleshooting, resolving and escalating data related issues and validating data to improve data quality.
+
+Ensured that the mappings are correct and conducted data validation testing Integration of various data sources with Multiple Relational
+Databases like Oracle, SQL Server, MS Excel, MS Access, Flat Files and XML feeds.
+
+Test Case Management using Agile Central RALLY.
+
+Prepare defect status documents for daily review meetings.
+
+Performed Back End testing by writing SQL queries to check data integrity, row-counts and measures.
+
+Test Engineer, 04/2014 - 07/2015
+
+Aurora Flight Sciences - Cambridge
+
+Environment: Informatica 8.6.1/9.1, SAP Business Objects , Oracle 11g, SQL, PL/SQL, UNIX, Shell Scripting, Microsoft SQL Server 2008,
+Control Version System, Data Center Manager, TOAD, Quality Center 10.0, Agile, Scrum, Abinito.
+
+Description: Capital One is the Group's brand for a branchless direct bank. Its products include savings accounts, tax-free savings accounts
+(TFSAs) mortgages, retirement savings plans (RSPs), guaranteed investments (GICs), mutual funds, business accounts and no-fee daily
+checking accounts. Worked on different Projects like Home loans life cycle (measures the overall life of the loans from opening to funding),
+Money Saving Account (mapped related attributes into data warehouse), Mortgage Service Platform) conversion of Purchase loans into existing
+MSP Platform.
+
+Responsibilities:
+
+Worked in Agile Methodology consisting of daily stand up sessions, four week Sprints, Poker planning sessions and task cards.
+Involved in functional, exploratory and Integration testing.
+
+Performed Data validity testing for Business Objects reports and feeds based on client's requirement.
+
+Validated format of the reports and feeds.
+
+Written SQL queries to access the data in SQL Server and Oracle database to execute back-end testing.
+
+Worked on SQL tools like TOAD, Oracle SQL Plus, and Rapid Sql to run SQL queries to validate the data.
+
+Extensively used Informatica Designer, WorkFlow Manager, and Workflow Monitor for testing the mapping logic during functional
+Testing. Performed integrated testing, end- end testing and validated results with Business Analyst and/or customer.
+
+Transformed and loaded the data into target database using Informatica Power Center.
+
+Involved in migration of Informatica Mappings, Sessions and Workflows from development to System Test environment and execute the
+
+code in System Test Environment.
+
+Validated Universes and Reports based on requirements documents, for supporting Reports creation using BI tool SAP Business Objects.
+
+Creation of the special SQL Script files for Automation.
+
+Updated weekly status on the testing progress and other concerned issues.
+
+Involved in Formal Reviews and walk through for preparing test plans and test cases.
+Test Case Management using Quality Center.
+- Written Test Cases for ETL to compare Source and Target database systems.
+
+Developed Traceability Matrix of Business Requirements mapped to Test Scripts to ensure any Change Control in requirements leads to
+
+test case update.
+Conducted regression testing on the application under test.
+
+Data Warehouse QA. 2012 - 03/2014 Citizens Bank - City
+Environment: Datastage 9.1, Oracle 11g/10g, SQL, OLAP, PL/SQL, UNIX, Java, HTML, HP Quality Center 9.2.
+Description: Citizens Bank, through its subsidiaries, provides retail, commercial, and corporate banking services principally in the United
+States. The company operates through three segments: Community Banking; Wholesale Banking: and Wealth, Brokerage, and Retirement. Plan
+sponsors are being reminded of their fiduciary responsibility to accurately determine and evaluate their plan fees. because of the multiple
+providers involved and the various ways fees are assessed, it can sometimes be difficult to determine who is receiving how much, and for which
+services, yet that information is necessary to determine if plan costs are fair and reasonable. Expense Project is based on calculating expenses
+over maintaining different retirement plans. It involves calculation of different Itemized, participant based and Asset based fees calculation and
+their distribution over the different retirement plans (FTE, FTE-Related, and Non-FTE).
+Responsibilities:
+
+- Involved in Test Requirement Analysis using Technical & Functional Specification documents. Participated in Business Walkthroughs to understand the Business functionality and its impact.
+
+Coordinated system test activities and necessities with business, development & pre-production groups.
+
+Prepared Test Plan, Test Cases based on BRD and Data Architecture Design for process and data testing.
+Developed complex test scripts / SQLs to perform data validations.
+
+Conducted test plan and test case reviews with project team and users.
+
+Supported the code migration from System test to Production environment during deployment process.
+
+Performed data analysis to understand the data transformation from source to target.
+
+- Worked with software testing methodologies with all phases and stages of testing desired Functional, System, Integration, Regression, Data Validation, User Acceptance and Performance testing.
+
+Developed Traceability Matrix to match requirements.
+
+Participated in System specification and Design sessions.
+
+Reviewed System Specification and Design Documents.
+
+- Prepared various documents like Validation Rules and Mapping Document. Documented Use Cases and Test Cases in Quality Center.
+
+Configured various SQL queries for validating Customer Profile and COPT Migration.
+Automated Query Validation using QA Framework.
+
+Created Stored Procedures to support QA Framework.
+
+- Executed Test Cases and Validated Migration using the SQL queries.
+
+Worked with Data warehouse developers who extensively used Informatica, ETL tool to design mappings to move data from source to
+target database-using Stages to understand the functionality.
+Used HP Quality Center for defect tracking and versioning documents.- | Created ETL test data for all ETL mapping rules to test the
+functionality of the Mappings
+- Tested the ETL Workflows and other ETL Processes (Data Warehouse Testing) Worked with workflow manager in scheduling workflows, worklets and tasks.
+- Casual Analysis and Reporting of the Defects using Quality Center and Tracking defects through the closure. Analyzed the defects found during all the phases of testing and proposed Defect Prevention plans.
+
+Prepared defect status documents for daily review meetings.
+
+Software Test Engineer, 05/2010 - 11/2011 Emblem Health - City
+Environment: Datastage 8.5, Oracle 10g, SQL, OLAP, PL/SQL, UNIX, Java, HTML, XML, Windows, DB2.HP Quality Center
+9.1,Microstrategy,FTP.
+Description: EmblemHealth, Inc., through its companies Group Health Incorporated (GHI) and HIP Health Plan of New York (HIP) provides
+affordable. quality health care coverage and administrative services to approximately 2.8 million people. Groups and individuals can choose
+from a variety of PPO, EPO and HMO programs as well as prescription drug, dental and vision plans. The project goal is to create data mart for
+analysis of current information on various Health Plans & doctors listed under these plans.
+Responsibilities:
+
+- Analyzed business requirements, system requirements, data mapping requirement specifications, and responsible for documenting
+
+functional requirements and supplementary requirements in Quality Center.
+
+Involved in developing detailed test plan, test cases and test scripts using Quality Center for Functional and Regression Testing.
+Designed and developed UNIX shell scripts as part of the ETL process to automate the process of loading, pulling the data for testing ETL
+
+loads.- | Written several shell scripts using UNIX Korn shell for file transfers, error log creations and log file cleanup process.
+
+Executing test scripts to verify actual results against expected results by using Datatsgae for different source validations.
+
+Involved in Data mapping specifications to create and execute detailed system test plans. The data mapping specifies what data will be
+extracted from an internal data warehouse, transformed and sent to an external entity. - Involved in Development, Unit Testing, White
+box, Integration, Regression and Performance Tuning
+
+- Tested Complex ETL Mappings and Sessions based on business user requirements and business rules to load data from source flat files and RDBMS tables to target tables.
+
+Created the test environment for Staging area, loading the Staging area with data from multiple sources.
+
+Extraction of test data from tables and loading of data into SQL tables.- | Created ETL test data for all ETL mapping rules to test the
+functionality of the Mappings
+
+- Tested the ETL Workflows and other ETL Processes (Data Warehouse Testing)
+
+- Written several complex SQL queries for validating/verifying the business rules for Data.
+
+- Worked with complex stored procedures and functions as per the requirements.
+
+- Experienced in testing Mappings, Mapplets and Complex Transformations using Informatica Designer.
+- Worked with workflow manager in scheduling workflows, worklets and tasks.
+
+Worked with Workflow monitor in order to monitor and troubleshoot the sessions.
+
+Responsible for Data mapping testing by writing complex SQL Queries using Query Studio
+- Experience in creating UNIX scripts for file transfer and file manipulation. Worked with Data Extraction, Transformation and Loading (ETL). Worked with business team to test the reports developed in OLAP Tested whether the reports developed in OLAP are as per company standards. Used Quality Center to track and report system defects
+
+Involved in raising bugs and bug tracking analysis to resolve issues.
+
+EDUCATION
+---------
+
+Bachelor of Science: Arizona State University - Hyderabad

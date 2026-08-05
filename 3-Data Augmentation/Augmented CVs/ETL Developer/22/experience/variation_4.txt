@@ -1,0 +1,222 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+ACCOMPLISHMENTS
+
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+ADDITIONAL INFORMATION
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+- Certifications:.
+
+Expertise in ETL design, development, implementation and Testing. Solid understanding of ETL design
+principles and good practical knowledge of performing ETL design processes using Microsoft SSIS (Business
+Intelligence Development Studio) and Informatica Powercenter. Experience in all phases of development
+including Extraction, Transformation, and Loading (ETL) data from various sources into Data Warehouses
+and Data Marts using Informatica Power Center (Repository Manager, Designer, Server Manager, Workflow
+Manager, and Workflow Monitor). Experience in writing SQL queries and PL/SQL (Stored Procedures,
+Functions and Triggers). Experience in Performance Tuning at various levels such as Source, Target,
+Mapping, Session, System and Partitioning. Experience in Agile oriented software projects. Experience of
+working with reporting tools such as SSRS, Microstrategy, Business Objects, SAS Thorough understanding
+and involvement in SDLC which includes requirement gathering, designing, implementing, warranty support
+and testing. Experience of preparing Blueprints, HLDs, LLDs, Test Cases etc. Experience with UNIX, VB Script
+and Teradata BTEQ scripting to support troubleshooting and data analysis. Experience of working with
+databases like SQL Server, Oracle, Teradata, Greenplum Have been using tool called JIRA to track the
+progress of agile project. Working knowledge on Mainframe, Java, Python Experience with Hadoop (HDFS,
+SPARK,.SQOOP, HIVE & PIG) Participated in various successful pre-sales and RFP activities and contributed
+to various technical forums. Strong co-ordination skills that involve interaction with business users,
+understanding the business requirements and converting them to technical specifications to be used by the
+development team while working at onsite location. Recognized by associates for quality of data, alternative
+solutions, and confident, accurate decision making. Resourceful, creative problem-solver with proven aptitude
+to analyze and translate complex customer requirements and business problems and design/implement
+innovative custom solutions. Excellent team management, leadership, communication and interpersonal skills.
+Experience in Healthcare, Insurance and Finance domains. Managed small to medium size teams and have
+delivered many complex projects successfully. Good knowledge on Scheduling tools like Autosys, control M
+etc.
+
+- Hadoop
+- PIG, HIVE, HDFS, SQOOP. SPARK, PYTHON
+- ETL Tools
+
+- MS SQL Server Integration Service 2005/2008, Informatica Powercenter 8.x/9.x
+
+- Reporting Tools
+
+- MSSSRS, Microstrategy, Business Objects 4.1, SAS Enterprise Guide
+
+- Tools & Utilities
+
+- Oracle Clients(TOAD, etc.), Visual SourceSafe, Win SCP, Putty, SVN, HP Quality center , Autosys scheduler, JIRA
+
+- Databases
+
+- MS Access, MS SQL Server 2005/2008, Teradata 12, DB2, Oracle
+
+- Languages
+
+- TSQL, Teradata BTEQ Scripting, Unix shell scripting, VB Script, Java
+
+- Graphics
+
+- MS-Visio 2007, MS PowerPoint.
+
+- Metadata Tool:
+
+- Metacenter (DAG), IBM IIS Workbench SQL server business intelligence development studio, SQL server management studio, Informatica Powercenter client, Teradata SQL Assistant, Microsoft Visual Studio, Win SQL
+
+- Operating Environment
+
+- MS-DOS, Windows 98/2000/XP/7/8, Windows
+
+Server 2003/2008,
+- Linux
+SENIOR ETL DEVELOPER/HADOOP DEVELOPER 03/2015 to 01/1
+
+Burlington Coat Factory Corporation
+
+- My roles and responsibilities include:- Gather data to analyze, design, develop, troubleshoot and implement business intelligence applications using various ETL (Extract, Transform & Load) tools and databases.
+
+- Responsible for partnering with requirements team to understand expected functional and non- functional behavior, and to verify that proposed solution design meets these requirements.
+
+- Gather and understand requirements from business partners and convert them into low level design and technical specifications.
+
+- Create unit test plans, system test plans, regression test plans and integrated test plans and conduct testing in different environments for various business intelligence based applications.
+
+- Facilitate/lead reviews (walkthroughs) of technical specifications and program code with other members of the technical team.
+
+- Prepare estimations and schedule of business intelligence projects.
+
+- Implementation of BIG Data for a project using Hadoop Working closely with the Vendor team to understand the behavior of source data and parse the XML files accordingly using Hadoop and load them into HIVE for data analytics.
+
+- Implementation of ETL solutions and provide support to the existing active applications.
+
+- Manage offshore team - Analyze and share the work with developers at offshore.
+
+- Review their deliverables and provide updates to the client on a daily basis in the agile SCRUM meeting.
+
+- Create Proof of concepts, Documentation and knowledge transfer Tools: Powercenter 9.6, Business Objects 4.1, SAS, DB2, Oracle, Greenplum Big Data specific Tools: PIG, HIVE, SQOOP, PYTHON.
+
+SEQIOR ETL/DATABASE DEVELOPER 07/2014 to 03/2015 Cgi Group Inc.
+
+- My roles and responsibilities include:- Understanding Business requirements and translate them into Technical requirements and Data Needs.
+
+- Design, code, test, debug and document programs and ETL processes.
+
+- Evaluate user requirements for new or modified functionality and conveying the requirements to offshore team.
+
+- Conceptualizing the design and preparing Blueprints and other documentation.
+
+- Provide technical assistance to business users and monitor performance of the ETL processes.
+
+- Conducting Walkthroughs of the design with the architect and support community to obtain their sign off.
+
+- Collaborating with Project Managers to prioritize development activities and subsequently handle task allocation with available team bandwidth.
+
+- Maintaining documents for design reviews, audit reports, ETL Technical specifications, Unit test plans, Migration checklists and Schedule plans.
+
+- Tools: SQL Server, SSIS, VB Scripting, Excel Macros.
+
+SECIOR ETL DEVELOPER & METADATA ADMIN 09/2012 to 07/2014
+
+- My roles and responsibilities include-- Understanding Business requirements and translate them into Technical requirements and Data Needs.
+
+- Conveying the requirement to offshore Build Team and get the code along with Unit Test cases from build team, ensuring timely and quality delivery.
+
+- Conceptualizing the design and preparing Blueprints and other documentation.
+
+- Conducting Walkthroughs of the design with the architect and support community to obtaining their blessing.
+
+- Reporting the daily status of the project during the SCRUM standup meeting.
+
+- Designing , developing and testing the ETL processes Collaborating with Project Managers to prioritize development activities and subsequently handle task allocation with available team bandwidth.
+
+- Maintaining documents for Design reviews, audit reports, ETL Technical specifications, Unit test plans, Migration checklists and Schedule plans.
+
+- Managing a 6 member offshore team(India) Playing Subject Matter Expert role for Metacenter tool Working on a metadata management tool called IIS workbench.
+
+- Working closely with different application/business teams to onboard them into the metacenter tool.
+
+- Giving metacenter tool's Demo and trainings to the business folks.
+
+- Coordinating with the vendor Tools: Informatica Powercenter 9.1, Teradata, SQL Server, SSIS.
+
+D/CABASE DEVELOPER & LEAD 10/2011 to 09/2012 NA
+
+- My roles and responsibilities include:- Designed and proposed solutions to meet the end-to-end data flow requirements.
+
+- Co-ordinated with Onshore team to understand new/changed requirements and translated them to actionable items.
+
+- Designing, developing and testing the ETL processes using Informatica.
+
+- Managed a team of 6 Developers, helped them with Technical/logical solutions as required.
+
+- Maintained the Solution Design and System Design documents.
+
+- Conducted peer review of the design and code ensuring proper follow up of Business Requirements while adhering to quality and coding standards.
+
+- Supported the Testing team in preparing Test Scenarios, Test cases and setting up Test data.
+
+- Closely coordinated with upstream and down streams to ensure an issue free development setup.
+
+- Reported daily development status to the project managers & other stakeholders and tracking effort/ task status.
+
+- Tools: Informatica Powercenter 9.1, Teradata, Unix, SSIS Client: Healthcare Company.
+
+ET SQL DEVELOPER 10/2009 to 10/2011
+
+- My roles and responsibilities included:- Gathered customer requirements from business team and developed Functional Requirements Designed, developed and tested the SSIS packages and SQL Server Programming.
+
+- Provided solutions to ETL design.
+
+- Involved in High Level and Detail Level Design and document the same.
+
+- Worked on code debugging and validation.
+
+- Prepared Test cases for Unit System & Integration Testing Supported the System integration Test cycle by analyzing and fixing the defects along with code migration.
+
+- Performed Data Validation and code review before deployment.
+
+- Coordinated with cross vendors and business users during UAT.
+
+- Provided guidance, coaching and mentoring to the Entry Level Trainees.
+
+- Tools: Microsoft SQL Server 2008, SQL Server Business intelligent Studio 2008, Unix, Teradata.
+
+ETODEVELOPER 11/2008 to 10/2009
+
+- My roles and responsibilities included:- Participated in technical training covering various aspects of Software Development lifecycle and various software programming Application Build and Unit testing System Testing and Integration Testing Implementation and Warranty support Documentation.
+
+Bachelor of Technology 2008 Gov. Model Engineering College, Kochi, CUSAT Kerala
+
+Informatica Powercenter 8.6, Unix, Flat files, Oracle, XML Academic Qualification: Qualification Years School/
+college Address Major Field of Study
+
+El ttronics & Biomedical 66 Higher Secondary School Leaving Certificate 2001-2003 IJMHSS
+Kottiyoor, Kerala State Board Kottiyoor, Kannur, Kerala 670651,India Science & Mathematics 74
+Secondary School Leaving Certificate
+
+IJI_HSS Kottiyoor, Kerala State Board Kottiyoor 2001 Kannur, Kerala
+
+NA-136
+
+Microstrategy Certified Project Designer, Microstrategy Certified Report Developer, Powercenter Mapping
+Design, Powercenter Advanced Mapping, SQL Server
+
+- DECLARATION | hereby declare that the information provided is correct to the best of my knowledge. (Jessica Swarnnappalllil Claire)

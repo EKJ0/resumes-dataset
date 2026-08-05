@@ -1,0 +1,156 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Certified Business Intelligence/Data Analytics Consultant having 9.5+ years of professional experience in SUMMARY: complete
+Implementation of Business Intelligence(BI) & Data warehouse applications in Pharma Industry Experience in BI Dimensional
+Modeling, Building Data Mart, and Providing Enterprise BI solution. Clear conceptual insight into Data Warehousing and Business
+Intelligence solution Identify, research, and resolve technical problems. Provide quick and easy solutions to resolve project challenges
+Analyze functional requirements and transfer them to technical requirements. Prepare HLD and LLD documents. Experienced in
+ETL Informatica 9.x/10.x, Cognos 10 BI Suite, Dell Boomi,Tableau 8/9/10.x, Spotfire, UNIX Shell Scripting, Salesforce- Veeva CRM ,
+UC4 & Automic 11/12 Scheduling tool Worked on Oracle, SQL Server , Teradata databases. Trained on Hadoop Big Data & Predictive
+Analysis, HiveQL, Ambari, Map reduce, HDFS, Spark,Dell Boomi Expertise in Successful execution of several DWH\BI
+Development projects, Migration Projects and having knowledge of DWH Architecture, Data Profiling, OLTP, OLAP, ETL, Data
+Integration, Staging, Presentation Area, Star Schema, Snow Flake Schema, Data modeling, Dimensional Data modeling, FACT &
+Dimensions table Data Analysis & Data Science using data visualization tool like Tableau, Spotfire, Denodo,Cognos etc. to grasp the
+business building insights from mountains of data Having experience to lead a track of 5~8 people, helping them technical issues and
+in managing tasks Have good experience of working closely with large US/European clients as part of their team understanding and
+delivering to their expectations, Expertise in Team Management, Client Management, Professional Training & Coaching,
+Requirement Analysis, Estimation, Planning, Design, Build, Testing, Deployment Worked with Fortune Global 500 companies like
+Johnson & Johnson & Gilead Sciences Inc. Specialties - Enterprise Data Warehouse Dimensional Modeling (Ralph Kimball, Bill
+Inmon) Dash Board Reporting & Analysis Multidimensional Reporting & Data Analysis Designed Data model, OLAP, ETL &
+Reporting layer Strategy and road map for Business Intelligence Oracle Certified Associate
+
+SKILLS
+------
+- Guest services ¢ Loss prevention
+- Inventory control procedures * Cash register operations
+- Merchandising expertise ¢ Product promotions
+
+WORK EXPERIENCE
+---------------
+
+Technical Analyst / ETL & Reporting Solution Designer, 10/2015 to Present Gallagher - Buffalo, US
+- The Physician Payments Sunshine Act / EFPIA is designed to increase transparency around the financial relationships between physicians, teaching hospitals and manufacturers of drugs, medical devices and biologics.
+- Pharmaceutical industry has to disclose payments made to healthcare professionals, such as sponsorship to attend meetings, speaker fees, consultancy and advisory boards.
+- The BI Interface is required to feed 3rd Party data to Transparency Data warehouse to generate reports for further analysis by business team.
+- Carried out the following activities: Responsible for leading and managing the organizations global transparency IT system with accountability for delivering global (US, EU, ROW) HCP/O transparency reporting for entities owned by Gilead Sciences Inc. in full compliance with all federal, state and global disclosure laws Work closely with Legal, Compliance, Commercial, Science Units, Medical Affairs and other business areas to ensure adherence with all global regulations, including the oversight and implementation of capabilities (processes and technology) to comply with such regulations, including data stewardship, risk management, quality assurance and control, reporting and analytics Assist in the development and implementation of relevant data metrics to monitor compliance in use of coding, application functionality, and overall data quality.
+- Serve as a team expert and coordinate transparency efforts, specific to systems IMS, EBS, Concur, and Salesforce across US and Global touch points and work towards implementing appropriate process improvements where appropriate.
+
+Lead and support the team’s involvement with initiatives such issues debug for the transparency HCP/HCO data in Tableau
+dashboards Planning data model and system interface to build reporting environment Third party coordination for
+troubleshooting beyond scope of immediate interface change Report interface failures and perform root cause analysis Creating
+and maintaining "Know Error DataBase(KEDB)”.
+
+Reporting Solution Designer & Developer, 11/2014 to 09/2015 GILEAD SCIENCES INC - City, US
+- Gilead is the leading pharmaceutical company in the world.
+- Pharmacovigilance also known as drug safety is the pharmacovigilance science relating to collection, detection, assessment, monitoring & prevention of adverse effects with pharmaceutical products. All this information stored in Oracle Argus Safety Database.
+
+- Argus Safety Cognos Aggregate Reporting has powerful system reporting capabilities that enable business users to monitor product safety profiles, case progress, and company productivity during the case handling process.
+
+- Carried out the following activities: Applying scientific & computing skills to retrieve data & develop/prepare outputs from Argus Safety database to support the analysis of drug safety related tasks, especially in the area of regulatory submission Understand & translating data retrieval need into query request, creating query criteria, retrieving data from Oracle Safety Database & providing results to Drug Safety business users.
+
+Created complex SQL query, stored procedure, functions based on business logic Improved performance of data retrieval by
+rewriting the SOL query.
+
+Using BI tool IBM Cognos Report Studio, Framework Packages to create complex report Perform QC check , identify errors/
+inconsistencies in outputs & resolve them or initiate resolution Lead the team, planned track level activities and coordinated
+cross-track dependencies throughout the implementation life cycle Requirement analysis, Design & Development, Validation
+Support, and Deployment & Post Go-Live Support.
+
+Subject Matter Expertise on Argus Insight and Cognos aggregate reporting in drug safety domain, delivered End User Training,
+
+mentored entry level developers.
+
+BI/DWH Module Designer & Developer, Module Lead, Planning, Technical Analyst etc, 05/2013 to 10/2014
+GILEAD SCIENCES INC - City, US
+- Gilead decided in 2013 to build a Global Data Warehouse (GDW) with following strategic goals Maintain its leading position as a World-Class medical drugs manufacturer.
+- Managing total customer relationship to retain its position in health-care industry and grow market share in various franchise HCV/HIV/Oncology. Fact-based, transparent and data driven decision-making.
+- Create a central repository of vital information in medical drugs sales, for analysis, re-use and decision support.
+- Development and deployment of Decision Support Solutions for each of the identified subject area, Requirements gathering System Design Building the local data mart or local data warehouse ETL using Informatica Developing of analytical reports using Cognos ,Microstrategy, Tableau Developing static and parameter driven reports using Oracle Reports and Crystal Reports.
+- Developing functional dashboards Metrics Manager Building Global Data Warehouse (GDW) by integrating the Local Data Marts/Local Data Warehouses with the existing GDW Development of Enterprise Analytical reports and executive dashboards.
+
+BI Technical Analyst, 10/2008 to 04/2013 JOHNSON AND JOHNSON SERVICES INC - City, STATE
+
+- Life Scan Base Business Support Project involves L3 support /Enhancements which includes change requests and ad hoc requests for the applications areas such as Sales & Marketing, Finance, and Customer Services Reports in the following technology areas Informatica,Cognos, SQL/PLSQL, and SQL Server Analysis Services.
+
+- TCS was providing L3 production support for the last 6 years.
+
+- Carried out the following activities: Attending business meetings for requirement gathering.
+
+- Conducting feasibility study and Proof of Concept Creating Technical docs and Functional specifications.
+
+- Approving the documents through the Subject Matter Expert.
+
+- Planning data model and system architecture for Enterprise Data Warehouse (EDW).
+
+- Changes in Informatica ETL code for new enhancements.
+
+- Implementing the data model through Cognos Framework Manager Developing packages for Adhoc reporting through Query Studio.
+
+- Creating report specifications.
+
+- Development of new reports through Cognos Report Studio.
+
+- Cognos Cube development through Powerplay Transformer Unit testing, System Integration testing of the reports and cubes.
+
+- Assisting in migration of Cognos Reports and Cubes to the Production environment.
+
+- Gathering details of business logic changes in existing reports and cubes Impact analysis of the requested changes from business for existing reports and cubes.
+
+- Implementing business logic changes in existing Cognos Cubes and Reports as per the requests from business.
+
+- Validation and testing of the implemented changes.
+
+- Assisting production move of the implemented changes.
+
+- Execution of Adhoc requests according to the requirements.
+
+- Carrying out automation for cost optimization and improved speed to value Resolving performance, formatting and data related issues for reports and cubes.
+
+- Validation of reports with respect to the cubes.
+
+- Creating Cognos jobs for scheduling Report refresh.
+
+- Assisting in migration of existing Cognos Reports and Cubes to the latest available Cognos 10 Version.
+
+- Maintaining tracker system to estimate effort and manage the CR and Adhoc request status.
+
+- Reporting request status and weekly utilization through Weekly/Monthly status reports and Business intelligence dashboards.
+
+SKILLS
+------
+
+Go-Live, ad, automation, BI, Business intelligence, c, Cognos, Concept, CRM, Crystal Reports, Customer Services, data warehouse,
+Data Warehouses, databases, DataBase, decision-making, Decision Support, Dell, ETL, feasibility study, Finance, financial,
+Functional, IBM, IMS, Informatica, ITIL, Legal, logic, Managing, market, Marketing, meetings, Microstrategy, migration, Enterprise,
+OLAP, Oncology, optimization, Oracle, Developer, PLSQL, PL/SQL, Powerplay, processes, coding, progress, speaker, quality, quality
+assurance, reporting, Requirement, Requirements gathering, risk management, Safety, Sales, scheduling, scientific, Six Sigma, SQL,
+SQL Server, strategic, System Design, system architecture, System Integration, Tableau 8, Tableau, teaching, User Training, Teradata,
+Transformer, translating, troubleshooting, Unix shell scripting, Validation
+
+EDUCATION
+---------
+
+IBM Certified BI Designer/ Developer ITIL Certified Six Sigma certified Dell Boomi Certified TECHNICAL Informatica Power
+Center 9/10.x SKILLS: Cognos 10.x BI Suite Tableau 8/9/10.x Oracle 11g/12c, Teradata,SQL Server, databases, Salesforce Veeva
+CRM system Unix shell scripting, Dell Boomi Cloud Integration tool PROFESSIONAL Oracle Certified Associate-PL/SQL
+Developer CERTIFICATIONS IBM BI Data Warehouse Developer IBM Certified Developer BI OLAP models IBM Certified
+Developer Cognos 10 BI Metadata models ITIL V3 Foundation Certified Six Sigma Green Belt in Process Excellence Dell Boomi
+Associate Developer
+
+WEST BENGAL UNIVERSITY OF TECHNOLOGY
+
+Bachelor of Technology: Electronics & Computer Engineering, 2008 Electronics & Computer Engineering
+
+Additional Information
+
+- ACHIEVEMENTS Awarded with On the Spot Award (2012,2015,2017) Awarded with Star Of the Quarter (2014) for successful Implementation of process improvement project & completion of Six Sigma Green Belt Champion Best BI Team Award (2013) for excellent team playing for Optimization and Sustainable Business Practices for Gilead BI(DWH support project
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

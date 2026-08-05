@@ -1,0 +1,46 @@
+ROBERT SMITH
+
+Sr. ETL Developer
+info@qwikresume.com | https://Qwikresume.com
+
+Over 8 years of experience in the IT industry with a strong background in software development and 7+ years of experience in Development, Architecture and
+Testing Business Intelligence solutions in data warehouse and decision support systems Using ETL tool Informatica Powercenter [] and Power Exchange (PWX) and
+also some knowledge on DT Studio. Knowledge of IDQ and IDE. Good experience in shell scripts for Informatica pre & post session operations.
+
+SEPTEMBER 2007 - OCTOBER 2008
+
+200
+
+ETL DEVELOPER - ABC CORPORATION Responsibilities Interacted with business representatives for requirement
+analysis and to define business and functional specifications Dedivered responabilities as Analyst and Programmer including Interaction with
+Business Users to Gathering requirements, Created Technical Specifications, Design, Deveopment and Maintenance.
+Analyzed source date, extracted, transformed, and loaded data In to target data warehouse based on the requirement specification using Informatica
+Powercenter.
+Developed data Mappings between source and target systems using Mapping Designer.
+Invelved in complete SDLC including analysis design, development, implementation, QA and maintenance of various software applications
+Worked with various heterogeneous sources such as Oraclel0g, Teradata and Flat Files to load the data into the target Oracle data warehouse.
+Developed complex Informatica mappings using Filter, Sorter, Aggregator, Look up, stored procedure, Joiner, Router transformations for populating target table
+
+5 - 2007
+
+ETL DEVELOPER - ABC CORPORATION
+
+03/2011 to 06/2012 Summary SEW Infrastructure Ltd,, has diversified into construction like lined irrigation canal, dams etc.
+
+has implemented Oracle & business solutions.
+
+They were maintaining their financial data in Tally over the years,
+
+The project involved extracting the data from embedded database and loading it into Oracle © Business suite.
+
+Roles & Responsibilities Complex Business Rules are implemented to identify error records Developing ETL transformations Writing Procedures, Functions
+and Queries as per requirement.
+
+Customer interaction for requirement analysis for designing reports Using SSRS Application development required by Customer for interfacing with scripts in
+
+- Ths Free Resume Template # the copyright of Qwikres wme.com. Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

@@ -1,0 +1,67 @@
+ETL Developer Phone: (123) 456 78 99
+
+Email: Info@qwikresurne.com
+
+ROBERT SMITH emmy)
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+Over 8+ years of experience in Information Technology with a strong back ground in Analyzing,
+
+Designing, Developing, Testing, and Implementing of Data Warehouse development in various domains such as Banking, Insurance, Health Care, Telecom and Wireless.
+
+SKILLS
+------
+
+Microsoft SQL Server 2005, 2008, 2012, Oracle 10G and Oracle 11, SQL Server BIDS, Microsoft
+Visual Studio 2012, Team Foundation Server, Microsoft Visio, Toad for Oracle, Toad for Data
+Modeler, Peoplesoft CRM.
+
+WORK EXPERIENCE
+---------------
+
+ETL Developer
+ABC Corporation - january 2010 - February 2011
+
+Involved In understanding the business requirernents and translate them to technical solutions.
+
+Worked for preparing design documents and interacted with the data modelers to understand the data model and design.
+
+Created new mappings and updating old mappings according to changes in Business logic.
+Involved in migrating project from UAT to Production,
+
+Setting up of the local Informatica environment on the client machines which included the connectivity and access to the data sources, taking the necessary steps to set up the
+Relational Connectivity variables in the Workflow manager etc.
+
+Created XML targets based on various mon XML sources.
+
+Generated sequence numbers using Informatica logic without using the sequence generator.
+
+ETL Developer
+ABC Corporation - March 2006 - Septernber 2008
+
+Responsibilities Designed the mappings between sources (external files and databases) to operational staging targets.
+
+Experience with high volurne datasets frorn sources like DB2, Oracle and Flat Files,
+
+Loaded data from various sources using different transformations like Source Qualifier, Joiner,
+Aggregators, Connected & Unconnected lookups, Filters, Router, Expression, Rank Union, and
+Update Strategy & Sequence Generator.
+
+Experience in writing PL/SQL scripts, Stored Procedures and functions and debugging thern.
+Responsible for Migration of Stored Procedures into Informatica Mappings for improving performance issue,
+
+Involved in Performance Tuning of application by identifying bottlenecks in SQL, thus providing Inputs to the application prograrnmer, thereby correcting and implementing the
+right components.
+
+Created Session Task, Ernail and Workflow to execute the mappings,
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

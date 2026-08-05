@@ -1,0 +1,264 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+ADDITIONAL INFORMATION
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+PROFILE SUMMARY SQL Developer with 5+ years of hands-on experience in developing database applications and BI processes and information systems.
+
+Worked with Azure Data Lake Store to capture data of any size, type, and ingestion speed in
+one single place for different operations
+
+Can write efficient queries and handle performance issues with ease.
+
+Experience in designing DataMart with dimension and fact modelling.
+
+Experience in extracting data from discrete sources
+
+Proficient in implementing all transformations available on the SSIS toolbox.
+
+Excellent knowledge of using variables and expressions in packages.
+
+Experienced in creating master and child packages, package configurations and logging.
+Experienced in SSIS package Auditing.
+Experienced in SSIS package deployment and Scheduling
+
+Good at SQL Schema Design, Database Schema Design, Stored procedures, function and T-SQL.
+
+Great Ability to prototype visualizations, scorecards, KPI using Power BI
+
+SKILLS & OTHER
+
+SKILLS
+------
+
+ETL & BI DEVELOPER Children's Place | Baton Rouge, LA
+
+Import data from different data source to create Power BI reports and dashboards
+Involved in creating dynamic well-organized, accurate and insightful Power BI reports/dashboards to
+
+.
+
+support strategic decisions
+
+MS Access Database, PL/SQL, SQL Stored Procedures, Table Scalar Functions, Ad-hoc T- SQL Queries, SQL SSIS packages, SSAS
+Cubes, EXPLAIN PLAN, SQL
+
+TRACE
+
+Operating Systems: Windows 10/8/7/XP, Linux ETL Tools: SQL server business development studio (BIDS), DTS, SQL server Management
+Studio (SSMS), SQL server integration services (SSIS), Azure Data Factory, Databricks.
+Analysis and reporting services: SSRS, SSAS.
+Microsoft Power BI, MS Excel Querying/Reporting: T-SQL, PostgreSQL, MongoDB, Azure SQL
+
+SQL server Tools: SQL server management studio, Database engine, Import and export wizard
+
+Data Modeling Tools: Microsoft Visio
+
+Data Modeling: Star Schema Modeling, FACT, Dimensions Tables, Physical and Logical Data Modeling
+
+Architecture: Relational DBMS, Client-server architecture, OLTP, OLAP
+
+Version Control: GIT, SVN, TFS, JIRA
+
+Cloud Platforms: Azure
+
+08/2021 to CURRENT
+
+Worked on end-to-end project in Azure Environment by pulling the source data from SQL Server and
+storing the data in Azure SQL Server using Blob Storage and creating reports using Power BI Desktop
+Expertise in data transformations such as adding calculated columns, manage relationships, create
+different measures, remove rows, replace values, split column, Date & Time Column, etc
+
+Created different reports in Power BI Desktop and publish to Power BI online
+
+Strong knowledge in SQL Server and SSIS, SSAS, SSRS experience in data visualizations and report
+
+development with Power BI
+
+Worked on Azure Data Factory, Azure Data Lake Azure SQL Data Warehouse, Azure Functions,
+
+Databricks Worked on both On-premise and Azure SQL
+
+Worked on Data Migration from On-premise to Azure Cloud using ADF
+
+Expertise in writing complex DAX functions in Power BI and Power Pivot
+
+Automated Power Query refresh using power shell script and windows task scheduler
+
+Used various sources to pull data into Power BI such as SQL Server, SAP BW, Oracle, SQL Azure etc
+
+Worked on performance tuning and query optimization
+
+Writing complex SQL queries using joins, aggregates, set operators, window functions etc Hands-on experience in analyzing data on large data sets
+Extensive experience in Dimensional data modelling including complex entity relationships and historical
+
+data entities
+
+Implementation of data cleansing and data quality features in ETL pipelines
+
+Experience in documenting low level ETL designs Implementation of data streaming solutions
+
+Worked on Power BI desktop and power BI service to publish the reports.
+
+ET DEVELOPER Servicetitan | Glendale, AZ
+
+05/2020 to 08/2021
+
+Created ETL metadata reports using SSRS, reports include like execution times for the SSIS packages,
+
+Failure reports with error description
+
+Design and develop SSIS packages, store procedures, configuration files, tables, views, and functions;
+implement best practices to maintain optimal performance
+
+Used different Control Flow Tasks and Data flow Task for Creating SSIS Packages
+
+Used different types of Transformations for Data Conversion, Sorting and cleaning the data from
+
+different Sources into Company Format
+
+Created SSIS packages to download data from FTP sites and populating into different databases and
+
+tables
+
+Created SSIS packages to import data from MS Access, Excel to SQL 2008R2
+Optimized the query performance with modification in T-SQL queries, removing unnecessary columns,
+
+eliminating redundant and inconsistent data
+
+Effectively created and used views in SQL Server to prevent unauthorized access
+Performed tuning of databases by normalizing database, establishing necessary joins, creating useful
+
+clustered index and non-clustered indexes
+
+Developed and created the new database objects including tables, views, indexes, stored procedures
+and functions, advanced queries and also updated statistics using Query Analyzer
+
+Checked the health of the SQL Server
+
+Created Stored Procedures, triggers, cursors, tables, views, packages and other wrote SQL joins and
+
+statements for applications by using T-SQL
+
+Developed and modified triggers, packages, views, functions and stored procedures for data
+conversions, Data Mining and SQL procedures to create database objects dynamically based on user
+
+inputs
+
+Created data mapping documents for ETL process (SSIS)
+Worked on writing the insert, update and delete queries joining multiple tables to make changes in the
+
+staging tables
+
+Migrate and upgrade various Oracle versions and patches
+Utilized Power Query in Power BI to Pivot and Un-pivot the data model for data cleansing and data
+
+massaging
+
+Designed and created various forms for finance team, sales team and account managers with
+
+implementing the business logic
+
+Worked on complex data loading (implemented the batch data cleansing and data loading
+
+JUTIOR SQL DEVELOPER Syndicate Bank | City, STATE
+
+.
+
+04/2017 to 06/2019
+
+Involved in Planning, Defining and Designing data, based on business requirements and provided
+
+documentation
+
+Worked with Business Analysts in gathering requirements and translating them to technical
+
+specifications
+
+Developed Stored Procedures, User Defined Functions, Views, T-SQL Scripting for complex business
+
+logic
+
+Optimized the database by creating various clustered, non-clustered indexes and indexed views source
+
+control and ticketing systems
+
+Increased the performance necessary for statistical reporting after performance monitoring, tuning and
+
+optimizing indexes
+
+Used Joins, CTE's, correlated and non-correlated sub-queries for complex business queries involving
+multiple tables from different databases and implemented triggers and Stored Procedures and enforced
+
+business rules via checks and constraints
+
+Worked as a developer on databases like MS SQL Server 2005, MS Access Tested to optimize the Stored Procedures and Triggers to be used in production
+Maintained the client relationship by communicating the daily statuses and weekly statuses of the
+
+PROJECTS
+--------
+
+Designed and implemented the Logical and Physical model of the database using Erwin
+Created Database Objects - Tables, Indexes, Views, User defined functions, Cursors, Triggers, Stored
+
+Procedure, Constraints and Roles
+
+Worked in Enterprise Manager for job scheduling and batch queries
+
+Installed and maintained MS SQL Server 2005
+
+Monitored performance and optimized SQL queries for maximum efficiency
+
+Extracted large volumes of data from various data sources and loaded the data into target data sources
+by performing various kinds of transformations using SQL Server Integration services (SSIS)
+
+Created SSIS packages for Uploading of different formats of files (Excel, Access) and databases (SQL
+server, Flat files) into the SQL Server data warehouse using SSIS.
+
+Masters | Engineering Concordia University, Montreal, QC
+
+Ba helor of Technology Gitam University
+
+Experience in developing SSIS packages for data migration between different heterogeneous sources
+such as flat file, excel, Oracle, Sybase, DB2, MS access using SQL Server SSIS 2000/2005/2008
+R2/2012/2016 Developed and maintained SSIS packages to integrate with different type of sources
+such as SQL Servers, Oracle, flat files, and non-SQL sources. Good Knowledge of Normalization,
+Performance Tuning, Development Life Cycle source control and ticketing systems and Version Control
+tools while Design and Development of Data warehouse. Developed and maintained tables, indexes,
+stored procedures, views, triggers and other objects utilizing the latest DML and DDL syntax. Worked
+on different C# scripts to Automate SSIS packages to load the data directly to the staging data base.
+Configured Check Points, Break points, Event Handlers and Logging to the SSIS packages. Triaging
+issues and implementing solutions to restore service with minimal disruption to the customer and
+business Strong experience in building pipelines in Azure Data Factory Strong experience with Azure
+Data Lake Created new ETL packages to validate, extract, transform and load data into data
+warehouse databases, data mart databases using SSIS packages. Data Mapping Skills, Data Migration
+Techniques, Data Mining, Data handling, Scheduling and Maintaining ETL Framework for different
+processes. Strong knowledge of Data Warehousing methodologies and concepts, including star
+schemas, snowflakes, ETL processes, dimensional modeling and reporting tools. Expertise in working
+on all activities related to the development, implementation, administration and support of ETL
+processes for large-scale Data Warehouses using Data Transformation Services (DTS) and SSIS
+Strong ability in defining query for generating drill down reports, handling parameterized reports and
+creating stylish report layouts in SSRS. Designed and developed reports using SSRS, Power BI.
+Developed OLTP system (s) and involved in creating facts, dimensions, and Star Schema
+representation for the data mart. Experience in Ad-hoc reports, data driven subscription reports by
+using Report Builder. Experience in developing Dashboard Report, Parameterized Reports, linked
+reports, Sub reports by Region, Year, Quarter, Month and Week. Worked on creating Azure Data
+
+Factory for moving and transforming the data.
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis
