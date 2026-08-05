@@ -1,0 +1,148 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+CANDIDATE PROFILES — Accountant
+Folder: Accountant  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 94.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~55 (estimated from earliest date/grad year 1993, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science: Accounting & Finance, 1993 University of South Carolina - Upstate - Spartanburg, SC
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. leading, supervised, coordinated
+Resume Length: 870 words, 79 lines (~1.7 pages)
+
+CANDIDATE 2  (source file: Image_45.txt)
+----------------------------------------------------------------------
+Name: Professional Cima
+Ethnicity: Not stated in source (not inferred)
+Age: ~63 (estimated from earliest date/grad year 1985, not stated)
+Nationality: British
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 419 words, 58 lines (~0.8 pages)
+
+CANDIDATE 3  (source file: cbad080c616d4e94.txt)
+----------------------------------------------------------------------
+Name: John Doe
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, lead, oversaw
+Resume Length: 209 words, 31 lines (~0.4 pages)
+
+CANDIDATE 4  (source file: 165.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead
+Resume Length: 913 words, 84 lines (~1.8 pages)
+
+CANDIDATE 5  (source file: 2.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead, managed, initiated, drove
+Resume Length: 729 words, 56 lines (~1.5 pages)
+
+CANDIDATE 6  (source file: 134.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Spanish: English: | Negotiated: Negotiated:
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelors of Business Administration: International Business and Trade, 01/2019 Florida Atlantic University - Boca Raton, FL
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 850 words, 81 lines (~1.7 pages)
+
+CANDIDATE 7  (source file: 100.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~49 (estimated from earliest date/grad year 1999, not stated)
+Nationality: Not stated in source
+Languages: SKILLS
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: LANGUAGES
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 858 words, 93 lines (~1.7 pages)
+
+CANDIDATE 8  (source file: af38786b65238e3a.txt)
+----------------------------------------------------------------------
+Name: Tally Erps
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 161 words, 27 lines (~0.3 pages)
+
+CANDIDATE 9  (source file: 169.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, first-person tone
+Leadership Language: None detected
+Resume Length: 878 words, 71 lines (~1.8 pages)
+
+CANDIDATE 10  (source file: 109.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (9 instances) — e.g. led, managed, initiated, directed, supervised
+Resume Length: 1058 words, 100 lines (~2.1 pages)
