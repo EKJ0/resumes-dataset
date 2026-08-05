@@ -1,0 +1,45 @@
+JOSEPH HUXLEY
+
+"4938 Soma Avenue, Des Moines, lowa 50313
+515.500.1932 ¢ jhuxamyisp.com
+
+ELECTRICAL ENGINEER / EIT
+
+Solutions-oriented and analytical with history of success contributing to reliable, best-in-class Integrated Circuit
+(IC) design, sensor production, and sound quality-control procedures,
+
+Adept at readily gathering and translating complex requirements into viable solutions. Strong
+production background involving C# and proficiency with laboratory test and measurement tools,
+Cast-conscious; implement timesaving measures to optimize production. Exeel at collaborating across
+departments; coordinate with staff and managers to complete projects on time and within budget.
+Engineering and technical expertise includes...
+
+PLCs | Allen Bradley, Siemens, GE Fanuc Design: | A/Dand D/A Conversions; Circuits; Analog / Digital / Mixed-signal Design
+Methodologies: | Experimental, Numerical, Analytical Robustitication; Design for Six Sigma (DFSS)
+Tools | MATLAB, AutoCAD, Autodesk, LabVIEW, OrC AD, Wonderware, Mathematica
+
+Production: | Validation Testing; Process Autamation / Improvement; Fabrication and Simulation;
+Human-machine Interfaces (HMIs); Sensors (vibration, pressure, force, gas, and inertial)
+
+EXPERIENCE HIGHLIGHTS
+
+MALPAIS SYSTEMS, Des Moines, lowa
+Electrical Engineer, 8/2011 - Present
+Integral in the design, development, testing of vibration, pressure, force, gas, and inertial sensors,
+Create analog, digital, D/A, A/D, and mixed-signal circuit designs as well as electrical specifications
+for new system designs. Actively involved in full life design cycle, from requirement definition
+through design, prototyping, proof of concept, testing, and interface implementation; outline and
+develop validation test plans. Co-author comprehensive support documents for Fabrication,
+Integrated Circuit (IC) Design, PCB Design, and ASIC Design teams, Interface with internal
+customers and external production / mechanical engineering teams.
+Selected Contributions:
+- Saved potentially thousands in production costs by identifying strategic improvements to product life cycle during the New Product Development (NPD) process.
+- Triggered 2.3% increase in sensor reliability by developing testing validation procedures,
+- Played key role in ensuring team efforts met - and often exceeded - all financial, performance, quality, and reliability goals,
+
+Continued
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

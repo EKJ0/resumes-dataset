@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — ElectricalEngineer
+Folder: ElectricalEngineer  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: ae0523d84546efc7.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: CERTIFICATE IN B.S. ELECTRICAL LICENSED ELECTRICAL ELECTRICAL/MECHANICAL ENGINEERING ENGINEER
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 264 words, 27 lines (~0.5 pages)
+
+CANDIDATE 2  (source file: a7fdf536497675d3.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- BACHELOR'S in Business Administration - (INDEPENDENCE UNIVERSITY - Salt Lake City, UT)
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, supervised, established
+Resume Length: 366 words, 34 lines (~0.7 pages)
+
+CANDIDATE 3  (source file: bd0d79e778b8bba9.txt)
+----------------------------------------------------------------------
+Name: Pete Ruiz
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2013 - MSE Electrical Engineering, Texas A&M University | 2014 Completed a 15-credit project to reverse-engineer a smartphone | 2009 University of Houston
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 260 words, 51 lines (~0.5 pages)
+
+CANDIDATE 4  (source file: 702ec4413907872a.txt)
+----------------------------------------------------------------------
+Name: Marshwille Road Alabama
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. coordinated
+Resume Length: 381 words, 34 lines (~0.8 pages)
+
+CANDIDATE 5  (source file: Image_87.txt)
+----------------------------------------------------------------------
+Name: Marshville Road Alabama
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed, coordinated
+Resume Length: 399 words, 36 lines (~0.8 pages)
+
+CANDIDATE 6  (source file: Image_17.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Assoclates in Electrical and Electronics Engineering Technology - (Rhodes State College - Lima, | OH)
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 357 words, 38 lines (~0.7 pages)
+
+CANDIDATE 7  (source file: 82d35a51535d380f.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: - First Aid course | On-site | Jul 2013 - Jul 2022
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 292 words, 29 lines (~0.6 pages)
+
+CANDIDATE 8  (source file: be1165b6ad980cd8.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2006-09 - University of Michigan, MEng. in Electrical Engineeering | 2008-06 * Graduated Magna Cum Laude | 2002-09 - University of Michigan, B.E. in Electrical Engineering | 2006-06 Conferences | 2018-04 EPECS - 5th International Conference on Electric Power and Energy Conversion Systems
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 279 words, 46 lines (~0.6 pages)
+
+CANDIDATE 9  (source file: fdd587f05460b622.txt)
+----------------------------------------------------------------------
+Name: Amar Singh
+Ethnicity: Not stated in source (not inferred)
+Age: ~30 (estimated from earliest date/grad year 2018, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science (B.S.) Electrical Engineering University of Washington, Seattle, WA
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, coordinated
+Resume Length: 211 words, 30 lines (~0.4 pages)
+
+CANDIDATE 10  (source file: Image_4.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- Valencia College - Orlando, Florida | Degree: Associate in Arts Engineering, Fall 2009 - Winter 2011 University of Central Florida - Orlando, Florida | Major: Electrical Engineenng, Spring 2012 - Present Class Standing: Senior
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 215 words, 23 lines (~0.4 pages)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

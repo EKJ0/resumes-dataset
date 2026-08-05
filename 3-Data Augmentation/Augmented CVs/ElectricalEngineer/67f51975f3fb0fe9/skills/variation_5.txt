@@ -1,0 +1,57 @@
+First (Preferred) Last
+
+Street Address | City, State Zip | (Phone)Number | firsti#@gmail.com https:/Avww.linkedin.convinffirst-last!
+
+Objecti Fresh graduate with [i aSGS0008 experience looking to join IMENIEIteam. |
+bring an eagerness to take on new responsibilities and challenges, as demonstrated through my
+projects and club work.
+
+EDUCATION
+---------
+University of College (City, State) June 2020
+Bachelor of Science in Electrical and Computer Engineering GPA: 3.46 Concentration in Biomedical Instrumentation
+
+Relevant Project E “
+Covid Contact Tracing Device June - September 2020
+- Recruited by fo create firmware for a BLE device to be used for contact tracing
+- Demonstrated an ability to learn rapidly and complete tasks with minimal resources
+Senior Capstone January - June 2020
+
+Partnered with [to design a fully wireless pulse oximeter
+
+- Designed PCB, devised algorithm, and created the 3D casing for each prototype
+- Presented project and created 75 page technical report
+
+- Final prototype was fully functional and ready for further development
+
+Electrocardiogram
+- Worked in a team to develop an ECG from basic components
+- Simulated circuit in Multisim and used Labview for data collection and processing Final circuit cancelled 99% of noise and had appropriate frequency response
+
+Human to Computer Interface
+- Utilized myoware sensor and ARM processor to contro! a computer via a muscle
+- Implemented ADC, PLL, interrupts, and UART of development board
+- Created and carried out varied testing strategies for each system block
+
+Other Experience and Recognitions
+
+Cool Name (Student Club) 2016 - 2020 Designed and created a basic CNC machine for the [Museum
+- Led a team of 5 tasked with developing a realistic 3D printed heart for medical training
+- Project Manager (2018 - 2019)
+- Organized and vetted 7 projects for the academic year
+- Chose team leads and acted as their direct advisor
+- Created first end of year report to increase club visibility
+- Co-President (2019 - 2020) ce Organized workshops and speakers for weekly meetings oe Supervised officer team of seven ce Created a strategy that successfully increased membership by 70%
+
+Most Helpful Peer 2019
+- Elected from a class of 40 for helping classmates with questions and debugging firmware
+
+SKILLS
+------ Software: Microsoft Office, Multisim, Labview, Cadence, EasyEDA, Quartus, and Solidworks
+Computer Language: C, Java, System Verilog, and Python Equipment: Oscilloscope, Function Generator, DMM, 3D Printer, Arduino, and Soldering Kit
+rience: Circuit Design and Analysis, FPGA, Microcontroller (Arm Cortex), PCB Design, Arduino, CAD, Technical Report Writing, and Technical Presentations
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

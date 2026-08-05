@@ -1,0 +1,63 @@
+Maria Garcia
+
+Department of Electrical Engineering DEE PAK PAL Indian Institute of Technology, Kan pur
+
+pdeepak@iitkacin, deep.imhere@gmailcom
+
+http://www litk.ac.in/mwn/deepak/index.htm
+
++91- 9415770233
+
+CAREER VISION
+To work ina challenging environment demanding all my skills and efforts to explore and adapt myselfin different fidds and
+realize my potential where | get the opportunity for continuous earning
+
+RELEVENT EXPERIENCE
+Department of Electrical Engineering, Indian Institute of Technology, Kanpur, India Dec, 2010 - Present
+Maria Garcia Prof. Aditya K. Jagannathan, Multimedia Wireless Networks Lah, [IT Kanpur
+
+- © Developed robust MPEG encoder in MATLAB and € that performs streaming of live videos over wirdess network
+
+- «Set upa wireless link, supporting radio dat rate up to 250 kbps for transmission of images and small sized video using TELOS B motes on TINY OS platform using JAVA
+
+- Developed 1.261 video encoder and decoder on MATLAB Platform
+
+- = Performed study of JSVM (Joint Scalable Video Model} for h.264 compliant bitstream generation and transmission
+
+- © «Currently developing H264/SVC codec to achieve video streaming of live events on [IT Kanpur campus wireless
+
+infrastructure
+Department of Electrical Engineering, Indian Institute of Technology, Kanpur, India Aug 2010- Nov 2010
+Project Fellow Prof. Aditya K jagannatham, Multimedia Wireless Networks Lab, fT Kanpur
+
+- = Developed GU! for transmission and reception of digital images over AWGN and RAYLEIGH channel with noise filtering mechanism at the receiver on MATLAB Platform
+
+- © Performed extensive work in video motion estimation, morphological image processing, aliasing. transform coding. 2D sampling filtering and interpolation
+
+- =©Developed |PEG encoder and decoder on MATLAB platform
+
+TECHNICAL SKILLS
+---------------- s
+
+- MATLAB (EXPERT, 3 Years) i} c (ADVANCED, 25 Years)
+
+- - HTML.CSS, JAVASCRIPT (MEDIUM, 6 months) i} Verilog (FAMILIAR, 2 Months) Tools and Libraries
+
+- = Visual Studio 1 Edipse i} Dreamweaver | Xilinx IDE 1 Cygwin
+
+- GNUScientificLibeary | Open CV 1 jeter Operating Systems
+
+- = Windows-7, Vista. XP | Linux - Ubunta
+
+EDUCATION
+---------
+Bachelor of Technology in Electronics and Commun ication Engineering (UPTU, Percentage - 70.02 %)
+Galgotias Cofege of Engineering and Technology Aug 2006 -Jun 2010 Intermediate (UP Board, Percentage ~ 79.4%)
+Lucknow Public tneer College May 2004 High School (UP Board, Percentage - 65.8 %)
+St Peters High School Jun 2002
+
+PROJECTS
+--------
+MULTIMEDIA TRANSMISSION OVER WIRELESS Nov 2010 - Present Details
+
+- Objective - Implement a video coding standard to enable transmission and unpacking at multiple spatio-temporal resolutions with variegated bitrates so as to make video streaming readily suited for wireless networks
