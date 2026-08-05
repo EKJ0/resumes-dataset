@@ -1,0 +1,146 @@
+CANDIDATE PROFILES — Designer
+Folder: Designer  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 118.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 07/2014 High School Diploma
+Writing Style: bullet-driven, moderate sentence length, first-person tone
+Leadership Language: Moderate (3 instances) — e.g. managed, coordinated
+Resume Length: 796 words, 81 lines (~1.6 pages)
+
+CANDIDATE 2  (source file: Image_92.txt)
+----------------------------------------------------------------------
+Name: Karen Philios
+Ethnicity: Not stated in source (not inferred)
+Age: ~53 (estimated from earliest date/grad year 1995, not stated)
+Nationality: USA
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. spearheaded
+Resume Length: 386 words, 47 lines (~0.8 pages)
+
+CANDIDATE 3  (source file: 0.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor’s Degree: Business Administration, 2018
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, lead
+Resume Length: 747 words, 67 lines (~1.5 pages)
+
+CANDIDATE 4  (source file: 32.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Visual And Performing Arts, 05/2023 Naugatuck Valley CC - Waterbury, CT
+Writing Style: narrative/paragraph-style, moderate sentence length, first-person tone
+Leadership Language: Low (2 instances) — e.g. mentored, established
+Resume Length: 726 words, 73 lines (~1.5 pages)
+
+CANDIDATE 5  (source file: 57.txt)
+----------------------------------------------------------------------
+Name: Links Professional
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: CERTIFICATIONS
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. managed, supervised, lead, directed
+Resume Length: 1610 words, 193 lines (~3.2 pages)
+
+CANDIDATE 6  (source file: Image_49.txt)
+----------------------------------------------------------------------
+Name: Teresia Somervi
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 341 words, 30 lines (~0.7 pages)
+
+CANDIDATE 7  (source file: 1.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor's Degree: Fine Arts, 2016 Community College of Denver - Montgomery, AL | - Dean's List Honoree 2012 - 2014
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (8 instances) — e.g. managed, supervised, lead, coordinated, established
+Resume Length: 682 words, 66 lines (~1.4 pages)
+
+CANDIDATE 8  (source file: 111.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~74 (estimated from earliest date/grad year 1974, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Autodesk | San Diego, CA + 10/2018
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, directed, drove
+Resume Length: 961 words, 134 lines (~1.9 pages)
+
+CANDIDATE 9  (source file: 147.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. managed, lead, oversaw, supervised, coordinated
+Resume Length: 724 words, 65 lines (~1.4 pages)
+
+CANDIDATE 10  (source file: 194.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master of Arts: Graphic Design, Current Boston University - Boston, MA
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 246 words, 30 lines (~0.5 pages)

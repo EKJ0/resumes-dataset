@@ -1,0 +1,129 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+Maria Garcia
+
+PROFESSIONAL
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+SAP UA STUDENT RECOGNITION AWARD COURSES
+
+COMPUTER SKILLS
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+Seasoned IT systems infrastructure project manager with 8+ years of project management and design
+experience in state, federal, and private sectors. Providing a unique combination of business project
+management skills and IT design solutions. My goal is to integrate business processes through SAP ERP and
+help improve business decisions through Business Intelligence solutions.
+
+- Ability to manage multiple projects at one time ¢ Experienced in meeting with clients to determine
+
+- Strong organizational and time management project requirements and implementing those skills with ability to effectively manage multiple requirements in a useful and cost effective priorities and meet established deadlines while manner keeping projects under planned budget ¢ Ability to affectively negotiate pricing contracts
+
+- Excellent communication skills and proven with customers and suppliers competence in working with others in a cross- ¢ Ability to analyze business processes and functional team effort streamline for increased efficiency
+
+IT SYSTEMS DESIGNER/PROJECT MANAGER 05/2007 to CURRENT
+
+Emcor Group, Inc. | Michigan City, IN
+
+- Gather, analyze, and implement project requirements for clients and business owners.
+
+- Work with cross-functional design groups to develop integrated strategies that would be efficient in a variety of environments.
+
+- Manage customer project expectations regarding scope, schedule, and budgetary parameters.
+
+- Streamlined material usage tracking and labor processes which kept actual costs below planned costs
+
+- Perform value engineering to adapt to clients changing needs throughout the design process.
+
+- Overseeing systems verification testing processes and system sign off.
+
+.
+
+PROJECT MANAGER 11/2005 to 05/2007 Network Systems, Inc. | City, STATE
+
+- Project managed 50+ design build IT system infrastructure installation projects
+- Interpreted RFQ's and estimated project costs
+
+- Handled procurement and logistics of all materials for projects
+
+- Attended project meetings for coordination between construction trades
+
+- Responsible for overseeing systems verification testing processes
+
+Minor | Information Systems with SAP 2014 Georgia Southern University, Statesboro, GA
+
+SAP's primary focus is on Enterprise Resource Planning (ERP). The SAP University Alliances program
+provides access to SAP products and solutions. This means that SAP UA institutions have the capability to
+get gain hands-on experience with SAP products and solutions. This provides a realistic perspective on how
+SAP can help companies integrate their business processes. It also gives employees the skills to add
+immediate value to the marketplace. An ERP modular software design enables a variety of programs to be
+added to improve the efficiency of the business.
+
+BEC\ | Operations Management 2005 Georgia Southern University, Statesboro, GA
+
+Operations management deals with the processes by which a company uses its resources to create those
+products and services in a way that maximizes their value. The operations management (OM) emphasis is
+designed to develop expertise in duties such as operations and supply chain strategy, production planning,
+strategic sourcing, inventory management, work scheduling, and quality management.
+
+SAP TERP 10 Certification
+- SAP Certified Business Associate with SAP ERP 6.5
+
+ERP using SAP
+- Knowledge of integrated business processes (Financial Accounting, Management Accounting, Enterprise Asset Management and Customer Service, Human Capital Management, Purchase to Pay. Material Planning, Manufacturing, Order to Cash, Inventory and Warehouse Management, Lifecycle Data Management, SAP Netweaver BW)
+- Understand criteria for high-quality information and applied these criteria to evaluate information
+- Used an enterprise system to process key transactions
+- Gained knowledge in various modules supporting integrated business processes Enterprise System Configuration
+- Setup Fl, CO, MM, and SD modules to accommodate company structure, business processes, and master data
+- Implemented SAP from the ground up and tested configured system
+- Defined & Assigned the Enterprise Structure
+- Defined & Assigned the Rules & Parameters
+- Defined & Created the Master Data
+- Tested & Executed the Business Processes Business Intelligence
+- Created and populated star schemas in a database.
+- Created enterprise reports using SAP Crystal Reports and MicroStrategy.
+- Performed OLAP analysis using SAP BusinessObjects Analysis.
+- Created an ETL process and associated mobile-ready dashboard application using Software AG webMethods Presto.
+- Used SAP Lumira to visualize and explore data for meaningful patterns and ad hoc querying. To facilitate collaboration, some insights were shared using SAP Streamwork.
+- Created several basic predictive models (cluster analysis, association analysis) using SAP Predictive Analysis.
+- Developed several dashboard applications using SAP Dashboard Design and SAP Design Studio. The dashboard application developed in Design Studio was mobile-ready.
+- Google Analytics was featured in a project to demonstrate advanced web analytics and visualization.
+
+- Microsoft Office (Word, Excel, PowerPoint, Access)
+- SAP ERP ECC 6.0
+
+- SAP Crystal Reports
+
+- SAP BusinessObjects Analysis
+
+- SAP Lumira
+
+- SAP Streamwork
+
+- SAP Dashboard Design
+
+- SAP Design Studio
+
+¢« Google Analytics
+
+- Software AG webMethods Presto
+
+- AutoCAD
+- ProjectNet . Proboards
+- Quickbooks
+
+- Google Docs, Google Sheets

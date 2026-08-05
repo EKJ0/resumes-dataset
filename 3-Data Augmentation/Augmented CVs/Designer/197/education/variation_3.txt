@@ -1,0 +1,218 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+SUMMARY
+-------
+
+Creative Software Engineer with proven success in the IT industry with a focus on product design and development. Extensive
+knowledge of UX designing and UI development. Enthusiastically seeking full-time position as a Web Designer/Developer.
+
+HIGHLIGHTS
+----------
+- MS-Office, Google Docs.
+
+- Operating systems : XP/Vista, Windows 7, Windows 8,
+
+Linux, Unix. e UI/UX
+
+- Programming language : C , Java,‘ VHDL. e Scrum
+- Others : HTML4/5,CSS2, CSS3, JavaScript,
+
+Requirements analysis and design phases
+
+Interface design and implementation
+
+MS Project, Hibernate, Spring
+
+JQuery,SDLC,AJAX,XML,JSON,GIT * Oracle
+
+- Data base : Oracle 10g Tomcat6.x Web Server ¢ MySQL
+
+- Managing tight deadlines e JIRA
+
+- Strong communication skills * Jenkins
+
+- Working independently * Bootstrap
+
+- Web application design ¢ Dreamviewer & Photoshop
+- Layout and design ¢ WordPress
+
+- Mobile application development Interaction Design
+- Intellij ¢ Prototyping
+
+- Proficient in HTML ¢ Wireframe
+
+- Agile development methodologies ¢ Usability Testing
+
+EDUCATION
+---------
+
+Bachelor of Science: Electronics and Communications, XXX3 Arizona State University - Hyderabad, Andhra pradesh
+GPA: 3.4
+
+Master of Science: Computer Science, XXX5
+
+Fairleigh Dickinson University - Teaneck, NJ
+
+GPA: 3.3
+
+Course Work and Projects :Software Architecture coursework ,Coursework in Business Administration and Management ,Design of
+Software Systems, Database Management and systems, Program development techniques SQL Queries, Software Engineering,
+Computer Architecture, Management Information systems, Electronic Commerce, Software Engineering : Online Banking System
+Design: Developing Analysis Model, Functional Model with the help of scenarios and use cases, designing of Dynamic Model with
+sequence diagrams and state diagrams and Analyzing Object Model with class diagrams and object diagrams. Patterns and interface
+specifications of System Design Model and Object Design Model using MVC software architecture.Software Design courses,
+Computer System Architecture courses,Systems Engineering coursework.
+
+SKILLS
+------
+
+Adobe Photoshop, Ajax, Banking, C , CSS, Data base, Database Management, designing, Electronic Commerce, Eclipse, Functional,
+HTML, IDE, HTMLS, CSS2,CSS3,LESS, SASS,JSON,RWD, Bootstrap, Jira,Jenkins,GIT,Postman scripts,Java, JavaScript, JQuery, laptops,
+leadership, Linux, Director, meetings, access, Office, MS-Office, Windows 7, Windows 8, Management Information systems, MVC,
+
+Operating systems, Oracle, Program development, Programming, scheduling, Servers, software architecture, Software Engineering,
+SQL, System Design, Tomcat6.x, UML, VHDL, Vista, Web Server.
+
+Accomplishments
+
+- Design and Implementation of DUA- RSA Algorithm for More Enhanced Public Key Encryption.” DUAL RSA - Dual RSA is similar to RSA the major difference can be seen in the process of decryption where we use a unique private key, which cannot be hacked by cryptanalyst.
+
+- This design helps in the implementation of dual RSA algorithm for more enhanced public key encryption, using the principle or cryptographic algorithm which includes symmetric and asymmetric keys.
+
+- Advantages of this project are Dual RSA performs encryption and decryption two blocks at a time and improves the performance of RSA in terms of security.
+
+- Volunteer at International Cultural Experience (ICE FDU) - XXX4.
+
+- Built a robot using microcontrollers and programming under the guidance of SKI Technologies.
+
+WORK EXPERIENCE
+---------------
+
+JR UX Designer/UI Developer, 10/XXX5 to 03/XXX6 GLOBAL DATA MART - City, STATE Responsibilities
+- Build wireframes to show application content and process flow. Prepared visual designs based on the approved wireframe in accordance with the usability standards.
+- Meeting with application users to understand their specific usability requirements.
+- Recommending and implementing industry best practices in use experience management.
+- Building working visual prototypes to show application content and process flow.
+- Preparing visual designs based on the approved wireframe in accordance with the usability standards In-depth knowledge and experience in UX process, and implementation of various techniques for enhanced user experience.
+
+- Supporting creative solutions for a wide variety of user experience challenges including, but not limited to mobile and desktop.
+
+Support the design of useful, usable, and desirable systems, products and services which includes working closely with software
+engineers to realize the design.
+
+Participating in user research activities enabling the team to build a deep and rich understanding of web application.
+
+Use data, analytics and business requirements to assist product management in developing user stories and requirements.
+
+Propose art direction and/or assist to define the visual language.
+
+Develop and maintain user-interface specifications.
+
+Present design work to the engineering team, product team, and executives for review and feedback.
+
+Worked closely with senior UX Designer for designing and creating “rich wire frames” to visually facilitate understanding of
+
+user interactions in features and concepts.
+
+Created images (banner, button & icon images) to be used in the web application. Performing usability testing of the web
+application.
+
+Worked on Technical Design wireframes to get feedback from business teams Expertise in using design tools like Adobe
+Photoshop and Adobe Dreamweaver Create HTML5 and CSS files for the application development team Create HTMLS and CSS
+files for the application development team.
+- Used grunt server to run the application locally. Used postman scripts to create tenants, tenant users and login ID for the local applicatons. Responsible for creating efficient design and developed User Interaction screens using HTML5, CSS3, JavaScript, jQuery, AJAX and JSON.
+- Typical operations performed by shell scripts include file manipulation, program execution, and printing text.
+
+Helping QA’s in regression testing with OQ’s. Developed the functionality for communicating between the modules mostly
+involved in VIEW and CONTOLLER section of MVC pattern for Quality Control(QC) app project. Used the Angular]JS in the
+development of the QC application. Worked on creating responsive website for smart devices using responsive design (RWD)
+
+concept and media queries.
+
+Built internal prototypes that run React apps in a web worker and use React to drive native iOS views via an objective-c bridge.
+
+- Making views easier to extend and maintain by unifying markup with its corresponding view logic using React.
+
+- Maintained technical documentation of CMS system designs. Prepared and maintained POC testing cases.
+
+- Analyzed CMS application features and functionality. Conducted phase gate reviews and prepared CMS installation guides.
+
+- Designed web applications by translation from technical specifications. Performed Unit Testing and code coverage with Jasmine.
+- Testing using Jasmine without further configuration in any environment which runs JavaScript. Designed UX for the admin tool to manage users, groups, brands, and content, deploy and purge content, and monitor reps. Installing dependencies for running unit tests with Jasmine. Designed UX for many iPad sales presentations for several big pharma clients.
+
+Designed UX for mobile dosing calculators for physicians. Designed UX for an iPad so pharma reps so they could make
+customized literature for HCPs. Included language options to accommodate markets.
+
+Established UX design as the first stage of all Web and mobile application developments, instituting a user-centered design
+
+(UCD) approach.
+
+- Led UX design on ground-breaking mobile applications that redefined the market landscape. Displaced competitors by remaining ahead of the curve in anticipating user needs; delivered interactive device apps.
+
+- Ensuring the quality of the UX through regular bug bash-style reviews. Designed high-impact, user-centered Web sites with strong emotional appeal, sophisticated production values and intuitive navigation to maximize user engagement and cement powerful brand identities.
+
+- Used Selenium testing framework for automated tests. Continuous delivery/Continuous Integration (CD/CI) using Jenkins/
+
+CloudBeesand hostage of QC App on AWS (Amazon Web Services).
+
+Conceptual planning of future UX directions. Created web services and desktop applications to access and display data needed
+
+by support teams using, Ajax, JavaScript, JQuery, Angular. Js, Nodejs, Java, CSS and HTML. Involved in team meetings with
+
+corporate webmaster's UI team and end user client for understanding needs in new implementation & Involved in daily team
+meetings & daily scrum meetings.
+- Used all the advanced Photoshop features to create appealing visual web interfaces. Used Firebug and IE Developer Toolbar, for debugging and browser compatibility. Worked closely with SQA team in fixing the reported bugs/defects and checking cross platform compatibility. Used agile methodology for the software development.
+
+- Been an active team player, helped in fixing bugs and also carried out troubleshooting. Produced semantically appropriate, standards compliant markup, and produced Rich User Interfaces.
+
+Web Developer/Designer, 04/XXX3 to 11/XXX3 Coral Grid Software Private Limited - City, STATE
+
+- Worked closely with user researchers to define features and interaction, leading to high-fidelity mockups of use case scenarios for the design and product teams.
+
+- Branding payment portal as per client specification and configuring it pixel-to-pixel to Client website.Code development to synchronize all feature of Client website.
+
+- Explored of issues in creating an experience for both the desktop and web platforms.
+
+- Working with Dev & Test to implement interaction in product code.Overhauled Web site to optimize the user experience. Newly launched site catapulted visit-to-lead and visit-to-order ratios, while shrinking page-abandonment rate by 18%.
+
+- Code development to ensure the compatibility across all browsers Creating graphics to satisfy client site requirement.
+
+- Developed the User Interactive web pages in a professional manner using web technologies like HTML, XHTML and CSS2 based on the W3C and ADA standards.
+
+- Gathered data from API/web services via AJAX-JSON calls and updating the DOM within the result sets.
+
+- Functionalities include writing code in HTML, CSS, JavaScript, JQuery, Ajax, JSON, and Bootstrap with MySQL database as the backend.
+
+- Creating cross-browser compatible and standards-compliant CSS based page layouts.
+
+- Worked on fixing cross browser compatibility issues.
+
+- Created Valid XHTML, CSS templates.
+
+- Created and deploying new features in order to sustain and amend existing applications.
+
+- Responsible for maintaining current websites that includes updating the web pages, uploading new content/changes etc.
+
+- Developed client side validation code using JavaScript and JQuery.
+
+- Fixed the HTML errors in site core content editor. Fixed Front-End issues with the layouts.
+
+- Highly involved in making updates to the current website and simultaneously handling other projects. Involved in coding pages with best Search Engine Optimization (SEO) techniques.
+
+Web Designer/Web Developer, XXX3 to 04/XXX3 SumTotal Systems - City, STATE
+- Established UX design as the first stage of all Web and mobile application developments, instituting a user-centered design (UCD) approach.
+- Conceptual planning of future UX directions.
+- Designing and implementing high-fidelity clickable mockups of the product.
+- Led UX design on ground-breaking mobile applications that redefined the market landscape.
+- Create robust wireframes that define interaction models and user flows
+- Moved quickly from prototyping to enterprise-quality robust implementations.
+- Collaborated with senior designers to create clean interfaces and simple, intuitive interactions and experiences.
+- Create front-end prototypes for testing new features
+- Displaced competitors by remaining ahead of the curve in anticipating user needs, delivered interactive device apps that helped capture the best place in market position.
+- Front-end web development using HTML5, CSS3, JavaScript and JQuery Developed UI based out of wireframes and red-line documents.
+- Perform System Testing to ensure branding is done as per client requirement.
+- Coordinate with QA team to resolve any issues regarding site branding.
+- Coordinate with Business Relationship Manager to gather client requirements and QA team.
+- Working knowledge of version control software ( Git) Updating the progress of project in JIRA
