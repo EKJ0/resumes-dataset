@@ -1,0 +1,113 @@
+Ryan Edward
+
+SOFTWARE TESTING
+
+SUMMARY
+-------
+
+Two years and Eight months of working experience in Manual Testing & Automation Testing .
+
+Good Exposure on Mobile Apps, E-commerce apps Testing , school software, Billing software and college management
+software.
+
+Skilled in understanding Software requirement Specification and identifying the required Test scenarios.
+
+Professional Software testing Experience that includes Effective Test case Designing and Test case preparing.
+
+Hand on Experience on preparing Software Requirement Specification
+
+WORK EXPERIENCE
+---------------
+
+Software Testing Engineer
+Online clump Jan 2016 - Mar 2018
+
+Worked as a manual tester to write Test cases and Test scenarios.
+
+Creating test case to cover the new feature testing.
+
+Reported defect in jira.
+
+Some time Used automation also.
+
+Created Requirement Traceability Matrix(RTM).
+
+Used selenium Webdriver to Automate to Regression Testcase.
+Creating UI Automation script using selenium webdriver.
+Responsible for sending consolidated weekly report.
+
+Software Testing Engineer
+Ace Technologies Sep 2019 - Present
+
+Worked as an automation engineer and
+
+identified the manual test cases which
+
+qualifies for automation.
+
+Used Selenium webdriver for UI automation.
+Reviewing the user stories which are part of new feature testing Writing functional and regression test cases
+
+Creating test data request.
+
+Performing build verification(Smoke) testing Performing regression testing before the new release.
+Writing test cases in JIRA.
+
+Participating in the scrum - meetings.
+
+Involved in Defect triage meeting.
+
+PROJECTS
+--------
+
+School software
+testing Jan 2016 - May 2016
+
+CONTACT
+-------
+
+info@resumekraft.com
+202-555-0120
+
+Chicago, Illinois, US
+linkedin.com/resumekraft
+
+SKILLS
+------
+
+- Hands on Experience in Functional Testing, Integration Testing, System Testing.
+
+@ Requirement analysis and RTM
+
+e® Writing test cases, Executing test cases, Preparing test reports
+
+® Defect/Bug Tracking
+
+- Automation Testing (Ul) -- Selenium Web driver
+
+- Defect Life Cycle
+- Wireless Communication
+
+® Good understanding of HTML DOM.
+
+® Good knowledge on STLC.
+
+@ Have written efficient XPath to identify the locator in the DOM
+
+® Good knowledge of core JAVA (OOPS , Abstract class &
+
+Interfaces) Languages English Saeaegsa French Baga Arabic Baa German BSBSa
+
+FRAMEWORK & TOOLS
+
+- Eclipse : Ul Automation Testing using selenium webdriver
+
+@ JIRA: Defect Tracking Tool
+
+EDUCATION
+---------
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

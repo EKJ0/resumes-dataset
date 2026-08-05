@@ -1,0 +1,48 @@
+Robert Smith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+Website > vow. qwikre sume, com
+
+Manual Tester LinkedIn: linkedin.com/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Provide guidance in establishing policies, processes and programs to enable Section 508
+Compliance, Provide oversight and governance to ensure compliance with 508 standards,
+
+SKILLS
+------
+
+Knowledge on SQL, Knowledge on Testing,
+
+WORK EXPERIENCE
+---------------
+
+Manual Tester
+ABC Corporation - August 2008 - December 2009
+- Worked under waterfall methodology.
+- Executed Manual and Autornated tests and reported defects by running automated tests,
+- Executed manual tests; reviewed results of all tests and reported anornalies into the defect tracking database,
+- Verified the resolution of all defects for an assigned project.
+- Prepared traceability matrix to ensure the adequate coverage of the test cases.
+- Prepared required documentation for testing signoff by various parties as required by the project plans,
+- Assigned, Monitored and Tracked Tasks of Tearn Mernbers.
+
+Manual Tester
+Delta Corporation - 2004 - 2008
+- Manual functional testing of ECARS1.O and 2.0 applications, Understanding of requirernents and clarification with the Business Analysts to clarify doubts, Writing and updating test cases for CRs in Test Manager. Testing Oracle back-end using SQL Developer. Database upgrade testing from Oracle 9| to 10g, Testing of ECARS1.0 which is a mainframe application. Validating and updating data in the AS400 applications,
+
+EDUCATION
+---------
+
+Bachelors
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Testing
+Folder: Testing  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 79.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master of Science: Applied Psychology, 05/2020
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 748 words, 66 lines (~1.5 pages)
+
+CANDIDATE 2  (source file: Image_58.txt)
+----------------------------------------------------------------------
+Name: V.vinod Kumar
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 215 words, 31 lines (~0.4 pages)
+
+CANDIDATE 3  (source file: e2595a74b0d3e79d.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. drove
+Resume Length: 403 words, 34 lines (~0.8 pages)
+
+CANDIDATE 4  (source file: Image_61.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Academic Qualifications
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. directed
+Resume Length: 325 words, 41 lines (~0.7 pages)
+
+CANDIDATE 5  (source file: 11.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~47 (estimated from earliest date/grad year 2001, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High School Diploma: 05/2005 San Joaquin Valley College - Visalia, CA
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (10 instances) — e.g. directed, managed, established, lead
+Resume Length: 720 words, 69 lines (~1.4 pages)
+
+CANDIDATE 6  (source file: 26.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~63 (estimated from earliest date/grad year 1985, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science: Elementary Education, 12/1985 Laredo State University - Laredo, TX
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. established, led, oversaw, supervised, mentored
+Resume Length: 764 words, 74 lines (~1.5 pages)
+
+CANDIDATE 7  (source file: 171.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~68 (estimated from earliest date/grad year 1980, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. lead, supervised
+Resume Length: 378 words, 40 lines (~0.8 pages)
+
+CANDIDATE 8  (source file: 152.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Exceptional communication (English)
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: HIGH SCHOOL DIPLOMA: 2006 El Campo High School - El Campo, Texas St. Phillips Community College - San Antonio, Texas | One year completed with a total of 18 credits.
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead
+Resume Length: 704 words, 62 lines (~1.4 pages)
+
+CANDIDATE 9  (source file: 68.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~57 (estimated from earliest date/grad year 1991, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: No Degree: Accounting And Finance, 04/2008 University of Maryland - College Park - College Park, MD
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. managed, led, lead, directed, supervised
+Resume Length: 1116 words, 106 lines (~2.2 pages)
+
+CANDIDATE 10  (source file: 3.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Jessica Claire
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead, managed, coordinated, established
+Resume Length: 800 words, 70 lines (~1.6 pages)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

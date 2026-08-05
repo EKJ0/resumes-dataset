@@ -1,0 +1,65 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+Mary Uchimoto
+
+QA Tester
+
+Accomplished QA tester with 4+ years of experience. Skilled in manual and automated testing and creating test plans. Seeking to exceed
+Amazon's high standard for Android-based testing. At HollyRocket, Inc., created 200+ test plans and helped increase testing efficiency by
+31%.
+
+Personal Info Experience
+Phone 2016-03 - QA Tester
+269-587-3440 2020-06
+
+HollyRocket, inc., Lansing, MI
+
+E-mail * Developed 200+ test plans and test cases, including performance test
+maryzuchimoto@gmail.com plans and security test plans.
+
+- Assisted lead QA tester with creation of master test plan. Wrote 40% of Linkedin
+
+linkedin.com/in/maryzuchimoto sd al aed
+
+Reviewed ~100 user interfaces for functionality and adherence to design
+
+Skills guidelines.
+
+- Executed test cases across 15+ functional product areas, beating team test plans & cases eeee0e efficiency averages by 20% against work-completion deadlines. selenium eeee@0 * Drafted testing reports, reducing data to key insights that helped increase
+
+team efficiency by 31%.
+automated & eeee0
+
+manual testing
+
+Collaborated with 6 software development engineers to build a deep
+
+understanding of features and architecture prior to testing.
+
+interpersonal skills eeeee@ -
+
+2015-06 - Programming Intern communication ;
+
+eeee0 2015-12 AljanaTech, MI teamwork eeeee@ * Created six product test plans that were put in use by the QA team.
+efficiency ec5eeo * Performed manual tests on 15 client software projects.
+- Used Java and Python to write testing automation code for 2 key projects.
+
+EDUCATION
+---------
+2016-06 Calvin University
+
+BS in Computer Science
+- Active member, Student Programming Association
+- Recipient, John. W. Dodson scholarship for excellence in coding
+
+Additional Achievements
+
+Active member, ASTQB
+
+Wrote article on QA testing published on TechCrunch
+
+Certificates
+
+Certified Tester Foundation level (CTFL) - ASTQB
+
+CP-SAT Certified Professional Selenium Automation Testing

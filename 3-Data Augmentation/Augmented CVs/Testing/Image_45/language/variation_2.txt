@@ -1,0 +1,61 @@
+E-mail: yfiduhdsh @ryegbv.com
+
+My Name Xyz Mobile: 000000000000000000000
+
+SUMMARY
+-------
+
+Having 3+ years of work experience in Software Testing Specializing in Black Box Testing using both Manual Testing and Automation Testing.
+
+Experience in testing Client/Server and Web based applications on different domains Development of Test Plan, Test Cases, Test Data and Preparation of Automation
+Design Structure.
+
+Expertise in Execution of Test Cases, Test Scripts and generating automation Test Scripts using Automation Tools.
+
+Experience in Functional Testing, Regression Testing and User Acceptance Testing.
+Experience in Defect management and Bug Reporting using TestDirector.
+
+Proficient with automation tools WinRunner, Quick Test Professional (QTP) and TestDirector
+
+Exposure on LoadRunner, SQA and Silk Testing Tools.
+
+WORK EXPERIENCE
+---------------
+
+Working as a Quality Engineer in XYZ Software Ltd, XYZ Worked as a Test Engineer at XYZ Technologies Pvt. Ltd, XYZ
+
+Qualification:
+
+B.Tech (Electronics & Instrumentation) from XYZ University, XYZ
+
+TECHNICAL SKILLS
+----------------
+
+Operating Systems: Windows 98/2000/XP.
+
+Languages : C, C++ and Core Java.
+
+Databases 3 Oracle.
+
+GUI Tools ; Visual Basic.
+
+Scripting Languages : HTML.
+
+Testing Tools : WinRunner, QTP, TestDirector.
+Project Profile:
+
+Project #5:
+
+Title MyProjectX YZ
+
+Client ; XYZ
+
+Environment : Struts, Java, JDBC, EJB, Weblogic, Oracle Testing Type : Manual Testing & Automation Testing.
+Testing Tools used: QTP and TestDirector.
+
+Duration : Start Month And Year - End Month And Year
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

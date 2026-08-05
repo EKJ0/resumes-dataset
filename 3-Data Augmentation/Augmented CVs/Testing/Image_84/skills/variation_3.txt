@@ -1,0 +1,71 @@
+Preliminary Tester Phone (123 406 {5.08
+
+Email: info@qwikresume.com
+
+ROBERT SMITH eee eacanccaleonemere
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Seasoned professional with 4+ years of industry experience. Managed business partner and
+management expectations while working on visible and high impact projects. Worked directly with
+the client in right from Proposal submission to Program execution activities. Played key role in
+stecring a data transformation program for reputed clients.
+
+Automation Expert, Testing Methodologies, ETL Testing SME, Data Migration Testing, Web Testing.
+IVR Testing, SAP-HCM Testing, Mobile Testing. Program Management, Project Management.
+
+WORK EXPERIENCE
+--------------- Preliminary Tester
+
+ABC Corporation - April 2004 - May 2006
+
+Collaborate with business units to define requirements &amp; reporting solutions.
+
+Identify the reporting approach based on the requirements to be satisfied.
+
+Involved in Analysis and Design walkthroughs, and created System Test plan and System test
+cases out of requirements.
+
+Involved in creations of Testbed for the execution of test cases in UNIX input files.
+
+Automated Test data set up preparation using shell and Unix scripting,
+
+Identified Test cases suiting automation requirements.
+
+Managed Test results through Rational Test Manager, also involved in Transition Activities and
+end-user training.
+
+Tester
+ABC Corporation - 2002 - 2004
+
+Environment JAVA, C, Putty, Winsep, AML Quality Center, Quick Test Professional Project
+Description Procure to Pay project involved tracking all the payable invoices, workflows and
+vendor management.
+
+Testing included validating various invoice processing, workflows, and vendor integration.
+Analyzed various documents and prepared test cases covering all requirements of the application.
+
+Converted test cases for various test sects to organize the execution procedure to meet the
+project timeline and timely deliverables.
+
+Tesied functionalities of the application like payable workflow Created test data for different
+invoices with the Procure to Pay module forex Projects, Work order and Recurring. non- Recurring and Leases.
+
+Provided functional demas on the P2P invoice workllow to the business.
+
+Discussed the test cases for regression testing with the quality engineers Created automated
+regression test scripts with a hybrid driven approach using QTP 9.2 Executed the Automated
+test seripts and did an end-to-end analysis of the failed test scripts and debug the same.
+
+EDUCATION
+---------
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

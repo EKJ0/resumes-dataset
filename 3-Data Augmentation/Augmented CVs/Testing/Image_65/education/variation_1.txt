@@ -1,0 +1,101 @@
+Software Test Engineer
+
+John Gidding
+
+% 000-00¢
+
+& email@email.com
+
+SUMMARY
+-------
+
+- Experienced tester in full product life cycle from requirement reviews to field deployments.
+
+- Active Agile/SCRUM team member for adding new features to existing products.
+
+- Highly motivated, creative, detail- oriented team player with excellent communication and interpersonal skills with extensive experience.
+
+- Proficient in analyzing/resolving problems, coordinating work with the local/remote teams, and optimizing tasks For efficiency.
+
+- Test Execution, Planning & Tracking: Test Result Verification, Resource Alignment, Requirement Analysis
+
+- Linux (Debian/Ubuntu, RedHat/Fedora/Centos): Installat- ion, Configuration, Maintenance, Debugging
+
+- Wireless: WiFi, Bluetooth, (WiMAX) Wireless Broadband, 3G, 4G-LTE Scripting/Programming: Linux BASH, Introductory Python, HTML, CCS
+
+- Technical Applications: Wireshark Packet Analyzer, HP Quality Center, Cygwin, iPerf, Jira, Nexus Root Toolkit
+
+- Networking: TCP/IP, UDP, Basic Switch Configuration, Debugging
+
+- Technical Hardware/Systems: Aeroflex/Cobham TMS00, JFW Programmable RF Attenuators
+
+- Testing Methodologies: Waterfall, Agile/SCRUM
+
+- New Technologies: Researching for new solutions to problems
+
+- Solving Puzzles
+- Reading Non-fiction Books
+- Socializing with Friends and Family
+
+WORK EXPERIENCE
+---------------
+
+Software Test Engineer 2016-02 - Present
+
+Bosch Group
+
+Preparing the test plan, test case writing, and system test execution.
+Writing test cases for integration testing and components based testing.
+Finding issues/defects and defect tracking until it’s resolved.
+
+Root Cause Analysis and possible solutions For errors encountered.
+System Testing, Regression Testing, and Functional Testing.
+Performance/Load Testing, Sanity Testing, and Smoke Testing.
+Validation of the Help Documentation/Files.
+
+Software Testing Engineer
+
+Fortive Corporation
+- Developed atest execution plan, based on the required documents.
+- Carried out the detailed requirements analysis forthe automation testing and suggested automation approach For the project.
+- Coordinated the test activities and deliverables with the dients.
+- Created a custom report for the automation requirement.
+- Worked for the multiple clients(Ensim, KPIT Cummins) and multiple internal projects.
+
+2013-02 - 2016-01
+
+Software Engineer - Wireless Broadband
+
+Symantec Software Solutions Pvt Ltd
+
+- Test Architect created test strategy, authored test cases, and coordinated execution of test cases among global teams. A principal member of feature teams, which involved in validating developers test code, cleaning up test scripts, and participating in architecture discussions.
+
+- Led knowledge gathering from a test perspective on a new platform and becamethe first point of contact for many platforms related issues before contacting vendor support,
+
+- Coordinated lab equipment usage plans and meetings.
+
+2009-04 - 2013-01
+
+Development Test and Integration Engineer
+
+Cognizant Technology Solutions
+
+- Coordinated development test schedules including equipment and engineers based on testing deadlines.
+
+- Collaborated testing efforts with the downstream test teams, which included equipment sharing and combined test plans to achieve strict testing goals.
+
+- Created a knowledge base for new products, and then trained parallel and downstream teams.
+
+- Improved efficiency on the information model team by automating the generation of information model files For development builds.
+
+2008-02 - 2009-03
+
+Master of Engineering in Software Engineering 2005 - 2006 University of Maryland
+Bachelor of Science in Software Engineering 2002 - 2005
+
+Snow College
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

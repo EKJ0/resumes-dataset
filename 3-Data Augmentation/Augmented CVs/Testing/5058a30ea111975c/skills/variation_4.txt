@@ -1,0 +1,82 @@
+Michael Ryan
+
+& 411661111311
+
+S+ years experienced software testing engineering professional armed with a demonstrated history of conducting software testing
+and executing mission-critical projects. Proficient in gathering requirements by understanding the business logic prior to test case
+writing to deliver results as a part of saving millions of dollars for clients. Adept at monitoring & managing databases and leveraging
+CASE tools to achieve error free results and optimize the testing process.
+
+KEY SKILLS
+----------
+- Software Testing (Web & Mobile) + Product Requirement Analysis + Application Maintenance Manual/Automation Testing + Project Planning + Scalability & Performance Testing + Performance Testing + Test Scripting
+- Test Cases Designing + Database Management + Debugging + Issue Resolution + Project Delivery + Report Generation
+
+TECHNICAL SKILLS
+----------------
+- Programming/Languages: VB.Net, C#, Net, C, C++, ASP.Net, Python, VBA, java, Visual Basic, SharePoint, PHP, MySQL, HTML
+- Databases Management: Oracle 8.x/9.x SQL Server, MS Access.
+- Design & IDE Tools: Rational Rose, UML, WSAD, Oracle WebLogic Server
+- Systems: Windows Server 2016, Linux/Unix, Mac OS X
+
+WORK EXPERIENCE
+--------------- Software Tester Mar '18 - Apr '21 SoftTech LLP SF,CA
+An international Company thot provides custom software engineering & consulting services with an employee base of 1400 professionals
+
+Software Testing & Debugging
+
+- Performed testing for different environments on 50+ software, telecom, and reporting systems
+
+- Designed & executed tests on software usability, analyzed the results on database impacts, errors or bugs, and usability
+
+- Tested applications in web and mobile environments & ensured all user expectations are addressed during the testing process
+- Evaluated & tested software and filtered 250+ bugs in conformance to internal standards and project-specific requirements Application Monitoring & Script Testing
+
+- Monitored applications/software systems and carried out stress, performance, functional & scalability testing
+
+- Developed test plans, test cases, test scripts, and test reports on 25+ projects; saved the clients millions of dollars
+
+Client Interaction & Report Generation
+
+- lmeracted with 30+ key company clients in order to procure product requirements
+
+- Generated 3+ insightful reports on a weekly basis pertaining to software testing & reported it to the design team
+
+Product Designing & Project Planning
+
+- Aided the design team of 25 as part of designing reviews, and providing inputs on requirements & potential problems
+
+- Executed 5+ projects, identified business requirements and met with system users to understand the scope of projects
+
+Programmer Mar "16 - Mar 18 MicroServices Enterprise SF,CA
+An IT company, estobtished in the yeor 1980, with over 1000 employees and generoting on annual revenue of USD 300.
+
+Database Management
+
+- Assisted in handling database and website programming tasks via Java, C, C++, HTML, and SharePoint
+
+- Helped in optimizing the website for search engine rankings and improved functionality of the company’s database
+- Redesigned the imernet & imranet pages and resolved memory corruption
+
+Coding & Issue Resolution
+
+- Built & deployed computer-assisted software engineering (CASE) tools to automate the writing of 25+ code
+
+- Resolved & fixed technical issues by leveraging strengths in coding, debugging, & integration testing
+
+- Updated & expanded existing programs and debugged 50+ programs by testing & fixing errors
+
+CERTIFICATIONS
+--------------
+- MTA certification | Microsoft | Mar'17
+
+EDUCATION
+--------- B. Sc. in Computer Science Jun '12 - Apr ‘16 University of New York New York, NY
+
+A public polytechnic university in New York with o student bose of over Sk students
+- GPA45/5.0
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

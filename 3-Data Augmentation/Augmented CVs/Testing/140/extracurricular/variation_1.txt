@@ -1,0 +1,182 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+ADDITIONAL INFORMATION
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+Address: New York, NY (Ready to Relocate) 5+ years experience seeking professional enrichment
+opportunities in Automation and Manual Testing. A highly capable technology and testing professional who
+enjoys the synergies of proving concepts, team working and collaboration, as well as learning. Offering
+creative problem-solving skills with experience in analysis, custom tools and automation test engineering.
+Currently looking for a new career opportunity to work in a progressive and challenging environment with an
+innovative company.
+
+Technical Skills Plugins:
+
+Operating Systems: Selenium Web Driver | Eclipse | TestNG | JUnit | MS-DOS | Windows | macOS | Linux| UNIX|iOS| Maven |J-Meter| Postman | Rest Assured | GIO
+Android | Active MQ | DIV | Appium |
+
+Methodology: Jenkins | Git | Firebug | Cucumber | Apache PO!
+Waterfall | Agile (Scrum) | V-Model (Software |
+
+Development) Defect Tracking Tools:
+
+Databases: HP Quality Center/ALM | JIRA | TFS |
+
+Microsoft Access | Oracle | Microsoft SQL Programming Languages:
+
+Server Java | JavaScript | Gherkins | SQL | HTML |
+
+Testing Tools and Framework
+
+QA, AUTOMATION ENGINEER, QA TESTING ENGINEER 01/2020 to CURRENT Moneygram International Inc | Cheyenne, WY
+
+- Testing Approach: Automation (Hybrid Framework), : Online banking system to provide security and comfort ability for the users who are opening this website
+
+- It is the internet banking to provide a customer to view, modify, and transfer his account Online by entering his identification number and password
+
+- It also includes Intranet banking to provide simplicity for bank employees to modify the customer information and to create new customers into the database etc
+
+- The enhancements include applying for a loan online and if a customer has more than one account he can view all at a time instead of opening more sessions
+
+- Responsibilities:
+
+- Project is under an agile environment, | attended daily standup meetings, provided daily status on manual and automation test results
+
+- Attended sprint plan meetings to review the user stories and story points
+
+- Scheduled Meeting for New Demands or New requirement received and co - ordinate between business analysts and developers
+
+- Responsible for designing the Architecture for Confidential files driven Test Automation Framework with Selenium
+
+- Responsible for creating automation testing and coding standards
+
+- Responsible for creating the JSON files for test scenarios
+
+- Responsible for planning regression test stories in every Sprint
+
+- Automated back end data validation through selenium
+
+- Implemented BDD through Cucumber
+
+- Created the Feature Files for Cucumber Automation
+
+- Created Test Automation Framework with Cucumber and Selenium Web-Driver
+
+- Prepared XML and Excel files for collection of data and Element Locators using object repository, used this in the test suite with the help of APACHE POI library files
+
+- Implement Selenium Grid to execute test scenarios on multiple browsers
+
+- Build tests through maven POM file
+
+- Test execution and reporting through Jenkins
+
+- Configured Cucumber Report Plugin and Performance Plugin to Jenkins to generate html test reports
+
+- Monitor test execution status through log4j
+
+- Maintain Code versions through GIT
+
+- Bug Reporting and Tracking through JIRA
+
+- Presented Automation Test result analysis during daily agile stand up meetings
+
+- Responsible for transferring the knowledge about re use of test framework to developers and manual testers
+
+- Environment: WINDOWS 10, Linux, Java, Selenium Web Driver, Cucumber BDD, Gherkin, Maven, Jenkins, Test NG, Eclipse, GIT, HP quality center, J-meter, Postman, Jira
+
+- Roject Names: (Dental HMO/Managed Care Plans
+
+Q/CANALY ST 01/2018 to 12/2019 Moneygram International Inc | Chicago, IL
+
+Cedar Gate Technologies’ bundied payment solution has more than 20 years' experience designing,
+building, and managing prospective bundled payment arrangements that are economically sustainable and
+steeped in clinical excellence Role : QA Analyst Project : Intelligence System for Advanced Analytic Computing
+Application: ISAAC Web based application- designed to analysis hospital records and find out leakage.
+Responsibilities:
+- Reviewed requirements and created test cases for both manual and automation
+- Worked in Agile environment and follow up in JIRA confluence
+- Extensively involved in defect life cycle management from opening to closure using JIRA
+- Analysis UI configuration in JIRA confluence and analysis with design team
+- Build, modify and enhance the Automation framework
+- Using cucumber, TestNG, Selenium Web driver with Java programing language for Automation
+- Developed Cucumber (BDD) Feature files using Gherkins and automate them using Selenium WebDriver with Java.
+- Expert in dynamic object handling with complex XPath methods to identify object and managed them from Page Factory
+- Export automation project into jar file and can run automation from anywhere without Eclipse.
+- Extensively involved in data driven testing from Excel, Web Table and Backend
+- Validation data from Database, Excel table with Test data
+- Checked automation build using maven
+- Use Jenkins for Continuous Integration
+- Expert Rest Assured with JAVA for REST API testing
+- Use GitHub as a version control management for the automation scripts and update repository.
+- Write complex SQL queries to test Data from PostgreSQL
+- Created and presented the overall Test Strategy and Test Process for EDW testing to the team and higher management.
+- Analyzed business/solution requirement document for both ETL and BI.
+- Expert in performance testing using JMeter and identify system and browser process and also import data in excel with load & response time. Environment: Windows 10, JIRA, MS Office 2016, Skype for Business, Outlook, SharePoint, Share drive. Eclipse (IDE), Selenium Web driver, Java, TestNG, Maven, GitHub, Jenkins & SQL.
+- Provided regular updates to team leadership on quality metrics by communicating consistency problems or production deficiencies
+
+Q/CANALY ST 01/2016 to 12/2017 TD Ameritrade | City, STATE
+
+TD Ameritrade is a brokerage firm offers an electronic trading platform for the purchase and sale of financial
+securities including common stocks, preferred stocks, futures contracts, exchange-traded funds, options,
+mutual funds, and fixed income investments.
+
+Responsibilities:
+
+§ Extensively interact with the stakeholders, and the IT Department in finalizing the requirements
+
+§ Created and executed Functional and GUI test cases and other test artifacts like the test data, data
+validation.
+
+§ Experienced with Agile (Scrum) methodology approach and follow-up with JIRA
+
+§ Effectively used Requirement to make sure all of the requirements were covered by the test cases
+
+§ Performed Integration, Functional, User Acceptance Testing (UAT), Regression, Graphical User-
+Interface (GUI) and End-to-End testing
+
+§ Write the functions for business logic, enhance the scripts and synchronize, debugging the scripts and save
+the time for regression testing, smoke, and sanity testing
+
+§ Use Gherkins Syntax to test the behaviors of the Application (BDD) using Cucumber with Junit,
+Maven, Selenium (Web) and STS(IDE) with java language
+
+§ Work with the Automation Engineer team to identified element by X-Path locators for Selenium(Web app)
+, developed script with java programming language
+
+§ Responsible for working on enhancing the Automation framework
+
+§ Run the Test suite using TestNG, Maven for checking build and use Jenkins as Continuous Integration
+
+§ Expert in various type of reporting use TestNG, cucumber and Jenkins
+
+§ Use GitHub as a version control managements for the automation scripts and update repository.
+
+§ Retrieved data from database with SQL statements, such as joins, sub-queries and clauses for backend
+testing and comparison with the frontend data
+
+Environment: JIRA, Selenium Web-driver, Selenium Grid, Maven, TestNG, Jenkins, Cucumber, SQL, Java,
+XML, HTML.
+
+B.S | Computer Science National University
+
+- Client/Stakeholder Management & Issue Resolution. Planned & strategized test schedules in accordance with project scope and delivery deadlines Identified, analyzed & reported application defects and rendered assistance with resolution via JIRA Interacted with customers & internal stakeholders to ensure complete & thorough understanding of all requirements. Defined, implemented and maintained test plans, test specifications, and test suites. Implemented and executed test strategies to improve the overall quality and boost test code coverage. Directed Performance and Load Testing, and administered System performance & health monitoring. Appointed in-charge of testing web services in SOAP/REST with JSON/XML data to enhance customer-facing apps/APIs. Developed & executed test cases to boost automated test coverage for existing functionality Deployed both functional and automation testing to successfully integrate backend with Restful APIs. Enhanced and maintained the test automation framework that is built using widely used, open source frameworks such as Selenium, Cucumber, and Gherkin. Integrate new libraries and frameworks as the mobile test automation landscape matures Work with the software development and manual test team to build, maintain, and monitor the existing suite of automated tests. Understand the business domain and customers we support to ensure that the test suite catches defects before they reach the customer. Independently developed Test Plans, Test Cases and Test Specification documents. Assesses and evaluated the coverage of all aspects of requirements in the test design Defined functional test cases based on technical design/functional design for verifying accuracy of developed features Documented testing results & performed root cause analysis to initiate corrective action for meeting quality objectives. Led manual, compatibility, performance and security testing for web applications Deployed expertise in test planning, test design, test strategy & execution in addition to Agile/Scrum methodologies Conducted Test Planning, strategized system testing & methodologies and developed system integration test cases. Formulated scalable automated test frameworks and test suites across technologies for the entire product portfolio Rendered assistance to conduct design/code inspections & performed manual testing encompassing all functionalities. Stakeholder Management & Webpage Development Collaborated with developers and QA leads to enhance testing performance, automation, and tools Automated and resolved defects for developing an end-to-end testing solution Devised processes for high-quality releases with clearly defined test phase entrance and exit criteria Scripted detailed test scenarios via advanced test automation frameworks like Cucumber/BDD frameworks, etc.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

@@ -1,0 +1,205 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Wesstres, PorTFOLIosS, PROFILES
+
+- https://www_linkedin.com/in/Jessica-Claire
+
+PROFESSIONAL SUMMARY
+--------------------
+
+SAP FI Consultant Professional Summary: 13+ years of experience working as SAP FI super user and senior analyst Excellent understanding
+of ASAP methodologies and gathering business process procedures (BPP) documentation for preparing Test Plan Thorough Knowledge of
+Software Development Life Cycle (SDLC), methodologies and test processes and Software Testing Life Cycle (STCL) Conducted training
+and developed documentation for end user for UAT testing on various SAP R/3 modules like FI/CO, MM & SD Good Understanding of FI-
+MM and FI-SD integration (automatic account assignment) set up Customized Credit Management as per business requirement via creating
+credit segment, credit control area, credit risk categories, credit groups and setting up credit checks Trained and Supported business users on
+AR, AP. and Business Partner (Vendor and Customer) processes Configured and tested GL master data, COA, GL account group, Retained
+Earnings Account, FSV, PPV, Open and Closed Posting Periods, and Tolerances Executed test cases manually to verify actual results against
+expected results Proficient in analyzing business specification documents, developing Test Plans, Test Strategy, and Test cases Experienced in
+different kind of testing such as Functional, Positive, Negative, Smoke, Integration, Mock, regression and UAT Hand on experience with
+creating and maintaining Master Data like Cost Centers, Profit Centers, Customer, Vendor, Business Partner, Article, and Site Master
+Extensive experience in Retail master data and finance operation Able to prioritize personal and team workloads to best meet organizational
+objectives Excellent verbal and written communication skills and the ability to communicate effectively with both non-technical business
+users and technical IT developers Proven ability to work under pressure, prioritize and meet deadlines Good team management and
+presentation skills A self-motivated and organized with exceptional analytical and problem-solving skills A team player with proven ability to
+interact effectively at all levels within a large industry with excellent interpersonal and communication skills Trained in using [Type]
+equipment, preparing for disasters and implementing forest fire emergency protocols. Qualified for [Tool] use and long-term project
+management. Experienced [Job Title] with over [Number] years of experience in [Industry]. Excellent reputation for resolving problems and
+improving customer satisfaction. Organized and dependable candidate successful at managing multiple priorities with a positive attitude.
+Willingness to take on added responsibilities to meet team goals. [Job Title] with over [Number] years of successful experience in [Skill] and
+[Skill]. Recognized consistently for performance excellence and contributions to success in [Industry] industry. Strengths in [Skill] and [Skill]
+backed by training in [Area of study]. Dedicated [Industry] professional with history of meeting company goals utilizing consistent and
+organized practices. Skilled in working under pressure and adapting to new situations and challenges to best enhance the organizational brand.
+Hardworking and passionate jobseeker with strong organizational skills eager to secure entry-level [Job Title] position in [Type] environment.
+Ready to help team achieve company goals. Diligent [Job Title] with [Number]+ years of order management experience from order placement
+through final customer payment. Excels in high-volume atmospheres requiring multitasking skills and commitment to customer satisfaction.
+Showcases attention to detail and responds to shifting priorities across broad range of order fulfillment tasks to drive operational efficiencies.
+Customer-focused [Job Title] with [Number] years of experience. Trained in [Area of expertise] and [Software] use with knowledge of data
+verification techniques and salesmanship strategies. Skilled at maintaining long-term relationships with clients and increasing profits. Reliable
+employee seeking [Job Title] position. Offering excellent communication and good judgment.
+
+SKILLS
+------
+
+- Teambuilding e [Type] software proficiency
+
+- Supervision © Multitasking abilities
+
+- Data management © Project implementation
+
+- Leadership © Compliance inspection
+
+- Self-motivated professional e First responder experience
+
+- Training & Development e [Tool] repair and maintenance
+
+WORK EXPERIENCE
+---------------
+
+03/2020 to Current SAP QA Testing Lead City Of San Antonio, Tx - San Antonio, TX
+
+- Collaborate with Key Team Members (Business Key Users, Functional Lead, Adoption Team, Security Team Development and Technical Team) to confirm human factors associated with the program Review key project deliverables (Project Plan. Business Case Workflow/Process lists, others) Responsible for scheduling Testing Session, Meetings and Presentations SAP Testing Liaison between Functional Lead and Business Key User, identify requirements specific to test scenarios. Conduct Testing Session for MDM, Finance and Cross Domain Retail and Supply Chain. Reported defects and concerns raised by business users. Schedule Meetings with Core design Leads to get the clarity on the pending issues and to ensure knowledge is transferred prior to continue with testing session. Participated in system and integration testing, identified and resolved solution defects Enriched test scripts to cover
+
+up maximum scenarios using minimum data Involved in documenting Test Plan, Test Cases and Test Procedure
+using Business Requirements document and Functional requirements document Created and updated Test plan, Test
+Xray, and Test Execution Key in JIRA Executed testing in Pre Dev & QA environment to validate scripts for
+Customer, Vendor, Business Partner, Site & Article Master Run Triage Defect Meeting daily with Functional Leads
+to ensure defects are being addressed as per the assigned ETA Conduct entry validation test for Customer/Vendor
+Business Partner, company code, sales and purchase data and Partner Functions Validate Article master data flow to
+downstream correctly from PLM system (Centric or Stealth).
+
+Created local, service article in SAP and listed them manually to local DC/Stores Create general assortment/listing
+based on seasons and events, and article status (newness and carryover) Test Master Data procedures for accuracy
+as well as ensuring training database validity Maintained Site Master for all of its views such as valuation/inventory
+mgmt., listing material planning, Purchasing, Layout/block etc.
+
+- Also, maintained site status as needed like blocked store, close store temporarily or permanently.
+
+- Executed vendor setup and payment, administration of bank accounts and account reconciliations.
+
+- Trained new and existing staff members in various financial procedures to prepare for job requirements.
+
+- Worked closely with shift manager to solve problems and handle customer concerns.
+
+- Assisted customers with prompt and polite support in-person and via telephone.
+
+- Partnered with IT, business development and operations leadership to develop robust financial business plan with detailed benchmarks and action plans.
+
+- Replenished sales floor merchandise and organized shelves, racks and bins for optimal appearance.
+
+- Analyzed financial statements against forecasts to prepare high-level variance analysis.
+
+- Approached each problem with fresh mind and analytical strategies to quickly resolve concems.
+
+- Evaluated competitor data and statistics to develop business investment strategy and drive growth.
+
+- Mitigated process gaps and managed financial operational functions.
+
+- Increased customer satisfaction by [Action] and [Action].
+
+- Maintained customer satisfaction with quick and professional handling of product returns.
+
+- Created documents to display financial reports and data using [Software].
+
+- Logged reports, expenses, receipts and sales documents into digital database.
+
+08/2018 to 02/2020 Master Data Functional Senior Analyst Tapestry - City, STATE
+- Handled multiple Master Data Cleansing projects for Vendor Master such as Blocking duplicate vendors,
+
+Validating and Updating missing VAT#s, and bank details, Maintaining Ariba PO and Non-PO for direct and
+
+Indirect vendors, and Updating Ariba ACM ID#s.
+
+Supported business users with creating and updating business partners for Customer & Vendors, extending BP to
+
+additional company codes, sales area and purchasing Organization Maintained Material Master via creating sizes
+
+and Validating Material Master Hierarchy is in sync with PLM (EC Vision), Activate/Deactivate Material, Mass
+
+update of HTS Codes, Extended NRF size and color codes Reviewed and addressed Material Batch errors on
+
+priority basis such as Newness (for department, class, subclass issues) and Product Hierarchy issues (for size &
+
+color issues) Assisted with preparing Costing Revaluation spreadsheet.
+
+Ensure costing errors related to miscellaneous landed cost such as royalty fee.
+
+- Prepared manual costing spreadsheet for license SKUS Prepared monthly reports for standard costing, purchase price list, service vendors, activate/obsolete Material reports and open costing period Communicated SAP capabilities to end users via regular training Analyzed and Provided solutions for Customer Master, Pricing, Vendor Master, Bank Master issues reported by users via SNOW tickets Monitored and Analyzed error status of IDOCS, edited incorrect or missing data on flat file and reloaded them to confirm data uploaded correctly in SAP Hands on experience in configuration of Article types, Merchandise Category and Hierarchies, Article Master Data screens and Sub Screens Conducted Unit testing and coordinated Integration testing and creation of master data for the same Hands on experience on one-step pricing procedure calculation Documenting business processes and created SOP for Vendor and Customer Master Provided post-production support on day-to-day activities performed in SAP.
+
+- Tested and validated models for accuracy of predictions in outcomes of interest.
+
+- Compiled, cleaned and manipulated data for proper handling.
+
+- Ran statistical analyses within software to process large datasets.
+
+- Developed polished visualizations to share results of data analyses.
+
+- Created spreadsheets using Microsoft Excel for daily, weekly and monthly reporting.
+
+- Improved operations through consistent hard work and dedication.
+
+- Demonstrated respect, friendliness and willingness to help wherever needed.
+
+- Monitored all company inventory to ensure stock levels and databases were updated.
+
+- Delivered exceptional level of service to each customer by listening to concerns and answering questions.
+- Drove operational improvements which resulted in savings and improved profit margins.
+- Managed team of [number] employees, overseeing hiring, training, and professional growth of employees.
+
+05/2005 to 04/2017 Master Data Senior Analyst AIG, Inc, SAP - City, STATE
+
+- Responsible for handling General Ledger, Account Receivable, Credit Management, Dunning, Accounts Payable, and Disbursement Provided production support in data migration from ARTS (legacy systems) to SAP Participated in successfully transferring of customer and vendor open balances from the legacy system to SAP Documented entire flow of disbursement process from confirming the open balance, validating vendor set up. credit status check to processing the disbursement Selected by key decision-makers to travel to Noida, India to conduct training sessions and performance reviews with the off-shore team Heavily involved with Training Onshore and offshore team, attending meetings, and documenting and reporting team progress Documented and reported the defects and interacted with developers to follow up on them Manually performed integration end-to-end testing of AR module consisting of Customer Master Records, Customer Groups, Terms of Payment, Cash Discounts, Credit Management, Over/Under Payments, Dunning Procedures as per BPP Manually performed integration testing of AP module consisting of Vendor Account Groups, Vendor Master Data, Payment Term, Manual and Automatic Payment Process configeration steps such as paying company code, payment method in country & company code, Bank determination & House Bank as per BPP Assisted with opening tickets, writing business requirements and coordinated with the various groups for resolutions Documented and reported the defects and interacted with developers to follow up on them Created mock data for testing upgrades and changes requested by business users Prepared test plans, test cases and test scenarios for Account Receivable, Disbursement and Reclass processes Performed UAT and Regression testing and approved implementation of all changes General daily functions included, reconciliation of large national accounts and managing non-responsive accounts Designed and
+implemented processes to keep STAT to a minimum, such as in 2016 assigned $4.9M and cleared $4.5M
+Substantiated Compliance balances through timely review and reconciliation of accounts Managed non-responsive
+accounts by following the escalation process such as dunning, demand letter and legal referrals Wrote off bad debt
+balances for cleansing of AR balances Prioritized customer disputes and billing concerns to ensure resolution is
+provided in timely manner Acted as a liaison between underwriting, billing dept, and audit dept.
+
+- To ensure customer, vendor and brokers concerns are handled on priority basis Weekly updated large account balance report to prioritize for immediate resolution.
+
+- Applied loss functions and variance explanation techniques to compare performance metrics.
+
+- Tested and validated models for accuracy of predictions in outcomes of interest.
+
+- Developed polished visualizations to share results of data analyses.
+
+- Ran statistical analyses within software to process large datasets.
+
+- Presented findings orally and in writing with advanced mathematical models.
+
+Compiled, cleaned and manipulated data for proper handling.
+
+- Developed and implemented performance improvement strategies and plans to promote continuous improvement.
+
+- Used Microsoft Word and other software tools to create documents and other communications.
+
+- Used critical thinking to break down problems, evaluate solutions and make decisions.
+
+- Resolved conflicts and negotiated mutually beneficial agreements between parties.
+
+- Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.
+
+- Offered friendly and efficient service to all customers, handled challenging situations with ease.
+
+- Exceeded goals through effective task prioritization and great work ethic.
+
+- Delivered [product or service] to customer locations within specific timeframes.
+
+EpucatIion
+09/2021 JIRA Fundamentals Badge Atlassian University
+- Completed professional development in JIRA
+- Awarded Certification of Completion
+07/2019 SAP S/4HANA 1809 Certified FI Associate: Finance SAP America
+01/2018 SAP FICO Full Cycle & Business Analyst Training
+
+Avtech Institute of Technology - South Plainfield, NJ
+
+A.AS. (Associate: Applied Science, Accounting Union County College - Cranford, NJ
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

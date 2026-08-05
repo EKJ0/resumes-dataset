@@ -1,0 +1,251 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Internal Use Only Internal Use Only Internal Use Only Jessica Claire Software Testing Engineer Advisor Location: MASSACHUSETTS
+Professional Summary Over 10 years of experience in Software Testing and my knowledge spans all phases of Software Development Life
+Cycle and has skills specializing in the area of Software Quality Assurance.
+
+Software Testing - Performed manual test execution on client/server and web environments. Conducted different types of testing such as
+user interface (GUI), system testing, user acceptance testing (UAT), multi release testing, end-end testing, regression testing and smoke
+testing.
+
+Data validation - Conducted batch interface testing and performed data validation on oracle database using tools like Toad and SQL
+
+Plus. Also, validated audit reports and data feed extracts for data warehouse metrics.
+
+Bug logging - Reported software defects and retested the bug fix.
+
+Senior Quality Assurance Test Engineer with full system development lifecycle experience. including designing, developing and implementing
+
+test plans, test cases and test processes. Offering significant achievements driving cost savings, process efficiency and fault-free audits. Skilled
+in Agile methodologies with strong leadership and strategic thinking skills. Accomplished Testing Engineer with [Number] years of experience
+
+designing and implementing manual and automated testing procedures. Developed documentation and standard operating procedures for
+
+evaluating front-end and back-end functionality in software products, constantly improving performance in portfolio of over [Number] software
+
+products. Well-versed technological expert refining and optimizing all aspects of performance. Test engineer with [Number] years of experience
+
+in requirement analysis, designing user and test cases, and executing Test and Evaluation (T&E) master plans for diverse applications and
+
+systems. Collaborative team player with track record of delivering multiple, concurrent projects in fast-paced environments.
+
+SKILLS
+------
+
+- Black box functional Testing e Version Control, Sales
+- Agile/Waterfall Methodology e Data warehouse, SQL
+- Batch Interface Testing e Database, Tables
+- Database Validation © Delivery, Unique
+- Azure DevOps ¢ Document management, Usability testing
+- Web Services/API Testing e E-business, User interface
+- Web Application Testing e Email, Validation
+- Business Analysis. e Features, Video
+- Defect Management e Functional
+- JSONS validation « GUI
+- ACA, Networks e Explorer
+- Agile, ONS © Logic
+- AOL, OS ¢ Mainframe
+- APT, Oracle database © Meetings
+- Approach, POS © Messaging
+- Automation, Pricing e Access
+- Browsers, Quality © Mail
+- Business Analysis, QA © Microsoft office applications
+- Business process, Reporting e Windows
+- Clients, Requirement e Test and Evaluation (T&E)
+- Client, Retail
+
+WORK EXPERIENCE
+---------------
+
+Testing Engineer Advisor, 04/2013 - Current Apex Systems - Warren, MI
+
+Project: CMP (EEE/XRM) Customer Member Process offers a e-business solution for the HHPC sales to setup the Customer Accounts and
+their Group plans.
+
+The XRM application maintains the member enrollment data.
+
+Project Accomplishments: ACA program CT Expansion Large Group Quoting Process Automation of Service Response Cache to update
+Summary Override for RX drug riders Primary Responsibilities:.
+
+Worked in Agile environment and ensured that software solutions are effectively delivered to the business process.
+
+Strategically planned the test deliverables by complying with the testing standards within HPHC.
+
+Performed Acceptance testing, Functional, Regression testing and Database validation.
+
+Closely worked with the business to gather and review the business requirements, and supported the User Acceptance testing.
+Effectively collaborated with the offshore team and cross functional team as per the demands.
+
+Development and delivery of assessment findings and recommendations report including project summary timelines relative to
+implementation of system functionality and best practices.
+
+Software Tester, 12/2010 - 10/2011 3D Systems - Wilsonville, OR
+
+Project #1: Integrate AWP from Alternate Source The Integrate AWP from Alternate Source project was redesigned to replace the AWP
+(Average Wholesale Price) received from First Databank to an alternate source, because of the discontinuation of the AWP price update
+from the FDB.
+
+RxConnect uses AWP as the benchmark price for most of its pricing operations; this AWP is needed for all drugs.
+
+The technical goal of this project is to receive a feed from Mainframe CX that contains the new AWP from the alternate source which is a
+Medi-Span.
+
+This new feed which, now, has the source of AWP along with the AWP pricing data is then loaded into the production tables using the
+existing business logic so as to keep the process as transparent as possible.
+
+The major segments that underwent changes and were tested during this project are as follows.
+
+Weekly DrugPricing Refresh.
+
+Daily Drug Pricing Update.
+
+Audit Reports.
+
+RxDW Daily Pricing Extract.
+
+Retail Pricing Feed Primary Responsibilities:.
+
+Test Plan and Test case management.
+
+Created process flow diagrams for a Use Case, derived positive and negative test scenarios and drafted test cases by referring to Use Cases.
+Ensured business requirement coverage by mapping test cases to the requirements in the Microsoft Quality Center (QC).
+
+Test Execution for system testing and UAT testing.
+
+Created feed files to test the weekly DrugPricing refresh and Daily Drug Pricing update batch load jobs.
+
+Manually ran the control m jobs to load the data from the feed files into the database.
+
+Created SQL joins/insert/update/group by/order by/to_date to validate the data for its accuracy in the database after each batch run to
+ensure that the data is inserted/updated as per the requirement.
+
+Verified Audit reports from winscp.
+
+Manually ran the daily pricing feed extract job for Data warehouse (DW) both on demand and on daily basis, and verified the extracted
+pricing data in the feed.
+
+Conducted user interface testing (GUI) on the Rxconnect system.
+
+Reported software defects both in MS QC and Team Track bug logging. and retested the patch fix for the defects.
+
+Conducted End-End testing and Multi release testing.
+
+Co-ordinated with the offshore team (TCS client) who supported this project by conducting IT testing.
+
+Project #2: PHARMACY SERVICE INITIATIVE 2 “RxDW METRICS EXTRACT” As part of PSI 2 project the approach for RxDW was
+to extract the Rx data and POS data from Rxconnect and provide the data attribution to the pharmacy data warehouse for reporting and
+metrics.
+
+These metrics /reporting will be used by business to improve pharmacy service and customer experience as well as to track improvements
+in productivity and reduction in costs.
+
+Primary Responsibilities:.
+
+Test Plan and Test case management.
+
+Created test cases for RxDW metrics feeds in the QC by referencing the Use Case.
+
+And also created test data for these test cases from the data model and the production database.
+
+Created test scenarios for multi release testing of PSI2(R7).
+
+Reviewed test cases that were drafted by the offshore team (TCS client) who were also part of this project implementation.
+
+Software QA Engineer, 01/2005 - 12/2006 AZTEC-America Online, AOL - City, STATE
+
+Project #3: Affinity Networks: It is developed to provide web services and used by other clients to use the functionality of working with
+other specific networks.
+
+Affinity networks provides a web interface to create/modify/delete networks for the system.
+
+Primary Responsibilities:.
+
+Prepared Test Plans, planned/executed Test Cases.
+
+Involved in deploying web services.
+
+Created SQL queries to validate the data integration.
+
+Analyzed and reported software defects.
+
+Coordinated daily meetings with QA, IT and clients to provide status and to resolve any testing issues.
+
+Project #2: Searchlight AOL Explorer: Searchlight AOL Explorer is an enhanced browser with added browsing control, enhanced security
+messaging, and various features that makes browsing better for AOL members.
+
+Primary Responsibilities:.
+
+Prepared Test plan, Test cases and performed Build release.
+
+Performed Web application testing focusing on cross browsers testing, OS compatibility, performance and usability testing.
+Performed, User interface(GUI) System, Regression, Beta, Acceptance and Microsoft patch testing.
+
+Analyzed/Reported software defects in bug logging and tracking tool.
+
+Created Traceability matrix and Test execution report Project #1: Open Name Space: ONS allows users to sign in to AOL Instant
+Messenger (AIM) using an email address as screen name.
+
+The ONS user just like any other AOL member can access all the features of AIM such as Instant Messenger (IM), Buddy Chat, Voice
+Chat, Video Talk, and Mail.
+
+Primary Responsibilities:.
+
+Reviewed SRS document.
+
+Created and executed Integration test cases, and conducted user interface testing (GUI).
+
+EDUCATION AND TRAINING
+
+Result/Degree
+
+Visvesvaraya Technological University
+
+Bachelor of Engineering: Computer Science
+
+ACCOMPLISHMENTS
+
+QA Analyst - Implemented standard software testing process.
+
+Ensured that all test deliverables met the software functionality requirements.
+
+Business Analysis - Participated in requirements gathering and reviews.
+
+Created test plans, process flows, test scenarios, test cases and coordinated user acceptance testing and ensured that software product met
+business needs.
+
+Leadership - Mentored and facilitated project training to new team members.
+
+Served as key liaison between Project management, Development, Business and QA team Application Experience.
+Oracle E-business application.
+
+Insurance-Quoting/Rate Configurator.
+
+Pharma data central repository system.
+
+Client/Server applications.
+
+Pharma RX Data pricing.
+
+Web Media applications.
+
+Member Data/Provider Data Management.
+
+Pharma RX Data pricing.
+
+Web Media applications.
+
+Member Data/Provider Data Management, NTT DATA, Inc.
+
+Healthcare Consulting Group NIT DATA, Inc.
+
+Healthcare Consulting Group.
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

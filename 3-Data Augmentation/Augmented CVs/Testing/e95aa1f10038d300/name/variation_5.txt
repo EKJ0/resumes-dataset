@@ -1,0 +1,60 @@
+Maria Garcia
+
+Robert Smith Phone (123) 456 78 99
+
+Email; InfoS@awikresume,cor
+
+Website > vow. qwikre sume, com
+
+Performance Tester Linkedin: linkedin. com/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Over 5 years of diversified experience in Software Quality Assurance with skills in Manual,
+Automated testing of client/server, distributed web-based systern. Experienced on Mercury Test
+Suit (Test Directors Quality Center, LoadRunner and Quick Test Professional), Extensive experience
+in Manual /Autornated testing of Web based and Client/Server applications with proficiency In Load
+and Performance Testing,
+
+SKILLS
+------
+
+Leadership, Tester.
+
+WORK EXPERIENCE
+---------------
+
+Performance Tester
+Deloitte & Touche - February 2015 - 2020
+- Defined Rendezvous point to create intense load on the server to measure the server performance under load,
+- Analyzed results of Transactions Response time, Transaction Summary by Vusers, Hit per Second, Throughput and merged graphs using LR Analysis tool,
+- Performance Tested Most of the Modules of HCM and FSCM.
+- Monitored the Web, App, Process Server and DB Servers while the System is under testing Closely,
+- Monitored SQL Traces using People Tools SQL Trace, Application Server Logs, Batch Timings Reports, Webserver Access Logs and process Monitors, etc,
+- Inserted Transactions, Checkpoints into VuGen Scripts as well as parameterize Sarnp; correlate the scripts.
+- Carried out multiple phases of load tests and schedule them as per requirernents.
+
+Performance Tester
+
+Delta Corporation - 2011 - 2015
+
+- Working with Rational Performance Tester, recorded test scripts for testing.
+
+- Ran multiple large tests with the tearn to see where performance was lacking in the systern,
+
+- Wrote reports to give to lead about different scenarios.
+
+- Analyzed server resources such as Total Processing Times, Available Bytes, Process Bytes and Heap Usages to look for performance bottlenecks Analyzed ,
+
+- Location Chennai, Tarnil Nadu, India Technologies Used Siebel CRM, Oracle Fusion Middleware, Clanguage, SQL and Oracle database Tools Used HP,
+
+- Performance testing using Loadrunner products VuGen, Controller, and Report Analysis.
+
+- Created aver 100 VuGen scripts for TUXEDO, WEB, Java, Java RMI, TIBOO, and telnet protocols Created and executed over 40 controller scenarios Use .
+
+EDUCATION
+--------- GED
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings

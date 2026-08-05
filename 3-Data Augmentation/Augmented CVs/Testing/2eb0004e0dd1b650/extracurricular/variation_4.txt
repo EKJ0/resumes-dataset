@@ -1,0 +1,62 @@
+Robert Smith hore Sasbibae
+
+Email: info@qwikresurme.com.
+
+Website : wwew,qwikresume, com
+
+Software QA Tester LinkedIn: linkedin, com/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Software QA Tester with over 3 years of experience in performing Functionality Testing, Integration
+Testing, Systern Testing, and Regression Testing manually. Strong knowledge of the SDLC, QA
+Testing Process. Experienced in testing Client/Server Web-based and mobile applications.
+Experienced in participating in Entire QA Life Cycle - Designing, Developing and Execution of the
+entire QA Process, Efficient in writing Test Plans and Test Cases based on business requirements
+
+SKILLS
+------
+
+Android, Bugzilla, Web, Mobile, QUI, Functionality, Smoke Acceptance, Regression Testing
+
+WORK EXPERIENCE
+---------------
+
+Software QA Tester
+Infornatrix Global - Septernber 2014 - April 2018
+- Tested the leading independent airport parking directory and reservation network on the internet.
+- Prepared the test traceability matrix to confirm the test coverage and mapped it with the test cases.
+- Interacting with the developers and business users to communicate the defects and actively participated in replicating the bugs and performed regression testing using Jira,
+- Coordinating the acceptance test processes and documenting and addressing all the issues during the process.
+- Interacting with the development configuration and operations team to ensure the quality of
+
+software to user expectations.
+- Verifying the Integration of various cornponents in the application and executed end-to-end
+
+testing,
+- Participating in release review/requirement analysis and design review meetings,
+
+Sr QA Tester
+ABC Corp - 2012 - 2014
+» Created and maintained automation suites using testcomplete scripts to increase efficiency,
+and allow for more tirne spent on manual exploratory testing.
+- Found, researched and reported the bugs in jira/Hansott,
+- Wrote, maintained and executed the Test Cases as necessary.
+- Prioritized, assigned and delegated the tasks to QA testers on a daily basis,
+- Tracked the daily/weekly progress of projects to ensure releases are on schedule,
+- Gathered and reported the test metrics,
+- Clearly cormmunicated the overall health of the product to key stakeholders via status updates.
+
+EDUCATION
+---------
+
+MA in Financial Management - (Moscow University For Industry And Finance - Moscow, RU )
+
+- This Free Resime Tempimte ls the copyright of Qwikresume.com. Usage Guilctelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.
