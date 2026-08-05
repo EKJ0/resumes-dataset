@@ -1,0 +1,164 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+Full Stack Java Developer with over 6 years of experience in Application Development, this includes design,
+development and Implementation of Projects in the areas of Java/J2ee and JavaScript frameworks, Client and
+Server-side Enterprise Applications.
+
+- = Java/J2EE e Javascript, Typescript
+- Spring Boot ¢ MyBatis, hibernate ORM Frameworks e« Micro Services, RESTful Web Services e Oracle, DB2
+- Spring security, OAuth2 ¢ Agile development methodologies
+- Angular 8/11 ¢ Customer-oriented
+- Maven ¢ Interface design and implementation
+- Git ¢ Application development
+- Jenkins ¢ Requirements analysis and design phases
+- Tomcat 9, IBM WebSphere * Scripting
+JAVA ANGULAR DEVELOPER 01/2020 to CURRENT
+
+World Wide Technology | Edina, MN
+
+Project: DataNow/24 Hr ResponseThe Office Of Personnel Management (OPM) Office of the Inspector
+General (OIG) requests claims history from FEHB Program Carriers by sending an Exposure Request Form
+defined in OPM Carrier Letter 2017-013, Attachment 4. Exposure Requests may pertain to Institutions,
+Providers, or FEP Members and can be for medical, pharmaceutical or both. The Exposure Request Form
+has a 24-Hour RUSH option. Previously, FEP Special Investigation Unit (SIU) used MCSorce data warehouse
+to satisfy these 24-Hour RUSH requests when MCSource was in production. Since the decommissioning of
+MCSource, FEP SIU has used the FEPOC to provide the requested claims history and/or summary
+information for OPM-OIG. However, the current FEPDO/FEPOC medical data request process does not
+support the 24-Hour RUSH timeline. (Note: 24-Hour RUSH requests for pharmaceutical data are processed by
+CVS Caremark within the required timeline. The FEP SIU wants to use FEPOC, as the system of record, to
+provide all medical claims data and/or summary information (total amount billed and total amount paid) in
+response to OPM-OIG Exposure Requests. In 2014, FEPOC built a prototype system under BRD040;
+however, it was never put into production as the disclosure ID issue was not resolved at that time. Currently,
+FEP SIU pairs FEPOC ad hoc job numbers to FEPOC HIPAA Disclosure IDs when sending medical data
+requests to the FEPOC via BCBSA's Enterprise IT.. FEP SIU records the ad hoc number and disclosure pair
+within the FEP SIU Tracking System (FSTS).These additional parameters are NOT shared with OPM-OIG
+unless the information is already contained on the FCR. Output of the current medical data request process
+creates an output file in OPM-OIG data record format.. FEPOC sends the output file to a secure server for
+OPM-OIG retrieval and another output file in excel format for FEP SIU retrieval. Summary information (total
+amount billed and total amount paid) is sent in an email to FEP SIU an OPM-OIG.
+- Participate in release and sprint planning to review the requirements and provide the feedback and help the Business Analyst/Product Owner in creating requirements and Epics/stories.
+- Define acceptance criteria with the help of product owners/TPMs and add it in the stories/confluence page.Create or help create stories/sub tasks and assign those to individual developers. Also define Acs from Mock screens/Wireframes provided by TPMs.
+- Developed new web pages/ routes using angular based on users' access to that route.
+- Developed new material tables using the angular material library.
+- Developed buttons/ toggles with which users can perform various operations on records which are shown inside angular material tables.
+- Developed menu bars to show users various kinds of settings with which they can do admin operations if they have admin privileges.
+- Developed new web-services end-points which provide json data to the angular web app with which the app will be able to show requested data for users.
+- Developed web-services end-points which allows users to insert/modify data via angular web-app for various kinds of actions users can perform on a webpage.
+- Developed Angular forms which have 3 pages that need to be filled by the user.
+- Developed Validations for each field (text/single select dropdown/multi select dropdown/drag and drop) on each page out of 3.
+- Developed validations for all the fields on 3 pages at the time of submitting the form.
+- Developed SQL queries to retrieve/insert/update/delete records from database inside java application using MyBatis.
+- Developed web-services/micro-services using spring-boot for various end-points which are for insert/ update/read/delete operations. Environment: Java 8, Spring 4.x and 5.x, Spring Security, Spring Boot, MyBatis, IBM WebSphere 9,MyEclipse, Maven 3, Log4J, MySql, Putty , WinSCP. Git Bash.npm,nodeJs, Angular 8, Material framework, TypeScript.
+
+JACA FULL STACK DEVELOPER 08/2018 to 12/2019 Jpmorgan Chase & Co. | Babylon, NY
+
+Project: Realize/Easy BridgeFor Teachers who need a core product to enhance their teaching materials,
+Realize provides a source of premium content correlated to state standards. Content is organized in a way
+that allows Teachers to search by keyword, browse by a table of contents, or browse by standards. In addition
+to the searching of content, Realize offers tools that encourage Teachers to customize the content and add
+their own. A comprehensive set of reports and student usage data gives teachers the power to target their
+teaching to improve student outcomes.Easy Bridge provides a set of application services that provide an
+ability to SSO and synch class, class Rosters between SIS, 3rd party SIS, SchoolNet and RUMBA based
+applications like PSN, PSN+ for now (and future with other LMS's like OLE and Realize). The main use is to
+allow our customers to use a single account to access their Pearson products, regardless of where accounts
+are created this way it saves customers hundreds of hours of set up and ongoing account management time
+per year.
+- Participate in release and sprint planning to review the requirements and provide the feedback and help the Business Analyst/Product Owner in creating requirements and Epics/stories.
+- Define acceptance criteria with the help of product owners/TPMs and add it in the stories/confluence page. Create or help create stories/sub tasks and assign those to individual developers. Also define Acs from Mock screens/Wireframes provided by TPMs.
+- Working closely with TPMs, Manager and other Dev leads to get the design right in the form of component diagrams, UML sequence diagrams, flow chart diagrams.
+- Define the technical specifications/implementation based on which developers will be working in line with the agreed design and technical specifications.
+- Do code reviews and make sure the code quality is in line with the rules specified using CI/CD tools such as Jenkins, Jacoco test coverage, SonarQube.
+- Work with DevOps resources to deploy the build code onto AWS. Using AWS provided services mainly elastic beanstalk, S3, Cloud Watch, Kibana.
+- Developed code using Spring 5 technologies, all of our backend services/micro-services are Spring boot applications. Used Gradle/Maven for building these applications.
+- Developed code using Angular6/7, NodeJS(graphql) for server-side code talking to other services.
+- Ensuring the features developed by my team are produced to the highest possible quality in the fastest possible time.
+- Developed applications with LTI-A technology which is a major security implementation when talking between two parties.
+- Understanding and be able to talk coherently about the any practices (such as refactoring, TDD and pair programming) we are implementing and their benefits
+- Implemented Data binding, Event emitters, Directives, Dependency Injection, Services, HTTP Client and routing concepts using Angular, typescript.
+- Used Junit(Mockito, EasyMock, PowerMock), Nunit, MSTests(Moq) for unit testing. Used TDD and ATDD development while developing code.
+- Used Swagger implementation for the web services which gives all our service APIs documentation and request, request body, header and response details. Environment: Java 8, Spring 4.x and 5.x, Spring Security, Spring Boot, OAuth 2.0, Hibernate JPA, Tomcat 7.8, Eclipse, STS, Maven 3, Log4J, MySql, Putty , WinSCP. Git Bash, Source Tree, Tortoise Git.npm, Angular, TypeScript.
+
+JACA DEVELOPER 01/2016 to 07/2018 Amerisourcebergen Corporation - Corporate | Fiskdale, MA
+
+Project: Retail - Managed Accounts Portfolio Construction (R-MAPC) / Fidelity Personalized Portfolios (FPP)
+101.A brief history - the trading of FPP accounts began in 2009 with 3 pilot accounts. That grew to 300 select
+client accounts in 2010. In 2011, FPP accounts were available to the public, and a few years later, we now
+have over 220,000 accounts under management.Put simply, R-MAPC/FPP products are highly customizable
+investment vehicles, that are typically marketed toward high-net-worth clientsWe offer managed accounts that
+have tax loss harvesting capabilities, i.e. Customer accounts will be managed by a Fidelity Investment
+Manager who will trade the account, purposely taking financial losses on some trades to offset the gains
+taken by others, to minimize the amount of taxes the customer will have to pay to the IRS at the end of the
+year.Customers can customize their accounts by contacting a Fidelity Relationship Officer (RO) by calling
+them or by meeting with an RO in their local Fidelity Investor Center (retail branch).
+
+- Participate in release and sprint planning to review the requirements and provide the feedback and help
+
+the Business Analyst/Product Owner in creating requirements and Epics/stories.
+
+- Understand the requirements and help crack down the Epics into stories and furthers into tasks. At this
+
+point a story is an assignable unit to a particular developer/team member which can be delivered within
+a sprint (2 weeks' time) including development and testing.
+
+- Provide the estimates for each of the stories according to the complexity/difficulty and the effort involved
+
+to complete a story based on previous efforts and time frame.
+
+- Assess the risks involved in completing a story and also provide the back-up plan if a story cannot be
+
+done because of external dependencies or due to any technical difficulties, so that the Product Owner
+can scope that item for upcoming release just in case if that cannot be done in the current release.
+
+- Prepare a design document after analyzing the requirements by converting those requirements into
+
+technical implementation.
+
+- Participate in a design review meeting with Architect, Team lead and any other developers, and review
+
+the design approach that was chosen. Give the reasoning why this implementation was chosen.
+
+- Developed and maintained web services/microservices with technologies including Spring 3 and 4,
+
+spring boot implementing security with spring security/OAuth 2.0 and also including apache's SSL level
+security on servers to validating the certs CA name and its attributes.
+
+- While developing the services used myBatis 3 as an ORM framework to map the java objects to the
+
+database objects which is mainly used for huge transactions into different tables.
+
+- Used Futures for multi-threading of tasks accomplished on services. Used apache http client for making
+
+rest service to service calls.
+
+- Used Unix commands, Splunk queries on Splunk dashboards to debug logs, and also unix scripting for
+
+installing vahs, certs on the server.
+
+- Used Junit(Mockito, EasyMock, PowerMock), Nunit, MSTests(Mogq) for unit testing. Used TDD and ATDD
+
+development while developing code.
+
+- Used Swagger implementation for the web services which gives all our service APIs documentation and
+
+request, request body, header and response details.
+
+- Used Jenkins, Cloudbees, udeploy, stash tools for continuous integration for day to day development. Environment: Java 8, Spring 3.x and 4.x, Spring Security, Spring Boot, OAuth 2.0, SSLSecurity, CACerts, myBatis 3.x, Tomcat 7,8, Eclipse, STS, Maven 3, Log4J, SQL Developer, Putty , WinSCP. Git Bash, Source Tree, Tortoise Git. Apache http server 2.4, Angular, JQuery, JavaScript, knockout js, Dynatrace client 6.2
+
+Master of Science | Networking in Information System Security University of Cumberlands, Williamsburg, KY
+
+MSter of Science | Health Services Administration 12/2015 Mississippi College, Clinton, MS

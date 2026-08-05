@@ -1,0 +1,139 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Solution-driven Full-stack Developer adept at contributing to highly collaborative work environment, finding solutions and determining
+customer satisfaction. Proven experience developing consumer-focused websites using HTML, CSS, PHP and Javascript. Built products for
+desktop and mobile app users over 10+ years, meeting highest standards for web design, user experience, best practices and speed. Designed
+and developed web applications across multiple APIs, third-party integrations and databases.
+
+SKILLS
+------
+
+- Front-End Programming: HTML5, CSS3, AJAX, React and React « Agile Workflow
+
+native © JavaScript
+- Version Control Systems: Git, GitHub e PHP
+- Back-End and Database Skills © Wordpress
+- Express JS
+
+WORK EXPERIENCE
+---------------
+
+08/2021 to Current Web Developer Arthur J Gallagher & Co. - Lubbock, TX
+- Planned website development, converting mockups into usable web presence with HTML, JavaScript (ReactJS, GatsbyJS), AJAX, JSON coding and PHP( Wordpress)
+- Provided front-end website development using WordPress, Hubspot and other editing software.
+- Coded websites using HTML, CSS, JavaScript and jQuery languages.
+- Engaged with clients to plan and optimize site issues and queries.
+- Oversaw back-end development using PHP to maintain website integrity.
+- Discussed site and app requirements with clients to produce actionable development plans.
+
+01/2021 to 08/2021 Software Development Engineer Keurig Dr Pepper
+- Updated old code bases to modern development standards, improving functionality.
+- Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
+- Discussed issues with team members to provide resolution and apply best practices.
+- Planned and developed interfaces that simplified overall management and offered ease of use.
+- Documented technical workflows and knowledge to educate newly hired employees.
+- Translated customer requirements into written use cases.
+- Participated in software field testing to verify performance of developed projects.
+
+07/2020 to 01/2021 React Native Developer Cognizant Technology Solutions
+- Developed software for desktop and mobile operating systems.
+- Translated customer requirements into written use cases.
+- Designed intuitive graphical user interfaces to improve user experience.
+- Collaborated on stages of systems development lifecycle from requirement gathering to production releases.
+- Designed reusable and reliable code for use within distributed cloud environments.
+- Designed customized solutions for proposals to potential customers.
+
+02/XXX1 to 06/2020 Full Stack Web Developer Check Point Software Technologies
+- Developed efficient and maintainable software according to business objectives and needs of clients.
+- Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products.
+- Used Javascript, SQL and HTML to develop app-solutions.
+- Liaised with rebranding experts to optimize websites for increased conversion rates.
+- Used NodeJS, ORM and SQL/No-SQL to develop and manage databases.
+- Developed functional databases, applications and servers to support websites on back-end.
+- Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and
+
+enhancements.
+
+EpucatIon
+
+12/XXX2 Bachelor of Science: Engineering Technology Universidad De Ciencia Y Desarrollo - Colombia
+
+LANGUAGES Spanish: English:
+- - es Native or Bilingual Professional Working Negotiated: Negotiated:
+
+Wessrtes, PorTFouios, PROFILES
+
+- https://www_linkedin.com/in/Jessica-Claire-252b8574/
+
+SKILLS
+------
+
+- Front-End Programming: HTMLS5, CSS3, AJAX, React and React native
+- Version Control Systems: Git, GitHub
+
+- Back-End and Database Skills
+
+- Express JS
+
+- Agile Workflow
+
+- JavaScript
+
+- PHP
+
+- Wordpress
+
+WORK EXPERIENCE
+---------------
+
+08/2021 to Current Web Developer Endava - Lodi, NJ
+- Planned website development, converting mockups into usable web presence with HTML, JavaScript (ReactJS, GatsbyJS), AJAX, JSON coding and PHP( Wordpress)
+- Provided front-end website development using WordPress, Hubspot and other editing software.
+- Coded websites using HTML, CSS, JavaScript and jQuery languages.
+- Engaged with clients to plan and optimize site issues and queries.
+- Oversaw back-end development using PHP to maintain website integrity.
+- Discussed site and app requirements with clients to produce actionable development plans.
+
+01/2021 to 08/2021 Software Development Engineer Torrens University
+- Updated old code bases to modern development standards, improving functionality.
+- Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
+- Discussed issues with team members to provide resolution and apply best practices.
+- Planned and developed interfaces that simplified overall management and offered ease of use.
+- Documented technical workflows and knowledge to educate newly hired employees.
+- Translated customer requirements into written use cases.
+- Participated in software field testing to verify performance of developed projects.
+
+07/2020 to 01/2021 React Native Developer Cafeto Software
+- Developed software for desktop and mobile operating systems.
+- Translated customer requirements into written use cases.
+- Designed intuitive graphical user interfaces to improve user experience.
+- Collaborated on stages of systems development lifecycle from requirement gathering to production releases.
+- Designed reusable and reliable code for use within distributed cloud environments.
+- Designed customized solutions for proposals to potential customers.
+
+02/XXX1 to 06/2020 Full Stack Web Developer LAE International Education
+
+- Developed efficient and maintainable software according to business objectives and needs of clients.
+
+- Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products.
+
+- Used Javascript, SQL and HTML to develop app-solutions.
+
+- Liaised with rebranding experts to optimize websites for increased conversion rates.
+
+- Used NodeJS, ORM and SQL/No-SQL to develop and manage databases.
+
+- Developed functional databases, applications and servers to support websites on back-end.
+
+- Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

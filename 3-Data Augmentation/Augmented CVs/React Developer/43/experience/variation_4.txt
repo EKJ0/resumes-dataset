@@ -1,0 +1,240 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+PROFESSIONAL
+
+SUMMARY
+-------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+7 Years of extensive experience as a front-end developer with a solid understanding of application
+design and development.
+
+Experience in developing User Interface (UI) Applications and professional web applications using
+HTML5, CSS3, Bootstrap, React.JS, JavaScript, JQuery, AJAX, RWD, JSON, XHTML and XML.
+Experience with Grunt task runner and installed the latest version of libraries with Bower based on
+running in the Node.JS environment.
+
+Hands-on experience on the development of the interactive UI one-way data flow, virtual DOM, JSX,
+React Native components, forms, React router and Redux architecture.
+
+Responsible for developing the partner Homepages using HTML5, CSS3, JavaScript, React JS, Node JS
+and JQuery.
+
+Experience with HTML5, CSS3, Bootstrap3, JavaScript, AJAX, TypeScript, Angular2, React JS, Vue JS,
+Visual Studio Code, MySQL, GitHub, Agile/Scrum.
+
+Experience using React JS components, forms, events, keys, routers, animations, and flux concepts.
+Good experience with React JS for creating interactive user interfaces using unidirectional data flow,
+virtual DOM, and JSX concepts.
+
+Experience in working with all the different concepts like Vuex, Vuetify, etc. Using Vue JS, a modern
+JavaScript framework.
+
+Experience with CSS backgrounds, CSS layouts, CSS positioning, CSS text, CSS borders, CSS borders,
+CSS padding, CSS tables, pseudo-classes, pseudo-elements, media queries, and Flex Design in CSS
+and responsive web design.
+
+Good understanding and extensive experience in developing Single Page Applications (SPAs), Web
+applications using JavaScript MVC frameworks such as React JS and Vue JS.
+
+Excellent communication, interpersonal and analytical skills and a highly motivated team player with the
+ability to work independently.
+
+REACTJS DEVELOPER 03/2021 to CURRENT Motion Recruitment | Kansas City, MO
+
+Developing web front end interfaces using HTML/HTML 5, CSS3, JavaScript, PHP. XHTML, jQuery, Java,
+AJAX, JSON, Node JS, React JS, Angular JS, Vue JS, jQuery and Bootstrap
+
+Developed responsive web design using React Bootstrap to create grids, layouts, and components
+Worked on developing responsive internal application using React JS to collect metrics from users and
+agents
+
+Implementation of ReactJS lifecycle methods with modern ES 6 features using Babel and Webpack
+Developed intranet responsive site with React JS
+
+Experience with ReactJSlifecycle and implementation of these methods in Redux architecture
+
+Work with React Router to develop SPA for Single Page Applications
+
+Developed Session beans which encapsulate workflow logic and used Hibernate to access data
+extensively used Hibernate in data access layer to access and update information in database
+Developed and maintained Single Page Application (SPA) using HTML5, CSS3 and React.JS also
+developed React components for partner homepages using React.JS
+
+Used React.JS and JSX to develop functional and stateless components, virtual DOM manipulation
+props, lifecycle methods, states and events
+
+Involved in building RESTful API's using Node.JS using REST frameworks such as Redux
+
+Worked with VUE JS forms, validations, modules, components, statements, controllers, and HTTP
+requests
+
+Responsible for Vue.js event delivery and parent-child communication chain
+
+Used Vuejs to manipulate DOM, handle events, and apply animation effects
+
+Used Node.JS architectural concepts like event loop, call backs, and event emitters
+
+Developed UI for SPA development using React JS, Flux/Redux
+
+Using React JS, you created custom components for data manipulation and displayed data in your
+company's standard format
+
+Experience with leading frameworks such as React.js for building high-quality, scalable, and reusable
+components and front-end solutions
+
+Environment: HTML/HTML5, CSS2/CSS3, DHTML, XHTML, PHP, JavaScript, Bootstrap, React.JS,
+REDUX, React Native, Node.JS, JMS, XML, REST, SOAP, EJB, Log4j, JUnit, Jenkins, MongoDB, SQL,
+jQuery, Node.js, React JS, Redux, Vue Js, AJAX, JSON, DOM, SASS, Soap, Restful API, Agile and
+Windows.
+
+REQCT/REACT NATIVE DEVELOPER 08/2019 to 02/2021
+
+Verizon Communications | Buda, TX
+
+Involved in Requirements gathering, analysis and design and documentation as application was started
+from scratch
+
+Developed Web based and Server side applications using Java 8
+
+Developed responsive client-side application to integrate with server side using JavaScript. jQuery,
+Node
+
+Js , Vue
+
+Js and Bootstrap
+
+Developed responsive client-side application to integrate with server side using JavaScript, jQuery,
+AngularJS, Node
+
+Js , Vue
+
+Js and Bootstrap
+
+Actively involved in developing proof-of-concepts for new proposed applications using React JS
+Experience with ReactJS and experience using React Flux architecture
+
+Experience with Redux Architecture
+
+Use Vue.js event delivery and parent chain for parent-child communication
+
+Worked on multiple components for different course elements player and quiz player using Vue.js and
+Vuex
+
+Developed rich and complex Responsive Web User Interface using HTML5/XHTML, JavaScript, CSS3,
+XML, JavaScript, JQuery, React.JS, Node.JS and Bootstrap
+
+Developed rich integration for dashboards using React.JS and Virtual DOM
+
+Involved on React.JS virtual DOM and React views, rendering using components which contains
+additional components called custom HTML tags
+
+Used various predefined components from NPM (Node Package Manager), Redux Library and worked
+using React.JS Components and Stand-alone functions for adding more pages
+
+Utilized concept called Virtual DOM in React.JS to create in-memory data structure cache, enumerate
+resulting differences, and then update browser's displayed DOM efficiently
+
+Used Node.JS to develop backend components, connecting application with other web services
+
+Used XML parser APIs (SAX) in web service request response data marshaling as well as un- marshalling process
+
+Created front-end single page applications with HTML5, CSS3, JavaScript, Bootstrap, ReactJS, NodeJS,
+and MongoDB semantics
+
+Developed Single Page Application (SPA) using ReactJS that leverages JavaScript ES6 classes and
+module functionality
+
+Environment: HTML5, CSS3, JavaScript, React.JS, REDUX, React Native, Node.JS, JMS, XML, VueJS,
+Vuex, DOM, GitHub, JSON, Agile, Windows.
+
+REACT/REDUX DEVELOPER 12/2017 to 07/2019 Tractor Supply Company | City, STATE
+
+Designed and developed websites using HTML 5, SASS, React JS, Redux, Flux, Node JS, CSS, Type
+Script, JavaScript, Bootstrap, Node.js, NPM and Mongo DB
+
+Developed front-end web applications for global network operations using React JS, Redux, Bootstrap,
+ES6/Babel, and Webpack
+
+Created more responsive websites compatible with all browsers and different devices with React JS
+Developed single page responsive website using HTML5, React, Twitter Bootstrap, CSS3, JavaScript
+and jQuery
+
+Developed UI using React js, Flux for SPA development
+
+Used React to work on Redux to handle large amounts of data and improve performance
+
+Implemented React container and presentation components (possibly as stateless and functional
+components)
+
+Implemented stable React components and standalone functionality that can be added to future sites
+Used React JS for templating to speed up compilation and development of reusable components
+Experienced in developing React components
+
+Worked on Webpack for build and webpack-dev-server for server
+
+Developed applications from scratch using React Native and Redux
+
+Created views in JSX and used Flexbox for proper styling
+
+Created native bridges for iOS and Android to integrate with React apps
+
+Built stable version of app using ES6 syntax and updating responsive native app regularly
+
+Work with React JS Virtual Dom and React Views and render in components with additional components
+called custom HTML tags
+
+Web package configured to run linters, loupes, pre/post processors, tests, transpires, etc based on
+build
+
+Designed and developed dispenser dashboard that displays data from loT devices and developed site
+dashboard and its features that allow data to be displayed in charts (C3_Js)
+
+Unit test React JS application using tools like Enzyme and Cypress
+
+Environment: HTML5, SASS, Bourbon, Neat, React JS, Redux, Flux, React Native, Node JS, AEM,
+jQuery, Gulp, Grunt, webpack, JIRA, Jasmine, Karma, Protractor, Maven and Jenkins.
+
+UIOEVELOPER 09/2015 to 11/2017 Mroads | City, STATE
+
+Developed responsive client-side application to integrate with server side using JavaScript, jQuery,
+AngularJS, Node Js , Vue Js and Bootstrap
+
+Used CSS to maintain consistency between screens
+
+Worked on migration from Angular JS 1.x to Angular2 and implemented new features to improve
+performance of application
+
+Developed web-based data visualization by integrating Angular 2 and d3 js suitable for both web and
+mobile
+
+Directives and services used to establish communication between components
+
+Extensive model-driven forms for more control and better validation of user-entered data
+
+Work with application architects and backend developers on JSON API design
+
+Responsible for configuring GIT repositories and maintaining version control with GIT
+
+Applying Angular2 functions such as creating components and binding data using data binding method
+Followed Agile methodology for on time delivery of project
+
+Environment: Angular 2, JavaScript, D3.js, Restful Web Services, MySQL, Bootstrap 3, GitHub, Node
+JS, Agile, HTML5, CSS3, Karma, Jasmine
+
+Master of Science | Computer Science
+
+Northwest Missouri State University, Maryville
+
+Baohelor of Science | Computer Science
+
+Lovely Professional University, Phagwara

@@ -1,0 +1,190 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+7+ years hands-on experience in the IT industry mainly in Middleware/Integration technologies involving in all phases of Software
+Development Life Cycle (SDLC) - requirement gathering and analysis, solution design, development, testing, production, and post-
+production support,
+
+- 3+ years’ experience in designing and developing enterprise services using RAML in Mule, REST based API's, SOAP web services and use of different mule connectors.
+
+Experience in configuring APIs, proxy endpoints, API Portals and API analytics based on technical specifications with MuleSoft API
+manager.
+
+Experience in creating API using RAML, API portal, API proxies and documentation.
+
+Experience in developing test cases and test plans by using MUnit. Experience in Unit testing, Integration testing and User Acceptance
+testing.
+
+Successful implementation of Service Oriented Architecture (SOA) and Enterprise Application Integration (EAI) for multiple clients
+using Mule Soft.
+
+- Hands on experience in using Software development methodologies Agile Methodology, Scrum and Waterfall software development
+
+processes
+Created Mule ESB based tooling suite for handling message transitioning, validation, enrichment and routing to upstream and
+
+downstream entity data consumers.
+
+- Experience in working on bug tracking tool JIRA and Source control for project coordination.
+
+- Expertise in applying JMS (Java Messaging Service) and Log4J for reliable information exchange across Java applications.
+
+Strong application Integration experience with Connectors, Routers, Active MQ. JMS and Data Transformations using Mule ESB.
+
+- Hands on experience in Mule Expression Language (MEL) - to access and evaluate the data in the payload, properties and variables of a Mule message.
+
+Designed and developed enterprise services using RAML and REST based APIs.
+
+Extensively worked on XML technologies like XSD, XSLT, XQuery and XPath for data transformations in Mule soft.
+
+Experienced in Test Driven Development (TDD) and continuous integration.
+
+- Had experience in using the enterprise security, notifications features provided by MULE.
+- Expertise in using Jenkins, ANT and Maven scripts for building & deploying application in web/App servers. Exceptionally good at analytical skills, problem solving, communication and troubleshooting abilities.
+
+SKILLS
+------
+
+WSDL, SOAP. UDDL, JAX-WS, JAX-RS, CXF, AXIS e Business process, DB2, Progress
+- IDEs: C, WebSphere, QA
+
+Anypoint Studio, Eclipse, NetBeans. C++, IDE, Requirement
+
+- XML Technologies: CCNA, J2EE, Router
+
+- XML, DTD, XSD, JAXP, JAXB, XSLT, XPATH Cisco, Java, Routing
+
+- Databases: e Clustering, JSP, Servers
+- Oracle 10g/11g, SQL Server 2008, MySQL © Conversion, Java script, Servlets
+- Frame Works: e Encryption, JavaScript, Scripts
+
+- Struts, Spring. JSF, Spring MVC
+
+- Version Control:
+
+- CVS, SVN and GIT
+
+- Programming Languages
+
+- Core Java, J2EE, C, C++, PL/SQL, HTML
+
+- Mule:
+
+- Anypoint Studio, Mule EE 3.6+, 4.0+, RAML, data weave, Cloud hub, Logz.io, API Manager, Any point Exchange, Connectors like AWS SNS etc... MMC.
+
+MS SQL Server 2005/2008, MS-Excel, DTS, Visual Studio 2008, SQL profiler.
+
+- Agile, Gateway, Developer, Written
+
+- ANT, HTML, PL/SQL, XML
+
+- API, HTTP. Programming. XSLT
+
+- Backup, Hub, Coding
+
+CSS, JDBC, SOAP
+
+Version Control, JMS, Specification CVS, Logic. MS SQL Server
+
+DTS, Meetings, SQL
+
+Database, Access, SQL Server Databases, MS-Excel, Strategy Debugging, Exchange, Struts Decryption, Works, Tomcat
+Designing, MVC, UNIX shell scripts DHTML, MySQL, Visual Studio Eclipse, Enterprise, Website
+
+Frame, Oracle, Weblogic
+
+WORK EXPERIENCE
+---------------
+
+MuleSoft Developer, 05/2018 - Current Ibm Corporation - Plano, TX
+- Design, develop and migrate flows (Mule ESB and WMB) base on requirements
+- Create flows/orchestrations for integrating the components like connectors, transformers and scopes written on top of different internal platforms using Mule ESB for XML to CSV conversion
+- Create RAML specification, building APIs using API Kit Router in Mule applications
+- Create transformation logic using DataWeave, MEL and XSLT
+- Create reusable components such as global exception handling strategy and common logger
+- Work on XML technologies like XPATH, XSLT, XSD and data weave for data transformations
+- Prepare technical documents and turn over documents
+- Deploy applications to different environments (Test, QA, PROD)
+- Integrate salesforce with the MuleSoft for connecting applications, data sources and APIs, in the cloud
+- Use MuleSoft Anypoint API platform for designing and implementing Mule APIs
+- Implement error handling and logging in the message flows
+- Organize flows, sub flows and global XML configuration files
+- Use partner WSDL for ESB to Salesforce integrations
+- Collaborate with developers with in my team and from other team members for effective implementation of projects
+- Participated in team design and review meeting
+- Provide support for existing applications in all environments
+- Perform end-to-end testing, resolve problems and validated the test results
+- Environment- ActiveMQ, WebSphere MQ 7, Mule ESB, Anypoint Studio, CloudHub, API Kit, API Gateway, Jenkins, ANT, Maven, GIT, Java, RFHUtil, SOAP UI
+
+MuleSoft Developer, 06/2016 - 04/2018 Ibm Corporation - Poznan, OH
+- Build and Deployment of services in Mule ESB server
+- Build Deploy and Test applications or flows using Mule ESB and build and deployed the services
+- Create HTTP inbound & outbound flows, custom java and XSLT transformers and Security of Mule endpoint
+- Implement Exception Handling, Logging. and Error Handling
+- Implement Mule flows for each entity with retry mechanisms with private secured flows
+- Implement Security mechanisms like Security Certificates, key Exchange, Encryption, Decryption and OAuth Authentication & Authorization using Access Token and SM session cookie
+- Design and develop enterprise services API specification using RAML and REST schema
+- Create Mule ESB helper class to call the Mule flow, connection endpoint and connectors
+- Create Mule application that uses connectors SFDC, Message Transformer, Choice Exception Strategies, Batch processing
+- Code walk-throughs, Mule Debugging, and Error fixing Participate in daily scrum meetings to discuss the progress of the project and any blockage of the work and the solution of the block
+- Developed the flows/orchestrations for integrating the components written on top of different intemal platforms using Mule ESB and ActiveMQ
+- Manage performance of the services by using “Scatter and gather” and “choice router” Environment: CloudHub, GitHub, Java, MuleSoft, MMC, Anypoint Studio, ActiveMQ, RabbitMQ, Servlets, Nexus, JSP, JSON, JMS, XML, XSD, SOAP, Spring MVC
+
+Java Developer, 10/2014 - 05/2016 Chenega Mios - New York, NY
+
+- Responsible for requirement gathering, design and analysis of the system «Responsible for coordinating the tasks and assigning work to the team members and keeping track of the deliverables.
+
+- Worked with customers to gather requirements and developed use cases and test plans.
+
+- Designed a flexible and highly dynamic framework that incorporates robust marshaling and un marshaling from XML and a business process layer to allow rapid development and deployment of web services by aggregating back-end service invocations *Developed the UI pages using HTML, DHTML, Java script, AJAX, JQUERY, JSP and tag libraries.
+
+- Developed web services using Restful to support JSON and XML using JAX-RS.
+
+- Implemented various Core Java concepts such as, Multithreading, Exception Handling, Collections API, Generics, Enhanced for Loop Inheritance and Polymorphism.
+
+- Used Spring Framework for Dependency injection and integrated with the Spring Web Flows.
+
+- Worked extensively on J2EE for developing Web and Distributed Applications by using JDBC, JSP, Servlets, Hibernate, Struts and Web Services.
+
+- Implemented SOA based web services, designed and built SOAP web service interface, implemented using SOAP & CXF *Used Hibernate as ORM tool to store the persistence data into the DB2 database.
+
+- Created new connections through application coding for better access to DB2 database and involved in writing SQL & PL/SQL - Stored procedures, functions, sequences, triggers, cursors, object types.
+
+- Developed MAVEN scripts to build and deploy the application onto Tomcat Server and ran UNIX shell scripts and implemented auto deployment process.
+
+- Deployed J2EE applications to Weblogic Application Server in an Agile continuous integration environment and automated the whole process.
+
+- Worked with version controlling tools GIT.
+
+- Application is Developed in the Eclipse IDE.
+
+- Environment: Java, J2EE, Spring, MVC, SQL, JavaScript, HTML, CSS, AJAX, Hibernate, Maven, XML, Oracle, GIT, JAX-RS, Restful Web Service, JQuery, Weblogic Application Server, JMS.
+
+SQL Developer, 06/2010 - 09/2014 Wells Fargo - Lawrenceville, GA
+- Responsible for all the servers which are running on a SQL platform (SQL Server 2005/ 2008).
+- Setup multiple Nodes (Active/ Passive) in SQL Servers to add the clustering feature.
+- Managed SQL Server databases and Configure failover cluster.
+- Plan and modify SQL Server Permissions in quarterly basis.
+- Create databases and schedule backups (Transaction log backup, Differential backup and Full back up) with Recovery sessions (Simple or Full).
+- Setup and maintain Replication for Production servers to provide high availability and monitor using Replication Monitor.
+- Setup Alerts, Notifications, Jobs, Job steps with automated Response solution schedules.
+- Frequently Monitor Connections, Locks and Database Performance.
+- Reviewed and optimized SQL queries, CDC, stored procedures, functions, Indexes, views and triggers.
+- Created an internal secured website linking to the database that includes updated information about all Target SQL Servers information.
+
+EDUCATION
+--------- Bachelor’s: Mathematics And Minor Computer Science Eritrea Institute of Technology
+
+CERTIFICATIONS
+-------------- MuleSoft Developer Certified.
+
+Cisco Certified Network Routing and Switching
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

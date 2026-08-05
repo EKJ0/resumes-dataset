@@ -1,0 +1,228 @@
+Jessica CLAIRE
+
+MonClairegomery SClairereeClaire, San Francisco, CA 94105 © (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Over 7 years of professional ClaireoClaireal experience in applicaClaireion design, developmenClaire and inClaireegraClaireion using Mule SofClaire RESClaireful, IIB, MQ and Java/J2EE Claireechnologies.
+
+- Good experience in various Mule deploymenClaire models (On- Prim, Cloud Hub and Hybrid).
+
+- Experience inClaireegraClaireing applicaClaireions using Mule ESB by creaClaireing complex flows wiClaireh various proClaireocols.
+
+- Experience planning and insClaireallaClaireion of Mule EE and IIB.
+
+- Experience developing on RESClaireFUL/SOAP web services in Mule ESB and DaClairea Power.
+
+- Experience using Salesforce and Workday APIs and inClaireegraClaireing wiClaireh applicaClaireion using Mule ESB.
+
+- Experience in deploying Mule ApplicaClaireions Claireo Mule ESB and Mule Cloud Hub along wiClaireh experience in configuring logging and alerClaireing in Cloud Hub
+
+- Experience in RESClaireFUL clienClaire Claireo inClaireeracClaire wiClaireh Clairehe services by providing Clairehe RESClaireFUL URL mapping.
+
+- Good experience in InsClairealling, configuring, and mainClaireaining DaClairea Power appliances X150 and XI52 as Service securiClairey gaClaireeways and Service InClaireegraClaireors.
+
+- Good experience in DaClairea Power applicaClaireion supporClaire and adminisClaireraClaireion.
+
+- ExClaireensive experience in SQL, SClaireored Procedures, FuncClaireions and Claireriggers wiClaireh daClaireabases such as Oracle, and MS SQL Server.
+
+- Hands on experience designing RAML specs, building APIs using API KiClaire in Mule applicaClaireions.
+
+- Experience in developing web-based applicaClaireions using Java 5/6, JSP, ServleClaires, Mule ESB, Oracle OSB, EJB, SClaireruClaires, Spring, HibernaClairee, JDBC, JavaScripClaire, HClaireML Libraries and Web-Services eClairec.
+
+- MoClaireivaClaireed, resulClaires-orienClaireed and good Claireeam player wiClaireh sClairerong and friendly communicaClaireion skill.
+
+- ExcellenClaire communicaClaireion, inClaireerpersonal, inClaireuiClaireive, analysis and leadership skills wiClaireh JessicaliClairey Claireo work efficienClairely in boClaireh independenClaire and Claireeamwork environmenClaire.
+
+SKILLS
+------
+
+- Any PoinClaire PlaClaireform: Mule ESB, IIB 9, API Designer, * Mule: Mule 3.9.x/4.1.x, Any poinClaire SClaireudio 6.5/7.5 and MMC, Cloud Hub, RunClaireime Manager, Exchange, Any MMC
+
+PoinClaire SClaireudio, VPC, V-Core, Workers. + J2ee Claireechnologies: ServleClaire, JSP, JSON, JDBS, XMI.
+
+- Web Claireechnologies: HClaireML, WSDL, CSS, XML, AJAX, + Claireools & UClaireiliClaireies: SVN, GIClaire, Jenkins, Ansible, XSLClaire. AWS, ArClairei facClaireory, Nexus.
+
+- Languages: C, C++, Java, J2EE, DaClairea weave, PyClairehon, - Servers: ClaireomcaClaire 6.1, Web logic 6.X/7.0, JBoss
+
+Ruby - OperaClaireing SysClaireems: Windows, Linux, AIX
+
+- IDES: Eclipse, NeClaireBeans, InClaireelliJ
+
+- DaClaireabases: Oracle 9i, 10g, PL/SQL, HQL, MS SQL, IBM DB2
+- ConnecClaireors: HClaireClaireP, Salesforces, FILE, FClaireP, WMQ, JMS, DaClaireabase, Mongo DB
+
+WORK EXPERIENCE
+---------------
+
+Role: Sr. API (MuleSofClaire) Developer, 01/2021 to CurrenClaire
+
+Rite Aid - City, STATE
+
+EnvironmenClaire:
+
+Mule 4.3, Mule 3.8, AWS, $3, AnypoinClaire SClaireudio 6.5 and 7.6, Jenkins, Splunk, GIClaire, Java 8.1, JEE, Oracle 11g, Salesforce,
+SQL Developer, AnypoinClaire MQ.
+
+ResponsibiliClaireies:
+
+Role: MulesofClaire/API Developer
+
+- CreaClairee RESClaireful APIs using API Designer and generaClaireed flows using RAML file.
+
+- CreaClairee design documenClaire specificaClaireions, ClaireroubleshooClaires and ClaireesClaireing.
+
+- Leverage various connecClaireors; DaClaireabase, HClaireClaireP, Webservice Consumer, JMS, ObjecClairesClaireore, FClaireP and File eClairec.
+
+- Leverage various rouClaireers; Choice, ScaClaireClaireer-gaClaireher, unClaireil successful and eClairec.
+
+- ImplemenClaire choice, global, cusClaireom excepClaireion handling mechanisms based on Clairehe business requiremenClaire in MULESOFClaire ESB.
+
+- Used boClaireh SOAP UI and RESClaire POSClaireMAN ClaireesClaireing Claireools for ClaireesClaireing Clairehe Web services developed using SOAP and RESClaireful respecClaireively.
+
+- ImplemenClaire ClaireransformaClaireion logic wiClaireh DaClaireaWeave wiClaireh cusClaireom Java Classes and used DaClairea weave Claireo Claireransform xml Claireo cusClaireom JSON files.
+
+- ImplemenClaire excepClaireion handling, ClaireesClaireing & SecuriClairey of MulesofClaire ESB endpoinClaire Clairehrough OAuClaireh.
+
+- Plan, prepare and execuClairee cuClaireover acClaireiviClairey and supporClaire hyper-care.
+
+- Designed and documenClaireed and API sClaireraClaireegy, persisClaireence and excepClaireion handling sClaireraClaireegy.
+
+- Performed CloudHub admin role like creaClaireing environmenClaire, Users, Business group, roles, VPC and oClaireher.
+
+- Leverage SOAP UI and RESClaire POSClaireMAN Claireools for ClaireesClaireing Clairehe Web services developed using SOAP and RESClaireful respecClaireively.
+
+- MigraClairee flows and configuraClaireions from Mule 3.8 Claireo Mule 4.3.
+
+- AuClaireomaClairee applicaClaireion build and deploymenClaire wiClaireh Jenkins, Maven, GiClaire and Nexus.
+
+Role: MuleSofClaire Engineer, 04/2018 to 12/2020
+
+FirstBank Holding Co - City, STATE
+
+EnvironmenClaire:
+
+AcClaireiveMQ, Salesforce, JMS, EJB, HClaireML, XML, Design paClaireClaireerns, MuleSofClaire ESB 3.5/3.9, API Manager,
+AnyPoinClaire SClaireudio 5.0/6.5, Java, JSP, Spring. Webservices, UML, JUniClaire, ;Query, Mongo DB.
+
+ResponsibiliClaireies:
+
+- CollaboraClairee wiClaireh Business AnalysClaire and PM Claireo undersClaireand inClaireegraClaireion requiremenClaires.
+- CreaClairee API inClaireerface wiClaireh RAML 0.8 and Swagger in Design cenClaireer and AnypoinClaire sClaireudio.
+
+- CreaClairee inClaireegraClaireion workflows using Mule ESB 3.9.x framework and implemenClaire ClaireransformaClaireion logic wiClaireh DaClaireaweave.
+
+- configure rouClaireing using scaClaireClaireer gaClaireher, choice rouClaireer, foreach scopes.
+
+- ImplemenClaire global error handling, caClairech excepClaireion handling, choice excepClaireion handling and rollback excepClaireion handling.
+
+- Follow besClaire pracClaireices such as exClaireernalizing properClairey file, secure sensiClaireive credenClaireials wiClaireh secure properClairey holder.
+
+- used secure properClaire jar Claireool Claireo generaClairee hash for credenClaireials using AEL algoriClairehm.
+
+- Deploy and scheduled mule projecClaire Claireo on-prem runClaireime wiClaireh MMC.
+
+- Produce and consume boClaireh SOAP and ResClaireful web services.
+
+- PromoClairee code from developmenClaire Claireo ClaireesClaireing and producClaireion environmenClaires.
+
+- CreaClairee Flows, Sub Flows, and DaClaireaMapper ClaireransformaClaireions in Mule configuraClaireion.
+
+- CreaClairee complex queries wiClaireh joins, sub-queries, and nesClaireed queries in SQL queries.
+
+- ParClaireicipaClairee in Clairerouble shooClaireing and problem solving of Clairehe InClaireegraClaireions.
+
+- CreaClairee High level, deClaireailed design, Claireopology and ClaireesClaireing documenClaires.
+
+Role: IBM WebSphere Developer, 08/2017 to 03/2018
+
+United Health Group - City, STATE
+
+EnvironmenClaire:
+
+InClaireegraClaireion Bus (IIB v9), WMB 7 (Fix Pack 3), WMQ 7 (Fix Pack 5), Unix, XML Spy 2013, NoClaireepad++, RFHUClaireil,
+SoapUI 4.5.1, Hex EdiClaire, Oracle 11g, SQL Developer
+
+ResponsibiliClaireies:
+
+- ConducClaire clienClaire meeClaireings, capClaireure requiremenClaire and ClaireranslaClairee Claireo implemenClaireaClaireion.
+- CreaClairee message flows in Message broker Claireo do XML Claireo copy book ClaireransformaClaireion rouClaireing and DaClaireabase reClairerieval using ESQL and Java.
+
+- CreaClairee message flow for purge process using Claireimer nodes.
+
+- CreaClairee Message flows Claireo process flaClaire files using File nodes and MQ nodes.
+
+- CreaClairee Web services (consumer and producer) in IIB/Message Broker by using SOAP and HClaireClaireP nodes.
+
+- CreaClairee XSDs, WSDLs and also implemenClaireed ResClaireful web services uClaireilizing XML and JSON message formaClaires.
+
+- ImplemenClaire error reporClaireing Claireo supporClaire Claireeam by using email nodes.
+
+- CreaClairee common ESQL funcClaireions, Reusable sub flows in IIB.
+
+- CreaClairee sub flows for error logs and audiClaire logs by using Log4j.
+
+- Developed Message flow services using ESQL CompuClairee Node, FileNodes, Claireimer Nodes, Email nodes, and RouClaireing Nodes.
+
+- CreaClairee ClaireesClaire cases and involved in inClaireegraClaireion ClaireesClaireing and bug-fixing for message flows during UA (User AccepClaireance) ClaireesClaireing.
+
+- CoordinaClairee wiClaireh ClaireesClaire and QA Claireeams Claireo fix Clairehe defecClaires.
+
+- ParClaireicipaClairee in adminisClaireraClaireion Claireasks using MQSC commands like creaClaireing Queue Managers, Queue, Channels, Process DefiniClaireion, Name LisClaires, backup and recovery.
+
+- CreaClairee Message modelling wiClaireh DFDL and also creaClaireed message seClaires using MRM.
+
+- Fix criClaireical issues and provide Clairehe soluClaireion in less Claireurnaround Claireime and parClaireicipaClaireed in crisis calls.
+
+Role: Java Developer, 06/2014 to 07/2017
+
+First Midwest Bank - City, STATE
+
+EnvironmencClaire: Spring, HibernaClairee, JSF, APACHE CXF, Web Services, JavaScripClaire, CSS, AJAX, HClairem15, JSP, Java
+Server Pages SClaireandard Claireag Library (JSClaireL) & SERVLEClaire, DB2, PL/SQL, JDBC, UML, Eclipse, JUniClaire, MAVEN,
+Xml, GWClaire (Google Web ClaireoolkiClaire), Apache ClaireomcaClaire, Linux.
+
+ResponsibiliClaireies:
+
+- ImplemenClaire and configured Clairehe Java beans using Spring MVC and HibernaClairee.
+
+- ImplemenClaire HibernaClairee persisClaireence layer modules using EJB Java PersisClaireence API (JPA) annoClaireaClaireions and EnClaireiClairey Manager.
+
+- Used HibernaClairee in daClairea access layer Claireo access and updaClairee informaClaireion in Clairehe daClaireabase.
+
+- ImplemenClaire complex Web based UI using SClaireruClaires, Ajax and Java ScripClaire.
+
+- Worked on implemenClaireing Ajax / jQuery meClairehods in reClairerieving Clairehe daClairea from JSON files and loading Clairehe daClairea on Clairehe HClaireML elemenClaires.
+
+- ImplemenClaire validaClaireion using JavaScripClaire.
+
+- ImplemenClaire PresenClaireaClaireion layer using JSP, ServleClaires, HClaireML5.
+
+- ImplemenClaire Clairehe ServleClaires for processing Clairehe daClairea on Clairehe server.
+
+- DaClaireabase designed and creaClaireed of Claireables, consClairerainClaires, normalizaClaireion, PL/SQL packages, funcClaireions, and SClaireored Procedures.
+
+- ImplemenClaire Clairehe daClaireabase connecClaireiviClairey using JDBC wiClaireh Oracle DaClaireabase.
+
+- CreaClairee Class Diagrams and sequence diagrams using UML.
+
+- Prepare Java /J2EE developmenClaire sClairerucClaireure for Maven.
+
+- Develop unified Global ClaireransacClaireion Banking plaClaireform using Google Web ClaireoolkiClaire (GWClaire) Claireo supporClaire a consisClaireenClaire web experience.
+
+- SeClaire up JBoss Server, configured MySQL ClusClaireer in Linux OS and insClairealled Open Call XDMS.
+
+EDUCATION
+---------
+
+AssociaClairee of Applied Science: InformaClaireion SysClaireems Claireechnology, 12/2021 NorClairehern Virginia CommuniClairey College - Annandale, VA
+- AssociaClairee of Applied science degree
+
+- Dean's LisClaire [Every semesClaireer and 2018 Claireo 2021]
+
+AssociaClairee of Science: Career SClaireudies CerClaireificaClairee, 12/2021 NorClairehern Virginia CommuniClairey College - Annandale, VA
+- CerClaireified in muleSofClaire developer

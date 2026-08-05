@@ -1,0 +1,142 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+SUMMARY
+-------
+
+Jessica has extensive experience in systems integration and in architecting, designing, building, and deploying n-tier Web
+applications using service-oriented architectures, components, and domain models. Jessica has worked at two startups for first
+release products and is experienced in both Java and Microsoft. He is a key, hands-on asset on projects as a technical architect and
+mentor, leveraging his knowledge of Web-based technologies, open source frameworks, distributed applications, and software
+project life cycles.
+
+WORK EXPERIENCE
+---------------
+
+Senior Software Developer, 10/2006 to 03/2016 Deloitte - Mclean, GA
+
+Nexa Technologies provides Software as a Service (SaaS) solutions including a rich portfolio of trading technology products that
+
+allow their clients and partners to focus on their core business.
+
+- Architected, designed, and implemented a Security Master to keep track of symbol changes, corporate actions, and historical prices as well as Trade Accounting and Trade Gateway Administration web applications
+
+- Contributed to overall architecture, design, and implementation of a low latency trading platform (Equity, Options, FX)
+
+- Managed several people using a modified Scrum methodology
+
+- Introduced various open source technologies to solve numerous challenges in the domain of trading
+
+Key Technologies: Node.js, RxJava, Guice, Spring, Hibernate, MyBatis, Gradle, Maven, Elasticsearch, Oracle, MySQL, Java,
+JavaScript, Linux, Docker
+
+Lead Application Developer, 08/2004 to 10/2005
+
+Adp - Miami, FL
+
+SiteStuff helps owners and managers of real estate save money, save time and gain control over property operations by aggregating
+their buying power, streamlining backend accounting practices, and allowing them to more effectively track and manage data
+
+regarding procurement activities.
+
+- Architected, designed, and implemented a rewrite for the architecture of the SiteStuff's RFP/Bid Management Platform from a two layer, monolithic application to a multilayer solution that could easily be adapted to business change
+- Mentored team on open source technologies
+
+- Created and managed the task plan for the architecture rewrite of a RFP/Bid Management Platform
+
+Key Technologies: Hibernate, iBATIS, Struts, Spring Framework, Maven, Quartz Scheduler, Ant, Java, WebLogic 7, Tomcat, Eclipse,
+PoseidonUML
+
+Senior Software Developer, 03/2004 to 08/2004 Deloitte - Melcher Dallas, [A
+Commerce One is a software company dedicated to helping customers connect and optimize purchasing applications and backend
+business processes within and between enterprises to improve business productivity.
+- Designed and developed enhancements for Commerce One Conductor, a Web Services intermediary used to integrate various enterprise applications Designed and developed several modules of a foreign exchange quoting and purchasing system for Ruesch, a leading financial institution specializing in international B2B payment solutions.
+
+Key Technologies: Java, WebLogic 7, Swing, JGo, JSP, Oracle 91
+
+Senior Software Developer, 10/2003 to 11/2003 Deloitte - Nevada, OH
+Factory Logic offers innovative factory management solutions built around the principles of lean production. Factory Logic’s Shingo
+Prize winning Streamline™ Lean Factory Management System provides factory personnel with the integrated tools they need to
+effectively design, operate, and continuously improve lean manufacturing facilities.
+
+- Implemented EJB components and Struts components for 6 configuration tasks of the Streamline™ planning engine
+
+- Designed and implemented a business component to transform highly complex, calculation-intensive planning engine data into
+
+a human-readable, real-time report for end-users Key Technologies: Java, Websphere 5, OJB, Struts, JSP, Oracle 9i
+
+Senior Software Developer, 04/2003 to 09/2003 Deloitte - New York, IL Fusion Learning Systems develops learner-centered services and products for corporations.
+- Designed and developed 6 of the 12 major business components for a patent-pending skills assessment application for payroll professional. The application consisted of an assessment administration tool and a assessment processing server engine
+(www.payrollkac.com)
+- Designed and maintained a 50+ table data model in MySql 4.0
+- Designed and implemented the Struts layer for over 4 administration modules and for the payroll professional assessment taking
+
+WORK EXPERIENCE
+---------------
+
+- Mentored team members in Struts and Hibernate Key Technologies: Java, Hibernate, Struts, JSP, MySQL 4.0, Tomcat 4.0
+
+Senior Software Developer and Sales Engineer, 03/2000 to 2003
+
+Pitney Bowes - Grand Prairie, TX
+
+Vincera's products help companies improve the quality of their business decisions by gaining access to critical information
+previously unavailable directly from their website.
+
+- Joined as one of the earliest member of the engineering team to help the company acquire $6 million in first round funding
+- Produced prototype and sales demo to help acquire Vincera’s first customer
+
+- Designed and developed graphical modeling / design tools in Swing and JSP
+
+- Designed and developed server-side functionality using Java
+
+- Enhanced and maintained a data model with over 120 tables on SQL Server 7 & 2000 and Oracle 9i
+
+- Managed development teams for two key product releases Gathered requirements for product releases
+
+Key Technologies: Java, J2EE, XML, XSL, XML Schema, DTD, JSP, Oracle, SQL Server 7 & 2000, WebLogic 6, Together] 6
+
+Senior Consultant, 08/1999 to 03/2000 Covansys - City, STATE
+As one of the first auto insurance providers to go online, Esurance gives customers the ability to receive realtime auto insurance
+
+quotes and to purchase, view, and change their auto insurance policy online, 24x7.
+
+- Delivered first release of public website, working an average of 14 hrs per day over several months to hit deadlines
+
+- Designed and developed user interfaces in ASP and business components in VB 6 for auto insurance quoting and purchasing and for auto insurance marketing promotions campaign
+
+- Designed data model for auto insurance purchasing module
+
+- Designed, developed and managed the team that developed the online promotions marketing campaign, targeted at over 1 million users
+
+- Mentored team members of the 15+ engineering team in issues related to ASP, VB, and SQL Server as well as application functionality Managed deployment of application into production as Release Manager during time-critical deadlines Removed performance bottlenecks in auto insurance quoting system using WebLOAD and knowledge of performance testing techniques,
+
+databases, queues, and n-tier applications
+
+Key Technologies: VB6, ASP, IIS, SQL Server 7
+
+EDUCATION
+---------
+
+BS: Computer Science Northwestern University - Evanston , IL
+
+SKILLS
+------
+
+Programming (over 28 years experience total) - Node.js, RxJava, Hibernate, MyBatis, Spring, Gradle, Maven, Java 8 (J2EE),
+JavaScript, Swing, JSP, XML, XSL, XSD, DTD, VB6, COM/COM:, C++, C, LISP, Assembly
+
+Web Development - Express (Nodes), Vaadin, Wicket, Struts, JSTL 1.2, JSP, ASP, HTML, JavaScript, JScript, VBScript, CSS
+Servers - Nodejs, Docker, Nginx, Jetty, Tomcat, JBoss, Apache, Websphere 5, WebLogic 8, JRun 4, IIS 4SQL
+
+Databases - MySQL, Oracle, MS SQL Server, PL/SQL, T-SQL
+
+NoSQL - Elasticsearch, Redis
+
+Operating Systems - Linux (Redhat & Ubuntu), Windows (XP, Vista, 7)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

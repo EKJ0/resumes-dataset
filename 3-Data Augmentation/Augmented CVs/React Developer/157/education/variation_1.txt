@@ -1,0 +1,145 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Technology enthusiast with over 7 years of experience in IT industry across various application design, development, integration and
+testing. Expertise in Core Java concepts, such as OOP Design, Multi-Threading, Generics, Exception Handling, Collections,
+Annotation and some other features. MuleSoft Certified and Experienced in developing Mule ESB flows and interactions by using
+service-oriented architecture (SOA) and enterprise application integration (EAI) using Mule Runtimes. Good experience in XML
+technologies like XSD, XSLT, XQuery, and Xpath for data transformations in MuleSoft. Good experience using mule connectors like
+DB, HTTP, HTTPS, FTP, FILE, SFTP, JMS, Salesforce. Good experience in using ActiveMQ, AWS suitagilee for Asynchronous
+message queuing for guaranteed delivery pattern. Good experience in CICD tool like Jenkins Good experience in Mavenizing,
+MuleSoft project and creating builds using Maven build tools for deployment to CloudHub / Mule MMC. Good experience
+developing SOAP and Rest based services. Experience in using different version controlling/tracking systems Subversion, CVS, SVN,
+GIT, &Rational Clear Case. Experience in Splunk Log Management Creating dash boards, monitoring, reporting, Email Notification
+to Users. Strong in writing SQL queries in PL/SQL and T-SQL
+
+SKILLS
+------
+
+Software Documentation Control Software Testing and Validation Performance Evaluation and Optimization
+
+- Software Development Standards
+
+- API Design and Development
+
+- Oracle Applications Development
+- Design Patterns and Principles e JS Frameworks: React, Angular, Vue
+- SOAP and Restful Web Services
+- Software Deployment
+
+- Project Specifications
+
+- Programming Languages: Java,
+- Scrum Methodology
+
+- RDMS Development and SQL
+
+- Continuous Integration Systems
+
+- Object-Oriented Programming (OOP)
+
+Programming Languages: Java, C#, .Net, Python Databases: Oracle, MongoDB Strong Communication and Interpersonal Skills
+
+Web Programming Application Development Knowledge
+
+Data Storage and Retrieval Source and Version Control: Git, GitHub
+
+Eagerness to Learn New Technologies
+
+WORK EXPERIENCE
+---------------
+
+MuleSoft Developer, 12/2020 to Current State Of Oklahoma - Weatherford, OK
+- Participate in Requirement analysis, API Design,
+- Implementation and Maintenance phases
+- Design RESTful API with Design on AnyPoint platform and AnyPoint studio with RAML 1.0
+- Implement flows and application with AnyPoint studio and leveraged Dataweave to transform message
+- Create reusable component such as error handler, domain projects and library
+- Create custom policy and custom connector to connect with external third party system
+- Create MULE ESB artifacts, created flows, and configured MULE configuration files and deployed application
+- Create Flows, Sub Flows, Private Flows and routing components such as choice, scatter- gather and first successful
+- Create flows using various event processors such as; Transform, exception handling (OnError-
+- Continue and OnError-Propagate), Unit Testing components (Mock, Assertion and Validation)
+- Create Batch process to handle large data and configure input, process and complete phases
+- Use various connectors and even processors like
+- File, FILE, SFTP, IMAP, HTTP, Oracle database,
+- Salesforce, CXF
+- Use various Atlassian toolset like; bitbucket, JIRA and confluence
+- Participate in migration from Mule 3.7 to Mule 4.3
+- Create error Global error handling strategies, apply Try scope to event process and connectors
+- Used Jenkins for CI/CD deployment strategy
+- Part of call rotation and production support Environment: Jenkins, Anypoint Studio 6.x and 7.x, AWS, S3, EC2, Mule version 4.x and 3.x, Mule Management Console, RAML, ActiveMQ, Anypoint MQ, Maven, Nexus, Design, develop and migrate flows Mule applications and flows based on requirements.
+
+Mule Developer, 02/2018 to 11/2020 Dematic Corp. - Lancaster, PA
+- Create API Proxy and deploy to API Gateway
+- Create RAML specification in AnyPoint platform and use fragments such as Resource type, Traits and Library to enable reusability
+- Create flows/orchestrations for integrating components like connectors, transformers and scopes written on top of different internal platforms using Mule ESB for XML to CSV conversion
+- Use MuleSoft Anypoint API platform for designing and implementing Mule APIs
+- Perform end-to-end testing, resolve problems and validated test results
+- Collaborate with developers with in team and other team members for effective implementation of projects
+- Provide support for existing applications in all environments
+- Create transformation logic using DataWeave,
+- MEL and XSLT
+- Create reusable components such as global exception handling strategy and common logger
+- Develop, test and consume message flows that are exposed as both SOAP and Rest services to consumer applications
+- Implement error handling and logging message flows
+- Prepare technical documents and turn over documents
+- Deploy applications to different environments (Test, QA, PROD) Environment: CloudHub, Anypoint Studio, API Gateway, Jenkins, ActiveMQ, Salesforce, MMC, Mule ESB 4.x, WebServices, JDBC, Broker, HTTP/HTTPS, XML, Java 1.8
+
+Software Engineer, 10/2015 to 01/2018 Foot Locker - City, STATE
+- Participate in development using JAVA/J2EE
+- Technologies, Web services, Spring, Hibernate
+- Framework
+- Implement RESTFUL based web services
+- Used Hibernate for data base Connectivity
+- Design user interface of application using JSP
+- Participate in web UI pages using JSP, JSTL, CSS,
+- HTML, XML, XSL, XSLT, JavaScript
+- Implement front-end validations with JavaScript,
+- Angular Js, Node Js
+- Implement application using Spring, Web
+- Services (SOAP and RESTFUL)
+- Built web-based applications using Spring MVC 3.0 Architecture
+- Used Spring Core for concept Inversion of control (IOC) implemented using dependency injection
+- Implement Controller, Model and View components on MVC 2 architecture based application
+- Experience in unit testing applications using
+- Junit Framework and developed logging and standard mechanism based on Log4J
+- Used Java Collections API extensively in the application
+- Implement Documents using MS Office, Excel and Power point
+- Expose Stateless session beans as Restful web services using Jersey JAX-RS
+- Design, develop, implement, and maintain custom Ant tasks in Java
+- Execute unit test with junit and integration with
+- SOAPUi and POSTMAN Environment: JAVA/J2EE, JSP, Servlets, Spring, Struts, Hibernate, Web services, SOUP, REST, JAX-RS, Tomceat, Java Script, Oracle, Log4j, XML, HTML, CSS, UNIX, ANT, WSDL, SOAP, AJAX, Agile.
+
+EDUCATION
+---------
+
+Bachelor of Science: Applied Science, 05/2015 Harvard University - Normal, IL
+
+Accomplishments
+
+- MuleSoft Certified Developer 3 & 4triggers, stored procedures in Relational
+
+- Database Management Systems like Oracle,
+
+- MySQL, PostgreSQL and Microsoft SQL Server
+
+- Good experience in Agile Software
+
+- Development Team using SCRUM, TDD Test
+
+- Driven Development
+
+- Good personality, excellent communication skills,efficient developer in a team as well as working individually
+- Willing to learn new technologies and learning fast
+
+- Capable of working on multiple projects under tight deadlines.
+
+CERTIFICATIONS
+--------------
+
+- Mulesoft developer 2022-2024

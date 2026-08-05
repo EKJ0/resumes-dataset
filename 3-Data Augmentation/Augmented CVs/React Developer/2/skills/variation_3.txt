@@ -1,0 +1,277 @@
+WEBSITE, PORTFOLIO, PROFILES
+
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+- = http:/Awww.linkedin.comv/in/Jessica-Claire-43868725b
+
+Over Extensive 7+ years of experience as a Front-end web developer in developing and designing user
+experiences of Internet/Intranet applications using HTML, HTML5, XML, DHTML CSS, CSS3, SASS, LESS,
+JavaScript, ReactJS, Redux, ES6, Saga, thunk Web pack, Flex, JQuery, JSON, Node.js, Ajax, JQUERY
+Bootstrap.
+
+Experience in all phases of SDLC like Requirement Analysis, Implementation and Maintenance, and extensive
+experience with Agile and SCRUM. Strong experience in using AJAX, JSTL, Tiles, HTML5, JavaScript, CSS3,
+React.JS, Java Server Faces (JSF) Apache Commons, Velocity for designing front end. Expertise in
+implementing easy to use Bootstrap plugins for building carousel, accordion, modal windows etc. Extensive
+knowledge in developing single - page applications (SPAs). Expertise in analyzing the Document Object Model
+(DOM) Layout, DOM Functions, and Java Script functions, Cascading Styles across cross-browser using Fire
+Bug, Developer Tool Bar. Expertise in ReactJS and working with React Flux architecture. Experience with
+middleware's using Redux-Thunk, Redux-Saga, Redux-Logger, Universal React Redux. Expertise in ReactJS
+framework to develop the SPA. Experience in ReactJs Libraries like redux thunk, redux saga. Extensive
+knowledge in Client/Server Technology, GUI Design, Relational Database Management Systems RDBMS, and
+Rapid Application Development Methodology. Experience with modern build tool chains, like JavaScript
+frameworks/technologies such as Express.js, Angular_js, React.js, MobX or Flux.js. Experience in Unit Testing
+frameworks and in preparing test cases. Experience in working with ReactJS, React Flux, and Redux
+architecture using complex object-oriented concepts in improving the performance of websites. Expertise in
+creating Custom Reusable React Components Library Experienced in working with Redux architecture using
+complex Object-Oriented concepts in improving the performance of the websites Experience in using ReactJs
+components, Forms, Events, Keys, Router, plus Redux, Animations and Flux concept. Good Experience in
+Reactjs for creating interactive Ul's using One-way data flow, Virtual DOM, JSX, React Native concepts.
+Worked with React, React Router and Redux state management of application. Good knowledge in working
+with databases like Oracle, MS SQL Server, Azure, MySQL, PL/SQL(Oracle), PostgreSQL, NoSQL, MongoDB,
+Cassandra along with web application servers like Apache Tomcat, Web logic etc. Experienced in AWS Cloud
+platform and its features which includes EC2, S3, AMI, and AWS VPC. Experience in working with IBM Web-
+sphere Portal/Application Server, BEA Web Logic, and Apache Tomcat 5x application servers. Hands on
+experience with Junit, Mocha, Chai, and Jasmine Integration Testing and Log4j in developing test cases and
+determining application functionality. Have experience in software Development Processes like SDLC,
+Waterfall, Test Driven Development (TDD), Iterative and Agile Methodologies. Excellent communication,
+interpersonal and analytical skills, and a highly motivated team player with the ability to work independently.
+
+- = Technical Skills: e Web Services
+
+- Languages * SOAP. REST
+
+- Java 8/7/6, PL/SQL, SQL e Design & GUI Tools
+
+- Java/J2EE Technologies e Eclipse, IBM RAD
+
+- Core Java, JMS, Java Beans, Java ¢ App servers Multithreading, Generics and Collections, EJB, e IBM Web Sphere, Apache Tomcat, BEA Web Tiles, Design Patterns Logic
+
+- Frameworks ¢ Databases/Tools
+
+- Spring, Hibernate, Spring Boot. ¢ Oracle, SQL Server, My-SQL, MongoDB
+
+- Web Technologies ¢ Version Controls
+
+- HTMLS, XML, DOM, JSON, CSS3, JavaScript, JQuery, AJAX, AngularJS, NodeJS, ReactJS, REDUX, React Native, ReactJS15.x-16.x
+
+SENIOR REACT DEVELOPER 09/2021 to CURRENT Rural Sourcing | Baton Rouge, LA Greenville, SC
+
+- Designed the Front-end applications, And Mobile Application As well for user interactive (UI) web pages using web technologies like HTML5, CSS3, Es6 JavaScript, React JS and React-Native/Redux Saga
+
+- Worked as a Front-End Developer on the project with JavaScript, ES6, React, Redux Saga, RESTful services, HTML5/CSS3/SASS/Bootstrap and Gitlab
+
+- Involved in the analysis, design and development and testing phases of Software Development Life Cycle (SDLC)
+
+- Implemented Redux Saga's with actions and reducers to implement a sync API calls
+
+- Made use of Redux saga middleware to access redux application state and dispatched redux actions
+
+- Worked in designing, developing, and testing the web application by using the HTML5, CSS3, SASS, LESS, Bootstrap, and React.JS
+
+- Involved in designing web pages using HTML 5, XHTML, CSS3, JavaScript, Reactjs, Redux, Bootstrap, Node.js, express.js, Mongo DB
+
+- Used popular Node.js frameworks like Express and Restify to mock a Restful API
+
+- Implement modules into Node JS to integrate with designs and requirements
+
+- Created proof - of-concept using responsive web design, Node.js, React JS, HTML5 and CSS3
+
+- Skilled in leading frameworks as ReactJS to build high-quality, scalable, and reusable components and Front-end solution
+
+- Created ReactJS directives, factories, and services for developing single page web applications
+
+- Developed user interface by using the React HOC, Flux/Redux for SPA development
+
+- Used React Observables to create custom components for data manipulations and to display data in company standard format
+
+- Designed layouts on the front-end and developed web pages responsive for smart phones, tablets and Personal desktops using HTML5, CSS3, Bootstrap, jQuery, React HOC, Redux & React Promises
+
+- Developed UI components for email and link sharing of documents and files for a Content Management System using Backbone.js and React Promises
+
+- Enhanced the React Observables with Redux, React-router and Redux-thunk
+
+- Used Redux-Thunk as middleware to manipulate the data type and handle multiple actions
+
+- Revamping and rewriting front-end using preact js, redux, saga, webpack
+
+- Worked with the development team, involved in creating MVW (Web API) to implement React.JS framework for client-side rendering to optimize the front end
+
+- Implemented React.JS client-side form validation to validate the user inputs before passing to back-end
+
+- Built React Native app with Redux for responsive location- based UI to build the web platform
+
+- Worked with Application using React.JS and Node_JS libraries NPM, gulp directions to generate desired view and flux to root the URL's properly
+
+- Added new features using React/Redux(RXJS)/Lodash for functionality of few modules
+
+- Worked in Oracle RDBMS systems installation, upgrading, configuring and maintaining from versions 7 through 9i
+
+- Implemented JUnit test cases to unit test the code
+
+- Used Jenkins to provide continuous integration service for Server configuration management
+
+- Worked with Mongo DB to store non-relational data into collection and retrieve them whenever required
+
+- Designed database and created tables, written the complex SQL Queries and stored procedures as per the requirements
+
+- Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software
+
+- Environment: React.JS. Redux, React HOC, React Observables. React Native. React Async Await, React Promises, Saga, Thunk, JWT, Typescript, JavaScript, HTMLS5, CSS, Ajax, Bootstrap.JS, GitLab, GitHub, Jasmine, MongoDB, SQL, Agile and Windows.
+
+- Handled [Number] calls per day to address customer inquiries and concerns.
+
+SEQIOR REACT DEVELOPER 12/2019 to 08/2021 Rural Sourcing | Mobile, AL Reynoldsburg, OH
+
+- Involved in Requirements gathering, analysis and design and documentation as the application was started from scratch
+
+- Implemented JavaScript source code and embedded nested handling logic using jQuery event handlers and call back functions, ES6
+
+- Used Saga Middleware, Redux-Promise in application to retrieve data from Back-End
+
+- Worked on Redux for state manipulations and Redux Saga to implement API requests asynchronously
+
+- Used Middleware, Redux-Saga in application to retrieve data from Back-End and to also perform RESTFUL services
+
+- Designed and implemented server-side RESTful web services using NodeJS and handled communications to the client side (ReactJS) using JSON
+
+- Developed additional Ul Components using JSF and implemented an asynchronous, AJAX (JQuery) based rich client to improve customer experience
+
+- Involving all the stages of Software Development Life Cycle like Application Design, Development, Debugging and testing the applications
+
+- Developed static and dynamic Web Pages using JSP. HTML and CSS
+
+- Extensively used Redux Sagas to manage side effects in React and Redux
+
+- Used React Router Redux to store the route parameters in the redux store
+
+- Utilized Bootstrap and to develop a reactive website from a static JavaScript, Node JS, Bootstrap, Semantic Ul, RESTful API, jQuery existing code base
+
+- Built Web pages that are more user-interactive using HTML5, CSS3 preprocessors like JavaScript, React.JS, React-Redux and Redux- Saga
+
+- Used React JS for templating for faster compilation and developing reusable components
+
+- Used Redux for the data management of the application
+
+- Worked with React.JS Components, Forms, Events, Keys, Router and Redux concept
+
+- Redesigning site with everything from contact page to landing page all using React.JS
+
+- Designed UI views with Flexbox and React Native dimension API
+
+- Involved in setting up AWS (Amazon Web Services) services with EC2 instances, S3 bucket, [AM took part in deploying application in AWS along with writing and retrieving files to and from AWS S3 bucket for Ul to render data faster
+
+- Involved in fixing bugs and unit testing with test cases using JUnit framework
+
+- Created and configured the delivery pipeline to implement continuous integration and deployment by using Jenkins
+
+- Worked on MongoDB database concepts such as locking, transactions, indexes, replication, schema design, etc
+
+- Involved in creating and extracting data from database using SQL Queries, PL/SQL Stored procedures, triggers, packages on Oracle database
+
+- Worked on data transformation and retrieval from mainframes to oracle, using SQL loader and control files
+
+- Monitored team members to follow standards, guidelines and use new tools
+
+- Environment: ReactJS, Redux, React Router, Semantic Ul, Saga, Thunk, Bootstrap, Axios, Flux, Mobx, Lodash, JavaScript, ES6 Flow, Typescript, HTML5, CSS3, JavaScript, Node.js, PL/SQL, MongoDB, Junit, Jasmine.
+
+REACT DEVELOPER 10/2018 to 11/2019 Cognizant Technology Solutions | Upper Gwynedd, PA New York, NY
+
+- Involved in all the phases of SDLC including Requirements Collection, Design and Analysis of the Customer Specifications, and Development and Customization of the Application
+
+- Design, develop and test HTML5, CSS3, Bootstrap, JavaScript, jQuery and React.JS that meets accessibility and web browser standards for website
+
+- Designed CSS templates for use in all pages on the website working with CSS Background, positioning, text, border, margin, padding, and table
+
+- Applied optimization techniques to reduce page size and load times to enhance user experience using sprites
+
+- Developed user interface by using the ReactJS, Flux for SPA development
+
+- Maintained states in the stores and dispatched the actions using Redux
+
+- Extensively used ReactJS, library of JavaScript, and used Forms, Events, Keys, State, Props, Flux, and Web pack
+
+- Worked on React Native Framework to develop mobile user interfaces which is highly responsive
+
+- Extensively used Git for version controlling and regularly pushed the code to GitHub
+
+- Used JIRA as the bug tracking system to track and maintain the history of bugs/issues on everyday basis
+
+- Extensively used debugging tools such as Firebug and IE Dev tools to investigate the issues and fix the bugs
+
+- Monitoring the offshore work and providing technical help to the offshore team for their JIRA tickets
+
+- - Interacted with Testing Team, Scrum Masters, and Business Analysts for fixing of Issues
+
+- Performed the System Testing, Regression Testing for Complete UI after fixing the Issues which are reported by Testing Team
+
+- Coded extensively in ReactJS to make rich internet web pages
+
+- Worked with JASMINE unit test framework to write unit tests for JavaScript code
+
+- Developed unit test cases using Junit and used Grunt for build tool for configuring tasks, Karma, Jasmine for Unit Testing
+
+- Involved in analysis, design, and Implementation applying the Agile methodology
+
+- Actively participated and provided feedback in a constructive and insightful manner during weekly Iterative review meetings to track the progress for each iterative cycle and figure out the issues
+
+- Environment: XML, HTML5, CSS3, JavaScript, AngularJS, ReactJS, Redux, Flex, My SQL, XML, XSL, XSLT, JSON, GitHub,
+
+- NodeJS, JUnit, SQL, Agile and Windows.
+
+RECT DEVELOPER 05/2015 to 09/2018 Cognizant Technology Solutions | Urbandale, IA Coimbatore, India
+
+- Web development using HTML5, CSS3, JavaScript, React JS and Ajax
+
+- Created ReactJS components using JSX, Followed Redux Architecture for unidirectional data flow and manage your data in React and Make HTTP requests in React & Redux
+
+- Worked in using ReactJS components, Forms, Events, Keys, Router, Animations
+
+- Developed ReactJS pages, Web services calls, and AJAX calls for the application
+
+- Developed client - side Interface using ReactJS
+
+- Build React components and stand-alone functions to be added to any future pages
+
+- Responsible for developing front-end application using ReactJS and Redux architecture for internal team's productivity use
+
+- Used jQuery plugins for Drag-and-Drop, Widgets, Menus, User Interface, and Forms
+
+- Responsible for React UI and architecture
+
+- Building components library, including Tree, Slide-View, and Table Grid
+
+- Implemented stable React components and stand-alone functions to be added to any future pages
+
+- Participated in day-to-day meeting, status meeting, strong reporting and effective communication with project manager and developers
+
+- Unit and Integration testing on development and pre-production servers
+
+- Utilized Agile Scrum to manage full life-cycle development of the project
+
+- Environment: HTML 4/5, CSS 2/3, JavaScript, React JS, jQuery
+
+Master of Science | Computer Science University of Missouri - Kansas City, Kansas City, MO
+
+BzOhelor of Science | Computer Science Osmania University, Hyderabad India
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

@@ -1,0 +1,297 @@
+JESSICA CLAIRE
+
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Tableau Developer and Data analyst experienced in evaluating business needs to support key business requirements and goals. Overall,
+
+Nine (9+) Years and Seven (7) years of hands-on experience in Tableau Developer/Data analyst. Hardworking and passionate and ready
+
+to help the team achieve company goals.
+
+- Experience in software design, development, implementation and maintenance of BI tools and applications, data visualizations, data analysis and report development using Tableau Tools
+
+- Passionate individual with a multi-disciplinary background in analytics to facilitate smart decision-making by analyzing colossal amount of data available.
+
+- Organized and dependable candidate successful at managing multiple priorities with a positive attitude.
+
+- Dedicated to achieving demanding development and doing my very best to help businesses to grow and improve in every aspect in order
+
+to compete with its highest competitors.
+- Complex problem-solver with analytical and driven mindset.
+- Experience in creating Tableau Repository, adding Users and Groups, assigning password security and assigning privileges in Tableau
+
+Server and implementing data level security via user filters in Dashboards.
+
+- Expertise in Installation, configuration, upgrading and administration of Tableau Desktop/Server.
+
+- Expert in data visualization, Reporting, Analysis, Pie Charts Bar Charts, Cross Map, Scatter Plots, Geographic Map, Page Trails and Density Chart in Tableau Desktop
+
+- Having constant involvement in tasks such as back up recovery techniques, High availability, Security, Installation, Trouble shooting and Performance Tuning
+
+- Expert in configuration and development of different dashboards, reports utilizing Tableau Visualizations like bar graphs, pie-charts, scatter plots, geographic visualization and other making use of actions, other Local and Global Filters as per the end client requirement.
+
+- Worked on configuring reports from various Data sources using Data blending.
+
+- Expert in Tableau server commands to migrate workbooks and Tableau server backup, Debugging and monitoring.
+- Extensive knowledge in different reporting objects like Facts, Attributes, Hierarchies Calculated fields, Transformations, filters, Sets, Groups, prompts, Parameters etc in Tableau.
+
+SKILLS
+------
+
+- Experience in Creating
+
+CORE COMPETENCIES/SKILLS:
+
+- Power BI Dashboards using sources like SQL and SQL server © Tableau
+- Experience in configuring reports from different data sources ¢ SQL using data blending. e Linux
+- Experience in maintain the weekly and monthly schedules forthe «© AWS data sources. e Jenkins
+- Experience in data preparation, using Tableau Prep Builder. © GitHub
+- Experience in SQL scripts and queries to extract data from © QuickBooks various data sources and managing Data extracts. © DevOps
+- Extensive experience in Tableau Desktop, Tableau Server, e Excel Tableau Public, Tableau Online, Tableau Reader in various © Tableau Public versions of Tableau and SQL, and PL SQL scripting. © Tableau Reader
+- Power BI
+- MS Word
+- MS Excel
+- MS PowerPoint
+- ETL
+- UAT
+- Snowflake
+
+WORK EXPERIENCE
+---------------
+08/2022 to Current Tableau Developer
+
+01/2020 to 07/2022
+
+07/2017 to 01/2020
+
+01/2016 to 07/2017
+
+11/2013 to 12/2015
+
+EpucaTION
+
+Bae Systems - Kiln. MS
+
+- Analyzed business requirements and created functional Visualizations to help boost Business Performance
+
+- Create strong dashboard designs utilizing familiarity with best practices around visualization and design
+
+- Created Data Visualizations in Tableau, using relational and aggregate data sources
+
+- Extracted reports and connecting data to single or multiple data sources to improve performance
+
+- Use Tableau parameter controls, hierarchies and filters to achieve Detailed expressions and geospatial design configurations leveraging multiple data joins for comprehensive analysis
+
+- Creating dashboards of Load Rates, Company Profits, Maintenance Fees, E-Z pass fees etc
+
+- To help management make better future decisions and improve the company
+
+- Developed KPI's and dashboards based on reports, spreadsheets and charts
+
+- Good interaction with clients understanding Business applications, Data flow and Data relations
+
+- Used Custom SQL for joining the tables and selecting the required Data, Created joins for data blending from different data sources
+
+- Developed complex calculated fields for the business logic, field actions, sets and parameters to include various filtering capabilities for the dashboards, and to provide drill down features for the detailed reports
+
+- Worked with Tableau Admin team to ensure the stability & performance of the Tableau server
+
+Tableau Developer Bae Systems - Mojave, CA
+- Worked with: Excel Data sources MS SQL, Quick books
+- Provided reporting, analysis and insights about Loads Rates, Load Miles, Delivery Locations, drivers and key revenue performance metrics to help the business make better decisions and improve
+- Interacted with clients and internal stakeholders to gather requirements and plan milestones in the research, development, and implementation phases of the project lifecycle
+- Created design specifications to meet functional and business requirements
+- Collaborated with Tom Truck to determine and detail overall goals and requirements
+- Supported end users in UAT, piloting and go-live
+- Translated technical concepts and information into terms parties could easily comprehend
+- Analyze complex business process/user stories and execute functional and data integrity test cases
+- Worked on creating Aggregations, calculated Fields, Table calculations, window function, Totals, and percentages using Key Performance Measures (KPI) and Measure
+- Deliver production support to Tableau users and write Custom SQL to support business requirements
+- Produce mapping documents for every mapping as well as Data Migration documents for smooth transfer of project from development to testing environment and then to production environment.
+
+Tableau Developer Bae Systems - Peterson Air Force Base, CO
+
+- Honda, Chevrolet
+
+- Responsibilities:
+
+- Created dashboards to improve business sales and incomes
+
+- Helped business grow and improve their services to consumers
+
+- Analyzed business requirements and created functional requirements specifications to build and deploy solutions
+
+- Developed and enhanced reports connecting to single or multiple data sources to improve performance
+
+- Translated business requirements into technical requirements
+
+- Conducted business stakeholder interviews to ascertain problems and document and create business requirements
+
+- Expertise in handling all tableau products (Desktop, Public, Server, online and Reader)
+
+- Provided production support to Tableau users and support busses requirements
+
+- Responsible for creating calculated fields combine field, bins, sets, and hierarchies using Tableau Desktop
+
+- Modified the existing dashboard as per the user requirements
+
+- Used Tableau Desktop for creating different interactive views and dashboards
+
+- Created various types of charts to provide better visualization
+
+- Used Tableau Desktop to create Interactive reporting dashboards by combining multiple views
+
+- Performed unit test/integrated testing scenarios which were used to obtain the UATs
+
+- Used MS Excel, Word, Access, and PowerPoint to process data, create reports in Tableau and analyze metrics, implement verification procedures, and fulfill client requests for information
+
+- Fabricated Pivot Table in MS Excel, used VLOOKUP
+
+- Developed complex calculated fields for the business logic, field actions, sets, and parameters to include various filtering capabilities for the dashboards, and to provide drill-down features for the detailed reports
+
+- Developed best practices guide for Tableau implementation using Tableau Desktop, Tableau Server, and Tableau Online
+
+- Implemented action filters, and parameters, calculated filed and set for preparing dashboards and worksheets in Tableau
+
+- Experience in creating Business Impact Analysis strategies for clients’ applications
+
+- Developed automated processes to support the statistical analysis and data-mining using Excel and SQL.
+
+Junior Tableau Developer Als Limited - Spring City, PA
+- Publishing sheets and dashboards on server using Tableau Desktop
+- Evaluated existing reporting procedures to recommend adjustments to reported data categories, enhancing visualization impact to maximize report utility
+- Utilized Tableau mobile app to develop insightful, legible Tableau dashboards accessible through smartphones and tablet devices
+- Created views in Tableau Desktop that was published to internal team for review and further data analysis and customization using filters and actions
+- Created report schedules on Tableau server
+- Responsible for creating reports using Tableau desktop and publishing reports to Tableau server
+- Created Relationships, actions, data blending, filters, parameters, hierarchies, calculated fields, sorting, groupings, live connections, and in-memory in both tableau and excel
+- Work with other teams to designs and develop new/improve current processes to supplement and/or improve current operations
+- Involved in Testing, Peer Reviews of developed reports
+- Worked extensively with Advance analysis Actions, Calculations, Parameters, Background images, Maps.
+
+Data Entry Clerk Dollar General - City, STATE
+- Completed data entry tasks with accuracy and efficiency
+- Scanned documents and saved in database to keep records of essential organizational information
+- Entered numerical data into databases with speed and accuracy
+- Sorted documents and maintained organized filing process.
+
+2024
+
+2019
+
+2016
+
+WORK EXPERIENCE
+---------------
+
+08/2022 to Current
+
+01/2020 to 07/2022
+
+07/2017 to 01/2020
+
+01/2016 to 07/2017
+
+11/2013 to 12/2015
+
+Bachelor of Science: Informatics Indiana University East - Richmond, IN
+
+Associate of Science: Community College of Denver - Buffalo, NY
+
+High School Diploma Leonardo Da Vinci High School - Buffalo, NY
+
+Tableau Developer Midwest Logistics Systems - Celina, OH
+- Analyzed business requirements and created functional Visualizations to help boost Business Performance
+- Create strong dashboard designs utilizing familiarity with best practices around visualization and design
+- Created Data Visualizations in Tableau, using relational and aggregate data sources
+- Extracted reports and connecting data to single or multiple data sources to improve performance
+- Use Tableau parameter controls, hierarchies and filters to achieve Detailed expressions and geospatial design configurations leveraging multiple data joins for comprehensive analysis
+- Creating dashboards of Load Rates, Company Profits, Maintenance Fees, E-Z pass fees etc
+- To help management make better future decisions and improve the company
+- Developed KPI's and dashboards based on reports, spreadsheets and charts
+- Good interaction with clients understanding Business applications, Data flow and Data relations
+- Used Custom SQL for joining the tables and selecting the required Data, Created joins for data blending from different data sources
+- Developed complex calculated fields for the business logic, field actions, sets and parameters to include various filtering capabilities for the dashboards, and to provide drill down features for the detailed reports
+- Worked with Tableau Admin team to ensure the stability & performance of the Tableau server
+
+Tableau Developer Tom Truck - Columbus, OH
+- Worked with: Excel Data sources MS SQL, Quick books
+- Provided reporting, analysis and insights about Loads Rates, Load Miles, Delivery Locations, drivers and key revenue performance metrics to help the business make better decisions and improve
+- Interacted with clients and internal stakeholders to gather requirements and plan milestones in the research, development, and implementation phases of the project lifecycle
+- Created design specifications to meet functional and business requirements
+- Collaborated with Tom Truck to determine and detail overall goals and requirements
+- Supported end users in UAT, piloting and go-live
+- Translated technical concepts and information into terms parties could easily comprehend
+- Analyze complex business process/user stories and execute functional and data integrity test cases
+- Worked on creating Aggregations, calculated Fields, Table calculations, window function, Totals, and percentages using Key Performance Measures (KPI) and Measure
+- Deliver production support to Tableau users and write Custom SQL to support business requirements
+- Produce mapping documents for every mapping as well as Data Migration documents for smooth transfer of project from development to testing environment and then to production environment.
+
+Tableau Developer Manpower Staffing Solution, Foods - Buffalo, NY
+
+- Honda, Chevrolet
+
+- Responsibilities:
+
+- Created dashboards to improve business sales and incomes
+
+- Helped business grow and improve their services to consumers
+
+- Analyzed business requirements and created functional requirements specifications to build and deploy solutions
+
+- Developed and enhanced reports connecting to single or multiple data sources to improve performance
+
+- Translated business requirements into technical requirements
+
+- Conducted business stakeholder interviews to ascertain problems and document and create business requirements
+
+- Expertise in handling all tableau products (Desktop, Public, Server, online and Reader)
+
+- Provided production support to Tableau users and support busses requirements
+
+- Responsible for creating calculated fields combine field, bins, sets, and hierarchies using Tableau Desktop
+
+- Modified the existing dashboard as per the user requirements
+
+- Used Tableau Desktop for creating different interactive views and dashboards
+
+- Created various types of charts to provide better visualization
+
+- Used Tableau Desktop to create Interactive reporting dashboards by combining multiple views
+
+- Performed unit test/integrated testing scenarios which were used to obtain the UATs
+
+- Used MS Excel, Word, Access, and PowerPoint to process data, create reports in Tableau and analyze metrics, implement verification procedures, and fulfill client requests for information
+
+- Fabricated Pivot Table in MS Excel, used VLOOKUP
+
+- Developed complex calculated fields for the business logic, field actions, sets, and parameters to include various filtering capabilities for the dashboards, and to provide drill-down features for the detailed reports
+
+- Developed best practices guide for Tableau implementation using Tableau Desktop, Tableau Server, and Tableau Online
+
+- Implemented action filters, and parameters, calculated filed and set for preparing dashboards and worksheets in Tableau
+
+- Experience in creating Business Impact Analysis strategies for clients’ applications
+
+- Developed automated processes to support the statistical analysis and data-mining using Excel and SQL.
+
+Junior Tableau Developer Dollar General - Buffalo, NY
+- Publishing sheets and dashboards on server using Tableau Desktop
+- Evaluated existing reporting procedures to recommend adjustments to reported data categories, enhancing visualization impact to maximize report utility
+- Utilized Tableau mobile app to develop insightful, legible Tableau dashboards accessible through smartphones and tablet devices
+- Created views in Tableau Desktop that was published to internal team for review and further data analysis and customization using filters and actions
+- Created report schedules on Tableau server
+- Responsible for creating reports using Tableau desktop and publishing reports to Tableau server
+- Created Relationships, actions, data blending, filters, parameters, hierarchies, calculated fields, sorting, groupings, live connections, and in-memory in both tableau and excel
+- Work with other teams to designs and develop new/improve current processes to supplement and/or improve current operations
+- Involved in Testing, Peer Reviews of developed reports
+- Worked extensively with Advance analysis Actions, Calculations, Parameters, Background images, Maps.
+
+Data Entry Clerk Dollar General - Buffalo. NY
+- Completed data entry tasks with accuracy and efficiency
+- Scanned documents and saved in database to keep records of essential organizational information
+- Entered numerical data into databases with speed and accuracy
+- Sorted documents and maintained organized filing process.

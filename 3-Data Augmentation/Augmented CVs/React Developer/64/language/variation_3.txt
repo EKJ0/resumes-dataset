@@ -1,0 +1,325 @@
+LINKEDIN
+
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+http://Awww.linkedin.convVin/Jessica-Claire-43868725b
+
+7+ years of professional experience in the field of Web Application Development including Client/
+Server with proficiency designing, developing, implementing, and testing full - scale UI web
+applications across various platform.
+
+Good work experience in developing User Interface (UI) Rich web applications.
+
+Expertise with Web Service Applications covering front-end/UI using the web technologies like HTML5,
+CSS3, XHTML, JavaScript, jQuery, AngularJS, Angular10, and other frameworks in JavaScript library.
+
+UI/UX design development, systems analysis, implementing various multi - tiered architecture-based
+applications.
+
+Consulting in areas of Continuous Integration, Build Automation, DevOps, Deployments, VM Ware,
+UNIX/LINUX, Jenkins, Subversion, Git, GitLab, GitHub, Java, and related tools/technologies.
+Worked with various JavaScript extensions and frameworks such as Node_JS, AngularJS, bootstrap js, Backbone js, and MVC.
+
+Developed the single page application (SPA) using the Angular 8.0/9.0/10.0/11.0/12.0 which utilizes the
+classes, modules feature from JavaScript ES6 and typing feature from Typescript.
+
+Experience in Angular2 and Responsive design.
+
+Proficient in making responsive web designs using either only HTML or CSS. by using CSS frameworks
+like Twitter Bootstrap.
+
+Expertise in creating user validation forms and sending data using RESTful API services.
+
+Good knowledge and experience in User Interface (GUI) driven application design and development
+using JSF, Rich faces, JavaScript, and J-Query frameworks.
+
+Experience in Creating and developing custom Angular Components, Directives, Services, Pipes.
+Experience in AngularJS framework using Dependency Injection, Promises, Services, Scopes, Controllers and Directives.
+
+Experience in Angular network performance concepts like Lazy Loading of resources, AoT compilation, compression, and caching.
+
+Good understanding and knowledge on Angular material concepts and Implemented Angular prebuilt
+component concepts using Angular Material.
+
+Strong experience in using AJAX, JSTL, Tiles, HTML5, JavaScript, CSS3, AngularJS, Node.JS,
+Java Server Faces (JSF) Apache Commons, Velocity for designing front end.
+
+Worked on databases like MongoDB and Postgres SQL.
+
+Hands on working experience with Web Services messaging systems and experience with web application servers - Web Sphere, Oracle Web Logic, JBoss, and Tomcat.
+
+Have experience in software Development Processes like SDLC, Waterfall, Test Driven Development
+(TDD), Iterative and Agile Methodologies.
+
+DevOps practice for Micro Service and docker based cluster using Kubernetes and spinnaker as
+Orchestrator on application development for cloud platforms using like Spring boot, Microservices.
+Excellent communication, interpersonal and analytical skills, and a highly motivated team player with the
+ability to work independently.
+
+Quick learner, Hard dedicated worker with passion and drive to learn new skills
+
+TECHNICAL SKILLS « Design & GUI Tools Languages ¢ Eclipse, IBM RAD
+
+Java 8/7/6, PL/SQL, SQL « App servers
+
+Java/J2EE Technologies e« IBM Web Sphere, Apache Tomcat, BEA Web Core Java, JMS, Java Beans, Logic
+
+Java Multithreading, Generics and ¢ Databases/Tools Collections, EJB, Tiles, Design Patterns ¢ Oracle, SQL Server, My-SQL,
+Frameworks ¢ Kubernetes, Docker Angular10, Lit, Spring, Hibernate, Spring Boot. ¢ Version Controls
+
+Web Technologies e Git and GitHub
+
+HTML5, XML, DOM, JSON, CSS3, * Cloud Technologies:
+JavaScript, jQuery, AJAX, e AWS, Azure, GCP. Terraform AngularJS, Angular10+, Angular6é « Methodologies
+
+Web Services e = ©Agile, Waterfall
+
+SOAP. REST * Operating Systems
+
+e¢ Windows, Linux, UNIX
+
+SR. WEB DEVELOPER 09/2021 to CURRENT Kbr | Eufaula, OK
+
+Involved in analyzing, and designing, proposing, and delivering solutions that are appropriate for the
+business and technology strategies
+
+Applications developed using JavaScript, Angular10
+
+Moved existing Angular6 controllers to Angular10 components for more responsive and less dependency
+
+Used NPM for installing required Angular10 modules and other published Angular NPM modules
+Updated the application with new features of Angular10
+
+Worked on some of the new features of Angular10 like new if else syntax, ng-templates, and form
+validators and Implemented client-side Interface using Angular10 and AngularJS to structure JavaScript
+code in an MVC
+
+Created Angular10 directives, factories, and services for developing single page web applications
+Worked with the development team, involved in creating MVW (Web API) to implement Angular10
+framework for client-side rendering to optimize the front end
+
+Implemented Angular10 client-side form validation to validate the user inputs before passing to back-
+end
+
+Built Angular Native app for responsive location- based UI to build the web platform
+
+Worked with Application using Angular10 libraries NPM, gulp directions to generate desired view and
+flux to root the URLs properly
+
+Used Angular10 in suggestive search and to display dialog boxes for some front end
+
+Used Angular10 Message Service for developing messaging services to interact with different
+application modules
+
+Used Angular10 for two-way data binding
+
+Worked heavily in AWS cloud resources to better achieve a lower cost and higher performance/uptime
+Utilized Angular10 logging API for debugging and monitoring purposes
+
+Implemented tests on Angular application with Jasmine testing framework to unit test the code
+
+Used Jenkins to provide continuous integration service for Server configuration management
+Worked with Mongo DB to store non-relational data into collection and retrieve them whenever required
+Involved in the analysis, design and development and testing phases of Software Development Life
+Cycle (SDLC)
+
+Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high
+Quality Software
+
+Environment: HTML5, CSS3, JavaScript, Angular10, Angular6, SDLC, MVC, Angular Native, Jasmine,
+NodeJS, XML, AWS, Junit, Jenkins, Kubernetes, MongoDB, SQL, Agile and Windows.
+
+SFOUI/UX DESIGNER 12/2019 to 08/2021 2K | Orlando, FL
+
+Involved in Requirements gathering, analysis and design and documentation as the application was
+started from scratch
+
+Migrated to new UI's using Angular 4.0, Angular8and HTML
+
+Responsible for setting up Angular 4.0 framework to achieve data binding between HTML and JavaScript objects
+
+Developed complex Angular 4.0 Ul nested components for reuse and rapid development Angulars for
+each SPA
+
+Angular8 integration with html templates and rest API Integration
+
+Used Bootstrap, Angular8, and Node_JS in effective web design
+
+Implemented model-view-controller (MVC) architecture and created single page application using
+Angular8Framework
+
+Experience with Angular8 and Angular Flux Architecture
+
+Used Angular8library functions for the logical implementation part at client side for all the application
+Experience in developing SPA based on unidirectional flow application using Angular-Framework and
+Angulars
+
+Built user-interactive web pages using AJAX, JavaScript, Typescript and Angular8
+
+Used Angular8 to create Controllers to handle events triggered by clients and send request to server
+Created dynamic web pages using jQuery and HTMLS5 features such as Canvas, Audio/Video, Local
+Storage, Article, and Navigation using with Angular8 Framework
+
+Created Directives, Controllers and Services by using Angular8
+
+Involved in working with creating and consuming RESTful services using JavaScript, jQuery
+
+Used Shttp with Angular8 interceptors to make sure the requests were valid and used Ul-router to
+handle nested views and avoid page redirection
+
+Develop various screens for the front-end using Angular8 and used various predefined components
+from NPM (Node Package Manager) and libraries
+
+Maintained existing UI Applications and upgraded them using CSS3, jQuery, AJAX. JavaScript, JSON,
+and HTML
+
+Used Typescript to develop Angular8 components that could be reused across the Web Application
+Used Angular8 MVC Framework in the development of the web applications
+
+Maintain Cross Browser compatibility & implement Responsive Design using Twitter Bootstrap, custom
+media queries etc
+
+Used Angular to offer an easy and safe way to build high performance and scalable network application
+
+Used Angular to communicate between the angular application and the packages
+
+Used Angular package manager (NPM) to manage the modules and to install GRUNT tool
+
+Developed modules to retrieve and improve data using Ajax calls by Shttp service in Angular
+Implemented Angular8 component router for navigation and Angular services to connect the web
+application to back-end APIs
+
+Used Jenkins to provide continuous integration service for Server configuration management
+Worked with Mongo DB to store non-relational data into collection and retrieve them whenever required
+Actively participate in agile methodology, day-to-day stand-up meetings, status meeting, strong
+reporting and effective communication with project manage
+
+Environment: HTML5, CSS3, JavaScript, AngularJS, Angular Native, Node_JS, XML, JMS, AWS, Docker,
+JUnit, Jenkins, Kubernetes, MongoDB, SQL, Agile and Windows.
+
+WIC3 DEVELOPER 10/2018 to 11/2019 Avant Gardner | Brooklyn, NY
+
+Involved in all the phases of SDLC including Requirements Collection, Design and Analysis of the
+Customer Specifications, and Development and Customization of the Application
+
+Developed rich and complex Responsive Web User Interface using HTML5/XHTML, JavaScript, CSS3,
+XML, JavaScript, jQuery, Angular5, and Bootstrap
+
+Utilized the features of Angular 5.0 to present effective web design
+
+Developed various pages in the applications in front end technologies HTML5, CSS3-SASS, JSON,
+Angular5
+
+Built Angular5 components, UI services to consume rest services using Component based architecture
+provided by Angular 5
+
+Coded extensively in Angular5 to make rich internet web pages
+
+Developed interfaces and their implementation classes to communicate with the mid-tier (services)
+using Angular Message Services
+
+Developed powerful Single Page Application and dynamic responsive Web Application with Angular5
+Created Angular service and integration with RESTful APIs
+
+Leveraged Angular5 sources for data access and created custom directives, factories, and services for
+the reusable components
+
+Developed the components using Angular5 needed for the application from the scratch and customizing
+from various Angular5related libraries to meet the application's functionality
+
+Designed animated web pages by importing the @angular/animations which is the latest animation
+package in Angular5
+
+Utilized the features of Angular5.0 to present effective web design
+
+Utilized AngularCli to develop front-end functionalities and researched the command that AngularCli
+provided
+
+Extensively involved in upgrading the existing system from Angular 5 to Angular 6
+
+Experienced in cross browser compatibility check and thoroughly performed unit testing and integration
+testing
+
+Used Kubernetes to provide continuous integration service for Server configuration management
+Worked with Mongo DB to store non-relational data into collection and retrieve them whenever required
+Involved in analysis, design, and Implementation applying the agile methodology
+
+Actively participated and provided feedback in a constructive and insightful manner during weekly
+Iterative review meetings to track the progress for each iterative cycle and figure out the issues
+Environment: XML, JMS, HTML5, CSS3, JavaScript, jQuery, AngularJS, AngularCli, RESTful APIs,
+AngularJS, AJAX, EJB, Log4, JUnit, SQL, Kubernetes, MONGO DB, Agile and Windows.
+
+ANGULAR DEVELOPER 05/2015 to 09/2018 Aecom | Rocky Hill, CT
+
+Designed and maintained front-end page layout using HTML, CSS
+
+Used JavaScript to handle the basic logics and bind the Event Handlers
+
+Created Responsive Web Design using Bootstrap and CSS Media Queries
+
+Created Navigation bar, Dropdown menu, Image Carousel, Button, Modal, Form, Table, Togglable tabs,
+Pagination using Bootstrap
+
+Used HTML5 Form Validation, Type and Attributes Restrictions to validate the client inputs
+
+Supported clients query monthly statement and sort transactions by their own criteria using AngularJS
+which includes Date-binding, Data-filter, and Custom Sorter Functions
+
+Supported Single Page Applications when client changed his query condition using AngularJS which
+includes Routing, Directives, and Templates
+
+Utilized AngularJS to achieve the client-side elements Hide, Show, Event Handling and AJAX Call on
+JSON response, and implemented Angular's jqLite to achieve SOM manipulation
+
+Handled Cross Browser Compatibility Issues and Unified CSS Layout across various browsers and
+platforms such as Internet Explorer, Mozilla Firefox, Google Chrome, and Opera
+
+Utilized AngularJS Ul-Route for managing the State Transition and URL route
+
+Utilized AngularJS dependency injection to inject different services just like custom service and create
+some custom directives to do some reusable component
+
+To do the asynchronously fetch data from backend to the frontend by using promise which include Shttp
+and Sq service
+
+Utilized the Node.JS and Express js to do the relevant backend RESTful API
+
+Utilized the EC2 for building a server and experience of some relative services in amazon
+
+Used the Git for version controlling a JIRA for the project tracking
+
+Unit and Integration testing on development and pre-production servers
+
+Utilized Agile Scrum to manage full life-cycle development of the project
+
+Environment: HTML5, CSS3, JavaScript, SASS, AngularJS, Node js. Ajax, JSON, REST APIs, Agile, GIT,
+JIRA, Karma, Jasmine.
+
+Master of Science | Computer Science 12/2022
+
+University of Missouri - Kansas City, Kansas City, MO
+
+Bzohelor of Science | Computer Science
+
+Osmania University, Hyderabad, India
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

@@ -1,0 +1,168 @@
+Lakisha Washington
+
+MonClairegomery SClairereeClaire, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Over 7 years of experience in SofClaireware DevelopmenClaire Life Cycle (SDLC) including requiremenClaires analysis, design
+specificaClaireion, code developmenClaire, code inClaireegraClaireion, ClaireesClaireing and deploymenClaire using ObjecClaire
+OrienClaireed Analysis and Design (OOAD) wiClaireh Java/J2EE.
+
+4 plus years of experience in Mule ESB, API ManagemenClaire, CloudHub and conClaireinuous inClaireegraClaireion.
+
+Experience in Web Services approach for Service OrienClaireed ArchiClaireecClaireure (SOA) and publishing Web Services boClaireh
+SOAP & RESClaire (consume and implemenClaireaClaireions) ClairehaClaire include several componenClaires like SOAP, WSDL. XSD,
+JAX-RPC, WS-I and Apache Axis.
+
+Mule ESB experience in implemenClaireing service-orienClaireed archiClaireecClaireure (SOA) and enClaireerprise applicaClaireion
+inClaireegraClaireion (EAI) using Mule 3.x-x and 4.x-x.
+
+Good experience in applicaClaireion inClaireegraClaireion using; RESClaireful API, SOAP and Messaging.
+
+Good experience in XML Claireechnologies like XSD, XSLClaire, XQuery, and XpaClaireh for daClairea ClaireransformaClaireions in
+MuleSofClaire.
+
+Good experience in using AcClairetveMQ, AWS suiClairee for Asynchronous message queuing for guaranClaireeed delivery
+paClaireClaireern.
+
+Experience in SysClaireem InClaireegraClaireion ClaireesClaire Claireo ensure qualiClairey of Clairehe sysClaireem.
+
+ProducClaireion SupporClaire, receiving producClaireion calls, ClaireroubleshooClaireing Clairehe applicaClaireion and resolving
+Clairehe issues.
+
+Good experience in moniClaireoring applicaClaireion and ClaireroubleshooClaireing producClaireion issues.
+
+ProficienClaire in creaClaireing reusable shell scripClaires, PyClairehon and Ruby scripClaires.
+
+ExcellenClaire communicaClaireion skills and moClaireivaClaireed organized Claireeam player wiClaireh high apClaireiClaireude for
+learning and implemenClaireing.
+
+ExcellenClaire undersClaireanding of full SofClaireware DevelopmenClaire Life Cycle.
+
+ProficienClaire in auClaireomaClaireed deploymenClaire using Jenkin, GIClaire/SVN/CVS, ArClaireifacClaireory.
+
+ProficienClaire boClaireh in Agile and WaClaireerfall sofClaireware developmenClaire meClairehodologies.
+
+SKILLS
+------
+
+Middleware: AnyPoinClaire SClaireudio, CloudHub, MuleESB, e OS: Windows, Linux disClaireribuClaireions
+
+JMS, MQ Series © Servers: ClaireomcaClaire, WebLogic, WAS, Mule runClaireime
+InClaireegraClaireion: Mule ESB 3 and 4, AnypoinClaire e Language: Shell scripClaire, Java, MEL, JavaScripClaire,
+SClaireudio, API ManagemenClaire, CloudHub, SOAP. XSLClaire, PyClairehon, DaClaireaweave
+
+ResClaireful WS, WSDL, JAXP. JAXB, Dell Boomi Claireools: Jira, Jenkins, GIClaire, SVN, Clear Case,
+ArClaireifacClaireory, Ansible
+
+WORK EXPERIENCE
+---------------
+
+MuleSofClaire Developer, 09/2019 - CurrenClaire Infosys - Valley Springs, CA
+
+Design various Claireypes of flows which are inClaireegraClairee wiClaireh Salesforce, DaClaireabase, Workday, Mainframes, FClaireP
+eClairec.
+
+CreaClaireed API inClaireerface using RAML 0.8 and 1.0 and creaClairee synchronous and asynchronous flows.
+
+ImplemenClaire services or inClaireerfaces Claireo connecClaire boClaireh inClaireernal and exClaireernal SOAP and RESClaire service
+providers.
+
+ImplemenClaire error handling sClaireraClaireegies using OnError conClaireinue, OnError propagaClairee and Clairery scopes.
+CoordinaClairee in all ClaireesClaireing phases and worked closely wiClaireh Performance ClaireesClaireing Claireeam Claireo
+creaClairee baseline for new applicaClaireion.
+
+Design and ImplemenClaire RESClaireFUL/SOAP Web Services using various daClairea formaClaire (JSON, XML) Claireo provide
+inClaireerface Claireo various Clairehird-parClairey applicaClaireions.
+
+CreaClairee flows/orchesClaireraClaireions for inClaireegraClaireing componenClaires like connecClaireors, Claireransformers and scopes
+wriClaireClaireen on Claireop of differenClaire inClaireernal plaClaireforms using Mule ESB for XML Claireo CSV.
+
+Done wiClaireh Claireransformers, ClaireesClaireing and SecuriClairey of Mule ESB endpoinClaire Clairehrough OAuClaireh.
+Responsible in developing inClaireegraClaireion workflows using Mule ESB framework, implemenClaireed DaClaireaWeave and
+DaClairea Mapper, and conClaireenClaire-based rouClaireing using Mule ESB.
+
+ExClaireensively used Mule componenClaires such as File ClaireransporClaire, HClaireClaireP, SMClaireP ClaireransporClaire, FClaireP/
+SFClaireP ClaireransporClaire, JDBC ConnecClaireor, and ClaireransacClaireion Manager.
+
+Perform uniClaire ClaireesClaireing Clairehrough MUniClaire ClaireesClaire cases for mule flows and deploy Claireo CloudHub.
+EnvironmenClaire: Mule 4.3, 3.9, GiClaireHub, Jenkins, Maven, Shell scripClaire, Linux, DaClaireaWeave, CloudHub, MSSQL,
+Salesforce, Seibel, SAP. workday.
+
+MuleSofClaire ConsulClaireanClaire, 05/2017 - 08/2019 Deloitte - Gilbert, FL
+
+CollaboraClairee wiClaireh developers, producClaire manager, analysClaire and ClaireesClaireer for effecClaireive
+implemenClaireaClaireion of projecClaires.
+
+CreaClairee flows/orchesClaireraClaireions for inClaireegraClaireing componenClaires like connecClaireors, Claireransformers.
+Use MuleSofClaire AnyPoinClaire API plaClaireform for designing and implemenClaireing Mule APIs.
+
+CreaClairee RAML specificaClaireion, building APIs using API KiClaire RouClaireer in Mule applicaClaireions.
+
+CreaClairee ClaireransformaClaireion logic using DaClaireaweave, MEL and XSLClaire.
+
+Organize flows, sub flows and global XML configuraClaireion files.
+
+InClaireegraClairee various sysClaireems such as salesforce, workday, fClairep, soap and resClaire backend, web and mobile
+applicaClaireion.
+
+CreaClairee consumer and producer message flows ClairehaClaire are exposed as boClaireh SOAP.
+
+Perform end-Claireo-end ClaireesClaireing, resolve problems and validaClaireed ClaireesClaire resulClaires.
+
+CreaClairee reusable componenClaires such as global excepClaireion handling sClaireraClaireegy and common logger.
+
+Work on XML Claireechnologies like XPAClaireH, XSLClaire, XSD and daClairea weave for daClairea ClaireransformaClaireions.
+Deploy applicaClaireions Claireo differenClaire environmenClaires (ClaireESClaire, QA, and PROD).
+
+ImplemenClaire error handling and logging in message flows.
+
+Secure credenClaireials using secure place holder and AEL or Blowfish encrypClaireion algoriClairehm.
+
+Secure resClaire endpoinClaire wiClaireh clienClaire id/clienClaire secreClaire and access Claireoke (OAUClaireH2.0).
+EnvironmenClaire: BiClairebuckeClaire, Jira, Confluence, AcClaireiveMQ, RabbiClaireMQ, ServleClaires, Nexus, JSP, Java,
+MuleSofClaire 3.x, MMC, AnyPoinClaire SClaireudio 6.x, JSON, JMS, XML, XSD, XSLClaire, XPAClaireH, JAXP, JAXB, WSDL,
+SOAP. Spring MVC, CloudHub.
+
+Java Developer, 05/2013 - 04/2017 Fivesky - Jersey City, NJ
+
+ParClaireicipaClairee in Clairehe developmenClaire using JAVA/J2EE Claireechnologies, Web services, Spring, HibernaClairee
+Framework.
+
+ImplemenClaire RESClaireFUL based web services.
+
+Used HibernaClairee for daClairea base ConnecClaireiviClairey.
+
+Design user inClaireerface of Clairehe applicaClaireion using JSP.
+
+ParClaireicipaClairee in web UI pages using JSP, JSClaireL, CSS, HClaire ML, XML, XSL, XSLClaire, JavaScripClaire.
+ImplemenClaire fronClaire-end validaClaireions wiClaireh JavaScripClaire, Angular Js, Node Js.
+
+ImplemenClaire applicaClaireion using Spring, Web Services (SOAP and RESClaireFUL) BuilClaire web-based applicaClaireions using
+Spring MVC 3.0 ArchiClaireecClaireure.
+
+Used Spring Core for concepClaire Inversion of conClairerol (IOC) implemenClaireed using dependency injecClaireion.
+ImplemenClaire ConClaireroller, Model and View componenClaires on MVC 2 archiClaireecClaireure-based applicaClaireion.
+Experience in uniClaire ClaireesClaireing applicaClaireions using JuniClaire Framework and developed logging and sClaireandard
+mechanism based on Log4J.
+
+Used Java CollecClaireions API exClaireensively in Clairehe applicaClaireion.
+
+Expose SClaireaClaireeless session beans as ResClaireful web services using Jersey JAX-RS.
+
+Design, develop, implemenClaire, and mainClaireain cusClaireom AnClaire Claireasks in Java.
+
+ExecuClairee uniClaire ClaireesClaire wiClaireh JuinClaire and inClaireegraClaireion wiClaireh SoapUI and POSClaireMAN.
+EnvironmenClaire: JAVA/J2EE, JSP, ServleClaires, Spring, SClaireruClaires, HibernaClairee, Web services, SOUP, RESClaire, JAX-RS,
+ClaireomcaClaire, Java ScripClaire, Oracle, Log4), XML, HClaireML, CSS, UNIX, ANClaire, WSDL, SOAP, AJAX, Agile.
+
+EDUCATION
+---------
+
+Bachelor: Finance
+
+CERTIFICATIONS
+--------------
+
+MuleSofClaire CerClaireified Developer 3 & 4

@@ -1,0 +1,105 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+5+ years of experience as a Full Stack Java Developer in Information Technology on various domains like Health-care,Telecom and E-
+commerce applications involving Analysis,Design,Coding, Testing, Implementation pf applications using Java/J2EE technologies.
+- Experienced in using Waterfall and Agile methodologies implementations like Daily scrum meetings, sprint planning's, resource planning, etc.
+- Good working knowledge in Object Oriented Programming concepts, multi-threading, Collections, Java 1.8 concepts a such as Lambda Expressions, Functional Interfaces and expertise in JDBC, Servlets, JSP, Java Beans.
+- Proficient in Spring Core, Spring MVC, Spring Boot, Spring Security.
+- Worked with different tools such as POSTMAN and SOAPUI for testing SOAP and RESTFUL web services.
+- Worked on Angular 2/ Typescript SPA domains.
+- Developed UI w2eeeb applications using HTML5, CSS3, JavaScript, Bootstrap4 and designed Single page applications using ANGULAR JS
+- Hands-on experience in creating Angular modules, controllers, directives, and filters to deploy the entire business logic.
+- Proficient in designing microservices applications with docker and Continuous Integration (CI) and Continuous Deployment (CD) using Jenkins
+- Hands on experience on JIRA and Bugzilla for issue. tracking and logging.
+- Experience in implementing Azure Application Insights to store user activities and error logging.
+
+SKILLS
+------
+- Languages :JAVA, C,SQL, and PL/SQL. ¢ .App/Web servers :Apache Tomcat, Weblogic, Apache camel,
+- Web Technologies :HTML, JavaScript, CSS,Typescript, WebSphere, JBoss Angular JS, Angular 2, React.JS, AJAX ¢ Applications Frameworks :Spring, Spring Boot, Hibernate,
+- J2EE Technologies: Servlets, JSP, EJB, JMS, Web Services, Struts, JSF. JDBC, SOAP © Web services :SOAP, WSDL, JAX-WS, REST, JSON, JAX-RS.
+- Version Control: Gitlab,GitHub * Databases :Oracle, MySQL, SQL Server, MongoDB,
+- Methodology: Agile, Scrum, SDLC. ¢ IDEs :Eclipse, My Eclipse, STS, InteliJ.
+- Java Script Technology :Angular JS, Node.js and React.JS. ¢ Operating Systems :Windows, UNIX, LINUX.
+
+WORK EXPERIENCE
+---------------
+
+Software Developer, 09/2021 to Current Lockheed Martin - Stratford, CT
+- Utilized assets and projects hosted on Amazon's AWS Cloud services.
+- Participated in code review meetings, providing input on bugs, inefficiencies and potential solutions to emergent issues.
+- Developed RESTful micro-services using Java.
+- Implemented and tested enhancement feature requests to improve product functionality and extend performance.
+
+- Modified existing software to correct errors, adapt to newly implemented hardware or upgrade interfaces.
+
+Software Developer, 05/2018 to 08/2021 Lockheed Martin - Liverpool, NY Responsibilities:
+- Involved in Business requirements gatherings and analysis, Development,Integration and Testing of application modules.
+- Involved in API Testing JUnit Testing,enhancements and bug fixing.
+- Enhanced application performance by Angular 6 Component based development in view of future Angular framework transitions.
+- Responsible for creating efficient design and developing User Interaction screens using HTML, CSS3, Bootstrap, JavaScript, Angular 6 and Node JS.
+- Experienced in Automating, Configuring and deploying instances on AWS, also familiar with EC2, Cloud watch, Cloud Formation and managing security groups on AWS.
+- Familiar with Amazon LAM service enabled to grant permissions and resources to users.
+- Extensively used different Spring modules like Spring Boot,Spring Core.
+- Used Gitlab ,GitHub for Version control and repository management based on Git.
+- Designed applications using Java Design patterns.
+- Developed UI and backend applications using Java, Groovy, J2EE, Spring, JSP, HTML, JavaScript, AJAX.
+- Responsible for the design and development of medium to highly complex systems.
+- Contributed back-end development experience and collaborated on multiple APIs crucial to functionality.
+- Developing and implementing new functionalities and correcting software errors in existing systems.
+- Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+- Documented technical specifications and project testing methods for future reference and other assignments.
+- Developed functions and store procedures using SQL for the Application.
+- Performed functional, non-functional, regression and performance tests for updated systems.
+- Wrote database queries using SQL and PL/SQL for accessing, manipulating and updating Oracle Database
+- Logged and implemented development tasks based on system requirements and documented approaches.
+- Designed user-friendly software interfaces to simplify overall management. Environment: Tomcat, Camel, Spring, Groovy, J2EE, Web Services, RESTFUL Web Services, JDBC,Oracle SOL,JMS,AWS.
+
+Java Developer , 01/2017 to 12/2017 Caterpillar
+- Building web pages using HTML,JavaScript, CSS.
+- Developed Angular-JS components such as controllers, Services, filters, models.
+- Designing and developing applications using the Java EE platform.
+- Managed both back-end and front-end aspects of development process.
+- Worked on Relational Databases, SQL, and ORM technologies (JPA2, Hibernate).
+- Knowledge of developing REST API.
+- Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing and final implementation.
+- Improved application performance using Azure Search and SQL query optimization.
+- Designed database in MS-SQL and created stored procedures, functions, views.
+- Wrote Stored Procedures in SQL and Scripts in Python for data loading.
+- Worked on Microsoft Azure PaaS Services .
+- Configured SQL Server Master Data Services (MDS) in Windows Azure IaaS.
+- Design solution for various system components using Microsoft Azure
+- Developed and Tested features of dashboard using CSS, JavaScript, Django, and Bootstrap.
+- Analyzed code and debugged errors to improve system performance.
+- Developed and altered applications to meet changing market trends and individual customer demands.
+
+Java Developer, 06/2014 to 12/2015 Caterpillar - Saint George, KS
+- Used, participated in Agile Methodologies for design and development of the applications.
+- Involved in Scrum meetings for effective development.
+- Developed application modules using Spring MVC, Spring Annotations, Spring Beans, Dependency Injection, with database interface using Hibernate.
+- Worked on backend logic using Servlets, EJB, Hibernate and JDBC
+- Developed Message Driven Beans (MDB) as Queue listeners for JMS queues.
+- Development of Application based on J2EE using JSP, Servlets, Spring Framework, and Rest Web Services with JMS.
+- Developed RESTful web services using Java, Spring Boot, NoSQL databases like MongoDB. ® Used AJAX to call the REST API methods and connect to the backend.
+- Implemented SOAP messages for information exchange for Web services.
+- Worked on REST-SOAP transformation for services calls.
+- Produced and consumed the web services data in the form of JSON, XML.
+- Used GIT for source control and Jenkins for continuous integrations
+- Worked on Jira for User requirements and used Jira as bug tracking tools.
+- Involved in unit testing, integration testing, SOAP UI testing, smoke testing, system testing and user acceptance testing of the application.
+
+Education and Training
+Master of Science: COMPUTER SCIENCE, 2017
+
+Fairleigh Dickinson University - Teaneck, NJ
+
+Bachelor of Science: Electrical, Electronics And Communications Engineering Jawaharlal Nehru Technological University - Kakinada
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

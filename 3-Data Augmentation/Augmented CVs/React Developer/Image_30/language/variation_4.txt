@@ -1,0 +1,44 @@
+Senior React Developer CV Sample
+
+SKILLS
+------
+
+- Command over HTML and CSS and their allied tools
+
+- Expertise in JavaScript, React JS, Node JS, and AngularJS
+
+- Extensive knowledge of Apollo, Webpack, Flux, Redux
+
+- Working knowledge of Restful API, UI/UX design and development
+
+- Team collaboration, Git repository, team management, time management
+
+WORK EXPERIENCE
+---------------
+
+- A4years of experience in handling customer requirements for technical solutions
+
+- 4 years of experience in coding and developing web solutions in React JS environment
+
+- Over 4 years of experience in working with JavaScript technology-based solutions
+
+- 3 years of experience in developing, deploying, testing, and troubleshooting web apps
+
+- 3 years of experience in designing responsive interfaces for complex web solutions
+
+- 2 years of experience in managing the cross-functional team for web development
+
+- 2 years of experience in managing large projects of web development independently
+
+EDUCATION
+---------
+- Masters’ degree in Computer Science
+
+e¢ React JS course certificate e¢ Project management certifcate
+
+(} ReactResumes.com
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

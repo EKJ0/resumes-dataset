@@ -1,0 +1,324 @@
+JESSICA CLAIRE
+
+@ resumesample@example.com
+
+& (555) 432-1000
+
+9 100 Montgomery St. 10th Floor
+
+TECHNICAL SKILLS
+----------------
+
+- Languages:
+
+- Java 8/7/6, PL/SQL, SQL
+
+- Java/J2EE Technologies
+
+- Core Java, JMS, Java Beans,
+- Multithreading,
+
+- Generics and Collections, EJB,
+
+Tiles, Design Patterns
+- Frameworks:
+
+- Spring, Hibernate, Spring Boot.
+
+- Web Technologies:
+
+- HTML5, XML, DOM, JSON, CSS3, JavaScript, jQuery,
+
+- AJAX, Angular.js, React.JS, REDUX, React Native
+
+- Web Services:
+
+- SOAP, REST
+
+- Design & GUI Tools:
+
+- Eclipse, IBM RAD, Docker,
+
+Kubernetes
+
+Cloud technologies:
+
+AWS, Azure, GCP, Terraform
+
+App servers:
+
+IBM Web Sphere, Apache
+
+Tomcat,
+
+- BEA Web Logic
+
+- Databases/Tools:
+
+- Oracle, SQL Server, My-SQL
+
+- Version Controls:
+
+- Git and GitHub
+
+- Methodologies:
+
+- Agile, Waterfall
+
+- Operating Systems:
+
+- Windows, Linux, UNIX
+
+EDUCATION
+---------
+
+Osmania University Hyderabad
+
+Bachelor of Science: Computer Science
+
+University of Missouri - Kansas City
+
+Kansas City, MO + 12/2022 Master of Science: Computer Science
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Full Stack Developer with 7+ years of experience in application analysis, design, development, implementation, and maintenance using Java/J2EE technologies such as Hibernate, Spring, Spring Boot, and JPA, as well as SDLC concepts.
+
+- Hands on experience in design and development of Desktop applications using multi-threading using Executor Services, lamda expressions with Java 8.
+
+- Experience in developing web applications on MVC based Frameworks like spring, SpringlOC, Spring Security, Spring Boot, SpringCloud, and Spring MVC.
+
+- Experience integrating the internal security model into new projects with Spring Batch, Spring Micro Services and Spring Boot.
+
+- Experience with Spring Boot which is radically faster at building cloud Microservices and developing spring-based applications with very less configuration.
+
+- Experience in Object Relational Mapping (ORM) using Hibernate and Java Persistence API Standard (JPA) for database Connection Pooling, Mappings and Transaction Management.
+
+- Excellent experience on J2EE design patterns such as Business Delegate, Service-Locator, Transfer Object, Data Access-Object, Session-Facade, Singleton patterns.
+
+- Good exposure to Oracle PL/SQL database programming using PL/SQL Packages, Functions, Stored Procedures, Built in Functions, Triggers, Cursors etc.
+
+- Well versed with core Java concepts like collections, multithreading, serialization, Java Beans.
+
+- Experience in developing multi-tier Enterprise Applications using My Eclipse, Web Sphere Studio (WSAD), RAD and RSA Application Developers.
+
+- Excellency in AWS Cloud platform and its features which includes EC2, $3, AMI, and AWS VPC.
+
+- Experience in Docker Engine and Docker Machine environment, to deploy the micro services- oriented environments for scalable application.
+
+- Virtualized the servers using Docker for the test environments and dev-environments needs, also configuration automation using Docker containers.
+
+- Experience in creating Docker Containers leveraging existing Linux Containers and AMI's in addition to creating Docker Containers from scratch
+
+- Experience in working with IBM Web-sphere Portal/Application Server, BEA Web Logic, and Apache Tomcat 5x application servers.
+
+- Experience in developing ANT scripts and Maven Scripts for the build and deployment of J2EE applications.
+
+- Hands on experience with JUnit, and Log4j in developing test cases and determining application functionality.
+
+- Good experience on SOA using technologies like SOAP http protocol, WSDL, JAX-WS, JAX-RPC, Axis.
+
+- Have experience in software Development Processes like SDLC, Waterfall, Test Driven Development (TDD), Iterative and Agile Methodologies.
+
+- Excellent communication, interpersonal and analytical skills, and a highly motivated team player with the ability to work independently.
+
+LINKEDIN
+
+- http://www.linkedin.com/in/Jessica-Claire-43868725b
+
+WORK EXPERIENCE
+---------------
+
+Empower Retirement - Senior Java Developer
+09/2021 - Current
+
+- Involved in analyzing, and designing, proposing, and delivering solutions that are appropriate for the business and technology strategies
+
+- Involved in the analysis, design and development and testing phases of Software Development Life Cycle (SDLC)
+
+- Back-end development was done using J2EE (Java 8), Spring Boot and Spring4 MVC
+
+- Developed various helper classes needed following Java 8 multi-threaded programming and Collection classes
+
+- Developed the application using Spring Framework that leverages model view layer architecture, also configured Dependency Injection
+
+- Designed GUI using Model View Architecture Spring Framework
+
+- Involved in developing application using Spring core module and POJO's using Eclipse and worked on Messaging service
+
+- Designed and developed the REST based Micro services using the Spring Boot, Spring Data with JPA (Java Persistence AP!) and deployed Micro services onto Docker
+
+- Designed and created Micro Services business segments and RESTful endpoints utilizing Spring Boot
+
+- Developed the front-end part of application, user interactive web pages using web technologies like HTML5, XHTML, CSS3, JavaScript and Bootstrap
+
+- Built Web pages using jQuery plugins for Drag and Drop, JQ-Validator, Autocomplete
+
+- Working with Java 8 features likes Lambda Expressions, Filters, Stream API, for Each() method in Iterable interface, new Date API, Predicates and Functional Interfaces
+
+- Implemented Spring and J2EE based MVC (Model-View-Controller) Framework for the application
+
+- Used XML and Java Architecture for XML Binding (JAXB), to map java classes to XML representation
+
+- Involved in writing EJBs (Sate less Session Beans) and Web Services for building the middleware distributed components and deployed them on application servers
+
+- Used micro services with Spring Boot-based services interacting through a combination of REST and Apache Kafka message brokers
+
+- Web Services (SOAP) were developed and published using JAX-WS and JAX-RS
+
+- Implemented RESTful API calls to retrieve JSON data from the data base on the fly
+
+- Developed Session Beans which encapsulate the workflow logic and used Hibernate to access data
+
+- Used Hibernate ORM tools which automate the mapping between SQL databases and objects in Java
+
+- Built Docker Images and used Docker Trusted Repository and Open shift console to maintain Docker Images
+
+- Worked heavily in AWS cloud resources to better achieve a lower cost and higher performance/ uptime
+
+- Utilized Log4j logging AP! for debugging and monitoring purposes
+
+- Implemented JUnit test cases to unit test the code
+
+- Used Jenkins to provide continuous integration service for Server configuration management
+
+- Worked with MongoDB to store non-relational data into collection and retrieve thern whenever required
+
+- Designed database and created tables, written the complex SQL Queries and stored procedures as per the requirements
+
+- Knowledge transfer on effective use of Jenkins, Docker, GitLab
+
+- Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software
+
+- Environment Java 8, Spring, Spring Boot, MYC, Micro Services, Hibernate, Sybase, RESTFul, Eclipse, HTML5, CSS3, JavaScript, Node.JS, XML, JMS, AWS, Docker, EJB, Log4j, JUnit, Jenkins, SOAP, MongoDB, SQL, Agile and Windows.
+
+Empower Retirement - Senior Java Developer
+12/2019 - 08/2021
+
+- Involved in Requirements gathering, analysis and design and documentation as the application was started from scratch
+
+- Responsible for analysis, design, development, and integration of Back-end components using J2EE technologies such as Spring and Spring JDBC
+
+- Developed Web based and Server-side applications using Java 8
+
+- Designed and developed Business Services using Spring Framework (Dependency Injection) and DAO Design Patterns
+
+- Involved in the Development of Spring Framework Controllers
+
+- Used Spring batch Framework to create custom readers and writers to work with the application
+
+- Used Spring Boot Framework to create properties for various environments and use yamls for configuration
+
+- Created various Spring Boot and Spring batch applications to connect them to various databases and created queries to retrieve data and modify the tables for the databases
+
+- Used Spring Boot to dynamically wire up Beans and settings and applies them to the application context at startup of the application
+
+- Used Dependency Injection feature of build and release Spring Boot Framework and O/R mapping tool Hibernate for rapid development and ease of maintenance
+
+- Implemented DAO layer using different hibernate techniques like strategies, Inheritance, annotations, and criteria interfaces
+
+- Involved in setting up AWS (Amazon Web Services) services with EC2 instances, $3 bucket
+
+- Worked with deploying application in AWS along with writing and retrieving files to and from AWS $3 bucket for UI to render data faster
+
+- Worked on Docker Hub, creating Docker images and handling multiple images primarily for middleware installations and domain configurations
+
+- Created and configured the delivery pipeline to implement continuous integration and deployment by using Jenkins
+
+- Implemented and used Web Services with the help of WSDL, SOAP and JAX-WS to get updates from the third parties
+
+- Worked on MongoDB database concepts such as locking, transactions, indexes, replication, schema design, etc
+
+- Involved in creating and extracting data from database using SQL Queries, PL/SQL Stored procedures, triggers, packages on Oracle database
+
+- Monitored team members to follow standards, guidelines and use new tools
+
+- Environment: Java 8, Spring, Spring Boot, MVC, Micro Services, Hibernate, RESTFul, Eclipse, HTML5, CSS3, JavaScript, REDUX, React Native, XML, JMS, AWS, Docker, EJB, Log4j, JUnit, Jenkins, SOAP, MongoDB, SQL, Agile and Windows.
+
+Deloitte - Java J2EE Developer
+10/2018 - 11/2019
+
+- Involved in all the phases of SDLC including Requirements Collection, Design and Analysis of the Customer Specifications, and Development and Customization of the Application
+
+- Developed web and service layer components using Spring MVC
+
+- Developed several controller classes as required for the design such as Abstract Wizard form controller, Simple Form controller, Multi Action controller, etc
+
+- In Spring MVC
+
+- Developed application using Spring MVC and HTML5 on the presentation layer, the business layer is built using Spring and the persistent layer uses Hibernate
+
+- Implemented Micro-services-based Cloud Architecture using Spring Boot
+
+- Designed and developed Micro-services business components and Restful service endpoints using Spring Boot
+
+- Involved in Database design for new modules and developed the persistence layer based on Hibernate
+
+- Developed rich and complex Responsive Web User Interface using HTML5/XHTML, JavaScript, CSS3, XML, JavaScript, jQuery, Angular.JS, Node.JS and Bootstrap
+
+- Developed interfaces and their implementation classes to communicate with the mid-tier (services) using JMS
+
+- Used AJAX Framework for asynchronous data transfer between the browser and the server
+
+- Extensively used Java Multi-Threading concept for downloading files from a URL
+
+- Used J2EE design patterns like Front Controller, DAO, MVC, Business Delegate and Session Facade
+
+- Used spring, Hibernate module as an Object Relational mapping tool for Back-end operations over SQL database
+
+- Developed the business components using EJB Session Beans
+
+- Developed the XML Schema and Web services for the data maintenance and structures
+
+- Implemented the J2EE design patterns Data Access Object (DAO), Session Facade and Business Delegate
+
+- Developed unit test cases using JUnit and Log4j for logging
+
+- Involved in analysis, design, and Implementation applying the agile methodology
+
+- Actively participated and provided feedback in a constructive and insightful manner during weekly Iterative review meetings to track the progress for each iterative cycle and figure out the issues
+
+- Environment: Java 7, spring, Spring, Boot, MVC, Micro Services, Hibernate, Restful, SOAP, XML, JMS, HTML5, CSS3, JavaScript, Angular.JS, Node.JS, AJAX, EJB, Log4, JUnit, SQL, Agile and Windows.
+
+Cloudspacetek - JAVA DEVELOPER
+05/2015 - 09/2018
+
+- Implemented MVC Architecture, which separated the View and Business Logic Layer
+
+- Worked on Spring Framework to create the Web application
+
+- Involved in design, develop and implementation of the application using Spring and J2EE Framework
+
+- Utilized Spring Framework including encouraging application architectures based on the MVC (J2EE Design Patterns) design paradigm
+
+- Used Spring Framework for implementing Dependency Injection, Spring ORM
+
+- Worked on Spring Framework to create the Web application
+
+- Developed the application using Spring MVC Framework that leverages model view layer architecture, also configured Dependency Injection
+
+- Designed, developed, and maintained the data layer using Hibernate and performed configuration of Spring Application Framework
+
+- Developed Java Beans using Eclipse
+
+- Designed and developed Spring action classes for the controller responsibility
+
+- Involved in the integration of Spring for implementing Dependency Injection (DI/IOC)
+
+- Responsible for Writing Hibernate-mapping XML Files, HQL
+
+- Used the ANT script to create the war/ear file and deployed into WebLogic
+
+- Used DOM for parsing the XML, XSLT Document
+
+- Unit and Integration testing on development and pre-production servers
+
+- Utilized Agile Scrum to manage full life-cycle development of the project
+
+- Environment: Java, spring, MVC, Eclipse, JMS, XML, Java Beans, Hibernate, SOAP, and Windows.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

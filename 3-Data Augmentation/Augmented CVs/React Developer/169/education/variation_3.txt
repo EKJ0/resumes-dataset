@@ -1,0 +1,382 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+- Seasoned Database Administrator with 11+ years of experience in Database Architecture, Administration, Database Security design, Data Modeling, Data Warehousing, and Business Intelligence technologies, who managed and maintained business-critical databases by installing and configuring, patching, and upgrading Oracle, SQL, and Redis databases
+
+- Proficient with SQL Server Databases from SQL Server 2005 to SQL Server 2019 Oracle Databases from Oracle 11g RAC to 19c RAC non-container(non-CDB) and container (CDB) databases, and GRID infrastructure, and Redis Databases from Redis 6.0.9 to 6.2.5 ensuring the stability and security of the systems
+
+- Extensive understanding of Snowflake Data Cloud on AWS and Power BI configuration and administration on Azure Cloud to provide a Data Lake environment for Data Engineers and Scientists for secure analysis
+
+- Strong collaborator and team player with excellent communication, leadership, and expertise in analytical problem-solving and critical thinking
+
+- Mentoring team members about database builds
+
+- Standards and procedures and issue resolution
+
+- Skilled at streamlining and automating processes and procedures within the team for various repeatable activities for productivity
+
+- Experience with designing and implementing disaster recovery and high availability strategies using technologies like Oracle Data Guard, Oracle Golden Gate, SQL Server Always On, SQL Server Database Mirroring, and SQL Server Log Shipping for databases and using availability zones for Snowflake Cloud on AWS and Power BI
+
+- Implemented agile-driven project management and change management processes to ensure successful system changes with
+
+minimum downtime
+
+SKILLS
+------
+
+- On-Prem and Cloud Systems Administration Data warehouse maintenance
+- Database analysis
+
+Microsoft SQL
+
+Relational Database Management
+
+Implementing security measures
+
+- Data migration planning e Environment:
+- Database administration ¢ Sun Solaris, HP UX, AIX, Linux RHEL, 10gRAC, Oracle 9i,
+- Performance issue diagnosis Oracle 8i, PL/SQL, SQL Scripts, Shell Programming, TOAD,
+- Best practices documentation Data Guard, RMAN.
+
+- Microsoft PowerShell
+
+WORK EXPERIENCE
+---------------
+
+Sr. Database Administrator and Developer, 10/2011 to Current Emw, Inc. - Corpus Christi, TX
+- McDonald's one of the world’s leading foodservice retailers in more than 100 countries, with more than 36,000 restaurants serving approximately 69 million people every day
+- Responsibilities:
+- Migrating Oracle and SQL Server databases, Oracle Fusion Middleware Applications (EBS, Forms, and Reports) to Cloud Environments (AWS and Azure) Deploying and Managing AWS EC2 instances
+
+- Implementing Security Policies for AWS EC2 instances
+
+Day-to-day 24x7 production database support (incident break/fix, change, service requests)
+
+On-Call pager rotation
+
+- Administering ORACLE Databases 8i, 9i RAC, 10gRAC, 11gRAC ,12c, 18c and 19c
+
+Installed, Configured 10g/11g and 12c RAC, 18c, and 19c databases for prod, pre prod and dev databases
+
+- Highly experienced in designing, migrating, installing, and upgrading RHEL 6.9,7.3 VPE servers, Windows 2012 servers, Oracle/ SQL databases, and Middleware applications to cloud platforms (AWS and Azure)
+
+Installed, Configured, and upgraded 11g (11.2.0.3, 11.2.0.4) DB instances to 12c, 18c and 19c
+
+- Implemented single instance physical Standby/Logical standby databases for RAC Primary database for reporting purposes
+
+Migrated 91 RAC instance to 10.2.0.5 RAC instance on cross-platform
+
+Involved in the Migration of Databases from NON-ASM to ASM
+
+Upgraded 10.2.0.3 RAC instance to 10.2.0.5 RAC instance by applying patch set to CRS, ASM, and DB
+Created UNIX shell scripts to refresh data, purge old logs, and bounce grid servers
+
+- Configured new databases in the Oracle grid server to manage in a single centralized location
+
+Cloned/Refreshed databases from the production database to test and development
+
+Installed Oracle Grid Agents
+
+- Experience in using tools like NetBackup, COMMVAULT, and DBARTISAN for database Backup And performance monitoring Implemented backup and recovery strategies using export/import, RMAN, NetBackup, and COMMVAULT tools
+
+Worked on Data Obfuscation to obfuscate PII data in a non-production environment to provide test data to developers for
+developing their applications Worked on building a separate environment to hold Card Holder Data to meet PCI standards
+
+Engaged in all SOX audit requirements and implement solutions to meet SOX & EY policy requirements
+
+- Experience in monitoring databases using OEM Grid server, working with application team to resolve to block Locks, doing space analysis on Tablespaces, analyzing long-running Queries, and doing hang analysis
+
+- Performance Tuning Databases using SQL Trace, TKPROF, Explain Plan, STATSPACK, AWR, and ADDM.
+
+- Tuning init.ora parameters for optimal performance and scalability
+
+- Running AWR reports to figure out bottlenecks and analyze using ADDM.
+
+Creating primary database storage structures (tablespaces), altering and modifying database structure according to the
+
+company's requirement as necessary, from information given by application developers Installed, Configured Goldengate Replication, both UNI-Directional, and Bi-Directional
+Creating databases, objects, roles, and privileges
+
+Partitioned large tables to increase performance
+
+Upgraded 10g (10.1.2.3) Forms & Reports Application servers to Oracle 11g/12c Fusion Middleware
+
+Implemented 11g Oracle Access Manager as a new Single Sign On solution (SSO) for Forms & reports
+
+Integrated forms & reports with Oracle Identity Manager (IDM/OID)
+
+Integrated 11g/12c Forms with Oracle Identity Federation SMAL 2.0
+
+- Implement 11g/12c Web tier as access client into 11g OAM (Oracle Access Manager for forms SSO solution)
+
+Installed and configured SQL Server 2012, SQL Server 2014, SQL Server 2016, SQL Server 2017, and SQL Server 2019 clustered
+environments with availability groups on Windows Server 2008 and Windows Server 2016
+
+Installed and configured Always on High Availability and Disaster Recovery environments on SQL Server 2012, SQL Server
+2014, SQL Server 2016, SOL Server 2017, and SQL Server 2019
+
+Develop strategies in migrating SOL Server 2008R2, and SQL Server 2012 instances to SQL Server 2014, SQL Server 2016, SQL
+Server 2017, and SQL Server 2019
+
+Worked on power bi setup and configuration as an enterprise-wide reporting solution
+
+- Fine-tuning of database objects and servers to ensure efficient data retrieval
+
+Monitor and optimize system performance using SQL Profiler and Database Engine Tuning Advisor.
+- Supervised code review of scripts and SSIS packages (2012, 2014, and 2017) or DTS packages (2012, 2014, and 2016) with developers
+
+Advised developers in code optimization
+
+Performed database logical and physical design, maintenance, tuning, archiving, backups, replication, recovery, software
+upgrades, capacity planning, and optimization for SQL Server database Used database consistency checks using DBCC utilities
+
+Created SQL Server audits and policies to monitor activity on SQL databases to ensure databases were following SOX and OCC
+
+and met Service Level requirements of our clients
+
+Responsible for setting up SQL Server jobs to monitor disk space, CPU activity, and Index fragmentation
+
+Responsible for troubleshooting all SQL Server databases issues on production, QA, and testing environments
+
+- Enforce Database Security by Managing user privileges and efficient resource management by assigning profiles to users.
+
+- Working with Development, QA, and other teams to resolve issues
+
+- Environment: IBM AIX, Linux RHEL 5,6, and 7, Oracle 19c, Oracle 18c, Oracle 12cRAC, Oracle 11g RAC, 10gRAC, Oracle 9i, SOL Server 2008 R2, SQL Server 2012, Windows 7, 10g Forms & Reports application servers, 11g Fusion Middleware (IDM, OAM, and Forms & Reports), PL/SQL, SQL Scripts, Shell Programming, TOAD, Data Guard, RMAN, ASM, SQL Profiler, Database Engine Tuning Advisor, SEM, Idera SQL Diagnostic Manager, Idera SQL Secure, Microsoft System Center Configuration Manager (SCCM), Microsoft System Center Operations Manager (SCOM)
+
+C&S Wholesale
+
+Constructed database and warehouse, streamlined disparate data sources and unverified queries into the primary source.
+
+Developed and implemented security initiatives to protect important company data.
+
+Built database and warehouse, consolidating disparate data sources and unverified queries into a central source.
+
+Identified databases are not reaching peak performance and determine ways to solve concerns.
+
+Managed all levels of internal analytics practice, including ETL, database administration, report development, and integration.
+
+- Supervised all levels of internal analytics practice, including ETL, database administration, report creation, and integration.
+
+- Assisted clients in understanding and manipulating data to gain value through SQL and ETL technical processes and visual analytics tools.
+
+- Developed, designed, and optimized data structures for analysis.
+
+Oracle Database Administrator, 12/2010 to 09/2011 Emw, Inc. - Norfolk, VA
+
+It is the largest wholesale grocery supply company in the U.S.
+
+- Supply independent supermarkets, chain stores, and institutions with over 95,000 different products
+
+- Currently, C&S serves about 3,900 stores from over 50 locations in 10 states.
+
+- Responsibilities:
+
+- 24x7 Production database and applications support
+
+- Administering ORACLE Databases 9i, 10g, 11g
+
+- Managing multiple productions, testing, QA, and development Utility database instances
+
+- Setup Standby databases for disaster recovery and reporting
+
+- Upgrade database from 9i to 10g, 9i & 10g databases to 11g
+
+- Experience in managing databases in high-availability environments using Oracle Cluster
+
+- Created UNIX shell scripts, and processes to extract data from various sources such as SQL Server and Oracle
+
+- Configured Oracle grid control to manage the entire database in a single centralized location
+
+- Applied database patches using Opatch utility, building Clone instances for Development and Test teams
+
+- Implemented centralized backup (hot) and recovery strategy for all databases using shell scripts, SQL scripts, and cron job
+
+- Cloned/Refreshed databases from the production database to test and development
+
+- Implemented backup and recovery strategies using export/import, RMAN
+
+- Created shell scripts and scheduled them for monitoring Oracle Databases
+
+- Performance tuning and Monitoring
+
+- Weekend on-call support and Payroll support
+
+- Database backups using RMAN on tape and Disk
+
+- Working with Development, QA, and other teams to support related issues
+
+- Creating primary database storage structures (tablespaces), altering and modifying database structure according to the company's requirement as necessary, from information given by application developers
+
+- Implemented Oracle RAC with Data Guard implementation for disaster recovery
+
+- Planning and implementing Backup and Recovery procedures (RMAN), scheduling daily backups, and performing periodic recovery tests
+
+- SQL tuning using SQL Trace and TKPROF, explain plan and SQL Analyze
+
+- Tuning init.ora parameters for optimal performance and scalability
+
+- Running AWR reports to figure out bottlenecks and analyze using ADDM.
+
+- Database Maintenance and clearing of locks, cleaning of database logs, Re-indexing, Tablespace monitoring, database objects monitoring
+
+- Installed GoldenGate
+
+- Implementation of high-availability solutions with Goldengate
+
+- Experience in Replication of Oracle Databases using Logical Standby, Streams and GoldenGate
+
+- Designing and developing PL/SQL packages in the database layer, stored procedures, functions, and triggers
+
+- Querying V$ dynamic performance tables to figure out bottlenecks in throughput and Scalability
+
+- UNIX scripting for automation of statistics collection as well as for other processes
+
+- Worked with Extensive Databases (VLDB)
+
+- Writing Shell Scripts to automate various routine jobs
+
+- Designing the security and database access strategies & cloning databases, and partitioning tables
+
+- Creating and refreshing materialized views & performing SQL
+
+- Loader jobs for data loading
+
+- Writing PL/SQL procedures for Extraction Transformation and Loading of data
+
+- Administering ORACLE Databases 10g, 10g RAC,11g & 11g RAC
+
+- Applied database patches using Opatch utility & worked on conversion from a single node to Multi-Node RAC.
+
+- Performance tuning and Monitoring using the Grid Control database
+
+- Created shell scripts and scheduled them for monitoring Oracle Applications and Databases
+
+- The problem resolution repository is built in a custom DBA ticketing tool.
+
+- Working with Development, QA, and other teams to resolve issues
+
+- Environment: Sun Solaris, HP UX, AIX, Linux RHEL, Oracle 11g RAC, 10gRAC, Oracle 9i, PL/SQL, SQL Scripts, Shell Programming, TOAD, Data Guard, RMAN, ASM, GoldenGate.
+
+- Developed redundant systems and procedures for disaster recovery and archiving to maintain data protection.
+
+- Promoted high customer satisfaction by resolving problems with knowledgeable and friendly service.
+
+Oracle Database Administrator, 09/2009 to 10/2010 Emw, Inc. - - Corpus Christi, TX
+
+- Zurich is one of the world’s largest insurance groups and one of few to operate globally.
+
+- With over 60,000 employees serving customers in more than 170 countries, become the best global insurer as measured by shareholders, customers, and employees.
+
+- They offer various general and life insurance products and services for individuals, small businesses, mid-sized and large companies, and multinational corporations.
+
+- Responsibilities:
+
+- Managed several production, test, and development instances (24x7 Support)
+
+- 24x 7 technical support, 24 x 7 during quarter and month close and weekends on-call support
+
+Installed, configured, and managed Oracle 10g RAC, 11g RAC, and Standby databases
+
+- Administering ORACLE Databases 11g, 10g, and 91
+
+- Applications Patch management: Patch impact analysis, patch application, and troubleshooting
+
+- Applied database patches (CPU & PSU)
+
+- Involved in the project, which analyzes and applies quarterly Security patches (CPU)
+
+- Upgrade database from 9i to 10g, 91 & 10g databases to 11g
+
+- 4th node has been added to the existing 3-node RAC
+
+- Involved in implementing Dashboard-based Monitoring solutions by developing shell scripts and SQL scripts
+
+- ORACLE TAR Management: Raised and monitored TARs with Oracle Corporation for issue resolutions
+
+- Performance Tuning Databases using SQL Trace, TKPROF, Explain Plan, STATSPACK, AWR, and ADDM.
+
+- Generating trace files for problem resolution
+
+- Responsible for backup/recovery using and Performing backups and recoveries
+
+- Responsible for setting up and managing Standby databases
+
+- Ad-Hoc Technical Requests: Ad-Hoc Queries - SOX/Audit/Security
+
+- User Maintenance (Creation, modification, and deletions)
+
+- Custom code migrations
+
+- Worked on user documentation like Instance strategy, Instance management, Problem manager, Setup document, and Change management docs
+
+- The problem resolution repository was created to reduce issue resolution timings.
+
+- Working with Development, QA, and other teams to resolve issues
+
+- Creating primary database storage structures (tablespaces), altering and modifying database structure according to the company’s requirement as necessary, from information given by application developers
+
+- Creating and managing users, roles, and profiles, auditing and monitoring databases and user access
+
+- Planning and implementing a Backup strategy for databases, Scripting backups
+
+- Planning and implementing Backup and Recovery procedures (Hot Backups and RMAN), scheduling daily backups, and performing periodic recovery tests
+
+- Allocated system storage and plan for future storage requirements for the database
+
+- Created primary database storage structure for developers to develop and test Application
+
+- Data loading using Oracle SQL Loader, developing SQL Loader scripts to load global data, and fine-tuned SQL Loader performance using Direct-load mechanism
+
+- Estimating space requirements for database growth for the next 12 months and availability of hardware to support processes
+
+- Developing, Implementing, and administering database policies and procedures
+
+- Environment: HP UX, AIX, Linux RHEL 4, Oracle 11g RAC, 10gRAC, Oracle 9i, PL/SQL, SQL Scripts, Shell Programming, TOAD, Data Guard, RMAN, ASM, GoldenGate.
+
+Oracle Database Administrator, 04/2006 to 07/2008 SCS IT Technologies - City, STATE
+- Provided Outsourcing services to Bharti Airtel
+- Bharti Airtel Limited is a leading global telecommunications company in 19 countries across Asia and Africa.
+- The company offers mobile voice & data services, fixed line, high-speed broadband, IPTV, DTH, turnkey telecom solutions for enterprises, and national & international long-distance services to carriers.
+- Bharti Airtel has been ranked among the six best-performing technology companies in the world by business week.
+- Bharti Airtel had 200 million customers across its operations.
+- Responsibilities:
+- Responsible for installing, upgrading, and configuring the Oracle server
+- Supported different Oracle 10g and Oracle 9i Databases of Production, Testing, Staging, and Training
+- Involved in logical and physical data modeling and schema design using the Erwin tool
+- Created database manually
+- Upgrade database from 9i to 10g
+- Developed PL/SQL packages, stored procedures, functions, Cursors, triggers
+- Creating databases, objects, roles, and privileges
+- Partitioned large tables to increase performance
+- Responsible for Data load on different databases using SQL
+- Loader
+- Export and import of database objects using EXP and IMP Utilities
+- Table partitioning to improve I/O access
+- Enforce Database Security by Managing user privileges and efficient resource management by assigning profiles to users.
+- Using database-level triggers code for database consistency, integrity, and security.
+- Involved in database design, installation, creation of various instances, and creation of tables, granting roles to users, and maintaining security according to application
+- Implemented 4 Node RAC on Linux
+- Worked on performance and tuning of SQL queries
+- Performed daily maintenance tasks like space management, rectified locking problems, managed quotas, etc.
+- Efficient in using Oracle Tools like SQL
+- Plus, SOL
+- Loader, TKPROF, STATSPACK, SQL
+- Net, IMPORT/EXPORT, DataPump, and RMAN
+- Managing tablespaces, user profiles, indexes, storage parameters
+- Develop table structures, PL
+- SQL stored procedures and database triggers to implement
+- Responsible for providing 24 x 7 database administrative activities over different database servers.
+
+Education and Training
+
+Master of Science: Computer Science, 05/2010 Arizona State University - Commerce, TX
+
+CERTIFICATIONS
+--------------
+
+AWS Certified Cloud Practitioner AWS Certified Database - Specialty AWS Certified Security - Specialty

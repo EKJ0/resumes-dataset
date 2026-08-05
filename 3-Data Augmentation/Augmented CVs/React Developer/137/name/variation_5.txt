@@ -1,0 +1,295 @@
+Maria Garcia
+
+WORK EXPERIENCE
+---------------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+- Over 7 Years of progressive experience in Object-Oriented Analysis and Design with experience in the full life cycle of the Software Development Process.
+
+- Experience working in Ruby on Rails based web applications. Expertise in developing, maintaining and debugging Rails framework.
+
+- 5 years' experience in Ruby on Rails application development and 2 years' experience in java web application development.
+
+- Experience in designing and writing functionalities of the website using Ruby on Rails and related technologies such as various Ruby gems, HTML5, Java Script, JQuery, Bootstrap, PHP, CSS, SASS, Ajax, MySQL, PostgreSQL, Cucumber on back end.
+
+- Experience in Agile Development (Iterations and standup meetings) and GitHub, Amazon EC2 and Heroku.
+
+- Redesigning Designed and implemented RESTful APIs using Data Mapper to interact with a service provider that stored all personal customer information.
+
+- Pervasive Experience in developing Ruby, Java, C to back-end RDBMS (Oracle, MySQL) and document management systems.
+
+- Extensive knowledge in Model-View-Controller (MVC) architectures using Rails, Struts, spring framework and Hibernate.
+
+- Developed well-tested, readable, reusable Ruby, AngularJS, JavaScript, React JS, Redux, HTML5 and css.
+
+- Designed and implemented intranet applications using Ruby on Rails and Triggers on databases like SQL, MySQL, PostgreSQL, and Mongodb.
+
+- Working knowledge of Java Web Services with real time knowledge using SOAP, REST, LAMP. WSDL and UDDI.
+
+- Familiarity with large multi-server Drupal environments, administration, and integration with various third-party sites with open APIs
+
+- Developed consumer based features and applications using Ruby on Rails, JavaScript, and JQuery through pair based programming.
+
+- Hand-on experience in Model-view-controller frameworks like Rails, struts, spring and Hibernate.
+
+- Hands on experience on installation and configuration of multiple versions of Ruby using RVM (Ruby Version Manager) bundler install.
+
+- Worked on Integrated Development Environments like Eclipse, NetBeans, RubyMine and Sublime.
+
+- Used online repositories like GitHub, Bit bucket, Source forge and also deployed rails applications using Heruko, Amazon AWS.
+
+- Fast learner, can quickly incorporate and implement new procedures with efficiency and accuracy.
+
+- Experience in content management systems like Drupal, Joomla, Wordpress to perfectly suit the client's requirements.
+
+SR. RUBY ON RAILS DEVELOPER 11/2015 to CURRENT Kpmg | Saint Louis, MO
+
+- Followed Agile Methodology (SCRUM) for this project. Analyzed Business, Functional Requirements and Design Review Documents to develop Test Plan for projects involved and wrote Test Scripts for positive. negative, edge cases.
+
+- Developed hundreds of features in an agile environment using Ruby on Rails, HTML, CSS and JavaScript.
+
+- Implemented and enhanced CRUD operations for the applications using the MVC (Model View Controller) architecture of Rails 4 frameworks.
+
+- Connect payment processing application to credit card processing API to tokenize credit card information and save it to API vault.
+
+- Designed and developed the frontend application using Rails 4, CSS3, ember.js, AJAX and JQuery.
+
+- User Interface for website with ERB, JQuery, RJS, Ruby, Ajax for View, Controller, Model in Ruby on Rails Framework on Mac OS X Operating System.
+
+- Implemented Behavior Driven Development using RSpec and Used Restful API to gather related data for products.
+
+- Developing web pages effectively using, HTML 5, CSS3, SASS, JavaScript, Angular JS, RWD, JQuery and build amazing single page applications with React JS and Redux.
+
+- Successfully implemented new modules and themes into Drupal core to allow for rapid development.
+
+- Interaction with UI was created using Restful HTTP service.
+
+- JavaScript and XML are used to update a certain portion of webpage.
+
+- Develop consumer based features and applications using Ruby on Rails, JavaScript, JQuery, HTML, Behavior Driven Development (BDD) and pair based programming.
+
+- Developed website using Ruby on Rails on Mac operating system, backed by MySQL and Capistrano to automate and ease the deployment process on Phusion Passenger server.
+
+- Used RHTML, ERB Templating, YAML, RJS and Cascading Style Sheets (CSS) to design the web pages.
+
+- Followed strict agile process during the project, daily stand up and 3 weeks sprint followed by all team live demo.
+
+- Implemented MVC framework for the back-end while the front-ends were built using the Blueprint CSS Framework and HTML.
+
+- Worked in MySQL database on simple queries and writing Stored Procedures for normalization and denormaiization.
+
+- Environment: Ruby on Rails, HTML, SASS, CSS, AJAX, JSON, JQuery, Angular JS, Linux, RESTtul, MySQL, PostgreSQL, JavaScript, Bootstrap, PHP. Rspec, Cucumber, Capybara.
+
+SFORUBY ON RAILS DEVELOPER 06/2014 to 10/2015 Kpmg | Short Hills, NJ
+
+- Involved in the design and development phases of the application using Ruby, Rails (3.1) framework and Rubymine IDE.
+
+- Collaborated with Product Management and User Experience experts regarding product definition, schedule, scope and project-related decisions.
+
+- Designed front end of the application using Rails, AJAX, JSON, CSS and jQuery and back end was developed by Active records.
+
+- Installation and configuration of multiple versions of Ruby using RVM (RubyVersion Manager) bundler install.
+
+- Worked with HTML, CSS, JSP. XML, JSON, and Ext JS for developing user interface.
+
+- Used ROR on Mac operating system to design the website, backed by PHP and MySQL.
+
+- Research and Implement tons of AngularJS and JavaScript functionality for a Rich Front-End experience.
+
+- Ruby on Rails, JavaScript, JQuery, HTML, Behavior Driven Development (BDD) and pair based programming is used to develop client based features and applications.
+
+- Designed webpage layouts using CSS3, HTML5, SASS, along with JQuery and adding dynamic functionality to each module.
+
+- Administered legacy PHP and Ruby on Rails applications.
+
+- Used RESTful API to gather related data and also created Restful http services to interact with UI.
+
+- Implemented Behavior Driven Development using Rspec and Used Restful API to gather related data for products.
+
+- Used JIRA for issue tracking, bug tracking and project management functions in real time environment.
+
+- Used agile development for development and maintenance of Custom Web Applications.
+
+- Maintaining the existing Ruby on Rails reports application and performed enhancements using JQUERY, HTML for better look and feel.
+
+- Used Restful API in communicating with third parties.
+
+- Coded model level validation using Ruby programming with emphasis in web security.
+
+- Responsible for writing code in Object Oriented Programming supported by Ruby on Rails in Agile SCRUM environment.
+
+- Unit tested using TDD principles for Restful API's using Rspec, and ffaker gems.
+
+e« Environment: Ruby on Rails, MVC, HTML, AngularJS, RESTful, CSS, PHP, Jquery, Ruby, Rspec, Rails,
+MySQL, , Agile, JVM, Action Mailer, Action Controller, Active Resources, Fixtures.
+
+SFORUBY ON RAILS DEVELOPER 08/2013 to 05/2014 Kpmg | Minneapolis, MN
+
+- Designed and implemented application using spring, Spring IOC, Spring Annotations, Spring MVC, Spring Transactions, Hibernate 3.0, SQL. IBM WebSphere 8.
+
+- Responsibilities included developing new features, fixing bugs, interfacing with the product development and software quality assurance group.
+
+- Architect, Design, Implement, Maintain production administrative web services with Ruby/Rails using MySQL, SQL Server rdbms.
+
+- Involved in developing and implementation of the web application using Ruby on Rails.
+
+- Developed and tested many features in an AGILE environment using Ruby on Rails, HTML5, CSS, JavaScript, Bootstrap, Rspec and Html.
+
+- Designed and implemented a POC for User Authentication and User Role based access using Ruby on Rails.
+
+- Developed portal application using Ruby on Rails, AngularJS, MySQL, sass and Capistrano for deployments.
+
+- Used Filters, Rails finder methods and wrote model scopes in the application.
+
+- Interaction with Ul was created using Restful HTTP service.
+
+- JavaScript and XML are used to update a certain portion of webpage.
+
+- Used JavaScript, JQuery, and JSON to match design specs for complex page layouts while adhering to code standards.
+
+e« Used highly optimized JQuery and AJAX to manipulate JSON data and display them on the web page
+with the expectation of peak day traffic during holidays.
+
+- This involves designing database model for the entire application like creating tables, views and stored procedure using MYSQL.
+
+- Utilized Object Oriented Programming in JavaScript and DOM structure to implement various functionalities.
+
+- Writing Ruby Wrappers and using Ruby Gems for Voucher and Advice modules.
+
+- Environment: Ruby on Rails, HTML, CSS, JavaScript, AJAX, JSON, MySQL, BootStrap, jQuery, Capistrano, Sublime Text, JavaScript, AJAX, AngularJS, Rspec and LAMP.
+
+RLY ON RAILS DEVELOPER 03/2012 to 07/2013 Rural Sourcing | Albuquerque, NM
+
+- Developed application using Struts framework that leverages classical MVC architecture.
+
+- Used Rspec (BDD) to specify and test controller classes, models, view templates, helpers and routing.
+
+- Worked with Active Record Classes from Rails Console for Database programming, which also involved writing active record validations.
+
+- Understanding of how web applications work including security, session management and best development practices.
+
+- Performed refactoring on codes using Rails best practices to fix DRY, encapsulated field, inline class and extract methods issues.
+
+- Designed and implemented database architecture for applications using various databases (MongoDB, MySQL, and Postgres).
+
+- Developed Oracle, stored procedures, functions. triggers and PL/SQL code for the application using SQL.
+
+- Building and scaling Ruby on Rails applications with Heroku cloud application platform.
+
+- Involved in Database Migration using Active Records, also involved in using Action Controller, Active Resources, Fixtures and Action View in Rails.
+
+- Developed solutions using Ruby on Rails and Active Record and integrated gems, plug-in etc.
+
+- Developed stored procedures compatible with MySQL and MongoDB supportive in Ruby.
+
+- Developed client side validation code using JavaScript, JavaScript libraries, Angular. JS and JQuery.
+
+- Test-driven development with Rspec, Capybara, and jasmine (for JavaScript) and achieving 100% test coverage.
+
+- Analyzed and improved application efficiency by optimizing queries, and caching content with memcached for rails.
+
+- Involved in daily scrum sessions within the team to discuss the backlog items and resolve dependencies.
+
+- Environment: Rails, Ruby, CSS, Rspec, JSON, JavaScript, AngularJS, JQuery, Agile, Scrum, HTML, GIT, Ruby mine, spring, Capybara, Ajax, Cucumber.
+
+RLY ON RAILS DEVELOPER 04/2011 to 02/2012 Rural Sourcing | Baton Rouge, LA
+
+- Analyzed system requirements specifications and also involved in client interaction during requirement specifications.
+
+- Coordinated with the Business Analyst to get the details of each of the reports.
+
+- Developed Ruby Scripts to change and migrate database on production.
+
+- Responsible for integrating MongoDB with frontend app that uses Ruby on Rails.
+
+- Implemented the Query part of the reports using Ruby, Active Records and ran the rake tasks for every report weekly, dumping the SQL data to CSV file.
+
+- Coding, testing, debugging, documenting and implementing web application using Ruby on Rails according to standards.
+
+- Implemented Continuous Integration Process for effective deployments on to Stage/QA servers using jenkins.
+
+- Involved in developing and implementation of the web application using Rubymine, HTML, CSS, and JQuery.
+
+- Developed API using Rails framework and managed code with SVN and unit testing.
+
+- Involved in developing the page to show regular news feed by using ruby gem to parse the XML's.
+
+- Wrote ROR scripts for bootstrap file from both frontend and backend, and scripted controller files in order to cache the object stored in the bootstrap.
+
+- Involved in working with design and development phases of the application with the help of Ruby on Rails framework.
+
+- Design and implemented intranet applications using Ruby on Rails and PostgreSQL on Heroku.
+
+- Developed RESTful API in both Rails with Elastic search.
+
+- Worked extensively with arrays and hashes in the ruby environment.
+
+- Upgraded associated gems, across multiple Ruby and Rails versions.
+
+e« Environment: Ruby, Rails, Rubymine, HTML, CSS, RESTful, MongoDB, MySQL, JQuery, SQLite, Rspec,
+PostgreSQL, Cucumber, Capybara, Apache Tomcat Server, GitHub, Heroku.
+
+JACA DEVELOPER 01/2010 to 03/2011 Caterpillar | Beavercreek, OH
+
+- Using OOAD Technology classes are designed in UML with the help of Rational Rose tool.
+
+- Developed UI using HTML, CSS, AJAX, jQuery, and JSP. and developed Business Logic and Interfacing components using Business Objects, XML, and JDBC.
+
+- Involved in design of application framework using J2EE guidelines and different J2EE design patterns and Object Oriented Analysis and Design (OOAD) methodologies.
+
+- Implemented the Graphic User Interface GUI by coding in HTML, CSS, Bootstrap, JavaScript, jQuery, and jQuery UI.
+
+- Extensively worked on Spring Bean Wiring, Spring DAO and Spring AOP modules.
+
+- Involved in Test Driven Development by writing JUnit test case in the coding part of Java method.
+
+- Used STS (SPRING Tool Suite) as software development platform for developing the whole application.
+
+- Developed a web Application Using UI technologies like GWT (Google Web Toolkit), java RPC calls.
+
+- Involved in using HTML, DHTML, Java Script, AJAX, ExtUs, JQUERY, JSP and Tag Libraries to develop view pages.
+
+- Involved in writing controllers to process the request coming from UI.
+
+- Used Rest Template to consume the rest services.
+
+- Strong implementations of data persistency using Hibernate and Spring Framework.
+
+- Wrote stored procedures, complex queries using PL/SQL to extract data from the database, delete data and reload data on Oracle DB.
+
+- Environment: JDK, JSP. Serviets, Struts, JDBC, EJB, JMS, Spring, Hibernate, AJAX, Oracle, XML, XSLT, HTML, Linux, CSS, WebLogic, UML, Eclipse, PL/SQL, JUnit, Apache Ant, and CVS.
+
+JACA DEVELOPER 02/2009 to 11/2009 Caterpillar | El Reno, OK
+
+- Designed and developed web interfaces and business logic using Jakarta Struts Framework (MVC architecture), JSP, Serviets, Java Beans, JDBC, AJAX, Java Script, HTML, DHTML and XML Technologies.
+
+- Involved in developing the UI, layout and front-end programming for web application that matches requirements of the client.
+
+- Developed UI Layer for the application using HTML5, CSS3, AngularJS and Bootstrap.
+
+- Prepared Technical Design documents with UML diagrams using Microsoft Visio.
+
+- Involved in building a single page and cross browser compatible web application using Angular-JS (Angular routing) and bootstrap.
+
+- Worked with advanced MVC framework such as Spring-lOC, AOP. MVC and Batch which is used for implementing backend functionality.
+
+- Participated in coding Spring AOP components for the Logging, Exception handling and Transactional Model to handle many requests.
+
+- Used Hibernate, object/relational-mapping (ORM) solution, technique of mapping data representation from MVC model to Oracle Relational data model with SQL-based schema.
+
+- Used Java Message Service (JMS) for reliable and asynchronous exchange of important information for status report.
+
+- Working within SOA based enterprise framework to build web services for Middle Tier processing.
+
+- Analyzed current legacy infrastructure, established business case, and built consensus for virtualized laaS / PaaS near term strategy with SaaS mobile cloud services end state.
+
+- Developed SOAP based web services using WSDL, SOAP, JAX-WS and AXIS.
+
+- Produced as well as consumed RESTful web services using Jersey API's.
+
+- Worked with GIT which is used as a version control tool in the project.Done with Unit testing using JUnit and Mockito.
+
+- Environment: Java/J2EE, HTML,CSS, jQuery ,Hibernate 3.0, Spring MVC, Spring AOP. RESTful Web Service, Oracle DB, Oracle WebLogic Server 10.0, ANT, CVS, Linux, Eclipse 3.6, UNIX.

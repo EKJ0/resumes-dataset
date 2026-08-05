@@ -1,0 +1,290 @@
+Jessica CLAIRE
+
+- resumesample@example.com
+
+SUMMARY
+-------
+- Close to 7 years of experience in Analysis, Design, Development, Support, Implementation and testing of Web based and Client Server applications.
+- Dynamic team player with outstanding communication and interpersonal skills.
+- Highly motivated to learn quickly new technologies and methodologies.
+
+WORK EXPERIENCE
+---------------
+
+Senior UI Developer/ Jessica Claire/Angular, 11/2022 to Current Abbott Laboratories - Lewiston, ME
+- Worked closely with SMEs, developers, and other IT teams to understand the scope of the project and accordingly gather functional requirements of the project in order to design and implement the application
+- Configured routes between JessicaClaire and Flask to render the templates from the server-side
+- Used jQuery in directly manipulating the DOM yet separating the JessicaClaire Components
+- Used JessicaClaire with Redux to separate the data and presentation layer
+- Utilized Redux stores to handle the states and update the UI
+- Performed Unit testing on JessicaClaire applications using tools like Karma, Jasmine and worked with Gulp tool for build automation Developed web application that meets the web and industry standards using HTML5, CSS3 and JavaScript based on the W3
+
+standards and cross-browser implementation
+
+Built Single Page Applications framework
+
+Built Angular framework including MVC architectures, different modules, templates, custom directives and custom filters
+
+- Used Angular 11 framework where data from backend is stored in model and populated it to UI
+
+Worked on creating components, directives, services and routing in Angular 11 for better component communication by sharing
+
+the code between the components
+
+- Written different Routing (SPA), modules and reusable components using Angular
+
+Developed Single Page applications using Angular using components, directives using Typescript
+Created components, modules and directives using Angular
+
+Developed Single Page applications using components, directives using Typescript
+Created components, modules and directives using Angular 11/10/8/7
+
+- Used various plugins on babel to compile ClaireX to create elements Worked with NodeClaire module making calls to REST APIs to fetch the data from the backend as ClaireON response and parse it on the UI for DOM/CSS Manipulation
+
+Used Jessica Claire for building composable and Jessicaive user interfaces
+
+Implemented various screens for the front end using Jessica.Claire and Redux library
+
+Used Jessica-Router to turn application into Single Page Application
+- Experience in Jessica Claire and working with Jessica Flux architecture
+- Experience in designing and developing complex web applications using C#
+
+Built Web pages that are more user-interactive using jQuery plugins for Drag and Drop, AutoComplete, ClaireON, Node.Claire,
+Bootstrap, and JavaScript
+
+Participated in meetings with the end-clients to develop layout, colour scheme for the web page and implemented them with the
+help of HTML5, CSS3 and JavaScript
+Extensively used CSS (Cascading Style Sheets) along with RWD to apply different styles to the layouts for varying screen sizes
+
+and pixels
+
+Worked on jQuery to make dropdown menus on web pages and display part of a web page upon user request
+
+Reviewed customer feedback about the debugging issues, fixed bugs with HTML5 and TypeScript codes and worked on
+resolving browser compatibility issues
+
+Developed components to fetch the data from the back end using AJAX and jQuery
+
+- Analyse the response of ClaireON in order to update DOM
+
+Used GIT for Version Control
+
+- Environment: HTML5, CSS3, ES6, Jessica Claire, Node Claire, Angualr11/10/8/7,ClaireON, Typescript, jQuery, AJAX, GIT, XHTML, Windows
+
+UI Developer, 04/2022 to 10/2022 Banner Engineering - Plymouth, MN
+
+- Analyzed business requirements, participated in technical design, development and testing of various modules assigned
+
+- Implemented Agile Methodologies SCRUM a lightweight framework, UI SDE for managing and controlling iterative and incremental projects Involved in web designing using HTML5, XHTML, CSS3, JavaScript, jQuery and extensively used Table-less Design in CSS for positioning
+- Angular, HTML, CSS, Bootstrap, JavaScript
+
+Actively involved in using TypeScript, Bootstrap and HTML5 to enable client-side data to meet specific criteria by applying
+
+various validation variables
+
+Developed Single Page applications using Angular using components, directives using Typescript
+Created components, modules and directives using Angular
+
+Involved in RESTful API developing web service
+
+Developed a Responsive Web Design (RWD) using Bootstrap and CSS
+
+- Setting up Angular 2 framework for development Effectively used CSS3 features and created multiple columns, borders, backgrounds and used SASS to maintain the code with snippets and the available libraries
+
+Used @Input and @Output for passing data and triggering events across different components
+
+Worked on HTML5, CSS3 style sheets, JavaScript, JessicaClaire and jQuery to tie together a diverse range of pages with an easily
+understandable structure
+
+Built single page apps, modules, graphics and reusable components using Jessica.Claire
+
+Built enterprise applications using C#, WPF, .Net, Enterprise messaging
+
+Worked on Lifecycle Methods, State, Specs, Props, Events to create interactive and stateful Jessica.Claire Components
+
+Develop various screens for the front end using Jessica Claire/Redux and used various predefined components from NPM Node
+Package Manager)
+
+Developed the search engine and performance optimized front-end (HTML, CSS, and Claire) for business and e-commerce
+Website
+
+Have used AJAX to retrieve data from server synchronously in the background without interfering with the display and existing
+Page in an interactive way
+
+- Ran Bower and Grunt components and wrote the scripting using Node.Claire
+
+Created HTMLS navigation menu that is role-based menu items changes dynamically, derived from the database in the form of
+XML
+
+Designed and documented REST/HTTP APIs, including ClaireON data formats and API versioning strategy
+
+Extensively used CSS and Jessicastrap for styling the HTML elements
+
+Used special syntax called ClaireX to mix HTML with Java Script with the help of Jessica Claire
+
+Worked with making calls to APIs to fetch the data from the backend as ClaireON response and parse it on the UI for DOM/CSS
+Manipulation
+
+Increased developer productivity by using efficient programming methodologies and local development
+- Environment: Java, HTML5, CSS, JavaScript, jQuery, Angular, Jessica.Claire, Redux, Node.Claire, AJAX, XML, Jessicastrap, XPATH, Adobe Windows.
+
+Ul/Front End Developer, 01/2018 to 11/2021 Techminds Group India Pvt Ltd - - City, STATE
+
+- Analyzed business requirements, participated in technical design, development and testing of various modules assigned
+
+- Implemented Agile Methodologies SCRUM a light weight framework, UI SDE for managing and controlling iterative and incremental projects
+
+- Involved in web designing using HTML5, XHTML, CSS3, JavaScript, jQuery and extensively used Table-less Design in CSS for positioning
+
+- Implemented functionality using Angular, Typescript and ES6
+
+- Used Angular routing features to make the component independent
+
+- Effectively used CSS3 features and created multiple columns, borders, backgrounds and used SASS to maintain the code with snippets and the available libraries
+
+- Implemented Angular services to communicate with Express.Claire on the server-side in-order to perform CRUD operations on database
+
+- Used Angular Life Cycle Hooks though out the application for components
+
+- Used @Input and @Output for passing data and triggering events across different components
+
+- Created popup forms using Bootstrap version 3.0.0 Models, AngularClaire Models and AngularClaire Controllers
+
+- Implemented code according to coding standards and Created AngularClaire Controller Which Isolate scopes perform operations
+
+- Involved in the development of programming user interface design and front-end (HTML) for the Web application using HTML, Typescript & SCSS to the requirements of the client
+
+- Involved in the development of HTML and Angular.Claire for client- side presentation and data validation on client side with in the forms
+
+- Created HTML5 navigation menu that is role based menu items change dynamically, derived from the database in the form of XML
+
+- Designed and documented REST/HTTP APIs, including ClaireON data formats and API versioning strategy
+
+- Developed complex ASP.NET and C# web applications
+
+- Integrate the dynamic pages with Angular and Ionic to make the views dynamic
+
+- Co-ordinate with QA for testing, Production releases, Application deployment and integration
+
+- Provided production level code to the engineering team for product development, including cross-browser support, CSS optimization, and ADA compliance support
+
+- Increased developer productivity by using efficient programming methodologies and local development
+
+- Environment: Java, HTML5, CSS, JavaScript, jQuery, NPM, Typescript, DOM, ClaireON, Angular, Ext.Claire, AJAX, SOAP, XML, GWT, Windows.
+
+Web Developer, 12/2015 to 01/2018 Value Labs - City, STATE
+
+- Responsible for building a new website for the small fleet clients and for the maintenance of Online New Platform
+
+- Functionalities include writing code in HTML5, CSS3, JavaScript, JQuery making use of Bootstrap framework
+
+- My Specialty is large scale CSS, focusing on reusability and modularity
+
+- Enhanced an existing AngularClaire application to follow strict MVC patterns for improved source code maintenance which resulted in 40% code reduction, ease of upgrade, scalability, ease of developer spin up and enhanced performance
+
+- Worked on Angular 2.0 modules, components, dependency injection etc
+
+- Used Angular Claire as framework to create a Single Page Application (SPA) which can bind data to specific views and synchronize data with server using Sass, LESS, Bootstrap, AngularClaire
+
+- Integrated the service call with UI using $http and $resources which are substitutes for AJAX in angular
+
+- Using GIT for version control
+
+- Used TypeScript to reduce the number of lines of traditional JavaScript files
+
+- Integration of TypeScript to the whole project
+
+- Worked on Angular2 concepts like building the components, Data binding, String Interpolation, Property Binding, Event Binding, Two-way Data binding (with the help of Forms Module), Directives using ngif Structural Directive) to Output Data Conditionally
+
+- Used Angular.Claire Shttp service to communicate with Restful web services and ClaireON data
+
+- Involved in up gradation and maintenance of company’s website to the new layout using the Grid orientation model Bootstrap framework
+
+- Made enhancements to existing CSS and DIV tags, made upgrades using Twitter Bootstrap model
+
+- Extensively used CSS (Cascading Style Sheets) along with RWD to apply different styles to the layouts for varying screen sizes and pixels
+
+- Tested cross browser functionality and fixed major layout bugs for supported browsers
+
+- Involved in Agile/ SCRUM based approach to UI development
+
+- Environment: HTML5, CSS3, SASS, JavaScript, jQuery, Angular2, Bootstrap, XML, Apache Tomcat, Dreamweaver, GIT.
+
+EDUCATION
+---------
+
+Bachelors of commerce: computer sciences
+
+AWS Certified UI Developer
+
+HIGHLIGHTS
+----------
+
+- Experience in
+
+Experience and full understanding of Software Development
+- Full software development life cycle implementation Life Cycle, Agile software development methodology. Solid including Business interaction, Requirement Analysis, ability to work on Agile. Software Architecture, Design, Development, Testing and
+
+Extensive experience working in an Agile development
+
+Documentation phases on Windows platforms. environment.
+
+- Expertise on designing web pages using Responsive CSS Design, jQuery UI and Bootstrap.h of Sublime Text, Adobe Photoshop, Adobe Dreamweaver,
+
+Adept in designing UI patterns and applications with the help
+
+Good working knowledge of object-oriented programming. Notepad++.
+
+- Expert knowledge of the UI design process and deliverables throughout the development lifecycle. GIT.
+
+Extensively used the Angular.Claire, Angular8.0, Angular9.0, Used postman to test the REST APIs.
+
+Angular10.0, Angular11.0, Jessica Claire, frameworks for Experience in debugging and testing the existing code.
+
+Hands on experience using the version controls like SVN and
+
+single page application. * Good expertise in writing SOL Queries, Stored Procedures,
+- Expertise in programming with HTMLS, CSS3, Bootstrap, functions, packages, tables, views, triggers and data Responsive Web design(RWD), JavaScript, jQuery, Angular connectivity and data integration. Claire, Angular 5.0, Angular 6.0, Jessica Claire, AJAX, XML, ¢ Expertise in server-side programming in CORE Java, and ClaireON. Multithreading, Exception Handling and Collections. Very Strong in developing applications using HTML, HTML5, Very good analytical capabilities and broad experience in XHTML, CSS3, JavaScript, JQuery, YUL, XML, Ajax. understanding the business application and planning
+- Experience applying the latest software development iterations.
+
+approaches including MVC, event - driven applications using » Worked on various platforms including Windows, Unix and
+AJAX, Object Oriented (OO) JavaScript, ClaireON and XML. Mac.
+
+- Experience with Microsoft technologies, including .NET 4.x, ¢ Had experience in unit testing using Jasmine and karma. C#, Windows Workflow, ASP.NET, WebFormS and MVC. Ability to learn and master new technologies and to deliver
+
+- Extensive experience in various UI widgets using JavaScript outputs in short deadlines with excellent communication and
+
+libraries (JQuery) and developing Rich Internet Applications inter personnel skills.
+
+RIA. ¢ Experience of working with version control systems like Git.
+- Good experience in JavaScript frameworks Angular Claire, ¢ Technical Skills:
+
+Backbone.Claire, JQuery especially AJAX driven web « Web
+
+applications. e HTMLS5, CSS3, SASS, JavaScript, Responsive Design, AJAX,
+- Experience in DOM (Document Object Model) as I used it in jQuery, Bootstrap, Jessica Claire, Redux, ES5, ES6
+
+interacting with objects in HTML5, XHTML and XML e Server
+
+documents. e Apache Tomcat
+- Expert in HTML5/CSS3 development and have experiencein ¢ Version Control
+
+Backbone.Claire, angular.Claire, Ext.Claire, Responsive © Git, SVN
+
+design. IDE & Other Tools
+
+- Experience in designing websites with W3C standards using Sublime, Eclipse, Webpack, WordPress, HTMLS, CSS3 to get best cross-browser user experience for ° Testing
+
+long-term user retention and engagement.
+
+Karma and Jasmine
+
+Package Manager
+- NPM
+
+Operating Systems Windows Variants, Linux, Unix
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

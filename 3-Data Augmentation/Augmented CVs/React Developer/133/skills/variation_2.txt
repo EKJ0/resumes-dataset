@@ -1,0 +1,264 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Flexible SQL Developer adapts to fulfill diverse customer requests within strict budgetary and time constraints. Proficient at data architecture
+design, emerging data warehouse concepts and new SQL development techniques. Takes responsibility for data integrity from acquisition
+through processing and into final validation. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding
+development objectives according to tight schedules while producing impeccable code.
+
+SKILLS
+------
+
+- Data quality assurance processes e Software Testing Life Cycle (STLC)
+- Use Cases e Data analysis
+- Activity diagrams ¢ Technical Analysis
+- Data formatting © Project Management
+- Data validation e Teradata BTEQ
+- UNIX platform
+
+WORK EXPERIENCE
+---------------
+
+Sr. Data Analyst & Report Developer. 01/2019 - Current
+
+Cognizant Technology Solutions - Framingham, MA
+
+PROJECT: Media Sales Integration.
+
+DISH is a Fortune 250 company with more than $13 billion in annual revenue that continues to redefine the communications industry. Dish has
+disrupted the pay-tv industry in the mid-90s with the launch of the DISH satellite TV service, taking on some of the largest U.S. corporations in
+the process, and grew to be the fourth-largest pay-tv provider. Dish is also involved with the first live, internet-delivered TV service Sling TV
+that bucks traditional pay-tv norms and gives consumers a truly new way to access and watch television. The aim of the current project was to
+create and migrate the data from existing Netezza Test/Prod databases to Tera data structure AWS. In addition to the migration of Data, our team
+is responsible for migrating and maintain approximately 120 reports for the business marketing team. Current projects also involve extensive
+work with gathering requirements for reports and understanding the third-party teams for billing Micro services. Involving in E2E testing and
+Deployments.
+
+RESPONSIBILITIES:
+
+§ Involved in creating detailed Functional and Report Level Documentation which includes all Business requirements and Technical
+specifications.
+
+§ Worked with the data conversions by application screens.
+
+§ Worked for designing Logical and Physical data models for Master Data and Transactional Data.
+
+§ knowledge and experience in structured systems analysis and design techniques.
+
+§ Prepared the Mapping document which details out the mapping of source to the target data model with application of business rules.
+Importing and exporting the data into multiple environments.
+
+§ Working with database connections, SQL joins, cardinalities, loops, aliases, views, aggregate
+
+conditions, parsing of objects and hierarchies.
+
+§ Developed Tableau Reports to display monthly analysis on each LOB requirements.
+
+§ Designed and Implemented the ETL for the report flow, created Dynamic Data Types, Implemented Data Aggregation in Tableau.
+
+§ Involved in Performance considerations in Tableau via calculation and Dashboard design.
+
+§ Involved in creating OBIEE dashboards and migrating OBIEE Dashboard reports to Tableau and Graphana.
+
+§ Supporting Local Retailer Sales team and external partners (Retailers, Distributors, Vendors) with timely marketing support, learning the
+retailer business and understanding the nuances of local marketing strategy.
+
+§ Serving as Marketing support for Premier Advertiser teams, supporting creative reviews and approvals.
+
+§ Driving creative development with internal DISH creative agency, to provide effective materials across various tactics in support of
+marketing campaigns and offers for Local Retailers.
+
+§ Creating reports and analyzing key marketing data (sales, trends, consumer insights, etc.) and present conclusions in a meaningful way to
+inform the creation, development, and execution of marketing projects.
+
+§ Collaborating with various sales groups to identify opportunities and define marketing strategies to support Local Retailer initiatives within
+growth segments.
+
+§ Created grant charts and box charts for data display.
+
+§ Writing adhoc Sqls and Unix scripts to support Incidents soon and addressing the requests through csv files or Tableau reporting. As part of
+Emergency Production Support, I am also responsible for maintaing the reports frequency and access.
+
+§ High Level Involvement in the Tableau Admin tasks.
+
+Environment
+
+Unix, Bteq, SQL Server Reports 10g, Netezza, Aws, Hadoop, SQL, Tableau, Oracle RDBMS, SQL Developer, OBIEE 11/12c, SOAP and
+Postman, Jenkins, Con Jobs.
+
+Sr. Oracle PL/SQL & Report Developer, 09/2015 - 01/2019
+
+Comcast - City, STATE
+
+PROJECT: Xfinity Entertainment Pass /Interactive TV/VODIP/ Electronic Sell Through
+
+Comcast is a leading provider of information, entertainment and communication products and services. It provides services such as High-
+definition video, High-speed internet, Digital Voice, Wireless High-speed Internet, and communication solutions. The aim of the project was to
+create Data Warehouse from existing database. In addition, Comcast decided to build OBIEE and Tableau on top of Data Warehouse to create
+reports to provide business decisions to users. Also, I am involved in Building day to day transactional flow on the purchases, coupon
+assignment, fraud enhancements and Rental assignments to individual customers. Current projects also involve extensive work with external
+teams for billing, Micro services, Oracle. Involving in E2E testing and Deployments.
+
+RESPONSIBILITIES:
+
+§ Involved in creating detailed Functional Documentation which includes all Business requirements and Technical specifications.
+
+§ Worked with the data conversions by application screens.
+
+§ Worked for designing Logical and Physical data models for Master Data and Transactional Data.
+
+§ knowledge and experience in structured systems analysis and design techniques.
+
+§ Developed database objects including tables, clusters, Indexes, views, sequences, packages, triggers, and procedures to troubleshoot
+any database problems.
+
+§ Prepared the Mapping document which details out the mapping of source to the target data model with application of business rules.
+
+§ Importing and exporting the data into multiple environments.
+
+§ Support and Maintenance of Monthly Metric Reports for LOB Analysis.
+
+§ Active part in 4DX projects, apart from the assigned projects.
+
+As a part of 4DX worked on multiple projects and created tasks on my own to learn and implement Core Java concepts, Tableau and
+use Grafana for analysis reports and monitoring.
+
+Implemented Nagios Alarming on multiple operations and Automating the recycle process.
+
+§ Designed and developed audit control process for PL/SQL jobs to keep track of all the job execution along with balance and reconciliation
+reports.
+
+§ Working with database connections, SQL joins, cardinalities, loops, aliases, views, aggregate
+
+conditions, parsing of objects and hierarchies.
+
+§ Worked with Postman and Soap URL's as a part of implementing code.
+
+§ Involved in ETL Design and development of Informatica mappings and sessions.
+
+§ Developed PL/SQL programs to load and validate the data into staging environment
+
+§ Tuning Legacy operations and Automated the Analysis reports.
+
+§ Experienced in creating AD queue with single user consumption and multiuser consumption.
+
+§ Developed Tableau Reports to display monthly analysis on each LOB requirements.
+
+§ Designed and Implemented the ETL for the report flow, created Dynamic Types, Implemented Data Aggregation in Tableau.
+
+§ Involved in creating OBIEE dashboards and migrating OBIEE Dashboard reports to Tableau and Graphana.
+
+§ Automated Daily outlook email reports to Tableau display. Created grant charts and box charts for data display.
+
+§ Involved in creating Word Cloud bubble charts in tableau as a part of 4dx project to track a game in the team.
+
+§ Used Sql loader and extemal tables in loading Bulk files Daily/Monthly Frequency. Involved in writing External table scripts with complex
+shell scripting and data scrubbing based on the Business requirements.
+
+Environment
+
+Oracle 11/12g, SQL Server Reports 10g, Automation Deployment using Go CD Pipelines, GIT Implementation’s, PL/SQL, Toad, Tableau,
+Oracle RDBMS, SQL Developer, OBIEE 11/12c, SOAP and Postman, Jenkins, UC4 JOB scheduling. Nagios.
+
+Oracle PL/SQL Developer, 01/2015 - 09/2015
+
+Great West Financial, Co - City, STATE
+
+PROJECT: CONVERSIONS/REPORTING/MIGRATION
+
+Conversion Project mainly based on the File load and validations run on the customer data. Set of files varied from 5 gb to 32 gb and more were
+received to the servers using ftp and sftp. Tools used for the Files load, UNIX and SQLPLUS, External tables. Worked on Finance, Insurance
+data validations and involved in writing plsql procedures to load to Database tables. Connecting through multiple sources was a challenge. used
+sqlcopy to copy from one DB to another. Encrypted all the passwords, legacy system corrections. Process connection and the reports are
+involved with Main frames and UNIX environment. I am also a part of implementation team named as ITSM and designed scheduling tools like
+oracle scheduler and control m to the UNIX jobs (Batch jobs) Reports through APEX or manually created had a lot of implementation changes
+from the business team which widely involves plsql coding (procedure.packages,triggers).Reports and loading process to production is
+completely based on pearl c programming and Plsql Programming.
+
+RESPONSIBILITIES:
+
+§ Involved in uploading of the data from flat files into Databases and validated the data with PL/SQL procedures. Created Repository by
+building Physical Layer, Business Model and Mapping Layer, and presentation Layer using Oracle Admin Tool.
+
+§ Involved in getting the Perl c coding and making changes to the production if necessary, on the new implementation logics.
+
+§ Involved in creating and implementing SqlCopy and DB links (Supported the scripts and necessary P1 level access) across the servers.
+
+§ Tuned complex Stored Procedures for faster execution and Developed database structures, according to the requirements.
+
+§ Used look up, router, filter, joiner, stored procedure, source qualifier, aggregator, and update
+
+§ Strategy transformations extensively.
+
+§ Created data mapping files for the data coming from different web services.
+
+§ Developed various complex stored procedures, packages, interfaces, and triggers in PL/SQL.
+
+§ Created various SQL and PL/SQL scripts for verification of the required functionalities.
+
+§ Developed Database Triggers to enforce Data integrity and additional Referential Integrity.
+
+§ Developed complex SQL queries for data retrieval from various database objects including tables and views.
+
+§ Worked with DBA extensively to create External tables, Loading schedules, Redo & Undo logging.
+
+§ Worked on various backend Procedures and Functions using PL/SQL.
+
+§ Developed the forms and Reports as per the requirements.
+
+§ Involved in Requirement gathering and creating Dataflow Diagrams, ER diagrams and database diagrams using Oracle Designer.
+Environment
+
+Oracle 11g, APEX, SVN, SQL, PL/SQL, Toad, Tableau, Oracle RDBMS, SQL Developer, SQL Loader, External Tables.
+
+Oracle PL/SQL Developer & System Analyst, 09/2012 - 12/2014 JPMorgan Chase - City, STATE PROJECT: INFORMATION ONE REMEDIATION
+The project is mainly on migration from one database to a different database. The basic involvement was from UNIX part and control M jobs.
+Existing database was having ability to Production which has been changed in the present environment. I was involved in writing UNIX shell
+scripts and procedures which added up in the migration process. DBMS scheduler was replaced by control m jobs. The new environment
+involved in having a tract of every change to be made in the production, which involved Tickets, getting access etc. Used the concept, External
+Tables instead of SQL loader in the migrated environment.
+RESPONSIBILITIES:
+§ Involved in writing new procedures and enhancing the existing procedures.
+§ Knowledge and experience in structured systems analysis and design techniques.
+§ Developed database objects including tables, clusters, Indexes, views, sequences, packages, triggers, and procedures to troubleshoot any
+database problems.
+§ Worked with ETL team and architect to build data model for staging area.
+§ Prepare the Mapping document which details out the mapping of source to the target data model with application of business rules.
+§ Worked on SFTP process.
+§ Involved in creating detailed Functional Documentation which includes all Business part of production support.
+§ Involved in Data Analysis and Debugging the legacy code with no documentation.
+§ Involved in working with offshore both QA and Development team.
+§ Involved actively with the PM role to understand and assign tasks to offshore team and get the daily updates solely responsible for
+representing the offshore team.
+§ Performed SQL tuning using Explain Plan, Hints, and indexes § Responsible for performing code reviews
+§ Created SQL *Loader scripts to load data into temporary staging tables.
+§ Utilized SQL*Loader to load flat files into database tables.
+§ Used reports to display formatted data. Reports can be viewed in the database where they were created or printed. Saved reports as snapshot
+files so they can be viewed outside an Access application.
+§ Created Repository by building Physical Layer, Business Model and Mapping Layer.
+- Understanding the QA cycle, writing test cases, presenting demo on the test scenarios. Interacted with clients to understand their requirements.
+- Managed workload independently but collaborated with colleagues to complete larger scale tasks in distributed team environment.
+- Prepared memory management for database systems.
+- Analyzed complex SQL installations to help plan data extraction and processing tasks, aiding in eventual deployments.
+- Drafted data mapping documentation for relational databases to establish standardized formats.
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision. Environment:
+
+Oracle 10g, SQL Server Reports 10g, SQL, PL/SQL, Toad, Oracle RDBMS, SQL Developer.
+
+EDUCATION
+--------- Master of Science: Electrical Engineering State University of New York - New Paltz
+Bachelor: Electronics & Communications JINTU
+
+CERTIFICATIONS
+-------------- AWS Certified Cloud Practitioner
+
+AWS Certified Solutions Architect Associate
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

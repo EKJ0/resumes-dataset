@@ -1,0 +1,427 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+Wesstres, PorTFOLIosS, PROFILES
+
+- https://www_linkedin.com/in/Jessica-Claire-72108794
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Certified IBM Cognos (Report Designer & Metadata Models) Consultant with total of over 8 years work experience including 5+ years of IT
+experience in Analysis, Design, Development, Testing and production support with proficiency in Data warehousing environment with
+Business Intelligence systems (Cognos, Tableau, Power BI) and worked with multiple domains like Banking, Healthcare, Insurance,
+Manufacturing and Retailing, Automotive Fleet, Pharma and Gas & Oil industries.
+
+SKILLS
+------
+
+- Cognos 10.x/8.x
+
+- Report Studio
+
+- Query Studio
+
+- Analysis Studio
+
+- Event Studio
+
+- Workspace Advanced
+- Business Insight
+
+- Cognos Connection
+- Other BI tools
+
+- Tableau 8 Desktop
+
+- Power BI
+
+- Data Modeling
+
+- Framework Manager
+
+Agility
+
+HP ALM
+
+ITSM
+
+Passport (Legal) Infor M3
+
+MS Office Suite
+
+- Power Play Transformer
+- Star/Snowflake Schema *Teradata
+
+- MS SQL Server
+- Oracle
+
+- DB2
+
+- MS Access
+
+- Greenplum *SQL
+- PL/SQL
+
+- XML
+
+- HTML
+
+- JavaScript
+
+- Teradata SQL Assistant
+
+- PL/SQL Developer
+- TOAD
+- MS Visio
+
+WORK EXPERIENCE
+---------------
+
+11/2014 to Current Senior BI Application Developer Microstrategy - Dallas, TX
+
+- JPMorgan Chase is one of the oldest financial institutions in the United States with a history of over 2 centuries.
+
+- JPMC is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.
+
+- I've involved in multiple projects under multiple line of businesses and delivered many reports to the users using Cognos and Tableau BI tools against Integrated Consumer Data Warehouse.
+
+- Extensively interacted with Business Users to understand their reporting needs and created Business Requirements
+
+Documents/Cap Mats, conducted reviews of the requirements with Business Users and worked with the other team
+
+members to analyze the data coming from multiple source systems and build the reporting solutions as per
+
+requirements.
+
+Analyzed the business needs and created complex Cognos reports and created visualizations and dashboards using
+
+Tableau for multiple LOB's such as Business Banking, Consumer Banking, and CWM.
+
+Interacted with business user group and provided Technical Assistance for business driven sustainable reports using
+
+both Cognos and Tableau reporting tools.
+
+Participated in data modeling. business process analysis and developed Cognos Framework Manager Packages and
+
+published to use for report development.
+
+Created many financial reports such as Delinquency Trends, Credit Loss Trends, C&C and NPL, Scored Strategies,
+
+Portfolio reports (Scored & Graded), Credit KRI, National and Regional trends, Weekly and Monthly reports etc.
+
+against Integrated Consumer Data Warehouse.
+
+Developed Complex Reports with multiple graphs and crosstabs, List reports and customized the reports output
+
+with multiple prompt pages.
+
+Applied multiple Cognos report functionalities such as Master Detail relationships, Report bursting, Drill up/down
+
+reports, Cascading prompts, Conditional formatting etc.
+
+Modified the existing report template and used Layout component reference objects to use across multiple LOB
+
+report development and documented.
+
+Developed Tableau Dashboards and Worksheets using calculated fields, Parameters, Quick Filters, Groups, Sets,
+Bins and custom hierarchies.
+
+Developed Tableau data visualization using Bar charts, Line charts, Heat maps, Scatter Plots, Geo Maps, Crosstabs,
+Bubble charts, Area charts, Donut charts etc.
+
+Mastered in different formatting techniques in Tableau using Annotation, Mark labels, Tool tips etc.
+
+Applied different Actions (filter, highlight & URL) in a Tableau Dashboard for user customizations.
+
+Connected to Tableau server to publish dashboards to a central location for portal integration.
+
+Involved in Scheduling and distributing reports through Schedule Management in Cognos Connection and helped
+in setting up the jobs in Control-M.
+
+Helped admin team in migrating the reports to multiple environments.
+
+Created report wireframes’ prototypes using data generator tool, Unit test documents, Report design and FM Model
+design documents, Run books for report auditing purpose.
+
+Assisted QA team in creating report test cases and extensively wrote SQL queries for report validation.
+
+Monitored assigned reports delivery from the design phase to delivery phase using HP ALM tool.
+
+Extensively involved in report performance tuning and fixes deployment issues.
+
+Environment: Cognos 10.2.1 (Framework Manager, Report Studio, Query Studio, Workspace Advanced), Tableau
+8.2.7, Teradata, Teradata SQL Assistant, Informatica, HP ALM, ITSM, Control-M, Data Generator tool.
+
+02/2014 to 10/2014 Senior Cognos Consultant
+
+Two95 International Inc. - Sacramento, CA
+
+- WellCare provides health plans for families and children exclusively on providing managed care services through government-sponsored programs, such as Medicaid and Medicare.
+
+- The company has approximate 3.9 million members and WellCare understand their special needs and challenges and know the communities they live in well.
+
+- I've involved in multiple projects which includes building Framework Manager model and building complex reports, modifying existing reports based on intake requests and performance tuning.
+
+- Analyzing the specifications provided by the business users and Developing specification documents for reports as per client requirements.
+
+- Created Technical Specification Documentation for the reports.
+
+- Worked on Remediation ICD9 Reports in which I've modified the reports to include the future Diagnosis version ICD10 along with the ICD9 and other conditional formatting as per the new business requirement.
+
+- Modified the existing Relational Model for Memberships and Claims in Framework Manager as part of the report remediation.
+
+- Developed reports for Memberships and Claims, which includes Lists, Complex Crosstabs, Charts, and Drill through Reports, Conditional Blocks, Master-detail & conditional formatting reports using Report Studio.
+
+- Worked in an Agile environment on a project called HIX and developed the Framework Manager model to build the reports.
+
+- Created stand-alone filters and embedded filters while creating a model by using Cognos Framework Manager.
+
+- Extensively used prompts, filters, cascading prompts, calculations, conditional variables, multiple queries in reports.
+
+- Created Dashboards for Cognos portal for everyday access and easy identify of history and projections Standardized prompt pages for consistent user experience and to let users choose between different filters.
+
+- Used PL/SQL Developer for writing SQLs against Oracle, Agility tool to connect to the Greenplum database for data validation and testing.
+
+- Tested and validated the Report output against database to measure performance of reports.
+
+- Created Unit Test Plan documents and Tested result documents.
+
+- Used Service Manager to close the tickets that were opened by the users and other teams.
+
+- Involved in scheduling and bursting of reports and actively involved in report testing and production support.
+
+- Environment
+
+10/2013 to 02/2014 Senior BI Consultant
+
+Circle K Stores, Inc. - Ambridge, PA
+
+- Weatherford is one of the largest international oil and natural gas service companies.
+
+- Weatherford provides products and services for drilling, evaluation, completion, production and intervention of oil and natural gas well.
+
+- Worked on a Passport Report development project where I developed complex reports and modified existing reports for a legal department.
+
+- Worked directly with users for business requirements and created functional and technical documents for report development.
+
+- Primarily worked in a Cognos integration project with client Legal department for report development.
+
+- Also worked with Finance department and developed sample reports using Cognos 10.1 Report Studio.
+
+- Created and modified List & Crosstab reports for client Matter management system.
+
+- Developed Prompt Pages, Cascaded Prompts and also worked on the customization of prompt parameters.
+
+- Developed multi query and multi prompt reports using conditional blocks and various filters.
+
+- Implemented advanced features such as Master detail relationship, Conditional formatting, Page set, report bursting using Cognos Report Studio.
+
+- Created Drill-up/down and Drill through reports for detail reporting.
+
+- Modified the existing Framework Manager Model for report development.
+
+- Performed Cognos administration and security tasks.
+
+- Environment
+
+07/2012 to 09/2013 Senior Cognos Developer
+
+2012 to 07/2012
+
+07/2011 to 2012
+
+09/2010 to 07/2011
+
+Acushnet Company - City, STATE
+
+- Acushnet Company, comprised of the Titleist and Foot Joy golf brands, is a leading manufacturer and marketer of golf balls, golf clubs, golf shoes and golf gloves.
+
+- Involved in AGS project where I developed many reports for multiple divisions of the client.
+
+- Developed reports for different functional areas such as Finance, Sales, Marketing, Distribution, etc..
+
+- Worked closely with different business teams to gather requirements, prepared functional and technical documents and UAT process.
+
+- Created List, Crosstab, and Chart reports using Report Studio to support Finance, Sales and Marketing functional areas.
+
+- Developed complex reports using different features like slice & dice, Drill capabilities, queries, Master detail and Multilingual reports.
+
+- Created query prompts, calculations, conditions and Filters.
+
+- Implemented report bursting to distribute reports effectively.
+
+- Involved in scheduling Report Studio and sending reports via email to several business users.
+
+- Created ad-hoc reports like Grouped List reports and Cross-Tab reports using Query Studio.
+
+- Also created documentation for all the processes involved like applying security for reports, deployment, portal customization etc.
+
+- Created multiple Layout Component Objects and incorporated into the reports.
+
+- Migrated all the cubes and reports from C8 version to C10.
+
+- Created jobs to schedule reports in Cognos connection.
+
+- Consolidated multiple dashboards into one making use of Conditional blocks and Self-drill through.
+
+- Experience in writing HTML/Java script in Cognos Report Studio reports as per the requirements.
+
+- Added Data security, Object and Row level Security according to the requirements.
+
+- Created database layer, physical layer and presentation layer, defining appropriate relationships between the tables.
+
+- Environment
+
+Senior Cognos Report Developer Mike Albert Fleet Solutions - City, STATE
+
+- Mike Albert Fleet Solutions is one of the largest fleet management providers in the nation, offering superior customer service and implementing innovative business solutions for clients in all 50 states.
+
+Involved in mostly troubleshooting existing issues related to different types of reports such as Fleet Expenses,
+Orders, Contracts, and Inventory.
+
+Involved in creating new reports for customers to analyze their business to increase the profits.
+
+Analyzed and reviewed business requirements and technical specification documents for report development.
+
+Extensively involved in troubleshooting of complex reports.
+
+Modified the existing report designing according to the new business requirements.
+
+Created List, Crosstab and various graphical presentation of reports.
+
+Incorporated different reporting functionalities such as Master Detail, Cascading prompts, Drill down and Drill-
+Through into multiple reports.
+
+Created multiple prompt pages using Java scripts to validate the data on each report for narrowing the report
+output.
+
+Extensively implemented complex reporting functionalities using Conditional formatting, Conditional blocks using
+multiple variables and parameters.
+
+Created multiple report templates which help developers to create new reports according to the company standards
+and created "Read Me’ documents.
+
+Created multiple UTP documents for report testing.
+
+Involved in performance tuning of complex reports and analyzed Cognos SQL with native SQL.
+
+Participated in building customer portal site with web development team.
+
+Worked on third party tool Motio to control different versions of the Cognos reports and used to migrate the reports
+to different environments.
+
+- Involved in automated testing of Cognos reports using Motio.
+
+- Environment
+
+Cognos Developer Corning Inc - City, STATE
+
+- Coming Incorporated is the world leader in specialty glass and ceramics and has a proven track record of being first to market with breakthrough innovations.
+
+- Involved in multiple projects largely dealing with creating and modifying reports for Inventory, Shipment, Sales, Client, Products, Business Units, Customers and Order Details.
+
+- The project also involved migration of Cognos applications from C 7 to C 8 version.
+
+- Analyzed Business requirements from the analysts.
+
+- Created and modified various List Reports, Grouped Reports, Crosstab Reports and Drill-Through Reports.
+
+- Developed reports using various functionalities like Master Detail, Conditional Formatting, Conditional Blocks and Multiple Prompts.
+
+- Working closely with ETL developers in building data marts as per the requirements.
+
+- Created Global Graphical reports to view and analyze company’s corporate performance.
+
+- Implemented various Prompts, Parameters, Filters, calculated measures, aggregations, conditions and created reports using sub-queries and multiple queries.
+
+- Testing and improving report performance, performance tuning of complex reports on report level.
+
+- Customized Cognos Connection with appropriate reports and security measures.
+
+- Developed relational and dimensional models in Framework Manager by defining the relationships between query subjects maintaining the data integrity.
+
+- Manually modified the SQL in Report Studio to tune and/or to write complicated reports.
+
+- Involved in Migration of Cognos BI applications from version 7.x to 8.4.
+
+- Migrated Cubes from Cognos 7.4 version to Cognos 8.4.
+
+- Resolved the issues occurred when migration of reports from previous versions to the Cognos 8.4.
+
+- Used Framework Manager to build Models, Packages and publish packages to the Cognos Server.
+
+- Scheduled Reports and Power Play Cubes to run on Daily, Weekly and Monthly basis.
+
+- Handled Security and Administration in Cognos connection portal.
+
+- Environment
+
+Chemist/Asst. Manager Canalis Medical Pharmacy - City, STATE
+
+- Identifies and resolves drug related issues with suppliers and providers.
+
+- Assisting Registered Pharmacist in organizing the control substances inventory.
+
+- Gathered and entered data for billing and invoicing for the department.
+
+- Maintained and organized database by using the software, MS Access and SQL server to provide correct patient records.
+
+- Developed inventory tracking reports on a monthly basis.
+
+- Performed annual inventory, including preparation for first barcode reporting.
+
+- Environment
+
+- Recorded test results using a variety of chemistry-specific software programs.
+
+10/2008 to 08/2009 Asst. Manager
+
+Reliance Pharmacy Services - City, STATE
+
+- Worked as an Assistant Pharmacy store manager in long term care pharmacy.
+
+- Implemented pharmacy policies and procedures by assisting pharmacy staff as needed.
+
+- Provided the frontline leadership in achieving ongoing quality, productivity and efficiency in long term care.
+
+- Implemented pharmacy software applications for billing, data entry and maintained databases to generate organization growth reports.
+
+- Conducted meetings with the company business contractors like Hospitals, Nursing homes, Group homes for future business development.
+
+- Designed report layout, data sorting, defining subtotals for the reports using SQL server.
+
+- Environment
+
+- Assisted other pharmacy staff with drug inventory, purchasing, and receiving.
+
+- Correctly completed pharmacy paperwork, including daily and weekly reports.
+
+- Worked closely with Pharmacy Care Representatives (PCRs) in providing excellent patient care.
+
+- Directly supervised [number] Pharmacy Technicians, interns and support staff while on duty.
+
+EpucatIon
+
+2008 MBA: Health Care Administration University of Findlay - Findlay, OH
+
+2005 Bachelor of Science: Pharmacy Kakatiya University - India Pharmacy
+
+Certified IBM Cognos 10 BI Report DesignerCertified IBM Cognos 10 Metadata ModelsCertified Base SAS Programmer
+
+CERTIFICATIONS
+--------------
+
+CERTIFICATIONS
+--------------
+
+IBM Cognos 10 BI Report
+
+Author
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

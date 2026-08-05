@@ -1,0 +1,151 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+SUMMARY
+-------
+
+- More than six years of experience in designing, developing and testing middleware applications using MuleSoft ESB, WebSphere MQ
+
+- Good experience using mule connectors like DB, HTTP, HTTPS, FTP, FILE, SFTP, JMS, Salesforce, SAP etc... as a part of integration usage.
+
+- Good understanding and implementation experience of WS-security, digital signatures, message encryption & decryption, SSL concepts and its implementation in Mule ESB and DataPower.
+
+- Good Experience with Software development Life Cycle.
+
+- Good Experience in creating API specification, implement REST and SOAP services.
+
+- Good experience using Mule ESB with Connectors, transformations, Routing, ActiveMQ, JMS and Data Transformations using Mule ESB.
+
+- Experience with DB2 and Oracle Databases, Stored Procedure creation and DB integration with Mule ESB.
+
+- Experienced in publishing message flows as web services using HTTP and SOAP nodes for SOAP and RESTful web services implementation.
+
+- Experience in Waterfall, Agile and JIRA for agile Management
+
+- Experience in multiple project life cycles design, implementation, testing and launching of the SOA Releases.
+
+- Strong experience with Problem determination, Route cause Analysis and Defect resolution
+
+SKILLS
+------
+
+DataBase: Oracle, DB2, Sybase, MS SQL SERVER WSDL, JAXP, JAXB
+
+Operating Systems: Windows, Linux distributions, UNIX Testing Tools: nit, Junit, Soap UI, Postman, XML Spy, TOAD,
+Tools: Jenkins, Maven, ANT, HP ALM, Jira, ServiceNow, Mingle Putty,
+
+Mule Integration: Mule ESB 3.5/3.6/3.7/3.8/3.9/4, TIBCO, FileZilla
+
+Anypoint Servers: Tomcat, WebLogic, WAS, Mule runtime
+
+Studio, API Management, CloudHub, SOAP, Restful WS,
+
+WORK EXPERIENCE
+---------------
+
+Sr. API/Mulesoft Developer, 05/2018 to Current Ibm Corporation - Bern, KS Responsibilities:
+
+- Conduct client meetings, understand requirements and produced various documents.
+
+- Create Request transformer, Response transformers, Custom Components and configured them in Mule-config.xml.
+
+- Create and follow MuleSoft API Error Handling and Logging Standards while building any API's.
+
+- Develop Event publisher and Event Catalog to fulfill the core functionality of event messaging framework - Rabbit MQ, namely to allow applications to publish business events to subscribed systems.
+
+- Create RAML 1.0 specification file based on blueprint mapping document in Anypoint portal’s API manager.
+
+- Use API-Kit Router and CXF to build the initial flow structure from the RAML and WSDL.
+
+- Use MuleSoft flow-control palette to optimize message processing, specifically in Scatter-Gather & Choice-Router to call multiple services in parallel and a specific function based on information from the request.
+
+- Implement API security policies (as set by API manager), applied to all client-facing proxy APIs for CORS, OAUTH2.0 access token enforcement, ClientID enforcement and Rate Limiting - SLA Based and also Secured Mule service endpoints using OAuth2.0, HTTPS and SSO.
+
+- Create MUnit test cases for all System, Orchestration, and Experience API's.
+
+- Monitor the Server by using PuTTY, WinSCP, Splunk, MuleSoft Runtime Manager and Co-operated with MuleSoft Admin team when they got a suspicious alert from Anypoint portal.
+
+- Migrate All the API’s from Mule Server Runtime 3.9.1 to 4.2.2 and deployed in new server as part of the decision of Capella’s Service oversight Committee and Management.
+
+- Functional/end-to-end testing, Integration testing using Anypoint Portal, SOAPUI and Postman and co-operated with UAT / Business team to make them satisfy.
+
+Environment: Mule ESB, Anypoint Studio, Cloud Hub, ActiveMQ, RAML, ActiveMQ, APM, Nexus, Apache-Maven, CloudHub,
+XML, XSLT, CSS, Ajax, JSTL, LDAP, PL/SQL, SQL, Log4J, Web Services - WSDL, SOAP, CXF, Jenkins.
+
+Mulesoft Developer, 02/2016 to 04/2018 Chenega Mios - Omaha, NE Responsibilities:
+- Implement Security mechanisms like Security Certificates, key Exchange, Encryption, Decryption and OAuth Authentication & Authorization using Access Token and SM session cookie.
+- Create HTTP inbound & outbound flows, custom java and XSLT transformers and Security of Mule endpoint.
+- Participate in daily scrum meetings to discuss the progress of the project and any blockage of the work and the solution of the block.
+- Use HP-ALM to track defects in DEV, TEST and STAGE environments
+- Build Deploy and Test applications or flows using Mule ESB and build and deployed the services.
+- Design and develop enterprise services API specification using RAML and REST schema.
+- Create Mule application that uses connectors SFDC, Message Transformer, Choice Exception Strategies, Batch processing.
+- Developed the flows/orchestrations for integrating the components written on top of different internal platforms using Mule ESB and ActiveMQ.
+- Create Mule ESB helper class to call the Mule flow, connection end point and connectors.
+- Implement Mule flows for each entity with retry mechanisms with private secured flows.
+- Built JAX-RS services and exposed them using REST component.
+- Implement Exception Handling, Logging, and Error Handling.
+- Build and Deployment of services in Mule ESB 3.7.3 server.
+- Manage performance of the services by using “Scatter and gather” and “choice router”
+- Code walk-throughs, Mule Debugging, and Error fixing.. Environment: Java, Mulesoft, MMC, Anypoint Studio, ActiveMQ, RabbitMQ, Servlets, Nexus, JSP, JSON, JMS, CloudHub, GitHub, Web Logic Application Server10.3, XML, XSD, XSLT, XPATH, JAXP, JAXB, WSDL, SOAP, Spring MVC.
+
+Java Developer, 07/2014 to 08/2016 Wells Fargo - - Mankato, MN Responsibilities:
+- Requirements gathering from the clients customers.
+- Analyzing requirements and converting them into technical specifications.
+- Fixing the timelines to complete the tasks by checking with functional business leads.
+- Studied the application architecture and re-designed according to the requirement.
+- NPI Not a public Information data masking
+- VTA application integration with other Applications
+- Involved in deploying the application under WAS Server
+- Used XML Web Services using SOAP and Apache Axis to transfer the amount to other application that is remote and global to different financial institutions.
+- Configured the POJOs with backend tables in Hibernate to achieve the associations.
+- Implemented Hibernate to persist the data into Database and wrote HQL based queries to implement CRUD operations on the data.
+- Implemented Spring MVC controllers like Controller, Simple Form Controller.
+- Implemented Spring MVC framework in the presentation tier for all the essential control
+- Used SVN for version control across common source code used by developers.
+- Working on the Defects which is raised by QC team.
+- Working on the production support 24 7 for Video teller Agent Application. Environment: Java, Eclipse, J2ee,GWT, Hibernate, Spring, SOAP webservices, Apache Axis, DB2 and WAS server
+
+SQL Developer, 04/2012 to 06/2014
+
+US Bank - City, STATE
+
+Responsibilities:
+
+- Responsible for all the servers which are running on a SQL platform
+
+(SQL Server 2005/ 2008).
+
+- Setup multiple Nodes (Active/ Passive) in SOL Servers to add the clustering feature.
+
+- Managed SQL Server databases and Configure failover cluster.
+
+- Plan and modify SQL Server Permissions in quarterly basis.
+
+- Create databases and schedule backups (Transaction log backup, Differential backup and Full backup) with Recovery sessions (Simple or Full).
+
+- Setup and maintain Replication for Production servers to provide high availability and monitor using Replication Monitor.
+
+- Setup Alerts, Notifications, Jobs, Job steps with automated Response solution schedules.
+
+- Frequently Monitor Connections, Locks and Database Performance.
+
+- Reviewed and optimized SQL queries, CDC, stored procedures, functions, Indexes, views and triggers.
+
+- Created an internal secured website linking to the database that includes updated information about all Target SQL Servers information.
+
+Tools: MS SQL Server 2005/2008, MS-Excel, DTS, Visual Studio 2008, SQL profiler.
+Education and Training
+
+Bachelor of Science: Computer Science, 10/2009 Mekelle University - Ethiopia
+
+CERTIFICATIONS
+--------------
+
+Mulesoft Certified Developer -Level 1 (Mule 4), 2019
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

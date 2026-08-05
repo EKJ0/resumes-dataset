@@ -1,0 +1,95 @@
+Lauren Holmes
+
++1273 363 0926 lauren@hiration.com 9 Seattle, www.linkedin,com/inflauren React Developer
+
+SUMMARY
+-------
+6+ years experienced react development professional armed with hands-on experience in designing & deploying highly responsive user
+imerface components by using React concepts. Proficiem in designing wireframes and converting them into high-quality codes to build
+application interfaces via javascript and ReacyS workflows. Adept at improving frontend performance by testing & debugging codes to
+boost overall performance white delivering maximum client satisfaction.
+
+KEY SKILLS
+----------
+- Application Development + Wireframe Building * Front-end Architecture + UI Designing » Debugging
+- Performance improvement + Feature Designing * Webpage Designing « Coding * Webpage Optimization
+- Project * Client Servicing * G Designing
+
+TECHNICAL SKILLS
+----------------
+
+- React tools: Reactjs, Redux, Flux, Webpack, Enzyme,
+
+- Front-end Development tools: Babel, NPM, Webpack,
+
+- Languages: jQuery, JavaScript, CSS. HTML
+
+React Developer Aug '19 - Present Technofusion Inc. Seattle, WA One of top 10 digital agencies serving across the world with met worth of USD 20 billion
+
+Feature Development & Application Optimization
+
+- Collaborated with front-end architects and updated 20+ applications to improve performance by 15%
+
+- Designed and developed $0+ user-facing features via React Js and built front-end libraries for continuous development
+
+- Tested and optimized 30+ REACT components for best performance across every device and browser
+
+UI Designing & Application Development
+
+- Supervised a team of 15 designers to design and implement user interface ideas in 45+ applications to improve presemations
+
+- Analyzed client requirements to reconstruct 10+ applications for better user experience and improved business model
+Frontend Developer Jul 17 - Jul 19 Digital Minds Seattle, WA
+‘One of the top web designing companies in the US with o team of 3k employees and revenues worth USO $0 million
+
+Project Management & Graphic Designing
+
+- Manageda team of 10 developers handling 20+ client projects and ensured their bug-free delivery before the deadline
+
+- Designed prototypes and created high-quality visual elements for the company's web application
+
+UI Designing & Application Interface Development
+
+- Analyzed user requirements and developed 50+ responsive and functional UI components via REACT concepts
+
+- Built the application imerface code using JavaScript and ReactJs bosed on the pre-made designs and wireframes
+
+Code Testing & Debugging
+
+- Troubleshoot and debugged 10+ applications’ codes for smooth execution and improved stability
+
+- Developed and Tested front-end architecture along with the Ul concepts of 15+ websites to perform with 100% accuracy
+
+Web Developer Jun "1S - Jun'17 Troy Infotech Seattle, WA
+Web development compeny headquortered in the US with over 2k employees and servicing hundreds of clients ocross the world.
+
+Webpage Designing & Testing
+
+- Designed the structure and web pages layout as per the user requirements with 100% client satisfaction
+
+- Performed testing on 50¢ applications to enhance their stability and scalability resulting in 30% business growth
+
+- Deployed 5+ programming languages like HTML, CSS, and JavaScript to build attractive and user-friendly web pages
+
+Website Optimization & Development
+
+- Developed reusable code and optimized 10+ websites of the company to improve speed and performance by 40%
+
+- Improved company’s business website performance Up 10 30% by adding new features and functionalities
+
+EDUCATION
+---------
+B. Tech. in Computer Science May ‘10 - May 14 New York University New York, NY
+New York University 1s one of the top universities im the US with 3000+ schotors and 200+ facufty members
+- GPA3.2/4.0
+- Top 20 percentile of the class
+
+CERTIFICATIONS
+--------------
+
+- Full-Stack Web Development with React | Coursera | Dec 14
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

@@ -1,0 +1,124 @@
+SUMMARY
+-------
+
+HIGHLIGHTS
+----------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+ADDITIONAL INFORMATION
+
+SKILLS
+------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Software Engineer with years of experience working on an analysis software. Seeking employment as part of
+a dynamic software development team.
+
+Java Agile development methodologies
+
+SQL Proficient in HTML
+
+WinCVS JavaScript
+
+HTML Relational DBMS
+
+GIS APIs
+
+SOFTWARE DEVELOPER 02/1999 to CURRENT
+
+Rapid Global Business Solutions, Inc | Hebron, KY
+
+- Designed and implemented the Entity Extractor interace component of VisuaLinks to use a third party extractor software to create entities from data.
+
+- Supported the Mapping Tools (ESRI, Google Maps, Google Earth) embedded in VisuaLinks including maintaining and modifying the html and js pages, upgrading to newer versions, adding new features and handling security issues.
+
+- Wrote the data ingest code, in Java, for VisuaLinks that runs on Oracle 11g databases.
+
+- Developed a Quick Data Load Interface component to allow users to pull data from Excel, Text, RSS, RDF, XML and Local Tables into a database.
+
+- The QDL allows users to define columns, perform transformations, add indexes, and apply various functions to the data during the import.
+
+- Once imported the data can then be used to model and perform data analysis on.
+
+- Wrote drivers to connect to various databases (e.g MarkLogic,Linked, Mongo) to allow VisuaLinks to retrieve data.
+
+- Worked on data harmonizing engine in VisuaLink to include Excel, RDF, XML, and RSS.
+
+- Designed and Implemented the interface for Export Analytical Reports from within VisuaLinks, a link analysis and visualization tool.
+
+- Used XSLT to transform XML into html, ADO Style XML, and VRML.
+
+- The report functionality includes allowing the user to select headers, footers, table of contents, embedding of images data to include in the reports, and further customizing the report.
+
+- Added the capability from within VisuaLinks to save data to a new Access or pre existing JDBC data source.
+
+- Creating new tables and exporting selected data from VisuaLinks.
+
+- Implemented the ability to create an htm! document within VisuaLinks and send and open the document in Microsoft Word and/or a browser.
+
+- Added aggregate functionality, sums, averages, min and max of values within VisuaLinks Network Miner and Summarize services.
+
+- Involved in various stages of the project life cycle mainly analysis. design, implementation and testing of the application.
+
+- Used UML Use-Case and sequence diagrams for analysis to clarify requirements.
+
+- Designed and Implemented code to interface with various RDMS systems using JDBC including Oracle, SQL Server, Sybase and MySQL.
+
+- Experience cont'd Joanna Pycha Maintained and developed SQL Server Data Transformation Services (DTS) packages to allow for the import of Social Security Death Master Data monthly.
+
+- Wrote DTS to convert and format data for monthly updates.
+
+- Incharge of the Oracle 9.i database used for development and testing.
+
+- This includes DBA administration, installation, importing of data ,configuring uses to connect to the database and troubleshooting issues.
+
+- JCAG Implemented chart capabilities, using JClass charts, for data within VisuaLinks to be displayed in 2D and 3D chart formats.
+
+- The chart functionality includes allowing multiple x and y axis, printing and saving the images.
+
+- The functionality also included zoom, move, rotate, scale and z-rotate within the interface.
+
+- Implemented the database translator wizard to allow for the import/export of data between databases using JDBC.
+
+- Including for the automatic detection of ODBC data sources within the interface.
+
+- Customs Data Mining Project Performed DBA duties including creation and maintenance of database objects that utilize Oracles partitioning in a Windows NT environment Responsible for loading external data using SQL*Loader into the data warehouse Performed nightly cold backups of database and restored from backups Created and maintained a test database environment Installed and configured Oracle 8.1.6 products including the server, client, and enterprise manager Designed and implemented a middle tier environment for the user interface using Enterprise JavaBeans specifications Responsible for writing, debugging and testing Dynamic PL/SQL and PL/SQL programs used in improving query performance Performed optimization tests to improve the overall performance of the database and it's queries Counter Drug Database Project Design and implemented a GUI in Java to query against the Oracle 8.1.6 database and display the results Assisted DBA with design and enhancements to the database Helped formulate queries to be used in a presentation involving link analysis tools Maintained and oversaw the ordering of all software for the development staff at VAI.
+
+CC-MPUTER PROGRAMMERIANALY ST 01/1 to 01/4 City Of Cincinnati, Oh | Cincinnati, OH
+- NCI Web Development Project Built web pages using Story Server 4.0, Tcl/Tk, and HTML Interfaced with the Oracle 7.3 database, which included writing queries and working on the database design Participated on a team to redesign the NCI web site for ease of use Office of National Drug Control Policy Project Designed and implemented a GUI interface in java Used SQL Server 6.5 to implement and store data for project Experience cont'd Joanna Pycha.
+
+COMPUTER PROGRAMMER/ANALY ST 01/1 to 01/4 City Of Cincinnati, Oh | Cincinnati, OH
+
+- Designed and implemented code to simulate urban warfare that interfaced with the GIS system Developed code in Modsim Ill to covert the format of files Participated with the object-oriented design of their Study Manger and Data Query Tool Utilized UML notation for implementation of the class and interactive diagrams Designed and implemented code using Tcl/Tk to produce GUI for the Data Query Tool Wrote PERL scripts to test out the current version control.
+
+SEQIOR LAB TECHNICIAN 01/1 to 01/1 Championx Corp. | Artesia, NM
+- Delegated laboratory tasks daily Resolved laboratory and shipping problems Assisted with data entry operations on the National Aids Repository Database System which included the loading of all specimen data Oversaw the shipping and receiving of infectious and non-infectious substances Designed and implemented a database in Oracle 7.0 to assist with the record keeping of shipments to and from the repository.
+
+Bachelor of Science | Computer and Information Systems AUGUST 1997 University of Maryland University College, College Park, MD
+Computer and Information Systems
+
+BzOhelor of Science | General Biological Sciences MAY 1994 University of Maryland College, Park, MD
+General Biological Sciences
+
+- Security Clearance Active Secret
+
+3D, ADO, C, C++, charts, clarify, client, version control, data analysis, data entry, Data Mining, DTS, data
+warehouse, DBA, databases, Database, database design, debugging, Enterprise JavaBeans, XML, GIS, GUI,
+HTML, Java, JDBC, max, Access, MS Access, Excel, Office, SQL Server 6.5, Windows, Windows NT, Microsoft
+Word, MySQL, enterprise, Network, object-oriented design, ODBC, optimization, Oracle 9, Oracle 7.0, Oracle
+7.3, Oracle, PL/SQL, Oracle 8, Oracle8, PERL, Quick, receiving, record keeping, scripts, shipping, SQL, SQL
+Server, SQL*Loader, Swing, Sybase, Tables, Tcl/Tk, translator, troubleshooting, UML, user interface, VRML,
+Web Development, web site, web pages, XSLT
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

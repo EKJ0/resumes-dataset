@@ -1,0 +1,203 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+6+ years of experience as a Java/J2EE Developer involved in requirement analysis, design, coding, testing.
+debugging and maintenance of web applications. Experience in Agile methodologies like SCRUM, Test Driven
+Development (TDD), Incremental and Iteration methodology within the Software Development Life Cycle.
+Proficient in Core Java concepts like Inheritance, Abstraction, Encapsulation, Polymorphism, Exception
+handling and Collections Framework. Focused on accomplishing challenging development goals under strict
+deadlines. Analytical and resourceful problem-solver with disciplined approach and skill in producing clean,
+robust code. Proactive Java development professional bringing expertise in SQL, HTML, CSS, JavaScript and
+other programming languages.
+
+Technical Skills: ¢ Web Programming
+
+Language Java, SQL, J2EE, PL/SQL, T-SQL e Databases: Oracle, MongoDB Web Technologies HTML5, CSS3, JavaScript, ¢ Design Patterns and Principles
+AJAX, JSON, Angular, REST, SOAP e API Design and Development
+
+Databases Oracle, MS SQL Server, MongoDB ¢ SOAP and RESTful Web Services App/Web Servers JBOSS, Apache Tomcat, IBM * Object-Oriented Programming
+WebSphere, BEA WebLogic ¢ Software Development Standards IDEs Eclipse, NetBeans, IntelliJ
+
+Tools ANT, Maven, JUnit, Log4J, TOAD, CVS,
+
+SVN, Rational. Clear Case
+
+JAVA FULL STACK DEVELOPER 06/2020 to CURRENT
+
+Jpmorgan Chase & Co. | Glendale, AZ
+
+Worked with business teams on requirements gathering and estimating the efforts for development
+using Agile/SCRUM methodology to integrate business line of apps
+
+Developed Use Case Diagrams, Class Diagrams and Sequence Diagrams and Object Diagrams to model the detail design of the application using UML
+
+Developed various batch jobs which process bulk of data received from business partners using Spring
+Batch
+
+Used Hibernate as an ORM tool to store the persistent data and for communicating with Oracle
+database
+
+Implemented user interface for web-based customer application using HTML5, CSS3, Typescript, JSON,
+AJAX and Angular 9
+
+Used Angular 9 router and implemented module wide routing and created different forms using Angular
+data driven and template driven forms
+
+Implemented Custom Directives, routing logic, service, controllers, filters, and retrieval and posting of
+data with AJAX using Angular
+
+Created client library that provided load balanced and fault tolerant consumption of Spring Boot
+Microservices from monolithic application
+
+Created POC of Authentication and Authorization with OAuth2 Spring Boot microservice
+
+Utilized Java 8 features like Lambda expressions and Stream API for Bulk data operations on
+Collections which would increase the performance of the Application
+
+Set up Spring and Hibernate framework by adding configuration in the web.xm| file
+
+Wrote Hibernate Annotation for data mapping
+
+Configured the XML files for Spring Security injection to ensure the back-end security by discriminating
+the role of users and access authority for the URIs and Server-side assets
+
+Migrated the entire traditional EC2 Classic environment to Private network in AWS Cloud
+
+Configured AWS Identity and Access Management Groups and Users for improved login authentication
+Developed Java API to connect with Cloud Services for storing and retrieving data stored in the S3
+buckets
+
+Used Maven as build and dependency management tool for creating WAR and JAR files to be deployed
+in JBOSS application servers
+
+Created database backend for EJB project to connect and to query Oracle database
+
+Secured the Kafka cluster with ACL for Kafka client, SSL for data transfer and OAuth-Bearer for client
+authentication process
+
+Used Kafka Producer API to publish a stream of records to Kafka topics
+
+Used J-Unit framework for unit testing and SVN for implementing the application.
+
+JACA FULL STACK DEVELOPER 12/2017 to 05/2020
+
+Jpmorgan Chase & Co. | Grass Valley, CA
+
+Interacted with the stakeholders and gather requirements and business artifacts based on Agile/Scrum
+methodology
+
+Designed Use Case & Class diagrams using Rational Rose, documented design diagram
+
+Involved in gathering requirements from business owners, implemented, and tested using the Spring
+MVC pattern and Hibernate
+
+Used Core Spring Framework for dependency injection of components and injected Java Beans using
+Spring Dependency Injection across the business layers
+
+Utilized AJAX to improve app performance and display data on frequently visited pages
+
+Used Angular CLI to generate components, services, filters and compiled in different environments
+Validated forms using Angular 2 and regular expressions there by providing client-side validation and
+server validation
+
+Developed REST services to make web service calls simple and easy for the client to access it with the
+help of standard HTTP URIs
+
+Used JAXB for marshalling and un-marshalling of work order, billing XML documents, and JAXP for
+processing
+
+Used Spring Batch to setup batch jobs to email the daily reports and that which run on Pivotal Cloud
+Foundry (PCF) with Spring Boot as its MVC layer
+
+Developed MongoDB Data Access Layer implementing Mongo Repository interface from Spring Data
+Performed CRUD operations like Update, Insert and Delete data in MongoDB
+
+Deployed Docker contained Spring REST services into AWS EC2 container service using AWS admin
+console and used lambda to run applications in AWS console
+
+Used Java 8 Lambdas to make anonymous inline function calls and used Streams to work effectively
+with Collection objects
+
+Used Eclipse IDE to convert the business logic into code and WebSphere Application Server for
+deploying the code
+
+Performed a POC on building a Spring Boot application and deploying as Docker containers to
+Kubernetes cluster in Cloud Platform
+
+Used Docker to implement a high-level API to provide lightweight containers that run processes isolation
+Deployed applications into Continuous integration environments like Jenkins to integrate and deploy
+code on Cl environments for development testing
+
+Used Log4j to print the logging, debugging, warning, info statements
+
+Involved in setting up Test automation and developed cucumber feature files and used Selenium for
+automated testing with TestNG
+
+Used JIRA tool for Issue/bug tracking, monitoring of work assignment in the system.
+
+JACA/J2EE DEVELOPER 01/2016 to 11/2017
+
+Conduent Incorporated | Chicago, IL
+
+Implemented Agile/Scrum methodologies actively involved in technical meetings, requirements
+gathering, analysis, planning, estimations, development, and testing
+
+Participated in Analysis, Design, Implementation, UAT and Production of the Application and developed
+UML diagrams
+
+Developed the applications using Spring MVC Framework by creating controllers, validators, and
+request mappings
+
+Involved in design, development, and implementation of front-end part of the web application using
+HTML5, CSS3, JavaScript, AJAX, JSON, AngularJS and Bootstrap
+
+Developed JSF pages as per requirements used DOJO JavaScript Library with AJAX to add user
+functionalities, jQuery for client-side validation
+
+Applied AJAX for couple of navigation screen flows for asynchronous calls
+
+Implemented routing logic and navigation from screen to screen and implemented login functionality on
+the client side in AngularJS
+
+Used Spring Boot framework with Java to implement Microservices Architecture with JAX -RS as a web
+service
+
+Used Web Services for creating rate summary and used WSDL for getting plans from different module
+and used XML parsers for data retrieval
+
+Database development required creation of new tables PL/SQL stored procedures, functions, views,
+indexes and constraints, triggers and SQL tuning to reduce the response time in the application
+
+Used Eclipse in development and debugging the application
+
+Using JMS to send email or notify companies or users who have subscribed particular services in our
+product
+
+Used Kafka on publish-subscribe messaging as a distributed commit log, have experienced in its fast
+and Python and Scalable
+
+Used SVN for version control of the application
+
+Developed the ANT scripts for preparing WAR files used to deploy J2EE components on JBOSS Server
+Used Log4j for logging various information like error, info, and debug into the log files
+
+Developed J-Unit test cases for testing the application.
+
+Bachelor’s Degree | Computer Science Minnesota State University, Moorhead, MN
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

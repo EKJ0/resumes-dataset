@@ -1,0 +1,213 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+CAREER OVERVIEW
+
+An object oriented programmer with over 7+ years’ experience in design, analysis, development, debugging, testing and implementation
+stages of various client/server web applications using Ruby, Ruby on Rails, Java/J2EE, PHP, HTMLS, JavaScript, CSS, JQuery, JSP, Servlets,
+Struts, Spring, EJB, MDB, Web Services, Hibernate, Web Services, JNDIJMS, Oracle9I, SQL, MySQL. Experience in all phases of software
+development life cycle (SDLC) which includes requirements gathering, analysis, design, implementation, maintenance of software
+applications and testing Client/Server and Web applications. Experience in implementing Rails migrations and Active record, Action pack,
+Action mailer. Worked in both TDD and BDD using Cucumber, Rspec and Capybara. Proficient in developing web applications using Ruby
+on Rails, CSS, HTML, PHP, Java, Javascript, MySQL, Oracle, Postgresql and SQlite3 on both windows and Linux systems. Extensive
+experience in Ruby on Rails, Java, J2ee, Servlets, JSP, Java Beans, JDBC, HTML, JavaScript, AJAX, Struts 2.0 and MVC Architecture.
+Experience using different software development methodologies like Water fall model, RUP and Agile development. Experience with
+Installation Sun Virtual Box on various machines to test application against different operating systems. Hands on experience using GitHub,
+AmazonEC?, Git and deployment using Heroku. Experience in developing REST API's. Developed and Deployed applications on
+Application Servers like WEBrick, Phusion Passenger, JBoss server, Oracle, WebLogic server, Uniform and functional usage with Apache
+Tomcat Servers. Proficient with relational databases SQlite, PostgreSql and MySql. Hands-on experience with Integrated Development
+Environments like Eclipse, Rubymine, Net Beans, WSAD, Text Mate. Excellent communication skills with proven results in meeting
+aggressive timelines and working independently and as a coherent team member. Experience of several ruby gems such as Omniauth,
+Paperclip, cancan, devise, Simple_form etc. Good experience in writing robust front end and back end codes. Special skills in developing user
+friendly, simple yet effective web applications. Ability to understand project requirements and deliver it with proper estimation and quality.
+Extensive knowledge of web development from concept through implementation and optimization. Exceptional ability to collaborate with
+team members for code and design reviews. Fast learner, can quickly incorporate and implement new procedures with efficiency and
+accuracy. Authorized to work in the United States for any employer.
+
+QUALIFICATIONS
+
+- Ruby , Java , PHP
+
+- Web Technologies -
+
+- JavaScript, JQuery, Angular JS, JZ2EE(JSP, Servlets), SOAPRESTAPIT's.CSS3, HTML5, XML, HTML, CSS, Bootstrap, AJAX
+
+- Frame Work :
+
+- Rails, Spring, Struts, Hibernate
+
+- Automation Tools:
+
+- Selenium RC, Web Driver
+
+- Testing Frameworks:
+
+- Rspec, Cucumber, Junit
+
+- Databases:
+
+- PostgreSQL, MySQL , SQlite, Oracle 10g/11g, SQL Server
+
+- Web servers:
+
+- WEBRick, Thin. Unicorn, Apache, Phusion Passenger
+
+- Version Control:
+
+- Git, SVN
+
+- Bug Tracking Tools:
+
+- Redmine, Bugzilla , JIRA
+
+- IDE:
+
+- Rubymine, Eclipse, Netbeans
+
+- Operating Systems:
+
+- Windows, Mac OS, Unix, LINUX
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+Ruby on Rails Developer Motion Recruitment
+
+- Worked in the design and development phases of the application using ROR framework.
+
+- Designed and developed various features using HTML5, CSS2, W3C, XHTML and CSS#.
+
+- Front-end was designed and developed using HTML and Blueprint CSS while the back-end of the application was developed deploying Model-View-Controller (MVC) framework.
+
+- Developed and tested many features in an environment (AGILE) using Ruby on Rails, HTML5, CSS, JavaScript, and Bootstrap.
+
+- Composed Cucumber and Rspec tests in the application and coded JavaScript For page usefulness popup screens.
+
+- For Database Migration used Active Records and also involved in using Active Resources, Fixtures, Action View and Action Controller in Rails framework.
+
+- Used Scaffolding to design and develop controller and view part of the system.
+
+- Used Caching contents for Rails and queries are optimized for analyzing and improving application efficiency.
+
+- Used agile and scrum methodologies in project development.
+
+- Used Filters, Rails finder methods and wrote model scopes in the application.
+
+- Worked in MySQL database on simple queries and writing Stored Procedures for normalization and denormalization.
+
+- Used Amazon SQS with other AWS infrastructure web services to make applications more readable and flexible.
+
+- Tried to develop best practices and architecture.
+
+- Took care of Bug fix issues and Code Reviews.
+
+- Used CAPISTRANO to configure development process for RoR application.
+
+- Implemented Agile methodologies, RESTful coding and following best secure coding practices, priority to Test Driven Development.
+
+- Used Sinatra which worked well for the API, and internal apps.
+
+- Code refactored as required while working on the features and enhancements.
+
+- Used Jruby for concurrency and Integrated Development Environment.
+
+- Designed applications using object oriented programming (OOPS) concepts.
+
+- Provided validations and scope for many models in the database and created many associations within those models.
+
+- Implemented sorting and paginations functionality for entire application.
+
+- This involves the implementation of sorting and pagination functionality for displaying the list of values in the screen without hitting the database.
+
+- Performed necessary refactoring to the code as per the revised design Fixing the bugs and tickets filed by quality assurance and product management team.
+
+- Action Mailer is used for applying user mailing module.
+
+- Collaborated and coordinated with the management and design team to implement new features.
+
+- Performed Unit testing, Integration Testing, GUI and web application testing using Rspec.
+
+Interactive in providing change requests, trouble reports and requirements collection with the client.
+
+- Environment: Ruby 2.1, Rails 4.2, Jruby, MySql, RSPEC, Active Record, YAML, Bootstrap CSS and HTML.
+
+- Text Mate, Ruby Mine and Net beans IDE 6.9.1, Cucumber, JQuery, JSON, SVN.
+
+Java/J2EE Developer
+
+- Involved in various Software Development Life Cycle (SDLC) phases of the project.
+
+- Generated Use Case Diagrams, Class Diagrams, and sequence diagrams using rational rose.
+
+- Implemented the application using Jakarta Struts Framework which is based on Model view Controlled design pattems.
+
+- Used the Struts Validation and tiles framework in the presentation layer.
+
+- Developed user interface using JSP, JSP Tag libraries and Struts Tag libraries to simplify the complexities of the application.
+
+- Developed various EJB Components to fulfill the business functionality.
+
+- Session Beans were developed to process the requests from the user.
+
+- Extensively used Hibernate in data access layer to access and update information in the database.
+
+- Used Spring MVC Framework for Dependency Injection and integrated it with the struts framework and hibernate.
+
+- Used a WAP server for communications to the customer.
+
+- Used web services - WSDL and Soap for getting Credit Card Information from third-party.
+
+- Used JMS API for asynchronous communication by putting the messages in the message queue.
+
+- Designed various tables required for the project in Oracle database and used stored procedures and triggers in the application Performed unit testing using Joint framework and used Struts Test cases for testing Action Classes.
+
+- Used Ant Scripts to build and deployed on WebSphere application server.
+
+- Monitored the error logs using Log4J and fixed the problems.
+
+- Developed the different components of application such as JSP, Servlets, and EJB using websphere studio application developer and used CVS for version control.
+
+- Environment: EJB, Strut, Hibemate, Spring, JSP . Servlets . JMS, MQ Series, XML, SOAP. UDDI, WSDL, WAP.WML.JDBC, JavaScript, UML, HTML, JNDI, CVS, Log4j, JUnit, Websphere app server , WSAD , Rational Rose, Oracle.
+
+PHP Developer Student Intern
+- Involved in Analysis, design and architecture of the application.
+- Backend coding using PHP.
+- Designed user interface using CSS, HTML and JavaScript.
+- Create login page for the administrator.
+- Created tables and database related to it.
+- Conducted user experience (UX) satisfaction experiments for improving of shopping carts process and other user flows.
+- Write code for form validation using JavaScript.
+- Created pagination Created search field which searches every word in every page based on the keyword provided and displays the resulted in a formatted way.
+- JavaScript slider creation.
+- Direct interaction with client for latest updates and gathering requirements.
+- Environment: PHP, HTML, CSS, JavaScript, jQuery, Adobe Photoshop, Illustrator, MySQL, SVN, Linux.
+
+EDUCATION AND TRAINING
+
+2010 Bachelor of Technology: Electrical and Computer Engineering JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY
+GPA: GPA: 3.4 Electrical and Computer Engineering GPA: 3.4
+
+TECHNICAL SKILLS
+----------------
+
+SKILLS
+------
+
+Adobe Photoshop, AGILE, AJAX, Ant, Apache, API, Automation Tools, Blueprint CSS, Configuration Management, Controller, Credit,
+CSS, CSS2, CSS3, Client 3, client, customer relations, client interaction, Version Control, CVS, DAO, Databases, Database, database
+integration, Eclipse, EJB, experiments, XML, features, Focus, Frame, gems, GUI, UX, HTML, HTMLS5, http, PHP, Web Sphere 5.0, Web
+Sphere, IDE 6.9.1, IDE, Illustrator, J2EE, Java, IMS, JSP, Beans, JavaScript, Java Script, JDBC, INDI, JQuery, JSON, LINUX, Log4J, Mac
+OS, mailing, access, Windows, Windows 2000, 3.1, word, Migration, MQ Series, MVC, MySQL, enterprise, object oriented programming,
+OOPS, Operating Systems, Oracle 9, Oracle, Oracle database, developer, page, PostgreSQL, product development, product management,
+coding, Programming, project development, quality assurance, Rational Rose, requirements definition, scrum, SDLC, Servlets, Scripts, SOAP.
+Software Development, sorting, SQL Server, Struts 1.0, Struts, tables, UML, unique, UNIX, user interface, Validation, View, VMs, WAP,
+Web servers, websites, WebSphere, WML, XHTML
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

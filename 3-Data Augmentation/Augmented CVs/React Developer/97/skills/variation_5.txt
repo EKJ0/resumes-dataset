@@ -1,0 +1,200 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Multi-talented Java Developer successful at problem solving and conflict resolution. Adept at taking on diverse development and
+debugging challenges. Familiar with automation strategies and quality assurance standards.
+
+Proactive Java development professional bringing expertise in SQL, HTML, CSS, JavaScript and other programming languages.
+Resourceful Java Developer with talent for working with multicultural teams. Expert at working in Agile environments using Scrum
+methodologies.
+
+Seasoned Java Developer focused on solving customer problems, improving usability and maximizing efficiency. Specializing in
+conceptualizing innovative applications.
+
+Committed job seeker with a history of meeting company needs with consistent and organized practices. Skilled in working under
+pressure and adapting to new situations and challenges to best enhance the organizational brand.
+
+Talented Software Developer equipped with great coding, debugging and project management abilities. Accomplishes project goals
+consistently with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.
+
+Organized and motivated employee eager to apply time management and organizational skills in various environments. Seeking
+
+entry-level opportunities to expand skills while facilitating company growth.
+
+SKILLS
+------
+
+- Automation Expertise
+
+Agile/Scrum Methodology Software Documentation Control
+
+- Performance Improvements
+
+- Design Principles
+- Software Updates
+
+Software Components and Libraries Databases: Oracle, MongoDB
+
+- OA Testing © Project Oversight
+
+- Source and Version Control: Git, Github * Conceptual Designing
+
+- Strong Interpersonal and Communication Skills ¢ Usability Understanding
+
+- Code and Quality Standards ¢ New Feature Development
+
+- Software Testing and Validation ¢ Buy/Build Recommendations
+
+Cross-Functional Collaboration
+
+- Object-Oriented Programming
+
+- Teamwork and Collaboration Process Improvement
+
+- Performance Evaluation and Optimization Cost Assessment
+
+- Data Structures and Algorithms
+
+Messaging Frameworks Project Specifications Hardware Configuration
+
+- Programming Languages: Java, C#, .Net, Python
+
+- API Design and Development
+- Analytical Thinking and Problem Solving
+
+WORK EXPERIENCE
+---------------
+
+Java Developer, 03/2019 to Current Cloudspacetek - Frederick, MD
+- Collaborated with support team to assist client stakeholders with emergent technical issues and develop effective solutions.
+- Assessed code during testing stage to determine potential glitches and bugs.
+- Designed, developed and implemented firmware to support embedded system product concepts.
+- Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+- Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and reuse.
+- Coordinated installation of software systems and collaborated with user experience team on design and implementation of new features.
+- Developed requirements for system modifications and new system installations.
+- Designed and implemented low-latency, high-volume Java applications for mission-critical systems.
+- Optimized software applications to reduce processing, storage and network usage needs.
+- Combined root-level authentication and authorization technologies with ongoing system design to harden finished solutions.
+- Utilized best practices to identify and remedy bugs in applications within specific timeframe.
+- Created and improved visual designs to catapult websites forward in terms of looks and usability.
+- Established brands to help implementation partners supplement prototypes.
+- Identified technology solution alternatives in line with specific client objectives and challenges.
+- Reviewed solutions to verify alignment with customer objectives, organization guidelines and benchmarks and industry best practices.
+- Wrote application level codes to interact with backend codes.
+- Redesigned and implemented complete web applications to meet web and industry standards.
+- Developed and documented style guidelines for website content.
+- Worked with technical leads, engineers and designers to develop dynamic client-side web applications across various areas of
+
+business.
+
+Java Developer , 01/2018 to 02/2019 Cloudspacetek - City, State
+
+- Utilized best practices to identify and remedy bugs in applications within specific timeframe.
+
+- Coordinated system installations, testing and code corrections.
+
+- Conferred with project managers and other stakeholders to fully understand software design specifications and plan optimal development approaches.
+
+- Designed software for real-time operating systems QNX, ThreadX and others.
+
+- Developed software for embedded systems, coding solutions for both new installations and in-situ hardware.
+
+- Established clear system performance standards and wrote specifications.
+
+- Employed integrated development environments (IDEs).
+
+- Recommended improvements to facilitate team and project workflow.
+
+- Developed custom tag libraries for providing multi-lingual functionality.
+
+- Performed troubleshooting of post-release software faults to support live service and installed software patch design.
+
+- Coordinated installation of software systems and collaborated with user experience team on design and implementation of new features.
+
+- Established brands to help implementation partners supplement prototypes.
+
+- Generated UX concepts such as tasks analysis, storyboards and use cases to accelerate user flow.
+
+- Worked with technical leads, engineers and designers to develop dynamic client-side web applications across various areas of business.
+
+- Created and improved visual designs to catapult websites forward in terms of looks and usability.
+
+- Conferred with management and development teams to prioritize needs, resolve conflicts and develop solutions.
+
+- Supported conceptual thinking processes to generate customized digital services across multiple platforms.
+
+- Redesigned and implemented complete web applications to meet web and industry standards.
+
+- Reviewed solutions to verify alignment with customer objectives, organization guidelines and benchmarks and industry best practices.
+
+- Planned concepts by orchestrating and implementing designs to streamline interface operations.
+
+- Implemented searchable indices for webpage content.
+
+Java Developer , 01/2017 to 12/2017 Cloudspacetek - City, State
+- Established clear system performance standards and wrote specifications.
+- Employed integrated development environments (IDEs).
+- Contributed technical direction and system architecture expertise.
+- Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and reuse.
+- Assessed code during testing stage to determine potential glitches and bugs.
+- Recommended strategies to maximize performance and lifespan of equipment involved in software installations.
+- Obtained and evaluated information on hardware configuration costs, reporting requirements and security needs.
+- Conducted full lifecycle software development from planning to deployment and maintenance.
+- Coordinated testing and validation procedures through software development lifecycle.
+- Applied prescribed policies to programming syntax in compliance with internal language policies.
+- Identified opportunities for process improvements to decrease in support calls.
+- Reviewed project requirements to identify customer expectations and resources needed to meet goals.
+- Improved and corrected existing software and system applications.
+- Devised automation, backup and recovery protocols to preserve and safeguard data.
+- Utilized established design patterns to expedite novel software creation and support consistent performance results.
+- Designed, built and maintained websites using authoring or scripting languages, content creation tools and digital media.
+- Modified existing software systems to enhance performance and add new features.
+- Displayed strong telephone etiquette, effectively handling difficult calls.
+- Understood and followed oral and written directions.
+- Approached customers and engaged in conversation through use of effective interpersonal and people skills.
+- Planned and completed group projects, working smoothly with others.
+- Achieved cost-savings by developing functional solutions to problems.
+- Maintained schedule of class assignments to meet deadlines.
+- Maximized passenger satisfaction by maintaining vehicles in safe and clean operating condition.
+
+- Presented clean and sanitized vehicle to customers for utmost satisfaction.
+
+Jr. Java Developer , 11/2013 to 12/2015 Deloitte - City, State
+- Implemented Scrum-based Agile software development for analyzing, designing and developing applications.
+- Coordinated application plans with development teams and designed prototypes.
+- Designed and implemented low-latency, high-volume Java applications for mission-critical systems.
+- Modified existing software to correct errors, adapt to newly implemented hardware or upgrade interfaces.
+- Devised automation, backup and recovery protocols to preserve and safeguard data.
+- Obtained and evaluated information on hardware configuration costs, reporting requirements and security needs.
+- Translated concepts into user flows, wireframes, mockups and prototypes to promote positive intuitive designs, site interactions and user experiences.
+- Determined job priorities for multiple projects and communicated sequencing, priorities and timelines to entire team.
+- Completed design projects to meet budget, equipment, performance and legal requirements.
+- Kept detailed documentation on test plans, procedures and end results.
+- Troubleshot, tested and remedied issues before software deployment.
+- Designed visual and graphic images to use on multiple platforms.
+- Built layouts according to customer parameters using HTML5 and CSS3.
+- Created web models or prototypes using physical, interface, logical and data models.
+- Designed, built and maintained websites using authoring or scripting languages, content creation tools and digital media.
+- Leveraged expertise in user preferences and accessibility requirements to establish design specifications and optimize approaches.
+- Coordinated production across stages from concept and design development through final testing and optimization.
+- Created and improved visual designs to catapult websites forward in terms of looks and usability.
+- Created integrated strategies for educational, organizational and business websites.
+
+Education and Training
+
+Master of Science: Information Technology, 01/2017 Kent State University - Kent, OH
+
+Languages
+
+English:
+Negotiated:
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

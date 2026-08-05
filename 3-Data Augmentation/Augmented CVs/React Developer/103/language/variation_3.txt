@@ -1,0 +1,112 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+Direct Salesforce Developer with an in-depth understanding of Salesforce and its opportunities. Exceptional
+coding talents with proficiency in various coding languages, including Apex Javascript and java. Adept at
+creating cloud-based applications and analyzing company processes. System coding Web services
+
+- Teamwork and Collaboration e Lightning Development Salesforce Lightning
+
+- Programming Languages: Java, C#, Net, Python Design System, Lightning Components, Aura
+
+- Project Management Framework, JavaScript Controllers, Server-Side
+
+- Software Documentation Control Controllers
+
+- Cloud Computing Salesforce.com CRM, Sales ¢ Salesforce Tools Eclipse, Force.com IDE, Apex Cloud, Service Cloud, Visualforce, Apex, Data Loader Salesforce configuration and customization ¢ Software Testing and Validation
+
+- SFDC Technologies Apex Language. Apex e¢ Performance Evaluation and Optimization Classes, Apex Triggers, SOQL, SOSL, e« Code and Quality Standards
+
+Visualforce (Pages, Components, Controllers), Apex Web Services, Workflow & Approvals, Dashboards, Reports, Analytic Snapshots,
+Custom Objects, Lightning
+
+SALESFORCE DEVELOPER 09/2017 to CURRENT Wells Fargo Bank | Boise, ID
+
+.
+- Over 5 years of IT experience in Salesforce.com CRM platform, functioning as a Salesforce Developer, and Administrator, with hands on experience in SFDC implementations using Sales Cloud and Service Cloud.
+- Experienced in all phases of Software Development Life Cycle (SDLC), quality management systems and project life cycle processes.
+- Strong experience in administration, configuration, implementation, lightning, and support experience with Salesforce platform.
+- Expert in SFDC Administrative skills like creating Profiles, Roles, Users, Relationships, Page Layouts, Email Services, Approvals, Workflows, Reports, Dashboards, Tasks and Events.
+- Expertise in SFDC Development using Lightning Application, Apex Language, Visualforce Pages, Classes, Controllers, Triggers, Indexes, Locks Web Services, Components, Tabs, Apex Web services, Custom Objects, Reports, Analytic Snapshots and Dashboards, Profiles, Creating Roles, Page Layouts. Org - Wide default, Sharing rules, Workflows.
+- Excelled in working with various Salesforce.com standard objects like Accounts, Contacts, Opportunities, Products and Price books, Cases, Leads, Campaigns, Forecasting, Reports and Dashboards.
+- Good experience in creating many Lightning Components and server-side controllers to meet the business requirements.
+- Experienced in migrating the standard and custom objects in standard experience to lightning experience.
+- Extensive experience in building reusable Ul components and pages with Lightning component framework.
+- Experience working on Salesforce’ Platform to build Mobile App by enabling Lightning Components for use in Salesforce1 mobile platform to make Lightning Application mobile.
+- Experience in retrieving some data and its functionality from Third-Party API's and displayed within the lightning component.
+- Experienced on Lightning, which includes the Lightning Component Framework and also involved in building Lightning component using the aura framework.
+- Strong experience in Salesforce Lightning components, Governor limits design and designing compact layouts using Apex Triggers, Page layouts, Visualforce pages, Workflows for mobile platform.
+- Good experience in analyzing organization processes, converting business workflows into exact SFDC workflows and configuring SFDC to meet business requirements.
+- Expertise in Visualforce Pages development, Apex Controllers development, Apex Schedulers development, Batch Apex development, Ajax Toolkit implementation, Test Methods development. Trigger’s development, SFDC complex reporting using Google Visualization/Apex Charts.
+- Experience in integrating external web systems with salesforce using REST and SOAP web services.
+- Experience with data migration and updates through the tool Apex Data Loader in Salesforce.com. +» Deployment experience using Force.com IDE and change sets as well as hands on Sandbox management experience.
+- Ability to perform tasks related to day-to-day operations including managing users, creating and maintaining custom objects and fields, handling data migration and application maintenance.
+- Excellent communication and inter-personal skills, technical documentation and reporting skills, accustomed to working in both large and small team environments.
+- An insightful decision maker who makes the right judgements and changes the consensus to get high- quality results.
+- Focus on methodologies to enhance Salesforce administration performance.
+
+SACEFORCE ADMINSTRAOTR/DEVELOPER PROGRAMMER O6/XXX1 to OO/XXX4 Medical Soulution | City, STATE
+
+- Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
+
+- Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.
+
+- Followed standard precautions using personal protective equipment.
+
+- Participated in team development of divisional standards for technology use.
+
+- + Used Agile Scrum methodology to reach our business team goal by gathering day-to-day requirements and building them using Force.com platform.
+- Involved in analyzing the requirements, preparing the design documents based on the specifications and configuring and maintaining the application.
+- Worked on various standard objects including Accounts, Contacts, Cases, Reports and Dashboards.
+- Managed Salesforce application user profiles, roles, permissions, generating security tokens, validation rules.
+- Designed, implemented and deployed the Custom objects, Page layouts, Custom tabs, Components to suit to the needs of the application.
+- Defined Lookups and Master-Detail relationships on the object s. And also created junction objects to establish many-to-many relationships among objects.
+- Created Workflow rules and defined related tasks, time-triggered tasks, email alerts and field updates to implement business logic.
+- Wrote various queries in generating reports using combination of custom objects and standard objects.
+- Integrated Salesforce.com with external systems using Salesforce Partner Web Services for approval and custom workflow solution.
+- Worked with Force.com developer toolkit including Visualforce pages, Apex classes, Apex controllers and Apex triggers to develop custom business logic. +» Used Data Loader for insert, update, and bulk import or export of data from Salesforce.com Objects and to read, extract, and load data from comma separated value files.
+- Used the Sandbox for development and testing and migrated the code to the deployment in- stance after unit testing.
+- Performed administration tasks as needed, managing custom fields, Integration and data clean-up. +» Developed enrolment console and integrated it with Salesforce.com with using the Force.com, REST based web services API.
+- Worked with SOQL & SOSL queries with Governor Limitations to store and download the data from Salesforce.com platform database. Environment: Salesforce.com, Apex Language, Visualforce, Apex Classes, Triggers, Controller, SOQL, SOSL, REST, Force.com Developer Toolkit, Data Loader, Accounts, Contacts, Cases, Reports and Dashboards
+
+SACES ADMINISTRATIVE 04/2013 to 01/2015 Bob Discount Furniture | City, STATE
+
+.
+- Improved office operations by automating client correspondence, record tracking and data communications.
+- Managed supervisor itinerary and appointments and streamlined scheduling procedures.
+- Directed [Area of expertise] across [Number] departments.
+- Meeting or exceeding sales goals.
+- Negotiating all contracts with prospective clients.
+- Helping determine pricing schedules for quotes, promotions, and negotiations.
+- Preparing weekly and monthly reports.
+- Giving sales presentations to a range of prospective clients.
+- Coordinating sales efforts with marketing programs.
+- Understanding and promoting company programs.
+- Obtaining deposits and balance of payment from clients.
+- Preparing and submitting sales contracts for orders.
+- Visiting clients and potential clients to evaluate needs or promote products and services.
+- Maintaining client records.
+- Answering client questions about credit terms, products, prices and availability.
+- Identified sales opportunities and acted on leads +» Made outbound calls to prospective customers see less
+
+Bachelor of Science | Digital Media 06/2008 University of Mayland, College Park, MD
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

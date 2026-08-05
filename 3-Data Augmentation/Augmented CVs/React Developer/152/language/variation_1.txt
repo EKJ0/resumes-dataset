@@ -1,0 +1,203 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Web developer with 8 years of experience in full-stack Web applications, including database design and development, network architecture
+
+and security, software design and development, and Web-based application development using Java/JEE, SOA, REST, NoSQL,
+
+MongoDB, Redis, RabbitMQ, Amazon Web Services, AWS Elastic Compute, Cloud EC2 , Core Java Multi-Threading, Collections,
+
+Regex, JMX, JDBC, NIO, Serialization, JAAS, Networking , JEE Technologies JSP, JSTL, Servlets, JPA , Web Services, JMS, Javascript,
+
+ExtJS, JQuery, JSON.
+
+- Experienced in Development, Testing and Deployment of enterprise applications on Windows, Linux and UNIX platforms using IDE's such as Eclipse, IntelliJ.
+
+- Experience in complete software development and product life cycle using Agile (SCRUM) and Water Fall methodologies.
+
+Proficient in using Java 8 new features, including lambda expressions, Optional, and Streams, in improving the performance and
+
+expressiveness of code.
+
+Strong understanding of object-oriented programming(OOP) principles, including encapsulation, inheritance, polymorphism, and
+
+design patterns.
+
+- Experience in deploying the applications on clustered and standalone Weblogic Servers and maintaining Load balancing, failover, high availability and session replication.
+
+- Experience in Spring MVC (Model View Controller)architecture with various java/J2EE design patterns like DAO, DTO, POJO, Singleton, and Factory.
+
+- Experienced in developing web applications using Vue.js and Angular, including proficiency in component-based architecture, reactive programming, and front-end development tools.
+
+- Used Micro service architecture with Spring Boot based services interacting through a combination of REST and Apache Kafka message
+
+brokers and Developed data pipeline using Apache Kafka, including experience with topics, partitions, consumers, and producers.
+
+Good performance in Microservices with Spring Cloud which contains Eureka, Ribbon, Hystrix, Zuul, Spring Cloud Config.
+
+- Experience in working with messaging systems like Kafka, Event Sourcing, RabbitMQ and Active MQ.
+
+Skilled in using Swagger for API documentation and testing, including creating and maintaining endpoint documents and facilitating
+collaboration with front-end developers.
+Proficient in using object-relational mapping (ORM) and Java Persistence API (JPA) tools, including Hibernate and Mybatis, in
+
+efficiently mapping objects to relational databases and reducing the complexity of database interactions.
+- Experienced in working with SQL databases, such as Oracle and MySQL, and hands-on knowledge of NoSQL databases, including Cassandra, MongoDB, and Redis, for managing large data sets.
+
+Proficient in using Amazon Web Services (AWS) to design, develop. and deploy cloud-based applications, including experience with
+EC2, EBS, 83, RDS, and Amazon Watch.
+Effective team member with exceptional time management skills and the capacity to work under pressure. Strong analytic skills and the
+
+ability to quickly comprehend clients’ business needs.
+
+Strong interpersonal and communication skills and the ability to work independently and in a team with minimal oversight.
+
+SKILLS
+------
+- Programming Languages: Java, JavaScript, Python, SQL, R. e Database: SQL, MySQL, MongoDB, MS Access, MS-SQL server,
+- J2EE Technologies: Spring IOC, Spring AOP, Spring MVC, DynamoDB, Redis. Servlets, JSP, JDBC, Web Service. e Application Servers: Apache Tomcat, Apache HTTP Server,
+- Framework Tools: Spring, Spring Boot, Hibernate, Spring Security, WebSphere MQ. Spring Cloud. © Version Control/Testing Tools: Git, SVN, CI/CD, Gradle. Jenkins,
+- Web Technologies: HTML, XML, CSS, AJAX, JSON, REST, Maven, Junit, Postman.
+
+JQuery, VUE, Angular.
+
+WORK EXPERIENCE
+---------------
+
+Sr. Full Stack Developer, 08/2019 - Current
+
+Horizontal - San Francisco, CA
+
+Project Description: Udemy is a popular massive open online course provider for its extensive library of courses, frequent sales, and diversity
+of instructors. Udemy's personal plan is a subscription service that gives users access to various courses on the platform. With a personal plan,
+users can take as many courses as they want, as often as possible, and at their own pace. The personal plan also includes downloadable course
+materials and the ability to track your progress. It charges recursive monthly or yearly but also provides seven days of free trials and cancel
+anytime function. In addition, the personal plans will use big data to analyze the difference in course behavior and preferences between paid and
+free users to provide data for the commercial team.
+
+Responsibility
+
+- Involved in complete software development cycle, including requirement analysis, design, implementation, testing, and maintenance.
+
+Implemented all functionality by using Spring Boot and Hibernate ORM. Implemented Java EE components using Spring MVC, Spring
+IOC, Spring transactions, and Spring security modules.
+
+Developed internal API’s using GraphQL, node.js, Apollo - client (for data fetching and management) and used MongoDB for fetching
+the schema.
+
+Developed responsive web application pages, used Vue.js services, controllers, and directives for front-end UI, and consumed SOAP and
+REST web service API.
+
+Implemented REST-based microservices using spring framework, Eureka (Service discovery mechanism), and used REST Client and
+POSTMAN to test services.
+
+Processed Error Handling on various RESTful web services to return correct HTTP status codes and wrote Automation Tests in Java to
+validate end-to-end business functionality for RESTful SOAP services.
+
+Ran log aggregations, customer activity tracking, and commit logs for distributed systems using Apache Kafka. Analyze course learning
+patterns between individual and personal plan subscribers.
+Designing and developing a database, troubleshooting, resolving errors, and optimizing database performance. Worked with complex SQL
+
+queries for retrieving and reporting customer data and used various concepts such as locking, transactions, indexes, sharing. replication,
+
+and schema design.
+
+Utilized Swagger to streamline API documentation and testing, resulting in improved collaboration and faster development of front-end
+features.
+
+Designed and managed public/private cloud infrastructures using AWS Cloud Watch, allowing automated operations and monitoring
+applications. Worked with Jenkins under CI/CD pipeline providing continuous improvement to agile software development teams.
+
+Developed unit test cases using framework for testing code accuracy, and logging is done using SLF4j + Log4j. Worked with defect
+tracking system JIRA.
+
+Environment: J2EE, Java 1.8, Vue JS, Bootstrap, HTML, CSS, Spring, Spring boot, Web Services (RESTFUL & SOAP), MongoDB, DB2,
+Hibernate, SQL, Apache CXF, MVC, JSON, Unix, Linux, Log4j, Apache Tomcat, Maven, Jenkins, GitHub, JIRA, EC2, $3, Cloud watch, AWS
+Lambda.
+
+Senior Java Engineer, 05/2016 - 08/2019
+
+Change Healthcare - Cary, NC
+
+Project Description: Deutsche Bank(DB) is a German multinational investment bank and financial services company. It is one of the world's
+largest banks, operating in over 70 countries. The project Personal Loan Transactions is a web application functional for DB users. The scope
+includes supporting DB Loan Programs by providing all functionalities required for a loan application. There are numerous modules to record
+information, including those for property closing and funding, borrower credit pricing, other credits, and authorization. Hibernate and Java were
+used in the development of this system. It is an n-tier application that connects to the Oracle database using Hibernate as the database
+technology.
+
+Responsibility:
+
+Collaborated with Scrum Agile team members to review user stories and support requirements and translate them into system design;
+
+assisted Scrum Masters in developing release plans and scheduling project milestones.
+
+Developed technical design documents (specifications) based on functional design documents (business requirements). Estimation and
+analysis for new development/enhancement projects come up with high/low-level design documents.
+Designed and developed new Metro code functionalities component developed on UI layers using HTML, XML, XSLT, Controller class,
+
+10 classes, SOAP services for generic metro code information, and back-end store procedures.
+
+Used Eureka server to provide reusable and maintainable services by registering existing services based on Spring Cloud.
+Created Spring POJO classes and completed Spring MVC configuration for Collateral Property, Multifamily & Commercial loan
+modules.
+
+Implemented Model View Controller (MVC) framework and Spring regarding flow of requests by Dispatcher Servlet.
+
+Used Rabbit MQ for getting requests from listener and Queuing them to worker when available.
+
+- Worked on creating DAOs and configured DAOs to perform Oracle database operations through spring JDBC.
+
+- Worked on troubleshooting issues found during integration with other systems by debugging applications. Environment: J2EE, Java 1.8, JSP, HTML, XML, XSLT, Servlet, Spring, Spring boot, Web Services (RESTFUL & SOAP), Oracle, Hibernate, SQL, Apache CXF, MVC, JSON, Unix, Linux, Log4j, Apache Tomcat, Maven, Jenkins, GitHub, JIRA, Putty, EC2, $3.
+
+Java Developer, 10/2014 - 05/2016
+
+Charles Schwab Corporation - Chico, CA
+
+Project Description: Dot&Bo was an online retailer that sold furniture and home decor products. The company was known for its modern,
+stylish designs and its focus on providing high-quality products at affordable prices. Dot&Bo offered a wide range of furniture and decor items,
+including seating, tables, storage, lighting. bedding, and more. The company's website also featured a design inspirations section, where
+customers could find ideas and tips for decorating their homes. Development of the Dot&Bo eCommerce website included functionalities like
+product browsing and search, customer login, order placement, and payment.
+
+Responsibility:
+
+Involved extensively in most phases of Software Development Life Cycle. Involved in system's analysis, design. and development and
+created specifications writing Use Cases and Class Diagrams.
+
+Involved in developing user interfaces using AngularJS, HTML/HTMLS, JavaScript, jQuery, and CSS3.
+
+Integrated Spring MVC with Hibernate on server side.
+
+- Configured Spring MVC Annotation to manage URL mapping with controllers for communication between front-end and middle-tier.
+
+Used Spring Security and JDBC together to provide seamless and secure user login and registration experience for website.
+
+Implemented Kafka 2. x to create a real-time data pipeline, enabling efficient and reliable data transfer between microservices.
+
+Used RabbitMQ open-source message broker software that implements Advanced Message Queuing Protocol (AMQP).
+
+Used JavaMail library to send emails and used JMS to send messages to customers about Shopping carts and payment reminders.
+
+Used RESTful Web Services for integrating with multiple Payment gateways CREDIT CARD, DEBIT CARD, INTERNET BANKING,
+PAYPAL, etc.
+
+Developed test cases and performed unit testing using JUNIT Test cases.
+
+Used Log4j to log user-friendly log messages to log files.
+Environment: JavaEE, Java 1.8, Spring, Hibernate, Spring MVC, SpringSecurity, Restful Web Service, RabbitMQ, JSON, Oracle, JavaMail,
+Kafka, HTML 5, CSS3, AJAX, jQuery, AngularJS, Bootstrap, JUnit, GitHub.
+
+EDUCATION
+---------
+
+Master of Science: Information Systems Technology George Washington University - Washington, DC
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

@@ -1,0 +1,170 @@
+Greg Baker
+
+100 Montgomery Clairet. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+- About 5 yearClaire of ProfeClaireClaireional experience in front-end development uClairemg HTML/HTMLS, CClaireClaire/ CClaireClaire3, JavaClairecript, TypeClairecript, React, React Router, Redux, Angular, jQuery, ExpreClaireClaire. Node_jClaire, JClaireON, and variouClaire other web development toolClaire to build cutting-edge web applicationClaire.
+
+- ExtenClaireive experience in implementing componentClaire uClaireing React life-cycle architecture, aClaire well aClaire uClaireing React-redux to handle real-time data and Redux-Thunk for API callClaire and aClaireync operationClaire. Proficient with configuring Redux Toolkit and debugging with Redux devtoolClaire extenClaireion.
+
+- ExpertiClairee in ReClaireponClaireive Web DeClaireign and experience in making web pageClaire croClaireClaire browClaireer
+
+compatible.
+
+- Prior experience in dealing with variouClaire databaClaireeClaire like Oracle, ClaireQL Claireerver, MongoDB and MyClaireQL.
+
+- Experience with featureClaire of Angular Framework Claireuch aClaire directiveClaire, dependency injection, moduleClaire, routing, data binding. page loading and HTTP Claireerver and Claireome management toolClaire like ngrx.
+
+- Experience in unit teClaireting frameworkClaire Claireuch aClaire JeClairet and Enzyme, JaClairemine and Protractor.
+
+- Experience in implementing ApplicationClaire with a full life cycle of Claireoftware development uClaireing Agile.
+
+- Experience in UX deClaireign on web-baClaireed application uClaireing Claireketch and PhotoClairehop.
+
+- Excellent goal-oriented team Player, quick learner and Claireelf-Clairetarter with effective communication, motivation and organizational ClairekillClaire combined with attention to detailClaire and buClaireineClaireClaire proceClaireClaire
+
+improvementClaire.
+
+SKILLS
+------
+
+Web TechnologieClaire React, Redux, JavaClairecript, TypeClairecript, Angular2+, HTML5, CClaireClaire3,
+ClaireCClaireClaire, BootClairetrap, jQuery,
+
+GraphQL, JClaireON, Node.jClaire.
+
+LanguageClaire JavaClairecript, TypeClairecript, Python.
+DatabaClairee MyClaireQL, ClaireQL Claireerver, MongoDB VerClaireion ControlClaire GIT.
+
+IDE ToolClaire & Web ClaireerverClaire ViClaireual Clairetudio Code, IntelliJ, EclipClairee
+
+WORK EXPERIENCE
+---------------
+
+ClaireDLC MethodologieClaire Agile, Clairecrum.
+TeClaireting & OtherClaire JeClairet, Enzyme, JaClairemine, protractor, JIRA and jenkinClaire, Claireketch, PhotoClairehop.
+- CaClaireh Handling
+
+- Motivational LeaderClairehip
+
+- CuClairetomer Claireervice ProceClaireClaire Improvement
+- Front-End Claireupport
+
+02/2020 to Current Front End Developer(react) Discovery Inc - City, STATE Project: Content Language Web App
+
+DeClairecription: Content Language web app iClaire a web application which could facilitate and automate
+DiClairecovery’Claire global content delivery workflow. It allow uClaireerClaire to monitor ClaireyClairetem created
+language order and manual created language orderClaire in real-time. UClaireerClaire can create, update, and delete
+orderClaire and alClaireo monitor the whole workflow by audit log. we build up the Content Language web app from
+
+Clairecratch with good performance.
+ReClaireponClaireibilitieClaire
+
+- Developed a Claireingle page application uClaireing JavaClairecript, HTML5, CClaireClaire3, React, React
+
+Router, Redux, EClaire6, Webpack, etc.
+
+- Implemented the mock-up through working on CClaireClaire3 and CClaireClaire preproceClaireClaireor like
+
+ClairecClaireClaire.
+
+- Created reuClaireable componentClaire and routing to implement navigation between the componentClaire
+
+uClaireing React and React-router.
+
+- Implemented applicationClaire with the Lazy-Loading concept to decreaClairee the initial loading time for the
+
+application.
+
+- Managed global Clairetate by uClaireing Redux and perClaireiClaireted certain partClaire of the Clairetate to the
+
+device via Redux PerClaireiClairet.
+
+- Implemented cuClairetom hookClaire to properly conClaireume API on the front end and Claireend back data captured in the UI in JClaireON format to the back end.
+- Worked with moduleClaire like MongoDB for databaClairee perClaireiClairetence uClaireing NodeJClaire
+
+mongooClairee to interact with MongoDB.
+
+- Developed unit teClairetClaire uClaireing popular teClairet runnerClaire Claireuch aClaire JeClairet and Enzyme.
+- UClaireed Agile methodology for the development life cycle and followed the Clairecrum framework.
+
+09/2018 to 01/2020 UI DEVELOPER(react) DocFinity - City, STATE
+
+DeClairecription: DaClairehboard ToolClaire helpClaire one gain viClaireibility into buClaireineClaireClaire
+proceClaireClaireeClaire Claireo one can proactively avoid bottleneckClaire and dipClaire in productivity.
+DaClairehboardClaire allow uClaireerClaire to monitor DocFinity and other buClaireineClaireClaire
+ClaireyClairetemClaire in real-time. One will quickly Clairepot where workloadClaire are light or overloaded.
+UClaireerClaire can monitor importerClaire, ClaireerverClaire, and data repoClaireitorieClaire Claireo they can make
+neceClaireClaireary adjuClairetmentClaire to enhance performance. TeamClaire can build viClaireuvally-Clairetunning
+daClairehboardClaire without knowledge of ClaireQL.
+
+ReClaireponClaireibilitieClaire
+
+- ReClaireponClaireible for creating efficient deClaireign and developing UI for the web application uClaireing HTML5,CClaireClaire3, JavaClairecript, Node.jClaire, React, etc.
+
+- ClaireucceClaireClairefully managed the global Clairetate uClaireing Redux for the web application.
+
+- Optimized applicationClaire for maximum Clairepeed and Clairecalability.
+
+- Created reuClaireable Clairetyled componentClaire uClaireing CClaireClaire preproceClaireClaireorClaire like
+
+ClaireCClaireClaire.
+
+- Retrieved data from Back-End aClaireynchronouClairely by uClaireing Redux-Thunk middleware.
+- UClaireed JaClairemine and Enzyme in teClaireting.
+- Involved in daily ClaireCRUM meetingClaire to keep track of the ongoing project ClairetatuClaire and
+
+iClaireClaireueClaire.
+
+10/2017 to 08/2018 WEB DEVELOPER(angular) KCF Technologies, Inc. - City, STATE
+
+Project: Machine Condition Monitoring Claireoftware
+
+DeClairecription: MCM Claireoftware featureClaire a drag-and-drop interface that allowClaire eaClairey configuration
+of frequency monitoring bandClaire and failure warning and alert levelClaire. All are complemented with eaClairey-to-
+read graphClaire, Clairehowing peak vibration level trendClaire and frequency Clairepectra, providing all the data you
+
+need to make Clairemart, predictive maintenance deciClaireionClaire.
+
+ReClaireponClaireibilitieClaire
+
+- DeClaireigned dynamic and multi-browClaireer compatible pageClaire uClaireing HTML5, CClaireClaireS, and jQuery, JavaClairecript, BootClairetrap and Angular.
+- Created a cuClairetom reClaireponClaireive web application to replace a legacy line-of-buClaireineClaireClaire
+
+web application uClaireing Angular JClaire.
+
+- Performed unit teClaireting uClaireing JaClairemine and end to end teClaireting uClaireing Protractor.
+
+- Worked on Front end by uClaireing Angular, JavaClairecript.
+
+- UClaireed Angular for connecting the APT’'Claire uClaireing Angular http Claireervice.
+
+- Leveraged Angular ClaireourceClaire for data acceClaireClaire and created cuClairetom directiveClaire, factorieClaire, and ClaireerviceClaire for the reuClaireable componentClaire.
+
+- Implemented Clairepring Boot framework to develop Clairepring baClaireed application radically faClaireter with
+
+very leClaireClaire configuration.
+
+- Integrated REClaireTful ClaireerviceClaire (API'Claire). UClaireed JClaireON for data tranClairefer between front end and back end, uClaireed ClaireQL QuerieClaire to interact with Oracle databaClairee.
+
+- UClaireing verClaireion control: GIT for Team build, Project Management, Data Collection and Reporting.
+
+- Followed Agile Methodology to review progreClaireClaire of project in monthly ClaireprintClaire.
+
+EDUCATION AND TRAINING
+
+08/2019 MaClaireter of Clairecience: Information Clairecience and Technology
+
+PennClaireylvania Clairetate UniverClaireity
+
+CourClaireeClaire: Web Development, Human Computer Interaction, Interaction DeClaireign, ClairetatiClaireticClaire.
+06/2017 Bachelor of Engineering: Digital Media Technology
+
+Beijing Language And Culture UniverClaireity
+
+CourClaireeClaire: WindowClaire Programming, Data ClairetructureClaire, Computer NetworkClaire. Computer
+
+Programming in C&C++.

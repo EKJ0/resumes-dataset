@@ -1,0 +1,182 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+SUMMARY
+-------
+
+- 7+ years of professional experience in SDLC including Requirements gathering, Analysis, Design, Development, integration and testing of appli100 Montgomery St. 10th Floortions. Three years of experience in integrating the systems using Mule ESB, API manager and IBM Message Broker.
+
+- Good experience in implementing Service Oriented Architecture (SOA) using XML Web Services (SOAP. REST, WSDL and UDD)).
+
+- Good experience in implementing MVC frameworks using Struts, spring (IOC & AOP), Hibernate for persistence, JUnit, Active MQ, Anypoint studio & RAML.
+
+- Experience in building SOA using web services with SOAP and RESTful implementation using WSDL, SOAP. JAX-WS, JAX-RS and testing using SOAP UI etc.
+
+- Good experience in Mule administration, configuration, tuning, Mulesoft MMC and enterprise release 100 Montgomery St. 10th Floorpabilities.
+
+- Good experience in Mulesoft on designing and implementing Mule APIs.
+
+- Hands on experience integrating multiple appli100 Montgomery St. 10th Floortions using Mule ESB, utilized different connectors, transformations, routing, messaging and exception handling using Mule ESB.
+
+- Experience in working with databases like oracle 10g/11i, MS SQL server and DB2 to manage tables and created views, indexes, sequences, stored-procedures, functions, and triggers for the fast retrieval and manipulation of data.
+
+- TDD (Test driven development) with JUNIT, proficient in integration testing of web appli100 Montgomery St. 10th Floortions and remote systems.
+
+- Expertise in making the continuous Integration successful using Jenkins.
+
+- Experience with build/deployment and release of the appli100 Montgomery St. 10th Floortion using Maven, Ant.
+
+Skills Protocols: HTTP/HTTPS, SMTP. FTP, SOAP. MQ, Platforms: Windows, AIX, Solaris, UNIX, Mainframes, JMS, TCP/IP. SSH, SFTP
+Linux Tools: Clear 100 Montgomery St. 10th Floorse, SVN, Middleware: Mule ESB, Anypoint platform, CloudHub, GitHub, Jenkins, bit bucket
+WAS, MQ Language: Java, SQL, MEL, XSL, UML, Shell Scrip, Python
+MULESOFT DEVELOPER 02/2020 to CURRENT
+
+Ibm Corporation | Lima, OH
+
+Responsibilities -
+
+- Participate in Requirement Gathering, analysis, design and development of project. Executed development process using Agile methodology, which included iterative appli100 Montgomery St. 10th Floortion development, monthly Sprints, stand up meetings, poker planning sessions, elaboration sessions and customer reporting.
+
+- Implement integration flows using Mule Anypoint Studio to connect to REST, SOAP service, Oracle Database, and Active MQ broker.
+
+- Design and develop enterprise services using RAML and REST based APIs and used various transformers
+in Mule ESB based on use 100 Montgomery St. 10th Floorse and had implemented the custom transformations.
+
+- Work on Mule API Gateway for appli100 Montgomery St. 10th Floortion of policies to API as well for managing security. Also worked with Proxy settings using API Gateway for API's.
+
+- Implement synchronous and Asynchronous messaging scopes using ActiveMQ in Mule.
+
+- Create Mule flows to integrate Data from various sources into Database, from ActiveMQ topics and WMQ queues, some transformations were also done at integration layer.
+
+- Create interfaces between Salesforce, REST and SOAP web-services.
+
+- Use Database Connectors to connect with respective systems using Mule ESB.
+
+- Create http inbound & outbound flows, transformers, filtering and Security of Mule Flows.
+
+- Create Request & Response transformers, Custom Components & configured them in Mule-config.xmI.
+
+- Utilize mule components that include File Transport, SMTP Transport, FTP/SFTP Transport, JDBC Connector, and Transaction Manager.
+
+- Deploy Mule ESB appli100 Montgomery St. 10th Floortions into MMC (Mule Management Console and used Munit to validate mule flows.
+
+- Part of production support 24X7.
+
+Environment: Java 1.7/1.8, Mule ESB 3.9.x, 4.10, Anypoint Studio, Mule Standalone Server, ActiveMQ,
+GitHub, Bitbucket, CXF, SOAP, REST, OAuth, Apache-Maven, FileZilla, Putty, MUnit, Salesforce, WMQ, RAML,
+JSON, JUnit
+
+MULESOFT DEVELOPER 11/2018 to 02/2020 Ibm Corporation | Lowell, MA
+
+Responsibilities:
+
+- Understand functional requirements and map them to business / functional domain and processes which includes analyzing and identifi100 Montgomery St. 10th Floortion of reusable services if already existing
+
+- Prepare techni100 Montgomery St. 10th Floor! specifi100 Montgomery St. 10th Floortion documents (TSD's) for all the services that are to be implemented.
+
+- Utilize various connectors such as Sales force, FTP. HTTP. VM, File, SMTP. SFTP. Servlet, and Database.
+- Transform message using XSLT, DataWeave, and Custom Java Transformers to transform data from one format to another format using Mule ESB.
+
+- Have written batch jobs to run at schedule times.
+
+- API Manager has been used registering, designing, building and managing APIs.
+
+- Designed and developed enterprise services using RAML and REST based APIs in Mule Soft.
+
+- Used various transformers in Mule ESB based on use 100 Montgomery St. 10th Floorse and had implemented the custom transformations.
+
+- Create new and updated existing APIs using RAML and API KIT for defining integration schematics.
+
+- Deploy appli100 Montgomery St. 10th Floortions into Mule Soft CloudHub and Mule Management Console.
+
+- Create build script using ANT to build, package, test and deploy appli100 Montgomery St. 10th Floortions in WAS server.
+
+Environment: Java, Spring Core 3.0.7, MVC, Oracle11g, JPA, Mule ESB 3.2/3.5, Hibernate3.0, SOAP. REST,
+SOA, JUnit4.9, IBM WebSphere, log4j, SQL, PL/SQL, Maven, Junit, TestNG, Unix/Linux JDBC, XML, UML,
+Eclipse.
+
+MOQENGINEER 11/2016 to 10/2018 Pfizer | South San Francisco, CA
+
+Responsibilities:
+
+- Configure Queue Managers, Queues, Channels based on integration needs.
+
+- Participate in all MQ administration, managing clusters both in GUI and command mode.
+
+- Participate in SSL Configuration on WebSphere MQ for security.
+
+- Implement publish-subscribe scenarios based on requirement.
+
+- Participate in maintaining the existing production systems.
+
+- Problem determination and troubleshooting using system, QMGR error logs and FFDC reports.
+
+- Responsible for developing procedures for logging / recovery of MQ objects.
+
+- Design and develop MQ adapters that use MQ for Java to process XML messages.
+
+- Develop Shell Scripts on various UNIX platforms for monitoring WMQ.
+
+Environment: Mule ESB, WebSphere MQ V6, DB2, Sql Server, ESQL, Java, Putty, Windows, UNIX.
+
+RUBY DEVELOPER 06/2014 to 08/2016 Horizontal | Cincinnati, OH
+
+Responsibilities:
+
+- Perform business analysis, techni100 Montgomery St. 10th Floor! analysis, systems design, appli100 Montgomery St. 10th Floortion software programming.
+
+- Communi100 Montgomery St. 10th Floorte with Apple customer to design web appli100 Montgomery St. 10th Floortion.
+
+- Design End-to-End web appli100 Montgomery St. 10th Floortion development with the Ruby on Rails.
+
+- Worked with business analysts to understand their business models and goals and help define strategy, content, and features
+
+- Implement and enhanced CRUD operations for the appli100 Montgomery St. 10th Floortions using the MVC (Model View Controller) architecture of Rails framework and Ruby conducting code reviews.
+
+- Develop consumer-based features and appli100 Montgomery St. 10th Floortions using Ruby on Rails. HTML, CSS, JavaScript, Bootstrap, AJAX JQuery, and pair-based programming.
+
+- Design PostgreSQL database model for entire appli100 Montgomery St. 10th Floortion like creating tables, views and stored procedure.
+
+- Adding of Apple Authenti100 Montgomery St. 10th Floortion and Authorization.
+
+- Collaborate and coordinated with the management and design to implement new features like internalization, web accessibility.
+
+- Used Git version control system with GitHub services.
+
+- Configure server-side to secure sensitive data using https/SSL.
+
+- Extensively involved in bug fixing, code refactoring and peer-reviews.
+
+- Support production and development on Apple server Mac environments.
+
+Environment: Rails 5.0.2, Ruby 2.4.0, HTML, CSS, Bootstrap, JavaScript, Phusion passenger, Nginx.
+
+Computational Science UNIVERSITY COLLEGE
+
+Bahelor of Science | Computer Science 04/2014 University
+
+Certifi100 Montgomery St. 10th Floortion:
+
+- Mulesoft certified developer version 4 and 3
+
+- Oracle certified Java developer version 1.6
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

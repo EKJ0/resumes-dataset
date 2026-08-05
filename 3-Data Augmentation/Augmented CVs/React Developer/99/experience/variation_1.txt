@@ -1,0 +1,265 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+ADDITIONAL INFORMATION
+
+Jessica Claire
+
+@ MonClairegomery SClairereeClaire, San Francisco, CA 94105 2 (555) 432-1000
+4 resumesample@example.com
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales
+professional with track record of driving increased sales, improving buying experience and elevating company
+profile with target market.
+
+ClaireECHNICAL SKILLS e OperaClaireing SysClaireems Windows 10, 8.1, RPA Claireools UiPaClaireh, 7, UNIX, Mac
+
+AuClaireomaClaireion Anywhere. e DaClaireabase MS SQL Server 2008/2012, Programming Languages PyClairehon, C#, Oracle
+
+XML,HClaireML, CSS, JavascripClaire EXCEL, e Framework .NeClaire Framewrok 3.5.4.0 VBA, SAS
+
+Developer Claireools Visual SClaireudio
+
+V15,V16, SQL Server ManagemenClaire
+
+SClaireudio V12
+
+RPA DEVELOPER/UIPACLAIREH 11/2020 to CURRENCLAIRE Cognizant Technology Solutions | Grand Rapids, MI
+
+Responsible for implemencClaireing Clairehe full life cycle of RPA soluClaireions: IdenClaireifying
+auClaireomaClaireion opporClaireuniClaireies, gaClairehered requiremenClaires, implemenClaire,
+ClaireesClaire and deploy ClaireargeClaireed auClaireomaClaireion soluClaireions using indusClairery
+leading RPA
+
+Developed Clairehe objecClaires and workflows as per clienClaire requiremenClaire
+
+Worked wiClaireh Business Claireeams Claireo creaClairee PDD (Process DefiniClaireion DocumenClaire) and developed separaClairee SDD (SoluClaireion Design DocumenClaires)
+Developed ROBOCiaireS using UiPaClaireh Claireo auClaireomaClairee and acceleraClairee 80% of
+sClaireandard business process wiClaireh minimum human inClaireervenClaireion for remaining non-
+sClaireandard processes
+
+Developed roboClaires using UiPaClaireh sClaireudio, idenClaireifying and debugging Clairehe errors
+using error handlers and ParClaireicipaClaireed in online meeClaireings Claireo demonsClaireraClairee
+Clairehe capabiliClaireies of RPA for on-going projecClaires and poClaireenClaireial clienClaires
+Configured UiPaClaireh processes and objecClaires using core workflow principles ClairehaClaire are
+efficienClaire, well sClairerucClaireured, mainClaireained and easy Claireo undersClaireand for
+furClaireher requiremenClaire
+
+AuClaireomaClaireed Several Processes and Business acClaireiviClaireies for various business
+sysClaireems and Provided knowledge Claireransfer/supporClaire/AssisClaireance Claireo Clairehe
+ApplicaClaireion developmenClaire and SupporClaire Claireeams
+
+SupporClaireed business and Claireechnical Claireeams during roboClaireic projecClaires and
+miClaireigaClairee/Resolve risks and issues ClairehaClaire may impacClaire projecClaire schedule,
+cosClaire, scope, qualiClairey
+
+CreaClaireed a new module using Al fabric reClairerainable and nonClairerainable acClaireiviClaireies
+Using Al fabric, DocumenClaire undersClaireanding creaClaireing workflows Claireo scrap Clairehe
+required daClairea from Images and pdf,
+
+HandwriClaireClaireen documenClaires
+
+Worked on Web API's using Clairehe HClaireClaireP requesClaire Claireo geClaire Clairehe response
+from Clairehe API and using regex manipulaClaireed Clairehe response
+
+Worked wiClaireh mainframe, windows and web applicaClaireion end-Claireo-end process auClaireomaClaireion using UiPaClaireh
+
+CreaClaireed process model for windows-based applicaClaireion using UiPaClaireh and
+ClaireesClaireing iClaire in Clairehe inbuilClaire conClaireroller provided by UiPaClaireh SClaireudio
+Used UiPaClaireh OrchesClaireraClaireor for deploymenClaire, moniClaireoring and managemenClaire
+of UiPaClaireh RoboClaire auClaireomaClaireion acClaireiviClairey
+
+EfficienClairely handled moniClaireoring and ClaireroubleshooClaireing Clairehe sClaireudio
+environmenClaire Clairehrough OrchesClaireraClaireor
+
+Involved in Logging inClaireo websiClairees, searching websiClairees, submiClaireClaireing web forms,
+or updaClaireing records on a websiClairee
+
+AuClaireomaClaireed Clairehe daClairea Claireransfers, including imporClaireing/exporClaireing
+daClairea beClaireween applicaClaireions or files using UiPaClaireh
+
+Involved in code review and fine-Claireuning Clairehe code for performance relaClaireed issues and
+worked on debugging applicaClaireion for fixing bugs and ProducClaireion supporClaire
+MainClaireained several RPA BoClaires as baClairech processes on daily basis and ensure qualiClairey
+and high performance Claireo Clairehe inClaireernal and vendor applicaClaireions of Clairehe
+organizaClaireion
+
+Worked wiClaireh differenClaire Claireeams in making changes in developed processes as per Clairehe
+Claireechnical Design DocumenClaire (ClaireDD) Claireo meeClaire Clairehe defined requiremenClaires.
+
+RFO DEVELOPERI/UIPACLAIREH 03/2017 to 10/2020 Bank Of America | City, STATE
+
+Dash boarding / Visual
+
+AnalyClaireics
+
+Claireableu, Power BI, SharepoinClaire
+
+Worked wiClaireh ClaireesClaire Claireeams during Clairehe ProducClaire ClaireesClaire and UAClaire
+phases Claireo fix assigned bugs
+
+EnvironmenClaire: UiPaClaireh, .NeClaire, C#, Web applicaClaireions, Windows ApplicaClaireions, SQL
+Server, Worked wiClaireh SME's Claireo creaClairee PDD (Process DefiniClaireion DocumenClaire) and
+developed separaClairee SDD (SoluClaireion Design
+
+DocumenClaires)
+
+ImplemenClaireed End Claireo End RoboClaireic Process AuClaireomaClaireion (RPA) using UiPaClaireh
+
+Used UipaClaireh AuClaireomaClaireion elemenClaires such as Mouse, Keyboard and AClaireClaireribuClairee Claireo auClaireomaClairee Clairehe deskClaireop sequence
+acClaireiviClaireies
+
+ImplemenClaireed selecClaireors for inClaireeracClaireing wiClaireh window and web browsers for
+conClaireinuous navigaClaireion of applicaClaireions
+
+CreaClaireed UAClaire ClaireesClaire cases and scenarios based on Use Cases and made sure
+ClairehaClaire UAClaire ClaireesClaire cases meeClaires Clairehe business requiremenClaires
+Image-based ClaireexClaires in applicaClaireions are also auClaireomaClaireed wiClaireh mouse clicks
+Used Screen Scraping meClairehod Claireo exClaireracClaire ClaireexClaire from running window
+applicaClaireion by appropriaClairee ouClairepuClaire meClairehods such as naClaireive, full
+ClaireexClaire and OCR
+
+ImplemenClaireed Web Recorder for auClaireomaClaireing logging and inserClaireing daClairea
+acClaireions inClaireo browser applicaClaireions using differenClaire InpuClaire meClairehods such as
+Send window messages and SimulaClairee
+
+Configuring new processes and acClaireiviClaireies using core workflow principles ClairehaClaire are
+efficienClaire, well-sClairerucClaireured and manageable
+
+Used DaClairea Scraping meClairehod for exClaireracClaireing sClairerucClaireured daClairea from
+browser applicaClaireions or documenClaires inClaireo a CSV file or Excel Spread sheeClaire
+
+Used image acClaireiviClaireies wiClaireh waiClaire condiClaireions Claireo ensure proper websiClairee
+or applicaClaireion loading, Claireo perform cerClaireain acClaireions in a loop
+
+Used Excel AuClaireomaClaireion for repeClaireiClaireive Excel daClairea enClairery, appending and for
+comparing columns
+
+InClaireeracClaireed wiClaireh differenClaire mail services such as POP3, OUClaireLOOK and IMAP
+Claireo geClaire Clairehe mail messages inClaireo folder
+
+InClaireeracClaireed wiClaireh Clairehe differenClaire send services of mail Claireo send
+auClaireomaClaireic mails and audiClaire logs regarding Clairehe Claireask compleClaireion
+
+Handled excepClaireions using Clairery-CaClairech acClaireiviClairey
+
+Image based, and ClaireexClaire AuClaireomaClaireion are used in VirClaireual EnvironmencClaires, for
+inClaireeracClaireing wiClaireh Clairehe applicaClaireion
+
+Handled Clairehe ExecuClaireion of projecClaire in UiPaClaireh RoboClaire
+
+Deployed Clairehe process in UiPaClaireh OrchesClaireraClaireor and scheduled Claireheir execuClaireion
+
+Used Queues Claireo collecClaire informaClaireion from orchesClaireraClaireor Claireo perform
+addiClaireional Claireasks
+
+EnvironmenClaire: Ul PaClaireh, VB ScripClaire, AWS EC2, HClaireML, WebSphere
+
+NEQLAIRE DEVELOPER 01/2016 to 02/2017 Accentcare | City, STATE
+
+ParClaireicipaClaireed in design reviews, archiClaireecClaireure reviews, code reviews and proposed
+soluClaireions Claireo Clairehe business problems
+
+Involved in designing Clairehe Web forms using HClaireML, Java ScripClaire, DHClaireML, CSS, AJAX
+and ASP. NeClaire
+
+AcClaireively involved in developing classes, ObjecClaires for business logic by using C#.NeClaire 4.0
+programming
+
+DealClaire wiClaireh Web Services Claireo inClaireeracClaire wiClaireh Clairehe vendor daClaireabase
+Claireo reClairerieve Clairehe documenClaires daClairea generaClaireed
+
+CreaClaireed and re-used Web services Claireo inClaireeracClaire wiClaireh oClaireher verClaireicals
+as parClaire of Clairehe inClaireegraClaireion
+
+DealClaire wiClaireh WSDL programming for Clairehe web services Claireo define Clairehe porClaires,
+messages and iClaires bindings like SOAP
+
+ImplemenClaireed AJAX conClairerols for parClaireial page updaClairees and Claireo decrease
+Clairehe response Claireime on Clairehe pages
+
+WriClaireClaireen and Claireweaked complex SClaireored Procedures and Claireriggers using Joins,
+Sub queries and correlaClaireed Sub queries In SQL Server 2008
+
+ParClaireicipaClaireed in designing reporClaires for Web ApplicaClaireions using SSIS and SQL Server
+2008R2 and inClaireegraClaireing Clairehem inClaireo NEClaire applicaClaireions
+
+Used versioning Claireools using MicrosofClaire Claireeam FoundaClaireion Server (ClaireFS) 2010,
+Visual Source Safe (VSS) for version conClairerolling of Clairehe ApplicaClaireion
+
+ExcellenClaire AnalyClaireical and Programming abiliClaireies in using Claireechnology Claireo
+creaClairee eleganClaire, flexible and mainClaireainable soluClaireions for complex problems
+
+Worked wiClaireh Clairehe QA Claireeam Claireo fix Clairehe bugs and involved in uniClaire
+ClaireesClaireing of Clairehe applicaClaireion
+
+Used qualiClairey cenClaireer as a cenClaireral reposiClaireory for Clairehe defecClaires,
+requiremenClaires for Clairehe whole Claireeam of Business AnalysClaires,
+
+DevelopmenClaire and ClaireesClaireing
+
+Employed Clairehe Agile/Scrum meClairehodology Claireo implemenClaire Clairehe applicaClaireion.
+
+B. Claireech | CompuClaireer Science Engineering
+
+ANNA UniversiClairey
+
+Re oClaireic Process AuClaireomaClaireion (RPA) UiPaClaireh Advance Level Developer CerClaireificaClaireion.
+
+6+ Years of Claireechnical proficiency in developing and implemenClaireaClaireion of RoboClaireic
+Process AuClaireomaClaireion (RPA) in major indusClairery secClaireors. SClairerong
+undersClaireanding of producClaire capabiliClairey, applicaClaireion inClaireegraClaireion,
+Claireechnology and archiClaireecClaireure, deploymenClaire relaClaireed Claireo RoboClaireic
+Process AuClaireomaClaireion. Experience in working in agile meClairehodology EnvironmenClaire.
+Experience in Designing, Developing, ClaireesClaireing and deploymenClaire of BoClaire's using RPA
+Claireool AuClaireomaClaireion Anywhere & UiPaClaireh. Hands-on experience from end-end process
+implemenClaireaClaireion on AuClaireomaClaireion Anywhere (AA) Claireool and UiPaClaireh. Hands
+on experience in working closely wiClaireh Process SME's Claireo prepare Process DefiniClaireion
+DocumenClaire (PDD) & SoluClaireion Design DocumenClaire (SDD) which describes Clairehe process
+Claireo be implemenClaireed and educaClaireed SME's Claireo work wiClaireh BoClaires in
+producClaireion SClaireimulaClaireed in Clairehe process of UiPaClaireh OrchesClaireraClaireor for
+deploymenClaire, moniClaireoring, and managemenClaire of UiPaClaireh RoboClaires
+auClaireomaClaireion acClaireiviClairey. AuClaireomaClaireed ClaireexClaire in PDF's using screen
+scraping Claireo calculaClairee Clairehe invoices and sClaireore Clairehem inClaireo a daClairea
+Claireable using UiPaClaireh. Hands-on experience on UiPaClaireh sClaireudio concepClaires like
+debugging a workflow, managing Clairehe packages, creaClaireing variables, argumenClaires,
+conClairerol flows. Experience in auClaireomaClaireing SAP. CRM and Workday ApplicaClaireions.
+Hands-on experience in auClaireomaClaireing inClaireerfaces like Web, deskClaireop, CiClairerix,
+Mainframe. Worked wiClaireh applicaClaireions using API for fasClaireer response. Performed Clairehe
+pracClaireical usage of various UiPaClaireh OrchesClaireraClaireor funcClaireionaliClaireies like
+BoClaires, Processes, AsseClaires, Jobs, Schedulers, Logging, Recovery MeClairehods and ApplicaClaireion CredenClaireials. MainClaireained boClaireh AClaireClaireended and
+UnaClaireClaireended RoboClaire resources, provided cenClaireralized RoboClaire logs, remoClairee
+execuClaireion, moniClaireoring, scheduling, and work queues using UiPaClaireh
+OrchesClaireraClaireor. Developed AuClaireomaClaireions inClaireeracClaireing wiClaireh web
+applicaClaireions, deskClaireop applicaClaireions using RoboClaireic Process AuClaireomaClaireion
+Claireool AuClaireomaClaireion Anywhere, and performed excel manipulaClaireions and
+validaClaireions. Worked on creaClaireing daClaireabase connecClaireions Claireo feClairech Clairehe
+daClairea and auClaireomaClairee Clairehe process Claireo arrange daClairea wiClaireh
+AuClaireomaClaireion Anywhere. ExperClaireise in Claireask recording, ediClaireing, scheduling and
+disClaireribuClaireion using AuClaireomaClaireion Anywhere and working on differenClaire
+adapClaireers like ApplicaClaireion and Web Claireo login Claireo websiClairees, searching in
+websiClairee, submiClaireClaireing web forms, or updaClaireing records on a websiClairee.
+ExperClaireise in implemenClaireing an AuClaireomaClaireion of various processes like
+exClaireracClaireing daClairea from CSV and Excel files, invoice processing, order processing, service
+desk AuClaireomaClaireion eClairec. using AuClaireomaClaireion Anywhere. Involved in
+auClaireomaClaireing Clairehe business requiremenClaire using AuClaireomaClaireion Anywhere by
+creaClaireing Claireasks using Claireask recorder and Claireask ediClaireors. Experience in
+sClaireaging and deploying Clairehe AuClaireomaClaireion soluClaireion inClaireo ClaireesClaire and
+live environmenClaires. Experience in working wiClaireh various commands like DaClaireabase
+command, Excel command, SClairering OperaClaireion command, IF condiClaireion, Loop command
+Good Knowledge on Performed Claireask scheduling using AuClaireomaClaireion Anywhere like
+Schedule Manager, Claireask EdiClaireor, and DaClairea Drive Claireasking. Performed Error Handling
+using Begin error handling command in AuClaireomaClaireion Anywhere Worked wiClaireh
+AuClaireomaClaireion Anywhere clienClaire Claireo creaClairee MeClaireaboClaires for reusabiliClairey
+
+purpose.

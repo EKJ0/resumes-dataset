@@ -1,0 +1,296 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+TRAINING
+
+WEBSITES, PORTFOLIOS, PROFILES
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor es (555) 432-1000 a4 resumesample@example.com
+
+Around 4 Years of IT professional experience with full project lifecycle development in Java and Web technologies,
+Requirements analysis, and Design, Development, Testing, Deployment and production support of software applications.
+Strong domain knowledge of Insurance, Finance and e Commerce.
+
+Working knowledge in Core Java and J2EE platform with Servlets, JSP, JDBC, Multithreading, Hibernate, Spring MVC,
+Spring Boot.
+
+Having experience working with database technologies like My SQL, Oracle, MS SQL Server.
+
+Experienced working on different layers of Spring MVC architecture such as Spring-Controller, service and repository
+classes.
+
+Good experience working on Hibernate Beans & HOL to map to tables and retrieve data from the database.
+
+Proficient at designing dynamic web applications using HTML5, CSS3, Bootstrap, JavaScript, AJAX, JSON, and Angular JS.
+Good knowledge in developing Single Page Applications(SPA) using JavaScript MVC frameworks such as Angular JS.
+Skilled at creating Controllers, Services etc. using Angular JS.
+
+Worked upon Services, Components and Routing in Angular 2.
+
+Experienced in design, development of web-based applications using servers such as Apache Tomcat 8.0 and JBOSS 10.x.
+Expertise in developing SOAP, RESTful Web services and APIs with JSON and XML.
+
+Skillful in handling unit testing using Junit along with Test-Driven Development (TDD) methodology.
+
+Experienced working in Agile-based SDLC environment and participating in different Scrum sessions.
+
+Expert in version control tools like GIT and SVN; build tools like Maven and Gradle; continuous integration tools like
+Jenkins, and issue-tracking platform like JIRA.
+
+Extensive experience in using various design patterns such as MVC (Model-View-Controller), Singleton, Session Facade,
+DAO, DTO, and Business Delegate in the development of Multi-Tier distributed Enterprise Applications.
+
+Implemented SOA architecture with web services using REST, SOAP, WSDL, UDDI and XML.
+
+Extensive experience in various agile methodologies like Test Driven Development (TDD),BDD and SCRUM.
+
+Experience in utilizing with JS library and designing dynamic and browser compatible pages using Jquery, JavaScript and
+Angular.
+
+Soe in developing HTML and JavaScript for client side presentation and, data validation within the forms.
+Experience working with Oracle coherence for Sharing and Managing data in a cluster using Java collection classes.
+Experience in using Log4J, Version Control using SVN, TFS, GIT and CVS
+
+Extensive experience in coding using SQL, PL/SQL, Procedures/Functions, Triggers and Packages.
+
+Experience with unit testing using J unit and writing build scripts using ANT.
+
+Good knowledge on application builds and deployments using Jenkins.
+
+Extensive experience working with Continuous Integrations tools Jenkins, Bug tracking and Issue Tracking using JIRA.
+Strong Knowledge working with Non-Relational Databases like Mongo DB (No SQL).
+
+Worked on different OS like UNIX (Sun Solaris, AIX), Linux, and Windows.
+
+Good team player with ability to solve problems, organize and prioritize multiple tasks.
+
+Core Java: Java, Data Structures, Collections, Generics, Concurrency/Multithreading, RMI, PL/SQL
+
+J2EE Technologies: JSP, JMS, Java Serviets, DBC, Struts, Spring (Core, MVC, DAO, AOP, Security, Batch, Boot)
+Web Services: SOAP, Spring REST, JAX-RPC, JAX-RS, JAX- WS, Microservices
+
+HTML, DHTML, CSS, XML, XSL, XSLT, XSD, XHTML, SOAP, WSDL, JSON-parsing, JSON-DTD, Schema Modeling, JavaScript, jQuery, Ajax. Bootstrap, Angular]S
+ORM Frameworks: Hibernate, DAO, Spring JPA
+
+Design Patterns: MVC, Front Controller, Session Facade, Singleton, Business Delegate and DAO patterns
+
+Data Base: Oracle 11g/10g/9i/8i, MS SQL Server 2005/2000, MySQL5.1/4.1, DB2 9.1/8.1/7.2, Mongo DB
+
+Platforms: Windows, UNIX, LINUX
+
+Design Methodologies: Rational Unified Process, Agile, Scrum, Test Driven Development, Rapid Application
+Development Http, Oracle database, XSL Testing: JUnit, Integrated Test Cases DB2 9.1, PL/SQL, XSLT
+Application Servers: Oracle Web Logic, IBM Web Sphere, e IBM Web Sphere, Producing JBoss, and Apache Tomcat
+
+AGILE, Web Sphere, Programming
+
+Apache, WebSphere, Progress
+
+API, J2EE, QA
+
+Automation, Java, Rapid Application Development
+
+CD, Javal.8, Requirements gathering
+
+CLI, Java8, RMI
+
+Concept, Java 7.0, Router
+
+Content, JSP, Routing
+
+Controller, Java Servlets, Rational Unified Process
+
+CSS3, Java Script, SDLC
+
+CSS, JavaScript, Servers
+
+DAO, JDBC, SOAP
+
+Database, JMS, MS SQL Server Data Base, LINUX, SQL DHTML, Logic, Struts Downstream, Messaging, Tomcat
+Eclipse, Access, UNIX
+
+Features, Windows, User Interface
+Forms, 2000, Validation
+
+Frame, Modeling, View Functional, MVC, Web server HTML 5, MySQL5.1, Workflow HTMLS5, Oracle, XHTML
+
+HTML, DB, XML
+
+FULL STACK JAVA DEVELOPER 02/2020 to CURRENT Jpmorgan Chase & Co. | Nashua, NH
+
+Involved in SDLC requirements gathering, analysis, design, development and testing of application developed using AGILE
+methodology.
+
+Implementation of SOA using Web Services and MQ (with Java Messaging Service (JMS) & Taco EMS).
+
+Created continuous integration builds using Maven and Jenkins and deployed on Web Sphere application server.
+Deployed services in Spring Cloud using Pivotal Cloud Foundry with PCF CLI client.
+
+Deployed applications on multiple JBOSS Instances and maintained Load Balancing, High Availability and Fail over
+Developed the application under J2EE Architecture using Spring, Hibemate.
+
+Extensively using core java concepts like Synchronization, Collections, Multi-threading, exception handling for developing
+applications.
+
+Implemented microservices using Spring boot, and enabled discovery using Netflix eureka server.
+
+Used Spring Boot for building application with Spring initializers and bootstrapping the build configuration and develop
+custom solutions that act upon Jenkins information in authentic time.
+
+Designed and developed Micro Services to divide application into business components using Spring Boot.
+
+Worked on different module of Spring including Spring MVC, Spring ORM and Spring Boot.
+
+Extensive use of HTML5 with Angular4, JSTL, JSP and jQuery for the presentation layer along with JavaScript for client-side
+validation.
+
+Applied design patterns including MVC Pattern, Factory Design Pattern and Singleton Design Pattern.
+
+Developed REST API's using Spring MVC and Spring boot , hosted all micro services on PCF.
+
+Implemented client side functionality using HTML 5, Bootstrap, Angular 4.0.
+
+Proven ability in developing BDD scripts with Cucumber and writing step definitions for behavior.
+
+Experience in Automation testing using Selenium Web Driver, JUnit and Maven.
+
+Setup the continuous Integration (CI) and continuous Deployment (CD) process for the application using the Jenkins.
+Developed critical components of the application including Spring forms, Spring controllers, JSP views, and business logic
+and data logic components that include Hibernate Entities, Spring-Hibernate DAO and Spring models following MVC
+architecture.
+
+Consumed Web Services by implementing Spring REST support is to make the development of RESTful Web services.
+Conducted Automation testing using the Standards, guidelines and structured methodology in testing the application.
+Used Spring Core Annotations for Dependency Injection Spring DI and Spring MVC for REST API's and Spring Boot for
+micro-services.
+
+Extensively worked with Hibernate Query Language (HQL) to store and retrieve the data from Oracle database.
+
+Use GIT as a source code repository Environment: Java8/7/6, Spring4,SpringBoot, JavaScript, Angular 4.0, Hibernate, Maven,
+HTML, CSS, JMS, XML, XSLT, SOAP,TDD, Unix, Web2.0, Oracle, CI/CD, SQL, JMS, JDBC, Spring MVC, Micro Services,
+JSON.
+
+APPLICATI_IN PROGRAMMER 08/2018 to 01/2020 Jacobs Engineering Group Inc. | Labelle, FL
+
+Designed and developed the application using Java, Oracle, React Js and followed Agile Methodology, TDD and Scrum.
+Implemented J2EE patterns, Data Access Object (DAO), Session facade, Business Delegate and Value Object.
+
+Worked on Thread handling to maintain continuity of execution and extensively implemented Multithreading concept to
+handle Transaction Management with isolation and propagation levels.
+
+Writing stored procedures in Oracle and generating restful api in the backend.
+
+To establish a connection to server, SOL statements that were passed through hibernate.
+
+Designed and developed Micro Services to divide application into business components using Spring Boot.
+
+Used Web Services for sending and getting data from different applications using WSDL messages, such as task details from
+Work distribution, getting the status on the same, etc.
+
+Implemented the project using the Spring Framework used Spring IOC and Dependency Injection, Spring MVC.
+
+Used Spring Framework and created the Dependency injection for the Action classes using ApplicationContext.xaml.
+Worked on the REST Web Services and used Spring Framework and developed the Spring Features like Spring Core, Spring
+IOC, Spring AOP, Spring Data Access, and spring web test, Spring MVC, Spring DAO, and Spring Integration.
+
+Involved in designing data schema and development of SOAP web services with Axis implementation and REST web
+services with JAX-RS.
+
+Prepared Unit test case using JUnit and used Jenkins for continuous integration testing.
+
+Developed single page applications using Angular, Typescript, web pack and grunt.
+
+Used the Node Package Manager (NPM) to install libraries like angular-cli, typescript etc., which are required for developing
+an angular application in Node.
+
+Added workflow front pages and Typescript using JavaScript framework.
+
+Created tabbed interface for the Build Job Orders application using Angular 4.0, HTML and Typescript.
+
+Create JSONS, define the properties for each feed's as part of the feed ingestion process.
+
+Use GIT as a source code repository.
+
+Use Rational Team Concert for creating and deploying the Application Builds.
+
+Deploy the application into the production environment using cloud controller.
+
+Identify non production and production application issues Environment: Java1.8, Spring Core, Spring IOC, Spring MVC,
+Spring Boot, JavaScript, jQuery, JSON, SQL, Spring DAO, Angular JS, Typescript 6, Hibernate, Agile, WebSphere, Oraclellg,
+Unix, Eclipse, Maven, Jenkins, Mongo DB, Web Services, JUnit, GIT, Spyder.
+
+FULL STAC JAVA DEVELOPER 03/2017 to 08/2018 Jpmorgan Chase & Co. | Peoria, AZ
+
+Designed and developed the application using agile methodology and followed TDD, Scrum, pair programming.
+Wrote Technical design document with the class, sequence, activity diagrams in each use case.
+
+Designed dynamic and browser compatible pages using Jquery, JavaScript and Angular]S.
+
+Implemented J2EE design patterns such as Session Facade, Factory, DAO and DTO.
+
+Worked with Angular JS MVC framework including authoring complex directives, services, controllers and filters.
+Customized Angular JS filters in several locations to get the required output.
+
+Implemented Angular Controllers to maintain each view data.
+
+Utilized Angular.JS Ul-bootstrap components like time picker, directives, model pop-ups, ng-grid, router, progress bar, ng-
+Idle, ng-Upload.
+
+Implemented flexible routing and nested using Angular.JS-ui-router.
+
+Used Bootstrap and media queries to create a Responsive Webpage across different screen-sizes.
+
+Integrated the service call with Ul using $http and $resources which are substitutes for AJAX in angular.
+
+Wrote data Components for Plan Setup, wrote and called StoredProcedures using Java, HOL, Hibernate.
+
+Involved in configuring and integrating spring and Hibernate frameworks.
+
+Involved in design and implementation of MVC architecture in different modules.
+
+Responsible for writing utility classes, UI development using JSP, CSS3, HTML, JavaScript, Angular.
+
+Integrated business layer using Hibernate with Spring DAO.
+
+Used Angular JS Factories and Services to make Ajax calls or Restful Calls to get data in JSON Format.
+
+Responsible for working on consuming and producing SOA/Web Services.
+
+Designed and Developed web services using JAX-WS, SOAP, JAXB, Apache CXF.
+
+Exposing and consuming the web services to the downstream applications using Apache CXF and Apache camel.
+Used Angular JS $http, ng Resources services for accessing content from Rest web services, provided custom services to
+integrate database with view pages along with pagination, Sorting of data, deep linking (Angular JS route service).
+Implemented Angular JS Service layer with utility functions to get data from back end using Rest based service calls and
+pass back to Angular Controllers.
+
+Designing user Interface using Angular UI components such as tabs, grids, dropdowns etc.
+
+And configured the routing service using Angular-JS router.
+
+Developed REST exception handling controller advices to respond to bad requests and server side exceptions.
+Provided application support on different environments from QA to Production.
+
+Was responsible for analyzing the issues, providing technical & functional support to the users and fix them.
+Environment: J2EE/J2SE, Java 7.0, Java Script, Angular JS, Spring Frame Work, Hibernate, JDBC, JMS, Apache Axis 2.0,
+Tomcat Web server, WSDL, SOA, SOAP, XML, HTML, Log 4j, Maven.
+
+Master of Science | Computer Science 12/2015 University Of Central Missouri, Warrensburg, MO
+
+BACHELOIOF TECHNOLOGY | Computer Science 08/2014 Jawaharlal Nehru Technological University, India
+ENGINEERING, JNTU-HYD
+
+https://github.com/ClaireJessica931

@@ -1,0 +1,124 @@
+SUMMARY
+-------
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Frontend developer with over 8 years of experience in web development with expertise in React Js, Redux, Javascript, ES6, HTML, CSS,
+
+SCSS and played roles of Systems Integration Specialist Advisor, Senior Frontend Developer, Systems Engineer. Expertise in developing web
+
+applications using technologies and frameworks like React Js, redux, redux-saga, Javascript, ES6, webpack and has a good exposure to
+
+Telecom and Ecommerce domains. Highly skilled in developing responsive and multiple device compatible web applications using latest
+
+frameworks.
+
+SKILLS
+------
+- Worked in Agile and Waterfall models of development and e Languages involved in development, maintenance and support of the © Node js applications. © Databases
+- Highly motivated and possess strong technical, interpersonal and « MySQL problem-solving skills. © Operating Systems
+- Web Technologies e CentOS, Ubuntu, Windows XP, Windows 7/10/11
+- HTML, CSS, Javascript, ES6, jQuery © Cloud Platforms
+
+- Frameworks
+
+- AWS Elastic Beanstalk, EC2, $3, Twilio flex
+
+- React Js, Redux, redux-saga, Bootstrap, express Js
+
+- Tools
+
+- Git, Bitbucket, Webpack
+
+WORK EXPERIENCE
+---------------
+
+07/2021 to 01/2023
+
+06/2020 to 07/2021
+
+07/2018 to 04/2020
+
+06/2015 to 07/2018
+
+Senior Software Engineer Patron Technology - Pittsburgh, PA Project: Wind Scada NXT Client: GE Renewable Energy
+Role: UI Software Engineer - React JS Roles & Responsibilities:
+The Project scope is to migrate the existing legacy application developed in JSP to React JS. Backend in Java is
+upgraded from monolithic to rest model.
+- Involved in requirement gathering and tracking the updates on the confluence.
+- Responsible for developing the components of the application using React js and redux.
+- Writing the unit tests cases for each component using Jest framework.
+- Creating the feature files for behavior driven development model testing of the application in integrated environment.
+- Working closely with backend team to integrate the APIs and implement functionalities/features.
+- Involved in sprint meetings to track the application development status and managing the deadlines of the deliveries.
+- Reviewing the code changes and merging the code from the different developers.
+- Monitoring the builds and deployments in development environments and perform application test before moving to QA.
+
+Senior React JS Developer Factset Research Systems Inc. - Boston, MA Project: Aptive Flex Client: Bridgetree
+Role: Senior Frontend Developer - React JS Roles & Responsibilities:
+The Scope of the project is to provide customized plugins for the clients that can be integrated into their existing
+websites those can used by the End user.
+- Worked closely with business team to get the requirements, website references and analyze the designs and features to be developed.
+- Developed customized plugins including new features using HTML, CSS and React Js and Twilio console.
+- Perform R&D to find the feasible and useful frameworks that can be used to improve development process.
+- Perform unit testing of the application.
+- Build and deploy the code for QA team to test.
+- Worked with QA team to understand the issues and fix them before deploying the application in the client environment.
+- Manage code in versioning tools like GitHub and Bitbucket and track the merge requests.
+- Involved in client calls provided support when production issues were observed and resolved them.
+
+Software Engineer Two95 International Inc. - Gresham Park, GA Project 1: Extemal-Form-Widgets
+Client: GE Appliances Role: React Js Developer Roles & Responsibilities:
+The Scope of the project is to develop Customize Widgets to automate the rebill process through AWS widget form.
+- Developed frontend application using HTML, CSS, Javascript and made the application responsive and cross platform compatible.
+- Building sustainable coding that may be used in future.
+- Ensuring feasibility of UI/UX designs.
+- Enhancing performance of the main front-end website
+- Thyme leaf used to provide an elegant and well-formed way of creating templates.
+- Modifying design and specifications of complex applications.
+- Working closely with product managers to get the application reviewed for any change requests and new features to be added.
+- Maintaining and supporting the application in production environment on client request. Documenting the application features for other developers. Project 2: Forum Data Warehouse Client: GE Appliances Role: Full Stack Developer Roles & Responsibilities: The Scope of the project is to develop employee management application where client can manage personal details, create teams, Users and assign users to the specific teams. Information can be shared across different teams internally to track the activity and skill.
+- Worked with business to gather functional specifications, interface designs, change requests and feature demos.
+- Developed API’s using Node Js and utilized expressjs, express-session, express-myspl-session, MySQL, packages in node.
+- Created SQL scripts that are utilized in backend to store and fetch the data from MySQL database.
+- Designing and development of front-end application using HTML, CSS, JavaScript, React Js.
+- Development of server-side pages using PHP and utilized MySql database.
+- Documenting the application features and code flows.
+- Worked on bug fixes after QA.
+- Executing project activities as per timelines.
+- Worked on enhancements of the application. Project 3: Supplier and Buyer Collaboration Portal Client: GE Appliances Role: React Js Developer Roles & Responsibilities: The Scope of the project is to develop the 2 different Web application for the Buyer and Supplier to manage Purchase orders, advance shipment notices and generate order reports and also maintained the different type of users to use the applications depends upon the rights in GE store application.
+- Developed the new user-facing features using React Js.
+- Integrating HTMLs Provided by UI design team into react application.
+- Building reusable components and front-end libraries for future use.
+- Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
+- Modularize the application for code redundancy and re-usability.
+- Handling cross browser compatibility issues for the application.
+- Unit testing the application and integrating the react components with the application.
+
+Front-End Developer Avizwa Solutions - City, STATE Project 1: CC Credits Role: UI Developer - React JS
+Roles & Responsibilities:
+The Project scope is to develop the Web application stands as a medium between end user and the Creditor. Verify the
+documents of the logged user and provide the credit amount depends upon the user eligibility.
+- Developed the dynamic and responsive user interface using front-end technologies HTMI5, CSS3, JavaScript, React Js, jQuery.
+- Worked on the developing the REST APIs for the application using NodeJS and Express Js.
+- Developed the UI for application retrieving the JSON data from the APIs.
+- Developed responsive UI to access the application across the all devices.
+- Supported the testing team in getting the API's tested successfully.
+- Debugging the code using the chrome developer tools.
+- Unit testing the application and integrating the React components with the application. Project 2: Coupon Crown Role: UI Developer Roles & Responsibilities: The Project scope is to Develop the web application for providing the information on offers and discounts to users in India. This Web applications has a modules like user dashboard, admin panel and coupons dashboard.
+- Worked on developing the User interface from the design without any deviation using React Js, ISX, HTML5 and CSS3 for front end.
+- Responsible for developing the components of the application using React js and redux.
+- Writing the unit tests for each component using Jest framework.
+- Creating the feature files for behavior driven development model testing of the application in integrated environment.
+- Working closely with backend team to integrate the APIs and implement functionalities/features.
+- Monitoring the builds and deployments in development environments and perform application test before moving to QA.
+
+EDUCATION AND TRAINING
+
+01/2015
+
+Bachelor of Technology: Harvard University - Anantapur
+GPA: 68

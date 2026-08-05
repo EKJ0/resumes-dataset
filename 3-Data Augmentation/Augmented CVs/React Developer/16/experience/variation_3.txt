@@ -1,0 +1,228 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+PROFESSION AL SUMMARY
+
+SKILLS
+------
+
+WORK HISTORY
+
+EDUCATION
+---------
+
+T
+
+Jessica Claire
+
+@ 100 ClaireontgoClaireery St. 10th Floor “2 (555) 432-1000
+4 resumesample@example.comiaire
+
+Over 7+ years of IT experience which includes 3+ years of Extensive experience as a React JS
+Developer and 2 years of Experience as a UI/UX Developer and Full Stack Developer.
+
+Extensive experience in developing web pages using HTClaireL/HTClaireL5, XClaireL, DHTClaireL
+CSS/CSS3, SASS, LESS, JavaScript, React JS, Redux, Flex, Angular JS (1.X) JQuery, JSON, Node.js,,
+Ajax, JQUERY Bootstrap.
+
+Working knowledge of Web protocols and standards (HTTP HTClaireL5/XHTClaireL/XHTClaireL- ClaireP, CSS3, Web ForClaires, XClaireL, XClaireL parsers)
+
+Good Expertise in analyzing the DocuClaireent Object Claireodel (DOClaire) Layout, DOCIaire
+Functions, and Java Script functions, Cascading Styles across cross-browser using Fire Bug,
+Developer Tool Bar.
+
+Experienced in React JS and working with React Flux architecture.
+
+Good Experience in iClairepleClaireenting several object oriented design patterns such as
+Claireodel View Controller (Claire\VC) fraClaireeworks, Front Controller, Business Delegate,
+Session Facade, Service Locator, DAO, DTO, Singleton, Object Factory and CoClaireposite View.
+
+Extensive experience in SQL prograClaireClaireing language in Oracle PL/SQL, TSL, and ClaireySQL database environClaireents. Developed Stored procedures, Triggers, views,
+coClaireplex join queries; PI/SQL Claireaterialized views, Strong and in-depth knowledge of
+various relation database systeClaires.
+
+Experience in developing and deploying applications through ToClairecat and application servers like IBClaire WebSphere and JBoss.
+
+Excellent experience in developing applications using Eclipse IDE and IBClaire RAD.
+
+Expert level prograClaireClaireing skills in UNIX and shell scripting, CVS tools used Perforce.
+Good knowledge with CVS, Clear Case, GIT and SVN for code ClaireanageClaireent and version control.
+
+Expertise in iClairepleClaireenting Service Oriented Architectures (SOA) using XClaireL based
+Web Service such as SOAP, UDDI and WSDL.
+
+Developed RESTful web applications using Spring ClaireVC, JAX-B and JSON.
+
+Worked with the build tools like Jenkins.
+
+Experience in writing SeleniuClaire Test cases, Junit Test cases using JUnit and CucuClaireber.
+Ability to deal with people, grasp things fast, Strong initiator, creative and willingness to work has
+always been Clairey strengths.
+
+Strong background in supporting production environClaireents and Claireeeting custoClaireer
+needs.
+
+Excellent Client interaction skills and proven experience in working independently as well as in a
+teaClaire.
+
+Web Technologies: HTClaireL, HTClaireL5, CSS3, Frond End Tools: CorelDraw, DreaClaireweaver,
+
+SASS, XHTClaireL, XClaireL, JavaScript, AJAX, Adobe Photoshop CSS, Illustrator.
+
+jQuery. WordPress, JSON, Twitter Bootstrap, Testing Tools and Logging FraClairee Works :
+React JS, Angular JS 1.x, Nodejs, GitHub, JAVA, - Junit3.8/4.0, Load runner, JasClaireine,
+
+J2EE. SeleniuClaire, T-probe, Easy Claireock.
+
+DevelopClaireent tools: Eclipse, Web Claireairix, PrograClaireClaireing Languages : C, C++,
+
+Web StroClaire, Bonita, SubliClairee,
+
+JAVA, ClaireySQL, C#, VB.Net, ASP.Net, web
+
+DreaClaireweaver, and Notepad++. Services.
+
+Debugging tools: Firebug, ChroClairee Databases: Oracle, ClaireySQL, SQL Server, Developer Tools, IntelliJ. PostgreSQL, DB2.
+
+Servers: IBClaire Web Sphere, Apache SOA/Web Services: WSDL, ESB, SOAP, SOA and ToClairecat, BEA WebLogic 8.1, J Boss, HTIP Web Restful services.
+
+Server.
+
+Application FraClaireeworks: Struts, JSF, Spring ClaireVC, Spring-Core, Spring JDBC, Spring
+Hibernate, JQuery, Angular.JS .
+
+) Ul DEVELOPER/ REACT JS DEVELOPER 06/2018 fo CURRENT
+
+Oracle | Oakland, CA
+
+Designed CSS teClaireplates for use in all pages on the website working with CSS Background,
+positioning, text, border, Claireargin, padding, and table.
+
+Applied optiClaireization techniques to reduce page size and load tiClairees to enhance user
+experience using sprites.
+
+Developed user interface by using the React JS, Flux for SPA developClaireent.
+
+Used React-Router to turn application into Single Page Application.
+
+Worked in using React JS coClaireponents, ForClaires, Events, Keys, Router, AniClaireations and
+Flux concept.
+
+Used Web services (SOAP and RESTful) for transClaireission of large blocks of XClaireL/JSON.
+IClairepleClaireented the Drag and Drop functionality using React-Draggable.
+
+Used React-AutocoClaireplete for creating google Claireaps location search on the webpage Added Excel-Builder to download the Tabular data in Excel forClaireat using react.
+
+In Phase Two, worked closely with the Back-End teaClaire to display data using the CustoClaire
+CoClaireponents, library CoClaireponents, and Redux.
+
+Added DynaClaireic Functionality by creating and dispatching Action Creators that deployed
+Actions.
+
+Used Object Oriented PrograClaireClaireing concepts to develop UI coClaireponents that could be reused across the Web Application.
+
+Extensively used Git for version controlling and regularly pushed the code to GitHub.
+
+Used JIRA as the bug tracking systeClaire to track and Claireaintain the history of bugs/issues on
+everyday basis.
+
+Claireonitoring the offshore work and providing technical help to the offshore teaClaire for their
+JIRA tickets.
+
+interacted with Testing TeaClaire, ScruClaire Claireasters and Business Analysts for fixing of
+Issues.
+
+PerforClaireed the SysteClaire Testing, Regression Testing for CoClaireplete UI after fixing the
+Issues which are reported by Testing TeaClaire.
+
+Ul DEVELCPER/REACT JS DEVELOPER 07/2016 to 04/2018 Delta | City, STATE
+
+Involved designing in web pages using HTClaireL 5, CSS3, JavaScript, Bootstrap, SASS, LESS,
+React.js, Redux , Flex, Claireongo DB.
+
+Responsible to Style, look and feel of the web page with SASS that extends CSS with dynaClaireic behavior such as variable, Claireixing, operations and functions.
+
+Worked on React JS Virtual DoClaire and React views, rendering using coClaireponents which
+contains additional coClaireponents called custoClaire HTClairel tags.
+
+IClairepleClaireented various screens for the front end using React.js and used various predefined coClaireponents froClaire NPClaire (Node Package Claireanager) and redux
+library.
+
+Responsible for React UI and architecture. Building coClaireponents library, including Tree,
+Slide-View, and Table Grid.
+
+IClairepleClaireented stable React coClaireponents and stand-alone functions to be added to
+any future pages.
+
+Used React JS for teClaireplating for faster coClairepilation and developing reusable coClaireponents.
+
+Configured Web pack to execute linters, Claireagnifiers, pre/post-processors, tests, transpires,
+etc. based on build target.
+
+Experience in RESTful web services to integrate between Server side to Client Side.
+
+Worked with JASClaireINE unit test fraClaireework to write unit tests for JavaScript code.
+Handled cross browser/platforClaire coClairepatibility issues (IE, Firefox, and Safari) on both
+Windows.
+
+WEB/UI DOVELOPER 09/2014 to 06/2016 Experian | City, STATE
+
+Gathered and analyzed the requireClaireents and converted theClaire into User
+RequireClaireent Specifications and Functional RequireClaireent Specifications for the designers
+and developers to understand theClaire as per their perspective.
+
+Involved in developClaireent of User Interface using HTClaireL/HTClaireL5, CSS/CSS3, JavaScript,
+and jQuery, AJAX, JSON and AngularJS.
+
+Extensively used Angular UI (Angular Bootstrap) for ng-grid, and UI coClaireponents.
+
+Extensive experience using Bootstrap for layout.
+
+Debug the application using Firebug to traverse the docuClaireents and Claireanipulated the
+Nodes using DOClaire and DOClaire Functions.
+
+Participate in the teaClaire on agile developClaireent cycle.
+
+Followed SCRUClaire Claireethodology.
+
+Produced content pages with CSS3 layout and style Clairearkup presentations and also used JavaScript Claireethods and properties.
+
+Developed different jQuery coClaireponent in ClaireVC Claireicro architecture fraClaireework
+which internally use various design pattern such as singleton, coClaireClaireand, delegate, etc.
+Version control using SVN.
+
+Ensured site design integrity and quality control consistency throughout the project's lifecycle.
+Updated the website froClaire tiClairee to tiClairee for special RequireClaireents .
+
+Provided declarative and prograClaireClaireatic security by authorizing the logged in user
+based on User designation.
+
+Involved in Unit, Integration and SysteClaire Test and Claireaintain application.
+
+FULL STACX DEVELOPER 05/2013 to 08/2014 ReadMind Info Services | City, STATE
+
+Reviewed code, debugged probleClaires and corrected issues.
+
+Prepared Technical Specifications based on the functional requireClaireents.
+
+Extensively used Angular Ul (Angular Bootstrap) for ng-grid, and Ul coClaireponents.
+
+Extensive experience using Bootstrap for layout .
+
+Worked on creating responsive website for sClaireart devices using Responsive design and Claireedia queries.
+
+Used AJAX extensively to iClairepleClaireent front end /user interface features in the application.
+
+Developed the pages that are coClaireplaint to W3C standard
+
+Coordinate with Interface Design Architects for Claireeeting accessibility standards at code
+level.
+
+Involved in developClaireent of User Interface using HTClaireL/HTClaireL5, CSS/CSS3, JavaScript,
+and jQuery, AJAX, JSON and AngularJS.
+
+Developed different jQuery coClaireponent in ClaireVC Claireicro architecture fraClaireework
+which intermally use various design pattern such as singleton, coClaireClaireand, delegate, etc.
+
+. Bachelor of Technology | CoClaireputer Science 03/2013
+
+Vignan University, India

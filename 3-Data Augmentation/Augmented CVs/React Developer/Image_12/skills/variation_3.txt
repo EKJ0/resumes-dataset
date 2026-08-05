@@ -1,0 +1,76 @@
+Glenn D. Young
+
+React.js Developer
+
+Experienced JavaScript Developer with 5 years in the industry. Proficient with React. Used problem-solving aptitude to enhance application performance by
+14%, Created data visualization tools and imegrated designs. Increased
+speed of product lifecycle and 100% of the time delivered projects within deadline. Seeking to join BravDev to leverage experience with JavaScript to
+impress existing clients and obtain new ones.
+
+WORK EXPERIENCE
+---------------
+2017-04 React Developer present BravDev
+
+- Used understanding of React fundamentals to promote better component lifecycle practices, increasing turnaround speed
+by 23% with 100% deadline adherence.
+
+- Communicated with other teams and senior management to
+
+adapt 50+ chents’ websites to adapt to changing industry
+
+standards.
+
+introduced wider use of isomorphic React and Node.js for web
+
+applications, decreasing load times by roughly 35%.
+
+Followed documentation to always remain up-to-speed on
+
+what needs to be updated in response to new release
+
+versions.
+
+2013.06 Junior Java Developer
+2016-07 ASPTech
+- Completed training project utilizing Spring MVC and JSP to create a basic data modification web
+- Performed testing, installation, configuration, and troubleshooting of various software programs.
+- Developed 500+ SQL queries in Oracle.
+
+EDUCATION
+---------
+2010-10 Bachelor of Information Technology
+2013-08
+
+University of Tampa, FL
+
+Achievements
+
+- Oracle Certified Professional (2018)
+- Speaker at React Advanced in London (2019)
+
+Personal Info
+
+Email giennyounggbemal,com
+
+Phone
+925-249-2133
+
+Linkedin Linkedin, comieyglennyoung
+
+SKILLS
+------
+
+React fundamentals (JSX, Virtual DOM, Native, Node js)
+
+CICD & DevOps CSS, Git, Sigma Excellent Communicator Flux/Redux Team-oriented
+
+SEO Integration
+
+Programming Languages
+
+PHP kkkkk MySQUMongoDs Wik we we Cr+ RKKKK Java kkkke
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

@@ -1,0 +1,186 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Over 7 years of Angular/React, HTML, CSS, JavaScript and Core Java technical IT experience in analysis, design, development, testing, and
+implementation of large-scale multi-tier applications as a developer in Agile Software Development and Waterfall models. Proficiency in
+implementation of web pages and functional UI development in JavaScript framework and libraries like AngularJS and ReactJS with in-depth
+knowledge of multiple Languages, Web Designing. Proficiency in design and implementation of Object-Oriented concepts OOPS and J2EE
+design patterns. Strong Knowledge on Application Development using Software Development Life Cycle SDLC using various methodologies
+like Waterfall, Agile/Scrum. Experience with technologies like JavaScript, AngularJS, ReactJS, HTML, CSS, Core Java, XML, RESTful Web
+services. Good knowledge in RDBMS like Oracle, MySQL. Working experience in data modeling and implementing stored procedures using
+PL/SQL. Experience in working with application and web servers Tomcat and Web Logic Servers. Expertise in Junit 3.0 Testing Framework,
+and good at Test Driven Development(TTD). Used SVN and GIT version control in control management system. Involved extensively in all
+stages of software development lifecycle (SDLC) such as requirements gathering, design, development, testing. implementation &
+deployment. Working with Widgets and Charts which are provided by external JavaScript libraries such as Highcharts and D3. Proficient in
+writing Unit test cases using Jasmine, Karma, Jest, Mocha, and Chai. Experience in coding accessible website following the WCAG 2.0 AA
+standard, 508 Compliance and used JAWS16 Screen Reader and NVDA Screen reader for web Accessibility Testing. Used Jenkins and
+Bamboo for continuous integration and Deployment. Expertise in coding optimized SQL queries on databases like MySQL and PICK(DMS).
+Experience with Node.js in the front end to automate daily tasks such build, running unit tests of front-end code and with Tools like Grunt,
+Gulp, Bower that leverage capabilities of Node.js to improve and enhance software development. Good Experience using Bootstrap for
+Responsive Web Design (RWD) and using media Queries in SASS. Experience in designing. developing and project implementation. support
+functions and software requirements study. Self-motivated Developer adds high level of experience over more than [Number] years
+collaborating and working on multiple web-based projects. Passionate, hardworking coder with penchant for developing customized
+interfaces that factor in unique demands for accessibility, reachability and security. Organized approach to meeting multiple, concurrent
+deadlines. Pulls from active knowledge of current technology landscape to promote best practices in web design.
+
+SKILLS
+------
+
+- Technical Skills:
+
+- Web technologies
+
+- 0 HTML5, CSS3, JavaScript, XML, AJAX, JSON
+- Frameworks & Libraries
+
+- React.js, AngularJS, Node.js, Net
+
+Oracle SQL, MySQL Testing Framework Junit, Rhino Mocks Version Control Tools SVN, GIT, Maven
+
+- Programming Languages e IDE & Tools
+- Java, e Eclipse, NetBeans, Web Storm, Visual Studio
+- J2EE Technologies © Operating Systems
+
+- XML, JDBC, Servlets, Web services
+- Databases
+
+WORK EXPERIENCE
+---------------
+
+Mac, Windows (7,8,10)
+
+03/2021 to Current ReactJS Developer Stebr, Inc - New York, NY
+
+- Created an application using HTML 5, CSS3, JavaScript, LESS, ReactJS, Redux-Thunk and PICK as Database Management Systems
+
+- Using Bamboo as Continuation Integration and Deployment tool which ties automated builds, tests, and releases together in a single workflow
+
+- Used Swagger UI to visualize and interact with the API's
+
+- Used Redux to store state of app in a singular source
+
+- Used React Native which makes the apps load quickly and gives a smoother feel
+
+- Used Redux-Thunk to asynchronously launch Redux actions in response to async code
+
+- Utilized create-react-app to launch product to stay update with the most current webpack and babel to build configurations
+
+- Used React Native which have the counterpart rights, to reuse the components for building both Android and 10S apps
+
+- Connected server and database to update data information with Node.js and MONGODB
+
+- Expertise in writing Unit test cases with Jest for react application
+
+- Experience in using ReactJS code for making calls (GET, POST, PUT, DELETE) for triggering or fetching data from Restful API's provided by the backend team
+
+- Utilized GIT for version control and Bitbucket for source control operations and made use of JIRA for bug tracking and workflow management
+
+- Developed application using NodeJS JavaScript libraries with NPM package management system
+
+- Worked with Passport and JSON web tokens for authentication and authorization security configurations using Node.js
+
+- Ihave Knowledge on how to develop Automation scripts for Mobile Native Applications using Appium, Java and how to implement a simulator for mobile app testing in IOS, Android using Appium Tool
+
+- Used BitBucket for version control
+
+- Followed Agile methodology during SDLC, with regular SCRUM sessions and bi-weekly sprint sessions to discuss the project progress and assign user stories as per the sprint backlogs
+
+- Responsible to manage resources, work within time limit with Jira and agile
+
+- Environment: HTMLS, CSS3, JavaScript, LESS, ReactJS, JSON, PICK, NVDA Screen reader, Bootstrap 4.0, JIRA, Bitbucket, Bamboo, NPM, WCAG 2.0, Jest, SwaggerUL.
+
+01/2020 to 03/2021 Frontend React Developer Morgan Stanley - Beavercreek, OH
+
+- Responsible for analyzing the existing structure and making light weight pages with ReactJS library and attractive HTML and CSS designs
+
+- Used React 15 and React 16 in creating the functional templates, user templates and inserting them into a SharePoint server
+
+- Used Redux for interactions with APIs’ and different environments to maintain consistent behavior of data
+
+- User interfaces were built with Virtual DOM and unidirectional data using React.js and Redux which also involved connecting the UI to backend using Rest APIs
+
+- Hands on experience in using JSX and server-side rendering for component view using React.js
+
+- Involved in writing basic test cases for the React pages developed using Enzyme and Jest
+
+- Responsible in maintaining quality of code by performing thorough and proactive unit testing with all the possible scenarios along with regression testing
+
+- Using Bamboo as Continuation Integration and Deployment tool which ties automated builds, tests, and releases together in a single workflow
+
+- Used Swagger UI to visualize and interact with the API's
+
+- Involved in coding REST APIs’ when required for React application in NET framework based on requirement
+
+- Involved in integration of React Pages with SharePoint Framework
+
+- Connected server and database to update data information with Node.js and MONGODB
+
+- Handled GitHub repositories with the entire UI codebase and managed merging code, reviewing and resolving conflicts
+
+- Involved in creating complex SQL queries to fetch data from server database
+
+- Created prototypes to implement various policies that were required for the solution proposed to the client
+
+- Worked with Passport and JSON web tokens for authentication and authorization security configurations using Node js
+
+- Environment: ReactJS Library, HTML, CSS, SharePoint, Net Framework, SQL, Agile Methodology, Web Services (Rest), Eclipse, WebLogic App server, Rhino Mocks, Entity Framework.
+
+06/2015 to 10/2017 Front End Developer Horizontal - Las Vegas, NV
+
+- Responsible for designing and developing web pages using HTML5, CSS3, JavaScript, jQuery, Bootstrap, AngularJS, and React JS
+
+- Design and deploy a multitude application using Azure stack
+
+- Developed dynamic responsive web application by integrating AngularJS with Bootstrap which is further integrated with web services
+
+- Wrote AngularJS controllers, views, and services for new website features and used to markup and expressions and experience using Angular UI components like GRID
+
+- Used CSS Media Queries to work on Responsive Web Design
+
+- Used agile development techniques in all the development process and exposed to tools like Jive for tracking bugs and Rally to track the agile development
+
+- Created custom factory service that relies on angular http injection to make Ajax calls back to a server and used Restful web services to update and modify data at server side
+
+- Utilized modemizer extensively to build HTML5/CSS3 based page layouts that are cross browser compatible and standard-compliant
+
+- Created the application using ReactJS and Node.js libraries NPM, gulp directories to generate desired view and flux to root the URLs properly
+
+- Used Interactive data binding filters, and animation events using AngularJS
+
+- Implemented few modules using frameworks like Backbone.js and Node.js
+
+- Developed the pages that were compliant to W3C and ADA standards
+
+- Worked with JSON for data exchange between client and server
+
+- Used PolymerJS in creating web components and developed browser APIs to custom HTML elements
+
+- Component level design and defined the usage of Ajax to reuse the network bandwidth efficiently and provided feel that the user resides on the same page of our website
+
+- Responsible for testing the application using grunt
+
+- Created test plans and test cases based on requirements and specifications using frameworks such as Selenium
+
+- Worked with SVN and Git to maintain current and historical versions of source code Interacted with java controllers like jQuery, Ajax, and JSON to write or read data from back-end system
+
+- Attended standup meetings (Scrum), estimation meetings and requirements review meeting to analyze requirements for each story card in a sprint
+
+- Environment: HTMLS, CSS3, JavaScript, jQuery, AngularJS, PolymerJS, ReactJS, Bootstrap, Backbone.js, Node.js, Azure, JSON, Ajax, SQL. Gulp, Grunt, Git, Agile.
+
+Epucation
+
+05/2015 Bachelor’s: Electronics And Communications Engineering Jawaharlal Nehru Technological University - Hyderabad
+
+07/2020 Master’s: Computer Networking
+
+Latrobe University - Australia
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

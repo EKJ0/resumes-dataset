@@ -1,0 +1,251 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Skilled IT Professional with 6 years of experience in Design, Development and Maintenance of web-based applications using
+
+JAVA/]2EE technologies.
+
+- Experienced in all phases of SDLC including analysis, design, coding and testing, expertise in integration using J2EE architecture.
+
+- Experienced in designing and developing multi-tier scalable applications using Java and JEE Design Patterns. Expertise in using IDES like Eclipse/My Eclipse .
+
+- Experienced in Development and Deployment of 3-Tier and n-Tier Architectures.
+
+- Extensive experience on Application Servers including WebSphere 6.1 and Web servers like Apache Tomcat etc.
+
+- Expertise in developing Internet/Intranet Applications with Web Services, WSDL, ANT, Java, JSP, Servlet, JDBC, Struts, Hibernate, JUnit, XML, Log4j, HTML, and JavaScript.
+
+- Experience in developing the User Interface Screens for presentation using Java, JSP, HTML, Java Script and Ajax, Experience in Struts MVC and Spring MVC frame works.
+
+- Experience on Web Technologies in using web design tools like, Bootstrap, HTML, implemented presentation layer using CSS3, JavaScript. Strong scripting experience in writing build scripts using Apache Ant and Maven.
+
+- Experience maintaining/deploying applications over Windows and LINUX. Good experience in PL/SQL, writing Stored
+
+Procedures, Functions, Packages, Views and Triggers.
+
+Have knowledge of developing System Design using UML methodology with Rational Rose.
+
+Preparation of class and sequence diagrams using Rational Rose. Expertise with Functionality, Integration, Regression,
+Compatibility, Black Box, White Box, Performance, Usability, Back-End and User acceptance testing.
+
+Excellent problem-solving skills with strong technical background and good interpersonal skills Quick learner and excellent
+team player, ability to meet deadlines and work under pressure.
+
+- Expertise in leading small teams and able to work independently as well as in a team to satisfy the needs of the clients and worked as an Offshore - Onsite Coordinator.
+
+- Experience in designing Use Cases, Class diagrams, Sequence and Collaboration diagrams for multi-tiered object-oriented system architectures utilizing Unified Modeling Tools (UML) such as Rational Rose, Rational Unified Process (RUP)
+
+- Have working knowledge of Agile Development methodologies. Experience in writing and executing unit test cases using JUnit Testing Framework. Worked on Agile methodology, SOA for many of the applications.
+
+SKILLS
+------
+- Programming Knowledge : Java, JEE, JSP, Servlets, JDBC, ¢ Web Technologies : Java Script, HTML5, CSS3, Angular JS 2.0 SOL, PL/SQL * Source Control Systems : SVN, PVCS, GitHub
+- Frame Works /Services : JSF, JSP, Hibernate, Spring MVC, © Operating Systems : Windows 95/98/2000, Windows XP, Spring Boot, Spring & Micro Services. Windows 7
+- IDE Tools : Eclipse, IntelliJ ¢ SDLC: Agile, Scrum
+- Web / App Servers : Tomcat Web Server, IBM WebSphere © Web Services : SOAP Web Services, Spring Rest Web Services
+
+Application server, WebLogic Server
+- Database : Oracle 10G, Couchbase
+
+WORK EXPERIENCE
+---------------
+
+Senior Java Developer, 04/2022 to Current Empower Retirement - KS, State
+
+- Used Java 8 features in developing the code like Lambda expressions, creating resource classes, fetching documents from database.
+
+- Develop customized, interactive user interfaces using JavaScript, HTML and CSS.
+
+- Used MySQL for database access and storage of data.
+
+- Used Spring APIs for wiring components using dependency injection.
+
+- Involved in the Development of Spring Framework Controllers.
+
+- Developed Controller for request, response paradigm by Spring Controllers using Spring-MVC.
+
+- Built, integrated, and modified web applications according to client specifications.
+
+- Developed Java Files and JavaScript files based on MVC pattern using hibernate framework and Spring Framework.
+
+- Involved in code review sessions with the other developers and team lead.
+
+- Involved in different meetings with business to gather the requirements and documenting them and developing them according to the client requirements.
+
+- Creation of different AWS service like API, RDS instance and Lambda to build a server less application.
+
+- Creating a Redshift cluster and doing data warehouse.
+
+- Installation of Talent Studio suit on EC2 instances and creating job server.
+
+- Creating different S3 buckets and write Lambda to move files from S3 to the instance and FTP server to $3.
+
+- Implemented Restful web services to web User Interface or through custom JS code and REST API.
+
+- Used Spring REST services to connect to server side from the front end.
+
+- Developed web services in Java and Experienced with SOAP, WSDL.
+
+- Used GIT as version control to check in the code, created branches and tagged the code in GIT.
+
+- Involved E2E Development by integrating Front End and Backend by Debugging.
+
+- Use Agile methodology for implementing the project.
+
+- Created Stacks using Amazon Cloud Formation templates to launch AWS Infrastructure and resources.
+
+- Used AWS Lambda to manage the servers and run the code in AWS.
+
+- Used Micro service architecture with Spring Boot based services interacting through a combination of REST and Apache Kafka message brokers.
+
+- Involved in SCRUM ceremonies for implementing the enhancements in the application.
+
+- Used Log4j framework to log/track application.
+
+- ‘Worked on Restful web services which enforced a stateless client server and support JSON few changes from SOAP to RESTFUL Technology Involved in detailed analysis based on the requirement documents.
+
+Java/J2EE Developer, 11/2021 to 03/2022 Fiserv - Atlanta, GA
+
+- Organized and participated in project planning meetings with business and development team to analyze requirements and design decisions.
+
+- Followed Agile Scrum two-week development cycle to streamline development process with iterative and incremental development
+
+- Responsible for working on consuming and producing microservices (RESTful and SOAP) and SOA/Web Services.
+
+- Coordinated with a team to analyze the requirements based on business data and user specifications.
+
+- Monitor infrastructure and operations preparation processes to detect potential problems and recommend improvements.
+
+- Created and published the sequence diagrams, collaboration diagrams and high-level class UML diagrams using Lucidchart.
+
+- Developed user interface views with HTML5, CSS3/Sass, bootstrap, Javascript, Node.js, AngularJS, JQuery, Bower, NPM and JSON
+
+- Designed and developed RESTful API services utilizing Spring Boot with Spring MVC.
+
+- Implemented Spring ORM wiring with Hibernate template and criteria API for Querying database.
+
+- Extensively used Spring framework for configuration, modularizing the application.
+
+- Implemented Spring quartz jobs to run the scheduled data integration batch jobs.
+
+- Used Spring APIs for wiring components using dependency injection.
+
+- Created RFP (Request for Proposal) Micro service to provide RESTful API utilizing Spring Boot with Spring MVC.
+
+- Responsible for creating efficient design and developing User Interaction screens using HTMLS, CSS3, JavaScript, Angular Js, Redux and Bootstrap.
+
+- Used Hibernate ORM for mapping Java classes to database tables and data querying.
+
+- Created application layer POJO classes and mapped them to backend Oracle database tables using Hibernate framework.
+
+- Developed REST exception handling controller advices to respond to bad requests and server-side exceptions.
+
+- Wrote Operations and corresponding handlers to communicate with Oracle database sitting on Linux/Unix server
+
+- Developed PL/SQL scripts, stored procedures, functions, triggers, and indexes for improving the application performance.
+
+- Implemented ActiveMQ to asynchronous communication between modules.
+
+- Integrated LDAP with Spring configurations for getting querying data from the directory.
+
+- Implemented Unit Test framework using Mockito to fake the object implementation, TestNG to cover the tests and Cobertura for
+
+accessing the test coverage.
+
+Java Developer, 06/2017 to 08/2021 Citigroup Inc. - - Highland Park, IL
+- Implemented the Agile methods, working parallel with the client, obtaining feedback on the features.
+- Assisted with error tracking and resolving in the application, worked in JSF managed beans, converters, validator, and configuration files.
+
+Developed SOAP based web services to deploy business methods to external services.
+
+Used Spring Framework as middle tier application framework, persistence strategy using spring support for Hibernate for
+
+integrating with database.
+
+Developed core modules in large cross-platform applications using JAVA, J2EE, Hibernate, JSP, Servlets, EJB, JDBC, JavaScript,
+
+Ajax, jQuery, XML, and HTML, Angular]S, Node JS
+
+- Experienced in Web designing & development, using HTML5, CSS, JavaScript, XML, Angular JS, Bootstrap JS, JSP, JSON, JSF and AJAX.
+
+- Expertise on different IDEs such as Eclipse, NetBeans and deployment using Application Servers Apache Tomcat, BEA WebLogic and JBoss
+
+- Extensive experience and good knowledge in SQL, Stored Procedures, Functions and Triggers with databases such as Oracle,
+
+IBM DB2 and MS SQL Server 2005.
+
+Used Java 1.8 features like Lambda expressions and Stream API for Bulk data operations on Collections which would increase
+
+the performance of the Application Extensive experience working in Spring framework, Struts framework, O/R Mapping
+Hibernate framework and web services.
+
+- Experience using Spring MVC, Spring Boot, Spring Cloud, Spring DAO, Spring Data, Spring IOC, Spring Annotations, Spring AOP, Spring Transactions and Spring Security.
+
+- Strong experience in database technologies Oracle 9i/10g, PL/SQL.
+
+- Experience in working with different operating systems like Windows and UNIX/Linux.
+
+- Experience in Agile/Scrum, Test Driven Development (TDD) and Waterfall model.
+
+- Proficient in unit testing the application using Junit.
+
+- Experience in Cloud Application Development.
+
+- Experience in different version controlling/tracking systems Subversion, CVS, SVN, GIT and Rational Clear Case.
+
+- Experience on Ant, Maven, Log4j, Swagger API for Restful Services
+
+Excellent problem-solving skills with strong technical background and good interpersonal skills
+
+Quick learner and excellent team player, ability to meet deadlines and work under pressure.
+
+- Expertise in leading small teams and able to work independently as well as in a team to satisfy the needs of the clients and worked as an Offshore - Onsite Coordinator.
+
+- Experience in designing Use Cases, Class diagrams, Sequence and Collaboration diagrams for multi-tiered object-oriented system
+
+- Experience in writing and executing unit test cases using JUnit Testing Framework.
+
+- Used Oracle10g and Oracle11g as backend database using TOAD.
+
+- Developed Stored Procedures, Cursors and Triggers for engine in oracle10g and oracle11g databases.
+
+- Used Spring framework to write the application code and RESTful web services for external clients.
+
+- Monitored the error logs using FTP and fixed the problems.
+
+- Used Hibernate framework as ORM mapping tools for reading, creating, updating, inserting, or deleting data from the Oracle database efficiently.
+
+- Implemented various design patterns for efficient software interaction, robust and reusable solution.
+
+- Used JUnit for functional and end-to-end test cases on the business logic.
+
+- Used SVN as the version control system.
+
+- Developed a messaging queue using JMS messaging to notify return messages post execution.
+
+- Coordinated with the bug tracking, resolving and quality assessment teams
+
+- The Java Swing application interacted with a J2EE application server via the Spring framework.
+
+- Implementing spring/ Tiles based framework to present the data to the user.
+
+- Involved in Registration Module coding.
+
+- Used Apache Log4J logging API to log errors and messages.
+
+- Developed XML parser for File parsing.
+
+Education and Training
+
+Master of Science: Information Technology, 03/2022 Cleveland State University - Cleveland, OH
+
+Bachelor of Science: Computer Science, 05/2017 KL University - Vijayawada
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

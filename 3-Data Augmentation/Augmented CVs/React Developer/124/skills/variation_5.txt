@@ -1,0 +1,351 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+LinxveEIn
+
+- http://www _linkedin.com/in/Jessica-Claire-43868725b
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Full Stack Developer with 7+ years of experience in application analysis, design, development, implementation, and maintenance using Java/J2EE technologies such as Hibernate, Spring, Spring Boot, and JPA, as well as SDLC concepts.
+
+- Hands on experience in design and development of Desktop applications using multi-threading using Executor Services, lamda expressions with Java 8.
+
+Experience in developing web applications on MVC based frameworks like spring, Spring IOC, Spring Security, Spring Boot, Spring
+Cloud, and Spring MVC.
+Experience in integrating the internal security model into new projects with Spring Batch, Spring Micro Services and Spring Boot.
+
+Experience with SpringBoot which is radically faster at building cloud Microservices and developing spring-based applications with
+very less configuration.
+
+Experience in Object Relational Mapping (ORM) using Hibernate and Java Persistence API Standard (JPA) for database
+Connection Pooling, Mappings and Transaction Management.
+
+Strong experience in using AJAX, JSTL, Tiles, HIMLS5, JavaScript, CSS3, Angular.JS, React.JS, Java Server Faces (JSF) Apache
+Commons, Velocity for designing front end.
+
+Excellent experience on J2EE design patterns such as Business Delegate, Service-Locator, Transfer Object, Data Access-Object,
+Session-Facade, Singleton patterns.
+
+Proficient in Java/J2EE Design Patterns including singleton, command, object pool, session facade, Model View Controller (MVC),
+Data Access Object (DAO).
+
+Well versed with core Java concepts like collections, multithreading, serialization, Java beans.
+
+Experience in developing multi-tier Enterprise Applications using My Eclipse, Web Sphere Studio (WSAD), RAD and RSA
+Application Developers.
+
+Strong experience in XML related technologies including XSD, DTD, XSLT, XPATH, DOM, SAX, JAXP, JAXB, XML-RPC and
+XML Beans.
+
+Experienced in AWS Cloud platform and its features which includes EC2, $3, AMI, and AWS VPC.
+
+Experience in Docker Engine and Docker Machine environment, to deploy the micro services-oriented environments for scalable
+
+application.
+
+- Experience in working with IBM Web-sphere Portal/Application Server, BEA Web Logic, and Apache Tomcat 5x application servers.
+
+- Experience in developing ANT scripts and Maven Scripts for the build and deployment of J2EE applications.
+
+- Hands on experience with JUnit, and Log4j in developing test cases and determining application functionality.
+
+- Good experience on SOA using technologies like SOAP http protocol, WSDL, JAX-WS, JAX-RPC, Axis.
+
+- Have experience in software Development Processes like SDLC, Waterfall, Test Driven Development (TDD), Iterative and Agile Methodologies.
+
+- Excellent communication, interpersonal and analytical skills, and a highly motivated team player with the ability to work independently.
+
+SKILLS
+------
+
+- TECHNICAL SKILLS:
+
+Eclipse, IBM RAD
+
+- Languages: © Cloud Technologies:
+
+- Java 8/7/6, PL/SQL, SQL e Azure, GCP, AWS
+
+- Java/J2EE Technologies « App servers:
+
+- Core Java, JMS, Java Beans, e IBM Web Sphere, Apache Tomcat,
+- Java Multithreading, Generics and Collections, e BEA Web Logic
+
+- EJB, Tiles, Design Patterns © Databases/Tools:
+
+- Frameworks: © Oracle, SQL Server, My-SQL
+- Spring, Hibernate, Spring Boot. © Version Controls:
+
+- Web Technologies: © Git and GitHub
+
+- HTML5, XML, DOM, JSON, © Methodologies:
+
+- CSS3, JavaScript, JQuery e Agile, Waterfall
+
+- AJAX, AngularJS, Angular © Operating Systems:
+
+- React.JS, REDUX, React Native
+- Web Services: Model-View-Controller (MVC)
+- SOAP. REST Cloud Technologies:
+
+- Design & GUI Tools: e AWS, Azure, GCP, Terraform
+
+Windows, Linux, UNIX
+
+PROFESSIONAL History
+
+09/2021 to Current STACK DEVELOPER
+
+Oracle - Saint Paul, MN Greenville, SC
+
+- Involved in analyzing, and designing, proposing, and delivering solutions that are appropriate for the business and technology strategies
+
+- Involved in the analysis, design and development and testing phases of Software Development Life Cycle (SDLC)
+
+- Backend development was done using J2EE (Java 8), Spring Boot and Spring 4 MVC
+
+- Developed various helper classes needed following Java 8 multi-threaded programming and Collection classes
+
+- Developed the application using spring framework that leverages model view layer architecture, also configured Dependency Injection
+
+- Designed GUI using Model View Architecture Spring Framework
+
+- Involved in developing application using spring core module and POJO's using Eclipse and worked on Messaging service
+
+- Designed and developed the REST based Micro services using the Spring Boot, Spring Data with JPA
+
+- Designed and developed the REST based Micro services using the Spring Boot, Spring Data with JPA (Java Persistence API) and deployed Micro services onto Docker
+
+- Designed and created Micro Services business segments and RESTful endpoints utilizing Spring Boot
+
+- Used micro services with Spring Boot-based services interacting through a combination of REST and Apache Kafka message brokers
+
+- Developed Session beans which encapsulate the workflow logic and used Hibemate to access data
+
+- Extensively used Hibemate in data access layer to access and update information in the database
+
+- Used Hibernate ORM tools which automate the mapping between SQL databases and objects in Java
+
+- Developed the front-end part of application, user interactive web pages using web technologies like HTML5, XHTML, CSS3, JavaScript and Bootstrap
+
+- Developed mockups and prototypes using HTML5 and CSS3
+
+- Created React.JS directives, factories, and services for developing single page web applications
+
+- Worked with the development team, involved in creating MVW (Web API) to implement React.JS framework for client-side rendering to optimize the front end
+
+- Implemented React.JS client-side form validation to validate the user inputs before passing to back-end
+
+- Built React Native app with Redux for responsive location- based UI to build the web platform
+
+- Worked with Application using React.JS and Node.JS libraries NPM, gulp directions to generate desired view and flux to root the URL's properly
+
+- Used AJAX in suggestive search and to display dialog boxes with JSF and DOJO for some front end
+
+- Used Java Messaging Services (MQ Series and JMS) for developing messaging services to interact with different application modules
+
+- Used XML and Java Architecture for XML Binding (JAXB), to map java classes to XML representation
+
+- Built Docker Images and used Docker Trusted Repository and Open shift console to maintain Docker Images
+
+- Worked heavily in AWS cloud resources to better achieve a lower cost and higher performance/uptime
+
+- Involved in writing EJBs (Sate less Session Beans) and Web Services for building the middleware distributed components and deployed them on application servers
+
+- Utilized Log4y logging API for debugging and monitoring purposes
+
+- Implemented JUnit test cases to unit test the code
+
+- Used Jenkins to provide continuous integration service for Server configuration management
+
+- Web Services (SOAP) were developed and published using JAX-WS and JAX-RS
+
+- Implemented RESTful API calls to retrieve JSON data from the data base on the fly
+
+- Worked with Mongo DB to store non-relational data into collection and retrieve them whenever required
+
+- Designed database and created tables, written the complex SQL Queries and stored procedures as per the requirements
+
+- Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software.
+
+- Environment: Java 8, Spring, Spring Boot, MVC, Micro Services, Hibernate, RESTful, Eclipse, HTML5, CSS3, JavaScript, React.JS, REDUX, React Native, Node.JS, XML, JMS, AWS, Docker, EJB, Log4j, JUnit, Jenkins, SOAP, MongoDB. SQL, Agile and Windows.
+
+12/2019 to 08/2021 FULL STACK DEVELOPER
+
+Sharp Decisions - Beverly Hills, CA Reynoldsburg, OH
+
+- Involved in Requirements gathering, analysis and design and documentation as the application was started from scratch Responsible for analysis, design, development, and integration of backend components using J2EE technologies such as spring and Spring JDBC
+
+Developed Web based and Server-side applications using Java 8
+
+Designed and developed Business Services using Spring Framework (Dependency Injection) and DAO Design
+Patterns Involved in the Development of Spring Framework Controllers
+
+Used spring batch framework to create custom readers and writers to work with the application
+
+Used Spring Boot framework to create properties for various environments and use yamls for configuration
+
+Created various Spring Boot and spring batch applications to connect them to various databases and created queries
+to retrieve data and modify the tables for the databases
+
+Used Spring Boot to dynamically wire up beans and settings and applies them to the application context at startup
+of the application
+
+Used Dependency Injection feature of build and release Spring Boot framework and O/R mapping tool Hibernate
+for rapid development and ease of maintenance
+
+Implemented DAO layer using different hibernate techniques like strategies, Inheritance, annotations, and criteria
+interfaces
+
+Built Web pages that are more user-interactive using HTML5, CSS3 preprocessors like JavaScript, React.JS, React-
+Redux and Redux- Saga
+
+Used React JS for templating for faster compilation and developing reusable components
+
+Used Redux for the data management of the application
+
+Worked with React.JS Components, Forms, Events, Keys, Router and Redux concept
+
+Redesigning site with everything from contact page to landing page all using React.JS
+
+Designed UI views with Flexbox and React Native dimension API
+
+Used AJAX framework for asynchronous data transfer between the browser and the server
+
+Used XML, XSD for Data transfer
+
+Used JAXB API and DOM for XML parsing messages
+
+Involved in setting up AWS (Amazon Web Services) services with EC2 instances, $3 bucket, LAM took part in
+deploying application in AWS along with writing and retrieving files to and from AWS $3 bucket for UI to render
+data faster
+
+Worked on Docker Hub, creating Docker images and handling multiple images primarily for middleware
+installations and domain configurations
+
+Used Stateless Session Enterprise Java Beans (EJB) to encapsulate the business logic
+
+Used Log4j and commons-logging frameworks for logging the application flow
+
+Involved in fixing bugs and unit testing with test cases using JUnit framework
+
+Created and configured the delivery pipeline to implement continuous integration and deployment by using Jenkins
+Implemented and used Web Services with the help of WSDL, SOAP and JAX-WS to get updates from the third
+parties
+
+Worked on MongoDB database concepts such as locking, transactions, indexes, replication, schema design, etc
+Involved in creating and extracting data from database using SQL Queries, PL/SQL Stored procedures, triggers,
+packages on Oracle database
+
+Monitored team members to follow standards, guidelines and use new tools
+
+Environment: Java 8, Spring, Spring Boot, MVC, Micro Services, Hibernate, RESTFul, Eclipse, HTML5, CSS3,
+JavaScript, React.JS, REDUX, React Native, Node.JS, XML, JMS, AWS, Docker, EJB, Log4j, JUnit, Jenkins,
+SOAP, MongoDB. SQL, Agile and Windows.
+
+10/2018 to 11/2019 J2EE DEVELOPER
+
+Citigroup Inc. - River Forest, IL New York, NY
+
+- Involved in all the phases of SDLC including Requirements Collection, Design and Analysis of the Customer Specifications, and Development and Customization of the Application
+
+- Developed web and service layer components using Spring MVC
+
+- Developed several controller classes as required for the design such as Abstract Wizard form controller, Simple Form controller, Multi Action controller, etc in Spring MVC
+
+- Developed application using Spring MVC and HTMLS on the presentation layer, the business layer is built using spring and the persistent layer uses Hibernate
+
+- Implemented Micro-services-based Cloud Architecture using Spring Boot
+
+- Designed and developed Micro-services business components and Restful service endpoints using Spring Boot
+
+- Involved in Database design for new modules and developed the persistence layer based on Hibernate
+
+- Developed rich and complex Responsive Web User Interface using HTML5/XHTML, JavaScript, CSS3, XML, JavaScript, JQuery, Angular JS, Node.JS and Bootstrap
+
+- Coded extensively in Angular
+
+- JS to make rich internet web pages
+
+- Developed interfaces and their implementation classes to communicate with the mid-tier (services) using JMS
+
+- Used AJAX framework for asynchronous data transfer between the browser and the server
+
+- Extensively used Java Multi-Threading concept for downloading files from a URL
+
+- Used J2EE design patterns like Front Controller, DAO, MVC, Business Delegate and Session Facade
+
+- Used spring, Hibernate module as an Object Relational mapping tool for back end operations over SQL database
+
+- Developed the business components using EJB Session Beans
+
+- Developed the XML Schema and Web services for the data maintenance and structures
+
+- Implemented the J2EE design patterns Data Access Object (DAO), Session Facade and Business Delegate
+
+- Developed unit test cases using Junit and Log4j for logging
+
+- Involved in analysis, design, and Implementation applying the agile methodology
+
+- Actively participated and provided feedback in a constructive and insightful manner during weekly Iterative review meetings to track the progress for each iterative cycle and figure out the issues
+
+- Environment: Java 7, spring. Spring, Boot, MVC, Micro Services, Hibernate, RESTFul, SOAP, XML, JMS, HTMLS5, CSS3, JavaScript, Angular JS, Node.JS, AJAX, EJB, Log4, JUnit, SQL, Agile and Windows.
+
+05/2015 to 09/2018 JAVA DEVELOPER
+
+Freshworks - City, STATE Coimbatore, India
+
+- Implemented MVC Architecture, which separated the View and Business Logic Layer
+
+- Worked on spring framework to create the Web application
+
+- Involved in design, develop and implementation of the application using spring and J2ee framework
+
+- Utilized Spring Framework including encouraging application architectures based on the MVC (J2EE Design Patterns) design paradigm
+
+- Used spring framework for implementing Dependency Injection, Spring ORM
+
+- Worked on spring framework to create the Web application
+
+- Developed the application using spring MVC framework that leverages model view layer architecture, also configured Dependency Injection
+
+- Designed, developed, and maintained the data layer using Hibemate and performed configuration of spring Application Framework
+
+- Developed Java Beans using Eclipse
+
+- Designed and developed spring action classes for the controller responsibility
+
+- Involved in the integration of spring for implementing Dependency Injection (DI/IOC)
+
+- Responsible for Writing Hibernate-mapping XML Files, HQL
+
+- Used the ANT script to create the war/ear file and deployed into WebLogic
+
+Used DOM for parsing the XML, XSLT Document
+
+- Unit and Integration testing on development and pre-production servers
+
+- Utilized Agile Scrum to manage full life-cycle development of the project
+
+- Environment: Java, spring, MVC, Eclipse, JMS, XML, Java Beans, Hibernate, SOAP, and Windows.
+
+- Authored code fixes and enhancements for inclusion in future code releases and patches.
+
+- Tuned systems to boost performance
+
+EpucatIon
+
+12/2022 Master of Science: Computer Science
+
+University of Missouri - Kansas City, MO
+
+Bachelor of Science: Computer Science Osmania University - Hyderabad, India
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

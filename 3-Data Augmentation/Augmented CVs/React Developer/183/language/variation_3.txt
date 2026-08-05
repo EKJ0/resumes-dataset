@@ -1,0 +1,241 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+HEADLINE Experienced software engineer and PhD candidate with over 7 years of object oriented software development and software
+
+engineering experience seeking a full time position.
+
+HIGHLIGHTS
+----------
+- 6+ years with C++ e 1+ years C#, ASP.NET 4+ years programming on Microsoft OS
+- 5+ years with C e 5+ years programming on UNIX
+- 3+ years with Java © 2+ years programming on LINUX
+- 3 years with Ada 1 year with JavaScript e Experience with SQL, SOA, SOAP. MVC, IIS
+- 1+ years with Clear Case © Agile development.
+
+WORK EXPERIENCE
+---------------
+
+Application Developer, 03/2013 - Current
+
+Ibm Corporation - Piscataway, NJ
+- Compiler error and warning cleanup for C/Unix files.
+- Batch programming in C.
+- Medicare Project
+
+Embedded Software Engineer, 10/2012 - 03/2013 Viasat Inc. - Bryan/College Station, TX
+- Design and Implement development and test infrastructure via Google Mock
+- Create user stories to work on for each iteration Develop test suites, expand automated testing harness, and automate end to end tests
+- Analyze defect patterns and assist in determining cause and correction
+- Agile work environment
+
+- Tools/Languages: C++, Google Mock, Google Test, eclipse, Tortoise SVN, Confluence, JIRA.
+
+Software Engineer/Consultant, 02/2012 - 08/2012 Altair - Ann Arbor, MI
+
+Responsible for developing of new features and enhancements of existing functionality using C++, JavaScript, Java, C#, NET, ASP.
+HTML, XML Facilitated effective team interaction and appreciates each team members’ contributions.
+
+- Communicated effectively with team members and project leadership to identify needs and evaluate alternative business solutions.
+
+- Communicated and enforced coding standards.
+
+Continually sought opportunities to increase product quality and customer satisfaction.
+
+Used SQL Server including stored procedures, functions, views, and triggers.
+
+Worked with complex relational database concepts and strategies using SQL, SQL Server.
+
+Worked in an Agile environment.
+
+Created well designed, reusable objects through mastery of object-oriented practices and design patterns.
+Consistently designed and coded superior technical solutions.
+
+- Communicated effectively with team members and project leadership to identify needs and evaluate alternative business solutions.
+
+Contractor Software Engineer, 07/2011 - 11/2011 Verizon Communications - Kansas City, MO
+- Performed DR analysis that included estimation of completion times, analysis of the different services/components of the system that would be affected, and which regression tests that needed to be performed.
+- Developed and tested file system analysis scripts for Factory Systems (FOSS) in Java and shell script on UNIX and LINUX systems.
+- Worked in Agile development environment Developed a tool for gathering image data from an Oracle database.
+- This was a server side application in an SOA system.
+- Programming was done using SQL and Java.
+
+- Tested own code projects Programming languages used: Java, Perl, SQL Technical tools: JavaNet Beans, Unix, Linux, Struts, Oracle, UML
+
+Modeling, Visio Studio, Visual Studio, IIS, XML.
+
+Software Automation Engineer, 09/2010 - 06/2011 Texas Instruments - City, STATE
+
+material handling, and decision support capabilities.
+Developed projects in UNIX and LINUX environments Programmed using Java, C++, SQL (using Oracle middleware), and a TI
+
+proprietary version of shell scripting.
+
+Most projects worked were server side applications in an SOA system.
+Utilized Test Driven Development (TDD) techniques One project worked was on an application server SOAP, XML, and Java Worked all
+projects from end to end Tested own code for all projects Worked with factory organizations and vendors to understand, analyze, and
+
+define system requirements and modified equipment Supported production applications in a Semiconductor Automation Application
+Development: Used SEMI Communication Standards (SECS I, SECS I, GEM, and HSMS) to communicate with equipment Developed
+applications using TI's AutoShell equipment automation and system integration toolset.
+
+Software Engineer, 2005 - 09/2010 Boeing - City, STATE Software Development
+
+- Programming Languages: C++, C
+
+Developed a portion of the requirements, design, and implementation for Advanced Interactive Graphics Panel (AIGP) project
+- This project was a front end application
+
+Developed an ICD for all variables for AIGP project
+
+Conducted and attended peer reviews on AIGP and other projects
+
+Developed Windows GUI to transfer MS DOS computer display to GUI
+
+- Obtained Secret Security Clearance (05)
+
+Software logic and GUI developed and tested in C and C++ on Microsoft Windows and UNIX platforms
+
+- Technical Tools: Visual C++, MFC
+
+Worked on software project from end to end
+- Tested own code throughout lifecycle of project
+
+Software Test
+- Converted and tested Block III Apache helicopter pilot and co-pilot display scripts
+- Compiled Block III Apache scripts
+- Participated in reviews of Apache scripts
+- Programming Languages: C, C++, Java, JavaScript
+- Technical Tools: Junit, Visual C++, Visual Studio, Java Servlets
+- Tested own Java software scripts
+
+- Server side software was tested in an SOA system
+
+Software Quality
+- Reviewed and updated various process documents
+- Witnessed software demonstrations and tests
+- Aided in loading and verifying software builds
+- Administrated and performed requirements, code, configuration management, and formal test audits
+- Reviewed code in Ada, C, and C++
+
+Designed, developed, installed, modified, and supported new and existing factory machine automation applications, equipment monitoring,
+
+EDUCATION
+---------
+
+B.S: Computer Science and Engineering, May 2004 University of Illinois - Chicago, IL
+
+Net (C#, ASP) Developer Certificate Program: March 2011 Depaul University - Chicago, IL
+
+M.S: Software Engineering, March 2007 DePaul University - Chicago, IL
+
+PhD: Information Technology, Exp. Grad, 2014 Capella University - Minneapolis, MN
+
+ADDITIONAL INFORMATION
+
+Highly motivated, well organized, determined software engineer with professional experience with programming in C, C++, Java, SQL, Ada.
+and scripting languages. A talent for analyzing problems, developing and simplifying procedures, and finding innovative solutions. Proven
+
+ability to work effectively with persons from other cultures and all walks of life. A passion for acquiring new skills and techniques and utilizing
+them to benefit the team and the project at hand.
+
+ACCOMPLISHMENTS
+
+Featured in DePaul University Alumni Publication 2010
+
+- Award Recognition in The Chancellor's List 2005 and 2006
+
+Award Recognition in The National Dean's List 2002
+
+National Society of Black Engineers Torchbearer Award 2002, 2005-2006
+
+The Ohio State University Minority in Engineering Academic Award 2001-2002
+- Women In Science and Engineering NASA Scholar 1998-2000
+
+Honor Roll 1998-2002, 2004-2006
+
+PROFESSIONAL AFFILIATIONS
+
+- HP North Texas Black Employee Network Communication Chair 2013
+
+Dallas ISD Advisory Board - Information Technology 2013
+
+- Association of Information Technology Professionals 2011-2013
+
+- Urban League of Greater Dallas Young Professionals 2011- 2013
+
+Golden Key International Honor Society 2006-2013
+
+National Society of Black Engineers 1998-2013
+
+- DePaul University Alumni Association 2007 - 2013
+
+University of Illinois Alumni Association 2004- 2013
+
+Society of Women Engineers 2000-2002, 2004-2006, 2009-2010
+
+- Boeing Women in Leadership Affinity Group 2005-2007
+
+- Secretary, Boeing Black Employees Association- Mesa Affinity Group 2005-2008
+- Association of Computing Machinery Women 2004 Association of Computing Machinery 2000-2002
+
+SKILLS
+------
+
+Years of C++ experience
+
+Java, SQL, and C Programming experience
+
+- UNIX, Linux, HTML experience
+
+JavaScript, and XSL and XML software
+
+Software development using a component-based approach
+
+Clear Case Versioning Tool, software and Perl Programming
+
+LISP, Assembly Language
+
+Java, Applet Programming Electrical Circuit Design experience
+
+- Experience with computer networks
+
+Building or creating makefiles Database Technology, JDBC Microsoft Office, Excel, Word, Access
+Microsoft Visual Studio
+
+Microsoft Visual C++
+
+- MFC
+
+J2ZEE, SOA, SOAP
+
+Ada programming
+
+DOORS Requirement Management Tool
+- Sherlock Peer Review Planner
+
+PVCS File Versioning Tool
+
+- Ant, JUnit
+
+Java NetBeans
+
+Java Servlets
+
+Cookies and Session Tracking
+- Apache Tomcat Server Trained in CMMI V1.2
+
+- C#
+
+Net Framework
+
+- MVC
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

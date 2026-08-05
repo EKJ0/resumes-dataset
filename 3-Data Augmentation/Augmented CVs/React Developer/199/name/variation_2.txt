@@ -1,0 +1,144 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+PROFESSIONAL
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Greg Baker
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+- Over 2 years of experience in software design and development using C#, ASP.NET 4.0, .NET Framework 4.0, ASP.NET MVC 4.0. HTMLS, CSS, JavaScript, JQuery, AngularJS, DurandalJS,
+KnockoutJS, AJAX, SQL SERVER 2008/2012. WCF Web Services 4.0. ASP.NET Web Services, IIS 7.5/7 .0/6.0.
+
+- Extensive experience in working with JavaScript, JQuery, CSS3 and HTMLS to ensure client side UX quality.
+
+- Proficient in creating Stored Procedures, Triggers, Views, Jobs and all possible Database Tasks
+in SQL Server 2008/2012.
+
+- Proficient in managing database operations using ADO.NET, LINQ & Lambda Expressions.
+
+- Proficient in implementing N-Tier and MVVM based applications.
+
+- Experience in implementing client based, supplier and asset management solutions.
+
+- Experience in working on Twitter Bootstrap, Flatstrap, Less, WinLess, CSS3.
+
+- Experience in using nUnit to test and detect possible problems for related application.
+
+- Proficient in working with teams, working as a pair, providing efficient and professional solutions.
+
+- Proficient in working on different environments, languages and platforms.
+
+Languages: C#,HTMLS5, JavaScript, CSS, XML, JSON, SQL, C/C++, AJAX
+
+Frameworks: ASP.NET 4.0, ASP.NET MVC 4.0, Entity Framework, WCF, LINQ, ADO.NET, Web Services,
+JQuery, AngularJS, DurandalJS, KnockoutJS, Twitter Bootstrap.
+
+Databases: SQL Server 2012/2008, SQLite, MySQL
+
+Tools: Visual Studio 2012/2010/2008, SQL Server Management Studio, SQL Server Data Tools, ServiceNow.
+Source Control: TFS 2012/2010, SVN
+
+Operating Systems: Windows XP/Vista/7/8 Ubuntu
+
+Methodologies: Agile, Scrum
+
+Web Servers: IIS 8.0/7.5/7.0/6.0, XAMPP. WAMP
+
+SERVICENOW / JAVASCRIPT DEVELOPER 10/2014 to 11/2015 Jumio | Us (Remote), AK
+
+Description: ISMP is an internal web application which is a ServiceNow PaaS used by Intel to track its Assets.
+Although the main purpose of ServiceNow is IT Service Management, Intel has a custom way to use it for
+tracking all type of hardware.
+Responsibilities:
+- Designed and implemented custom UI for Lab Users using AngularJS, JavaScript and HTMLS.
+- Created Business Rules to control database operations.
+- Created ACLs to drive Access Management.
+- Created Client Scripts using JavaScript to enhance out of box ServiceNow UI.
+- Designed and Created new Database Tables to enable new features for various User Groups.
+- Created Scheduled Jobs to fetch data from External Systems (mostly from IP Trak).
+- Designed and Implemented Outbound Web Services for External Systems so they can easily update records in ISMP.
+- Designed and implemented custom classes for enabling dynamic Inbound REST calls which was not provided by ServiceNow.
+- Created instant and automated email notifications which will basically generate transaction summary for the users.
+- Created Runnable Scripts to maintain data in Production Server in case of any data mismatch.
+- Worked extensively with various Product Groups on a daily basis to gather information for new requirements and enhancements.
+- Provided instant support and solutions for Production Incidents. Environment: ServiceNow, AngularJS, JavaScript, HTML5.
+
+FLOL STACK DEVELOPER 2014 to 10/2014 Avanade | Alpharetta, GA
+
+Description: These are 3 different applications which are aiming to enhance Intel's Supplier Presence Site.
+Supplier Presence Site is a web portal which hosts more than 50 applications to manage communication
+between Intel and Suppliers. Applications are named as IMC Lot Disposition, Supplier Investigation Request
+and Supplier Disposition Request. Main purpose of all these 3 applications are enabling easier
+communication and keeping track of issue management with different set of Suppliers. By using these
+applications, Suppliers are able to create cases regarding their request, add attachments, see the status of
+case anytime, get live notifications by e-mail and through website when there is a response from Intel, take
+necessary actions and respond based on Intel's action request and generate report of their old cases.
+Responsibilities:
+- Designed and implemented application using C#, ASP.NET Web Services, JQuery, AJAX, HTML5, JavaScript and CSS3.
+- ADO.NET is used to connect SQL Server and execute Stored Procedures.
+- Created Stored Procedures to handle communication between Web Services and SQL Server.
+- Used jQuery to handle any type of DOM Manipulation and also consume Web Service by the use of AJAX.
+- Used JavaScript libraries such as jQuery.fileupload, jQuery.multiSelect, jLing, jQuery.validate, jQuery.dialogextend to reduce the amount of plain JavaScript code needed and use jQuery instead.
+- Implemented C# Proxy to handle Web Service Calls since our Web Services are not public and not consumable directly from JavaScript.
+- Used jqGrid with jQuery/JSON to provide up to date and flexible grid experience.
+- JSON is used as content type of all Web Service methods.
+- Created Helper Classes to handle Attachments and engage with External FILE API. Successfully implemented functions to split incoming files (Byte Arrays) into chunks and convert them to Base64String.
+- Implemented Common Components for shared functionalities such as Exception Handling and Calling External Intel Services and used them as reference in all 3 projects.
+- Used HTMLS5 and CSS3 to generate user friendly and responsive User Interface.
+- Used Ling and Lambda Expressions when necessary to handle data operations in backend.
+- Designed and Implemented Business Layer and Data Layer to separate business and data related operations and create an easy to manage Web Service structure.
+- Created a solution which works in all Environments without a single line of code change. Added critical variables and environment related keys to machine.config.
+- Prepared Unit Test cases and performed unit testing.
+- Took responsibility in modifying SQL Server Batch Jobs for new applications.
+- Based on the report given by CHECKMARX Security Checker, modified the source code to match current security standards.
+- Successfully delivered Applications on schedule without any delay. Environment: Visual Studio 2010, ASP.NET 4.0, SQL Server 2012, C#, LINQ, AJAX, JSON, HTMLS5, JQuery, jqGrid, JavaScript, CSS3.
+Public URL: https://supplier.intel.com
+
+FRONT END DEVELOPER 07/2013 to 2014 Wisconsin Physicians Service Insurance Corporation | NJ, State
+
+Description: Silhouette is an [T-developed web application provides users with the ability to visualize and
+update Jama data in ways that aren't possible, or sub-optimal, in Jama. Silhouette's futuristic vision is to
+create a seamless UX that lets users interact with our Project Lifecycle Management (PLM) tool chain.
+Responsibilities:
+- Designed and created custom UI with HTML5, CSS3 and Twitter Bootstrap.
+- Implemented custom search functionality by using KnockoutJS.
+- Used jQuery to consume Silhouette Web API.
+- Created custom Error Dialogs based on error type and user roles.
+- Took responsibility on enhancing database design and modifying existing tables based on customer needs.
+- Used jQuery and JavaScript to migrate part of the data calculations from backend to frontend which improved the performance.
+- Worked with the QA tester on a daily basis to fix existing defects.
+- Created a report on UI design cons&pros, performed presentation to senior developers. Environment: Visual Studio 2010, ASP.NET 4.0, C#, DurandalJS, KnockoutJS, JQuery, JavaScript, HTML5, CSS3, AJAX, JSON.
+
+AFOLICATION DEVELOPER INTERN 05/2012 to 07/2012 VeriPark Inc. | City
+
+Description: This is a web based Expense Management System designed and implemented for VeriPark to
+improve their existing application. Employees, Managers and Accountants can use the system simultaneously
+to add, delete, edit or track their expenses. Expense requests can be approved or can be rejected for
+reconsideration by Managers and Accountants. The system has an automated reminder which sends e-mails
+to corresponding users and also has a user management system for assigning roles to each user.
+Responsibilities:
+- Designed and implemented application using C#, ASP.NET 4.0 Web Forms, ADO.NET, CSS, JQuery and AJAX.
+- Designed and implemented different User Interfaces for different user groups.
+- Created Session Management to restrict or allow access to a specific content based on the role of the user.
+- Used ASP Validators to validate the given text in the fields.
+- Used AJAX Extenders to perform easier and better user interaction.
+- Created JavaScript functions to prevent any input that is not allowed by database, also created functions to do dynamic operations in the client side and improve performance.
+- Involved in database design.
+- Created a Windows Service to check database and send e-mails automatically to the users on a specified period of time.
+Environment: Visual Studio 2010, C#, ASP.NET 4.0, SQL Server 2008, JQuery, AJAX, JavaScript.
+
+Bachelor of Science | Information Systems Engineering 2013 Binghamton University - State University of New York (SUNY), Binghamton, NY
+
+Bachelor of Science | Information Systems Engineering 2013 Istanbul Technical University, Istanbul
+
+Miter of Science | Software Engineering International Technological University, San Jose, CA

@@ -1,0 +1,195 @@
+Greg Baker
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+I am a Full-Stack Developer with 3+ years of experience. I was initially captivated by software engineering due to a love of investigation,
+innovation, and creative solutions, leveraging soft skills and programming knowledge to build extraordinary progressive web applications. I am
+always looking for ways to grow, improve, and learn new things. I'm just hoping to change the world one line of code at a time.
+
+SKILLS
+------
+
+- Python © Multithreaded development
+- Javascript e STL C++
+- Typescript © Data visualization (D3_js, Chart2.js, leaflet.js)
+- React TSX * Oracle Database
+- C++ Programming Language © PostgreSQL
+- Node Js * MySQL
+- Flask © Git
+- Scikit library © Google Cloud Platform
+- GraphQL ° AWS
+- CD/CI pipelines e Heroku
+- Object Oriented Programming’ Design Patterns © Jupyter/Anaconda
+- Memory management e Linux
+
+WORK EXPERIENCE
+---------------
+
+Full Stack Developer, 04/2020 - Current Horizontal - Cincinnati, OH
+- Development of progressive web applications.
+
+Front end : Typescript, React.tsx, Ionic framework, Integration and unit testing.
+Backend : Python (Flask : Mail, Login, SQLAIchemy, SocketIO, Cors) - DataBase : PostgreSQL
+
+Data visualization : D3_js, Chart2.js, Leaflet.js, Ag-grid, MDBTables.
+
+- Axios, Redux, Flux, Hooks.
+
+Cypress, Jest, and Enzyme.
+
+Project Management System : Taiga
+
+API design experience using Open API (Swagger)
+Web-based technologies (HTTP, JSON, WebSockets, RESTful Web Services , Babel, Webpack and NPM )
+Contribute back-end development experience and collaborate on multiple APIs and websocket crucial to functionality.
+
+Conduct full life-cycle software development in multiple software environments.
+
+Collaborate with agile development team to test, develop and maintain web and desktop-based software applications.
+- Gather, define and translate client requirements into product stories and actionable tasks.
+
+Define and conduct design processes at all stages, including research, conceptualization, testing and implementation.
+
+Freelance Full Stack Developer, 11/2016 - 09/2019 Freelancing Web Applications - City, STATE
+Clients : SCSU cs department, Rs Metrics, Yale University
+
+Develop single-page applications using React JSX
+
+Backend : Python (Flask : Mail, Login, SQLAIchemy, SocketIO, Cors)
+
+- Experience with web-based technologies (HTTP, JSON, WebSockets, RESTful Web Services, etc.)
+- Experience in web tooling such as Webpack, NPM, Yarn
+
+Design, implement and deliver high quality software solutions that conforms to architectural standards
+
+Define database design specifications based upon project requirements.
+Develop data models and database designs to plan projects.
+
+Web Application Developer Intern, 03/2016 - 09/2016 Capgemini - City, STATE Responsibilities :
+
+Responsible for development of new highly-responsive, web-based user interface
+
+Work and collaborate with the rest of the engineering team
+
+Work with product team and graphic designers
+
+Lear and understand user interactions
+
+Develop a flexible and well-structured front-end architecture, along with the APIs to support it
+- Programming Language : Python
+
+Front-end : React.JSX, Bootstrap
+
+Database: PostgreSQL
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer Science, 08/2020
+
+Southern Connecticut State University - New Haven, CT
+
+Computer Science
+
+Gateway Community College - New Haven, CT
+
+Bachelor of Science: Computer Engineering, 08/2016
+
+Ecole Marocaine De Sciences De L'ingenieur - Casablanca, Morocco
+
+ACCOMPLISHMENTS
+
+Single-page Application Smart Survey:
+
+Developed a single-page application that is intended to allows the faculty members to have an efficient platform for creating customizable and
+dynamic surveys.
+
++Heroku
+
++Web Framework : Flask
+
++Programming Language : Python
+
++Template Library : Jinja2
+
++JSON, CORS origin
+
++Front-end : React JSX and HTML5S/ CSS (Bootstrap)
+
+Mobile Application MysterEats :
+Developed a friendly mobile web application.
++Google map APIs, Uber APIs
+
++Web Framework : Flask
+
++Programming Language : Python +Template Library : Jinja2
+
++Front-end : HTML5/ CSS and Javascript
+
+Process Management Application in C++:
+
+Developed an application that manages a process execution, wait and turnaround time.
+- C++
+
++STL
+
+- Object Oriented Programming
+
+- Multithreading development
+
+Data Mining Final Project in Python:
+
+The project is mainly about exploring a large dataset in order to analyze and generate new information using Python and Scikit library.
+Project achievement :
+
+- Exploring Large Dataset.
+
+- Analysis.
+
+- Practice for model evaluation.
+
+- Practice for machine learning algorithms.
+
+- Jupyter, PyCharm and Anaconda expertise
+
+Mario Sokoban and Mario Target Shooting in C :
+
+Developed 2D games using SDL, Fmod and C as a programming language.
++C€
+
++SDL
+
++FMOD
+
+Dictionary Manager in C:
+
+Developed a memory manager program.
++C€
+
+- Memory management
+
+- Algorithms, Data structure
+
+Process and I/O Management in C:
+
+Developed a program that manages a process execution on a single CPU and I/O using C programming language.
++C€
+
+- Memory management
+
+- Algorithms, Data structure
+
+Design a 4/8 bit Processor ARM assembly :
+
+Designed an ARM Processor and have successfully been able to run it virtually on Logisim.
+- ARM assembly
+
+- Keil
+
+- Logisim
+
+- Computer systems
+
+Southern Connecticut State University Dean's list for spring 2020

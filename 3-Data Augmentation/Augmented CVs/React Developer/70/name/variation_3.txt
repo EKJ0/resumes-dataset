@@ -1,0 +1,241 @@
+Lakisha Washington
+
+SUMMARY
+-------
+
+HIGHLIGHTS
+----------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+SKILLS
+------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Senior Developer with over 15 years of experience in the financial services industry.
+
+C++/C, Java, C#, VBA, SQL, Perl
+Environments: Windows XP. 2000, NT, Unix, Solaris, Linux
+
+APIs/Protocols: FIX, CME iLink, MDP, FIX/FAST, Wombat, TT FIX, XTAPI, Sterling, Activex, ICE
+iMpact, LiffeConnect, Eurex/Xetra VALUES, eSpeed, BrokerTec OMNIAPI, ICAP iConnect, HotspotFX, ArcaBook, ArcaDirect, GL SLE,
+CBOE CMi, BOX MMTP/HSVF, Tibco, TCP/IP. IP Multicast
+
+Toolkits: ACE, Boost, STL, .NET, log4cxx, QuickFix, QuantLib, Intel TBB, Google protobuf, Other: UML, Visual Studio, SourceSafe, Excel,
+Visio, SQL Server, BoundsChecker, CORBA, ATL, COM, ADO, XML, SAX, JBuilder, Rose, ClearCase, Sourceintegrity, InstallBuilder
+
+LEAD DEVELOPER 07/2006 to PRESENT
+
+Dave Ramsey | Franklin, TN
+
+Architected and implemented the firm's trading API.
+
+It was written in C++, and supported connections to multiple exchange endpoints.
+
+It was responsible for order/position management, routing, and receipt of quote data.
+
+The API also utilized ACE and Boost libraries for common tasks such as event handling, managing
+threads, synchronization and socket communication.
+
+Was designed to minimize dependencies on 3rd party APIs, making migration to different vendors
+transparent to client applications.
+
+It is currently being used in all new client applications.
+
+Led design and was involved in implementation of a generic n-legged spreading engine.
+
+Written in C++, it was built on top of the firm's API, and had an attached C# GUI as the front-end.
+Also involved in ongoing enhancements per trader requests.
+
+The engine has been utilized for trading in CME Eurodollar futures/spreads, equity index futures,
+eCBOT treasuries and grains, and the market-making program for Eurodollar packs and bundles to
+realize commission rebates.
+
+Managed the department's migration from CME MDP to FIX/FAST, using Wombat API as the quote
+vendor.
+
+Involved in installation and configuration of the Wombat Linux servers, and implemented the in-house
+price feeds using Wombat's MAMDA API.
+
+Led the effort for the technology side of an equity pairs trading system.
+
+Involved in the design and first pass implementation, which used Sterling API and Excel/VBA as the
+trading platform.
+
+Managed the daily tasks of a group of 3 developers.
+
+Determined project prioritization, resource allocation, scheduling, and requirements gathering for new
+systems.
+
+Specified coding standards and led code reviews to improve software quality.
+
+Also managed the continuous interaction with traders regarding new features and ideas for trades.
+Managed design and development of a front-end used for manual trading.
+
+The application was written in C#, and provided screens for order placement, book management,
+position management, and viewing of market data.
+
+It also made use of a .NET version of the firm's API.
+
+Was implemented in order to cut costs and overhead by removing the need for 3rd party front-ends.
+Tracked down performance bottlenecks in the firm's API and middleware libraries, resulting in
+recommendations on improving order transaction latency by 1-2 ms.
+
+Used Intel Threading Building Blocks (TBB) as the debugging tool.
+
+Implemented a basket trading system for a floor trade in Excel VBA.
+
+The spreadsheet used Sterling's ActiveX API and traded approximately 35 - 40 stocks.
+
+TRODING SYSTEMS ANALYST 08/2003 to 07/2006
+
+Belvedere Trading | New York, NY
+
+Working with a senior trader, implemented a Eurodollar spread trade in Excel.
+
+The system used VBA and TT XTAPI to quote various Eurodollar futures and spread markets on the
+CME.
+
+Once filled, the system performed simple hedging.
+
+Designed, developed, and maintained an order routing framework, which was used to create the firm's
+trading gateways to TT, eCBOT, CME, Eurex, EurexUS, eSpeed, BrokerTec, Hotspot, INET, and Arca.
+All gateways were written in C++ and managed orders from multiple gray box trading clients.
+
+A proprietary database library was used for order management, allowing for high speed transaction
+processing and persistence.
+
+Also involved in ongoing trader support and debugging of system issues.
+
+The direct to market gateways replaced the ongoing monthly cost of various 3rd party systems, such as
+GL and Portware, and improved transaction latency by removing extraneous server hops.
+
+Designed, developed and maintained a market data framework, which was used to create the firm's
+feed handlers.
+
+All feeds were implemented in C++ and provided market data from eCBOT, CME, Eurex, EurexUS,
+eSpeed, BrokerTec, Garban, Hotspot, TT, and INET.
+
+The system distributed data over IP multicast.
+
+Also developed a C# RTD component that allowed traders to view prices in Excel.
+
+Involved in development and maintenance of the middleware library used to route messages through
+the infrastructure.
+
+Components were developed in C++ and communicated using text and serialized object messages over
+TCP connections.
+
+The library also included wrappers for OS specific objects, such as threads. locking mechanisms, files,
+and sockets.
+
+Developed an eSpeed smart order router.
+
+The component received orders from client applications and sent them to multiple eSpeed API
+connections using a round robin algorithm.
+
+Was implemented in order to avoid the eSpeed API limitation of having 1 order per price level.
+Developed test components for the exchange gateway servers and client software.
+
+Using the NET framework, implemented a GUI used for order placement and book management.
+
+Used as the front-end tool for certifying direct to market gateways with exchanges, allowing for a more
+efficient test cycle.
+
+SCC}TWARE ENGINEER/CONSULTANT 07/2000 to 08/2003 Capital Markets Consulting | City, STATE
+
+.
+
+Involved in the design and development of a BOX market data gateway.
+
+The system was implemented using FIX on the client-side, and used MMTP/HSVF protocols to communicate with the BOX trading engine.
+
+Was primarily responsible for coding the MMTP/HSVF modules.
+
+Developed, tested, and supported a server-side gateway of a single stock futures trading system.
+
+The system was implemented in Java in a Solaris environment, and included both order entry and
+market data servers.
+
+The Tibco API was used as the client-side transport, and the CBOE CMi API was used to communicate
+with the CBOEDirect trading engine.
+
+The system made use of Tibco fault tolerant libraries to ensure high availability.
+
+Involved in the full software development life cycle, from the creation of design/functional specifications
+and UML class/sequence diagrams, to full-scale production rollout.
+
+Developed and tested a C++ exchange gateway on NT as part of a futures and options order routing
+system.
+
+The system received client messages over server-side socket connections and communicated them to
+the CBOT A/C/E and Eurex trading engines, using the VALUES API.
+
+Implemented and tested OLE DB COM interfaces for SQL Server 7 database access.
+
+Also enhanced and maintained an MFC application to be used as a monitoring and admin tool for the
+system.
+
+Designed, developed, and tested a C++ component on Solaris as part of a futures and options order
+routing system.
+
+The system converted client FIXML messages received from Oracle AQ to exchange-specific API data,
+and routed it to multiple trading engines using the VALUES API and CBOT OrderDirect.
+
+Using Rational Rose, also created UML class/sequence diagrams and design specifications.
+
+Involved in design and development of a C++ order routing gateway product that communicated with the
+CBOT A/C/E, Eurex, and Xetra trading engines.
+
+The system received client FIX messages and routed them to the different exchanges using the
+VALUES API.
+
+Also involved in ongoing maintenance and support for customer installations.
+
+Heavily involved in design, development, and testing of a C++ FIX engine and API on NT.
+
+Implemented session management, protocol, and message validation logic.
+
+Enhanced and maintained the asynchronous /O module, which used Win32 completion ports.
+Implemented status interface to allow for admin monitoring of client applications.
+
+Also involved in the API port to Linux and Unix.
+
+Developed and tested C++ Win32 API wrapper classes for the Windows registry and event log.
+
+Also utilized SAX XML Parser to implement a configuration interface.
+
+Designed, developed, and tested a C++ price conversion library used to convert display formats to/from
+tick values.
+
+Also implemented a COM interface allowing easy use by VB client applications.
+
+SCOTWARE ENGINEER 01/1999 to 06/2000 Rapistan Systems | City, STATE
+
+Involved in the design, implementation and testing of a C++ software product used to monitor and
+control warehouse conveyor systems.
+
+Created UML class and sequence diagrams using Rational Rose.
+
+The system made use of socket/serial connections and ADO objects for SQL Server access to route
+packages real-time through distribution warehouses.
+
+Also involved in the installation, configuration, and on-site support and maintenance of the system.
+Designed, developed, and tested a C++ ActiveX Data Objects (ADO) component of warehouse conveyor system and order picking software.
+
+Maintained and supported a C++ tools library, which included abstractions for file/database logging,
+sockets, event handling, and configuration tools such as the Win32 registry.
+
+Bachelor of Science | Computer Science 1998
+
+Calvin College , Grand Rapids, MI
+GPA: GPA: 3.25
+
+- NET, Activex, ADO, API, ATL, book, C, C++, ClearCase, COM, conversion, CORBA, client, clients, database, debugging, equity, Excel VBA, Excel/VBA, XML, FAST, features, functional, futures, gateways, gateway, GL, GUI, Intel, IP. Java, JBuilder, Linux, logging, logic, managing, market, access, C#, Excel, exchange, MFC, SQL Server 7, Win, Windows, 2000, NT, Windows XP, middleware, migration, OLE, OS, Oracle, DB, order entry, order management, Perl, coding, Protocols, quality, Rational Rose, real-time, requirements gathering, router, routing, scheduling, servers, sockets, software development, Solaris, SourceSafe, spreadsheet, SQL, SQL Server, TCPIIP, threads, Tibco, trading system, transaction processing, UML, Unix, validation, view, Visio, VBA. VB, Visual Studio, Written

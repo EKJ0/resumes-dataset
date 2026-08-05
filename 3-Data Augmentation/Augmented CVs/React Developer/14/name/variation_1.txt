@@ -1,0 +1,126 @@
+Emily Walsh
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+Website, Portfolio, Profiles
+
+- http://sciencescholar.us/journal/index.php/ijhs/article/view/7650
+- https://www.linkedin.com/in/Jessica-Claire-12947724a/
+
+EDUCATION
+---------
+
+Master of Science: Information Technology Project Management, 05/2024 Arizona State University - Tempe, AZ
+
+Bachelor of Science: Computer Science, 05/2022 VIT UNIVERSITY - Chennai,IN
+GPA: 8.34/10
+
+- Elected to Discipline Committee for Vibrance in 2018 and 2019
+- Head of Roboprix-18 and Roboprix-19 Editing Team
+
+- Member of Student Chapter
+
+- Elected Captain of Vibrance-18 and Vibrance-19
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Motivated student completing [Master's degree in Information Technology Project Technology. Experienced in Agile and Scrum
+environments. Supports team administrative, project coordination, design and programming needs. Fluent in English. School
+projects included building apps, optimizing programs and validating code.
+
+Software Engineer Intern dedicated to improving skills through hands-on learning and development work. Proficient in mobile and
+desktop development environments. Adept at using HTMLS5, JavaScript and other programming languages to produce clean code.
+Well-organized and collaborative team player with strong communication and analytical abilities.
+
+SKILLS
+------
+- Programming: ¢ HTML, CSS, and XML proficiency
+- PYTHON, C/CH, Java * Software Development and
+- FRONTEND: REACT © Virtualization
+- OS: WINDOWS, LINUX ¢ Database Programming
+- GitHub, GIT SVN « Agile
+- Web app development and ¢ Testing and maintenance
+- Development standards ¢ HTML and CSS proficiency
+
+- Algorithms and data structures
+
+WORK EXPERIENCE
+---------------
+
+Frontend React Developer Intern, 12/2021 to 03/2022 Conmet - Canton, NC
+- Collaborated effectively with members of the software development team and personnel in other departments
+- Prepared and submitted 50+ of the reports and other documentation to assist development team members
+- Tested applications for usability and adherence to 100% of the code plan
+- Wrote clear, clean code for 6+ projects
+
+- Assisted with creating software programs with 3 language switch features.
+
+Editing Assistant, 08/2021 to 11/2021 Disha Finance And Tech - City, STATE
+- Evaluated and selected scenes for pacing, entertainment value, and continuity, trim shots, and edited content
+- Organized assets by collecting data from camera media, transcoding video, and audio files, and managing file backup to the digital asset management system
+- Delivered 100+ edits with multiple camera angle choices, titles, graphics, audio, and special effects
+- Combined text, video, and other composited elements onscreen to create logical, coherent layouts
+
+- Exported final cuts and uploaded them to the content management system and client platforms.
+
+Human Resources Manager, 08/2020 to 03/2021 Dridh Sankalp Foundation - City, STATE
+- Processed employee claims involving performance issues and harassment.
+- Motivated employees through special events and incentive programs.
+- Implemented performance reviews and motivational strategies to elevate HR team results.
+
+- Streamlined HR efficiencies, coordinated new hire orientations and provided onboarding and training for 30+ new employees.
+
+Accomplishments
+
+- Published a Research paper at Scopus Journal on Abode Cybernation which is Home Automation System using the Internet Of
+Things http://sciencescholar.us/journal /index.php/ijhs/article/view/7650
+
+- Accelerated daily routines like checking emails and being on class schedules using Automation with Selenium, and python during the pandemic.
+
+- Created several Web Applications which proved helpful to my professors, and family business using PHP, MySQL, JavaScript, AJAX, and Python.
+
+- The absence of “Google Meet API” is a problem to schedule meetings via my Research Platform “Ve-Search”. I solved this problem by scripting my own bot in Selenium Python. This ingenious idea saved the feature with no compromise.
+
+- Achieved an ever-clashing Tic-Tac-Toe Game state with Reinforcement Learning and Rule-Based Learning models playing against each other with python.
+
+- Programmed for 3000+ hours with Python with a Hack rank.
+
+- Achieved accurate diagnostic analytics result of data sets drawn from World Bank on India~ Affluence, Economics, and Literacy with the help of Tableau, R.
+
+- Learned concepts of Machine Learning with the original implementation of a few algorithms in Machine Learning like State Vector Machines, K-Means, Decision Trees, etc. which showed par-excellent accuracies measured against their Scikit-Learn implementations.
+
+- Currently developing an “Automated Data Pre-Processor" using the web interface and PHP, Python, and R as backend
+
+programming languages.
+
+CERTIFICATIONS
+--------------
+
+- Certified Server-side Development with NodeJS, Express and MongoDB at Coursera.
+
+- Certified The Arduino Platform and C Programming at Coursera.
+
+- Certified CRASH COURSE ON PYTHON by GOOGLE at Coursera.
+
+- Certified BUILD A MODERN COMPUTER FROM FIRST PRINCIPLES: FROM NAND TO TETRIS (PROJECT CENTERED COURSE) by THE HEBREW UNIVERSITY OF JERUSALEM at Coursera.
+
+- Certified HTML, CSS, AND JAVASCRIPT FOR WEB DEVELOPERS by JOHNS HOPKINS UNIVERSITY at Coursera.
+
+- Certified FACIAL EXPRESSION RECOGNITION WITH KERAS at Coursera.
+
+- Certified INTRODUCTION TO DATA STUDIO by Google Analytics Academy at Coursera.
+
+- Certified GOOGLE ANALYTICS FOR BEGINNERS by Google Analytics Academy at Coursera.
+
+- Certified ADVANCED GOOGLE ANALYTICS by Google Analytics Academy at Coursera.
+
+Languages
+
+Telugu: Hindi:
+Negotiated: Negotiated:
+English: Tamil:
+Negotiated: Negotiated:
+Spanish:
+
+Negotiated:

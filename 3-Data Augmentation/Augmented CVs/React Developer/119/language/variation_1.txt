@@ -1,0 +1,121 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+- Software Developer specialized in MarkLogic and Java
+
+- Experienced in design and development of MarkLogic, Java , Xquery and related technologies over Client Server platforms.
+- Experienced in Service Oriented Architecture(SOA) and building REST and SOAP web services using MarkLogic and Java.
+- Experienced in building applications based on large datasets.
+
+- Well versed with Agile Model.
+
+- Delivered applications spanning complete SDLC.
+
+- Experienced working in offshore onsite model. and managing offshore teams.
+
+EDUCATION
+---------
+
+Bachelor of Technology: Computer Science & Engineering, 2008
+
+MotiLal Nehru National Institute of Technology - Allahabad
+
+GPA 7.9/10
+
+Courses Undertaken-
+
+Data Structures, Database Systems , Computer Networking, Systems Programming , Unix & shell scripting
+
+TECHNICAL SKILLS
+----------------
+
+J2EE technologies Core Java, Java Servlets, 45 Multithreading Internet technologies HTML, JavaScript, XML 4
+Scripting technologies Linux shell scripts, Windows batch scripts Web Servers Apache Web Server,
+
+Tomcat, Jetty Server
+
+Databases MarkLogic, MySql Operating Systems Windows Server,Red Hat Linux Configuration Mgt. Tools Clearcase, Tortoise SVN
+
+WORK EXPERIENCE
+---------------
+
+Associate Developer, 05/2011 - 2013 Hesc - Newkirk, OK
+- Working for LexisNexis(Client) and building Lexis Advance product -
+- Lexis Advance is legal online research application that enables law firms to analyze legal content.
+- Primary responsibilities include developing xquery and java code to create REST web services interface for Marklogic repository.
+- As part of search team I develop code for profilesuite search and alerts functionalities.
+
+Created shell scripts to automate tasks like forest rebalancing and updating bulk data in Marklogic repository using Corb and Xqsync
+
+Created LogFinder tool using shell script to search ML Error logs across cluster
+
+Created utility for doing differential and sync of Marklogic configurations across environments
+
+Work on MarkLogic and xqueries performance related issues in my modules.
+Key technologies include Marklogic. Xquery, Core Java, Servlets and multithreading, HTTP, HTML , Javascript.
+Developed Internal basic & advanced level certification for MarkLogic technology in Cognizant.
+
+Software Engineer, 06/2010 - 05/2011 Servicenow - Baltimore
+- Worked for Elsevier(Client) and contributed in implementation & maintenance of Elsevier Health Connect.
+- As part of content team developer code for back end search
+- Developed xquery modules and maintained Loading System (written in Java) supporting multiple Java web applications in Clustered Environment for Elsevier.
+- Created search for mobile app from scratch using Marklogic search-search API.
+- Handled MarkLogic related production issues and automated data loading process.
+
+Software Engineer, 04/2010 - 05/2010 Servicenow - Hartford
+
+- Created social network applications using Python , Google App Engine ,Object Oriented Javascript and Opensocial API.
+
+Software Engineer, 06/2008 - 03/2010 Servicenow - Kansas City
+- Worked in consulting role on multiple projects for customers like John Wiley, Zinio, Thetus, Sequoia .Mayo Clinic, American Society of Agronomy , LDS church for MarkLogic(client).
+- Responsibilities included analyzing requirements , designing and developing xquery code, setting up MarkLogic environment and loading transformed content into MarkLogic repository. John Wiley Custom Select-
+- Worked on creating UI.
+- Created search functionality using lib-search module. Upgraded code to use MarkLogic search:search API in later version.
+- Implemented online custom content generation using Adlib Server for pdf stitching. Thetus (POC) -
+- Built content ingestion and enrichment system on top of MarkLogic.
+- Implemented Geospatial search on 20 yrs. of NewYork Times data.
+- The work included enriching data with google geocoding api and MarkLogic entity enrichment.
+- Built geospatial search UI using google maps api.
+- Built web services to search and access data.
+- Tools Used- Recordloader, Corb Zinio -
+- Created Restful Web services to transform and ingest content in MarkLogic database and access.
+- Created pipeline to ingest content from ePub & Prism format.
+- Used JNVDL DTD validation American Society of Agronomy -
+- Wrote xquery modules to transform the content and built REST search API in xquery.
+- Used MarkLogic Content Processing Framework to create workflow for content ingestion.
+- Automated data loading using linux shell scripts.
+- Automated CrossREF DOI creation stuff. Sequoia -
+- The application enables user to generate reports and packages using the web browser.
+- Used MLJAM and Antenna house for XSLFO-PDF conversion.
+- Worked on improving functionality of application. Mayo Clinic -
+- Worked on enhancing search functionality.
+- The application enables user to load the 2007 office word documents into Marklogic and enable them to create custom word documents from existing content online.
+- Used RecordLoader for Loading. Tools Used: Recordloader, Corb , Apache Tomcat, MLJAM, Apache Web Server, Adlib server, SVN, TinyMce Editor , INVDL DTD Schema validation , XqSync ,CVS , Eclipse , Apache Ant Hands on Experience on Following MarkLogic Features-
+- Clustering
+- Content Processing Framework Geospatial Search( incuding Google APIs for Geocoding and Reverse Geocoding) Entity Enrichment Faceted Search
+- XML Transformation(eg.- Knowledge of various formats like Prism, NLM Journal Publishing Schema, DCML , Epub , Docbook , SGML) Schema Validation
+
+- Triggers
+
+- Library Services(Document Versioning)
+
+- URL Rewriting
+
+- Alerting (Reverse Query)
+
+- Xquery Code Profiling
+
+Bulk data update and copying using CORB and XqSync
+
+MarkLogic configurations
+
+Forest rebalancing Scripting MarkLogic Admin tasks
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

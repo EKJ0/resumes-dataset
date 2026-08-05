@@ -1,0 +1,223 @@
+Lakisha Washington
+
+SUMMARY
+-------
+
+HIGHLIGHTS
+----------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+SKILLS
+------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+7+ years of experience with Analysis, Design, Development, Implementation and maintenance of Intranet,
+Internet, database-driven, client-server, building of Web based enterprise solutions and Object Oriented
+applications. Extensive experience in C#, ASP.NET, VB.NET, ADO.NET, Web Forms, Web Controls, Win
+Forms. Expertise in designing ASP.NET based Graphical User Interfaces with CSS, jQuery JavaScript, AJAX,
+Telerik, Multithreading and HTML. Experience in designing and branding Master Pages utilizing Server
+Controls, User Controls, Data Grid control, Form Validation controls, Custom controls, CSS. Strong
+experience in data retrieval and manipulation using ADO.NET data objects such as Dataset, Data Reader.
+Data list, Data Adaptor. Experience in working with different object oriented programming techniques,
+Microsoft design patterns like Model View Control(MVC), Microsoft View Patterns (MVP) and Service Oriented
+Architecture (SOA), WCF, WPF, Web Services, and Data Transfer Objects (DTO). Experience in creating,
+testing and consuming Web Services. Experience in creating Windows Forms applications. Good exposure on
+WPF. Expertise knowledge in SQL, Store procedures, Triggers and User Defined Functions. Experience in
+creating SSIS, SSRS with SQL Server 2005/2008. Extensive experience in handling Internet Information
+Server (IIS), Creating and configuring the virtual directories, map them to physical folders and configuration of
+the applications for domain authentication in SQL Server 2005. Experience with SOA [Service Oriented
+Architecture] for project development and good knowledge on enterprise architecture systems. Experience in
+working on Visual Studio 2010/2008/2005 and SQL Server 2008 R2 /2005/2000. Experience in developing n-
+tier Web Applications. Experience with Software Development Processes & Models: Agile, Waterfall, & Scrum
+Model. Experience with ADO.Net, Entity Framework and LINQ to SQL Experience in gathering customer
+requirements and functional requirements and converting them to technical requirements.
+
+- 0/2.0, AJAX, WCF, SOA, LINQ, WSDL.
+
+- Web Technologies ASP.NET, MVC4, MVC3 ,HTML, CSS, ASP, JavaScript, VB script,
+
+- XML, XSL, JQuery, Angular JS, Backbone JS.
+
+- Database SQL Server 2008/2005/2000, DB2, Oracle.
+
+- IDE Tools VisualStudio201 2/2010/2008/2005, Eclipse, WebSphere, Dreamweaver.
+
+- Reporting Tools Crystal Reports 10/9.0, Data
+Reports, SQL Server Reporting Services 2005.
+
+- Version controls Visual Source Safe 6/5, Team Foundation Server, CVS.
+
+- Operating Systems Windows Vista/ XP/2000/NT/
+98/95, Windows Server 2003/2008, Unix.
+
+- Testing Tools N-Unit, Unit Testing, Load Runner.
+
+- Deploying tools IIS 7.0, Beyond Compare, Hudson, Jenkins
+
+SR. DOTNET DEVELOPER 04/2013 to 01/1 Altice Usa Inc. | Bethpage
+
+- Created multiple WCF services to provide information and transaction from UI.
+
+- Created Web services for standalone services like retrieving client's IP etc.
+
+- Created harness for internal testing using Asp.net.
+
+- Used ADO.net and Ling to Sq| to interact with database in harness project.
+
+- Created different console projects to interact with third party services like TicketMaster and GuestBridge, retrieve and saving in local database.
+
+- Used MVC 3 and 4 for creating user admin project to perform CRUD operations on products and promotions.
+
+- Used areas in MVC to separate new implementation logic for upgrading to new design.
+
+- Used threading in console applications for faster and efficient transactions.
+
+- Used XML creation and parsing (Ling to XML) techniques to send, receive and store in database in console application through EMS.
+
+- Use JSON creation and parsing using third party libraries to send, receive and store in database in console application through direct APIs.
+
+- Created windows forms application to switch the data in one database to local or other dev environment and to monitor reservation volumes.
+
+- Used Code first entity frame work method for data base operations Used Angular JS for performing few harness techniques like authenticating user, retrieving client IP and provide encrypted token by taking client's credit card info.
+
+- Used Backbone JS to develop complete UI to interact with rest services and perform transactions.
+
+- Worked in Agile and scrum environment to achieve smooth collaboration between self-organizing, cross-functional teams.
+
+- Managed off-shore team of size 10 successfully in delivering on time.
+
+- - Interacted with business team and delivered to off-shore for the accurate information.
+
+- Used jQuery and JavaScript for client side validations.
+
+- Used 3-layered architecture for developing all WCF services by separating business logic, database operations and interfaces.
+
+- Created templates using HTML templates and inserted dynamic data using Handlebar JS.
+
+- Used CSS for styling and alignments in UI.
+
+- Interact with QA to ensure the defects are properly cleared to attain the quality standards Providing demos to the QA team at the end of the sprint to push for its final stage.
+
+- Used Autofac for dependency injection.
+
+- Environment: VisualStudio2012, .Net 4.5/4.0, EF 6.0/4.0, C#, AngularJS, Handlebar JS, Backbone JS,
+CSS, MVC3 and 4, XML, XAML, WCF, Subversion, AJAX, jQuery/JavaScript, SQL Server 2008 R2 , IIS
+7.0, Web Services, N-Unit,ADO.net, Ling to Sql, Ling to Xml.
+
+WC3 DEVELOPER 03/2010 to 08/2011 Coretek Services | Farmington, India
+
+- Developed webpages and applications based on the management requirements and specifications.
+
+- Tested the complete functionality of the application by preparing test scenarios.
+
+- Designed Web Forms for all applications using Visual Studio 2010 and components using .NET framework.
+
+- Designed Windows Forms application for smaller applications like testing logins and Account forms.
+
+- Database operations include developing stored procedures and Triggers.
+
+- Used waterfall methodology for the development.
+
+- Developed ASP.NET Pages using C# and Server Controls.
+
+- Extensive use of JavaScript for user control validation.
+
+- Involved in documenting bug reports and build fixes.
+
+- Used ADO.Net and Entity framework 4.0 to Create, Retrieve, Update and Delete operations on the database.
+
+- Extensively working on Web-Services that are used for data retrieval and manipulation.
+
+- Participated in database modeling and development using SQL Server, Stored Procedures, Packages and Functions.
+
+- Manually tested the Fortis application including charting, reporting and printing health care reports.
+
+- Involved in resolving operational problems and systems failures by directing and/or performing systems audits, analyzing problems and developing clear, concise methods for resolution.
+
+- Environment: Visual Studio 2010, ASP.NET, Web Forms, Windows Forms, ADO.NET, Entity framework 4.0, C#, XML, IIS, JavaScript, SQL Server, CSS, Master Pages, VSS.
+
+DEDIGNATION: .NET DEVELOPER 02/2008 to 03/2010 Tata Communications | City, India
+
+- Developed a querying interface to enter customer details to search for existing details and obtaining grid view reports using Asp.Net, Ajax.
+
+- Developed a stored procedure search and obtain the data reports using facets to narrow down the search using ADO.NET Entity Framework and C#.
+
+- Implemented Stored Procedures, Triggers. Functions and Utilities in T-SQL to Query the Database and create Data Sources required in the generation of reports.
+
+- Designed Asp.Net Ajax events on user side to block the UI when an Ajax operation is in progress.
+
+- Used jQuery/JavaScript to fadeln and fadeOut effects to improve UI and client-side validations.
+
+- Developed Master pages and Nested Master pages in Asp.Net, which are used in the application to maintain consistency.
+
+- Used data validations using server-side and client-side validation controls.
+
+- Used Windows Communication Foundation (WCF) in NET 3.5 for creating Service end points and expose data for a module of the website.
+
+- Developed system services SOA application platform for use by all web applications utilizing Web services (SOAP, WSDL and UDDI), MSMQ, and the ASP.Net provider model.
+
+- Created different test scenarios for Unit, System and User Acceptance Testing.
+
+- Used SQL Server Notification Services in SQL Server 2005/2008.
+
+- Used Windows Share Point adapter and InfoPath to log Exception Documents.
+
+- Used SMTP mail class of NET for the users to send mail with alerts and notifications.
+
+- Environment: C#, Entity Framework 3.5, Visual Studio 2008, Perforce, WCF, ASMX Web Services, AJAX,
+jQuery, JavaScript, HTML, XML, ADO.NET, SQL Server 2005/2008, N-Unit.
+
+JRONET DEVELOPER 07/2006 to 01/2008 RT Outsourcing Services Ltd ICICI Bank | City, India
+
+- Requirement Analysis, Design, Development and Deployment.
+
+- Designed and developed complete front-end application using ASP /VB Web Forms.
+
+- Designed web forms by implementing CSS, HTML and JavaScript.
+
+- Designed and developed the GUI to input and retrieve data in C#.
+
+- Developed Business Logic Layer using C# as backend.
+
+- Created templates using Master Page and User Controls for menu, header and footer of the website which appears in all the pages.
+
+- Worked extensively on web forms using ASP and data binding controls like data list and drop down boxes.
+
+- Created stored procedures and queries in SQL Server 2005 Database in order to make changes in the Reports entered by users.
+
+- Used paging. updating and sorting features of data grid in reports.
+
+- Implemented validation using ASP.NET/ JavaScript validation controls.
+
+- Designed reports on screen for analyzing the performance.
+
+- Used Web-Services to host the application on internet.
+
+- Environment: Visual Studio 2005, C#, ASP.NET 2.0, ASP, PL/SQL, ADO.NET, JavaScript, XML, N- Hibernate, Web Services, HTML.
+
+Masters | Computer Engineering DECEMBER 2012 Wright State University, Dayton, OH.
+
+GPA: GPA: 3.85
+
+GPA: 3.85 Computer Engineering
+
+Baohelors | Electronics and Communications APRIL 2006 Vasavi College of Engineering Osmania University, Hyderabad
+Electronics and Communications
+
+TEOHNOLOGIES Languages C#, VB.NET, C++, C, SQL. .Net Technology .Net Framework GPA: GPA: 6.0/4.5/4.0/3.5/3.0/2.0 GPA: 4.5/4.0/3.5/3
+GPA: 6.0/4.5/4.0/3.5/3.0/2.0 GPA: 4.5/4.0/3.5/3
+
+- NET 3.5, .Net 4.5, NET, ASP.Net, VB.NET, ASP.NET 2.0, ADO, Dreamweaver, Agile, AJAX, ASP, C, C++, concise, credit, Crystal Reports, CSS, client, CVS, data base, Database, database modeling, directing, Eclipse, XML, features, Forms, frame, functional, GUI, HTML, DB2, IDE, IIS, IIS 7.0, IP, JavaScript, JQuery,
+JSON, Load Runner, Logic, C#, mail, Share Point, Windows, 2000, 98, NT, MSMQ, MVC 3, MVC, MVC3,
+MVC4, Operating Systems, Oracle, PL/SQL, organizing, Page, progress, quality, QA, reporting, Requirement,
+scrum, SMTP, SOAP. sorting, Visual Source Safe 6, Sql, SQL Server, switch, T-SQL, Unix, upgrading, Utilities,
+validation, VB script, view, Vista, VB, Visual Studio, VisualStudio, web applications, website, WebSphere,
+Windows Server, XSL

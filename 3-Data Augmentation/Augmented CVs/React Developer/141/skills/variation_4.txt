@@ -1,0 +1,143 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1XXX © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- 7+ years of experience in all the phases of Software Development Life Cycle that includes understanding requirement, technical
+
+analysis, design, development, Integration, maintenance, installation, implementation and testing of various web applications.
+
+MuleSoft experience in Development on Anypoint Studio, DataWeave, Transformers, APIkit Router, RAML, Anypoint Platform,
+API Management etc.
+
+Responsible to develop RESTful and SOAP web services in Mule ESB based on SOA architecture.
+
+Good experience using Mule ESB with Connectors, transformations, Routing, ActiveMQ, JMS and Data Transformations using
+Mule ESB.
+
+Good Experience in creating API specification, implement REST and SOAP services.
+
+- Experience in Automation build and deployment tools such as CI/CD process with Jenkins, GIT, Bamboo and Bitbucket
+
+Good implementation experience of WS-security, digital signatures, message encryption & decryption, SSL concepts and its
+
+implementation in Mule ESB and DataPower.
+- Experience with DB2 and Oracle Databases, Stored Procedure creation and DB integration with Mule ESB.
+
+Good experience in designing Flows, Sub Flows, and Exception handling strategies, Data Weave transformation and Mule
+Expression Language (MEL).
+Good experience in integrating applications using MQ, JMS, Web Services, HTTP, SMTP and FTP protocols.
+
+- Experience in multiple project life cycles design, implementation, testing and launching of the SOA Releases.
+
+- Experience in application development methodologies such as Waterfall, Agile and use Jira and serviceNow for Task/Project and issue management.
+
+- Effective communication and interpersonal skills, ability to work in a team/independently and adapt quickly to new and emerging technologies.
+
+Fast learner, nimble, flexible and able to adapt quickly.
+
+SKILLS
+------
+
+Integration: Mule 3.7, Mule 3.9 and 4.3 runtime, CloudHub Web Service: XML, JSON, XSLT, XSD, SOAP, REST
+Languages: XSLT, DataWeave, JavaScript, Java. Version Control Systems: Apache Subversion SVN , CVS, Git,
+Databases: Oracle, DB2 and MS SQL Server GitHub, and BitBucket
+
+Servers: WebSphere Application Server, Apache Tomcat, Apache CICD Tools: Jenkins, Maven, Nexus, Git, SVN
+
+HTTP Server 2.x, JBoss 5.x Platform: Windows, Linux, MacOS
+
+J2ee Technologies: Java EE, JSP, Servlet, EJB, JDBC, JNDI, JSTL,
+
+JPA
+
+WORK EXPERIENCE
+---------------
+
+MuleSoft Developer, 08/2021 to Current Nvent Electric Inc. - Boston, MA
+- Designing and implementing WMQ and WMB in huge and complex environments using high availability clustering
+- Deploy applications to different environments (Test, QA, and PROD)
+- Implement error handling and logging in the message flows
+- Create flows/orchestrations for integrating the components like connectors, transformers and scopes written on top of different internal platforms using Mule ESB for XML to CSV conversion
+- Use MuleSoft Anypoint API platform for designing and implementing Mule APIs
+- Work on XML technologies like XPATH, XSLT, XSD and data weave for data transformations
+- Organize flows, sub flows and global XML configuration files
+- Use partner WSDL for ESB to Salesforce integrations
+- Integrate salesforce with the MuleSoft for connecting applications, data sources and APIs, in the cloud
+- Develop, test and consume message flows that are exposed as both SOAP and Rest services to consumer applications
+- Create RAML specification, building APIs using API Kit Router in Mule applications
+- Create transformation logic using DataWeave, MEL and XSLT
+- Create reusable components such as global exception handling strategy and common logger
+- Design, develop and migrate flows (Mule ESB and WMB) base on requirements
+- Migrating existing applications flows from WebSphere Message Broker 6 to Mule ESB
+- Provide support for existing applications in all environments
+- Participated in team design and review meeting
+- Involved with team members to develop application in parallel
+- Prepare technical documents and turn over documents
+- Collaborate with developers with in my team and from other team members for effective implementation of projects
+- Perform end-to-end testing, resolve problems and validated the test results Environment: Mule ESB 4.3.x, AnyPoint Studio 7.x.x, API Manager, Altova, XMLSpy, API Gateway, Salesforce, CloudHub, Rabbit MQ, Oracle 11g/ 12c, Java 7/8
+
+MuleSoft Developer, 03/2019 to 07/2021 Nvent Electric Inc. - Charlotte, NC
+- MuleSoft, Participate Create Mule ESB helper class to call the Mule flow, connection end point and connectors
+- Build and Deployment of services in Mule ESB server
+- Create Mule application that uses connectors SFDC, Message Transformer, Choice Exception Strategies, Batch processing
+- Manage performance of the services by using “Scatter and gather” and “choice router”
+- Code walk-throughs, Mule Debugging, and Error fixing
+- Participate in daily scrum meetings to discuss the progress of the project and any blockage of the work and the solution of the block
+- Built JAX-RS services and exposed them using REST component
+- Implement Exception Handling, Logging, and Error Handling
+- Create HTTP inbound & outbound flows, custom java and XSLT transformers and Security of Mule endpoint
+- ActiveMQ
+- Design and develop enterprise services API specification using RAML and REST schema
+- Implement Security mechanisms like Security Certificates, key Exchange, and Encryption, Decryption and OAuth Authentication &
+- Authorization using Access Token and SM session cookie
+- Build Deploy and Test applications or flows using Mule ESB and build and deployed the services
+- Developed the flows/orchestrations for integrating the components written on top of different internal platforms using Mule ESB and Implement Mule flows for each entity with retry mechanisms with private secured flows Environment: ActiveMQ, RabbitMQ, Servlets, Nexus, JSP, Java, MuleSoft 3.0.x/3.7.3, MMC, Anypoint Studio 5.0/6.5, JSON, JMS, XML, XSD, XSLT, XPATH, JAXP, JAXB, WSDL, SOAP, Spring MVC, CloudHub, GitHub, Web Logic Application Server10.3.
+
+Java Developer, 07/2016 to 04/2019 Cavco Industries - Nappanee, IN
+- Application support for System Integration Testing and User Acceptance Testing
+- Involved in creating test cases
+- Responsible in understanding the client requirements and coordinating with the offshore team in successful implementation of the project
+- Developed Hibernate mapping files for the Object Relational Mapping while configuring Hibernate
+- Coordinating with testing team in resolving issues and finally moving to production
+- Developed Spring Aspect Oriented Programming (AOP) for Exception handling logic
+- Implementing Spring IOC, Spring Controllers methodologies
+- Involved in fetching and storing the objects from DB using Hibernate
+- Implemented the persistence layer using Hibernate and configured Hibernate with spring to interact with the Database from the DAO
+- Communicating with Business Analysts to resolve the requirements issues for the team
+- Implemented the data persistence functionality of the application by using Hibernate to persist Java data object to the relational database
+- Task includes - configuring and maintaining the Hibernate configuration file
+- Part of Issue Management Team involved in development and fixing issues which are raised by Client Environment: Spring, Hibernate, Struts 1.3, HTML, CSS, selectors, pseudo classes, XML, XSLT, SOAP, Hibernate 3.0, Session Bean (EJB), Oracle 10g, Oracle ADF, Java, J2EE, WebLogic 11.1.1, JSP1.2, JavaScript, JMS.
+
+Message Broker Developer, 12/2014 to 06/2016 Customers Bank - City, STATE
+- Created SOAP based and REST based Web Services by using Message Broker Toolkit
+- Performed interface testing using SOAP UI and RFHUTIL in different environments
+- Created customized XSD’s for Message Flow using Altova XMLSpy
+- Created and reviewed unit, integration and system test plans
+- Participated in peer ESQL development code-reviews
+- Conducted root cause analysis and advanced performance tuning for complex business processes and functionality
+- Implemented security for Web Services using SSL protocol at transport layer and used policy palette for implementing security at message level
+- Designed WSDL and Developed Web Services using BW Service palette, SOAP over HTTP transport and JMS Listener
+- Excellent hands-on experience in XML related technologies that include XML, XSD, DTD, XSLT, and XPath
+- Efficiency in using SOAP UI to create test data and run the test to retrieve the data from different environments
+- Created a proof-of-concept project using TIBCO BW 6.x
+- Involved in defect meetings, actively resolved the code defects and optimized existing data flows according to the project development workflow
+- Collaborated with external system owners to develop interfaces and admin teams to deploy developed Message Flow solutions
+- Participated in gathering the requirements and evaluating business, functional and technical requirements
+- Designed complex Web Service application systems using WebSphere Message Broker integration platform Environment: SOAP UI 5.2.1, Web Services, WebSphere Message Broker, WebSphere MQ, DataPower, EDI 834/837/835/999, Clear Case 8.0.0.
+
+EDUCATION
+---------
+
+Bachelor of Science: Computer Science
+
+Sample University
+
+Year MuleSoft Certified Developer
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

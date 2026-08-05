@@ -1,0 +1,244 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+------
+
+- Guest services
+
+- Inventory control procedures
+- Merchandising expertise
+
+- Loss prevention
+
+- Cash register operations
+
+- Product promotions
+
+EDUCATION AND TRAINING
+
+Savitribai Phule Pune university BE: Computer Engineering
+
+Pace University
+
+New York, NY
+
+Master of Science: Management Information Systems
+
+SUMMARY
+-------
+
+Having 9 Years of IT experience with 5 years of strong experience in design, Development,
+communities, lightning component development, lightning locker services, classic to lightning
+migration and deployment of application using Force.com, Apex, Visual force and Cloud Computing
+based Sales force CRM, customization and development and 4 years in Java/J2EE Experience in
+Administration, Configuration, Implementation (Soap API, Rest API and Meta data API as Call in and
+callout services) and Support of Salesforce CRM and Salesforce SFA applications. Experience in
+modifying Visualforce pages to support the Lightning Experience and good understanding of lightning
+mode and its features Strong in Aura Lightning framework with Applications, Components,
+Controllers, Stylesheets. Worked on Visual Flows and Process Builder to automate workflow actions
+based on the functional requirement. Designed various Webpages in Visual Force for functional needs
+within Salesforce. Designed and developed Apex Triggers for various functional needs in the
+application. Created Custom Controllers and Standard Controllers in Visual Force. Having experience
+with Apex Triggers, Apex Classes and Wrapper Classes as mentioned in the business requirement.
+Worked on Visualforce pages and having experience with CSS and Java Script Provided administration
+support to create new users, deactivate users, modify security and sharing settings for users.
+Experience with Apttus CPQ to oversee design, estimating, citing, rebates, motivating forces, and
+recommendations on any gadget. Experience working across various SFDC implementations that are
+covering Sales cloud, Service Cloud and Apttus CPQ. Experience in XML, JavaScript, HTML, Eclipse
+and SVN. Having experience on support projects providing solutions to Level-1, Level-2 and Level-3
+tickets Having experience on live support activities providing solutions to end users on Production
+environment. Worked on Soap API and Rest API to design and support web services platform. Created
+the Validation Rules, Approval Process, workflows for automated lead routing, lead escalation and
+Email Alerts. Expert in developing User Interface (UI) applications and professional web applications
+using JavaScript, JSP, HTML5 /DHTML, XHTML, jQuery, CSS3, and Ajax. Worked on Web services
+using REST API exclusively on obtaining the needed information using the URL approach. Having
+experience on REST methods such as Put (), Get (), Post () and Delete (). Having experience on Sales
+cloud in opportunity management, account management. Having experience with partner WSDL,
+Enterprise WSDL and Metadata API Worked on Sales cloud such as Web-to-lead to support online lead
+capture, with auto-response rules. Proficient in Configuration, Customization, Programming with Apex
+API (Controllers & Triggers), Visual force Pages, Visual force Components using up-to-date technology
+& implementing new instances of Sales force Defined assignment rules to route case request to
+appropriate case support queues. Implemented security and sharing rules at object, field, and record
+level for users at different levels of organization, Created various profiles and configured the
+permissions based on the organizational hierarchy. Experience working with Data Loader, import
+wizard, salesforce.com and Sandbox environments. Worked on the designing of custom objects,
+custom fields, role-based page layouts, custom Tabs, custom reports, report extractions to various
+formats, design of Visual Force Pages, Dashboards and various other components as per the client and
+application requirements. Worked on SAP CRM with good exposure to sales, service and marketing
+modules of CRM and have good understanding of CRM user interface architecture. Gathering requirements from functional consultants and developments based on client requirement.
+
+WORK EXPERIENCE
+---------------
+
+Accenture Contractor Jobs - Salesforce Lightning Developer
+Bethesda, MD + 04/2022 - Current
+
+- Worked on the Lightning platform using Lightning components, Lightning connect, Lightning App Builder and Lightning Design System
+
+- Worked on the Develop salesforce.com web services leveraging REST JSON and SOAP
+
+- Worked on Lightning flow for financial service cloud package
+
+- Worked with Maintain infrastructure and web services developed including
+
+- Enabled Aura Framework and added Aura Attributes/Handlers for Events / Logic & Interactions
+
+- Created Lightning Components, added CSS and Design Parameters which improves performance
+
+- Developed Lightning apps using Lightning Components and made them compatible with salesforce1 mobile app
+
+- Developed multiple number of Lightning web components (LWC) regarding service case console page
+
+- Worked on advanced JavaScript and HTML elements for developing the LWC components
+
+- Migrating aura components to Lightning Web Components
+
+- Worked on service cloud and customer support
+
+- Configured email to case, web to case, live agent
+
+- Developed Apex Classes & Triggers to implement the business logic as per the requirements
+
+- Upgraded from Salesforce Classic to Salesforce Lightning
+
+- Designed and developed apex Classes, Controller Classes, extensions and Apex Triggers for various functional needs in application
+
+- Design, develop and implement solutions for Apttus CPQ system deployed on Salesforce platform
+
+- Deployed Apex using Force.com IDE, Force.com Migration Tool and Web Services API
+
+- Migrating Metadata from one sandbox to another sandbox using Force.com IDE tool
+
+- Created Custom Profiles, Public Groups and Roles to distribute user rights and functionality
+
+- Created and customized Record types, page layouts, list views managed Role hierarchies and Profiles
+
+- Developed Dashboard Reports, Queries, Templates and more
+
+- Developed Reports, Dashboards, and processes to continuously monitor data quality and integrity
+
+- Used Data Loader for insert, update, and bulk import or export of data from Salesforce.com objects
+
+- Environment: Salesforce.com Platform, Lightning, LWC, Lighting, Sales cloud, Service cloud, Apex Language, Visual Force (Pages, Component & Controllers), Data Loader, Workflow & Approvals, Reports, Custom Objects, Custom Tabs, Reports, Email Services, Sharing rules, Security Controls, Eclipse IDE Plug-i.
+
+Proofpoint Inc - Salesforce Developer
+Pittsburgh, PA + 12/2016 - 08/2018
+
+- Performed detailed analysis of business and technical requirements and designed the solution by customizing various standard objects of Salesforce.com (SFDC) and other platform-based technologies like Visualforce, force.com API, and web service
+
+- Designed and implemented the solution by customizing various Sales process standard objects like Leads, Contacts, Accounts, Opportunities, Cases and solutions of SalesForce.com (SFDC)
+
+- Customized several Formula Fields, Validation Rules, Tasks, Workflow rules, Triggers, Apex classes to achieve the complex business functionality
+
+- Creating Custom Objects and defining Lookup and Master-Detail Relationships on the objects in Salesforce
+
+- Used JavaScript, jQuery for client side programming
+
+- Evaluated Cast Iron for migrating data within Salesforce.com
+
+- Extensive experience Creating Roles, Profiles, Email Services and Page Layouts
+
+- Created various Approval process in Salesforce.com for the Sales process to run properly in the organization
+
+- Designed and developed SFA based Application on force.corn platform in salesforce.com environment with Apex programming language at backend and Visual-Force pages as user interface
+
+- Created various Scheduled and Batch apex jobs based on the business requirements
+
+- Designed and developed Apex Triggers for various functional needs in the application and worked in improving existing Apex code
+
+- Implemented the requirements on Salesforce.com platform and Force.com IDE Plug-in using Eclipse
+
+- Used SOQL & SOSL for data manipulation needs of the application using platform database objects
+
+- Integrated with External sources by making callouts that used SOAP/REST
+
+- Used Force.com, web services API to create, update, retrieve and delete records from SOAP based web services using java
+
+- Worked in GIT version control systems to keep the history of developed files and involved in Code Review board to maintain standard of Apex code
+
+- In-charge of deployment using change sets and Eclipse and taking back-up of production environment before deployment
+
+- Performed Unit, Integration, Regression and User Acceptance Testing
+
+- Environment: Saleforce.com platform, Apex Language, Visualforce (Pages, Component & Controllers), Pages, Data Loader, HTML, Java Script, Informatica Cloud, Workflow & Approvals, Reports, Custom Objects, Custom Tabs, Email Services, Web Services Security Controls, Eclipse IDE Plug-in, Windows XP.
+
+Carlson - Java Developer
+Dutch Harbor, AK « 12/2012 - 11/2016
+
+- Analyzed the business requirement and developed app using Java and Mozilla XUL
+
+- Involved in development using spring, Hibernate and JSF Framework
+
+- Used ANT script for project deployment
+
+- Use case, design - class, sequence diagrams
+
+- User Interface design
+
+- Data Modeling - logical and physical models
+
+- Requirements gathering- Proto-typing, Walk-through to business groups and gap analysis
+
+- Understand the business aspect of the application and converted into requirements document
+
+- Create POC for first time patterns and vendor integrations
+
+- Code review with the developers and delivery team
+
+- (Co-Ordinate and manage Global Delivery teams at offshore locations
+
+- Schedule and organize weekly or daily stand up meeting with the whole development teams both onshore and offshore
+
+- Develop Functional Requirements Specification (FRS)
+
+- Business process review and modeling
+
+- Involved in writing SQL queries for the application in Teradata database
+
+- Create or involve in Implementation planning with Project Manager
+
+- Waterfall Model, Tomcat, Windows XP
+
+ACCOMPLISHMENTS
+
+- Salesforce Certified Administrator
+
+- Salesforce Certified Platform Developer-1
+
+- Salesforce Certified Platform Developer-2
+
+- Salesforce Certified Sales Cloud Consultant
+
+- TECHNICAL SKILLS
+
+- SFDC Technology
+
+- Apex Language, Apex Classes, Apex Triggers, Apex Scheduler, Apex Webservices, Visualforce Pages, Visualforce Component and Controllers, AJAX, Workflow & Approvals, Dashboards, Lightning component Framework, Aura UI Framework, Analytic Snapshots, Case Management Automation, Custom Objects, Sandbox Refreshments, Deployments (Change sets), SOQL, Process Builder, Workflow Rules, Approval Process
+
+- SFDC Tools
+
+- Apex Data Loader and Force.com Eclipse IDE Plug-in, Force.com Explorer, Force.com Data Loader, Excel Connector, Force.com Platform (Sandbox and Production), Force.com Migration Tool, Apttus CPQ, Steel brick
+
+- Languages
+
+- Apex, Core Java, Java Script
+
+- Operating systems
+
+- Windows, MSDOS, LINUX
+
+- Databases
+
+- Oracle 10g, Oracle 11g, SQL Server, DB2
+
+- Methodology
+
+- Agile, scrum, SDLC, RUP.

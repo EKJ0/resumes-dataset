@@ -1,0 +1,197 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+LINKS
+
+https://sakpase.app/en
+- https://jolottefr/
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Experienced and dedicated full stack mobile app developer offering more than 7 years of expertise to the IT industry.
+
+Dynamic and personable with strong focus on application lifecycle. Strengths in native 10S development in Swift and cross-platform mobile
+development with React Native.
+
+Based in New York, NY but willing to relocate to Florida, California or Louisiana.
+
+SKILLS
+------
+
+- React Native (5 years) © Objective C (3 year)
+- Node.js (5 years) e MySQL (3 years)
+- Web Design (4 year) © Jquery (4 years)
+- Android (3 years) ¢ MongoDB (4 years)
+- Swift (6 years) e PHP (4 years)
+- Git (5 years)
+
+WORK EXPERIENCE
+---------------
+
+React Native Developer, 02/2016 - Current
+
+Cognizant Technology Solutions - Boston, MA
+
+Deployed SaKPasé Android and 10S app
+
+Published SaKPasé to App Store https://apps.apple.com/us/app/sakpas%C3%A9/1d 1441244845 71s=1
+
+Published SaKPasé to Google Play Store https://play.google.com/store/apps/details?id=com.guyasoft. sakpase
+
+Produced 5 app UI translations. Because app's primary target area is French Guiana and Caribbean regions it is available in different creole
+languages, as well as French and English
+
+Completely prototyped app
+
+Architected full-stack using different technologies
+
+Deployed to Google Play and Apple App Stores
+
+Performed beta testing with TestFlight and Android Beta Channel Releases Set up and maintained different databases: Firestore, MongoDB and Algolia
+Utilized React Redux for transient app state
+
+Implemented offline first approach with react-native-offline module
+
+Integrated multiple React Native modules such as react-navigation, react-native-firebase
+
+- Carried Test-Driven Development with Jest
+
+Created and tested NodeJS backend code
+
+- Adopted server-less coding thanks to Google Cloud Functions in NodeJS
+
+Deployed companion website on MEAN stack
+
+- Insured code robustness by using Typescript on React Native mobile Frontend
+
+- Due to some limitations in React Native, developed native modules from scratch Native 10S (Objective-C and Swift) + Native Android
+
+(Java). Those modules communicate back and forth with JS engine
+
+Created nice animations on: https://sakpase_app, inspired by Apple's website design
+Deployed internal React Native mobile application - name kept confidential - for client DGAC for Paris CDG Airport's 300+ air traffic
+controllers. This app contains sensitive, information pertaining to air traffic handling
+
+Used Firebase's live database update notifications to enable real time messaging with push notifications
+
+Revamped Jolotte mobile app
+
+Transformed native 10S to React Native
+
+Developed Android version that was missing
+
+iOS Developer, 01/2014 - 11/2019
+
+Management Decisions, Inc. - Plano, TX
+
+Developped Jolotte 10S native app https://apps.apple.com/tt/app/jolotte/id1435118096 for client Jessica Lefort in Cayenne, French Guiana
+Deployed Jolotte’s backend with Algolia and Firebase databases
+
+Explored AVFoundation to scan make-up products
+
+Integrated StoreKit for in-app purchases
+
+- Integrated Local Notifications to notify users when makeup product goes out of life
+
+Produced basic native 10S app called MarkdUp was released for private client
+
+Integrated Faceboook Places API to find places around and persist data to device's disk
+
+Keeps local data up-to-date by making use of Core Data's NSFetchedResultsController class keeps
+Integrated Facebook Audience Network SDK to display native advertising
+
+Deployed app to Apple App Store
+
+- Working on side-project social media mobile app
+
+Integrated Twilio Programmable Video API for live video-chat
+
+- Made use of Reactive Programming paradigm thanks to RxSwift, RxCocoa
+
+Performed test-driven development. Nimble’s unit testing environments helps in testing for fatal error
+
+MongoDB powers geolocation search, allowing people to explore their surroundings and find other users around them
+
+Full Stack Developer, 01/2013 - 03/2016 Bigbear.Ai - Columbia, MD
+
+- Free lancer at individual company “Jessica Claire’ - New York and Paris
+
+Deployed Wordpress-managed and responsive website https://lesdiams.com for Rémire Diamant d'Armire Lions’ Club charity branch in
+
+Cayenne, French Guiana
+
+Created Theme from scratch to match the Club's yellow and purple logo colors
+
+Successfully integrated payment forms for donations
+
+Used Gulp.js automated build process which handled repetitive common tasks such as compiling SCSS_ minifying JS files
+Improved SEO with Yoast
+
+Processed donations via Stripe payment API
+
+Implemented basic website security with Google reCaptcha and iThemes Security Managed French and English Translations with PoEdit
+Built Members-Only section accessed by email / password credentials for club members to share private information such as meetings
+
+reports, member birthdays and contact numbers
+
+Set up accounts for 30 club members
+
+Deployed presentation and admin website for SaKPasé mobile app: https://sakpase.app
+
+- Built admin section to update news and events information that are are displayed mobile app
+
+- Used different javascript libraries: Vue.js, axios, jQuery, ScrollMagic
+
+Used Webpack mostly for website's admin side
+
+Provided consulting work for French Politician Christiane Taubira to launch her future online platform
+
+EDUCATION
+---------
+Associate of Science: 10S development, 2018
+
+Udacity - Mountain View, CA
+
+NYU Bridge Program in Computer Science: 2018 New York University - New York, NY
+
+Web development: 2014 CNAM Paris - Paris
+
+Air traffic control ENAC - Toulouse: 2013 CNAM - Paris
+
+ACCOMPLISHMENTS
+
+Implemented the complete stack of a charity's website where people were allowed to donate money.
+Designed Wordpress theme from scratch Set up credit card payment forms using Stripe.
+
+Created responsive websites using media queries or Bootstrap.
+
+Completed several projects for the Udacity Nanodegree while being an Air Traffic Controller full-time
+Deployed first 10S app called MarkdUp with no rejection from Apple
+
+Developed internal Air Traffic Control app
+
+Deployed multi language event-finding app SaKPasé to both Google Play Store and Apple App Store
+
+Developed native modules for use inside React Native project Marketed an app on different platform: TV, radio, social media
+- Worked with a famous female French politician to create her own website so she can publish her work
+
+CERTIFICATIONS
+--------------
+
+IOS Developper - Udacity, Online
+- Android Developer - Udacity, Online
+
+Computer Science Bridge Program - New York University, Online Web Site Professional Certificate - CNAM, Paris
+MongoDB Cenitificate - Mongo School, Online
+
+ADDITIONAL INFORMATION
+
+Former air traffic controller from Paris CDG airport, I am a hard-working, detail-oriented and careful person. As a US legal permanent resident,
+Iam very excited to fully dedicate my career to the IT industry.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

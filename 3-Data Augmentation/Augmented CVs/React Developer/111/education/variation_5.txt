@@ -1,0 +1,150 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+- Over 2+ years of experience in Software Development Lifecycle (SDLC) including areas such as Requirement Analysis, Design, Development and Implementation, Testing and Deployment of Object Oriented, Client-Server, Web-Based, Distributed and Enterprise Applications.
+
+- Strong working experienced in all phases of Software Development Life Cycle (SDLC) including Analysis, Design and Development, Debugging, Integration, Maintenance and Enhancements.
+
+- Good understanding of Agile Software Development methodologies like Scrum and Test-Driven Development (TDD).
+
+- Experienced with JIRA software and Confluence which is used for product design, managing teams and bug and issue tracking.
+- Over 2+ experienced with Core java and Java 8 concepts likes OOPS, Data structures & algorithms, Collections, Multithreading, Exceptional handling, I/O, Lambda, Stream, Synchronization and Serialization.
+
+- Hands on experience in developing business components using Spring Boot, Spring Annotations, JPA Repository, Spring cloud, Spring security -
+
+- Experience in Implementing UI using Servlets, JSP, JSTL, HTML5, CSS3, JavaScript, JSON, Bootstrap and AngularJs.
+- Extensive experience in implementation of the version control software such as GIT and Bitbucket, GitHub, GitHub desktop.
+- Experience in SQL besides writing DDL and DML on MySQL and Oracle.
+
+- Experience working RDBMS like MySQL and Oracle in developing several packages, writing SQL queries, stored procedures.
+- Experience in producing and consuming the Web Services - REST using java program and Postman UL
+
+- Knowledge in Linux commands.
+
+- Extensively used development tools like Eclipse, IntelliJ, Spring Tool Suits, VS-code.
+
+- Experience in unit testing the applications using JUnit Framework and Mockito.
+
+- Strong troubleshooting & user interface capabilities with good Analytical and communication skills as a good team player.
+
+- Ability to work in a complex, deadline-oriented environment.
+
+- Have good communication skills, strong analytical and problem-solving skills, ability to quickly master new concepts and applications.
+
+SKILLS
+------ Programming Language: Version Control:
+Java, JavaScript, SQL, C++ Git, GitHub, Bitbucket J2EE Technology: Build/ Deployment Tools:
+JSP, JSTL, Servlets, JDBC Maven Web Technology: Testing Frameworks :
+HTMLS5, CSS3, JSON, Angular, JSP Junit, Mockito IDEs: cI/CD:
+Eclipse5.0,7.0, IntelliJ, Spring Tool Suites-code Jenkins Design Patterns : Platform :
+MV Microsoft Windows, macOS, Linux Web Services : Servers :
+REST, Microservice Apache Tomcat 6.0,7.0 Frameworks and Tools : Methodologies :
+Spring MVC, Struts MVC Agile (Scrum), Waterfall, iterative development Database Tools: Cloud Technologies :
+MySQL Workbench PCF
+
+Micro Services
+
+Spring Micro Services, Spring boot, Postman, Spring Cloud
+
+Databases : Container :
+MySQL, ORACLE Docker
+
+WORK EXPERIENCE
+---------------
+
+Java Developer, 01/2022 - Current Caci International Inc. - Honolulu, HI Responsibility:
+- Convert Struct MVC to Spring MVC . Used of Splunk to analysis of error and to understand the flow of the code. Conversion of JSP struct to Spring JSP UI.
+
+Conversion of Struts Action to Spring Action by adding spring annotation and implementing the several's method as required.
+Used of Jenkins to build the project and deploy to server.
+
+Used git as version control with Bit bucket.
+
+Extensively worked with CORE JAVA with Spring Boot Framework.
+
+Used Spring Data JPA to connect with MySQL Database.
+
+Used Git as version control to clone and push the project.
+
+Followed Agile metrology like Scrum -
+- Used Maven 2.3 to build the project.
+
+Java Developer, 01/2020 - 12/2022
+
+Caci International Inc. - Hooksett, NH
+
+Developed microservices using Spring Boot.
+
+- Used HTTP handlers to develop web service replication interface for setting up data feeds for content transportation in XML and JSON formats.
+
+- Use of SCRUM for daily meetings, grooming sessions, sprint meetings, etc.
+
+- Managed connectivity using JDBC for SQL querying/inserting, stored procedures to retrieve and manage data from databases.
+- Directed the execution of the project through Spring Data JPA and Hibernate persistence API to interact with the database
+
+- Used GIT as source control management tool for continuous tracking of the source and version of the application.
+
+- Prepared test cases and strategies for unit testing and integration testing using Junit and Mockito.
+
+- Used Maven as build and dependency management tool for creating WAR and JAR file to deploy in application servers.
+
+- Used Java 8 features such as Lambda expressions and Stream API
+
+- Used Log4J as the logging framework to print information, warning, and exception data to the logs.
+
+Full Stack Developer, 08/2021 - 12/2021 Arrow Electronics - Raleigh, NC Description:
+It was a final project from my Software Engineer Class where I have a team of Three classmate: created a Reservation Table with User /
+customer. Customer could login, register, payment, see the menu and reserve the table. User can set number of table available in Restaurant. The
+system should generate the table according to the guest, if not it should combine the table as the need of the guest.
+Responsibilities:
+- Involved in Software Development Life Cycle process using Agile Methodology and participated sprint planning and daily stand-up meetings using discord.
+- Used HTMLS, CSS3, JavaScript, Bootstrap and participated in development of a well responsive single page application with front-end UI team. Handled all the client-side validations using jQuery and JavaScript. Used Spring framework for Model View Controller (MVC) and achieved data persistence through Hibernate ORM framework.
+
+Used Spring MVC model integration for front-end request action controller.
+
+Used Spring IOC for dependency injection.
+
+Mock testing using JUNIT.
+
+Used GitHub Repository for code integration and version control.
+
+Used Spring Tool Suite (STS) IDE for application development and Maven as build automation tool
+
+Environment:
+Java8, JZ2EE, HTML5, CSS3, JavaScript, jQuery, Spring Boot, Microservice, Spring MVC, Spring IOC, REST, Agile, Hibernate, MySQL.
+Tomcat, Junit, GitHub.
+
+Jr. Java Developer, 01/2021 - 05/2021 Deloitte - Rosslyn, PR Description:
+This project is about a web application that allow Users to create quizzes and take quizzes. There will be two users: Admin who can create
+quizzes and questions in admin-dashboard while normal user can take quiz and see the active quiz and result after they take quiz in user-
+dashboard.
+Responsibilities:
+- Used HTMLS5, CSS3, TypeScript, Bootstrap Grid. Develop of a well responsive multi- page application in Angular JS. Handled all the client-side validations using TypeScript. Used Spring framework for Model View Controller (MVC) and achieved data persistence through Hibernate ORM framework. Used Spring IOC for dependency injection.
+
+Used Spring Boot Framework.
+
+Create Restful API in Controller. Entities and Used Spring JPA Repository for CRUD Operation in My SQL Database.
+Mock testing using JUNIT.
+
+Used Postman for backend API testing.
+
+Used Vs-Code for Front End application Development.
+
+- Used IntelliJ for backend application development. Environment:
+
+Java8, J2EE, HTML5, CSS3, ANGULAR, Typescript, Spring Boot, Spring MVC, REST, Agile, Spring Boot -JPA, MySQL, Tomcat, Junit.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer Science And Programming, 12/2021
+
+University of Houston - Houston, TX
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

@@ -1,0 +1,144 @@
+Lakisha Washington
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Talented Database Administrator with 7+ years of diverse experience in database design and administration, data modeling, data warehousing,
+Enterprise Systems Architecture and Business Intelligence (BI). Extensive technical skills and advanced understanding of SQL Server, SSIS
+and SSRS, SSAS administration. Strong collaborator and team player with excellent communication skills and expertise in analytical problem-
+
+solving.
+
+SKILLS
+------
+- MSBI, TSQL/SQL, SSIS, SSAS, SQL, Excel, SSRS, TFS e RDMS Development and SQL
+- Source and Version Control: Git © SQL Server Profiler
+- Debugging and Troubleshooting © Windows Performance Monitor
+- Strong Interpersonal and Communication Skills e Database Engine Tuning Advisor
+- Object-Oriented Programming e MS Visio,
+
+WORK EXPERIENCE
+---------------
+
+SQL Server DBA/Developer, *SQL Developer, 03/2020 - Current Cognizant Technology Solutions - Chadds Ford, PA
+- SQL and MSBI (SSIS, SSRS), FAA.
+- Developed T-SQL scripts to create database objects and perform DML and DDL tasks. Created Databases, Tables, Indexes, Stored Procedures, Views, database management policies and Constraints, Defaults, Rules, Functions, Triggers, Cursors and Dynamic SQL queries.
+- Performance tuning by analyzing execution plans, creating and maintaining indexes (rebuild/reorganize), Statistics, partitions, Client/
+
+Server Connectivity and structure modification.
+- Analyzing Locks, Blocks, Dead Locks, Resource Utilization, handling Isolation Level and Concurrency issues. Analyze and deploy scripts and packages in prod/test environments from different developers. Built and deployed SSIS Packages and TSQL scripts for transformation of source data and loaded transformed data to mart layer.
+- Tuned performance of SSIS Packages by using Row Transformation, Block and Unblock Transformation. Implemented ETL Packages (SSIS) to extract Data from various sources like Oracle, File System, SQL Server, Json file and transformed extracted data using SSIS task and SQL Stored Procedure into de-normalized form. SSAS cube and SSRS Report were built on top of these de-normalized tables.
+
+Expert at deploying SSIS packages both in package deployment model and project deployment model and debugging Failures.
+Develop Tablix, drill down, drill through reports using SQL Server Reporting Services (SSRS).
+
+- Managed over 40 team calls per day and available 24/7
+
+- Technical Skills SQL, SSIS, SSRS, DBA, TFS.
+
+SQL Server DBA/Developer, *SQL Developer, 03/2020 - 12/2020
+
+Higher Education Services Corporation (HESC) - City, STATE
+
+DBA, DB2 and MSBI (SSIS, SSRS) Developer for HESC.
+
+Designed, implemented and maintained Database Schema, Entity Relationship Diagrams, Tables, Constraints, and Indexes.
+Created Relational and Dimensional data modeling using ER Diagram.
+
+Responsible for Database backup and recovery of System and User databases.
+
+Created Users, Roles and managed security and permission of database.
+
+Created Database Maintenance Plan for Performance of SQL Server which covered Database Integrity Checks, Update Database Statistics
+and Re-indexing.
+
+Provided High availability through Clustering (Active/Passive), Mirroring, Log Shipping, Replication (Transactional), and Always On.
+Increased query performance by Monitoring, Tuning, and Optimizing Indexes using SQL Server Profiler and Database Engine Tuning
+Advisor.
+
+Involved in collecting business requirements from users and translated them as technical specs and design docs for development.
+
+Designed and created various Database objects such as tables, functions, stored procedures, triggers, jobs as per business requirements.
+
+Enforced Business Rules to filtered bad data from system by using Complex T-SQL Statement, and implemented various Constraints and
+Triggers for Data Consistency.
+
+Created and deployed ETL packages with different data sources (SQL Server, Flat Files, Excel source files, XML files etc.) and then
+loaded data into destination tables by performing different kinds of transformations using SSIS/DTS packages.
+
+Involved in configuration of report server to create role, security, and grant permissions to different level of users in SQL Server Reporting
+Services (SSRS).
+
+To get best performance for SSRS reports and applied performance tuning on various SQL procedures and created proper indexes on
+tables.
+Support DB2 Developer Using Z/OS by backup and restore database and run some script Technical Skills SQL, SSIS, SSRS, DBA, TFS.
+
+SQL Server DBA/Developer, 07/2016 - 02/2020 Kraft-Heinz Inc - City, STATE
+- Dev, DBA and MSBI (SSIS, SSRS) Developer for Kraft Heinz Inc.
+- Interacted with Data Modelers and Business Analysts (Onsite Team) to understand requirements and impact of ETL on business.
+- Analyzed Requirements and designed technical documents, as 50 members of Agile Scrum Team Participated in Daily Standup meetings and Project Standup meetings and iteration Reviews.
+
+Interacted with appropriate team and followed client process for hosting and deployment work.
+
+Extract Transform and Load source data into respective target tables to build required data marts.
+Understand user requirements and Data Model defined and developed by business analysts and data architects.
+
+Enhancing and deploying SSIS packages from development server to production server.
+
+Created Business-Crucial stored procedures and Staging Tables to support efficient data storage and manipulation.
+Filtered data from Transient Stage to Data Warehouse System by using complex T-SQL statements in Execute SQL Query Task and in
+
+Transformations and implemented various Constraints and Triggers for data consistency and to preserve data integrity.
+
+Used For each loop container, Sequence Container, Script task, Expressions, Execute SQL task, Package Execution task to achieve
+business needs.
+
+Worked on T-SQL scripts, dynamic SQL, complex stored procedures, functions and triggers.
+
+Build SSRS Report from warehouse as per need from business and deploy it on report server.
+
+Technical Skills MSBI, TSQL/SQL, SSIS, SSAS, SQL, Excel, SSRS, TFS.
+
+SQL Server DBA, 03/2014 - 05/2016 Pfizer Inc - City, STATE SQL Dev, MSBI (SSIS, SSRS) Developer for Pfizer Inc.
+
+On SSIS, used transformations like Slowly Changing Dimension, derived column, conditional split, aggregate, lookup, sort, merge join,
+union all, merge, and data conversion to load data into target destinations.
+
+Implementation of data extraction, transformation, and loading (ETL) processes.
+
+Creating staging database and created staging tables for temporary processing of data, loading into Target database using Integration
+services (SSIS).
+
+Migrated Data from different Data Sources like SQL Server Tables, Excel and Text File to SQL Server Tables.
+
+Provided data migration support after deployment.
+
+- Importing Source/Target tables from respective databases by using Data Flow Task and Execute SQL Task and Control Tasks in SQL
+
+Server Integration services.
+
+Used transformations like Derive Column, data Conversion, Conditional Split, Aggregate, Lookup to load data into Data Warehouse.
+
+Extensively using joins and sub-queries for complex queries which were involving multiple tables.
+
+Maintained log information in SQL table to tracking Errors.
+
+- Expertise in Enterprise Reporting in generating reports using Basic reports, sub reports and filters in SQL server reporting services. Generated multiple Enterprise reports using SSRS from SQL Server Database (OLTP) and included various reporting features such as group by, drill-downs, drill through reports.
+
+- Manage over 40 team calls per day on technical issue
+
+Produced high-standard database solutions to meet stability, reliability and performance metrics
+
+Supported multiple concurrent projects enabling delivery efficiencies and technical resolution
+
+EDUCATION
+---------
+
+BS: Computer Science, 07/2004 Addis Abeba University - Ethiopia
+
+CERTIFICATIONS
+--------------
+
+- MCDBA Microsoft Certified Database Administrator

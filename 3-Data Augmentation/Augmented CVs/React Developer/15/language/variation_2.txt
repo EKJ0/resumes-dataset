@@ -1,0 +1,157 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Over 7+ years of IT experience which includes 3+ years of Extensive experience as a React JS Developer and 2 years of Experience as a UI/UX Developer and Full Stack Developer.
+
+- Extensive experience in developing web pages using HTML/HTML5, XML, DHTML CSS/CSS3, SASS, LESS, JavaScript, React JS, Redux, Flex, Angular JS (1.X) JQuery, JSON, Node.js,, Ajax, JQUERY Bootstrap.
+
+- Working knowledge of Web protocols and standards (HTTP HTML5/XKHTML/XHTML-MP, CSS3, Web Forms, XML, XML
+
+parsers)
+
+Good Expertise in analyzing the Document Object Model (DOM) Layout, DOM Functions, and Java Script functions,
+
+Cascading Styles across cross-browser using Fire Bug, Developer Tool Bar.
+
+- Experienced in React JS and working with React Flux architecture.
+
+Good Experience in implementing several object oriented design patterns such as Model View Controller (MVC) frameworks,
+
+Front Controller, Business Delegate, Session Facade, Service Locator, DAO, DTO, Singleton, Object Factory and Composite View.
+
+- Extensive experience in SOL programming language in Oracle PL/SQL, TSL, and MySQL database environments. Developed Stored procedures, Triggers, views, complex join queries; Pl/SQL materialized views, Strong and in-depth knowledge of various relation database systems.
+
+- Experience in developing and deploying applications through Tomcat and application servers like IBM WebSphere and JBoss.
+
+- Excellent experience in developing applications using Eclipse IDE and IBM RAD.
+
+- Expert level programming skills in UNIX and shell scripting, CVS tools used Perforce.
+
+- Good knowledge with CVS, Clear Case, GIT and SVN for code management and version control.
+
+- Expertise in implementing Service Oriented Architectures (SOA) using XML based Web Service such as SOAP, UDDI and WSDL.
+
+Developed RESTful web applications using Spring MVC, JAX-B and JSON.
+
+Worked with the build tools like Jenkins.
+
+- Experience in writing Selenium Test cases, Junit Test cases using JUnit and Cucumber.
+
+Ability to deal with people, grasp things fast, Strong initiator, creative and willingness to work has always been my strengths.
+
+Strong background in supporting production environments and meeting customer needs.
+
+- Excellent Client interaction skills and proven experience in working independently as well as in a team.
+
+SKILLS
+------
+
+Web Technologies: HTML, HTML5, CSS3, SASS, XHTML, XML, Frond End Tools: CorelDraw, Dreamweaver, Adobe Photoshop
+JavaScript, AJAX, jQuery, WordPress, JSON, Twitter Bootstrap, CS5, Illustrator.
+
+React JS, Angular JS 1.x, Node.js, GitHub, JAVA, J2EE. Testing Tools and Logging Frame Works : Junit3.8/4.0, Load
+Development tools: Eclipse, Web Matrix, Web Strom, Bonita, runner, Jasmine, Selenium, T-probe, Easy Mock.
+
+Sublime, Dreamweaver, and Notepad++. Programming Languages : C, C++, JAVA, MySQL, C#, VB.Net,
+Debugging tools: Firebug, Chrome Developer Tools, IntelliJ. ASP.Net, web Services.
+
+Servers: IBM Web Sphere, Apache Tomcat, BEA WebLogic 8.1,] | Databases: Oracle, MySQL, SQL Server, PostgreSQL, DB2 .
+Boss, HTTP Web Server. SOA/Web Services: WSDL, ESB, SOAP, SOA and Restful
+
+Application Frameworks: Struts, JSF, Spring MVC, Spring-Core, services.
+Spring JDBC, Spring Hibernate, JQuery, Angular JS .
+
+WORK EXPERIENCE
+---------------
+
+UI Developer/ React JS Developer, 06/2018 to Current Bigbear.Ai - Arlington, VA
+
+- Designed CSS templates for use in all pages on the website working with CSS Background, positioning, text, border, margin, padding, and table.
+
+- Applied optimization techniques to reduce page size and load times to enhance user experience using sprites.
+
+- Developed user interface by using the React JS, Flux for SPA development.
+
+- Used React-Router to turn application into Single Page Application.
+
+- Worked in using React JS components, Forms, Events, Keys, Router, Animations and Flux concept.
+
+- Used Web services (SOAP and RESTful) for transmission of large blocks of XML/JSON.
+
+- Implemented the Drag and Drop functionality using React-Draggable.
+
+- Used React-Autocomplete for creating google maps location search on the webpage Added Excel-Builder to download the Tabular data in Excel format using react.
+
+- In Phase Two, worked closely with the Back-End team to display data using the Custom Components, library Components, and Redux.
+
+- Added Dynamic Functionality by creating and dispatching Action Creators that deployed Actions.
+
+- Used Object Oriented Programming concepts to develop UI components that could be reused across the Web Application.
+
+- Extensively used Git for version controlling and regularly pushed the code to GitHub.
+
+- Used JIRA as the bug tracking system to track and maintain the history of bugs/issues on everyday basis.
+
+- Monitoring the offshore work and providing technical help to the offshore team for their JIRA tickets.
+
+- Interacted with Testing Team, Scrum Masters and Business Analysts for fixing of Issues.
+
+- Performed the System Testing, Regression Testing for Complete UI after fixing the Issues which are reported by Testing Team.
+
+UI Developer/React JS Developer, 07/2016 to 04/2018 Delta - City, STATE
+- Involved designing in web pages using HTML 5, CSS3, JavaScript, Bootstrap, SASS, LESS, React.js, Redux , Flex, Mongo DB.
+- Responsible to Style, look and feel of the web page with SASS that extends CSS with dynamic behavior such as variable, mixing, operations and functions.
+- Worked on React JS Virtual Dom and React views, rendering using components which contains additional components called custom HTML tags.
+- Implemented various screens for the front end using React.js and used various predefined components from NPM (Node Package Manager) and redux library.
+- Responsible for React UI and architecture. Building components library, including Tree, Slide-View, and Table Grid.
+- Implemented stable React components and stand-alone functions to be added to any future pages.
+- Used React JS for templating for faster compilation and developing reusable components.
+- Configured Web pack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build target.
+- Experience in RESTful web services to integrate between Server side to Client Side.
+- Worked with JASMINE unit test framework to write unit tests for JavaScript code.
+- Handled cross browser/platform compatibility issues (IE, Firefox, and Safari) on both Windows.
+
+Web/UI Developer, 09/2014 to 06/2016 Experian - City, STATE
+- Gathered and analyzed the requirements and converted them into User Requirement Specifications and Functional Requirement Specifications for the designers and developers to understand them as per their perspective.
+- Involved in development of User Interface using HTML/HTMLS5, CSS/CSS3, JavaScript, and jQuery, AJAX, JSON and AngularJS.
+- Extensively used Angular UI (Angular Bootstrap) for ng-grid, and UI components.
+- Extensive experience using Bootstrap for layout.
+- Debug the application using Firebug to traverse the documents and manipulated the Nodes using DOM and DOM Functions.
+- Participate in the team on agile development cycle.
+- Followed SCRUM methodology.
+- Produced content pages with CSS3 layout and style markup presentations and also used JavaScript methods and properties.
+- Developed different jQuery component in MVC micro architecture framework which internally use various design pattern such as singleton, command, delegate, etc.
+- Version control using SVN.
+- Ensured site design integrity and quality control consistency throughout the project’s lifecycle.
+- Updated the website from time to time for special Requirements .
+- Provided declarative and programmatic security by authorizing the logged in user based on User designation.
+
+- Involved in Unit, Integration and System Test and maintain application.
+
+Full Stack Developer, 05/2013 to 08/2014 ReadMind Info Services - City, STATE
+- Reviewed code, debugged problems and corrected issues.
+- Prepared Technical Specifications based on the functional requirements.
+- Extensively used Angular UI (Angular Bootstrap) for ng-grid, and UI components.
+- Extensive experience using Bootstrap for layout .
+- Worked on creating responsive website for smart devices using Responsive design and media queries.
+- Used AJAX extensively to implement front end /user interface features in the application.
+- Developed the pages that are complaint to W3C standard
+- Coordinate with Interface Design Architects for meeting accessibility standards at code level.
+- Involved in development of User Interface using HTML/HTMLS5, CSS/CSS3, JavaScript, and jQuery, AJAX, JSON and AngularJS.
+- Developed different jQuery component in MVC micro architecture framework which internally use various design pattern such
+
+as singleton, command, delegate, etc.
+
+EDUCATION
+---------
+
+Bachelor of Technology: Computer Science, 03/2013 Vignan University - India
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

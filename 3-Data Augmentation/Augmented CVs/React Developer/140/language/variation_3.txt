@@ -1,0 +1,189 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+6+ years of Information Technology experience with 5 years of experience in Salesforce.com and Force.com platform developer and
+administrator. Certified Force.com Developer DEV XXX. Highly proficient with Sales Cloud Service Max web service Force.com Community
+Portal Chatter Knowledge One and App-exchange on Salesforce. Excelled in working with various salesforce.com standard objects like
+Accounts Contacts Opportunities Products Cases and Leads. Competent in SFDC Administrative tasks like creating Profiles Roles Users Email
+Services Approvals Workflows Dashboards Tasks and Events. Experience in working with Debug Apex Scripts using Debug Logs and System
+Log Console to catch Exceptions and execute Governor Limits. Experience working with Chatter objects. Experience in SFDC Integration
+using Web Service and Apex Programming Salesforce. Extensive experience in lead case management web-to-lead Web-to case Email-to-case.
+Good understanding of Salesforce.com Governor Limits with an ability to optimize code to respect those limits. Good experience in working on
+Eclipse IDE with Force.com Plug-in for writing business logic in Apex programming language. Proficient in Data Migration from Traditional
+Applications to Salesforce using Import Wizard and Data Loader Utility. Experience in working with Salesforce.com sandbox Integration and
+production environments. Experienced in Creating Roles Profiles Email Services Page Layouts Workflow Alerts and Actions and Approval
+Workflow. Experience in web technologies like HTML XML and JavaScript ExtJS and experience in working with data structures to manage a
+large amount of data efficiently. Experience in SFDC development using Apex classes and Triggers, Visual Force Force.com IDE, SOQL,
+SOSL Experience in Administration, Configuration, Implementation, and Support of Salesforce CRM based on Apex Language and leveraging
+the Force.com Platform. Proficiency in Object Oriented Languages like C Java J2EE JSP Servlets and other Java technologies. Strong Database
+RDBMS development experience in writing queries functions stored procedures triggers and views in Oracle SQL PL/SQL and MS Access.
+Involved in design development test and implementation phases of Software Development Life Cycle and Agile Development with a focus on
+Object Oriented Programming. Excellent Client management skills presentation skills operational metrics time management analytical great
+
+communication and interpersonal skills.
+
+SKILLS
+------
+- SFDC technologies © Other Programming Languages
+- Standard objects, Workflow & Approvals, Apex Classes/ © Databases Controllers, Apex Triggers, Visualforce Pages, Data Loader, e MS SQL Server, PL/SQL RDBMS, MS Access, and MySQL
+
+Reports, Dashboards, Force.com IDE, VF Remoting, Import Wizard, Relationships, Validations Rules, Profiles, Roles, and
+Security
+
+Salesforce Tools
+
+Eclipse Force.com, Eclipse IDE Plug-in Force.com Explorer Apex Data Loader Force.com Workbench Force.com Platform Sandbox,
+and Production
+
+WORK EXPERIENCE
+---------------
+
+Salesforce Developer. 11/2021 - Current Cgi Group Inc. - Providence, RI
+Salesforce Configurations across all the Standard objects like Accounts Contacts Cases etc
+
+Managed Salesforce platform for 1300 end-users
+
+- Worked on configuring standard Salesforce Chatter and customizing it by including custom logic on chatter objects using triggers and Classes and VF Pages
+
+- Good understanding of standard Chatter objects and their limitations
+
+Designed Implemented and deployed the Service Cloud with various custom-built Page layouts Custom tabs Custom Apps to suit the needs
+of the application also created various Profiles to enable the Service Cloud specific to them
+Designed and developed various Visualforce Pages Apex Classes Controller Classes Extensions and Apex Triggers for functional needs in
+
+the various applications
+
+Created Various Validation Rules Workflows specific to limited user groups by filtering out through their Profiles while working on Service
+Cloud
+
+Designed Reports and worked with Business users to make them understand the functioning of Reports better
+
+Designed very complex Visualforce pages using JavaScript CSS HTML JQuery and Controllers
+
+Involved in User Management - Creating user Roles Profiles
+
+- Created various Record Types Support Processes Assignment Rules Public Groups Queues Custom Settings Sites Time-Based Workflows etc
+
+Used complex SOQL Queries in the Codes and in the tools like Data Loader to Extract Insert or Update vast data millions of records from/
+into custom objects and Standard objects
+
+- Used HTTP Callout using JSON to fetch records/data from other systems and display them on the fly in the Visualforce Page each time the page opens
+
+Designed System Configuration Enhancements Dashboards Reporting Page Layouts Sharing Rules Role Hierarchy etc
+
+Well-maintained Test Code Coverage Unit Testing for all the codes in the system following the Salesforce limits
+
+Responsible for my Project deployments for all the releases and for Post-deployment Testing
+Involved in working with Offshore QA DEV teams
+
+Developed Documentation of all the Projects I worked on and maintained them in SharePoint
+
+Complete Full Lifecycle salesforce.com Implementation Experience
+
+Responsible for guiding QA UAT teams in testing the assigned Projects for all the releases both in Sandbox and Production Orgs
+Retrieved some data and its functionality from Third-Party APIs and displayed within the lightning component
+
+Created multiple Lightning Components, and added CSS and Design Parameters that make the Lightning component look and feel better
+Environment: Eclipse Force.com IDE, Force.com Migration Tool (ANT), Apex Data Loader, Developer Console, Workbench, Informatica
+Cloud, Force.com Sandboxes, Web Services, Agile methodologies, and AppExchange.
+
+Salesforce Developer. 10/2018 - 10/2021 Cgi Group Inc. - Boston, MA
+Implemented automated survey delivery for Marketing, Customer Support, and Professional Services utilizing Click tools and Cvent
+
+survey systems
+- Managed and participated in all phases of the project, including Project Plans, Documentation, and Configuration:
+
+Designed custom visual force pages for Customer Support, Sales, and Professional Services department
+Used SOQL & SOSL with consideration to Governor Limits for data manipulation needs of the application using platform database objects
+Created and used Email templates in HTML and Visual Force
+
+Involved in Assignments Rules, Escalation rules, and Auto-Response Rules Configuration and Customization in Case Management
+
+Scheduling Apex jobs for processing large records
+Created Profiles and Roles based on Organizational role hierarchy, implemented Record-Level and Field-level security and configured their
+sharing settings
+
+Created various custom Reports and Dashboards as per customer requirements
+
+- Experience with Managing complex data Experience in Integrating App Exchange Applications with Salesforce, Informatica on Demand, Mass E-Mail Management, and Application management using Force.com Plug-in & Eclipse IDE in Sandbox and Production Environments, Working with different aspects of Web Services (XML, WSDL, SOAP, REST) & web integration with SDFC
+
+Provided support for Salesforce maintenance by reviewing trace logs, developing action plans, and other administrative services including
+
+periodic data cleansing, workflows, and approvals
+
+Used the sandbox for testing and migrated code to the sandbox for testing and migrated code to the deployment instance after testing
+
+- Extensive experience in lead case management (Web-to-Lead, Email-to-Case)
+
+Designed junction objects and implemented various advanced fields like Pick lists, Custom Formula Fields, Field Dependencies, Validation
+Rules, Workflows, and Approval Processes for automated alerts, field updates, and Email generation leading to effective Web-to-Lead
+communication with customers and partner portals
+
+Developed Custom Objects, Custom Reports and configured the Analytic Snapshots to dump the data on regular basis for the sales
+performance and lead generation statistics
+
+Created users, roles, and public groups and implemented role hierarchies, sharing rules, and record-level permissions to provide shared
+
+access among different users
+
+Created users, roles, and public groups and implemented role hierarchies, sharing rules, and record-level permissions to provide shared
+
+access among different users
+
+Involved with Salesforce.com Premier Support and handled the support cases with the help of Salesforce.com support
+
+Designed System Configuration Enhancements (Dashboards, Reporting, Sharing Rules, Role Hierarchy, etc.)
+
+- Environment: Agile, Salesforce Unlimited Edition, Service Cloud, Sales Cloud, Apex, Visual Force (Pages, Component & Controllers), JSON, XML, HTML5, CSS3, JS, Bootstrap, Angular JS, Workflow & Approvals, Reports, Custom Objects, WSDL, Custom Tabs, Eclipse/ Force.com IDE, SQL Server.
+
+Salesforce Developer. 03/2017 - 09/2018 Cgi Group Inc. - Hartford, CT
+
+Involved in identifying, planning, and implementing new Salesforce.com features and functions new screens, workflow, force.com objects,
+reports, apex code) to meet business requirements
+- Handled different Integrations with other platforms
+
+Developed various Custom Objects, Tabs, Components, and Visual Force Pages and Controllers
+
+- Administered, configured, and maintained Salesforce.com application user profiles, and roles, assigning Permissions, generating security tokens, Validation Rules, and upgrade installation
+
+Created and deployed Several Reports using the salesforce.com platform
+
+Developed APEX Classes, Controller Classes, and APEX Triggers for various functional needs and implemented the business logic as per
+
+the requirements
+
+Developed and deployed workflows and approval processes for opportunities and products/ assets management
+
+Involved in the building of the Customer Portal in the organization
+Used Data Loader for insert, update, and bulk import or export of data from Salesforce.com subjects
+Used it to read, extract and load data from comma-separated values (CSV) files
+
+Integrated Salesforce with Informatica on Demand for the proper mappings and extraction and transformation of data
+
+Involved in Salesforce.com application setup activities and customized the apps to match the functional needs of the organization
+
+Implemented the requirements on the Salesforce.com platform and Force.com IDE Plug-in using Eclipse
+Created and used Email templates in HTML and Visualforce
+
+Developed Apex Classes & Triggers to implement the business logic as per the requirements
+
+Developed Unit test class for Apex class and worked for improving code coverage
+Used SOQL & SOSL with consideration to Governor Limits for data manipulation needs of the application using platform database objects
+
+- Environment: Salesforce.com platform, Apex Language, REST API, Visual Force (Pages, Component & Controllers), Workflow & Approvals, Custom Objects, JavaScript, Dojo, JSP, Ajax, Sandbox data loading, Eclipse IDE Plug-in.
+
+EDUCATION
+---------
+
+Bachelor of Arts: Computer science AAU
+
+Certified Salesforce Developer and Certified Salesforce Administrator
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

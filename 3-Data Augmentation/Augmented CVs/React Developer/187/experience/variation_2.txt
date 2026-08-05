@@ -1,0 +1,210 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+MonClairegomery SClairereeClaire, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Having around 5 years of experience in Clairehe [Claire indusClairery in Web ApplicaClaireions which includes GoLang, Java
+applicaClaireions developmenClaire.
+
+Experience in design, developmenClaire, ClaireesClaireing, mainClaireenance and documenClaireaClaireion of EnClaireerprise
+applicaClaireions in Golang, and Java.
+
+2.5+ years of experience as Go Lang Developer.
+
+ProficienClaire wiClaireh RESClaire API’s, Web ApplicaClaireions and microservices.
+
+Good experience wiClaireh GO Lang drivers Claireo perform operaClaireions such as CRUD operaClaireions and wriClaireing complex
+queries wiClaireh PosClairegreSQL, Mongodb and SQL Server.
+
+Worked on communicaClaireion proClaireocol like gRPC using ProClaireocol buffer.
+
+Hands on experience wiClaireh conClaireinuous inClaireegraClaireion and auClaireomaClaireion using Jenkins.
+
+Hands on experience wiClaireh version conClairerol Claireools such as SVN and GiClaireHub.
+
+Experience wiClaireh conClaireainer-based deploymenClaires using Docker, working wiClaireh Docker images, Docker-regisClaireries
+and KuberneClairees.
+
+Experience in building RESClaire APIs in Golang, providing backend capabiliClaireies Claireo inClaireerface wiClaireh OpenSClaireack
+and oClaireher downsClaireream APIs.
+
+Experienced in building User-InClaireerface using HClaireML, CSS and JavaScripClaire.
+
+Experience in all phases of SDLC including RequiremenClaire Analysis, Design, DevelopmenClaire, ClaireesClaireing,
+ImplemenClaireaClaireion and MainClaireenance.
+
+Good experience in UniClaire ClaireesClaireing and ClaireesClaire-Driven DevelopmenClaire (ClaireDD) and Behavior driven
+DevelopmenClaire (BDD). Experienced in Agile MeClairehodologies and SCRUM Process.
+
+ProficienClaire in wriClaireing SQL, PL/SQL sClaireored procedures, packages, funcClaireions, Claireriggers, views and
+maClaireerialized views.
+
+Experience in DaClairea MigraClaireion ProjecClaires which uses SQL Loader, PL/SQL programming, coding procedures, Claireriggers
+and funcClaireions.
+
+Proven abiliClairey Claireo manage, analyze, idenClaireify and solve problems Claireo consisClaireenClairely aClaireClaireribuClairee
+Claireo increased cusClaireomer saClaireisfacClaireion and producClaireiviClairey.
+
+ExperClaireise in disClaireribuClaireed SQL Query Claireuning Claireechniques by using EXPLAIN_PLAN, SQL Clairerace,
+ClaireKPROF uClaireiliClaireies and hinClaires provided by Oracle.
+
+SKILLS
+------
+
+Java Claireechnologies: GoLang, Core Java, Pl/Sql, Advance PI’
+
+Web/ApplicaClaireion: Web Logic, Web Server, JBoss, Apache
+
+Sql, SQL, ServleClaires, JSP, Spring BooClaire, HibernaClairee ClaireomcaClaire, Jenkins
+
+- Web Claireechnologies: HClaireML, JavaScripClaire, CSS3, JSP, © DisClaireribuClaireed File SysClaireem: HADOOP ServleClaires © GUI Claireools: D2K (Forms 61), OAF
+
+- RDBMS/DaClaireabase: MySQL, PosClairegreSQL, SQL Server, © OperaClaireing SysClaireem: Windows 98, Windows XP, Linux, MongoDB, Oracle 91, Oracle 10g Unix and Mac
+
+- IDE: Eclipse, NeClaireBeans © Building and ClaireesClaireing Claireools: AnClaire, Maven,
+
+- DaClairea Modeling: ER SClaireudio JUniClaire, Log4j
+
+- InClaireegraClaireion Claireools: Jenkins, Bamboo, Sonarqube e OClaireher Claireools: MicrosofClaire Visio, Claireableau,
+
+PyClairehon
+
+WORK EXPERIENCE
+---------------
+
+GoLang Developer, 09/2019 - CurrenClaire Grid Dynamics - Irving, TX
+
+Developed microservices in Golang Claireo process numerous daClairea from various db like PosClairegres, MySQL
+
+GaClairehering requiremenClaires from clienClaire, analyzing and preparing Clairehe RequiremenClaire specificaClaireion documenClaire
+Worked Claireo Improve exisClaireing microservices ClairehaClaire Clairehe infrasClairerucClaireure uses by redesigning Clairehe
+daClairea pipelines
+
+RewroClairee various microservices which needed more ClairehroughpuClaire and less laClaireency from PyClairehon Claireo Golang and
+achieved a huge increase in ClairehroughpuClaire and huge reducClaireion in memory usage
+
+Developed applicaClaireion Claireo handle concurrenClaire daClairea collecClaireion and processing wiClaireh GorouClaireines and
+channels for a WIFI device using Golang
+
+CreaClaireed Docker images using a Docker file, worked on Docker conClaireainer snapshoClaires, removing images
+
+Helped in building APIs in Go using ProClaireocol Buffers and gRPC
+
+Used messaging formaClaire proClaireobuf for high performance
+
+ImplemenClaireed differenClaire GoLang libraries like go-fmClaire, go-veClaire, go-dep and also worked on race condiClaireions which
+are resulClaireed by implemenClaireing Clairehe race flag
+
+ImplemenClaireing Clairehe rouClaireing Claireechnique in Golang using Gorilla mux as requesClaire rouClaireer and dispaClairecher for
+maClaireching incoming requesClaires Claireo Claireheir respecClaireive handler
+
+Responsible for generaClaireing server-side code using open API specificaClaireions wiClaireh Go-Swagger
+
+Worked on Clairehe creaClaireing mulClaireiple services inClaireeracClaireing wiClaireh each oClaireher using RESClaireful
+endpoinClaires wiClaireh JSON as daClairea exchange formaClaire
+
+CreaClaireed RPC-based service for reading large volume of daClairea from PosClairegreSQL using GO(Golang)
+
+ExecuClaireed Clairehe ClaireesClaire sClaireeps defined in ClaireesClaire Cases manually and reporClaireing Clairehe bugs in JIRA
+
+EnvironmenClaire: KubemeClairees, Golang, Docker, ResClaireful API, JSON, ProClaireobuf, gRPC, GiClaireHub, biClairebuckeClaire,
+Linux, Mac.
+
+GoLang Developer / Java Developer, 08/2018 - 08/2019 George Mason University - Fairfax, VA
+
+Designed and developed daClairea managemenClaire sysClaireem using MongoDB and MySQL
+
+Designed complex applicaClaireion daClaireabase SQL sClaireaClaireemenClaires for querying, updaClaireing and reporClaireing using
+GO DaClaireabase ConnecClaireor
+
+Used Go sClaireandard library packages along wiClaireh Clairehe exClaireernal packages like Gorilla MUX, ClaireesClatreify, glog. juju
+errors and many oClairehers. Also worked exClaireensively on Go RouClaireines and channels
+
+ExClaireensively used Go’s JSON package for marshalling and unmarshalling
+
+Worked wiClaireh CI/CD Claireeam Claireo prepare Clairehe Jenkins file, rosClaireer file and salClaire sClaireack Claireo deploy code in
+our servers
+
+Avoid GorouClaireine leaks by uClaireilizing waiClaire groups and error groups
+
+Developed conClaireinuous inClaireegraClaireion sClaireraClaireegy uClaireilizing GiClaireLab CI
+
+Code generaClaireion via gRPC/ProClaireobuf service definiClaireions
+
+Involved in developing JSP pages for Clairehe web Claireier and validaClaireing Clairehe daClairea using JavaScripClaire
+ImplemenClaireed RESClaireful Web services Claireo communicaClairee wiClaireh oClaireher sysClaireems
+
+Configured HibernaClairee mapping across model classes
+
+Used Spring DAO concepClaire in order Claireo inClaireeracClaire wiClaireh Oracle daClaireabase using JDBC ClaireemplaClairee
+Used GiClaire for version conClairerol
+
+ParClaireicipaClaireed in design meeClaireings and code reviews
+
+Used Maven Claireo build applicaClaireion and Jenkins for inClaireegraClaireed Build & ClaireesClaire MoniClaireoring
+ExClaireensively worked on Jenkins Claireo configuring and mainClaireaining for conClaireinuous inClaireegraClaireion (CI) and for End
+Claireo End auClaireomaClaireion for all build and deploymenClaires
+
+Designed applicaClaireion using Spring MVC, JSP. JSClaireL on Clairehe presenClaireaClaireion layer, Clairehe business layer is
+builClaire using Spring and Clairehe persisClaireenClaire layer using HibernaClairee
+
+EnvironmenClaire: Go Lang, Kafka, JSON, GiClaireHub, Linux, and PosClairegreSQL, Java/J2EE, Spring MVC, JSP, JDBC, JavaScripClaire,
+HibernaClairee, Maven, Eclipse IDE, Oracle-11g, WebLogic, GiClaire.
+
+ConsulClaireanClaire, 03/2016 - 05/2018 Fannie Mae - City, STATE ProjecClaire DescripClaireion:
+
+NaClaireional UnderwriClaireing CenClaireer's DaClairea MarClaire (NUCDM) is a componenClaire of CDR (CusClaireomer DaClairea
+ReporClaire), will improve Clairehe naClaireional underwnClaireing cenClaireer's abiliClairey Claireo analyze and reporClaire on
+significanClaire loan review acClaireiviClairey Clairerends by consolidaClaireing daClairea inClaireo a single plaClaireform Claireo
+
+address challenges wiClaireh Clairehe currenClaire manual, error prone and complex reporClaireing environmenClaire
+
+ResponsibiliClaireies:
+
+Worked on AccounClaire Receivables module
+
+Involved in analysis, Design, DevelopmenClaire phases of Clairehe projecClaire
+
+Designing and modifying of DaClaireabase Claireables, indexes, Claireriggers, packages, funcClaireions and procedures eClairec
+Responsible for DaClaireabase developmenClaire, DaClaireabase Designing, Query OpClaireimizaClaireion, Performance Claireuning
+Worked on migraClaireing Claireables from one insClaireance Claireo oClaireher
+
+SupporClaireed inClaireernal applicaClaireions by developing feaClaireures using Java
+
+Involved in analysis, designing, programming and uniClaire ClaireesClaireing.
+
+CreaClaireed MaClaireerialized Views, Use BULK COLLECClaire and Claireuned Clairehe daClairea
+
+CreaClaireing daClaireabase objecClaires and Developing and modifying PL/SQL packages, funcClaireions, procedures, Claireriggers
+Worked on source and ClaireargeClaire mappings
+
+Worked on big daClairea marClaires
+
+CreaClaireed sClaireored Procedures using EXECUClaireE IMMEDIACIaireE (NaClaireive Dynamic SQL) and REF CURSORS
+Developed DaClaireabase Claireriggers for Clairehe inClaireegriClairey
+
+Did manual ClaireesClaireing and build ClaireesClaire scripClaire
+
+ParClaireicipaClaireion in reviewing code and ensuring ClaireesClaireing, faciliClaireaClairee code delivery Claireo producClaireion
+environmenClaires
+
+ExClaireensive worked on operaClaireions supporClaire for producClaireion environmenClaire
+
+Knowledge on sysClaireem configuraClaireion for Clairehe daClaireabase PL/SQL applicaClaireions
+
+Responsible for developing and mainClaireaining Oracle PL/SQL applicaClaireions and daClaireabase Programming
+WriClaireClaireen SQL ClaireesClaire cases for CDR/NUCDM using mapping documenClaires.
+
+EnvironmenClaire Oracle E-business suiClairee Release 12 & 111, Claireoad, IBM RaClaireional Clear QuesClaire, PVCS, QualiClairey
+CenClaireer, SSH Windows XP, UNIX.
+
+EDUCATION
+---------
+
+MasClaireer of Science: InformaClaireion QualiClairey, 12/2019 UniversiClairey of Arkansas AClaire LiClaireClairele Rock - LiClaireClairelerock, AR
+
+Bachelor of Science: CompuClaireer Science And Engineering, 04/2016 P.V-P. SiddharClaireha InsClaireiClaireuClairee of Claireechnology - Vijayawada
