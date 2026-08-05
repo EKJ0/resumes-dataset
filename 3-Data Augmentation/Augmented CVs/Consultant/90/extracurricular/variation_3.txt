@@ -1,0 +1,160 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Senior Data and IT Architect with 20 years of leadership experience in designing innovative business solutions. Skilled in cloud computing,
+Data strategies, information management, application development, and virtualization. Demonstrated mastery in evaluating requirements for
+business application integration and service activations. Proven mentor and training with expertise in communicating across organizational
+levels and with cross-functional teams to drive shared vision and foster culture of excellence.
+
+SKILLS
+------
+- AWS e Flume
+- OCI e Flink
+- Business process mapping © Spark
+- Team leadership ¢ NOSQL
+- Data analytics © Micro-services
+- DWH e Data Quality
+- Data Strategies e MPP Data
+- AML ® Oracle EBS
+- Server-less tech e Snowflake,
+- Data Virtualization © Databricks
+- Kubernetes ° Bigdata
+- Docker e HDFS
+- OACS © Hive
+- Tableau © Oozy
+- ETL e Airflow
+- ELT
+
+WORK EXPERIENCE
+---------------
+
+02/2005 to Current Consultant Eversana - Fort Walton Beach, FL
+
+- IT and Data Architecture
+
+- People Analytics, HRIS and HRIT: Enabled Prism Analytics on Workday platform to ingest and deliver external data entities into Workday ecosystem
+
+- Worked on Extemalizing Workday data for Data Science and Contact tracing initiatives where in data was micro- batched and real time ingestion into AWS platform for enabling access the data thru extemal entities like Paxata, One Model, Data Science projects for predictive analytics for flight risk, Hiring success and Associate contentment
+
+PROJECTS
+--------
+
+Finance Technology:
+
+Awesome Migrations: A multi-year/multi-asset migration program to AWS Cloud
+
+I have onboarded services like EC2 and Lambda for server/serverless computes, RDS, EBS, $3, Redshift,
+DynamoDB and snow family from a data persistence, Kinesis and Kafka for real time streams, Athena, Glue and
+EMR for ETL, IAM for security, SQS and SNS for messaging
+
+T have also held up a lake formation to unveil Finance data lake
+
+We started investing on MLOPS using Industry standard tooling like Sage maker and AutoML for Data Scientists
+to flourish in their models
+
+- Modern Finance Integration Layer: AWS platform upliftment from an on-premise Java Application that monitors, controls the quality of data and ensures completeness, correctness and Finance (GL) compliant data into Snowflake using AWS services (Lambda, $3, Athena, Glue, DynamoDB, Kafka, EFS), Snowflake, Databricks
+
+My responsibilities were to lead a group of data and web engineers, Envision and architect the entire tool suite that
+enables cutting down of day-to-day tasks and thereby saving over $500K in IT/Maintenance spend each year
+Finance Business Intelligence: Led a successful delivery of a massive scale data warehouse from on-prem Teradata
+to OCI - Oracle Cloud infrastructure
+
+My responsibilities included Creating a vision for Next Gen data platform and foundation, certifying the Cloud
+Native products, set guidelines for data migrations, elevate usage of on-prem Informatica to a cloud based EMR
+
+and spark engine for ETL activities, Setting up micro services framework, embrace CNP capabilities like OACS
+and DV for self-reporting and data discoverability, compose auditing and testing strategies, helping business invest
+in Machine learning capabilities, discover capabilities of API and strategically retire legacy tools and technologies.
+
+03/2004 to 02/2005 Data Technical leader and SME Toyota Motor Manufacturing NA - City, STATE
+
+- Finance Technology:
+
+- Ariba Implementation: A step towards legacy modernization, Ariba onboarding helped Nationwide consolidate 2 business entities
+
+- My key activities included assessing products and their capabilities
+
+- Devise a plan of action of integrations (real time and batch) and help retire PeopleSoft’s E-Pro engine
+
+- I dealt with identification of product loopholes and helped bridge the gap between Nationwide best practices and elevate our capabilities into modern ETL stack from Informatica to Databricks(spark)
+
+I worked extensively with multiple businesses data governance, IT Finance, SMS and Procurement to establish a
+COE and Operational excellence for B&I, Supplier management, spend management and helped visualize multi
+fold spectrum of data visualizations
+
+Workday HCM: A step into Modern SaaS offerings, Workday provides Industry standard HCM tooling
+
+I championed in aspects of first in the industry of adoption of Prism, a Data Wrangling tool, to setting report
+writing/Dashboarding, setting standards, initiatives on Workday Extends applications, Workday analytics,
+composing Data strategy and directing Predictive and prescriptive analytics
+
+Personal Lines Transformation: A traditional legacy modernization effort, it involved Nationwide migrating to
+
+Guidewire’s Policy center
+
+I was involved in Base architecture, Data migration and reconciliation framework
+I was also instrumental in in enabling 17 external rating engines to interface with Policy center thru APIs
+Beacon: Day one leading and Day one deposit for Nationwide Bank, I was primarily responsible to architect an
+
+end-to-end warehouse product for reporting and analytics business needs
+
+I implemented a Data Vault 2.0 for a warehouse solution
+
+Implemented the Full Truckload Ordering project at different sites of Toyota making changes to suit each site,
+Designed Disaster recovery system called Provisional system, which in case of any problem with regular ordering
+
+system, would send out the orders to suppliers.
+
+04/2001 to 03/2004 Database Technical Leader State Farm Insurance Companies - City, STATE
+
+- A lifelong learner and appreciate every small to large scale projects that offer a prospectus of learning and adapting
+
+- Ihave accomplished cloud migrations, data migrations, rewrites and new application builds in my experience
+
+- Hands on with Cloud offerings on AWS and OCI
+
+- My primary responsibility is to harness the latest approved CNP into LOB and build new integrations into the code pipeline
+
+- With over 15 years of experience in DWH tech stack
+
+- Able to deliver data management vision, goals, priorities, design principles, and operating policies in support of the business goals of the organization
+
+- Hands on leader with expertise in building data lake houses, data lakes, Data warehousing, (ETL and ELT), while helping the LOB upgrade from ETL developers to Data engineers
+
+- Extensive hands-on experience using Snowflake, DynamoDB, NOSQL, Oracle, Netezza, Teradata, DB2 and SQL databases and several of its tools
+
+- I have solid experience translating business requirements into conceptual, logical, and physical data models
+
+- Implement best practices and methodologies in data analysis, design and modeling
+
+- Experience on Meta data definition, implementation and maintenance, new business rules identification and implementation to data rules, transformation program library maintenance, XML file generation and data quality
+
+- Design standards for using normalized data structures, de-normalized structures, and dimensional structures
+
+- Defined common design patterns for modeling various types of relationships
+
+- Provided guidance and work leadership to less-experienced staff members
+
+- Excellent teamwork skills, good oral, written communication, and presentation skills., Started from a developer and grew to a lead developer and offshore coordinator role
+
+- Involved in major redesigns and pilots to rollouts like AIMS rewrite, to AERO rewrite, Enterprise Meta mart, Control M conversion and ADF to PLI Conversion.
+
+EpucatIon
+
+Master of Science: Data Analytics SNHU - Manchester, NH
+
+CERTIFICATIONS
+--------------
+
+Magna-Cum-Laude in Master of Science at SNHU Guidewire Policy Center Technical certification Guidewire Policy Center Functional
+certification Nationwide CIO award X 3 Nationwide IT Outstanding Contribution X 2 2
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

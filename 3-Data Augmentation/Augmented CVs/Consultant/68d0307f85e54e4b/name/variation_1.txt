@@ -1,0 +1,51 @@
+PROFILE
+-------
+
+WORK EXPERIENCE
+--------------- Analysis
+
+Configuration
+
+SAP Consultant with visionary design and strong problem
+
+Emily Walsh
+
+- 20 years SAP experience
+
+- =SD, LE, PP, MM, PS, QM, CO configuration experience
+
+- VC Variant Configuration, ABAP programming experience in several modules
+
+- Coaching consultants and SAP Staff
+
+- Excellent business know how in all areas of logistics in different industries
+
+- Strong methodology knowledge
+
+Identified key SD/LE/PP/MM/PS/QM business processes, mapped requirements to SAP, and identified gaps to be addressed
+during the design stage. Wrote handbook about the methodology to use for documentation of processes in analysis and design
+phase.
+
+Developed new cross functional business processes for SAP as a guideline for the detailed design in the different teams. Wrote
+SAP SD, LE, PP, MM, PS, QM scripts and training documents.
+Composed design specifications for new transactions and reports.
+Designed new functions and scenarios for using SAP on the Intemet.
+
+Configured SD, LE, PP, MM, PS, QM modules in all important
+
+functions
+
+SD: 14 Implementations Master data, document types, incompletion log, document flow, condition technique/pricing, requirements transfer and availability
+check, account determination, shipping, billing
+
+LE: 10 Implementations Outbound deliveries, picking, packing, goods issue, batch and serial number management, inspection lots, Transfer requirements,
+transfer orders, putaway, inbound deliveries
+
+PP: 8 Implementations BOM and recipes, work centers, master recipes, routings, process instructions, SOP, demand management, MRP, process orders,
+production orders, capacity planning, distribution planning, variant configuration, settlement
+
+MM: 8 Implementations Master data, MRP, forecast, purchasing, batch management,
+
+control, inventory management (IM), warchouse
+
+management (WM), invoice verification

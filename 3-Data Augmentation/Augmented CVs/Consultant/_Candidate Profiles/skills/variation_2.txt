@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Consultant
+Folder: Consultant  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: a5a5adfbd24763cc.txt)
+----------------------------------------------------------------------
+Name: Ryan Harry
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: English French Arabic
+Volunteering: Not stated in source
+Extracurricular Activities: International Cuisines Sailing & Scuba Diving Snow Skiing
+Education: BBA in Event, Sport & Entertainment Management Aug 2016 - Feb 2020 (Honours) San Jose State University
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 354 words, 47 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: 43.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science: Biomedical Engineering, 2009 University of Iowa - Iowa City, LA
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. lead, managed, directed, coordinated, drove
+Resume Length: 261 words, 32 lines (~0.5 pages)
+
+CANDIDATE 3  (source file: 69.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (10 instances) — e.g. managed, coordinated, lead, established
+Resume Length: 1305 words, 134 lines (~2.6 pages)
+
+CANDIDATE 4  (source file: 26.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Introduced special outreach programs to department chair in effort to increase institution's interest in community
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. directed, mentored
+Resume Length: 1016 words, 96 lines (~2.0 pages)
+
+CANDIDATE 5  (source file: f19dfa27a8b45d41.txt)
+----------------------------------------------------------------------
+Name: Aastha Duseja
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 525 words, 44 lines (~1.1 pages)
+
+CANDIDATE 6  (source file: 88.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: ACTIVITIES AND HONORS
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (9 instances) — e.g. managed, established, led, directed, oversaw
+Resume Length: 1029 words, 129 lines (~2.1 pages)
+
+CANDIDATE 7  (source file: 5fb43112767733b1.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: - This Free Resume Template is the copyright of Qwikresume com. Usage Grukie lings
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. managed, oversaw
+Resume Length: 387 words, 40 lines (~0.8 pages)
+
+CANDIDATE 8  (source file: 105.txt)
+----------------------------------------------------------------------
+Name: Francisco Ca
+Ethnicity: Not stated in source (not inferred)
+Age: ~50 (estimated from earliest date/grad year 1998, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: California State University - Fullerton | Fullerton, CA + 06/2006
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (9 instances) — e.g. managed, established, directed, supervised, coordinated
+Resume Length: 952 words, 101 lines (~1.9 pages)
+
+CANDIDATE 9  (source file: 9dfea8fd132060eb.txt)
+----------------------------------------------------------------------
+Name: Effah Tyke Sales Consultant
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. leading
+Resume Length: 313 words, 28 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: Image_6.txt)
+----------------------------------------------------------------------
+Name: Camilla Hughes
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: German
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2014 Master of Business Administration (MBA) University of Colorado
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, supervised, established
+Resume Length: 263 words, 47 lines (~0.5 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

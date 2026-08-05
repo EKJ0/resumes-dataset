@@ -1,0 +1,187 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+With more than 16 years of rich IT experience, with proficiency in HP Server Automation, Developing UNIX Shell scripts and
+Database Administration presently associated with HCL America, as Technology Expert working for Synchrony Financial as HP
+Server Automation Subject Matter Expert.
+
+INTERESTS
+---------
+
+Awarded with "Certificate of appreciation" for the remarkable performance at HCL. *Awarded as "Star Performer" in HP for the NSE
+Project. *Honored with "E-Award” in HP for two projects (Saudi Telecom and Patni) *Honored with "E-Award” for the Whitepaper
+getting selected for HP's Technology event.
+
+SKILLS
+------
+- Guest services e Loss prevention
+- Inventory control procedures * Cash register operations
+- Merchandising expertise ¢ Product promotions
+
+WORK EXPERIENCE
+---------------
+
+Consultant, 07/2011 to Current Iqvia Holdings Inc - Orlando, FL
+- Driven complex technical projects to support the Data Center servers Planning, estimation, Deployment, Integration and training for HP SA (Opsware).
+- Developed documentation to assist the Build and Run team for seamless operation.
+
+Support break and fix for any issues around the HP Server Automation (Opsware).
+
+Provide service rendered to 2 major Datacenters in the locations Dallas, TX and Phoenix, AZ.
+
+Monitor all change management, Incident management, request and problem management queues.
+- Manage existing patches and patch policies within Opsware and maintain version control.
+
+- Maintain monthly Microsoft security updates within Opsware.
+
+- Package new patches and vulnerability remediation scripts within Opsware.
+
+- Planning and scheduling Patching.
+
+- Manage HP Server Automation (Opsware) environment.
+
+Manage Agent connectivity.
+
+Manage Package Inventory.
+
+Apply patches and hotfixes recommended by vendor.
+
+Implemented Satellite Infrastructure for the current environment Involved in Opsware Support Transition Delivered KT Session
+
+to offshore folks on HP Tool Opsware Technology with SA Architecture components & core Documented SOPs for Opsware SA
+
+L2 Tasks.
+
+- Served as a Key Resource /SME on all Automation Activities for Opsware Activities.
+
+- Expertise in troubleshooting Opsware Agent issues Opsware SA - Global Shell, API, SA Web Interface, SA Client Opsware Support Process which gives brief about SA Core Processes , Agent Restart on managed server Developed several API scripts for Opsware Automation.
+
+- SAas a Server Life cycle Management.
+
+Completed Technical Documentation on Agent Management process.
+
+Worked on Service Now Ticket SLA for providing access to the user who request for application access for Opsware.
+
+- Won Client appraisal for outstanding performance on Technical skills throughout the project.
+
+FedEx: Technology: HP SERVER AUTOMATION, Linux Job Description [Objectives / Responsibilities]: User Administration
+(Mkacct).
+
+Perform Hostname Generation per Tool Perform Account Management Tasks (Add/Remove Accounts) Perform IP Management
+per Tool Review basic Compliance Remediation (Tripwire) Server Build (Using HPSA) DNS Registrations HCL, Chennai
+Technology Consultant - From AUG 22nd 2011 - DEC 28th 2013 Projects undertaken: GE: Technology: HP SERVER
+AUTOMATION, UNIX, DBA Job Description [Objectives / Responsibilities]: Developed UNIX Shell scripts to extract the data
+
+from a new data source and parse it using SED and AWK.
+
+Performed Oracle Database Administration activities to maintain the size of the database.
+
+Have worked extensively on Different flavors of UNIX operating systems Completed Opsware Support Transition Delivered KT
+Session to offshore folks on HP Tool Opsware Technology with SA Architecture components & core Documented SOPs for
+Opsware SA L2 Tasks.
+
+- Served as a Key Resource /SME on all Automation Activities for Opsware Activities.
+
+- Learnt Day to day operations activity with various platform engineering team and escalation points Organization Structure, Opsware Architecture and Environment.
+
+Built server from bare OS through VMWARE tools and using Opsware provisioning process Expertise in troubleshooting
+Opsware Agent issues Opsware SA - Global Shell, API, SA Web Interface, SA Client Opsware Support Process which gives brief
+about SA Core Processes , Agent Restart on managed server Developed several API scripts for Opsware Automation.
+
+- SAas a Server Life cycle Management.
+
+- Completed Technical Documentation on Agent Management process.
+
+- Worked on Service Now Ticket SLA for providing access to the user who request for application access for Opsware.
+- Scheduled Cron Jobs for running the tasks on daily basis for generating reports.
+
+- Won Client appraisal for outstanding performance on Technical skills throughout the project.
+
+- Worked on SLA's of incident, Request tickets as part of daily activities.
+
+Consulting Associate, 2006 to 07/2011 Jones Lange Lasalle Inc.
+
+Projects undertaken, Current to Current Scheels Sports
+
+SERVICE DESK, UNIX, DBA, Current to Current Smith Seckman Reid, Inc.
+- Saudi Arabia
+
+HP OPERATION MANAGER, Current to Current Capital One - - Somerville
+- Integrated Oracle and MS SQL DB SPI for 26 database servers.
+- Customized the user defined metrics for HP Operations Manager.
+- Customized templates according to customer requirement.
+- Target servers were of all flavors of UNIX and configured the DB SPI on the UNIX Servers.
+
+- Tata, Mumbai
+
+Implementer, Current to Current ICICI HP CLIENT AUTOMATION ENTERPRISE - City
+- Designed and implemented Core and Satellite for 80,000 desktops.
+- Packaged 5 packages and distributed across the network.
+- Proficiency in Packager, Publisher, CSDB Editor.
+- Implemented Patch Management. Installed and configured MSSQL/Oracle Database as part of the application implementation.
+- Patni, Mumbai/Bangalore Technology
+
+support, Current to Current Saudi Telecom Company
+- Saudi Arabia Technology
+
+Technology Consultant, 2006 to 07/2011 Hewlett-Packard - City, STATE
+- Attended all team meetings to resolve technical and project issues, coordinate with team members and review project schedules.
+- Reviewed project goals and objectives with the project manager and design team.
+- Mentored less experienced architects and trained architectural personnel.
+- Created new and innovative approaches to problems and discussed them with project managers.
+- Communicated with all other vendors and contractors and incorporated their input into project designs.
+- Planned and led professional development reviews and “lessons learned" sessions.
+- Oversaw implementation of application developments.
+- Identified and corrected performance issues.
+- Trained users in the proper use of hardware or software.
+
+- Followed internal procedures for change management, incident management and escalation.
+
+Sr. Software Engineer, 03/2000 to 11/2005
+
+WebSpectrum Software Pvt. Ltd. - - City, STATE
+
+Developed Test Cases for the Network Management Systems.
+Performed UNIX System Administration and Patch Management for HP-UX.
+Tested various NMS tools.
+
+Developed Developer 2000 forms for Root Cause analysis modules.
+Developed UNIX Shell scripts for the MKS (version control).
+
+Installed and configured Oracle Database.
+
+Discovered and monitored routers/switches, firewall etc.
+
+Configured the threshold for trap generation.
+
+Configured custom maps.
+
+Uploaded the MIBs for specific traps.
+
+Configured for custom actions (Email generation).
+
+Developed UNIX Shell scripts to discover nodes using SNMP polling.
+
+EDUCATION
+---------
+
+Bachelors of Engineering: Instrumentation, 1998 University BDT College of Engineering - Karnataka
+
+- Top 74% of class
+
+- Graduated with degree of Bachelor of Engineering
+
+Additional Information
+
+- HONORS & AWARDS Awarded with "Certificate of appreciation” for the remarkable performance at HCL. Awarded as "Star Performer” in HP for the NSE Project. Honored with "E-Award” in HP for two projects (Saudi Telecom and Patni) Honored with "E-Award" for the Whitepaper getting selected for HP's Technology event.
+
+- Date: 11-15-2016 Place: Alpharetta, GA, USA
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

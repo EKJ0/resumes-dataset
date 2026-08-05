@@ -1,0 +1,124 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+To utilize my technical skills with respect to SAP Security/GRC and provide a professional service to customers by applying and honing my
+knowledge and working in a challenging and motivating working environment.
+
+SKILLS
+------
+- SAP Security (ECC, BI/BW, CRM, SRM, IBP) © People Management
+- SAP Authorizations ¢ Incident Management
+- SAP GRC © Problem Solving
+- ServiceNow, ITSM Solman Tool e Saviynt [AM
+- SAP Reportings
+
+WORK EXPERIENCE
+---------------
+
+Consultant, 01/2022 - Current Parametric Technology Corporation - Wayne, India
+- Working as Senior SAP Security Consultant.
+- Developed and implemented security monitoring and reporting tools.
+
+- Successfully implemented security roles and analysis authorizations.
+
+Created Segregation of Duties conflict matrix to ensure compliance to company standards and to mitigate the SOD Violations using
+Saviynt Tool.
+
+Created composite roles to simplify management understanding of user access for yearly reviews. - responsible for creating and modifying
+
+master/derived roles, using the Profile Generator (PFCG) tool.
+
+- Verified that proposed role changes did not violate segregation-of-duties (SOD) policies and documented the changes in order to satisfy audit requirements.
+
+- SAP IBP Security - User, Roles and Visibility Filters/Permission Filters - creation/modification.
+
+Leading SAP Security Team for seamless Operations, handling escalations, people management
+
+Application Development Team Lead, 06/2018 - 01/2022 Cal Net Technology - Rancho Cucamonga
+- Working as Senior SAP Security Consultant
+- Developed and implemented security monitoring and reporting tools.
+- Successfully implemented security roles and analysis authorizations.
+- Created Segregation of Duties conflict matrix to ensure compliance to company standards and to mitigate the SOD Violations using Saviynt Tool.
+- Created composite roles to simplify management understanding of user access for yearly reviews.
+- Responsible for creating and modifying master/derived roles, using the Profile Generator (PFCG) tool.
+- Verified that proposed role changes did not violate segregation-of-duties (SOD) policies and documented the changes in order to satisfy
+
+audit requirements.
+
+Systems Engineer, 06/2017 - 06/2018 Teradata Corporation - San Diego
+- Working as SAP Security Administrator. Knowledge of User Administration, Role Administration -Creating and maintaining authorization and Roles including Single role,
+
+Composite role and derived role.
+
+Provide guidance regarding single, composite, reference, and derived roles via PFCG.
+
+- Manage user administration utilizing SU01 and SU10 (mass changes) in creating, copying. deleting, locking, unlocking users and provisioning roles.
+
+Utilize SE16 and SUIM to retrieve various data.
+
+Utilize SU24 to enable / disable security checks and analyzing $U53 reports.
+
+- Generate transports for security to move profiles and roles to the proper clients.
+
+- Maintain password restrictions and handling various issues ranging from user expiration to missing authorizations.
+
+Using system trace to record authorization checks in different sessions using STO1 and analyse the user problems by using SU53, SUIM.
+
+Documented SAP Security policies and guidelines for table access, naming conventions, Program access, report access, ABAP
+
+development, custom authorization objects, etc.
+
+Provided Production support in SAP Security related daily activities related to user authorization issues and user account administration.
+
+- Assisted users in troubleshooting and identifying authorization issues using SU53 and trace analysis.
+
+- Verified that proposed role changes did not violate segregation-of-duties (SOD) policies and documented the changes in order to satisfy audit requirements.
+
+Performed Unit test of the roles after role modifications, released the transports via SE10 and worked with Business Analysts in getting the
+roles tested in QA system, before moving the roles to Production System.
+
+Senior Software Engineer, 02/2015 - 05/2017 Capgemini - City
+- New User Creation, User delimiting, new roles addition, single/composite/derived roles creation, user modification on SAP as SAP Security Administrator.
+- Having knowledge (practical) on various user provisioning techniques including role maintenance.
+- New user creation, user modification on active directory of windows server 2008 R2.
+- New mailbox creation, mailbox deletion, mailbox modification on exchange console 2003.
+- External email access for the external users through SMTP backbone (User Based Routing).
+- New user addition, removing of users and modification of user on Lync server console Account modification on RSA console (partner VPN console).
+- Worked with ITSM Tool (Servicenow).
+- Worked on QC Management, People Management, Incident Management.
+- Worked on A3 Analysis
+
+EDUCATION AND TRAINING
+
+B.Tech: Informantion Technology, 03/2014 RCC Institute of Information Technology - Kolkata
+7.60 DGPA
+
+XIIth Board Examination, 03/2010 Bidhannagar Gov't High School - Kolkata
+68.40%
+
+Xth Board Examination, 03/2008 Bidhannagar Gov't High School - Kolkata
+85.12%
+
+CERTIFICATIONS
+--------------
+
+- Explore RISE with SAP S/4HANA Cloud - Issued by SAP - 30/03/2023
+
+- AWS Certified Developer - Associate - 09/09/2020
+
+- SAP GRC BusinessObjects Access Control 10.0 by Udemy - 02/07/2018
+
+- SAP Security Training by SAP Training Now & OJAYO SAP on Udemy - 01/15/2018
+
+- ITIL®V3 Foundation Certificate in IT Service Management by AXELOS Global Best Practice - 27/03/2016
+
+LANGUAGES Bengali: First Language Negotiated:
+English: C2 Hindi: Cl Proficient Advanced
+
+Negotiated: Negotiated:

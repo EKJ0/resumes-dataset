@@ -1,0 +1,467 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+ACTIVITIES AND HONORS
+
+Jessica Claire
+
+- Montgomery Street, San Francisco, CA 94105 2 (555) 432-1000 4 resumesample@example.com
+
+.
+
+8+ years of years of strong Project Experience in SQL, Analytics, & Testing. | am a self-motivated and
+organized professional with experience providing thorough and skilful support on Multiple Domains and
+also have experience with different Testing Methodologies - Manual, Functional, Non-Functional,
+Database & Interface Testing
+
+Experienced in agile framework for product development using SCRUM and Kanban methodology.
+Experienced in system analysis and design, system development, integration, deployment, client
+interactions and entire software development process.
+
+UNIX trainer in Cognizant academy.
+
+Successfully worked on complex projects with global implementation, and rapidly evolving requirements.
+Effective communication skills and record for coordination between globally located teams.
+
+Define Business Process, identify the risk, doing risk analysis and providing baseline acceptance
+criteria and deliverables.
+
+Adept in providing Analytical Support to key business Applications /solutions
+
+Thorough Understanding of Software Development Life Cycle (SDLC), involved in various phases like
+Requirements, Analysis/Design, Development and Testing.
+
+Acted as liaison between management and development team for Requirements and QA.
+
+Managing reports. analysis and decision-making for a change request.
+
+Rich experience in translating Business requirements to understandable IT systems requirements and
+Implementing Procedures across the organization.
+
+Strong communication, presentation, analytical and problem-solving skills.
+
+Extensive experience in Test Driven Development (TDD) and using Continuous Integration strategies
+Experienced in using Version One and Jira for managing the epics and stories.
+
+Excellent communication skills and willingness to learn new tools, concepts and environments.
+
+Personable consultant eager to apply deep comprehension development and testing. Results-oriented and
+friendly with over 8 years of experience in presenting products and services to prospects. Talented at
+analyzing account data and resolving customer issues and escalations while maintaining positive,
+professional attitude.
+
+LAST USED e = Scripting
+
+ITerative software development lifecycle in an e Unix Shell scripting
+
+agile environment e Agile, Informatica 9.x, Enterprise, SDLC, Utilities 4 e AR, Informatica, Oct, Scripting, View
+
+2018 e Articulate, JavaScript, Operational Data Store.
+Informatica ETL software development\Testing Shell Scripting, VISIO
+
+8 e Basic, Leadership, Oracle, Software
+
+2018 development, Workflow
+
+SDLC tools (confluence, atlassian, JIRA , Plan e Billing, Logic, DB, Specification
+
+View) e Business Objects, Managing, Developer, SQL 4 e Client, Market, PL/SQL, SQL Server
+
+2018 e Data Warehouse, Excel, Pricing, Strategy
+
+DB: Oracle, SQL server e Database, PowerPoint, Processes, Structured Methodologies e Databases, MS Project, Programming, System
+Scrum, Kanban, Waterfall architecture
+
+Server Technologies e ETL, Windows XP. Quality, System design UNIX e FTP. Word, Relational Database, Teradata
+Databases e¢ Functional, Works, Reporting, UNIX
+
+Oracle 109/119, DB2, MySQL, SQL Server e Gateway, Migration, Requirement, Unix Shell Tools/Utilities scripting
+
+Informatica 9.x, 10.x, Business Objects, FTP e DB2, MySQL, Research, User interface Tracking Tool e Project analysis
+
+JIRA e Reports and documentation
+
+Workflow Tool e Software troubleshooting
+
+MS Project, Visio, Excel, PowerPoint, Word « Analysis
+
+- Quality assurance
+
+CONSULTANT 10/2015 to 02/2018 Chick-Fil-A | Greenacres, FL
+
+Location: Richmond The Objective of the e-Watson project is to get the data that is stored in Binary
+Large Object (BLOB) to an Operational Data Store(Relational Database).Currently the way the PEGA
+database is structured does not allow reporting against all the fields that Group Health would need.
+Moving the data elements from the BLOB to the Operational data store would facilitate Group Health to
+Report against fields that are not exposed due to the limitations of the data being stored as a BLOB
+inside PEGA.
+
+Defines functional, usability, reliability, and performance and support requirements of a system.
+Provides the link between the technical and business views of the system by ensuring that the technical
+solutions being developed will satisfy the needs of the business.
+
+Design and Development of the e-Watson SPA Universe that comprises of all required attributes and
+measures for the SPA reports.
+
+Build SQL queries for analysis.
+
+Acts as liaison with users of the software to address questions/issues.
+
+Partners with business, architecture and infrastructure, and oversees all service levels to ensure
+business area satisfaction.
+
+Coordinates integration activities to ensure successful implementation.
+
+Identified the complex mappings and performed preproduction migration test to find out the problems.
+Ability to develop and document development team processes.
+
+Manages all aspects of projects including scope, schedule, resources, quality, costs, change and risk.
+Prepared test cases and test logs for all the migrated mappings and workflows.
+
+Designed and developed the user interface of the officer level communication module.
+
+Worked in Agile Environment.
+
+Environment: Informatica Business Objects , Oracle,Power Center, UNIX, Windows XP Project: ECR
+Small Group Project Sep 14 - Oct 15 Location: Minnesotta The ECR Small Group client reporting is for
+small group, across the enterprise, includes multiple packages and online tools for accounts, brokers
+and consultants.
+
+Information has varying degrees of consistency, availability, and depth.
+
+This mix of tools, packages and information differences has resulted in the impression the reporting is
+inconsistent or basic and limited.
+
+The market perception is that we are lagging behind other carriers in the client reporting arena.
+Additionally, current legacy small group reporting does not align with the needs for the growing ASO
+Small group client population.
+
+Build SQL queries for analysis.
+
+Acts as liaison with Business users and the developer's questions/issues.
+
+Works with programming staff to ensure requirements will be incorporated into system design and
+testing Requirement analysis.
+
+Extensively worked on Informatica Power Center - Designer, Workflow Manager and Workflow Monitor.
+Extensively used transformations such as Expression, Filter, Joiner, Lookup, and Aggregator.
+Identifies opportunities for the application of new technologies.
+
+Trains end users on software operations.
+
+Ability to build and maintain professional relationships with key stakeholders/process owners.
+Handles problem recognition, research and isolation, assignment and follow-up of customer incidents
+with software suppliers.
+
+Provides the link between the technical and business views of the system by ensuring that the technical
+solutions being developed will satisfy the needs of the business.
+
+Defines detail design components with high level architecture blueprints.
+
+Ability to document both business and additional development processing requirements in a clear and
+articulate manner.
+
+Proactively works with stakeholders to identify future system opportunities and enhancements.
+Ensures effective monitoring of systems.
+
+Ability to provide leadership and technical guidance to the team as needed.
+
+Organizes and leads projects.
+
+Document both business and development processing requirements in a clear manner.
+
+Proactively works with stakeholders to identify future system opportunities and enhancements.
+Preparation of estimates, requirement understanding and technical specification documents for the
+Reporting Requirements and ETL Mapping.
+
+Assists with internal and external communication, improving transparency and distributing timely
+information.
+
+Defines development strategy, standards and support tools.
+
+Work with the team on the full scope of applications including data, business logic, front-end
+presentation and overall system architecture/design for a particular feature or capability.
+
+Fixing of Defects.
+
+Preparation & Review of code changes, test procedure, test plans and other deliverables Environment:
+SQL Server, Informatica, UNIX, Plainview, FTP, Plan View.
+
+Collected and defined customer requirements to produce product scopes.
+
+Reviewed and optimized work of other team developers, providing feedback and instruction for skill
+improvement and knowledge transfer.
+
+Communicated with and gathered feedback from customers about progress updates and worked to
+resolve specific concerns.
+
+Worked in team environment to produce high-quality programs and applications for industry.
+Evaluated and adopted technological innovations and development strategies that improved build
+speed. quality and end-user experience.
+
+Oversaw deployment, configuration and documentation procedures.
+
+Oversaw deployment, configuration and documentation procedures for [Software] and [Software].
+Conferred with [Job titlejs to understand system load limitations and plan strategies to meet customer
+demands.
+
+Led working groups to develop mitigation strategies and prepare standard operating procedures for
+system operations.
+
+Coordinated system installations, testing and code corrections.
+
+Created programs from ground up using measured, market-focused approach.
+
+Collaborated with users to gather requirements and evaluate ease of use.
+
+Developed updates to existing software to meet changing customer demands.
+
+Built code that was robust, accurate and minimized production issues.
+
+Maximized performance through testing and tuning of applications.
+
+Monitored equipment functionality to verify optimal performance and adjust system controls.
+Collaborated with product and engineering team members to define and develop new product concepts.
+Modified existing software systems to enhance performance and add new features.
+
+Completed automation of quality assurance testing of software by developing test cases and scripts.
+Managed development project involving [Number]-person cross-functional team and global population
+of stakeholders.
+
+Managed [Type] development project involving [Number]-person cross-functional team and global
+population of stakeholders.
+
+Coordinated with engineering teams to assess and optimize hardware and software interfaces.
+Established quality standards and performed work according to project schedules.
+
+Cooperated with project partners to develop system analysis and new system design based on client
+specifications.
+
+Adhered to guidelines and enabled compatibility through effective analysis and troubleshooting.
+
+Met with stakeholders, contractor product teams and customers throughout system development life
+cycle.
+
+Cultivated best practices based on [Type] experience according to up-to-date industry and regulatory
+expectations.
+
+Worked with [Job title] to develop call-to-arms for generating funding, support and program
+development opportunities.
+
+Reviewed processes for approving applications, generating notes to contribute toward new processes.
+Coordinated with appropriate departmental staff members to assign proper procedures for project
+implementation and strategic aim.
+
+Updated all stakeholders on key project milestones on monthly basis.
+
+Handled any problems or issues during [Type] project implementation.
+
+Studied [Area of expertise] to develop and implement enhancement recommendations and facilitate
+[Result].
+
+Collaborated with [Job title] to establish and enhance procedures for increasing efficiency and labor
+investment.
+
+Implemented needs assessment mechanisms to identify demand for products and services.
+Interacted with engineering team and [Type] designers to assist product development and project
+implementation.
+
+Provided expert assessments of designs and plans in [Type] industry.
+
+Assisted [Job title] in realizing renegotiated [Industry] outsourcing contracts to improve cost savings of
+over $[Amount].
+
+Oversaw and supervised onsite consultant teams and liaised between team and business executives.
+Reviewed diverse organizational problems to assess concerns with areas such as workflows, communication and cost controls.
+
+Listened to clients' needs and assisted with identifying and securing appropriate services.
+
+Compiled and submitted reports to leadership on programs, performance and education initiatives.
+Documented research findings and prepared polished reports highlighting results and potential
+improvement strategies.
+
+Oversaw project schedules and evaluated progress toward important milestones at every phase of
+project.
+
+Broadened [Type] improvement initiatives, troubleshooting problems and recommending corrective
+actions.
+
+Recorded and reported job-related activities, findings, discrepancies and decisions.
+
+Performed researched analysis to ascertain detailed client need.
+
+Analyzed cost and expense to measure against original budget, promoting adjustments to reinforce
+fiscal alignment.
+
+Coordinated with project managers across multiple initiatives to align development timelines, plan
+testing and work with client representatives.
+
+Laid out consulting services governing orders, activities, schedules and employee performance.
+Furnished custom-tailored advisory services to boost performance, hiring practices and management
+systems.
+
+Assembled action item roadmaps to detail initiatives and provide insight into reporting for budgeting and
+planning specifics.
+
+Evaluated internal systems and prepared training initiatives to mitigate ongoing problems.
+
+Optimized project development and roll-out through in-depth technical research and analysis of risk-
+reward scenarios.
+
+CC@ISULTANT 06/2013 to 07/2014 Chick-Fil-A | Corsicana, TX
+
+Location: Richmond CARS is a Redesign Solution Engineering project.
+
+Current reports are being generated from D950.
+
+The system is being phased out and new reports would be generated using WGS data.
+
+SSB is a new system that consolidates old D950 data converted to WGS format and new WGS data in
+one place.
+
+As part of the project we are migrating existing D950 compliance reports to SSB.
+
+Understanding the functionality of the CARS Reporting Project.
+
+Worked on the Case Management, Enrollments and Unicare reports.
+
+Involved in managing the onsite-offshore model.
+
+Worked extensively with mappings using expression, aggregator, filter, lookup and procedures to
+develop and populate Data Warehouse and Involved in Development and Migration of the Informatica
+Mappings and the workflows.
+
+Created sessions and batches to run the mappings and set the session parameters to improve the load
+performance.
+
+Developed Mapplet, reusable transformations and creation of shortcuts.
+
+Involved in the testing of the BO Reports.
+
+Evaluated new technologies and tools to use for development in close co-ordination with the Project
+Manager.
+
+Environment: Informatica, Oracle, SQL server, Teradata, JavaScript, Shell Scripting, PL/SQL.
+Established quality standards and performed work according to project schedules.
+
+Cooperated with project partners to develop system analysis and new system design based on client
+specifications.
+
+Adhered to guidelines and enabled compatibility through effective analysis and troubleshooting.
+
+Met with stakeholders, contractor product teams and customers throughout system development life
+cycle.
+
+Cultivated best practices based on [Type] experience according to up-to-date industry and regulatory
+expectations.
+
+Worked with [Job title] to develop call-to-arms for generating funding, support and program
+development opportunities.
+
+Reviewed processes for approving applications, generating notes to contribute toward new processes.
+Coordinated with appropriate departmental staff members to assign proper procedures for project
+implementation and strategic aim.
+
+Collaborated with product and engineering team members to define and develop new product concepts.
+Updated all stakeholders on key project milestones on monthly basis.
+
+Handled any problems or issues during [Type] project implementation.
+
+Collaborated with [Job title] to establish and enhance procedures for increasing efficiency and labor
+investment.
+
+Implemented needs assessment mechanisms to identify demand for products and services.
+Interacted with engineering team and [Type] designers to assist product development and project
+implementation.
+
+Provided expert assessments of designs and plans in [Type] industry.
+
+Assisted [Job title] in realizing renegotiated [industry] outsourcing contracts to improve cost savings of
+over $[Amount].
+
+Oversaw and supervised onsite consultant teams and liaised between team and business executives.
+Reviewed diverse organizational problems to assess concerns with areas such as workflows, communication and cost controls.
+
+Listened to clients' needs and assisted with identifying and securing appropriate services.
+
+Compiled and submitted reports to leadership on programs, performance and education initiatives.
+Documented research findings and prepared polished reports highlighting results and potential
+improvement strategies.
+
+Oversaw project schedules and evaluated progress toward important milestones at every phase of
+project.
+
+Broadened [Type] improvement initiatives, troubleshooting problems and recommending corrective
+actions.
+
+Recorded and reported job-related activities, findings, discrepancies and decisions.
+
+Performed researched analysis to ascertain detailed client need.
+
+Analyzed cost and expense to measure against original budget, promoting adjustments to reinforce
+fiscal alignment.
+
+Coordinated with project managers across multiple initiatives to align development timelines, plan
+testing and work with client representatives.
+
+Laid out consulting services governing orders, activities, schedules and employee performance.
+Furnished custom-tailored advisory services to boost performance, hiring practices and management
+systems.
+
+Assembled action item roadmaps to detail initiatives and provide insight into reporting for budgeting and
+planning specifics.
+
+Evaluated internal systems and prepared training initiatives to mitigate ongoing problems.
+
+Optimized project development and roll-out through in-depth technical research and analysis of risk-
+reward scenarios.
+
+CCISULTANT 12/2009 to 05/2013 Chick-Fil-A | Wilson, NC
+
+Dental Benefit Providers (DBP) is in the process of implementing the Trizetto Facets Enterprise
+managed care package, including HIPAA Gateway and Health web.
+
+DBP Facets implementation was scheduled in two phases (I & Il). The phase II (P2) implementation will
+cover External Health plans.
+
+The following are the modules that are going to be implemented in phase II.
+
+Provider pricing Fee Schedules Billing &AR and capitation Reports.
+
+Requirement analysis & Preparation of estimates, requirement understanding and technical specification documents.
+
+Analyze data summarizes performance by writing the SQL Queries.
+
+Review of code changes, test procedure. test plans and other deliverables.
+
+Translates project requirements into project objectives and tasks, managing task assignment to project
+resources and reporting on and managing project scope throughout the lifecycle.
+
+Maintains active relationships with customers to determine business requirements.
+Quality(E-Tracker) activities like project tracking, metrics & status report preparation and facing audits
+Environment: Informatica, Core FTP, Windows XP. VISIO, UNIX.
+
+Established quality standards and performed work according to project schedules.
+
+Cooperated with project partners to develop system analysis and new system design based on client
+specifications.
+
+Adhered to guidelines and enabled compatibility through effective analysis and troubleshooting.
+
+Met with stakeholders, contractor product teams and customers throughout system development life
+cycle.
+
+Bachelor of Engineering 2018 Anna University
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

@@ -1,0 +1,72 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+WORK EXPERIENCE
+---------------
+
+Delivery Consultant August 2021 - Present
+
+Lead the design, build, and customization of cloud-based supply chair tions software for clients across the country to
+streamline and improve their supply chain visibility
+Develop applications in the company's low/no code software solution to meet client needs from receiving, processi
+and shipping functions within warehouses
+Integrate with customer’s ERP (Netsuite, Oracle, |DE) to allow for data transactions from our software to the ERP
+Serve as the primary poimt of contact on multiple projects, ensurt that client’s questions are wered, project timeline
+and budget are adhered to, issues are escalated, and the project team stays up to date with current status and future
+updates of projects
+Collaborate with internal teams to implement and drive new enhancements to the product line based on customer needs
+Monitor project risks and issues, created mitigation plans, and communicated progress to stakeholders
+
+Key Achievements
+
+- Successfully delivered 4 clients with company’s software, which led to supply chain visibility and inventory accuracy for
+
+the clients
+
+Led migration effort for 6 clients from previous version of software to our latest version
+
+Serve on the consulting internal review team to help other consultants develop solutions, troubleshoot issues, and provide
+
+improvements On Current work processes.
+
+Delivery Analyst March 2020 - August 2021
+
+De vek ype d, bu iB and customize d Electronic I le alth Re cK ord applic ahons toc hent’s spec ific ahons, and serve as the
+primary contact for support during Go-Live and post Go-Live events.
+Developed customized reports in EHR to meet client's needs and workflows
+
+Assisted in taking 9 facilities live with EHR application. This involved gathering business requirements, de velopment
+and customization of the product, end user training for application and add-ons, and providing support throug
+go-live process
+
+Worked with chent partners to make enhancements for workflow and UI for current and future builds for clients
+
+Financial Analyst January 2019 - March 2020
+
+Responsible for development and reporting on $1M+ budget, and worked with key stakeholders in order to better
+
+forecast furure year budgets
+
+Facilitated $300K+ same day settlement payments each month to recover costs for development work performed for
+other Federal Reserve banks
+
+Specialized in Federal Reserve Bank cost accounting processes and budget tools to provide consultation to Information
+Technc logy management and executives.
+
+Developed a new Tableau dashboard report that automated monthly metrics for cost of labor forecasts. This report
+
+previously was manually updated each month, and the automation saved employees several hours a month of work.
+
+EDUCATION
+---------
+
+Bachelor of Science ¢ Suppl anaget Minor in Economics Member of Global Supply Chain Club
+
+Leade rship postions W ithin fraternity
+
+SKILLS
+------
+
+Microsoft Office Suite Microsoft Project Management | Microsoft Power BI Tableau | SQI Crystal Reports | Be
+Development | Domo Azure Dev Ops | SaaS Software Delivery | Technology Consulting | Project Management | Custom@
+
+Service | Risk Management

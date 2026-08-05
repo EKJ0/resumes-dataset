@@ -1,0 +1,55 @@
+Parnab Nandy +91 8961414024 - parnabnandyi@gmail.com
+Kolkata 700124
+
+(8W Consultant)
+
+- 27 years of IT Experience at Maventic Innovative Solutions Pvt. Ltd. (Current Company) inchuding: =
+- Development, Support experience in SAP BW 7.4/7.5 an HANA, BW 4/HANA.
+- evelopment, Support experience in HANA,
+- Development, Support experience in SAP BO 4.1.
+
+Key Result Areas:
+
+- Designed, developed SAP BW, BO reports and HANA calculation view according to the needs of Business and Top Management.
+
+SAP BI SKILLS:
+SAP BW Skills:
+- Worked on BW Modelling as required for Business logics in DW 7.4/7.5 on HANA and BW 4/HANA.
+- Hands-on experience in Data Modelling. Data Extraction, Data Loading (Full/Deita upload), Scheduling and Monitoring the Process Chains.
+- Created customized Info Object, info Sources and customized Reports, using Business Explorer (BEs) to give Getailed levers of information trom queries based on O05 and info cube,
+- Developed data loading strategies for master data, transactional data and delta uploads.
+- = Created process chains for data loading. delta uploading and periodical PSA deletion.
+- Involved in validated data consistency in reporting with data targets against PSA after loading them to data
+
+targets.
+
+- Regular inhouse activities ke data cleaning, performance related activities,
+
+- Extensively worked on Query Designer using Restricted Key Figures, Cakulated Key Figures, Variables, filters and
+
+- Abel to write HANA Exit, Customer Exit, End routine, Start routine and Expert routine Code in HANA and ABAP.
+
+- Iewotved extensively in transporting various BW objects into different instances,
+- Standard Datasxource enharicement by BADI in ECC System. (© = Datasource activation, Custom Datasource creation in ECC and replication in BW System.
+
+(BO Skill:
+Development: -
+- Experience in build and design of WEBI reports and Scheduling/Publications.
+- Built and designed the dashboards in SAC Analytics Application/Story.
+- = Derigned and modified the WEBI reports as per requements.
+
+Administration: -
+- Experience in scheduling of WER! and publications to business to different destinations.
+- Experience in transport of reports/dashboards through promotion management.
+
+HANA Skills.
+Development: - Experience in build and design Package, Calculation View, Attribute View.
+Built and designed Aggregation, Join, Union, Projection.
+Derigned and modified Calculation Columns, input Parameters, Fiters.
+Experience in SQL queries for data retrieve, filtering, short, join, mathematical calculation, atter table, alias.
+Experience in build and design mapping, field selection, renaming. flag, transparent filter.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

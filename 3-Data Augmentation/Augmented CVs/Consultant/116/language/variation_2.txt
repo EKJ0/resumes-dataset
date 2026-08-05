@@ -1,0 +1,195 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- PowerCenter Client tools - Mapping Designer, Repository manager, Workflow Manager/Monitor and Server tools Informatica Server, Repository Server manager
+
+- Expertise in Data Warehouse/Data mart, ODS, OLTP and OLAP implementations teamed with project scope, Analysis, requirements gathering, data modeling, Effort Estimation, ETL Design, development, System testing, Implementation, and production support.
+
+- Developed Stored Procedures, Functions, Views and Triggers, Complex SQL queries using SQL Server, TSQL and Oracle PL/SQL.
+
+- Prepared UNIX shell scripts and automation of the ETL processes using UNIX shell scripting.
+
+- Integrated various data sources with multiple relational databases like Oracle11g /Oracle10g/91, MS SQL Server, DB2, Teradata, VSAM files and Flat Files into the staging area, ODS, Data Warehouse and Data Mart.
+
+- Experienced on Automation Scheduling tools like Autosys and Control-M.
+
+- Hands-on experience across all stages of Software Development Life Cycle (SDLC) including business requirement analysis, data
+
+mapping, build, unit testing, systems integration, and user acceptance testing.
+
+- Excellent interpersonal and communication skills, and is experienced in working with senior level managers, businesspeople, and
+
+developers.
+
+SKILLS
+------
+Wipro Feb 2015- Current e Testing Tools QTP, WinRunner, LoadRunner, Quality Center, Test
+- Operating Systems: Windows 2008/2007/2005/NT/XP, UNIX, Director
+MS-DOS IBM July 2012 to Feb 2015
+- ETL Tools: Informatica Power Center 9.1/8.6/8.5/8.1/7.1 * CRM TOOLS: Salesforce.com
+
+(Designer, Workflow Manager, Workflow Monitor, Repository e SALESFORCE TECHNOLOGIES: Apex Classes, Test Classes,
+
+manager and Informatica Server) SOQL, SOSL, Visual Force, Lightning pages (Pages, Component
+- Databases: Oracle 11g/10g/91/81, MS SQL Server 2008/2005, & Controllers), ETL, $-Controls, Triggers, Custom Objects, Web DB2 v8.1, Teradata. services, Validation Rules, Workflows, Dashboards, Reports,
+- Data Modeling tools: Erwin, MS Visio Sandbox development and Testing
+- OLAP Tools: Cognos 8.0/8.1/8.2/8.4/7.0/, Business Objects XI e SALESFORCE API TOOLS: Eclipse, Apex Explorer, Offline
+12/6.x/5.x, OBIEE 10.1.3.4/ 10.1.3.3 Edition, App Exchange, Data Loader
+- Languages: SQL, PL/SQL, UNIX, Shell scripts, C++ e LANGUAGES: C, C++, Java, PL/SQL. Apex, Ajax, C#
+- Autosys, Control-M Cognizant - Apr 2009 till Apr 2012
+- Java, JSP, Servlets, EJB, Struts, Spring, Hibernate, AJAX, JavaScript, JavaBean(JB),AXIS Framework for WebServices ,SOAP, WSAD, IBM-Websphere, iPlanet Web Server, HTML, DHTML, XML, Oracle, DB2, SQL/PL-SQL, Unix, Perl, ksh. vi Editor, Windows NT, Rational Rose, UML, MS project, PlanView, PVCS, HP Quality Center , and SCCS.
+
+WORK EXPERIENCE
+---------------
+02/2015 to Current Consultant
+
+Benefitfocus - WV, State Projects worked : Catholic Health Initiatives & Microsoft
+
+- Developed PowerCenter Workflows and Sessions and set up Power Exchange connections to database and mainframe files.
+
+- Developed logical and physical data flow models for ETL applications.
+
+- Proficiency in developing SQL with various relational databases like Oracle, SQL Server.
+
+- Provided System and Application Administration for Informatica PowerCenter and Power Exchange.
+
+- Designed, developed, automated, and supported complex applications to extract, transform, and load data.
+
+- Experience with dimensional modeling using star schema and snowflake models.
+
+- Understand the business rules completely based on High Level document specifications and implements the data transformation methodologies.
+
+- Created UNIX shell scripts to run the Informatica workflows and controlling the ETL flow.
+
+- Developed OLAP applications using Cognos 8BI - (Framework Manager, Cognos Connection, Report Studio, Query Studio, and Analysis Studio) and extracted data from the enterprise data warehouse to support the analytical and reporting for Corporate Business Units.
+
+- Strong with relational database design concepts.
+
+- Extensively worked with Informatica performance tuning involving source level, target level and map level bottlenecks.
+
+- Identified and managed interfaces, service levels, standards, and configurations.
+
+- Strong Data Warehousing ETL experience of using Informatica 9.1/8.6.1/8.5/8.1/7.
+
+04/2012 to 02/2015 Operations Manager
+
+Gardaworld - East Saint Louis, IL Projects Worked : APMM, DAMCO, Safmarine
+
+- Extensive experience with the Salesforce.com development life cycle, application design patterns, integration patterns and deployment planning.
+
+- Experience working in Cross - functional teams, identifying business requirements and supporting sales/marketing efforts.
+
+- Experience in SFDC Development implementing the APEX Classes, APEX Triggers, Visual Force pages, S - Controls, Force.com IDE, Eclipse with SOQL, SOSL and Plug-ins.
+
+- Core experience in CRM business processes like Forecasting, Campaign Management, Lead Management, Pipeline Management, Order Management, Account Management, and Case Management.
+
+- Worked with Pardot Functionality, PardotA/B Testing, Auto responder emails and Pardot Email Rendering.
+
+- Proficient in dealing with functionalities related to sales cloud service cloud, Marketing cloud, Community Cloud, Custom Cloud and Analytics Cloud.
+
+- Developed and recommended CRM roadmap for customers in the Financial Domain
+
+- Experience working in Agile methodology, Scrum methodology, Waterfall model and Test-driven development.
+
+- Created test scenarios on Sandbox and production environment and migrated code to deployment upon successful testing.
+
+- Extensive exposure to Black Box testing, Smoke testing, Usability testing, End-to-End testing, System testing, Regression testing and User Acceptance testing (UAT).
+
+- Created customized UI as per the client and application requirements using Visualforce.
+
+- Expertise in Business Analysis methodologies and iterative Software Development Life Cycle (SDLC) in relation with all the phases of Rational Unified Process (RUP).
+
+- Experience in data migration from ACT, Excel, MS outlook using Data Loader, Data Import Wizard, SFDC Data Export, Mass Delete, Informatica.
+
+- Experience in Creating page layouts, search layouts to organize fields, custom links, related lists and other components on a record detail.
+
+- Working with different aspects of Web Services (XML, WSDL, SOAP, REST).
+
+03/2009 to 03/2012 Senior System Executive
+
+Ecs Federal - Indianapolis, IN Projects Worked : Sears, Kmart , BridgeWater
+- Good understanding of production IT Environment and IT Operation such as, / DBA/ Unix / Windows OS/ Exchange and Remote Server Management domains. Serves as a single point of contact to for service delivery for all Service lines/Technologies. Manages delivery communications with sending Geo and end customer. Ensure relevant governance /interlock with Sending Geo and technical service lines Define, Own Service/Quality Improvement plan.
+
+Responsible for service quality, service delivery performance and drives service excellence.
+
+Real Time & continuous follow-up with global support teams for Critical incident resolution.
+
+Manage and coordinate activities during overall ticket life cycle.
+
+Collaborates with peer Operation leads (Enterprise Systems, Networks, Information Security and other Ops leads)
+to deliver customer focused service.
+
+- Chairs the Change Advisory Board (CAB) and Emergency Change Advisory Board (ECAB) meetings.
+
+Obtains authorization for submitted change requests from the Change Authority.
+
+Ensures post review of exception changes to evaluate if the change addressed a real or a perceived exception
+
+condition.
+
+Utilizes the Change Management reporting system to monitor and track changes.
+
+Supported web based applications using JSP, Servlets, JavaScript, AJAX, Struts Framework, HTML, XML, and
+DHTML.
+
+Interacted with End Users to answer their questions in day to day operation of brokerage Account Opening and
+Maintenance Work Flows.
+
+Designed, developed and implemented code using Java, CORBA, Oracle and JDBC for Four major modules.
+Worked on Full Software Development Life Cycle (SDLC) using Rational Unified Process (RUP) Methodology.
+Supported integration testing and UAT on various small and big initiatives for number of users.
+
+Worked on Windows Servers, IIS Servers, SQL Servers and -net applications support and administration.
+Worked on installing Windows Servers OS, IIS, SQL Servers and deployed -net applications using PowerShell,
+Octopus and Release Manager.
+
+Supported, deployed, maintained, and trouble-shoot various -Net applications and web services hosted on various
+versions IIS web servers (7.0/7.5/8.0/8.5 ), SQL Server and Azure in production environment.
+
+Use deployment tools like Octopus’ VSTS Release Manager for deploying application and provided working
+environments (SQA/UAT/Perf) to test teams and also performed zero downtime production deployments.
+
+07/2005 to 03/2009 Subject Matter Expert
+
+HCL - City, STATE
+
+Projects Worked : AT&T, British Telecom
+
+Handled a team of 18 Technicians.
+
+- Provided Support for SOHO Networking Environment
+
+- Analyzed software hardware and network systems for various transmission systems.
+
+- Configured and installed routers switches and wireless controllers.
+
+- Evaluated complex computer systems to assess vulnerability and risk.
+
+- Develop and administer disaster recovery plans.
+
+- Responsible for analyzing, testing, isolating and repairing network and customer issues.
+
+- Standard network services is expected (DNS, DHCP, NTP, TFTP, HTTP, FTP, SMTP, SSL, SNMP, etc.)
+- Establish connectivity via dial-up modem, DSL, or Cable modem
+
+- Deployed and maintained LAN, WAN, servers, switches, routers, and wireless network systems
+
+- Resolved voice and data based issues and MPLs circuit issues
+
+- Configured VPN connections and dynamic routing protocols, network latency, and internet connection
+
+EDUCATION AND TRAINING
+
+03/2007
+
+Bachelor of Science: Mechanical Engineering Tagore Engineering College - India
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).
