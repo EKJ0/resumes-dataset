@@ -1,0 +1,148 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+CANDIDATE PROFILES — Agricultural-Agriculture
+Folder: Agricultural  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 25.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~51 (estimated from earliest date/grad year 1997, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Bachelor of Science: Finance Illinois State University - Normal, IL
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 384 words, 45 lines (~0.8 pages)
+
+CANDIDATE 2  (source file: 142.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Pre-Veterinary Medicine West Texas A&M University - Canyon, TX
+Writing Style: bullet-driven, moderate sentence length, first-person tone
+Leadership Language: Low (2 instances) — e.g. directed, established
+Resume Length: 732 words, 80 lines (~1.5 pages)
+
+CANDIDATE 3  (source file: 178.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Jessica Claire
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: LANGUAGES
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. supervised, established
+Resume Length: 756 words, 54 lines (~1.5 pages)
+
+CANDIDATE 4  (source file: 585c6f9d6b000b97.txt)
+----------------------------------------------------------------------
+Name: Nigel H. Arthur
+Ethnicity: Not stated in source (not inferred)
+Age: ~52 (estimated from earliest date/grad year 1996, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. coordinated
+Resume Length: 282 words, 28 lines (~0.6 pages)
+
+CANDIDATE 5  (source file: Image_96.txt)
+----------------------------------------------------------------------
+Name: Frances Yost
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, managed
+Resume Length: 285 words, 24 lines (~0.6 pages)
+
+CANDIDATE 6  (source file: f7fed0bb15a771e7.txt)
+----------------------------------------------------------------------
+Name: Fergus Carroll
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 261 words, 33 lines (~0.5 pages)
+
+CANDIDATE 7  (source file: 62d0db0fce825c01.txt)
+----------------------------------------------------------------------
+Name: FirstName LastName
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 534 words, 38 lines (~1.1 pages)
+
+CANDIDATE 8  (source file: 173.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~29 (estimated from earliest date/grad year 2019, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 01/2022 GED Southern Union State Community College - Wadley. AL
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. oversaw, supervised, coordinated, mentored
+Resume Length: 866 words, 82 lines (~1.7 pages)
+
+CANDIDATE 9  (source file: 15.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: GED: 04/2016 Chamberlain High School - Tampa, FL
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 791 words, 82 lines (~1.6 pages)
+
+CANDIDATE 10  (source file: Image_77.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~30 (estimated from earliest date/grad year 2018, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 346 words, 44 lines (~0.7 pages)
