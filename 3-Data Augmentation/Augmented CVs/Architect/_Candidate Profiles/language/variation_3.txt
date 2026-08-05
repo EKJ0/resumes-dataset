@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Architect
+Folder: Architect  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_75.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~53 (estimated from earliest date/grad year 1995, not stated)
+Nationality: Not stated in source
+Languages: proficiency
+Volunteering: Not stated in source
+Extracurricular Activities: good at
+Education: language
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 317 words, 70 lines (~0.6 pages)
+
+CANDIDATE 2  (source file: a38d6289b36d3eb1.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~50 (estimated from earliest date/grad year 1998, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master's in Landscape Architecture - 2009(School of planning & Architecture - Delhi, Delhi)
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, supervised, coordinated
+Resume Length: 351 words, 36 lines (~0.7 pages)
+
+CANDIDATE 3  (source file: Image_7.txt)
+----------------------------------------------------------------------
+Name: Audrey Deirdre
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 285 words, 29 lines (~0.6 pages)
+
+CANDIDATE 4  (source file: e5e4e630cc15be25.txt)
+----------------------------------------------------------------------
+Name: Jonathon Rogers Architect
+Ethnicity: Not stated in source (not inferred)
+Age: ~29 (estimated from earliest date/grad year 2019, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 370 words, 33 lines (~0.7 pages)
+
+CANDIDATE 5  (source file: Image_70.txt)
+----------------------------------------------------------------------
+Name: Morgan Menetries
+Ethnicity: Not stated in source (not inferred)
+Age: ~44 (estimated from earliest date/grad year 2004, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2009 - Master of Architecture, Portland State University
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead
+Resume Length: 332 words, 61 lines (~0.7 pages)
+
+CANDIDATE 6  (source file: b32a9b004b40587d.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 237 words, 27 lines (~0.5 pages)
+
+CANDIDATE 7  (source file: Image_4.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 151 words, 18 lines (~0.3 pages)
+
+CANDIDATE 8  (source file: Image_69.txt)
+----------------------------------------------------------------------
+Name: Ramon Chipman
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor in Electrical Engineering
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead, led, managed
+Resume Length: 411 words, 63 lines (~0.8 pages)
+
+CANDIDATE 9  (source file: 829189a5dd7a27fb.txt)
+----------------------------------------------------------------------
+Name: Simon Ford Architect
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. led, managed, coordinated
+Resume Length: 288 words, 29 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: b322b75fc448bb76.txt)
+----------------------------------------------------------------------
+Name: Wilde Way Kilkenny
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- Master of Architecture, University College Cork, Cork
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed, supervised
+Resume Length: 364 words, 48 lines (~0.7 pages)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

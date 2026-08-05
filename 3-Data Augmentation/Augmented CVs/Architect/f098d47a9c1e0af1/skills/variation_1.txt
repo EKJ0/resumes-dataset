@@ -1,0 +1,99 @@
+SOFTWARE ARCHITECT
+
+SEAN ERVINE
+
+ty, State
+
+Team Leadership
+
+Strategic Planning
+
+Account Management
+
+Product Development
+
+Project Management
+
+Technology Consulting
+
+INTERESTS
+---------
+
+- Tennis
+
+- Boxing « Table Tennis
+
+WORK EXPERIENCE
+---------------
+
+Cisco Systems Chief Software Architect
+
+Responsibilities
+
+- Collaborating with product line management toidentify. refine. and translate customer needs into concrete technical requirements.
+
+- Working with strategic accounts across EMEA supporting operators in defining their 2-5 year IT strategies covering software. integration. and business transformation needs.
+
+- Supporting the customers’ systems consolidation and processing where operator merger and acquisition had taken place.
+
+- Leading architectural tasks and decisions across the current and future Cisco software portfolio.
+
+- Coordinating activities including product development. prototype development, andimplementation functions, all the way through from use-case creation through to customer delivery.
+
+- Evaluating the candidate architectures and technologies through internal prototyping “skunkworks" activities inorder to drive improvements to software architectures in order to reduce integration costs or to support new system features with the goal of reducing integration cost whilst adding new features.
+
+- Maintaining knowledge of industry standards and trends and act as “go-to” subject matter expert in key developingtrends.
+
+2015-05 - Present
+
+Ogilvy Lead Software Architect
+
+Responsibilities
+
+- Designed and developed a mobile-first responsive application with RESTful web services and APIs.
+
+- Adopted micro-serices for identified use cases with a new tech stack ie. NodeJS. MongoDB, Mailgun API
+- Conceptualized andimplemented Reds caching in the application
+
+- Implemented email solution using Mailgun ESP.
+
+- DevelopediOS app prototype for receipt processing using OCR AR.
+
+- Developeda prototype for integrating telephony and texting API tothe product suite.
+
+- Developedan email processor ETL toal using outlook VBA. . .
+
+2010-10 - 2015-04
+
+Designed and implemented a data warehouse and Bl.
+Evaluated AWS and Azure toidentify provider and migrate infrastructure from managed virtualization tothe
+cloud
+
+- Worked on developing a go-to-market strategy by converting the product to SaaS on AWS: included defining the tech stack. developing a prototypeand later if approved, use it as an accelerator project.
+
+GE Healthcare Software Architect
+
+Responsibilities
+
+- Worked in one of the biggest projects of the company delivered for “the largest drug retailing chain in the USA’,
+
+- Supervisedseveral intems who were performing their endof studies project within the company.
+
+- Developed and created a local web application: a space for the employees where they could find dbcumentation, video recordings of workshop sessions held internally. and photos of the events organized by the company.
+
+- Developeda web application used by the clients to communicate sensitive and highly secured configuration files.
+
+- Developeda mobile version (Android and iOS) of one of our products. a cloud-basedweb Forecast. and replenishment application. communicating with a distributed backend system.
+
+- Developeda dashboard to track in real time the available deployed assets in the cloud
+
+2006-06 - 2010-09
+
+EDUCATION
+---------
+
+STANFORD UNIVERSITY 2000 - 2003 Bachelor of Science in Computer Science
+
+Stanford University 2003 - 2005
+
+Master of Science in Computer Science

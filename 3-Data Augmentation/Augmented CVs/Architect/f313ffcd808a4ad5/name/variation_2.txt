@@ -1,0 +1,60 @@
+Greg Baker
+
+Robert Smith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+Website > vow. qwikre sume, com
+
+Senior Architect LinkedIn: linkedin.com/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Designing the architecture of complete solutions as well as managing project life-cycles and
+teams of engineers,
+
+SKILLS
+------
+
+Auto cad, Sketch up,
+
+WORK EXPERIENCE
+---------------
+
+Senior Architect
+ABC Corporation - May 2012 - August 2015
+- Update Oracle Hyperion Essbase ASO/BSO cubes with member modifications.
+- Update Oracle Hyperion Planning applications, Reviewing the Quantities and the contractors invoices.
+- Research business issues that are reflected in Planning and Essbase,
+- Modify and test Essbase business rules and calc scripts. Build reports in Oracle Hyperion Financial Reporting.
+- Develop Maxi scripts and Windows batches to rernotely run them. » Set up batch processes and schedules to automate Oracle Hyperion Financial reports,
+- Architectural Desian conflict solutions, creating details whenever needed, Site supervision and inspections with quality checklists,
+
+Senior Architect
+ABC Corporation - 2009- 2012
+
+- Over a large-scale re-engineering effort of a mission critical project managernent systern for a large Engineering and Construction company,
+
+- The application consisted of more than 400 SQLForms 3.0 character-base screens and processes,
+
+- The database was re-engineered from an Oracle RDBMS version 6.x to an Oracle RDBMS version 7.x,
+
+- All screens were re-designed for a Windows-based client-server architecture utilizing Oracle Designer and Developer.
+
+- Additional activities included the introduction of database level referential integrity for all tables and perforrnance enhancing de-normalization of data,
+
+- Primary responsibilities included development of application infrastructure (programming and GUI standards, ternplates, libraries, and referenced objects), prograrnming of critical screens and management of the prograrnming effort for more than 20 consultants and in-house programmers.
+
+- All programming done using Oracle Technology tools, including the Oracle database (81),
+
+PL/SQL, Oracle Developer (Forms and Reports) and Oracle Designer,
+
+EDUCATION
+---------
+
+Bachelors of Science in Business Administration - (Colorado Technical University - Colorado
+Springs, CO)
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings

@@ -1,0 +1,53 @@
+Greg Baker
+
+KEV N A. THOMPSON 199 Fortuna Drive = Boston, MA 02111
+
+888-7 37-3963 ® info @norwoodconsulting.org
+
+- BUSINESS ENTERPRISE ARCHITECT*
+
+Harness Enterprise Architecture to Ensure a Competitive Advantage for International Corporations
+in Challenging Markets through Continuous Improvements and Integrated Solutions.
+
+Senior business and enterprise architect with extensive experience leading strategic technology frarnework
+development, capability mapping, and operating model development projects for Fortune 500 corporations.
+Successful background partnering with stakeholders to develop architecture frarneworks that align strategy,
+processes, people, and technology with overall business objectives. In-depth experience establishing best
+practices and guidelines for selecting, developing, and implementing information systerns within enterprise.
+Dedicated change agent constantly in search of faster and better ways of achieving reductionsin development
+cycles and waste, and improved integration, crossfunctionality, and standardization of processes and services.
+Proven expertise in:
+
+Enterprise and Business Architecture BH) High Performance Team Building EH] Business Process Engineering HB) Capability Mappirg
+Strategic Planning Information Systems Audits IT Risk Governance 2) Organizational Design and Development
+EXPERIENCE & ACCOMPLISHMENTS
+COVIDIEN, Boston, MA 2006 to Present
+
+Business Enterprise Architect
+
+Provided business process engineering guidance to business analysts, business partners, and process
+improvement tears that aligned efforts through a strategic technology framework. Facilitated and directed
+strategy, design, and development of a company-wide Capability Map with conceptual business process
+landscape. Designed Reference Architecture, Solution Patterns, and standards for Business process and data
+model integration and reuse. Provided consulting and deployment skills for implernenting Zachman
+Framework. Identified and drafted standards, best practices, training, and methodology to lead Global
+enterprise towards model-driven analysis. Planned and facilitated process redesign of current SOLC and IT
+operating model to support an Enterprise Architecture model. Worked closely with Enterprise Life Cycle {ELC}
+tear to incorporate new processes into life cycle methodology.
+
+ENTERPRISE IMPACT:
+
+= Implemented Lean Six Sigrna Green Belt project to identify, measure, and improve reuse. During six-
+month project, development time decreased by 50% and achieved $150K in documented savings.
+
+= Facilitated evolution of Enterprise Reference model and Enterprise Information Services model,
+including conducting process modeling sessions and aligning with data models and build out
+architecture views. Provided views to Portfolio owners for Portfolio Rationalization opportunities.
+
+= Provided a stable frarmework for developing a business-driven strategic technology frarmework that
+aligned all IT initiatives and projectsto business goals.
+
+= Designed and built an evolving Organization that aligned Strategy to Results for the ongoing curation
+of Process and Information that aligned to Capability map.
+
+= Loaded and maintained ITIL v2 & 3 model central repository for reuse and implementation.
