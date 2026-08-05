@@ -1,0 +1,63 @@
+Robert Smith
+
+Middleware/Devops Engineer
+
+PERSONAL STATEMENT
+
+Experience in working on version control systerns like Subversion and GIT and used Source code management client tools like Tortoise SVN, Stash,
+SourceTree, Git Bash, GitHub, Git GUI, and other cornrnand-line applications, etc, Good understanding of the principles and best practices
+of Software Configuration Managernent (SCM) in Agile, Scrurn and Waterfall methodologies, Created SCM Process, policies, procedures, and Release
+Notes to follow Developrnent and allow QA tears to Release or Deploy the highest quality product for the enterprise.
+
+WORK EXPERIENCE
+---------------
+
+Middleware/Devops Engineer
+ABC Corporation- March 2015 - Present Re sponsibilties:
+= Supporting multiple tears for multiple applications including java/j2ee and, Net, = Maintaining detailed documentation of moderately cornplex systern
+specifications, including systern installation procedures, systern backup, recovery techniques, and system test methods,
+- Developing and implernenting an agile SDLC and refinernent of the software configuration management (SCM) infrastructure. = Deploying the Java applications into web application servers like apache torncat. = Performing all necessary day-to-day subversion functions for the project like merging, creating branches and tags using tortoise svn.
+- Managing application software codebase including branching and versioning, = Designing and implementing subversion metadata including elernents, labels, attributes, triggers, and hyperlinks,
+
+DevOps Engineer
+ABC Corporation- December 2013 - March 2015 Responsibilities:
+
+= Responsibilities supported multiple teams for multiple applications including java/j2ee and los.
+
+= Provided detailed documentation of complex build and release process, mops, build cycles and calendars including creating build reports and
+release notes.
+
+= Assisted prn and rm creating weekly status reports, roadmaps and other presentations.
+
+= Implemented best practices of agile methodology to speed up the delivery process efficiently.
+
+- Was an active member of daily starid up meetings, bug scrubbing meetings, and sprint planning meetings as best practices of agile environment,
+
+= Worked closely with developers, QA teams, product owners and other stakeholders to deliver software through the build and deployment
+
+- This Eree Resume Template ts the copyright of Qwikresume. com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marsbhville Road, Alabama
+
+(123)-456-7899
+Info@qwikresume.com
+
+SCM Tools: Subversion, GIT, Build Tools: Ant, Maven, MS Bulld, XCode.
+Cl & CD Tools: Jenkins, Anthill Pro, Barnbao, Chef, Puppet, Docker, Bug Tracker & Testing Tools: JIRA, Bugzilla,
+Redmine, Junit, HP Quality Center, Test Flight, And Test Rail.
+Project Managernent Tools: Base Camp, MS Project, MS Share Point, Atlassian Tools, Tear Foundation Server, and
+Demandware, SDLC:
+Agile, Scrum Methodologies, Waterfall. Environments Servers: JBOSS, Apache Torncat, Intellij IDEA,
+Oracle Web Logic, 1BM Web Sphere, IIS Server Integrated Development.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

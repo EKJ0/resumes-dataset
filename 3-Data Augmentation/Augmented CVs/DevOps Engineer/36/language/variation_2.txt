@@ -1,0 +1,239 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+7 years of IT industry experience in DevOps Engineer, Network and Application Server Administrator/Support with expertise in areas of
+Software Configuration, Automation, Securing System, Version control, Build and Release management and Issue tracking.
+
+SKILLS
+------
+Operating Systems: Ubuntu, Red Hat Linux, CentOS, Windows. Bug Tracking Tools: JIRA, Service now, Rally, PAC2000 Remedy,
+Tools: Ansible, ELK, Jenkins, Udeploy, Anthill Pro, Marimba, ALM(HP Quality Center).
+
+Sonarqube, Jfrog. Nexus, Jira, GIT, SVN, TFS, Maven, CheckMK, Networking: A10 vThunder, FS GTM, TCP/IP protocols.
+Sonarqube, Docker, Kubemetes, Vault, Mongo DBC, My SQL, TFS
+
+Azure.
+
+Application Server: Apache, Tomcat, WebLogic, Nginx. Languages:
+
+Shell Scripting.
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 02/2020 - Current
+
+Zoom - Phoenix, AZ
+
+Build and manage development and deployment tools using Jenkins, Octopus deploy, SonarQube, Ansible, Docker, Kubernetes, Elastic
+search and other emerging technologies and systems.
+
+- Maintain inter-connectivity of tools to support the application deployments.
+
+Analyze users’ needs and then design, test, and develop software to meet those needs.
+- Ensure and support 24x7 availability of deployment tools and systems.
+
+Promote proper and efficient use of tools for the automation of project activities.
+
+Work with Infrastructure teams as the tools relate to or interact with platforms to support application build and deployments.
+
+Develop, Design and provide enhancements to the software tools and applications.
+
+Recommend software upgrades for customers’ existing programs and systems.
+
+Modify the existing scripts (Powershell, Python, Bash scripts) to support application project activities.
+
+- Partner with AppDev and Infrastructure teams on evaluation and feasibility assessment of new systems and technologies to support applications that are developed using C#/Nodejs, SqlServer, Angular/React technologies.
+
+Oversee and ensure production readiness of new technologies/systems.
+
+Design each piece of an application or system and plan how the pieces will work together.
+
+- Research new technologies with common benefits to both AppDev and Infrastructure that promote improved AppDev and Operational efficiency, quality, and stability.
+
+- Ensure that a program continues to function normally through software maintenance and testing.
+
+- Analyze the requirements and Partner with appropriate AppDev and/or Infrastructure teams to test/POC new technologies and applications
+
+and support during deployments and validation activities in relation to build deployment activities.
+
+Create and Maintain documentation on processes in GitHub and procedures for project activities.
+
+DevOps Engineer, 10/2018 - 02/2021 Zoom - Pittsburgh, PA
+- Develop and implement build and deployment scripts for applications, works on build management, performance tuning, and improvement
+
+automation.
+
+Designing and implementing the automated process of build and deployments for Net and Java applications using various tools as per the
+needs of project which can include Team Foundation Server (TFS), Jenkins, Udeploy and AnthillPro.
+
+Customized Build/Release definitions to support TFS Azure deployments.
+
+Created PAC2000 CR for fix /OFF/Standard and Enterprise release activities.
+
+SOX signoff approvals to be gathered before the CR is gone live in Production and BCP.
+
+Responsible for CI and CD using Anthil Pro, UrbanCode Deploy, Jenkins integrating with TFS, MS Build, Maven, Git, SVN.
+
+- Maintain code repositories and implement best practices for branching and merging in subversion (SVN) and Team Foundation Server (TFS).
+
+Coordinates build and deployment activities by gathering requirements development resources. Conducting analysis: preparing a work
+
+requests and deployment using knowledge of computer capabilities, Subject matter, Programming language, and logic.
+- Hands-on experience configuring workflows, jobs in AnthillPro for performing automated builds and deployments. Worked closely with Application and Middleware teams to debug build & deploy issues. JIRA/CMticket is used as ticket tracking, change management and Agile/SCRUM tool. Perform Deployment of Release to various QA & UAT in Linux and Windows environments. Involved in 24*7 on-call support for Jenkins/AnthillPro/uDeploy/TFS Azure tools
+- On call for different releases which involves prod fix deployments and create an ECR following the next day to support wells Fargo
+
+policies.
+
+Supports application operation by developers during deployment and validation activities in the relation to build deployment activities.
+- Submitted Work requests, Problem tickets, DSG requests to support non-prod changes.
+
+Ownership of areas requiring improvement and recommend new solutions or processes.
+
+Facilitated successful Release of Code from Engineering to Production by proactively & reactively working with Executives, Product
+Management, Development, QA and Operations.
+
+- Assisted end-to-end release process from the planning of release content through to actual release deployment to production.
+
+Worked closely with Application and Middleware teams to debug build & deploy issues.
+
+DevOps Engineer, 07/2018 - 10/2018 Zoom - Atlanta, GA
+- Worked with build tools (Maven, Jenkins) to support deployment activities.
+
+Deploying artifacts to Nexus/Artifactory repositories.
+
+Setup CICD pipeline for micro services running in Docker environment.
+- Administer and maintain Atlassian tools like Jira and Confluence. Create configuration pipeline using GIT, Jenkins, vault to maintain application configuration independent of application releases.
+
+Create and maintain Jira workflows for various teams in the organization.
+
+- Used Marimba as a configuration management tool to deploy the application to POS (Point of sale) registers.
+
+- Auto packaging of application to the end registers.
+
+Setup Jenkins and automate the deployment to run inside the docker containers and followed by marimba auto packaging.
+
+- Interacted extensively with the functional team leads in the estimation cycle, identification of inter-team dependencies, delivery plan validation, impact assessments, issue tracking / resolution and status reporting.
+
+Supported the station profiler application in making the code changes in middleware web config to point to the new release.
+- Supported on call support to deploy the application and opened tickets to resolve the issues occurred during and after the deployment.
+
+DevOps Engineer, 09/2017 - 06/2018 Zoom - Overland Park, KS
+- Experience as an Openstack administrator in creating, managing users, roles, groups.
+- Use Ansible as configuration management tool, to automate repetitive tasks. Setup Elastic search, Logstash, Kibana for log monitoring, designed filters for ELK. Installing Red Hat Enterprise Linux 5.x/6.x, CentOS and installing packages, patches for Red Hat Linux servers, Administration of RHEL which includes installation, testing, tuning, upgrading, troubleshooting server issues.
+
+Setup CICD (Jenkins) pipeline for micro services running in on prem and Docker environment.
+
+Deploying artifacts to Nexus/Artifactory repositories.
+
+Automated CICD pipeline using Jenkins across different applications and ensured the deployment stable across all the environments (DEV,
+TST, FUT, PRD).
+Troubleshoot Production Application and Network related issues.
+
+Configure and maintain CheckMK application monitoring tool for monitoring applications, virtual servers and hardware.
+- Experience with container-based deployments using Docker, working with Docker images, Docker Hub and Docker-registries.
+
+Documented the process of building all tools for Application usage
+
+Provide on call support for the Production applications and 24/7 on call support.
+
+APPS SYSTEM ENGINEER, 05/2016 - 09/2017
+
+Kas Software Solutions Llc - Pompano Beach, FL
+
+Identifies requirements by establishing personal rapport with potential and actual clients and with other persons in a position to understand
+service requirements with a thorough technical knowledge.
+
+- Maintain code repositories and implement best practices for branching and merging in subversion (SVN) and Team Foundation Server (TFS).
+
+Coordinates build and deployment activities by gathering requirements development resources conducting analysis ; preparing work
+
+requests and deployments using knowledge of computer capabilities,subject matter, programming language and logic.
+- Defining communicating and enforcing configuration management policies and procedures to development teams.
+
+Support application operations by helping developers during deployment and validation activities in relation to build deployment activities.
+- Assist in maintaining build solutions and process manuals using various software solutions; Visual Studio 2010 , Team Foundation Server,JIRA, Confluence and various scripting languages.
+
+Programmer Analyst, 11/2015 - 04/2016 Kas Software Solutions Llc - Pompano Beach, FL
+
+- DevOps Engineer for a team that involved different development teams and multiple simultaneous software releases.
+
+Developed and implemented Software Release Management strategies for various applications according to the agile process. Participated
+in weekly release meetings with Technology stakeholders to identify and mitigate potential risks associated with the releases. Worked with
+DBAs on installation of RDBMS database, restoration and log generation.
+
+Imported and managed multiple corporate applications into Tortoise SVN.
+
+Provided end-users training for all Tortoise SVN, JIRA users to effectively use the tool.
+
+- Designed a new release process around ITIL methodology that met the needs of the business and created Key Performance Indicators and metrics to drive continuous service improvement.
+
+Developed scripts using PERL, BASH and BATCH files for Automation of Activities and builds.
+
+- Managed and monitored the server and network infrastructure using Nagios.
+
+Managed Maven project dependencies by creating parent-child relationships between Projects.
+
+- Jenkins is used as a continuous integration tool for automation of daily process. Used SQL queries to check the data integrity on an Oracle database. Played a key role in tracking the change requests created by the developers.
+
+Documented the entire build and release engineering process and provided on call support. Designed and implemented for fully automated
+Server build management, monitoring and deployment using DevOps Technologies like Ansible
+
+Facilitated successful Release of Code from Engineering to Production by proactively & reactively working with Executives, Product
+Management, Development, QA and Operations
+
+Programmer Analyst, 04/2014 - 10/2015 Wells Fargo - City, STATE
+
+Develop and implement build and deployment scripts for applications, works on build management, performance tuning, and improvement
+
+automation.
+
+Designing and implementing the automated process of build and deployments for Net and Java applications using various tools as per the
+needs of project which can include Team Foundation Server (TFS), Jenkins,Udeploy and AnthillPro.
+
+Customized Build/Release definitions to support TFS Azure deployments.
+
+Created PAC2000 CR for fix /OFF/Standard and Enterprise release activities.
+
+SOX signoff approvals to be gathered before the CR is gone live in Production and BCP.
+
+Responsible for CI and CD using Anthil Pro, UrbanCode Deploy, Jenkins integrating with TFS, MS Build, Maven, Git, SVN.
+
+- Maintain code repositories and implement best practices for branching and merging in subversion (SVN) and Team Foundation Server (TFS).
+
+Coordinates build and deployment activities by gathering requirements development resources. Conducting analysis: preparing a work
+
+requests and deployment using knowledge of computer capabilities, Subject matter, Programming language, and logic.
+- Hands-on experience configuring workflows, jobs in AnthillPro for performing automated builds and deployments.
+- Worked closely with Application and Middleware teams to debug build & deploy issues.
+- JIRA/CMticket is used as ticket tracking, change management and Agile/SCRUM tool. Perform Deployment of Release to various QA & UAT in Linux and Windows environments. Involved in 24*7 on-call support for Jenkins/AnthillPro/uDeploy/TFS Azure tools
+- On call for different releases which involves prod fix deployments and create an ECR following the next day to support wells Fargo
+
+policies.
+
+Supports application operation by developers during deployment and validation activities in the relation to build deployment activities.
+Submitted Work requests, Problem tickets, DSG requests to support non-prod changes.
+
+- Ownership of areas requiring improvement and recommend new solutions or processes.
+
+Facilitated successful Release of Code from Engineering to Production by proactively & reactively working with Executives, Product
+Management, Development, QA and Operations.
+
+Assisted end-to-end release process from the planning of release content through to actual release deployment to production.
+- Worked closely with Application and Middleware teams to debug build & deploy issues.
+
+EDUCATION AND TRAINING
+
+Information Technology, 2014 University Of Central Missouri - Warrensburg, MO 4.0 GPA
+
+Bachelor of Science: Information Technology, 2012 Jawaharlal Nehru Technological University
+4.0 GPA
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

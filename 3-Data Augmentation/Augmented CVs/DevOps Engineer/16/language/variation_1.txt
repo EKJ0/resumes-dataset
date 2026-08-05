@@ -1,0 +1,217 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+Smart DevOps Engineer with career spent in IT designing and planning. Talented leader with extensive knowledge of high availability
+architecture and concepts. Ready to tackle new challenges in project planning and development capacity. Visionary professional offering
+extensive background in routine application maintenance tasks. Smart DevOps Engineer boasting expertise in developing and implementing
+IT solutions that result in increased performance. [Job Title] with talent for [Task] and [Task]. Strong knowledge of [Area of expertise].
+Communicative and team-oriented with proficiency in [Software]. Proven history of fostering [Action] to meet team, individual and
+management objectives. Results-focused [Industry] professional with strength in [Skill]. Proactive leader with strengths in communication
+and collaboration. Proficient in leveraging [Area of expertise] and [Area of expertise] knowledge to promote [Result]. Adept at managing
+concurrent objectives to promote efficiency and influence positive outcomes.
+
+SKILLS
+------
+
+- Cross-Functional Collaboration © Integrated Development Environment
+- Teamwork and Collaboration
+- Software Testing and Validation
+
+WORK EXPERIENCE
+---------------
+
+03/2022 to Current DevOps Engineer Siemens Corporation - Kansas City, MO
+- Optimized project development and roll-out through in-depth technical research and analysis of risk-reward scenarios
+
+Oversaw [Number]-person team working on $[Amount] million project for large-scale quality management system
+for [Industry] industry
+
+Engaged with user experience designers crafting clean interfaces with simple, intuitive interactions and functions
+
+for software package
+
+Tested and troubleshot application and documented issue resolutions for development team
+
+Established clear system operational specifications and formulated highly specific software requirements
+
+Created and implemented tracking software with modules designed for specific client needs
+
+Collaborated with development team members to create and integrate high availability solutions for mission-critical
+
+applications
+
+Oversaw deployment, configuration and documentation procedures for [Software]
+
+Scheduled ongoing performance quality assurance checks for software applications and automated performance
+test scripts
+
+Researched latest tools and technologies to determine effectiveness in agile environment growth
+
+Assembled and integrated [Type] technologies across different platforms to meet complex user needs
+Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-
+quality testing and final implementation
+
+Evaluated software development project plans and recommended adjustments
+
+Applied best practices at all times and encouraged others to do same, which helped to maintain effective security
+Standardized common development tools and infrastructure including [Type] and [Type] to achieve [Result]
+
+- Grasped user needs and drove development to working prototype stages
+
+Developed strong communication, active listening and interpersonal skills, which were used when collaborating
+with product development team and other stakeholders
+
+Documented outline for project's technical design to keep stakeholders aware of milestones
+
+Motivated software engineer passionate about architecting, defining issues and building at scale in cloud
+environments
+
+Automated application build and deployment, driving efficiency of code development process
+- Cooperated with project partners to develop system analysis and new system design based on client specifications
+- Delivered software solutions consistent with product roadmap and meeting release plan milestones.
+
+07/2019 to 01/2021 Cloud Solutions Architect Aecom - Corpus Christi, TX
+
+- Assisted with new hardware and software deployments, system upgrades and virtual environment upgrades
+
+- Increased performance and scalability by sizing solutions to meet system workload requirements
+
+- Led discussions with vendors and suppliers on technical deliverables, processes and standards
+
+- Migrated customers to latest virtual servers and storage technologies to improve performance
+
+- Built and maintained repository of deliverables, methodologies and business development documents in Microsoft SharePoint
+
+- Created additional targeted business solutions in high demand areas for disaster recovery and cloud backup
+
+- Researched and implemented new technology platforms to support development initiatives
+
+- Developed scripts to automatically create data models from external metadata
+
+- Collaborated with department project managers to determine and solidify project deadlines and develop overall implementation project plans
+
+- Identified, evaluated and presented technologies and services to improve operational efficiencies and leverage cloud solutions to address shadow IT challenges
+
+- Defined technical integration strategy and developed integration plans
+
+- Provided status updates to keep upper management informed and to reach goals
+
+- Utilized Python to handle debugging and automation scripting tasks
+
+- Planned, implemented and integrated updated system-oriented projects
+
+- Designed and delivered mission-critical infrastructure to maintain consistent availability and performance
+
+- Coordinated and enhanced existing databases and established new databases as part of initiative
+
+- Administered application stacks and executed performance tuning to optimize session performance by eliminating performance bottlenecks
+
+- Led cross-functional teams in systems integration projects
+
+- Created systems for deployment by military in remote locations
+
+- Built and oversaw network infrastructure comprised of various virtual products
+
+- Provided exemplary helpdesk service and support to assist customers
+
+- Handled troubleshooting tasks for Local Area Networks, Wide Area Networks and voice systems to reduce
+
+network connectivity problems.
+
+01/2016 to 01/2021 Solution Architect Booz Allen Hamilton Inc. - Durham, NC
+
+- Provided support for database upgrades and software deployments
+
+- Developed and supported implementation of company-wide business solutions
+
+- Evaluated operational processes and recommended cost-effective solutions
+
+- Supported customer implementations and confirmed success through identification and application of repeatable best practices
+
+- Customized and presented IT solutions to principles, controllers and managers across [Type] region, explaining expected benefits and capabilities
+
+- Provided quality control to eliminate downtown and reduce corporate expenses
+
+- Assisted call center employees by creating self-help tools and developing comprehensive training programs
+
+- Spearheaded corrective action initiatives to resolve root causes
+
+- Tailored and presented IT solutions to principles, [Job title]s and managers across [Type] region, resulting in [Number]% in new business
+
+- Monitored database performance and developed actionable improvements for underperformance
+
+- Provided status updates to keep upper management informed and to reach goals
+
+- Built and oversaw network infrastructure comprised of various virtual products
+
+- Designed and delivered mission-critical infrastructure to maintain consistent availability and performance
+
+- Handled troubleshooting tasks for Local Area Networks, Wide Area Networks and voice systems to reduce network connectivity problems
+
+- Planned, implemented and integrated updated system-oriented projects
+
+- Administered application stacks and executed performance tuning to optimize session performance by eliminating performance bottlenecks
+
+- Defined technical integration strategy and developed integration plans
+
+- Coordinated and enhanced existing databases and established new databases as part of initiative
+
+- Led cross-functional teams in systems integration projects
+
+- Utilized Python to handle debugging and automation scripting tasks
+
+- Created systems for deployment by military in remote locations
+
+- Provided exemplary helpdesk service and support to assist customers.
+
+12/2018 to 10/2019 Cloud Solutions Architect Aecom - Duluth, MN
+
+- Collaborated with architects and engineers to design networks, systems and storage environments that reflected business needs, security specifications and service level requirements
+
+- Assessed organization technology infrastructure and managed cloud migration process
+
+- Configured computing. networking and security systems within cloud environment
+
+- Developed scripts to automate deployment and maintenance of public cloud resources
+
+- Implemented cloud policies, managed technology requests and maintained service availability
+
+- Devised and deployed system improvements to boost storage environment reliability
+
+- Evaluated firewalls and monitored threats to establish secure cloud environments
+
+- Selected appropriate AWS service based on compute, data or security requirements
+
+- Performed best practices by creating systems with fast load times, multiple browser support and minimal memory usage
+
+- Boosted cloud development by creating functions, applications and databases for users
+
+- Coordinated and enhanced existing databases and established new databases as part of initiative
+
+- Led cross-functional teams in systems integration projects
+
+- Utilized Python to handle debugging and automation scripting tasks
+
+- Provided status updates to keep upper management informed and to reach goals
+
+- Planned, implemented and integrated updated system-oriented projects
+
+- Administered application stacks and executed performance tuning to optimize session performance by eliminating performance bottlenecks
+
+- Designed and delivered mission-critical infrastructure to maintain consistent availability and performance.
+
+EDUCATION AND TRAINING
+
+12/2007 Bachelor of Science: Computer Science UNIVERSITY oF BUEA SW REGION
+
+09/2002
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

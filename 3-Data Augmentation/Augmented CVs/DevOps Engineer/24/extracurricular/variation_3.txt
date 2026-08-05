@@ -1,0 +1,117 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+DevOps Engineer with experience around 7 years of understanding of high availability concepts in IT industry as AWS/DevOps
+Engineer in software configuration practices, Build Release Management and tools.
+
+SKILLS
+------ AWS Services: \ Web Technologies: \ Build/CI/CD Tools: \ Web Servers: \
+EC2, VPC, $3, ELB, EBS, IAM, Cloud \ HTML/HTML53, CSS/ Jenkins, Maven\ Apache, Nginx, Tomcat\ IBM WebSphere
+CSS3\ 6/7.x/8.x Watch, SNS, SQS, Route 53, Lambda, RDS\ Virtualization: \ Scripting Languages: \
+Container Orchestration Tool: \ Operating Systems: \ VMware and Virtual Box\ Shell, Bash, Ruby, Python\
+Docker, Kubernetes\ Red hat, Ubuntu, Linux, Windows, Database: \ Monitoring Tools: \ CentOS\ MySQL, DynamoDB\ Cloud Watch, ELK\
+
+Configuration Management Tools: \ Version Control Tools: \ Ansible, Puppet, Chef\ SVN, GIT\
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 01/2020 to Current Alleare Consulting - Dallas, TX
+- Owning full lifecycle of build system - from analysis, development, implementation and support of builds, unit testing and deployments.
+- Provided CM and Build support for more than 4 different applications, built and deployed to lower and higher environments. Defined and Implemented CM and Release Management Processes, Policies and Procedure.
+- Automating Infrastructure Provisioning on AWS, using Packer, Ansible, Terraform, Bash Script and Python.
+- Worked with AWS in migrating confidential application from traditional infrastructure to AWS cloud infrastructure.
+- Advising users on advanced cloud practices, cloud strategies, migration roadmap, and DevOps practices.
+- Automating the release pipeline to achieve zero touch deployments using Jenkins, GitHub, and JFROG.
+- Worked on Kubernetes to create Pods, ConfigMaps and deployments into the cluster.
+- Developing script for build, deployment, maintenance, and related task using Jenkins, docker, Python and shell.
+- Used Kubernetes to automate the deployment, scaling, and operations of application containers across clusters of hosts using replication controllers, services, deployments, labels, and health checks.
+- Worked on creating new dojo refresh area to fetch the products from third party (client) application and show in WCS whenever users try to access some specific products.
+- Configuring and deploying EC2, $3, RDS, ALB, ELB, and VPC on AWS.
+- Write Jenkins file to automate build creation on Jenkins master salve containers.
+- Deploy Configure and Automate maintenance of Docker Trusted Registry and Docker Registry to manage Docker Images.
+- Deploy Kubernetes applications using HELM Charts.
+- Work on Architecting Server infrastructure.
+- Implement, maintain and support reliable, timely and reproducible builds for project teams.
+- Working with development team to migrate Ant scripts to Maven.
+- Involve in deploying the content cloud platform on Amazon AWS using EC2, $3, and EBS.
+- Evaluate Chef and Puppet framework and tools to automate the cloud deployment and operations.
+- Primarily used Python to write GIT applications.
+- Writing automation scripts for Ansible and in house custom AWS framework.
+- Configuring and maintaining Hudson to implement the CI process, integrated tool with Ant and Maven to schedule the builds. Took the responsibility to maintain the CI Hudson server.
+- Development/testing, deployment, systems/infrastructure and project teams to ensure continuous operation of build and test
+
+systems
+
+Infrastructure Devops Engineer, 05/2018 to 12/2019 Data Robot - Boston, MA
+- DevOps Automation, Enhanced Continuous Integration (CI) and Continuous Deployment (CD), test automation processes using GlIT/Jenkins / Ansible.
+- Experience in planning, strategy, design, migration and implementation of cloud based platforms/applications using AWS, Azure with multiple deployment models (IaaS, Saas, PaaS) as well as private, public and hybrid models.
+- Utilized Kubernetes for the runtime environment of the CI/CD system to test deploy.
+- Design and implementation of Azure and online Directory Synchronization for office 365.
+- Designed and built a Disaster Recovery with Azure Recovery Services.
+- Managed and designed infrastructure including AWS/Azure/ Confidential PaaS, IaaS and SaaS as well as IoT.
+- Experienced implementing solutions on multiple cloud provider models like Azure, AWS, SaaS
+- Strong background in CMDB content management and process strategy facilitated with ITIL and ITSM standardization. (CMDB Identification, Version Control with Associated Documentation, Status with maintenance objectives, and Verification inherent to the review process.)
+- Responsible to migrate legacy applications to AWS & Azure clouds as well as migration to SaaS solutions.
+- Directed large technical team projects, meetings and communications for incident resolution/updates including Operations, Business Product Management, Application Architecture, Technical Architecture, Developers and Governing Management.
+
+Cloud Devops Engineer, 12/2016 to 02/2018 Ner Corporation - Nebraska, IN
+- Implemented fault-tolerant, elasticity and highly available AWS Cloud Infrastructure automated with various resources, EC2, IAM, VPC, ELB, Route53, $3, Glacier, Cloud Watch, Cloud Trails, RDS, SNS, Auto Scaling Group for a multitude of applications. Installed and configured the WebSphere application server 7.x Installed, configured and maintained WebSphere Commerce Server 7.x and applied the changes that were suggested by the application support.
+- Created Python scripts to automate AWS services, which includes web servers, ELB, Cloud Front distribution, database, EC2 and database security groups, $3 bucket and application configuration.
+- Custom XML scripts, Ruby scripts, VM and Environment management
+- Migrated an application and executed Proof of Concepts (POC) on behalf of configuration management, CI/CD practice, assessing new methods, developing and implementing appropriate practices on AWS cloud environment.
+
+Installed and upgraded, configured, and fine tuned WebSphere Commerce Applications.
+
+- Worked on Docker to create images and containerize the application build, by writing Dockerfile to customize Docker container images, tagging and pushing the images to the Docker repository/registry.
+
+- Developed Python career path through professional development Configured and monitored servers using Chef. Defined Chef Server and Workstation to manage and configure nodes.
+
+- Used Ansible as Infrastructure as Code to write to deploy configurations in Open Stack Environment.
+- Used Shell/Python scripts to automate the deployment process.
+
+- Wrote Terraform code to provision infrastructure in AWS as POC
+
+- Setup Gerrit for Code review as POC.
+
+- Implemented a new CICD Release process using Jenkins and Jenkins plugins for Juniper Virtual Devices
+
+- Trained client to adapt to Git flow branching strategy and use Continues Integration.
+
+- Prepared Training material on DevOps Tools (Ansible, Jenkins, Docker, and AWS) for onboarding new team members.
+
+Linux Engineer, 04/2015 to 06/2016
+
+Cognizant Technology Solutions - Menlo Park, CA
+
+- Production Support & Systems engineering duties related to Redhat system administration DNS, DHCP, NFS, LDAP, user account maintenance, backup & recovery, Auto-mounting, License Management, Printer configuration.
+
+- Client interaction for requirement gathering, so as to design and plan the software and hardware infrastructure; handled installation and configuration of SQUID Web proxy.
+
+- Installed, configured Oracle 10g & MySQL databases for Dev, Prod & QA environments.
+
+- Handled installation and configuration of Linux MTAs - (Sendmail, Postfix and Axigen).
+
+- Configured High Availability (HA), DRS, FT and design/test DR solutions.
+
+- Analyze and suggest corrective methods on performance issues.
+
+- Done with LAMP Setup in Ubuntu, MySQL setup, Performance Tuning, Replication, Commands, Backup and overall Administration.
+
+- Worked on Tuned servers for maximum efficiency for Oracle and MySQL Data Bases.
+
+EDUCATION
+---------
+
+Master of Science: Computer And Information Systems Security, 12/2019 University Of The Cumberlands - Williamsburg, KY
+
+Bachelor of Science: Computer And Information Sciences, 04/2015 K L University - Guntur, Andhra Pradesh
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

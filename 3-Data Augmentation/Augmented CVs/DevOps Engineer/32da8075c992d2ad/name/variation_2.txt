@@ -1,0 +1,101 @@
+Greg Baker
+
+SENIOR DEVOPS ENGINEER
+
+4 info@resumekraft.com og 202-555-0120 © Chicago, Illinois, US
+
+fim linkedin.com/resumekraft
+
+ey SUMMARY
+
+- Overall 5 years of experience and 3.5 years of experience as a
+
+DevOps Engineer in application configuration, code configuration,
+
+packaging, building, managing, and releasing code from one
+
+environment to another and deploying on servers.
+
+Having good knowledge of Linux.
+
+Worked extensively on agile methodology.
+
+Used terraform for resource creation.
+
+Experienced in Jenkins by installing, configuring, and maintaining
+
+for the purpose of continuous Integration and for end-to-end
+
+automation for all build and deployment and creating Jenkins Cl
+
+pipeline
+
+- Experienced in branching, merging, and maintaining the versions using SCM tools like Git,Github, Bitbucket on Windows and Linux servers.
+
+- Experienced in the creation of Docker containers and Docker consoles for managing the application life cycle.
+
+- Creating custom Docker images in a local machine using Docker file
+
+for easier replication in DEV and QA environments.
+
+Deployed containerized applications using kubernetes.
+
+Good Knowledge in Education Domain Projects.
+
+Providing knowledge transfer (KT) to new members
+
+Having exposure to tools like PuTTY, JIRA, Teamcity.
+
+Good Knowledge in MYSQL, POSTGRES SQL.
+
+Good Experience in PHP Backend Language.
+
+=i) EXPERIENCE
+
+Senior Software Engineer
+SILICON TECH LAB (STL) Jun 2021 - Present
+
+Project Name: UMS Integration for Various University across India
+
+- Responsible for the complete End to end process of student life cycle in a DSEU University.
+
+- Automated the deployment and build process according to the developer's needs.
+
+- Wrote pipeline scripts to automate the deployment process.
+
+Software Engineer
+SILICON TECH LAB (STL) Feb 2020 - May 2021
+
+Examination Management System
+
+- Automated the process of generating revenue scans taken at
+
+8 | SKILLS
+
+Versioning Tool: GIT SEBE 8
+
+CI/CD-JENKINS B8ae8 8 Containerization B8EB8 8 Tools- Docker
+
+Container Ba8 8 Management Tools -
+
+Kubernetes
+
+Operating System- SEBES Windows, Linux
+
+Database- MYSQL, SEB8 8 POSTGRES SQL
+
+Connectivity Tool - BBB 8
+
+Putty, SSH, RDP
+
+- | LANGUAGES
+
+English SEBES French BEB8 8
+Arabic 888 German B88 |= EDUCATION
+
+BTECH
+
+San Jose State University
+May 2014 - Apr 2018
+- Bachelor of Technology (B.Tech) in Computer Science branch from Orissa Engineering College,
+Bhubaneswar, Odisha, India 2018.

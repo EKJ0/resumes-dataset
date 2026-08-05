@@ -1,0 +1,119 @@
+Jamal Jackson
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+7+ years of professional total IT experience in design, develop, build and deployment of web applications.
+
+3+ years in practicing DevOps, Cloud Automation & Quality Engineering.
+
+Strong analytical and problem-solving skills and can work either independently with little or no supervision or as a member of a team.
+Critical thinking DevOps Engineer with extensive understanding of high availability architecture and concepts. Purpose-driven
+professional with capacity to be strong team player plus work effectively independently.
+
+- Good written and verbal communication skills, strong organizational skills and a hard-working team player, well-practiced in attending
+
+phone calls and answering business team queries.
+
+EXPERTISE
+- Migrating applications to both AWS and Azure. e Strong experience in code quality And code coverage tools such as
+- Extensive experience in setting up CI/CD pipelines using tools SonarQube, JaCoCo And JUnit. such as Jenkins, Maven, Docker, Nexus, Artifactory, Slack and © Good knowledge of virtualization And container technology like Azure pipelines Docker. Experience in creating Dockerfiles And working with
+- Strong experience in automating infrastructure setup On AWS Docker containers. cloud and Azure Cloud using Terraform. e Have good knowledge in Kubernetes And have setup clusters in
+
+- Extensive experience in distributed Agile and Scrum Amazon EKS, Azure AKS
+
+methodologies to develop best practices for software development Strong exposure in Ansible for managing software installations,
+
+and implementation patch management to servers.
+
+Strong experience in working with version control systems such as Strong knowledge on practicing TDD, automating Junit tests using
+Git, GitHub, Bitbucket, Azure Repos Maven in Jenkins.
+
+- Experience working with developing scripts and automation tools
+
+Strong knowledge in Tomcat, WebLogic servers on different
+used for building, integrating and deploying software releases Operating Systems like Windows, UNIX And Solaris platforms.
+
+to multiple environments.
+
+Strong hands on experience in scripting languages such as Groovy, JSON, YAML, Shell scripting.
+
+WORK EXPERIENCE
+---------------
+
+Devops Engineer, 07/2020 - Current
+
+Alleare Consulting - Alexandria, VA
+
+In this project, as a Cloud DevOps Engineer, I am responsible for migrating applications into AWS cloud by creating CI/CD pipelines using
+Jenkins.
+
+Contributions:
+
+Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Bitbucket, SonarQube, Nexus, Docker, Slack for
+providing immediate feedback to DEV teams after code check-in.
+
+Provisioned Dynamic Jenkins Docker slaves using DockerHost for CICD Pipelines.
+
+Wrote Ansible playbooks from scratch in YAML. Installing, setting up & Troubleshooting Ansible, created and automated platform
+
+environment setup.
+
+Set up Git repositories and SSH Keys in GitHub for Agile teams.
+Integrated GitHub web hooks into Jenkins to automate the code check-out process.
+Implemented the setup for master slave architecture to improve the performance of Jenkins.
+
+- Imported existing infrastructure into Terraform using Terraform Import command.
+
+Created Docker file and automated docker image creation using Jenkins and Docker.
+
+Automated infrastructure provisioning on AWS using Terraform and Ansible.
+
+Created nightly builds with integration to code quality tools such as SonarQube, Veracode.
+
+Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions not met.
+
+Rebuild of entire existing platform over to Docker containers.
+
+DevOps Engineer, 08/2018 - 06/2020 Alleare Consulting - Mesa, AZ
+Iam responsible for managing Azure resources in cloud and maintain Continuous Integration and Continuous Deployment (CI/CD) pipeline for
+fast paced robust application development environment. As a member of onboarding team, my responsibility is to implement DevOps
+transformation by working with Agile teams to migrate applications to Azure platform.
+Contributions:
+- Setup repos on Azure Git, merging code from develop branch to master branch and make it ready for deployment. Migrated legacy applications to Microsoft Azure Cloud PaaS by setting up CI/CD pipelines on AzureDevOps. Created WebApps (PaaS solutions) on Azure portal for deploying web applications using Azure DevOps pipelines. Setup AKS clusters in Azure using Azure CLL Created nightly builds with integration to code quality tools such as SonarQube, Veracode. Helped teams to reduce defects rate by 30% by introducing TDD in first 3 months. Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds when conditions were not met.
+
+Set up the SonarLint plug-ins in developer’s workstation for detecting defects early during development.
+
+Built and deployed Docker containers to break up monolithic app into micro services, improving developer workflow, increasing
+
+scalability, and optimizing speed.
+
+Implemented Release management workflow for QA, UAT and Prod environments.
+
+Java Engineer, 05/2015 - 07/2018 American Express - Cincinnati, OH
+
+Effectively engaged with full programming improvement lifecycle: from business/frameworks investigation, through necessities gathering
+and practical detail composing, to advancement, testing and conveyance.
+
+Composed and created UI screens utilizing HTMLS, CSS3, JavaScript, JSON and AJAX.
+
+- Created custom Angular JS mandates to assemble custom reusable segments to use over the application pages.
+
+Utilized Spring Beans to embody business rationale and Implemented Application MVC Architecture utilizing Spring MVC.
+
+Created server-side application to associate with database utilizing Spring Boot and Hibernate.
+
+Utilized Spring XML setup for Dependency Injection.
+
+Created complex administration segments for Data Access Layer, DAO classes to communicate with backend utilizing Java and Hibernate
+
+Framework.
+
+- Utilized Maven for assemble structure and Jenkins for persistent form framework.
+
+EDUCATION
+---------
+
+Master of Computer Applications: 05/2014 Manonmanium Sundaranar University - Trichy, TamilNadu, India.

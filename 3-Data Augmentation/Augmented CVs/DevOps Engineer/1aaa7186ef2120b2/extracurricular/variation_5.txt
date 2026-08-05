@@ -1,0 +1,59 @@
+Lonny Heaney DevOps Engineer
+
+Determined DevOps Engineer with $+ years’ experience in developing, deploying and managing large-scale cloud
+infrastructure, Expertise in automation and orchestration tools such as Kubernetes, Docker, Terrafoem, Ansible & Jenkins to
+manage microservices-based applications. At XYZ Inc, implemented C1/CD pipelines resulting in 2 16% decrease of server
+downtime caused by manual errors. Aiming to leverage my skillset ax ABC Corp for the successful development of cloud
+
+projects,
+
+Ey Contact
+
+| tomny:c-heaney gmail.com 123-702-2989 linkedin.com,/in/lonny-heaney | ca | Employment
+
+DevOps Engineer at Employer A Cary | January 2018 to Present
+
+Coordinated muleiple development teams and system administrators to build, deploy and maintain over 200
+cloud-based web applications, resulting in a 20% increase in overall efficiency.
+
+‘Tested the performance of various software components such as databases, networks & servers; identified areas
+for optimization to improve application speed by 30%.
+
+Resourcefully automated complex deployment processes with Bash scripting and Python coding; eliminated
+manual errors during deployments while reducing time spent on deployment tasks by 40%.
+
+Improved configuration management tools like Puppet, Chef & Ansible: streamlined infrascructure
+
+setup /maintenance process across 10¢ production erwiroaments saving $10K yearly in labor costs.
+Streamlined collabocation between DevOps engineers through Git version control systems; reduced
+debugging times from 2 hours per incident down to 15 minutes on average.
+
+DevOps Engineer at Employer B San Bernardino | March 2012 to December 2017
+
+Developed and impkmented automated deployment peocesses, resulting in a 30% reduction of release time
+and errors.
+
+Automated configuration management with Chef, Puppet & Ansible to ensure all servers were consistently
+configured to the same standards
+
+Opcimized performance across oud infrastructure by 20%, reducing latency issues for customers and
+increasing scalability during peak nmex
+
+Sccured network environment through firewall configurations, patching systems regularly, monitocing user
+access and implementing intrusion detection protocols; successtully prevented 4 major data breaches over 2
+years period of empayment.
+
+Diligently monitored system health metrics such as CPU utilization levels and memory usage; identified
+potential issues before they became critical problems requiring manual intervention of troubleshooting
+workflows created by team members.
+
+[mw | Education
+
+| Bachelor of Science in Computer Science at Educational Institution XYZ November 2011
+
+Amazon Web Services JavaScript
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

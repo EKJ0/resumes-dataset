@@ -1,0 +1,392 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 100 Montgomery St. 10th Floor
+
+SKILLS
+------
+
+- Versioning Tools GIT, Bit Bucket, SVN
+
+- Cloud Environments Amazon AWS Cloud(EC2, IAM, RDS, S3, EBS, Route53, ECS, VPC, Cloud Formation, Cloud Watch, Redshift, Lambda, DynamoDB, SNS, SQS, Cloud Trail), Microsoft Azure
+
+- Build Tools ANT, Maven, Gradle
+
+- Bug Tracking, Ticketing Tools JIRA, Service Now
+
+- Languages Python, C++, PL/ SQL, XSLT, XSD,WSDL, XPATH
+
+- Web Technologies HTML, Java Script, XML, Cloud technology.
+
+- Web/App server Apache Tomcat, HTTP server.
+
+- Operating Systems Windows, UNIX, Linux (Centos/Ubuntu).
+
+- Scripting Language YAML, Shell scripting
+
+- Monitoring Tools Cloud Watch, Cloud Trail, Sonar Qube
+
+- Configuration Management Tools Chef, Puppet, Ansible, Terraform.
+
+- Cl Tools Jenkins, Bamboo
+
+- Containerization Tools Docker, Kubernetes
+
+- Virtualization Platforms Vagrant, Oracle Virtual Box, VMWare, Citrix
+
+EDUCATION
+--------- Concordia University Wisconsin
+Mequon, WI + 05/2021
+
+MBA: Management Information Systems
+
+JNTUH
+Hyderabad, India + 05/2016 Bachelors of Technology:
+
+Computer Science And Engineering
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Bilingual DevOps Engineer with background designing, testing and implementing infrastructure and
+applications. Talented performer with over 7+ years of experience using source control tools to
+identify and fix bugs in code. Consistent team player with exemplary multitasking skills with
+professional experience in full SDLC development involving requirements analysis, design, development, testing and implementation of various applications.
+
+WORK EXPERIENCE
+---------------
+
+Livongo Health, Inc. - DevOps Engineer
+West New York, NJ « 03/2020 - Current
+
+Worked with AWS Cloud platform and its features, which include IAM, EC2, $3, AMI, EBS, CLI, SNS
+and VPC.
+
+Involved in configuring Elastic Load Balancers with Auto scaling to handle high traffic loads.
+
+The role will also be involved in providing recommendations on enhancements, monitoring the
+performance and support maintenance of deployed solutions.
+
+We had used Docker compose for running (micro services) multiple application present on various
+containers with one single command Docker-compose up.
+
+Used Terraform in AWS to spin up the instances with Infrastructure as Code.
+
+Used Docker to containerized Micro services in cloud and managed clusters using Docker Swarm
+and Kubernetes.
+
+Implemented cluster services using Docker and Kubernetes.
+
+Worked on various Docker components like Docker Engine, Hub, Machine, Compose and Docker Registry.
+
+Development of automation of Kubernetes clusters with Ansible, writing playbooks.
+
+Implemented cloud automation using AWS Cloud Formation Templates, Ansible.
+
+Used Ansible tower for managing the Ansible playbooks, Creating inventory, job templates and
+scheduling jobs and Ansible servers.
+
+Wrote the Ansible playbooks which are the entry point for Ansible provisioning, where the
+automation is defined through tasks using YAML format, Run Ansible Scripts to provision Dev
+servers.
+
+Used Jenkins to integrate delivery (CI and CD process) and maintained continuous integration (CI)
+using tools Jenkins over diff environments to facilitate an agile development process which is
+automated and repeatable enabling teams to safely deploy code many times a day while ensuring
+operational best practices are supported.
+
+Performed daily system monitoring, verifying the integrity and availability of all hardware, server
+resources, systems and key processes, reviewing system and application logs, and verifying
+completion of scheduled jobs such as backups.
+
+Worked on monitoring tools to configure Nagios, Splunk, and Zabbix.
+
+Manage AWS EC2 instances utilizing Auto Scaling, Elastic Load Balancing and Glacier for our QA
+and UAT environments as well as infrastructure servers for GIT and Puppet.
+
+Experience in setting up the Continuous Integration (Cl) and Continuous Deployment (CD) practices.
+
+For Release Automation of Java and Oracle Fusion Middleware Applications (Oracle ADF, Oracle
+SOA, OSB).
+
+Experienced with CI (Continuous Integration) and CD (Continuous Deployment) methodologies with
+Jenkins build tools.
+
+Experienced on Network Programs relating to the ECSS contract Network Programs relating to the
+ECSS contract.
+
+Installed and configured Jenkins tools on Linux and windows platforms, manage slaves and installing Jenkins plugins.
+
+Streamlined Build process for Fortify scan of code from Manual to Automated mode by setting up
+Jenkins Automation environment, thus reducing manual error prone, build time, no logging to
+machine is required.
+
+Configuration Management and source code repository management using tools like GITBUCKET,
+Subversion (SVN).
+
+Built and Configured Linux Servers in AWS Cloud Environment.
+
+Involved in Day-to-Day System Administration tasks on CentOS 7.x.
+
+Defined and Implemented Change Management and Release Management procedures.
+Environment: AWS EC2, EBS, $3, Ansible, GIT, Apache, Linux, Terraform, AWSCLI, boto3, Terraform, Cent OS7, Kubernetes, Docker.
+
+Worked effectively with cross-functional design teams to create software solutions that elevated
+client side experience and significantly improved overall functionality and performance.
+Monitored automated build and continuous software integration process to drive build/release
+failure resolution.
+
+Cognizant Technology Solutions - Sr. DevOps Engineer
+Columbus, GA + 02/2019 - 03/2020
+
+Worked with different application teams to understand, analyze their current process, tools,
+techniques, workflows and involved in evaluation and finalization of state of art tools.
+
+Improved entire release process by automating all manual/time consuming steps with Devops tools
+like Ansible, Jenkins, Docker and AWS.
+
+Managed Deployment automation using Packer-Docker and Terrafom involved in automated deployments of EBS on to the AWS Cloud Ec2 instance server and automated the complete
+deployment environment on AWS.
+
+Working with build Servers using AWS: Importing volumes, Launching EC2, creating security groups, load balancers.
+
+Building the AWS Infrastructure using VPC, EC2, $3, Route 53, EBS, Security Group, Auto Scaling,
+and RDS in Cloud Formation.
+
+Designed roles and groups for users and resources using cloud permission systems AWS Identify
+Access Management (IAM).
+
+implemented and created the work environments using Ansible on AWS private VPC which are hosted on the cloud and on premise data centers.
+
+Deployed and hosted the application on AWS using Playbooks, automated single click deployment
+onto AWS using Ansible.
+
+Developed Ansible playbooks to configure, deploy and maintain software components of the existing/new infrastructure.
+
+Manage the configurations of more than 40 nodes using Ansible, configured Jenkins builds for
+continuous integration and delivery.
+
+Extensively worked on Jenkins for continuous integration (integrating with GIT, Docker, AWS, and
+Ansible) and for End to End automation for all build and deployments with single click by pipeline.
+Worked on infrastructure with Docker containerization.
+
+Worked on Docker container snapshots, attaching to a running container, removing images, managing Directory structures, and managing containers.
+
+Used Ansible playbooks to manage Web applications, Environments configuration Files, Users and
+Packages.
+
+Written Ansible playbook & modules for Ansible customizations.
+
+Managed SVN/Git repositories for branching, merging, and tagging.
+
+Analyze and resolve conflicts related to merging of source code for GIT.
+
+Implemented the setup for Master slave architecture to improve the Performance of Jenkins.
+Used Jenkins for Continuous Integration and continuous deployment to Tomcat/Web logic Application Server in Multiple environments.
+
+Releasing code to testing regions or staging areas according to the schedule published.
+
+Used Jira as ticket tracking and work flow tool.
+
+Provided 24/7 on-call support on Linux Production Servers.
+
+Responsible for maintaining security on Red hat Linux.
+
+Developed Python Modules for Ansible Customizations.
+
+Environment: Splunk, Ruby, Puppet, Shell Scripting, PHP, GIT, Jenkins, Bamboo, Saltstack, Jira,
+Web services, Ansible, Open Stack, AWS, VM ware, Jira.
+
+Cognizant Technology Solutions - Sr. DevOps Engineer
+East Syracuse, NY + 06/2017 - 10/2018
+
+Experience in creating AWS VPC network with in regions and Availability Zones to have both private
+and public networks of web applications that are deployed on EC2 and managed by ECS.
+
+Build AWS infrastructure various resources IAM, VPC, Security Group, Auto Scaling, Cloud Watch,
+RDS, NACL, NAT, Firewall, Route 53, and Cloud Formation JSON Templates.
+
+Created S3 buckets and managed policies for buckets and used $3 bucket and Glacier for storage
+and backup on AWS and in real-time monitoring and alerting of applications deployed in AWS using
+Cloud Watch, Cloud Trail, and Simple Notification Service.
+
+Implemented a Continuous Delivery pipeline with Docker, Jenkins, Bitbucket and AWS.
+
+Configured the storage on $3 Buckets.
+
+Experience working with IAM in order to create new accounts, roles, and groups.
+
+Developed build and Deployment Scripts using ANT and MAVEN as build tools in Jenkins to move
+from one environment to other environments.
+
+Familiar and experienced with Agile Scrum development.
+
+Experience in installing Docker like container instances using Amazon ECS to deploy multiple
+Tomcat Application servers.
+
+Hands on designing AWS Cloud Formation templates to use services like EC2, RDS, $3, EBS, Cloud
+Watch, SNS, SQS, Cloud Trail.
+
+Experience on AWS Cloud Formation templates to create custom sized VPC, Subnets, NAT to ensure
+successful deployment of Web applications and database templates.
+
+Write Terraform scripts from scratch for building Dev, Staging, and Prod and DR environments.
+Establish Cl/CD for trunk and branches to support parallel development.
+
+Installing, configuring and administering Jenkins Continuous Integration tool on Linux machines
+along with adding/updating plug-in such as GIT, Maven, ANT and Chef.
+
+Installed and configured an automated tool puppet that included the installation and configuration
+of the puppet master, agent nodes and an admin control workstation.
+
+Deploying application using Jenkins server and Troubleshoot build and release job failures, work
+with engineers on resolution.
+
+Designed, Installed and Implemented Ansible configuration management system.
+
+Configuration and Administration of Apache Web Server and SSL Certificates.
+
+Was instrumental in creating a Disaster Recovery (DR) process and setting up new infrastructure in
+west region of Amazon Web Services.
+
+Used Ansible to manage Web applications, Environments configuration Files, Users, Mount points
+and Packages.
+
+Included security groups, network ACLs, Internet Gateways, and Elastic IP’s to ensure a safe area
+for organization in AWS public cloud.
+
+Utilized Amazon Route53 to manage DNS zones and also assign public DNS names to elastic load
+balancers IP’s.
+
+Writing UNIX shell scripts to automate the jobs and scheduling cron jobs for job automation using
+commands with Crontab.
+
+Wrote Ansible Playbooks with PythonSSH as the Wrapper to Manage Configurations of AWS Nodes
+and Test Playbooks on AWS instances using Python.
+
+Experience with Ansible Tower to more easily manage enterprise Ansible deployments.
+
+Creating and Managing Virtual Machines in Windows Azure and setting up communication with the
+help of Endpoints and also VM Migrations from Transitional hosts on Canada Boxes.
+
+Environment: SVN, GIT, Jenkins, AWS, Ansible, YAML, Bitbucket, JSON.
+
+Albertsons Company Inc. - Java Developer
+Pacific Grove, CA + 05/2014 - 07/2016
+
+Designed, developed and implemented software applications for website based on analyzed requirements and understanding of industry technical standards.
+
+Participated in complete software development lifecycle, including performance analysis, design,
+development and testing.
+
+Utilization Therapy Management (UTM) is a comprehensive Utilization program that strives to
+optimize patient care.
+
+It is used by customers (hospital staff) to evaluate appropriateness of their medical therapy.
+UTM utilizes data frorn RDUR and MTM applications, which provide access to the patient records.
+Responsibilities: .
+
+Developed front-end/ presentation tier development using JSP, Servlet, JavaScript, HTML and CSS.
+Using Web sphere Admin console setup the data sources, JNDI properties and JVM custom properties to load environment specific files in web application.
+
+Used Restful Web Services in the application to communicate to third party APIs.
+
+Created and deployed the EAR files to Web Sphere Application Server (WAS 6.1/7).
+
+ANT build and batch scripts are used to create EARs, Installer, generate JUnit reports, etc.
+
+Used log4j for logging with various levels during enhancement and support.
+
+Involved in developing and supporting the STA OM Tool System.
+
+It is a platform built by Samsung that is to support performance monitoring and analysis for
+Samsung and Sprint 3G/4G networks.
+
+Lead the design and implementation of data visualization dashboards for internal and external
+users.
+
+Translate product requirements and business questions into report requirements and visualization
+dashboards.
+
+Connected to various data marts like Oracle/Oracle Data Direct, SQL Server/SQL Server Data
+Direct, IBM Jacuzzi using information designer.
+
+Designing and developing the information links, Data Sources, Columns, Joins, Filters and Procedures.
+
+Implemented Client Side and Server Side validations using Java Script and Struts Validation
+Framework on Login and Registration forms.
+
+Worked with struts framework, struts action classes and validation framework.
+
+Created stored procedures for the SQL Server 2005 database.
+
+Invoked web services and parsed the XML results.
+
+Created complex reports using Custom Expressions, multiple filtering schemes, markings, inserting calculated columns, creating property controls, action controls.
+
+Combined complex data from different data sources into one report and developed visualizations
+above that.
+
+Automating the scheduled reports to refresh the data based on the business users’ requirements
+using windows application Automation Services and windows scheduler.
+
+Scheduling the reports in web player in order to catch the data so that end users could open and
+analyze the real time data which are received from the base stations for call quality monitoring and
+call drop or failure monitoring.
+
+Used agile software development methods for early delivery and flexible response to change.
+Ensure project compliance as per the defined process with respect to audit findings.
+Environment: Java 1.3, J2EE, JSP, Servlet, Oracle Developer, Oracle 8i, VSS, PL/SQL Developer,
+JavaScript, web Services, REST Services, XML, HTML and CSS.
+
+ADDITIONAL INFORMATION
+
+Server infrastructure development on AWS Cloud, extensive usage of EC2, IAM, $3, EBS, Route53,
+ECS, VPC, Cloud Formation, Cloud Watch, Lambda, SNS, SQS, Cloud Trail, AWS Config. Build
+servers using AWS, importing volumes, launching EC2, RDS, creating security groups, Auto-scaling,
+Elastic load balancing (ELB) in the defined virtual private connection. Provisioning EC2 instances
+and have Experience on all resource areas of EC2 like Instances, Dedicated hosts, volumes, Key
+pairs, Elastic IP’s, Snapshots, Load Balancers and Security Groups. Experience in Creating JSON
+templates in Cloud Formation to manage AWS resources. Experience with Ansible playbooks to
+automate the entire deployment process as well as the infrastructure. Experience in Ansible to
+manage AWS environments and automate the build process for core AMIs used by all application
+deployments including Auto scaling, and Cloud formation scripts. Managed Deployment automation
+using Packer-Docker and Terrafom involved in automated deployments of EBS on to the AWS Cloud
+Ec2 instance server and automated the complete deployment environment on AWS. Write
+Terraform scripts from scratch for building Dev, Staging, Prod and DR environments. Experience
+with Configuration Management/Automation tool Ansible and has worked on integrating Ansible
+YAML Scripts. Working expertise on all aspects of Ansible concepts like Control Node, Managed
+Nodes, Inventory, Modules, Tasks, Playbooks etc Experience in the configuration of the AWS SDK
+(Boto3), AWS-CLI. Good Exposure on Vagrant & Docker based container deployments to create
+environments for dev teams and containerization of environment delivery for releases. Experience
+with containerization and clustering technologies like Docker and Kubernetes. Used Docker to
+implement a high-level API to provide lightweight containers that run processes isolation and
+worked on creation of customized Docker container images, tagged and pushed the images to the
+Docker hub. Hands on experience in Open Shift containers, maintaining pods and managing
+Kubernetes in automating deployment, scaling and management of Containerized applications.
+Extensively worked with source code Version Control tools like SVN (Subversion), GIT, GitHub,
+Bitbucket. Expertise in using build tools like Ant, Maven and Gradle for the building deployable
+artifacts such as Jar, War, Ear and Zip extension files. Worked with Docker and Kubernetes on
+multiple cloud providers, from helping developers build and containerize their application (CI/CD)
+to deploying either on public or private cloud. Extensively worked on creating CI CD pipelines using
+Jenkins for building, validating and testing the Cloud formation templates, Ansible Playbooks.
+Implemented CI/CD process using CDP process for global development team, allowing for dozens of
+code updates per hour with zero downtime. Created CI/CD pipelines and setup auto trigger, auto
+build and auto deployment with the help of the CI/CD tool like Jenkins. Implementing new projects
+builds framework using Jenkins as build framework tools. Easily mingle with the newly evolved
+technologies in the market. Good Knowledge of scheduling the task in Jenkins, Linux environment
+using Cron jobs. Pretty well knowledge on web servers like Apache and application servers like Web
+logic, Tomcat, WebSphere to deploy code. Configured the Jenkins file to schedule periodic jobs
+daily and report to the team in case of build failure. Rehydrated the AMI of the instances using
+Jenkins job in QA and PROD environments. Work experience on Web Sphere Data power, Message
+Queue. Having sound knowledge on every process of Datapower appliances like SSL certificate
+management, Raising ITSC request to procure SSL certificates, Domain backup and service flow.
+Involved in functional and non-functional requirement clarification with business analysts. Security
+concepts (Single sign-on, digital signatures, encryption/decryption, PKI, SSL) Knowledge of Web
+Service standards (WSDL, SOAP 1.1, 1.2), XSD, XPATH, WSDL, XSL, and ESQL. Troubleshoot and
+debug services using the problem determination tools, logs, and probes provided with the Data
+Power. Interested towards the new technologies which are raised newly in the market.

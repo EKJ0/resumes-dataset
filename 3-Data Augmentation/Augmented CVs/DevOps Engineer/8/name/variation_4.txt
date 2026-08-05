@@ -1,0 +1,205 @@
+Jamal Jackson
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+DevOps Engineer with over 6 years of IT experience. I am happy to help connect various teams to achieve our goals in continually
+
+improving our products, ensuring its high performance, resilience, and security. Hands-on experience in designing, implementing,
+
+and managing complex cloud infrastructure and au- tomation frameworks. Skilled in programming, scripting, and IaC tools such as
+
+Terraform and CloudForma- tion, with deep understanding of containerization and monitoring tools. Proven track record of
+
+improving software delivery speed, reliability, and quality through collaboration with cross-functional teams. Strong problem-
+
+solving and communication skills with a passion for continuous learning and innovation.
+
+SKILLS
+------
+- Technical skills: ¢ Route53, ACM, Global Accelerator, Transit Gateway, IAM,
+- OS: Secrets Manager, S3, EBS, EFS.
+- Linux: Debian, Red Hat, SUSE, Ubuntu families. MacOS. ¢ Azure: Blob Storage, Virtual Machines, Container Instances, Windows. Virtual Networks, AKS, SQL Databases.
+
+Scripting / Programming: Advanced: IaC: Terraform (HashiCorp Certified), CloudFormation.
+Bash, Python, HCL. Intermediate: Ruby, Go, JavaScript, Java.
+VCS: Git, Github, Bitbucket, AWS CodeCommit. CICD: Jenkins, Github Actions, Bamboo, ArgoCD.
+
+AWS (Solutions Architect Certified): Athena, Glue, Containerization: Docker, Kubernetes (AWS EKS, Azure
+EventBridge, SQS, SNS, EC2, Auto-Scaling, Elas- AKS), AWS ECR, JFrog, AWS ECS.
+
+TicBeanstalk, Lambda, ECR, ECS, Fargate, EKS, Aurora, Monitoring / Alerting: DataDog, Prometheus, Grafana, New
+Redshift, RDS with MySQL and PostgreSQL, Relic, SumoLogic, Rapid7 (InsightOps, Lo-
+
+DynamoDB, ElastiCache with Redis, API Gateway, GEntries), PagerDuty, OpsGenie.
+
+CloudWatch, CloudTrail, VPC, CloudFront,
+
+Configuration management: Ansible.
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 03/2020 to Current Bio-Techne - Cleveland, OH
+
+FourKites is provider of supply chain visibility solutions for shippers, brokers, and third-party logistics companies
+
+By collecting real-time data from GPS devices on trucks, trains, aircraft, and ships, our platform provides end-to-end visibility
+into the location and status of shipments, enabling customers to optimize their operations, improve delivery times, and enhance
+customer service, allowing businesses achieve greater efficiency, transparency, and control across their supply chain
+
+My role involves facilitating deployment through Jenkins by automating and streamlining the process, allowing development
+teams to efficiently deploy changes to production
+
+I accomplish this by setting up and configuring Jenkins pipelines, implementing best practices for continuous integration and
+delivery, and troubleshooting any issues that may arise
+
+Furthermore, I work closely with development teams to ensure that our deployment pipelines are seamlessly integrated with our
+infrastructure, while also meeting our performance and availability objectives
+
+I also manage and configure, and assist deployment to EKS clusters utilizing Helm and ArgoCD
+
+This includes deploying and managing containerized applications on Kubernetes clusters, optimizing the process with
+Infrastructure-as-Code tools, and automating deployments through Helm and ArgoCD
+
+I also ensure the high availability and performance of our systems by implementing monitoring and alerting using tools like
+New Relic and Rapid7
+
+I collaborate closely with development teams to ensure that any changes are smoothly integrated with our production
+environment
+
+Building and maintaining AWS and Azure cloud infrastructures using Infrastructure-as-Code tools like Terraform, Ansible
+Developing and automating deployment pipelines using tools like Jenkins and GitHub Actions
+
+Implementing monitoring and alerting systems using tools like Prometheus, Grafana, New Relic to ensure high availability and
+performance of our systems and applications
+
+Troubleshooting and resolving incidents and issues that arise in production, working closely with development teams to identify
+and address root causes
+
+Designing and implementing disaster recovery plans to minimize system downtime in the event of an outage or disaster
+Collaborating with development teams to design and deploy scalable and resilient systems and applications, integrating DevOps
+principles into the development lifecycle
+
+Continuously improving our systems and processes through automation, monitoring, and testing, promoting a culture of
+reliability and efficiency across the organization
+
+Participating in on-call rotations to provide 24/7 support for our systems and applications
+
+Sharing knowledge and expertise with colleagues through documentation, training, and mentoring to promote continuous
+
+improvement and upskilling across the organization.
+
+DevOps Engineer, 09/2018 to 03/2020 Bio-Techne - Dallas, TX
+
+Involved in developing and implementing strategies to improve the reliability, scalability, and performance of the customers
+systems and applications
+
+Worked closely with cross-functional teams to ensure that the customers cloud infrastructures are secure and highly available
+Built and managed (using IaC tools such as Terraform, CloudFormation) cloud infrastructures for customers CMS (Content
+Management System) such as Adobe Experience Manager (AEM - Content
+
+Management Tool, where our clients web applications, websites are built on)
+
+Helped customers to automate their deployment process
+
+Consulted clients on our best practices for systems and cloud platforms
+
+Day-to-day tasks included automating deployment and monitoring processes, troubleshooting system and network issues,
+developing tools to streamline and optimize workflows
+
+Additionally, responsible for designing and implementing disaster recovery plans to minimize system downtime in the event of
+an outage or disaster
+
+Collaborating with development teams to ensure products and services are designed with scalability and reliability
+
+Sharing knowledge with colleagues to promote continuous improvement
+
+Led the provisioning and management of AWS infrastructures for multiple pre-production and production environments using
+Terraform
+
+Contributed to customer migration to AWS projects, providing expertise in infrastructure setup and management
+
+Leveraged Ansible for centralized configuration management, ensuring consistency and scalability across environments
+Provisioned and managed customers’ EKS clusters using Terraform, enabling them to deploy and scale containerized
+applications
+
+Implemented Kubernetes External Secrets using AWS Secrets Manager, enabling secure management of sensitive data
+
+Built CI/CD pipelines using Jenkins, automating deployment processes and reducing manual intervention
+
+Developed serverless functions using AWS Lambda to automate complex scripts and reduce toil
+
+Configured AWS CloudFront CDN distributions for customers, improving latency and enhancing the performance of static
+content
+
+Set up and configured DataDog and NewRelic monitoring across diverse servers and services, providing real-time insights into
+system health
+
+Participated in rotational on-call system maintenance and support outside of normal duty hours, providing timely and effective
+support to maintain system availability and reliability.
+
+Linux Systems Engineer, 07/2016 to 08/2018 Apex Systems - Fairfield, LA
+
+My primary responsibility was to design, deploy, and maintain Linux-based systems and infrastructure to ensure the reliability
+and security of systems, applications, and network infrastructure
+
+I worked collaboratively with cross-functional teams to ensure that the Linux infrastructure was functioning optimally
+
+My day-to-day tasks involved setting up and configuring Linux servers, performing system updates and patches,
+troubleshooting system and network issues, and developing automation tools to optimize and streamline processes
+
+I was also responsible for monitoring system performance, identifying and addressing issues proactively, and ensuring
+performance and uptime
+
+In addition, I collaborated with developers to integrate applications and services seamlessly with the Linux infrastructure
+
+To stay up-to-date with industry trends and best practices in Linux system administration, I continuously learned and shared my
+knowledge with my colleagues
+
+Led the operation and constant development of the internal network, ensuring high availability and reliability of critical systems
+Administered Linux clusters ranging from tens to hundreds of servers, providing maintenance, configuration, and support as
+required
+
+Kept systems properly configured, updated, healthy, and scaled to meet the needs of the business, proactively identifying and
+addressing issues before they impacted users
+
+Deployed and maintained production Linux operating systems in accordance with established IT policies and guidelines,
+ensuring adherence to security and compliance standards
+
+Coordinated and performed installations and upgrades to layered software packages, maintaining compatibility and stability of
+critical applications
+
+Continually monitored and tuned systems to achieve optimal performance levels, using system and software performance
+metrics to capture trends and identify areas for improvement
+
+Performed system backup and restore tasks, ensuring data integrity and availability in the event of system failure
+
+Resolved operating system issues, applying technical expertise and problem-solving skills to minimize downtime and restore
+service as quickly as possible
+
+Maintained a suite of standard operating procedures to support production operations, ensuring consistency and repeatability of
+critical processes
+
+Analyzed system and software performance metrics, providing insights and recommendations to improve system performance
+and availability
+
+Proactively collaborated in an interdisciplinary team environment, working closely with developers, network engineers, and
+other stakeholders to ensure seamless system integration and operation
+
+Prioritized and executed tasks in a constantly changing environment, managing competing priorities and deadlines with a focus
+on delivering high-quality results
+
+Participated in rotational on-call system maintenance and support outside of normal duty hours, providing timely and effective
+support to maintain system availability and reliability.
+
+EDUCATION
+---------
+
+AWS Certified Solutions Architect Associate. HashiCorp Certified Terraform Associate.
+
+Bachelor’s Degree: Telecommunications Engineering, 2014
+
+University of Power Engineering and Telecommunications - Almaty

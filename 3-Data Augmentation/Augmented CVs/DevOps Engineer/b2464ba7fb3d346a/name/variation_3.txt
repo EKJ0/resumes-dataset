@@ -1,0 +1,92 @@
+Lakisha Washington
+
+Senior Azure DevOps Engineer
+
+@ johndoe@email.com 9 San Francisco, CA
+
+SUMMARY
+-------
+
+Passionate and experienced Senior Azure DevOps Engineer with a strong background in cloud native technologies and
+infrastructure automation. Skilled in coaching, guiding, and leading change to remove impediments and enable business
+objectives. Proven ability to solve complex problems and mentor team members to promote growth and minimize technical debt.
+
+WORK EXPERIENCE
+---------------
+
+Senior Azure DevOps Engineer
+
+ABC Consulting
+@3 2019-2022 9 SanFrancisco, CA
+
+Delivered cloud-based solutions for multiple clients, resulting in an average 30% reduction in deployment time and cost. Led the adoption of DevOps
+best practices, resulting in improved collaboration and faster time to market. Developed and implemented Infrastructure as Code using
+Terraform and Ansible to improve scalability and reliability.
+
+- Implemented Kubernetes clusters on Azure and AWS, resulting in improved scalability and reduced infrastructure costs.
+
+- Developed and maintained Cl/CD pipelines using Azure DevOps and GitLab, resulting in faster and more reliable deployments.
+
+- Designed and implemented monitoring and alerting solutions using Prometheus, Elasticsearch, and Grafana, resulting in improved observability and reduced downtime.
+
+DevOps Engineer
+
+XYZ Healthcare
+& 2017-2018 9 New York, NY
+
+Improved infrastructure automation using Chef and Puppet, resulting in a 40% reduction in deployment time and increased reliability. Led the
+adoption of containerization using Docker and Kubernetes, resulting in improved scalability and reduced infrastructure costs. Mentored team
+members on Cl/CD best practices and Git workflows.
+
+- Designed and implemented a Disaster Recovery plan using Azure Site Recovery, resulting in improved business continuity.
+
+- Developed and maintained Infrastructure as Code using Terraform, Ansible, Chef, and Puppet, resulting in improved reliability and scalability.
+
+- Implemented Git workflows and trained team members on Cl/CD best practices, resulting in faster and more reliable deployments.
+
+www.enhancv.com
+
+STRENGTHS
+
+Cd Process Optimization
+
+Reduced build times by 30% by optimizing CI/CD pipelines
+
+- Team Collaboration
+
+Improved team communication and collaboration resulting in successful project delivery
+
+\ Problem Solving Identified and resolved complex
+
+infrastructure issues for critical applications
+
+SKILLS
+------
+
+Azure DevOps GitLab
+
+Jenkins
+
+Terraform Ansible Kubernetes
+
+Prometheus Elasticsearch Grafana
+
+Java Python
+
+ACHIEVEMENTS
+
+?) Successful Cloud Migration
+
+Managed successful migration of critical application to cloud infrastructure, resulting in significant cost savings
+
+@& Team Mentoring
+
+Mentored junior team members resulting in improved skills and career growth opportunities
+
+AWARDS
+
+Wf Employee of the Month
+
+Recognized for outstanding contributions to project success and team collaboration
+
+Powered by ( X7 Enhancy

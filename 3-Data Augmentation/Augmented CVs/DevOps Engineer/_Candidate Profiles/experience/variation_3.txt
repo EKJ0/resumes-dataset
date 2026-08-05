@@ -1,0 +1,148 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+CANDIDATE PROFILES — DevOps Engineer
+Folder: DevOps Engineer  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 52.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- Concordia University Wisconsin | Mequon, WI + 05/2021
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (8 instances) — e.g. managed, lead
+Resume Length: 2704 words, 260 lines (~5.4 pages)
+
+CANDIDATE 2  (source file: 125.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed, coordinated
+Resume Length: 1369 words, 130 lines (~2.7 pages)
+
+CANDIDATE 3  (source file: 135.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Engineering: Electronics and Communication, 2008 Anna University - Chennai, Tamil Nadu
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, lead
+Resume Length: 1018 words, 84 lines (~2.0 pages)
+
+CANDIDATE 4  (source file: Image_64.txt)
+----------------------------------------------------------------------
+Name: Caroline Keiki
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2008 - BS in Computer Science, Pace University | 2012 * Excelled in server management classes.
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. led, managed, lead
+Resume Length: 382 words, 67 lines (~0.8 pages)
+
+CANDIDATE 5  (source file: Image_88.txt)
+----------------------------------------------------------------------
+Name: Harshit Puri
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, managed
+Resume Length: 577 words, 49 lines (~1.2 pages)
+
+CANDIDATE 6  (source file: f5cf7e7d31a2659d.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 431 words, 39 lines (~0.9 pages)
+
+CANDIDATE 7  (source file: 67.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science: 2010 University of Abomey-Calavi,UAC - Benin
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, led
+Resume Length: 1206 words, 126 lines (~2.4 pages)
+
+CANDIDATE 8  (source file: 11bba6e8803b916a.txt)
+----------------------------------------------------------------------
+Name: Senior DevOps Engineer
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: BACHELOR OF TECHNOLOGY | (B.TECH) | APR 1, 2011 - MAY 1, 2015
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead, established
+Resume Length: 457 words, 53 lines (~0.9 pages)
+
+CANDIDATE 9  (source file: 14.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: University of Houston | Houston, TX + 05/2012
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 853 words, 109 lines (~1.7 pages)
+
+CANDIDATE 10  (source file: 39dc85d55b7b1b87.txt)
+----------------------------------------------------------------------
+Name: Lonny Heaney
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Educational Institution XYZ | Bachelor of Science in Computer Science | 11/2011
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. coordinated
+Resume Length: 366 words, 46 lines (~0.7 pages)

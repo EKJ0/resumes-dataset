@@ -1,0 +1,195 @@
+ACCOMPLISHMENTS
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+- Extensive Experience in Installation, Administration, Troubleshoot, Configuration and Integration of Weblogic 12c/11g Apache 2.2x and
+
+Jboss EAP 7x/6x.
+
+- Package, build, Integrate and deploy enterprise J2EE applications like JDBC, JMS, JNDI that involves EAR (Enterprise Archives) and WAR (Web Archives).
+
+- Experience on Build Automation and Continuous Integration concepts by using tools like Jenkins and Chef Experience with container technologies like Docker and kubemetes Done certifications on Linuxacademy.com for AWS Concepts, AWS Essentials, Jenkins and Build Automation Experience on Installation/Maintenance of SSL certs at both webserver and Application server level.
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Strong Work experience on Apache web server 2.x and integrated with and Weblogic 11g/10g. Strong experience in working with Redhat 5.x/
+6.x, CentOs 6x/7x. Solid Understanding and knowledge on workload management/Scalability/High-Availability strategies through Clustering.
+Load Balancing and Fail-over support. Experience in monitoring and profiling tools like Dynatrace, Nagios Expertise in handling code
+releases and deploying applications in production. Involved actively in troubleshooting the JVM crashes by analyzing the core dumps and
+other diagnostic artifacts. Proven ability to identify problem, analyze possible solutions and determine best course of action to meet
+objectives. Strong experiences in scripting like Bash, Bourne Shell Ability to work independently and effectively on concurrent and multiple
+
+tasks and projects and to co-ordinate, organize and track tasks. Documented and followed Best practices for Weblogic upgrade process and
+
+involved in gathering pre-upgrade tasks and performed post upgrade validation after completion Hands-on experience on Jira, Confluence,
+Remedy as defect management system. Successfully handled production on- call and provided 24x7 Support for all the environments.
+
+SKILLS
+------
+
+- Operating Systems
+
+- DevOps Tools Jenkins 1.x, 2.x,Chef,Docker 17.x
+
+- Sun Solaris9.x, 10.x, Linux (RHEL), CentOS 7x, Windows Cloud Technologies AWS, GCP
+
+XP.7,10
+- Middleware
+
+Web Technologies JDK 1.4, 1.6, 1.7,1.8 HTML, XML
+
+- Weblogic Application Server 12c/11g/10g, Jboss 5x/6x, Apache- HTTP Server 2.x, Tomcat 5x/6x.
+
+WORK EXPERIENCE
+---------------
+
+01/1 to 01/2018 DevOps Engineer Paypal - District Of Columbia, DC
+
+- Installed, configured and administered of Oracle Weblogic 12c/11g/10x, Jboss EAP 6x servers in Dev, Test, Stage, and Production Environments.
+
+Installed Jboss EAP 7.x/6.x environment across multiple machines with domain and standalone architecture.
+Worked with Docker file to build docker images and delivered micro services applications successfully.
+
+Created build and deployment jobs in Jenkins for various components.
+
+Assisted in several Load tests and gave suggestions at OS level tuning, also configured Weblogic and Jboss
+Application servers to produce the best results.
+
+Monitored JVM Heap Size, JMS Messages in the Destination queues in the production environment.
+
+Dealt with troubleshooting issues like Server hang, keep alive threads, HTTP threads, Application Deadlock, Perm
+Gen space, Out of Memory Issue, High memory usage and High CPU.
+
+Deployed and configured GIT repositories with branching, forks, tagging, and notifications.
+
+Built deployment pipelines using Jenkins as a front end for continuous deployment to local staging and test
+environments and to production environments on demand, using GIT Deployed java code into application servers
+
+in an agile continuous integration environment according to release plan.
+Configured monitoring on different tools like Nagios, and Dynatrace Knowledge of Dynatrace Architecture by
+setting up collectors, servers and agents Setup Dynatrace monitoring by installing agents, on JVM, web-server: and
+
+configured custom reports & dashboards based on team requirements.
+
+Upgraded Dynatrace monitoring tool from 6.3 to 6.5 and from 6.5 to 7 Configured DynaTrace agents in Web
+
+Logic, JBoss, Apache Extensively used DynaTrace to capture various metrics and configured more than 250
+
+servers and JVM'S into DynaTrace to capture CPU, Memory and Threshold of all the servers.
+
+Extensively used Load Runner and DynaTrace (DT) testing tool and SaaS to various test analysis results Being a
+
+part of production team provided 24x7 supports for all the environments.
+
+Deployed EJB's, SOAP and REST based web service applications across different farms in production.
+
+Configured database Connection Pools and Data Sources (Multi, Generic, and GridLink) to connect to Oracle 10g/
+
+11g, Oracle RAC.
+
+Configured JMS servers, connection factories, topics and Queues for various applications.
+
+Created Chef Recipe's to automate tasks like server recycle. weblogic domain and Apache http server.
+
+Created end to end automation of Continuous Deployment and Configuration Management by using Jenkins, Git
+
+Used Dynatrace to monitor business transaction with backbends like database, web services and JMS and identified
+
+issues, bottlenecks and errors.
+
+- Supported 24x7 On-call rotation and handled production issues.
+
+- Environment:- Weblogic 12c/11g/10g, Jboss 5.x/6x EAP, CentOS, RHEL 6/7, Jrockit/JDK 1.5x/1.6x/1.7x, Apache 2.2.x HTTP, Oracle 10g/11g RAC, Remedy Ticketing system 6.1, Remedy Client , Jenkins, Docker,kubemets.
+
+07/2012 to 07/2014 Weblogic Administrator Deloitte & Touche L.L.P. - India
+
+- Monitored and managed weblogic servers on UNIX platform.
+
+- Tracked code pushes, server bounces, CRs using an effective internal tracker tool.
+
+- Installed and configured weblogic 10.3.5 software on testing environment.
+
+- Automated deployment using shell scripting on test servers.
+
+- Tracked various defects and identified bugs.
+
+- Passed defects to the respective development team.
+
+- Ensured closure of the defects.
+
+- Automated Cron Jobs using Shell-Scripts and enabled/disabled various jobs.
+
+- Deployed and administered applications and validated test case scenarios to verify the deployment as successful.
+
+- Built weblogic environments on test servers.
+
+Managed the Maven Repository/Archiva using Nexus tool and used the same to share the snapshots and releases of
+internal projects.
+
+- Created tickets in AOTS tool and resolved various issues and tracked those using the tool.
+
+- Created CRs for maintenances such as server upgrade, db upgrade, deployments etc.
+
+- Responded to escalated client issues in a timely and effective manner.
+
+- Understand the internal escalation procedures to effectively escalate critical and complex issues when necessary.
+
+- Performed network connectivity and troubleshooting between different UNIX servers.
+
+- Created Incident Email notifications during application outages.
+
+- Maintained necessary back-up of the important files and documented Linux scripts for future reference.
+
+- Developed unix shell scripts to monitor file systems and automated deployment scripts Reviewed and Maintain logs of production failures and resolutions.
+
+- Effectively worked on server installation using AJP (Application jump point) for remote execution of commands.
+
+- Performed Server thread dumps and heap dumps to analyze the redundant state of servers.
+
+- Configured data sources/JDBC connection pools on weblogic.
+
+- Worked on linux environment in setting up weblogic servers.
+
+- Identified root causes for the outages and applied appropriate fixes of application.
+
+- Documented the issues, migration and upgraded patches for Weblogic servers and web servers.
+
+- Involved with the development team in trouble shooting and fixing day-to-day problems of the applications in production environment.
+
+- Created cron jobs for timely running of scripts.
+
+- Developed Error Handling, Error Tracking and Error Notification Module for entire project.
+
+- Providing performance and system statistics like High Memory usage and analyzing the memory leaks and bottlenecks using Wily Introscope.
+
+- Installation of SSL certificates for the Weblogic clustered environment.
+
+- Provided on call support to wireless/wireline/call center applications.
+
+- Environment: Solaris, Weblogic 10.3.5, JDK 1.6.27,AOTS, Teamsite, Apache, SQL, AJP, UNIX, Linux, Ticket management, Change management Vedisoft Bhopal.
+
+08/2011 to 06/2012 Jr. Software Engineer
+
+- Learned Web Application Development technologies such as JIEE,HTML,CSS,Oracle Database Designed the front end and Back end of the Application Connected the Application with an Oracle Database Deployed the Application on WebLogic Server running on Linux Environment - JDK 1.6,Linux RHEL, WebLogic 11g, SQL
+
+Developer.
+Epucation
+May 2016 Master of Science: Computer Science University of Florida Computer Science
+June 2011 Bachelor of Engineering: Electronics and Communication Engineering RGIU - Bhopal
+Electronics and Communication Engineering
+
+SKILLS
+------
+
+Apache 2.2.x, Apache, Configuration Management, DNS, EJB, XML, GCP, java, JMS, JBoss, Jboss 5.x, Jboss 5, JDBC, Linux, Middleware,
+Oracle, Shell-Scripts, shell scripting, Sun Solaris9.x, Solaris, SQL, SSL, Tomcat 5, UNIX, unix shell scripts, UNIX Shell Scripting, Web
+Application Development, web-server, web servers, WebLogic
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

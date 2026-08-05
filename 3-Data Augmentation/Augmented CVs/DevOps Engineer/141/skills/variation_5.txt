@@ -1,0 +1,138 @@
+SUMMARY
+-------
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+
+driving increased sales, improving buying experience and elevating company profile with target market.
+
+SKILLS
+------
+- Linux system administration (Ubuntu, RHEL) e Ansible
+- Kubernetes © Terraform
+- Docker © GitHub
+- Amazon Web Services (AWS) e Nagios
+- Google Cloud Platform (GCP) ¢ Prometheus
+- Azure
+
+WORK EXPERIENCE
+---------------
+
+09/2021 to Current
+
+03/2019 to 09/2021
+
+04/2018 to 02/2019
+
+DevOps Engineer Blackbaud - Austin, TX
+
+- Used Ansible and Terraform to automate infrastructure provisioning and configuration.
+
+- Utilized Terraform to manage cloud infrastructure on GCP.
+
+Developed and implemented automation tools for Continuous Integration and Continuous Delivery (CI/CD)
+pipelines using Terraform, Git, GitHub actions, ArgoCD.
+
+Deployed Python and Java applications on different occasions using Ansible, Terraform and Helm to Kubermetes.
+Employed Kubernetes (GKE) to create and maintain highly available and scalable systems.
+
+Upgraded Kubemetes (GKE) clusters of Dev/QA/Prod environments to newer versions.
+
+Troubleshooted and resolved issues with Kubernetes (GKE) clusters and workloads, including networking, storage,
+and resource constraints.
+
+Established and managed containerization utilizing Docker and Kubemetes (GKE).
+
+Automating daily routine tasks to improve productivity and reduce manual intervention with Bash (Shell)
+programming language.
+
+Designed, implemented, and managed monitoring and alerting systems using tools such as Prometheus, and
+Grafana.
+
+Developed and maintained infrastructure as Terraform code (IaC) templates and modules.
+
+Set up Nginx ingress controller to route the calls to the different applications within the Kubemetes cluster and
+externally for different end users.
+
+Implemented Bluegreen Deployment and Canary Deployment, in the production.
+
+Managed Kubernetes cluster in the rollback and rollouts methods in the deployment strategies.
+
+Built and maintained container images using Docker.
+
+Integrated Kubernetes with Hashicorp Vault to inject configurations at runtime for each service using init, config
+
+sidecars and persistent volume sharing between app and config containers.
+
+Established CI/CD pipelines using GitHub Actions, enabling the creation and management of development
+environments for code builds and testing.
+
+Developed, deployed and managed applications using Ansible playbooks.
+
+Worked on configuring the monitoring and alerting tools according to the requirement like Prometheus, Grafana,
+setting up alerts and deployed multiple dashboards for individual applications in Kubemetes (GCP)
+
+- Environment: GCP (API GKE, Compute engine, Bucket, SQL, UptimeCheck, DNS, IAM, Artifact Registry), Terraform, Docker, Kubernetes, HELM, Ansible, Linux, GIT, GitHub Actions, ArgoCD, Maven, Python, Kanban board, Helm, Prometheus, Grafana, Nexus, Visual Studio Code.
+
+Cloud Engineer Fis - Ross, OH
+
+- Developed and maintained scalable, secure, and highly available cloud-based systems, services, and applications in AWS.
+
+- Utilized Ansible playbooks to perform tasks on remote devices, ensuring efficient and automated deployment and configuration management.
+
+- Set up various AWS services such as EC2, $3, VPCs, Route53, ELB, ASG using Terraform, ensuring the infrastructure was defined as code and easily reproducible.
+
+- Managed and monitored the cloud infrastructure on AWS, including EC2, $3, and RDS, and implemented regular backups to ensure data integrity and availability.
+
+- Collaborated closely with development teams to understand their requirements and provide them with the necessary cloud infrastructure and services.
+
+- Resolved technical issues related to cloud-based systems, services, and applications, using troubleshooting skills and applying best practices.
+
+- Effectively communicated updates and progress on cloud infrastructure and services to both technical and non- technical stakeholders.
+
+- Implemented Amazon EC2 instances, security groups, and databases in AWS, configuring automated backups to $3 buckets for disaster recovery.
+
+- Utilized networking tools such as SSH, Telnet, and ping to troubleshoot issues and maintained DNS records using Route53.
+
+- Created and managed $3 buckets and implemented bucket policies to ensure secure and efficient data storage.
+
+- Configured CloudWatch alerts on instances and utilized metrics and notifications to trigger auto-scaling launch configurations.
+
+- Environment: AWS (EC2, ASG, LB, EBS, VPC, $3, Route53, CloudWatch, CloudTrail, RDS, MySQL, DynamoDB, Cost Explorer), Terraform, Ansible, Linux, Git.
+
+Linux Administrator Teledyne Technologies - Kiln, MS
+
+- Installed, configured, and maintained server racks, networking equipment, and storage devices
+
+- Installed, configured and supported RHEL and AIX servers
+
+- Managed daily system administration cases and tickets using cloud based ticketing system ServiceNow
+
+- Created incident tickets and RFC according to client requirements per priority
+
+- Updated and recompiled the kemel of servers
+
+- Setup conference and technical bridge calls for our customers and off shores using Crisis Connect
+
+- Experienced in monitoring tools/software like Zenoss, Splunk, and Nagios
+
+- Coordinated with the Network, Storage and Application teams on server provisions (HP ProLiant, Cisco UCS B200 M2)
+
+- Created TAC case with Cisco for replacement or troubleshooting Cisco products (UCS) « Basic Infosec stuff like unlock user accounts, permission etc
+
+- Job Scheduling using cron and Bash scripting.
+
+EDUCATION AND TRAINING
+
+06/2012
+
+Bachelor of Law Kyrgyz-Russian Slavic University - Kyrgyzstan
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

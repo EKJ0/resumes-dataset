@@ -1,0 +1,165 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+8 years of Overall IT experience in Design and Development of Web, Desktop, Service and Cloud based
+applications for small and large enterprise.
+
+4 years hands on experience in Amazon Web Servers including, EC2 . VPC, S3, EBS, ELB, CloudFront, IAM,
+RDS, CLoud Watch, Aurora.
+
+Good experience of systems Administrator and DevOps engineer with solid experience in Compute, Network,
+Storage, Automation, Cloud and Virtualization areas in IT.
+
+1 Project experience of designing and architect serverless web application using AWS Lambda, API, Gateway,
+Dynamo Db and Security Token Service(STS).
+
+Hands on experience of BASH Shell scripting on Ubuntu Linux environment with Amazon AWS CLI.
+
+Good understanding of Web application deployment and maintenance of IIS 5.0 and 7.0, Apache on Amazon
+Web Service(AWS).
+
+Demonstrated good understanding of AWS data migration tools and technologies including storage gateway.
+
+database Migration and Import Export services.
+
+Good understanding of networking concepts including TCP. VPN, NAT, Bastion, Host, Subnet, DNS, Gateways
+and Routers.
+
+Excellent knowledge of source control management concepts such as; Branching, Merging, Labeling/Tagging
+and integration, with tools like GIT and TFS.
+
+Good knowledge of full Software Development life cycle(SDLC) stages in waterfall and Agile environment.
+Good at Relational database design, stored procedure, triggers, user-defined functions, SQL jobs.
+
+Active team player, self-motivated individual with good communication skills, fast learner and a good listener.
+
+DevOps Tools: Chef, Puppet, Jenkins, Nginx,Vagrant, Network protocols: TCP/IP. SMTP. SNMP. DNS,
+Docker. DHCP.ICMP.FTP, TELNET, SSH, UDP. RIP. OSPF.
+Operating Systems: Red Hat, Linux, Solaris, Ubuntu, Database: Oracle 10.x, MySQL, SQL server.
+
+Open SUSE, Fedora, CentOS, Windows(XP.-Vista, | Languages: Linux Shell Scripting, Perl, Python, Ruby,
+
+7,8,10) Java, C++ Web/Application Servers: Tomcat, Apache, Web logic, Project planning
+
+Web Sphere. Virtualization technologies Effective communication Analytical Skills.
+
+Meeting participation Cloud Platforms: AWS, VMware ESXi, Microsoft Azure, Rackspace, Open Stack.
+
+DEVOPS ENGINEER 05/2019 to CURRENT Zoom | Denver, CO
+
+Managing network security using load balancer, Autoscaling,Security groups and NACLS.
+
+Support current migration of Data center to Amazon Cloud.
+
+Document system configurations, instance, OS, and AMI build practices, backup procedures, troubleshooting
+guides and keep infrastructure and architecture drawings with changes.
+
+Executes region to region data migration using Jenkins and Nginx.
+
+Utilize AWS CLI to automate backup of ephemeral data stores to S3 buckets, EBS and create nightly AMIs for
+mission critical production servers as backups.
+
+Use Puppet and Chef automation tools for configuration management in different systems.
+
+Responsible for maintaining 4-5 different Testing/QA environments and erection of the PROD environment in
+AWS.
+
+Monitoring Live traffic, logs, Memory utilization and various other factors which are important for deployment.
+Support of Applications like Apache Tomcat and Java based applications running on Linux machines for
+multiple clients.
+
+Installation, configuration and administration of Linux(Red Hat, Centos) Sun Solaris and HP-UX Servers
+Manage network using security groups,NACLS, and IAM. Use Amazon RD and MySQL to perform basic
+database administration.
+
+Hands on experience in Azure with key services like VM, VNet, NSG, Load Balancer, Azure AD and Storage
+Account
+
+AW) CLOUD ADMINISTRATOR 01/2017 to 04/2019 Carfax, Inc. | Spring Valley, NY
+
+Performed application server built in EC2 environment and monitoring them using cloud watch.
+Created Private networks and sub-networks bringing instances under them based on requirement.
+Created security groups for both individual instances and for group instances under a network.
+
+Built DNS system in EC2 and managed all DNS related tasks as well as managing the configuration of the
+applications using chef.
+
+Maintained all development tools and infrastructure and ensure availability for a 24/7 development cycle with
+teams.
+
+Launched Amazon EC2 Cloud instances using Amazon images (Linux/Ubuntu) and configuring launched
+instances with respect to specific applications.
+
+Created Snapshots and amazon machine images(AMls) of the instances for backup and created clone
+instances.
+
+Performed Server configuration management via Puppet, Transparent Data Encryption (TDE) implementation.
+
+Database Encryption for mirrored Database, SQL Web Replication implementation.
+
+Migrated over 2500 Applications with 3000+ Databases.
+
+Setting up scalability for application server using command line interface for setting up and administering
+DNS system in AWS using Route53, managing users and groups using the Amazon identity and access
+
+management(IAM).
+
+Install and configure Amazon command line interface tools to perform migrations of virtual servers from
+Ubuntu open VZ physical servers to AWS EC2.
+
+Developed automation scripts using EC2 commands. Designing SQL server reporting Services (SSRS) High
+Availability.
+
+AW) CLOUD ENGINEER 01/2015 to 12/2016 United Airlines Inc. | City, STATE
+
+Worked as team member within the team of cloud engineers and my responsibilities included: Set up &
+Managed windows servers on Amazon using EC2, EBS, ELB, SSL, Security Groups, RDS and IAM.
+
+Managed VPC, Subnets, Make Connection between different Availability Zones; Blocking suspicious IP/
+Subnets via ACL.
+
+Managed Content Delivery Network on Amazon Cloud Front(Origin Path: Server/ S3) to improve site
+performance.
+
+Created and Managed buckets on S3 and store Database and logs backup, upload images for CDN server.
+Setup databases on Amazon RDS or EC2 instances as per requirement.
+
+Built servers using AWS,|Importing Volumes, Launching EC2, RDS, Creating security groups, Auto-scaling,
+load balancers and SSH into the instance using Putty,Git Bash in a defined virtual private connection.
+
+Worked with IAM service creating new IAM users, groups, defined roles, Policies and Identity providers.
+Created alarms and trigger points in Cloudwatch based on thresholds and monitored logs via metric filters,
+utilized AWS Cloudwatch to monitor the performance environment instances for operational and performance
+metrics during load testing.
+
+Managed AMI/Snapshots/Volumes, Upgrade/downgrade AWS resources(CPU,Memory.EBS)
+
+Created POCs and architecture for upcoming engagements.
+
+Bachelor of Science | Business Management
+
+Lagos State University, Overseas
+
+ME | International Business
+
+University of Lagos, Overseas
+
+AWS Solutions Associate AWS Cloud Practitioner AWS DevOps Associate

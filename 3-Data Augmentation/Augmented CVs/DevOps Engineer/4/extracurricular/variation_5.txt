@@ -1,0 +1,169 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+SUMMARY
+-------
+DevOps Engineer Cloud professional with 6+ years of experience in various roles as Cloud / DevOps / Production Support / Build
+and Release engineer with top-notch experience in automating, configuring and implementing services on cloud environments and
+
+data centers. Experienced in CI/CD tools, namely Jenkins, Docker, Kubernetes Azure DevOps Services as well as Linux/Windows
+Administration and in configuration management and infrastructure as a code tool, namely, Ansible, and Terraform. Extremely
+
+passionate about Cloud computing and its future with extensive experience on Microsoft Azure Cloud.
+
+EDUCATION
+---------
+
+Bachelor of Science: Computer Science, 05/2016 Leeds Beckett University - West Yorkshire, England
+
+SKILLS
+------
+
+Cloud Technologies: Microsoft Azure Cloud, Amazon Web Monitoring Tools: Azure Monitor, Azure Application
+
+Services (AWS) Insights, and Log Analytics Workspace,Splunk, Prometheus,
+- Scripting: Bash, PowerShell, YAML, Python, HCL, Groovy Salesforce, Grafana, CloudTrail, Dynatrace e¢ Source Control Tools: GitHub, Atlassian Bitbucket, Azure ¢ Operating Systems: Linux (RHEL, CentOS, Ubuntu), and
+Repos, AWS Code Commit Windows (XP/7/8/10/11/2016 Datacenter/2019 server), MacOS:
+- CI/CD Tools: Jenkins, CircleCi, Bamboo, Azure DevOps 10.8 Lion - 10.15 Catalina, 11 Big Sur Pipelines, AWS CodePipeline * Web Servers: Nginx, Apache, Tomcat, WebSphere, JBoss,
+- Artifact Repository Management Tools: Nexus, Azure NodeJS DevOps Artifacts, AWS CodeArtifact, JFrog * Middleware Technologies: Apache Tomcat, Jboss/ Wildfly,
+- Automation Tools: Maven, MSBuild, Gradle, ANT, Ansible, and WebLogic Chef, Terraform, Kickstart, Kubernetes * Databases: MS SQL Server, Oracle 12c/19c, Postgresql,
+- Containerization/Orchestration Tools: Docker, and Cosmos DB, MongoDB, DB2 Kubernetes ¢ Networking Protocol: TCP/IP, VPC, FIP/SFTP, SMTP, HTTP/
+
+HTTPS, NDS, DHCP, NFS, WAN Bug Tracking Tools: Rally, Jira, and Azure Boards
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 10/2020 to Current Radius Ai- - Chattanooga, TN
+
+Experienced in migrating three applications from on-prem to Azure Cloud
+
+Participated with the dev team as well as architects’ team to identify necessary Azure resources and automate their provisioning
+Setup a POC Oracle 19c database in Azure VMs for potential migration of one of the applications from on-prem to Azure Cloud
+Created and set up Postgres DB in Azure Cloud
+
+Automated the monthly golden image upgrade process for two of the applications across all its environments
+
+Partnering as an administrator on Microsoft Azure and part of the DevOps Team for internal projects automation and build
+configuration management
+
+Involved in configuring virtual machines, storage accounts, and other Azure resources
+
+Provisioned servers through Terraform configuration files
+
+Experienced in writing Terraform files and reusable modules to setup cloud Resources
+
+Developed YAML Scripts for Azure Pipeline automation purposes
+
+Provisioned custom images for application and web servers using Packer and Azure DevOps Pipelines
+
+Responsible for build and deployment (CI/CD) of 10 microservices and 24 Java applications into Kubernetes, WebLogic and Jboss
+application servers
+
+Used Jenkins to drive all Microservices builds out to the Docker Central, then continuous deployment to Kubernetes pods using
+Ansible for creating/ updating pods, config Maps, deployments
+
+Responsible for documenting deployment plans and change release plans for changes going to Production environments
+Created and managed Azure Container Registry to store private Docker Images, which are deployed using Azure Pipelines to
+automate deployments
+
+Created Docker Images using a Docker file
+
+Worked on Docker container snapshots, removing images and managing Docker Volumes and was experienced with the Docker
+central repository
+
+Worked with development team and key stakeholders to create plan for monitoring Azure and On-Prem Resources
+
+Utilized Azure Monitor to collect metrics and logs
+
+Configured Monitor to track performance and maintain security
+
+Used Kibana and Grafana for monitoring and logging with Kubernetes on the on-prem side
+
+Responsible for mitigating cloud inspect, software and configuration vulnerabilities across three applications hosted in Azure
+Cloud
+
+Responsible for mitigating and documenting device and application vulnerabilities across four On-Prem applications
+
+Utilized Azure Boards as a ticket tracking and workflow tool.
+
+DevOps Engineer, 02/2018 to 09/2020 Radius Ai - City, State
+
+Managed Amazon Web Services not limited to IAM, EC2, $3, RDS, EBS, VPC, ELB, Cloud Watch, SNS
+
+Used LAM to create new accounts, roles, and groups
+
+Deployed and configured different types of EC2 instances
+
+Created $3 buckets and maintained and utilized the policy management of $3 buckets and Glacier for storage and backup on
+AWS
+
+Implemented and maintained the monitoring and alerting of production and corporate servers/storage using AWS CloudWatch
+Configure, monitor, and automate Amazon Web Services as well as being involved in deploying the content cloud platform on
+Amazon Web Services using EC2, $3, and EBS
+
+Worked on the real time data using Amazon Kinesis stream and triggered with AWS Lambda
+
+Created monitors, alarms, and notifications for EC2 hosts using CloudWatch
+
+Patching environments with the latest updates of OS on the servers to keep the servers healthy
+
+Involved in an automation project, to move the manual deployments to automation using AWS CLI
+
+Developed Terraform templates to create load balancers (ELB), EC2 instances with auto scaling, monitoring on the fly for
+different environments such as QA, SIT, stage which will run on different VPCs
+
+Developed Terraform modules for automating the provisioning of the AWS infrastructure
+
+Integrated defect tracking tool JIRA with Jenkins CI server for identifying, logging, tracking & documenting defects/issues in
+real-time
+
+Worked on Setting up Chef Server/Workstation and Bootstrapping Nodes
+
+Provisioned the highly available EC2 Instances using Terraform and cloud formation and wrote new plugins to support new
+functionality in Terraform
+
+Created Jenkins job to build the Artifacts using maven, deploy the Terraform templates to create the stack
+
+Worked on Kubernetes to manage containerized applications using its nodes, Config Maps, selector services and deployed
+application containers as Pods
+
+Managed Clusters using Kubernetes and worked on creating pods, replication controllers, services, deployments, labels, and
+health checks
+
+Designed and worked with the team to implement ELK (elastic search, log stash, and Kibana) Stack on AWS
+
+Developed Python scripts for automating the generation of weekly reports.
+
+Net Developer, 04/2016 to 01/2018 Cognizant Technology Solutions - City, State
+
+Collaborate with project development team and business team during the development lifecycle
+
+Involved in the System Analysis, Functional specification documents and used ASP.NET, C?, JavaScript and jQuery to design
+and develop the site and web based solutions
+
+Prepared design and installation documents for the system and worked on the process improvement of core modules/
+functionalities to make process more effective
+
+Developed MVC pages, Layout pages, user controls, WCF, Web APIs, and DLLs using ASP.NET and jQuery
+
+Used third party components ABCPDF for handling various I9 Form data collection requirement
+
+Involved in development of data access, business and application layer using LINQ, C#.NET and Asp.NET
+
+Designed, developed and enhanced the application in .Net Framework
+
+Participated in writing complex SQL Statements, Views and Stored Procedures, Indexes to validate data and ensure system
+integrity and security written LINQ functions for data access
+
+Version controlled by using Microsoft TFS and handled the release management for the project in different environments
+Involved in the code reviews, test case reviews and gave feedback on various design aspects and implemented and tested the
+security features at the application/services/database part
+
+Involved in Unit Testing, Documentation, Support for entire application, documented the User Manual | Page
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

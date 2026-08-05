@@ -1,0 +1,79 @@
+Melesia Molles
+
+DevOps Engineer
+
+PROFILE
+-------
+
+As a DevOps Engineer with over 1 year of experience, | have a proven
+
+track record of building and deploying cloud infrastructure, automating development processes, and providing support for production systems. |
+have strong technical skills in DevOps automation tools such as Jenkins, Chef, and Ansible. My ability to coordinate and collaborate with software
+engineers and other stakeholders is also a key strength, | have experience working with a variety of operating systems, such as Linux and Windows,
+and development languages, such as Ruby, Python, and JavaScript. | have a comprehensive understanding of cloud computing technologies such as AWS,
+GCP, and Azure. | am also well-versed in containerization technologies such as Docker and Kubernetes, | am confident in my ability to drive DevOps success
+and contribute to business growth.
+
+WORK EXPERIENCE
+---------------
+
+Senior DevOps Engineer at Amazon Web Services, AZ
+Dec 2022 - Present
+- Improved AWS infrastructure scalability and availability by 85%, reducing downtime and increasing customer satisfaction.
+- Automated the deployment process of new applications to AWS, reducing deployment time from 1 week to 2 days.
+- Developed an automated platform for monitoring and alerting on application performance, resulting in a 50% decrease in response time.
+- Implemented a custom logging system with AWS CloudWatch, enabling real-time monitoring and debugging of applications with improved accuracy.
+
+DevOps Engineer at Microsoft Azure, AZ
+
+Ju Nov
+
+Developed and implemented an automated deployment pipeline for Azure Kubernetes Service, resulting in a 20% decrease in deployment
+time.
+
+- Improved system reliability by designing and deploying a monitoring and alerting system using Azure Application Insights, resulting in a 25% reduction in downtime.
+
+Streamlined the application development process by developing a continuous integration and continuous deployment (CI/CD) pipeline on
+Azure DevOps, which resulted in a 40% reduction in development time.
+Optimized infrastructure cost by leveraging Azure Cost Management tools, resulting in a 30% savings in monthly operational costs.
+
+Certificates
+
+Certified Kubernetes Administrator (CKA)
+
+AWS Certified DevOps Engineer - Professional
+
+(324) 588-9081 9 Phoenix, AZ
+
+ca
+
+EDUCATION
+---------
+
+Bachelor of Science in DevOps Engineering at Arizona State University, AZ
+
+Aug 2017 - May 2022
+
+Relevant Coursework: Systems Administration, Networks and Security, Automation and Orchestration, Cloud Computing,
+Software Development, and Data Management.
+
+Links
+
+Cloud Computing
+
+Infrastructure as Code
+
+Continuous integration/Delivery
+
+Monitoring & Logging
+
+Scripting (e.g., Bash, Python)
+
+Configuration Management (e.g., Chef,
+
+Puppet)
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

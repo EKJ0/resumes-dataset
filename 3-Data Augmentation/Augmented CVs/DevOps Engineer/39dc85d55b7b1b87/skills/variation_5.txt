@@ -1,0 +1,74 @@
+LONNY HEANEY
+
+DevOps Engineer
+
+Determined DevOps Engineer with 5+ years’ experience in developing, deploying and managing large-scale cloud
+infrastructure. Expertise in automation and orchestration toals such as Kubernetes, Docker, Terraform, Ansible &
+Jenkins to manage microservices-based applications. At XYZ Inc_ implemented CLICD pipelines resulting in a 16%
+decrease of server downtime caused by manual errors. Aiming to leverage my skillset at ABC Corp for the successful
+development of cloud projects.
+
+CONTACT
+-------
+
+lonnycheaney@gmailcom 123-702-2989 _finkedin.com/in/lonny-heaney
+
+Employment
+
+Employer A | DevOps Engineer | Cary |01/2018 - Present
+
+Coordinated multiple development teams and system administrators to build, deploy and maintain over 200
+cloud-based web applications, resulting in a 20% increase in overall efficiency.
+
+Tested the performance of various software components such as databases, networks & servers; identified areas
+for optimization to improve application speed by 30%.
+
+Resourcefully automated complex deployment processes with Bash scripting and Python coding; eliminated
+manual errors during deployments while reducing time spent on deplayment tasks by 405.
+
+Impraved configuration management toals like Puppet, Chef & Ansible; streamlined infrastructure
+setup/maintenance process across 10+ production environments saving $10K yearly in labor costs.
+Streamlined collaboration between DevOps engineers through Git version control systems: reduced debugging
+times from 2 hours per incident down to 15 minutes on average.
+
+Employer 8 | DevOps Engineer | San Bernardino | 03/2012 - 12/2017
+
+Developed and implemented automated deployment processes, resulting in 2 30% reduction of release time and
+errors.
+
+Automated configuration management with Chef, Puppet & Ansible to ensure all servers were consistently
+configured to the same standards,
+
+Optimized performance across cloud infrastructure by 20%, reducing latency issues for customers and increasing
+scalability during peak times.
+
+Secured network environment through firewall configurations, patching systems regularly, monitoring user access
+and implementing intrusion detection pratocals; successfully prevented 4 major data breaches aver 2 years period
+of employment.
+
+Diligently monitored system health metrics such as CPU utilization levels and memory usage; identified potential
+issues before they became critical problems requiring manual intervention or troubleshooting workfloves created
+by team members.
+
+EDUCATION
+---------
+
+Educational Institution XYZ | Bachelor of Science in Computer Science | 11/2011
+
+SKILLS
+------
+
+Linux sat
+
+Java ‘Amazon Web Services MySQL HT™L
+
+CERTIFICATIONS
+--------------
+
+AWS Certified DevOps Engineer | Amazon Web Services
+f05/2017
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

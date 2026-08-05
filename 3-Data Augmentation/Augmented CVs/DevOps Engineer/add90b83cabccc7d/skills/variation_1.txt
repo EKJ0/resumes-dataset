@@ -1,0 +1,48 @@
+Osmara Neste
+
+DevOps Engineer
+
+& Profile
+
+Results-driven DevOps Engineer with 2 years of experience in designing, implementing, and optimizing scalable and reliable infrastructure
+solutions. Proficient in continuous integration and deployment strategies, leveraging automation tools and cloud technologies. Adept
+at collaborating with cross-functional teams to enhance software development and operational efficiency. Dedicated to continuously
+improving processes and fostering a culture of innovation and collaboration.
+
+i Employment History
+
+DevOps Engineer at DevOpsGroup, OK
+Feb 2023 - Present
+
+- Reduced deployment time by 50%: Implemented a new Cl/CD pipeline using Jenkins and Docker, which streamlined the deployment process and significantly reduced deployment time from 2 hours to 1 hour. Increased system uptime to 99.9%: Collaborated with the development and operations teams to identify and resolve bottlenecks in the infrastructure, ultimately improving system uptime by 0.5% over a 6-month period. Optimized cloud infrastructure costs by 30%: Conducted a thorough analysis of cloud resource usage and suggested several optimizations, such as using auto-scaling groups and reserved instances, resulting in 30% cost reduction for the company. Enhanced code quality and reduced error rates by 40%: Introduced automated testing and monitoring tools, such as Selenium and ELK stack, which led to better code quality and a significant reduction in the number of production errors. Junior DevOps Engineer at Paycom, OK
+Aug 2021 - Dec 2022
+
+- Implemented a new CI/CD pipeline, reducing deployment times by 35% and increasing development team efficiency by 20%.
+
+- Optimized cloud infrastructure, resulting in a 25% reduction in monthly costs and improving system performance by 15%.
+
+- Automated manual processes for system monitoring and maintenance, leading to a 50% reduction in downtime and a 30% increase in overall system reliability.
+
+- Collaborated on a team project to migrate legacy applications to a containerized environment, reducing deployment complexity by 40% and improving scalability by 50%.
+
+® Education
+
+Bachelor of Science in Computer Engineering with a focus on DevOps at Oklahoma State University, Stillwater, OK
+
+Sep 2017 - May 2021
+
+Relevant Coursework: Software Engineering, Computer Networks, Operating Systems, Cloud Computing, Distributed Systems, Web
+Development, Cybersecurity, Data Structures, Algorithms, Database Management, and Agile Methodologies.
+
+Details
+
+osmara.neste@gmail.com
+(908) 585-4081
+
+123 Elm Street, Oklahoma City, OK
+73102
+
+Building and programming Raspberry Pi projects Exploring new containerization technologies like Docker and
+Kubernetes
+
+Participating in open-source software development and communities

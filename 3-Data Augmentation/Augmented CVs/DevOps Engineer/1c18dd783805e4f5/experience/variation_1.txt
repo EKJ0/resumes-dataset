@@ -1,0 +1,84 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+123 Anywhere St., Any City
+hello@reallygreatsite.com @reallygreatsite
++123-456-7890
+
+ceod
+
+SKILLS
+------
+
+- knowledge and hand-on experience with operating systems (maintenance, troubleshooting)
+
+- strong ops skills and support mindset
+
+- deep understanding of modern monitoring concepts
+
+- experience with Databases
+
+EDUCATION
+---------
+
+MASTER'S DEGREE University Name
+2018 - 2020
+
+BACHELOR'S DEGREE University Name
+2016 - 2018
+
+CERTIFICATE TITLE Company Name
+2020
+
+LANGUAGES
+
+English native language German. speaking, writing Chinese speaking, reading
+
+PROFILE
+-------
+
+| am a strong, skillful, and self-organized DevOps engineer with 5 years experience of developing infrastructure-related components platform,
+optimizing the existing environments. Have strong scripting knowledge. Good understanding of Infrastructure-as-a-Code
+concepts.
+
+EXPERIENCES
+
+2021 Ginyard International Co.
+Junior software developer
+
+- set-up, maintenance and ongoing development of continuous build/ integration infrastructure
+
+- developing pipeline for computer vision applications
+
+- optimize the existing environments/structure
+
+- establish and strengthen the security notification
+
+- participate in technical discussions to aid system design, analysis, and troubleshooting
+
+2022 = Larana. Inc.
+Senior Devops engineer
+
+- Deliver the project from design to testing, including new programs, enhancements, and modifications
+
+- Monitor the performance and test the server
+
+- Participate in estimation and planning sessions
+
+- Work closely with the Product team to deliver quality features in high-quality code and best practices
+
+- Drive major architectural changes as we scale to improve our engineering velocity
+
+REFERENCES
+----------
+
+Samira Hadid
+
+Position | Company Name
+hello@reallygreatsite.com
++123-456-7890
+
+Samira Hadid
+
+Position | Company Name
+hello@reallygreatsite.com
++123-456-7890

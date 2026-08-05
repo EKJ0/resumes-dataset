@@ -1,0 +1,216 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Bilingual DevOps Engineer with background designing, testing and implementing infrastructure and applications. Talented
+
+performer with over 5+ years of experience using source control tools to identify and fix bugs in code. Consistent team player with
+
+exemplary multitasking skills.
+
+SKILLS
+------
+- Amazon Web Services ¢ Docker containerization.
+- Source and Version Control: Git, Github © Monitoring and analytics.
+- Continuous Integration servers. ¢ CI/CD pipelines.
+
+- Deployment automation.
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 02/2019 to Current
+
+Livongo Health, Inc. - Washington, DC
+
+Highly motivated and committed DevOps Engineer experienced in Automating, Configuring and deploying instances on AWS and
+Data centers.
+
+Performed version control administration using CVS.
+
+Used Jenkins for Continuous Integration and deployment in JBoss Application Server.
+
+Worked with the Architects on SDLC process being the owner of post development environments.
+
+Experience in using bug tracking systems like JIRA, Remedy, HP, and QualityCenter.
+
+Configured JDBC Connection Pools/Multi Pools/Data Sources with backend Oracle 10g/11g RAC DB’s.
+
+Strong experience in configuring and administering Connection Pools for JDBC connections and JMS Queues in WebLogic and JBoss
+EAP.
+
+Performed Load/Functional testing using Mercury Load runner and HP QTP.
+
+Hands on experience with using Linux, Amazon Web Services, and supporting AWS infrastructure.
+
+Experience with orchestration template technologies such as, AWS Cloud Formation, AWS OpsWork.
+
+Assign a built-in policy to an existing Resource Group by using ARM template.
+
+Provision ARM template for Server managed by Desired State Configuration service.
+
+Experience with configuration management and automation tools such as, Chef, Puppet, and Ansible.
+
+Experience with server virtualization technology, VMWare.
+
+DevOps Engineer, 01/2018 to 01/2019
+
+Livongo Health, Inc. - Austin, TX
+
+Created and maintained continuous integration (CI) using tools Jenkins/Maven over diff environments to facilitate an agile
+development process which is automated and repeatable enabling teams to safely
+
+deploy code many times a day while ensuring operational best practices are supported.
+
+Design and document CI/CD tools configuration management.
+
+Responsible for orchestrating CI/CD processes by responding to Git triggers, human input, and dependency chains and environment
+setup.
+
+Build and Deployment CI/CD Pipelines.
+
+Performed SVN to GIT/Bit Bucket migration and managed branching strategies using GIT flow workflow.
+
+Managed User access control, Triggers, workflows, hooks, security and repository control in Bitbucket.
+
+Created, Configured and Administered Jenkins servers with Master-slave configurations as needed.
+
+Experience with baseline all configurations in Dev, QA, Uat, prod.
+
+Implementing and Configuring AppDynamics APM tool for various .Net and Java applications.
+
+Utilized kubernetes and Docker for the runtime environment for the CI/CD system to build, test, and deploy.
+
+Deploying EC2 instances, ELBs by using Cloud Formation in AWS.
+
+Managing $3 buckets and bucket policies.
+
+Leveraged Docker Engine to run Multiple Tomcat Instances as Containerized AppServers.
+
+Orchestration of Docker images and Containers using Kubernetes by creating whole master and node.
+
+Created Continuous Integration and Continuous Delivery Pipelines for the build and deployment automation in place.
+Performed deployment of Amazon EC2 instances in AWS environment. Performed EC2 instances provisioning on AWS environment
+
+and implemented security groups, administered VPCs.
+
+Devops Enginner , 01/2016 to 12/2017
+
+Livongo Health, Inc. - Quincy, MA
+
+Develop, manage and improve the CI / CD pipeline, tools, scripts and processes to automatically build, qualify, release and
+continuous deploy “known high-quality” Big Data analytics software products.
+
+Participate in the configuration and methods of deployment in DevOps environments (prototype, development, CI and production)
+and the processes and tools required to execute those deployments.
+
+Automate the development, qualification and documentation process using scripts and other appropriate tools.
+
+Devise and develop analytical methods and tools to measure the efficiency of products and processes.
+
+Champion changes to tools and processes to improve the efficiency and effectiveness of the analytics development team, from rapid
+prototyping to production code deployment.
+
+Work closely with high-caliber analytics developers, data scientists, platform, QA and engineering operations team members.
+
+As a DevOps Engineer, using Linux, Python, GIT, Maven, Jenkins, Ansible, Nagios, Docker,Kubernetes, CI/CD as tools for day-to-
+day build &amp; release cycles.
+
+Working on Linux environments and scripting experience (e.g. Shell, Python, XML)extensive experience working with continuous
+integration / continuous delivery (e.g. Jenkins, Hudson), build of JARs (e.g. Maven, Nexus repository) and quality (e.g. Sonar) tools,
+to configure,build and maintain CI pipelines.
+
+Using Jenkins for continuous integration / continuous delivery, configuring jobs with Maven properties and Sonar properties in
+Jenkins jobs to automate the process.
+
+Using Maven to build, package and compile projects in maven repository and uploading maven packages into Nexus Repository
+(Deployable JARs).
+
+Creating Jenkins freestyle jobs to automate the process from Continues integration to continues deployment.
+
+Converting freestyle Jenkins jobs to Pipeline jobs (using Jenkins file).
+
+working with DevOps and automation deployment &amp; configuration tools (e.g. Docker, Kubernetes).
+
+Good understanding of OpenShift platform in managing Docker containers using Kubernetes.
+
+Used Python scripts to automate the Build and deployment process.
+
+Research and implemented new tools such as Kubernetes with Docker to assist with auto-scaling, continuous integration, rolling
+updates with no downtime.
+
+Experience with Docker image management &amp; containers as part of product build and release.
+
+Experience on Kubernetes and docker for the runtime environment of the CI/CD system to build,test &amp; deploy.
+
+Deep understanding of SCM (e.g. Git, SVN etc.), and branching and merging strategies.
+
+Supporting for Git version control system merging, hooks, branching the files and creation of repos.
+
+Developer Git branch using for development branch, once we completed with development work this branch going to merge into
+master branch.
+
+Experience with basic DB administration experience (PostgreSQL, Oracle) and REST.
+
+Experience with bug/issue tracking tools (e.g. Atlassian Jira) and integration with other products such as Confluence, Git.
+Experience with agile methods and ability to leverage this for fast-turnaround projects.
+
+Experience in deploying and configuring Apache Zeppelin or other Data Science notebooks (e.g.Jupiter) for CI environment as well
+as development environment.
+
+Supporting Apache Zeppelin implementation and integrating with Continues Integrations environment.
+
+Creating/configuring Jenkins jobs to automate the manual process of Zeppelin CI environment for DEV and PROD environments.
+
+DevOps Engineer, 01/2014 to 12/2015
+
+Macronix Screening Services Pvt. Ltd. - City, STATE
+
+Administer and Maintain Source Code Repositories including GIT and GitHub
+
+Support concurrent development process with standard Branching and Merge of application source code.
+
+Created and maintained several build definitions and publish profiles to handle automated builds in an Agile/SCRUM environment.
+Implemented a CD pipeline involving Jenkins, Chef to complete the Automation from commit to Deployment.
+
+Responsible for managing and maintaining the DevOps CD/CI pipeline using DevOps suite which includes Continuous Integration
+of GitHub, Jenkins, JFrog Artifactory.
+
+Configured and monitored distributed and multi-platform servers using Nagios Edit the Nagios host file to include 100+ node in the
+hosts by use of chef automation Nagios as a tool to monitor the health check of nodes.
+
+Implemented Shell and Python scripts for CD/CI pipeline and deployment of artifacts on application environments.
+
+Responsible for onboarding applications on to DevOps suite and creating GitLab groups for development teams and setting up
+access control strategies.
+
+Automated and connected the Jenkins jobs with Sonarqube to generate and publish the unit tests.
+
+Implemented and maintained maven builds for generating artifacts required by java and windows-based applications.
+
+Experience in DevOps principles and methodologies using SCRUM, Agile and related rapid application development approaches.
+Responsible for creating and maintaining the repositories in JFrog Artifactory to secure the generated artifacts from Jenkins.
+
+Build scripts using MAVEN build tools in Jenkins to move from one environment to other environments.
+
+Working on Manage Chef and SAP Hybris application.
+
+Written custom Chef cookbooks for handing prerequisites to set up new environment for pricing application.
+
+Automated the process of deployment of pricing application.
+
+Worked on Chef cookbooks to install tools like new relic and Sumo logic for both instrumentation and enabling and disabling logs.
+Working on various tasks on Apache Https server like Enabling/Disabling Nodes, Draining Nodes, Apache Operational Commands,
+Cookbook, Certificate Management etc.
+
+Performing user management like SSH, SFTP and Jenkins access or revoke through Chef.
+
+Designed and Developed Jenkins builds deployments.
+
+EDUCATION
+---------
+
+Master of Science: Computer Science, 05/2017 University of Michigan - Kent, OH

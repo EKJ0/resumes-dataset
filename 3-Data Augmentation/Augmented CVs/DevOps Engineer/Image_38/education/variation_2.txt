@@ -1,0 +1,58 @@
+ROBERT SMITH SCM/DevOps Engineer
+
+Phone: (0123)-456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Over 6+ years of experience in IT industry as a DevOps Engineer, comprising of Development,
+Systems Administration and Software Configuration Management (SCM). Extensive experience includes SCM, Build/Release Management, Change/Incident Management, VMware and AWS
+Cloud computing. Written Chef cookbooks and recipes to Provision Several pre-production environments consisting of Apache domain creations and several proprietary middleware
+installations.
+
+CORE COMPETENCIES
+
+Configuration Management: Chel, Puppat. Cloud Computing: AWS Buiki Tools: Ant, Maven
+Scripting Languages: Shell, Powershell, Ruby, Perl Source Code Management: Subversion, TFS,
+Git, Perforce Cl Tools: Jenkins, Bamboo, AnthillPro Operating Systems: Windows, Linux And Solaris Databases: SOL Server, Oracle, MySql Change Management: Remedy, Service Now And
+PVCS Tracker Web/Application Servers: Tomcat, Weblogic, Jboss, Bug Reporting Tools: Bugzilla,
+Jira,
+
+WORK EXPERIENCE
+---------------
+
+SCM/DevOps Engineer
+ABC Corporation - September 2014 - Present
+
+Key Deliverables:
+
+- Providing configuration management expertise to all software development projects.
+
+» Automation of java applications to achieve continuous integration and continuous delivery
+(ci and od),
+
+- Configuring various jobs in Jenkins and Hudson for the deployment of java based applications and running test suites.
+
+- Migrating the entire social media, Com infrastructure from amazon wed services to Rackspace cloud
+
+- Currently responsible for the integration of symantecs storage and backup solutions with Open Stack, mainly on cinder component.
+
+= Decomposing workflows to map lo azure fabric components (stateless/stateful service, actors).
+
+» Installation ot virtual IT infrastructure using VMware ESXi 4, 0, ESXi 5, 0 and Vsphere.
+
+DevOps Engineer
+ABC Corporation - October 2013 - September 2014
+
+Key Deliverables:
+- Responsbilities responsible for the design and architecture of different release environments tor new projects.
+
+- _ - _ - _ - - - - - - _.. - _ - nXn nn
+2259 Oak Street. Old Forge, New York, 13420
+
+‘© This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

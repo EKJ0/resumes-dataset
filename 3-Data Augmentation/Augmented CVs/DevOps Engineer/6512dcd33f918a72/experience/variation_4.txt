@@ -1,0 +1,34 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+Lonny Heaney DevOps Engineer
+
+Determined DevOps Engineer vath 5+ years’ experience in developing, deploying and
+managing large-scale cloud infrastructure. Expertise in automation and orchestration tools
+such as Kubernetes, Docker, Terraform, Ansible & Jenkins to manage microservices-based
+applications. At XYZ Inc., implemented CI/CD pipelines resulting in a 16% decrease of server
+
+downtime caused by manual errors, Aiming to leverage my skillset at ABC Corp for the
+
+successful development of cloud projects.
+
+DevOps Engineer - Employer A Cary, January 2018 to Present
+- Coordinated multiple development teams and system administrators to build, deploy and
+maintain over 200 cloud-based web applications, resulting in 3 20% increase in overall
+
+Teeth Cd ies ToS SESLNDAGS SOR SCS Gli ho networks & sahme Kalas rascks spemescanes ironies abpcoties tnoeag Stak
+Resourcefully automated complex deployment pracesses with Bash scripting and Python coding: eliminated manual errors during deployments while reducing time spent on
+deployment tasks by 40%.
+improved configuration management tools like Puppet, Chef & Ansible; streamlined infrastructure setup/maintenance process across 10+ production environments saving
+
+$10K yearly in labor costs.
+
+Streamlined collaboration between DevOps engineers through Git version control systems; reduced debugging times from 2 hours per incident down to 15 minutes on
+average.
+
+DevOps Engineer - Employer B San Bernardino, March 2012 to December 2017
+
+- Developed and implemented automated deployment processes, resulting in a 30% reduction of release time and errors. Automated configuration management with Chef, Puppet & Ansible to ensure all servers were consistently configured to the same standards. Optimized performance across cloud infrastructure by 20%, reducing latency issues for customers and increasing scalability during peak times. Secured network environment through firewall configurations, patching systems regularly, monitoring user access and implementing intrusion detection protocols; successfully prevented 4 major data breaches over 2 years period of employment. Diligently monitored system health metrics such as CPU utilization levels and memory usage; identified potential issues before they became critical problems requiring manual intervention or troubleshooting workflows created by team members.
+
+Bachelor of Science in Computer Science - Educational Institution XYZ November 2011
+
+Linux Python

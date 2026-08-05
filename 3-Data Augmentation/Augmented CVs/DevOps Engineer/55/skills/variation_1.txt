@@ -1,0 +1,165 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Bilingual DevOps Engineer with background designing, testing and implementing infrastructure and applications. Talented performer with
+over 5 years of experience using source control tools to identify and fix bugs in code. Consistent team player with exemplary multitasking
+skills.. Over 3 years of experience working on Continuous Integration and Delivery Platform as a DevOps Engineer. Experience in System
+Administration on Red Hat Linux, Ubuntu, environments. Experienced developing Spark scripts in bash by using Scala shell commands.
+Used selenium framework to develop unit test and smoke tests, and integrate them in jenkins pipeline. Experience using Terraform and
+Ansible to implement infrastructure as code for automation purposes. Experience in working with various AWS Services like EC2, $3, ELB,
+Auto scaling, Route53, SNS, SES, Cloud Watch, RDS, Dynamo DB, VPC, Cloud Formation. Worked on Azure resource groups,
+creating ARM templates. Writing yaml templates for Azure Devops to stream line CI/CD build and deploy lifecycle. Experience in
+implementing configuration management tools Chef, Ansible and treating Infrastructure as Code Experience in managing servers on the
+Amazon Web Services (AWS) platform instances using Puppet, chef configuration management. Good Experience in build automation using
+JENKINS, MAVEN, ANT Experienced with writing recipes for application specific components such as Java, Tomcat and various third
+party applications sitting in the RPM repository. Authorized to work in the US for any employer Complex problem-solver with analytical and
+driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
+
+SKILLS
+------
+- Cloud Services: AWS, AZURE, Azure Devops « Frameworks: Spring, Django, Pyspark
+- Programming Languages: Python, Java * Scripting Languages: Shell, Powershell, Python
+- Technologies: Docker, Kubernetes, Ansible, Chef, Helm * Databases: SQL-Server, MongoDB and NoSQL, Postgres
+- Infrastructure As Code: Terraform, Cloud Formation e Platforms: Windows, Linux, Unix
+- Pipeline As Code: Jenkins (Groovy), Yaml ( Azure Devops ) e Application Servers: Apache Tomcat, Web Sphere, Apache
+- Monitoring Tools: Logic Monitor, CloudWatch, ELK stack Pyspark
+- Logging Tools: ElasticSearch, FileBeat, FluentD ¢ Proxy: HA-proxy, Squid
+
+WORK EXPERIENCE
+---------------
+
+11/2019 to Current DevOps Engineer Livongo Health, Inc. - White Plains, NY
+- Have written automation to deploy Liquibase changes on rds instances using ansible playbooks.
+- Developed dynamic inventory plugin script in python to pull inventory from Idap dynamically.
+- Upgraded terraform module version and written modules in terraform to deploy k8’s cluster.
+- Written powershell scripts to update config’s on machine both legacy and azure vm’'s.
+- Setup build and deploy pipelines in azure devops for applications using java and NodeJS platform.
+- Written Dockerfile baseline templates for applications to use them to build their images with baseline packages.
+- Dockerized self hosted agents of azure devops and scaled them using Kubemetes cluster for build and deploy infrastructure.
+- Managing in grown gen3 tool for scaling k8’s clusters.
+- Setup Azure Key Vault for centralizing secrets and keys.
+- Troubleshoot and support cloud formation build and deploy pipelines in azure Devops.
+- Implemented Hygiea tool as POC, and containerized it to run on k8's cluster, further pushed it to development and Test environments to give managers executive view of devops tools to track migration projects.
+- Writing Gen3 terraform modules for aws services in Terraform for LAAC to automate infrastructure deployment.
+- Developed python script to automate squid deployment on Ec? instances.
+- Being on Call two days week to support production related issues further help QA's if run into any CI/CD issues.
+- Integrated Telemetry API into Elasticsearch Kafka clusters.
+- Created kafka topics to ensure data flow is consistent through telemetry API's.
+
+07/2017 to 09/2019 Devops Engineer Livongo Health, Inc. - Chicago, IL
+
+- Developed Azure arm templates fora azure resources such as AKS and Azure key vault.
+
+- Writing Ansible Playbooks to set up liquibase on database servers, and apply liquibase change set, asa part of Sybase to Oracle migration.
+
+- Developing and managing Yaml build and deploy templates in Azure Devops to stream line Azurepipelines, CICD process in Azure.
+
+- Being On call for production related issues.
+
+- Implemented BFG tool cleaner to remove all dummy credit numbers from git, committed bydevelopers.
+
+- Using Ansible AWX for managing inventory dynamically and applying it in workflow automation ofSybase to Oracle migration.
+
+- Implementing Chef management tool for applications which are not boarded with continuous deployment.
+
+- Implementing CORS(Cross Origin Resource Sharing), for RDS instances.
+
+- Deployed Harbor tool using Kubemetes for storing Docker images and made it HA and have created strong backup for it.
+
+- Written automation to delete branches in git and artifacts in nexus using python.
+
+- Collaborating with application developers to troubleshoot their build pipelines.
+
+- Utilized Hygieia tool for greater visibility for project managers on what is going on with their project sprint basis.
+
+- Utilized HA-Proxy to create floating Ip's for legacy DNS servers and implemented health check mechanism.
+
+- Wrote test cases in selenium for NodeJS applications, integrated unit tests while implementing Hygiea tool in Dev lifecycle.
+
+- Developed smoke tests pipeline for applications.
+
+- Configured Sonarqube to run code quality for java and NodeJS applications.
+
+- Migrated Sonarqube which was running in ECS to kubemetes cluster to optimize cost.
+
+- Managing jira scripts automation which take care of project creation and deletion.
+
+- Worked on adding windows Jenkins slave to Jenkins master running on Linux OS.
+
+- Templated AWS infrastructure as code using Terraform to build staging and production environments.
+
+- Managed kubernetes charts using Helm and created reproducible builds of microservices on k8scluster.
+
+- Worked on managing k8s deployment and service files and releases of Helm packages.
+
+02/2015 to 07/2017 Devops Engineer Livongo Health, Inc. - Purchase, NY
+
+- Worked on migration of RHEL 5/6/7.X to AWS cloud.
+
+- Implemented continuous integration using Jenkins, for middleware components WebSphere, Tomcat and JBoss.
+
+- Deployed application on to servers using Rundeck and Chef.
+
+- Wrote recipes for application specific components such as Java, Tomcat and various third-party applications sitting in RPM repository. Developed Ruby gems to test and and print reports which assisted project managers to show their leadership. Coordinated with app teams to re write application code due to migration from JBoss and WebSphere to Tomcat.
+
+Troubleshooted errors generated from server.xml and pom.xml.
+De-scripted yython script which was automating to install Wily and replicated that in python to audit, install, and
+uninstall.
+
+Wrote application specific ruby scripts to append them as run lists on chef server.
+
+Performed operations efficiently to make application cloud ready by performing unit testing on each layer (UI,
+Batch) using Appdynamics, Splunk and Terraform.
+
+Built Docker images via Jenkins and pushed application Docker image it to AWS ECR.
+
+Deployed docker images via Rundeck/Nimbus to ECS cluster.
+
+Building/Maintaining Docker container clusters managed by Kubemetes , Linux, Bash, GIT, Docker ,on GCP.
+Utilized Kubernetes and Docker for runtime environment of CI/CD system to build, test deploy.
+
+Automated Compute Engine and Docker Image Builds with Jenkins and Kubernetes.
+
+Used minishift to run and test spring applications locally.
+
+Automate Deployment using configuration Management tool like OpsWorks - Chef to provision AmazonAWS
+Instances to enable continuous Deployments.
+
+Integrate Splunk with AWS deployment using puppet to collect data from all EC2 systems into Splunk.
+Automated Nagios alerts and email notifications using python script and executed them through Chef.
+Configured JSON properties files, to make middleware stack render application code.
+
+Configured web services on F5(layer 4) as per RESTFull parameters.
+
+Automated virtual LTM servers by implementing -tmsh scripts.
+
+Pulled new docker images from ECR to attach it to new load balancer and draining old versions.
+
+Worked on serverless framework to build applications comprised of microservices that run in response to events,
+
+auto-scale as per environment demands.
+
+Wrote Terraform scripts to deploy AWS infrastructure as needed for application Team.
+
+Deployed code on AWS platform using CloudFormation.
+
+Supported and monitored AWS CodePipeline to ensure accuracy of staging environments do necessary validations
+
+as directed by application teams, and cut over to production environment.
+- Built Scala code using SBT.
+- Deployed Java based applications using Chef.
+- Used Chef Automate to remediate failed patches.
+
+Epucarion
+02/2017 M.S: Computer Science Elmhurst College - Elmhurst, IL
+08/2013 B.Tech: Computer Science Engineering Jawaharlal Nehru Engineering University - Hyderabad
+
+CERTIFICATIONS
+--------------
+
+AWS Solutions Architect

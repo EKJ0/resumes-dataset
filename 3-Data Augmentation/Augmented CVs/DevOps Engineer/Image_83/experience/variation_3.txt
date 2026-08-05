@@ -1,0 +1,69 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+Build & Release Engineer/DevOps Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+Engineer Website: www.qwileesume.com
+
+LinkedIn: linkedin.com/qwikresume
+
+ROBERT SMITH Address: 1737 Marshville Road,
+
+Alabama
+
+OBJECTIVE
+---------
+
+Around 4+ years of IT experience as a DevOps Engineer, with a profile of Software
+Configuration /Build/Release Management/Continuous Integration and expertise on version control
+tools like Subversion, Clear case administration, Managing build and multiple releases. Also
+
+worked on Clear Quest (Bug Tracking Tool) administration and have hands-on Build Automation
+
+tools like Hudson and Continuum.
+
+DevOps. Build Release Engineer, AWS, Linux, Unix Administration, System Administration, Git,
+Perforce, Subversion, Jenkins (Hudson), ANT, Maven, Scripting, Build And Release Automation,
+Perl, Powershell, Python, Shell Scripting. Perforce, Continuous Integration Tools Like MySQL, and
+JavaScript.
+
+WORK EXPERIENCE
+--------------- Build & Release Engineer/DevOps Engineer
+
+ABC Corporation ~ July 2016 - Present
+
+Interacting with clicnt teams to understand client deployment requests,
+
+Coordinating with the development, database administration, QA, and IT operations teams to
+ensure there are no resource conflicts.
+
+Responsible in working with the source control tools such as team foundation server and git,
+Building the scripts using maven build tools in Jenkins to move from one environment to other
+environments.
+
+Primary duties include build and deployment of the java applications onto different environments like dev, QA, UAT, and production.
+
+Analyze, resolve, compilation and deployment errors related to code development, branching,
+merging and building of source code along with Linux administration {installation, configuration, tuning, and upgrades of Linux.
+
+Implementing a continuous deployment{ed) pipeline involving Jenkins, chef to complete the automation from commit to deployment,
+
+DevOps Engineer
+
+ABC Corporation - January 2015 - June 2016
+
+Responsibilities administration of sun servers (SPARC and x86) running Solaris 9, 10 and dell,
+hp servers running SUSE, red hat el 3, 4. X, 5 which included jumpstarting, performing live
+upgrades of Solaris operating systems and kick-starting red hat el 3, 4. X. 5 creationof VMS
+for SUSE, Solaris x86 and red hat Linux on Vmware ESX 3, 5 and administering them with vi clients.
+
+Created detailed documentation of complex build and release process, post-release activities
+process, Jira workflow, and release notes.
+
+Implemented best practices of agile methodology to speed up the delivery process efficiently.
+Worked with svn to manage source code repositories and performed branching, merging, and tagging depending on the requirement,
+
+Performed svn to git migration and implemented &amp: maintained the branching and build/release straicgics utilizing git.
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines

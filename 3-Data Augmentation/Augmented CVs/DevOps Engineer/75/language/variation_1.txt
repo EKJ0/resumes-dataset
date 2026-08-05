@@ -1,0 +1,381 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+WORK EXPERIENCE
+---------------
+
+SKILLS
+------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Dynamic DevOps engineer skilled at developing complex solutions possessing strong creative thinking skills,
+high energy and integrity. DevOps Engineer with expertise in all aspects of the software development life
+cycle, including requirements analysis, design, development and production support.
+
+DEVOPS ENGINEER 04/2016 to CURRENT Bae Systems | Aiken, SC
+
+6yearsofexperienceasaBuildand Release DevOpsEngineeringin automating, building, deploying, and
+releasingofcodefromoneenvironment to otherenvironment.
+
+Experienceinworkingon sourcecontroltoolslike Tortoise SVN, CVS,IBMClearcase, Perforce, StashandPVCS.
+
+Hands on experience in installing and administrating Cl tools like Hudson/Jenkins &Subversion.
+Performed DevOps for Linux, Mac and Windows platform.
+
+Develop Python scripts for software build conduct and management support.
+
+Conduct systems design, feasibility and cost studies and recommend cost-effective cloud solutions such
+as Amazon Web Services (AWS).
+
+Working experience with DevOps practices in application technology including continuous integration
+and delivery processes using Jenkins, Bamboo, CruiseControl, Ansible, Chef or Puppet.
+
+Expert level knowledge on Amazon EC2 and Amazon SC3.
+
+Experience in running web scale services on Amazon Web Services (AWS).
+
+Experience in Cassandra Database configurations.
+
+Designed and implemented a Cassandra no SQL based database.
+
+Associated RESTful web service that persists high -volume user profile data for vertical teams using
+Cassandra no SQL.
+
+Experience in Continuous Integration System which includes automated testing.
+
+Having a knowledge on Administering Continuous Integration (Cl).
+
+Hands-on experience on Ansible and Ansible Tower as Configuration management tool, to automate
+repetitive tasks, quickly deploys critical applications, and proactively manages change.
+
+Experience in development and configuration experience with software provisioning tools like Chef,
+Puppet.
+
+Created various modules and manifests in Puppet.
+
+Experience of Jenkins/ Hudson, VS Build Pro, Apache Ant, Apache Tomcat, Subversion, Git, Maven.
+Installed and configured an automated tool Puppet that included the installation and configuration of the
+Puppet master, agent nodes and an admin control workstation.
+
+In-depth understanding of the principles and best practices of Software Configuration Management
+(SCM).
+
+Expertise in writing Puppet's DML (Declarative Modeling Language) scripts and helped declare and the
+documented each system's state for future references.
+
+Responsible for the implementation, administration and maintenance of REDHAT Enterprise Linux.
+Installed and configured RED HAT Enterprise Linux 5.
+
+ExtensiveexperienceusingMAVENand ANTasbuildtoolsfor thebuildingofdeployable artifacts (jar,
+war&ear)fromsourcecode.
+
+Monitored Servers and LinuxScripts regularly and performed.
+
+Extensivelyworked onHudson, Jenkins, TeamCity andBamboo forcontinuousintegration and forEnd to
+End automation forallbuildand deployments and extensive experience with Version Control Tools likes
+Rational Clear Case, Rational Team Concert(RTC).
+
+Build Puppet Manifests and also developed Puppet modules to automate deployment.
+
+Created Custom Puppet modules for bootstrapping new servers with required application dependencies
+and packages.
+
+Strong knowledgeon source controllerconceptslikeBranches, MergesandTags.
+
+Worked with Engineers,QA, businessand otherteams toensureautomated testeffortsaretightly integratedwith thebuildsystemand infixingtheerror whiledoingthedeploymentand building.
+
+Exposedto allaspectsofsoftwaredevelopmentilife cycle(SDLC)such asAnalysis, Planning, Developing.
+Testing, and Implementingand Post-production analysisof theprojects.
+
+Expert indeployingthecode through web applicationserverslikeWebSphere/Web Logic/ ApacheTomcat/
+JBOSS.
+
+Abilityin developmentandexecution ofXML, Ruby, ShellScriptsandPer|Scripts, Powershell, Batch
+scriptsand Bash also.
+
+Efficientin workingcloselywith teams toensurehigh qualityandtimelydeliveryofbuildsand releases.
+Having good Experience in DevOps tools likeChef and Puppet for Deployment on Multiple platforms.
+Automated application deployment in the cloud using Docker technology using Elastic Container
+Service scheduler.
+
+Created and managed a Dockerdeployment pipeline for custom application images in the cloud using
+Jenkins.
+
+Maintained and managed nomad and consul key value storage for micro service architecture using
+Docker for services.
+
+Basic understanding of Hardware RAID & Vagrant.
+
+Working knowledge of IBM WebSphere MQ.Excellentexperienceindocumentingand automatingthebuild
+and releaseprocess.
+
+Abilityin managingallaspectsofthesoftwareconfiguration managementprocessincludingcode compilation,
+packaging/deployment/ release methodology, and application configurations.
+
+Expertise in QueryingRDBMSsuchasOracle, MYSQLand SQLServerbyusingSQLfor dataintegrity.
+Experiencein usingBug trackingtools likeJIRA,Remedy, HP QualityCenterand IBM ClearQuest, Mingle
+Excellentcommunicative, interpersonal, intuitive, analysisandleadershipskillswithabilityto workefficientlyin
+both independentand teamworkenvironments.
+
+Proficient in tracing complex build problems, release issues and environment issues in a multi-
+component environment.
+
+Wrote maintainable and extensible code in a team environment.
+
+Implemented designs, including experimentation and multiple iterations.
+
+Modified existing software to correct errors, upgrade interfaces and improve performance.
+
+Interfaced with business analysts, developers and technical support to determine the best requirement
+specifications.
+
+Worked closely with other team members to plan, design and develop robust solutions in a timely
+manner.
+
+DECOPS ENGINEER 08/2014 to 03/2016 Bae Systems | Quantico, VA
+
+Worked with the fast pace of Agile Development team building software systems Coordinated with
+Architects, Systems, Network, Software &QA Engineers, to continuously improve the reliability and
+efficiency of Build and Deployment processes to support every phase of development including
+production releases Responsible in understanding of the interdependencies and structure of systems
+and implement this knowledge to improve the build and release processes which allow rapidly evolving
+product offerings Improved continuous integration environment, monitored builds, maintained
+configuration & automated processes Managing Amazon Web Services (AWS) infrastructure with
+automation and configuration management tools such as Ansible, Puppet, or custom-built.
+
+Designing cloud-hosted solutions, specific AWS product suite experience.
+
+Experience using Ansible Tower, which provides an easy-to-use dashboard, and role-based access
+control, so that it's easier to allow individual teams access to use Ansible for their deployments.
+Handled the development of reporting metrics and to provide reports to Management on different levels
+of statistics Worked with Source Control Tools such as GIT Stash, Sub version Worked on requests for
+adhoc deployment for a particular environment and use the adhocdeploy plan in bamboo Experience in
+migration of consumer data from one production server to another production server over the network
+with the help of Bash and Perl scripting.
+
+Installed/Configured/Managed Puppet Master/Agent.
+
+Wrote custom Modules and Manifests, downloaded pre-written modules from puppet-forge.
+Upgradation or Migration of Puppet Community and Enterprise.
+
+Deploy and monitor scalable infrastructure on Amazon web services (AWS)& configuration management
+using puppet.
+
+Worked on ENV property files management involved in ENV property files promotion to the SCRUM
+environments Configured Red Hat Kickstart for installing multiple production servers.
+
+Installation, Configuration and administration of VMware.
+
+Installed and configured monitoring tools Nagios for monitoring the network bandwidth and the hard
+drives status.
+
+Experience in writing shell scripts for administration tasks in MQ.
+
+Monitored various MQ objects in ActiveMQ Managed Code Repository by administering database
+baseline, improved practices of branching and code merge Used ANT & MAVEN build tools in Jenkins to
+build scripts and move from one environment to other Used Perl& Shell scripts to automate build &
+release process; managed Maven project dependencies Built & deployed Java/J2EE to Web App Server
+in Agile continuous integration environment and automated process.
+
+Good knowledge on Cassandra (No SQL Database) Integrated JIRA with Stash and created automated
+release notes using Perl scripts Used JIRA to track bug issues and change management Environment
+interfaced with business analysts, developers and technical support to determine the best requirement
+specifications.
+
+Worked closely with other team members to plan, design and develop robust solutions in a timely
+manner.
+
+DECIOPS ENGINEER 03/2012 to 06/2014 Bae Systems | Fort Belvoir, VA
+
+Release Engineer for a team that involved different development teams and multiple simultaneous
+software releases.
+
+Designing and implementing for fully automated server build management, monitoring and deployment
+By Using DevOps Technologies like Puppet.
+
+Responsiblefordesign andmaintenanceof theSubversion/GIT, StashRepositories, views, andthe accesscontrolstrategies.
+
+Conducted pre-sales technical support services for directing sales force of windows Azure applications.
+Deployed DevOps using Puppet, Dashboard, and Puppet DB for configuration management to existing
+infrastructure.
+
+Involved in leading Automation Deployment Team by working with Puppet.
+
+Imported and managed multiple corporate applications into Tortoise SVN and Implemented the setup for
+Master slave architecture to improve the Performance Automated SQL Scripts.
+
+Development, Quality Assurance and Management teams to ensure cross communication and confirmed approval of all production changes.
+
+Provided end-user straining for all Tortoise SVN, JIR users to effectively use the tool.
+
+Build scripts using ANT and MAVEN build tools in Jenkins to move from one environment to other
+environments.
+
+Deployed J2EE applications to Application servers in an Agile continuous integration environment and
+also automated the whole process.
+
+Build scripts using ANT and MAVEN build tools in Jenkins, Sonar to move from one environment to other
+environments.
+
+Created and maintained the Jython deployment scripts for Web Sphere web application server.
+Developed Perl and shell scripts for automation of the build and release process.
+
+Involved in editing the existing ANT/MAVENTfiles in case of errors or changes in the project requirements.
+Managed Maven project dependencies by creating parent-child relationships between Projects.
+Jenkins is used as a continuous integration tool for automation of daily process.
+
+Documented the entire build and release engineering process and provided on call support.
+Implement the supporting platform for Open Stack infrastructure on the cloud that all services and
+applications will rely upon.
+
+Implemented automated local user provisioning in instances created in Openstack cloud.
+
+Deployed the Openstack components on multimode with high availability environment.
+
+Environment
+
+BLCLD AND RELEASE ENGINEER 09/2010 to 01/2012 Booz Allen Hamilton Inc. | Suffolk, VA
+
+.
+
+Developed and supported the Software Release Management and procedures.
+
+Performed all necessary day-to-day Subversion/GIT support for different projects.
+
+Responsible for design and maintenance of the Subversion/GIT Repositories, views, and the access
+control strategies.
+
+Designed and implemented Subversion and GIT metadata including elements, labels, attributes,
+triggers and hyperlinks.
+
+Scripting expertise using Ruby, Python or Perl.
+
+Expertise in configuration management tools like Chef.
+
+Good experience working with VMWare and AWS Incident management reports, including initial problem
+analysis, management status, resolution, and follows up defect reporting in an automated fashion.
+Implemented &maintained the branching and build/release strategies utilizing Subversion/GIT.
+
+Involved in periodic archiving and storage of the source code for disaster recovery.
+
+Worked closely with developers to pinpoint and provide early warnings of common build failures.
+Designed and implemented scalable, secure cloud architecture based on Amazon Web Services (AWS).
+Used ANT and MAVEN as a build tools on java projects for the development of build artifacts on the
+source code.
+
+Developed Linux, UNIX, Perl and Shell Scripts and AWT programming for the purpose of manual
+deployment of the code to various environments.
+
+Automated the build and release management process including monitoring changes between releases.
+Deployed the Java applications into web application servers like Web logic.
+
+Executed user administration and maintenance tasks including creating users and groups, reports and
+queries.
+
+Worked as a system administrator for the build and deployments process on the enterprise server.
+Documented project's software release management procedures with input decisions.
+
+Developed, maintained, and distributed release notes for each scheduled release.
+
+Provided periodic feedback of status and scheduling issues to the management.
+
+Kept track of all the releases and request of the developers through Infrastructure management tool.
+Created views and appropriate meta-data, performed merges, and executed builds on a pool of
+dedicated build machines.
+
+Involved in periodic archiving and storage of the source code for disaster recovery.
+
+Environment
+
+BLCLD AND RELEASE ENGINEER 06/2009 to 08/2010 Booz Allen Hamilton Inc. | Annapolis, MD
+
+.
+
+Worked closely with the Development Team in the design phase and developed use case diagrams
+using Rational Rose.
+
+Worked with the Architects on SDLC process being the owner of post development environments
+Coordinating the resources by working closely with Project Manager's for the release and Carried
+Deployments and builds on various environments using continuous integration tool Developed and
+implemented the software release management for therelease of web applications.
+
+Wrote ANT and MAVEN Scripts to automate the build process.
+
+Used Shell/Perl scripts to automate the deployment process.
+
+Performed Load/Functional testing using Mercury Load runner and HP QTP.
+
+Designed a customized Status Reporting tool used currently, based on the specific requirements
+usingJ2EE/Struts and Web sphereApplication Server with DB2asDatabase Co-coordinated Instance
+Refreshes and Environment Re-base lining.
+
+Coordinated all the IT projects success fully by resolving release inter dependencies and planning
+release.
+
+Planning, scheduling and documenting releases at code Freeze Periods.
+
+Sole person to be responsible for Release/Change control Process.
+
+Worked with many teams of strength more than 30 and managed 2 release/build engineers.
+
+Stand by administrator for Clear Case and PVCS.
+
+Performed Functional and Stress Testing for a few applications using Mercury Load runner Installation
+and configuration of RED HAT LINUX for new build environment and Monitor performance on RED HAT
+LINUX 4/5.
+
+Environment
+
+Operating Systems: « iOS
+Windows98/XP/NT/2000/2003/2008,UNIX, * cocoapods LINUXRHEL). * podspecs Versioning Tools: CVS, «= Articrafts
+
+Tortoise SVN, Clearcase,GIT, Perforce,PVCS,.RTC, Stash, Mercurial, Perforce.
+Bug Tracking Tools:
+
+JIRA, Remedy, HP Quality Center, IBM ClearQuest, Mingle
+
+Build Tools:
+
+Bamboo, Cruise Control,Hudson, Jenkins, ANT, MAVEN and TeamCity, Sonar
+
+DevOps Tools
+
+Puppet, Chef, AWS, OpenStack, Ansible, Docker Languages/Scripting
+
+C, C++, Perlscripting, Batch scripting. VB script.
+PowerShellscripting, SQL, Java/J2EE,Soapul, Ruby Python, Bash,
+
+WebTechnologies:
+
+Serviets, JDBC.JSP, HTML, JavaScript. XML
+
+Web servers:
+
+Web logic, WebSphere.ApacheTomcat,JBOSS RDBMS
+
+Oracle,SQL SERVER, MYSQL, DB2
+
+Others
+
+MS Outlook, Azure
+
+Code reviews
+
+Ruby
+
+Python
+
+Bachelor of Technology | Civil Engineering JNT University
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

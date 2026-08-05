@@ -1,0 +1,125 @@
+Emily Walsh
+
+2015-07 -
+2018-08
+
+2013-05 -
+2015-06
+
+2012-06 -
+2013-05
+
+2008 -
+2012
+
+2017
+
+2017
+
+2016
+
+Jessica Zackowitz DevOps Engineer
+
+SUMMARY
+-------
+
+Versatile DevOps manager with 6 years’ experience. Seeking to leverage proven continuous deployment skills to raise quality at Google. Cut
+customer complaints by 50% for an SaaS application. At Shellnac Inc., used Jenkins and AWS tools to cut release times by 20% . Boosted customer
+satisfaction by 25%.
+
+WORK EXPERIENCE
+---------------
+
+DevOps Manager
+
+Frostacre Global
+
+- Led Agile team of 5 developers, 2 SysAdmins to continuous deployment of SaaS real estate solution with 1 million+ users. Collaborated with C- Suite and sales teams.
+
+- Maintained network of 30+ Unix servers with 99.9% up-time.
+
+- Wrote scripts to automate security upgrades. Cut vulnerabilities by 20%.
+
+DevOps Engineer
+
+Shellnac Systems, Inc.
+
+- Set up and managed 40 Linux servers with 99.95% up-time.
+
+- Managed continuous deployment of a popular SaaS stock-tracking tool.
+
+- Deployed 2 software iterations per month for 2 years. Increased customer satisfaction with software by 25%. Presided over a period of 30% revenue growth.
+
+System Administrator
+
+Litman Analytics
+
+- Set up and managed 15 Windows 2008 servers.
+
+- Wrote scripts to automatically update system components.
+
+- Cut company costs 20% through aggressive vendor management.
+
+EDUCATION
+---------
+
+BS in Computer Science, University of Michigan
+- Excelled in security classes.
+- President, 314 Action STEM Organization.
+
+CERTIFICATIONS
+--------------
+
+AWS Certified DevOps Engineer
+
+AWS Certified SysOps Administrator
+
+Conferences
+
+DevOps Days, Spoke on a panel about serverless networks
+
+PUBLICATIONS
+------------
+
+Article on containers appeared in "The Agile Admin"
+
+Article on monitoring best practices appeared in "DevOpsGuys”
+
+eg Personal Info
+
+Phone
+410-279-0218
+
+E-mail
+jesszackowitz@gmail.com
+
+Portfolio
+www.jesszackowitz.com
+
+@ Soft Skills
+
+Collaboration
+
+Critical Thinking
+
+() Hard Skills
+
+Continuous Deployment Unix/Linux
+
+Puppet, Jenkins, Zabbix AWS, Cisco
+
+Python, GIT
+
+eeeee Expert
+
+Advanced
+
+eeeee Expert
+
+eeeee Expert
+
+eeeee Expert
+
+eeee Advanced
+
+eeee Advanced

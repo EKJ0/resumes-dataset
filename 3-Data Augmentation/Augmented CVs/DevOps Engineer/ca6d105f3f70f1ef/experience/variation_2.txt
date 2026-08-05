@@ -1,0 +1,73 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+@ cdgar.narayan@gmail.com
+% (864) 095-5167 9 Sacramento, CA
+
+EDUCATION
+---------
+
+Bachelor of Science in Information Technology at University of Southern California, CA
+
+Aug 2018 - May 2022
+
+Relevant Coursework: Database Management, Networking,
+
+Data Analytics, Cybersecurity, Software Development, Web Design, Information Systems, Programming Languages, Cloud
+Computing, and IT Project Management.
+
+Links linkedt :
+
+>
+
+rometheus
+
+Languages English
+
+x
+
+rench
+
+Hobbies
+
+PROFILE
+-------
+
+Detail-oriented DevOps Engineer with a year of experience in designing and implementing operational solutions. Proficient in continuous improvement and
+agile methodologies with a proven track record in integrating project management and software development. Demonstrated expertise in cloud technologies,
+scripting languages, and automation tools. Proactive in identifying and addressing challenges, optimizing processes, and achieving team objectives. Committed to
+enhancing system efficiency and performance,
+
+WORK EXPERIENCE
+--------------- Senior DevOps Engineer at Google Inc., CA
+May 2023 - Present
+
+- Successfully implemented a new Continuous Integration/Continuous Deployment (C1/CD) pipeline that increased deployment frequency by 40% and reduced deployment failures by 30%.
+
+- Led a team in migrating Google’s servers to a cloud-based infrastructure, reducing operational costs by 25% and improving system scalability and reliability.
+
+- Optimized Google's existing DevOps processes and tooling, resulting ina 35% increase in development team efficiency and a 50% reduction in system downtime,
+
+- Designed and implemented a robust security protocol for the DevOps process which resulted in a 60% decrease in security breaches and improved overall system integrity.
+
+Junior DevOps Engineer at Apple Inc., CA
+Aug 2022 - Mar 2023
+
+- Successfully automated 20+ daily tasks, improving efficiency by 30% and allowing more focus on strategic projects.
+
+- Played a pivotal role in the development and deployment of a new application that increased system productivity by 40%.
+
+- Led a team to troubleshoot and resolve over 1000 system issues within a year, reducing downtime by 25%.
+
+- Implemented a continuous integration and continuous delivery (Cl/CD) pipeline that improved the software release process by 35%.
+
+Certificates
+
+Docker Certified Associate (DCA)
+Mar 2022
+
+AWS Certified DevOps Engineer
+Jan 2021
+
+Memberships
+
+DevOps Institute The Linux Foundation

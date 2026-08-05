@@ -1,0 +1,61 @@
+Maria Garcia
+
+Robert S mith Phone (123) 456 78 99
+
+Email; Info@ywikresume,corm
+
+Website : www.quilkre sume, com
+
+Cloud DevOps Engineer \liacadins linkacktecorneeelioeaurre
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+-------
+
+As a Cloud DevOps Engineer, designed, developed, tested, implernented and supported of the
+Cloud platforrn ecosystem. Led efforts to create Infrastructure to strearnline developrnent and
+deployrnent of applications using modern Cloud DevOps practices. Reported to the Cloud Engineer
+Team Epes Work required is considered advanced and you must be able to worked under minimal
+supervision.
+
+SKILLS
+------
+
+Leadership, Creative Skills.
+
+WORK EXPERIENCE
+---------------
+
+Cloud DevOps Engineer
+Redapt - Septernber 2014 - 2023
+- Automated build and release processes Code and Resource delivery to Azure and AWS.
+- Automated onboarding of tearns and users into Azure and AWS environments.
+- Designed and defined AWS architecture for new cloud camputing systerns or existing systerns migrating to cloud architectures,
+- Managed and mentored a tearm of software/AWS/Autormation engineers in systerns,
+- Developed and enforced standardized AMI&rsquo;s and AWS policy enforcernent, AWS cost optimization and education,
+- Worked directly with the Infrastructure and DBA tearns to triage and troubleshoot all escalations on a custormer-facing application,
+- Developed and Enhance SaaS/Cloud-based applications. Worked with local/remote Development/SQA tearns to support the delivery, deployment, and operation of services,
+
+Cloud Devops Engineer
+Delta Corporation - 2011 - 2014
+
+- AWS, Joyent, Google Cloud, Centurylink Cloud, etc,
+
+- Very knowledgeable in regards to DevOps / Automation with Docker and Continuous Deployment procedures using tools such as Ansible, docker-machine, docker-compose, Mesos / Mesosphere, Marathon, etc.
+
+- Development and Automation for Deploying Containers, Applications, and Provisioning Public Cloud Environments,
+
+- Wide variety of experience with the Linux operating system, Ubuntu server, Centos, Amazon linux, Kall, Backtrack, ete.
+
+- Wide variety of experience for Network Security, Penetration Testing, and ensuring security of both public and private cloud environments,
+
+- Major Software junkie, and adapts to new technology / software very quickly and efficiently,
+
+- Proficiency in both infrastructure-as-code tools like Terraform and AWS Cloud Formation and infrastructure configuration management tools such as Ansible, Puppet, or Chef.
+
+EDUCATION
+---------
+
+Bachelor's In IT
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings

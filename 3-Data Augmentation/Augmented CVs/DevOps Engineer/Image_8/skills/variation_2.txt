@@ -1,0 +1,117 @@
+Christa Scott
+
+DEVOPS ENGINEER
+
+SUMMARY
+-------
+
+Analytical, committed, persistent individual and reliable team member.
+Continuously learning and acquiring new knowledge and skills. Experience in
+
+building different projects using a wide range of technologies. Performing well in
+
+different environments in onshore and distributed teams.
+
+TECHNICAL SKILLS
+----------------
+
+Core Computer Skills
+
+- Server administration, troubleshooting on Linux/Unix based systems.
+
+- Automation of continuous integration, delivery, and deploymend - Jenkins, Ansible, Bash, Git.
+
+- Building scalable applications using Docker and container orchestration - Kubernetes.
+
+- Working knowledge of AWS - ECS, EC2, RDS, S3, ElasticSearch, ELB, Routed3.
+
+- Creating infrastructure as a code - CloudFormation.
+
+- Building analytics and monitoring solutions with visualisation - Nagios, Icinga2, PRTG, Grafana.
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer
+in-Winds Jun 2017 - Present
+
+- Work closely with developers to build their development pipeline and deploy
+
+code to various environments.
+
+- Participate in deploying, automating, maintaining and managing AWS cloud based production system, to ensure the availability, performance, scalability
+
+and security of productions systems.
+- Develop and maintain monitoring, and alerting tools
+
+- Perform maintenance and troubleshooting of continuous integration systems
+
+including build and deployment used across multiple environments.
+
+- Participate in the Agile DevOps design, development, testing, and release of
+
+new capabilities and features.
+- Proactively communicate and coordinate with multiple project teams
+
+Linux System Administrator
+Tecno Rim May 2016 - May 2017
+- Optimising server performances. Troubleshooting, determining the root cause and working on solutions and implementation.
+- Participate in technical research and development to enable continuing innovation within the infrastructure domain.
+- Production operations (code deployments, upgrades, system patches)
+- Involved in designing of Linux server environments for developers and testers, supporting them, and documenting procedures for IT support.
+
+- Working closely with developers on developing and supporting new features
+
+CONTACT
+-------
+
+4 info@resumekraft.com
+Q 202-555-0120 Q Chicago, Illinois, US
+
+in linkedin.com/resumekraft
+
+PROFESSIONAL SKILLS
+
+- Analytical
+
+- Perceptiveness
+
+- Accountability
+
+- Growth mindset
+
+- Creative thinking
+
+SKILLSET & TOOLSET
+
+- Linux system administration
+- Bash scripting
+
+- Jenkins
+
+- Ansible
+
+- Docker
+
+- Kubernetes
+
+- Icinga2
+
+EDUCATION
+---------
+
+Bachelor of Engineering in Informatics and Computer Engineering
+
+San Jose State University
+Oct 2006 - Oct 2019
+
+Faculty of Electrical Engineering & Information Technologies, Skopje
+
+LANGUAGES
+
+English French Arabic German
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

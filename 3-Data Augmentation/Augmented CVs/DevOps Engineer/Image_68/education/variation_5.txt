@@ -1,0 +1,47 @@
+ROBERT SMITH Senior Devops Engineer I
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Over 8 years of experience as DevOps/Build and Release Engineer in solving complex problems with creative solutions, supporting development, Deployment operations in
+different environments, Extensive experience includes SCM, Change /Incident Management, VMware and AWS Cloud computing. Experience with and thorough
+understanding of automated implementation /deployment of a cloud based infrastructure {Web apps, Application Service Environments, firewalls, load balancers, storage,
+monitoring. security, AD, DNS ete.
+
+CORE COMPETENCIBS Bash, Python, Linux,
+
+WORK EXPERIENCE
+---------------
+
+Senior Devops Engineer I
+Comcast Corporation - December 2014 ~ 2020
+
+Key Deliverables:
+
+- Developed and maintained automation and orchestration engine in support of large scale private and public cloud deployments.
+
+- Architected enterprise-wide provisioning, management and monitoring systems.
+
+- Created the automated build and deployment process for application, re engineering setup for better user experience, and leading up to building a Continuous integration system.
+
+- Developed and implemented Software Release Management strategies for various applications according to the agile process,
+
+- Responsible for Continuous Integration (Cl) and Continuous Delivery (CD) process implementation-using Jenkins along with Python and Shell scripts to automate routine jobs.
+
+- Developed build and deployment scripts using ANT and MAVEN 4s build tools in Jenkins to move from one environment to other environments.
+
+- Built and Deployed Java/J2EE to a web application server in an Agile continuous integration environment and also automated the whole process
+
+Senior Devops Engineer
+Delta Corporation - 2010 - 2014
+
+a Deliverables:
+Dignity Health has steadily grown to. become the largest private. not-for-profit health care provider in the state of California.
+- Dignity Health operates a network of 40 acute-care facilities located in the Golden State and, toa lesser extent, in Arizona and Nevada.
+
+2259 Oak Street, Old Forge, New York, 13420
+- Thi Free Resume Template t the copy rigin af Quikresume.com, Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

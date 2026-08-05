@@ -1,0 +1,55 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+Robert Smith
+
+Assistant AWS Devops Engineer I
+
+PERSONAL STATEMENT
+
+Experienced DevOps Engineer dedicated to automation and optimization for 7 years. Understands and manages the space between operations and
+development to quickly deliver code to custorners. Has experience with the Goud, as well as DevOps autornation development for Linux systems,
+Brings maturity, enthusiasm, and a drive to learn new technologies along with real world experience.
+
+WORK EXPERIENCE
+---------------
+
+Assistant AWS Devops Engineer!
+University Of MN - January 2014 - 2020 Re sponsibilities:
+
+- Creating the automated build and deployment process for application, re-engineering setup for better user experience, and leading up to building a continuous integration system for all our products,
+
+= Implemented AWS solutions using E@, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups.
+
+= Responsible for Design of different Release Environments for new projects and monitoring,
+
+= Responsible for Design of different Release Environments for new projects and monitoring,
+
+= Installed Chef-Server Enterprise On-Premise/WorkStation/ Bootstrapped the Nodes using Knife.
+
+- Designed and implemented Chef, including the internal best practices, cookbooks, automated cookbook Cl and CD systern,
+
+= Migrated VMWARE VMs to AWS and Managed Services like EC2, $3 Bucket, Route53, ELB, EBS Etc with Opscode Chef Cookbooks/Recipes.
+
+AWS Devops Engineer
+Delta Corporation - 2012 - 2014 Responsibilities:
+= Key Deliverables Technical leader to align processes and tools, such as branching, source control structure, dependency management,
+UnuxWindows hybrid build infrastructure, code review, and check-in policies, that are developed and instrurnented by DevOps teams across
+projects globally.
+- Managed Ubuntu Linux and Windows virtual servers on AWS EC2 using Puppet. = Experienced with working on Puppet Master and Puppet Agents. = Defined Puppet Master and Puppet Agents to manage and configure nodes.
+- Deployed Puppet, Puppet dashboard for confi guration management to existing infrastructure, = Designed and deployed AWS solutions using E2C, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups, Opsworks Performed Server configuration management via Puppet. = Transparent Data Encryption (TDE) implementation Database
+
+- This Eree Resume Template ts the copyright of Quikresume com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marshville Road, Alabama
+
+(123)-456-7899 info@qwikresume,.com
+www.qwikresume.com
+
+Knowledge of Networking, Knowledge of cloud computing.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)

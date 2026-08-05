@@ -1,0 +1,36 @@
+fetchr
+
+DevOps Engineer Roles in Dethi or Coimbatore or Amman/Jordan, Dubai, Nigeria
+
+Job Description
+
+Are you someone who automates everything in Life? Fetchr, looking for DevOps Engineer to design, develop and automate our infrastructure. You will be responsible for building,
+eploying, and supporting our enterprise application services and systems across various machine infrastructures (like Bare metal, Amazon AWS, GCE, Rackspace, etc ).
+
+Responsibilities:
+
+- Architect and implement the infrastructure for building, testing, deploying, tuning, and troubleshooting production, staging and development systems
+
+- Ability to utilise the best tool for the best need in the detail of anapplication architecture, awareness with tools and always looking for new and compare between different services or solutions.
+
+- Advise the development team on best practices throughout the design process of their applications, to ensure that they can be delivered to manageable and highly available production environments.
+
+- Design and manage our monitoring/performance analysis/alerting systems
+
+Required Skills (Must to have)
+
+- S+ years of relevant work experience: DevOps/infrastructure, Test Automation, Systems Administration, and/or Development
+
+- Experience working with any of modem infrastructure operations and automation tools:
+- Cloud infrastructure (e.g : AWS [EC2, $3, etc...] , Google Cloud, Rackspace, Openstack, OnApp }
+- Cluster Configuration and Automating tools (e.g: Ansible, SaltStack, Chef , Puppet }
+- Continuous Imegration and testing (e.g = Jenkins, TravisC! ), Continuous Deployment.
+
+- Strong Knowledge of UNIX operating Systems :
+- Process limits
+- Networking / HTTP
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

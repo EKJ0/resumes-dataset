@@ -1,0 +1,214 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+An AWS DevOps Engineer with around 7 years of experience in Various platforms. Good practical skills with interesting Tools and
+Technologies. Experience on Server Infrastructure, Migration, Monitoring, Automation and Security.
+
+SKILLS
+------
+
+AWS, Cloud Migration, Cloud Cost Optimization, Infrastructure Monitoring, Chef, ANSIBLE, Jenkins, GOCD, IBM ISAM, GIT,
+NEWRELIC, SPLUNK, GRAFANA, DIVVY CLOUD, TERRAFORM, Shell scripts, DOCKER, EKS, PACKER.
+
+WORK EXPERIENCE
+---------------
+
+01/2021 to Current DevOps Engineer Koch Industries, Inc. - Martinsville, VA
+
+- Automated application build and deployment, driving efficiency of code development process.
+
+- Performing Automatic deployments in Dev, IT, CT, PRE-PROD, PROD environments by daily and weekly basis by using Ansible and Jenkins.
+
+- Creating multiple jenkins jobs for day to day activities and also deploying new jar files with version numbers into the Nexus Artifactory.
+
+- Creating and updating change request also handling change management in daily basis.
+
+- Working with developers and QA team for validating changes and fixing issues.
+
+- Working with IBM ISAM for for validating and deploying the new changes in each individual host.
+
+- Worked on SSL certificate updates and generating expired certificate report and renewing the CERTS using VENAFI.
+
+- Working with Ansible scripts creating new recipes and roles as per the requirement.
+
+- Building new CentOS server and configuring with Ansible playbooks.
+
+- Analyzing the Itrack tickets and updating, and deploying changes into various environment as per the request.
+
+02/2020 to Current AWS DevOps Engineer Management Decisions, Inc. - Agoura Hills, CA
+- Responsible for building and maintaining infrastructure AMI's.
+- Worked on secret manager and SSH authentication POC’s like Teleport, hashicorp Vault.
+- Automated AMI build process using Ansible roles and playbooks.
+- Install and configure Ansible towers to build servers and deploy the configuration.
+- Created playbooks for tomcat to deploy static and dynamic content.
+- Created playbooks for start/stop/restart operations and to manage data.
+- Created playbooks to create users in mysql and LDAP.
+- Created Jenkins pipelines for automating AMI build process into various AWS accounts.
+- Automated Termination of AMIs and snapshots in periodically.
+- Worked on SSH KEYPAIR mechanism for securely maintaining and storing secrets.
+- Developed and maintained Hashicorp Vault for ec2 ssh authentication and secret store.
+- Involved in development of Grafana and Global Prametose.
+- Involved in Airflow containerization from amazon ec2.
+- Building and maintaining EMR transient cluster for teams using terraform modules.
+- Building and maintaining EKS clusters using terraform modules.
+- Worked on upgrading EKS clusters upgrades from one version to another version.
+- Worked on updating Jenkins master and slaves from amazon linux 1 to amazon linux?2.
+- Knowledge and involved Airflow containerization.
+- Spend some time on LAM Role setup and user authentication and MFA.
+
+02/2017 to 01/2020 DevSECOps Engineer
+
+Rtx - Tucson, AZ
+Support Application teams to create and manage their apps and resolve issues by working along with them.
+Automating the infrastructure as much as possible using terraform and shell.
+Build the POC for Java and Node Js applications deployment in ECS and Elastic beanstalk using terraform and
+Jenkins.
+Deploy and monitor infrastructure tools like AWS, Chef, BMX(Jenkins), GOCD, Sensu, Newrelic, and Rundeck,
+SignalFX.
+Automate infrastructure as code for building AWS, new relic resources using terraform.
+Working on Venifi certificates and upload to AWS certificate managers, load balancer and Akamai.
+Collaborate in the automation of AWS infrastructure via terraform, troposphere, GOCD and Jenkins - software and
+services configuration via chef cookbooks.
+Working on migrating from GOCD pipeline to Jenkins.
+Configuring Chef to build up services and applications on the instances once they have been configured using
+
+cloud formation.
+
+Experience in Akamai user management and configurations.
+
+Experience in verify certificate management and renewal and upload to AWS IAM, AWS certs manager and
+Akamai flush.
+
+Extensive experience in Maintaining infrastructure as secure and upgrading versions using chef, also experience in
+vulnerability Patching , Kernel upgrades.
+
+Worked on System/Apache OpenSSL minor/major version Upgrades using Cookbooks.
+
+Worked on multiple Web Application services major/minor version upgrades like Java, Nodejs, Apache.
+
+Working on shell scripting, Ruby Scripting and Python.
+
+Provided security and managed user access and quota using AWS Identity and Access Management (LAM).
+including creating new Policies for user/role management.
+
+Automated this process using Terraform along with Terragrunt.
+
+Writing Chef cookbooks, recipes, roles and Data Bags and uploading them on to the chef server for the instances
+that are configured with the changes pick up the latest code.
+
+Worked on creating SES mail and testing with local clients for application teams.
+
+Experience with Docker and Test kitchen for testing the chef cookbooks locally before deploying.
+
+Worked on inspecting test cases for testing AMI’s and chef cookbooks.
+
+Worked on Splunk for logging application log files of an instance to the Splunk.
+
+Responsible for quarterly AMI patches, security and releases.
+
+Proficient with GOCD for continuous integration and continuous deployment and for End-to-End.
+
+Experience in source control systems like SVN, GITHUB.
+
+Responsible for upgrading for GitHub, Central Nike GitHub Enterprise.
+
+Monitored server alerts using Sense and new Relic and setting up alerts for all servers for CPU monitoring, disk
+usage, memory usage.
+
+Worked on migrating Artifactory data to central Artifactory and also responsible for applications, to cut over to
+new one.
+
+Experience on automating infrastructure using Jenkins and Terraform.
+
+Involved in review, status meeting and coordinated with team members.
+
+Communicating with different application team members and coming up with solutions for problems.
+
+Experience in maintaining in-house system administration.
+
+Training various application teams with the concepts of DevOps used at our Infrastructure.
+
+Worked in a team which is responsible for disaster recovery by launching all the application stacks in different
+regions.
+
+Worked On making POC’s, best practices and pre-build templates for Serverless Application build and deployment.
+- Environment: AWS, Cerberus, Nodejs, Artifactory, newrelic, Kubernetes, Terraform, terragrunt, Github. Chef, Docker, Sensu, Lambda, GOCD, CircleCI, SingleFX, Jenkins, Rundeck, Divvycloud.
+
+12/2012 to 01/2015 Intern/Jr. DevOps Engineer/ Linux Administrator Waltair Information Technologies PVT LTD - City, STATE
+
+- Involved to design and build multiple RHEL6.x servers to include OS hardening RHEL5.x/6.x mission critical Oracle RAC Cluster, and VSF and make ready for App/DB Team.
+
+- Used Maven release Plugin to support the release of various application snapshots.
+
+- Install-configure-maintain the Linux servers, DNS, DHCP, SMTP, SSHD.
+
+- Uses LVM creating Volume Groups, Logical volumes and disk mirroring in Linux.
+
+- Setting up and troubleshooting user workstations based on RedHat Linux.
+
+- Account, user and group administration, Permissions policy management and quota implementation, User and Group Administration.
+
+- Worked on User management and group management.
+
+- System performance monitoring, tuning and log management, TCP/IP Networking troubleshooting and Linux Network Administration.
+
+- Assign Roles, manage Users and groups and assign policies using AWS Identity and Access Management (IAM).
+
+- Host file entries, mount point creation, user account unlock and other issue resolution.
+
+- Job scheduling for users using Crontab.
+
+- Worked on Jenkins to build and test the applications.
+
+- Worked on Jenkins pipeline issues.
+
+- Monitoring, creation, acknowledgment and categorization of tickets.
+
+- Disk Space and Logical Volume manager (LVM) Management in Linux.
+
+- Installing configuring and troubleshooting mail servers Postfix.
+
+- DHCP Server configuration automating the setting up of IP, Name Server and Gateway.
+
+- Using LVM (Logical Volume Manager) tools extend Linux Security Services: IP tables, SELinux, Firewalld.
+
+- (Accept & Reject different services like FTP, SSH etc.).
+
+- Configure kernel parameter on Linux servers.
+
+- YUM package repository configuration on Linux servers Backup and restoration using arching tools (tar).
+
+- Configuring and administration of FTP, NFS, SAMBA, APACHE servers.
+
+- Configuring DNS, DHCP and MAIL server.
+
+- Patching: using yum and rpm.
+
+- Troubleshooting the Booting issue.
+
+- Aware of most of the booting issues and know how to fix it.
+
+- Preparing shell scripts for automation of generalized repeated processes.
+
+- Performing all Linux Administration tasks independently.
+
+- Installing physical server and OS (RHEL6, RHEL7) Environment: Rhel, Server configurstions, AWS, Github, Cronjob, LVM.
+
+EpucatTIOoN AND TRAINING
+
+Bachelor of Science: Computer Science Engineering, JNTU Jyothishmathi College of Engineering - Hyderabad
+
+Master of Science: Computer Science & Information Technology Sacred Heart University - Connecticut
+
+CERTIFICATIONS
+--------------
+
+- Certified Red Hat Certified System Engineer (RHCE).
+- Certified Red Hat Certified System Administrator (RHCSA).

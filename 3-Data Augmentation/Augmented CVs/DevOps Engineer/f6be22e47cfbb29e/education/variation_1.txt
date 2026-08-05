@@ -1,0 +1,69 @@
+Rayana Mazzie
+
+DevOps Engineer
+
+& Profile
+
+Detail-oriented DevOps Engineer with a year of experience in building, testing, and maintaining cloud-based applications, Proficient in various
+platforms and operating systems. Demonstrated ability to integrate
+
+and automate processes, improve workflow efficiency, and troubleshoot complex technical issues. Strong collaborator, with a focus on continuous
+learning and improvement,
+
+ti Employment History
+
+DevOps Engineer at Lockheed Martin Corporation, CT
+Apr 2023 - Present
+
+- Led the implementation of a new continuous integration/continuous deployment (CI/CD) pipeline that reduced deployment time by 40%, leading to significant improvements in efficiency and productivity.
+
+- Successfully automated 80% of configuration management tasks using Ansible, reducing manual work and increasing the speed of project delivery.
+
+- Designed and implemented a cloud-based infrastructure using AWS, resulting in a 30% reduction in operational costs for the company.
+
+- Spearheaded a cross-functional team that improved system reliability by 50%, by optimizing Docker container orchestration with Kubernetes.
+
+Junior DevOps Engineer at Infosys Limited, CT
+Jul 2022 - Feb 2023
+
+- Developed and implemented a continuous integration/continuous deployment (CI/CD) pipeline, reducing project delivery times by 30% and increasing team productivity by 20%,
+
+- Managed and maintained 200+ virtual servers in a cloud environment, improving system reliability by 40%.
+
+- Successfully automated infrastructure deployment using Ansible, reducing manual configuration errors by 50% and shortening deployment time by 35%.
+
+- Led a cross-functional team to resolve a critical system downtime issue, resulting in a decrease in system downtime from 10% to less than 1%.
+
+® Education
+
+Bachelor of Science in Information Technology at University of Connecticut, CT
+
+Sep 2017 - May 2022
+
+Relevant Coursework: Database Management, Network Security, Programming, Web Development, Data Analysis, Software Engineering,
+Information Systems, Computer Architecture, Cybersecurity, and IT Project Management.
+
+8 Certificates
+
+Docker Certified Associate (DCA)
+May 2022
+
+Details
+fayana,mazzie@gmail.com
+(769) 138-5570
+
+Hartford, CT
+
+Links
+linkedin.com/in/rayanamazzie
+
+Hobbies
+
+Coding personal projects Reading technology blogs and books
+
+Building and tinkering with computer hardware
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

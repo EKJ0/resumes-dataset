@@ -1,0 +1,317 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+As a DevOps Engineer proudly offering over 5 years of experience fixing bugs in coding with source control tools. Polished
+professional successful designing, testing and implementing infrastructure and applications for various clients. Offering IT solution
+
+building expertise in fast-paced environments.
+
+SKILLS
+------
+
+- Experience supporting IIS 6, 7 and 8 web servers and .Net web applications.
+
+- Experience with Microsoft PowerShell scripting and SQL statement
+
+- Networking and Content Delivery using with VPC ,Route 53, API gateway , create
+
+- Using Database ,Amazon Aurora ,MySQL, MariaDB ,Oracle, Microsoft SQL Server
+
+- Using EC2 instance, EBS , Network and security group ,Load Balancers ,Auto Scaling
+
+- Group ,Lambda ,Elastic Beanstalk Serverless application repository , S3 bucket, EFS,
+
+- Using Codecommit , CodeBuild ,CodeDeploy, Codepipeline.
+
+- DevOps flow Using git , continuous Integration using jenkins ,Build with Maven ,Code
+
+- Net, Windows
+
+- AD, Migration
+
+- Agile, MVC
+
+- API, MySQL
+
+- Architect, Network and security
+
+- Automation, Networking
+
+- Cms, Developer
+
+- Configuration Management, PHP
+
+- Content, Processes
+
+- CSS, Python
+
+- Customer service, Microsoft SOL Server
+
+- Version Control, MS Sql
+
+- Database, SQL
+
+- Debugging, Tables
+
+- Dec, Troubleshoot
+
+- Delivery
+
+- DHCP
+
+- DNS
+
+- Engineer
+
+- Forms
+
+- Gateway
+
+- GCP
+
+- HTML
+
+- DevOps
+
+- Git
+
+- Continuous Integration (CI)
+
+- Configuration Management
+
+- Python
+
+- AWS Elastic Compute Cloud (EC2)
+
+- Chef Infrastructure Automation
+
+- Linux
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 12/2018 to 03/2021 Paypal - Santa Barbara, CA
+
+- Developed strong communication, active listening and interpersonal skills, which were used when collaborating with product
+
+development team and other stakeholders.
+
+- Optimized project development and roll-out through in-depth technical research and analysis of risk-reward scenarios.
+
+Shell Scripting
+
+UNIX
+
+Atlassian JIRA
+
+Nagios
+
+Staff Management
+
+Hardware and Software Configuration Bash
+
+GitHub
+
+Systems Analysis
+
+Tomcat
+
+JAVA
+
+Scheduling
+
+SQL
+
+Azure Devops
+
+Terraform
+
+Ansible
+
+Amazon Web Services (AWS) Apache Subversion (SVN) Software Installation
+
+System Configuration
+
+Docker Software
+
+AWS Simple Storage Service ($3) Hardware and Software Installation Version Control
+
+MySQL
+
+Continuous Deployment
+
+Red Hat Linux Administration Inventory Monitoring
+
+Vagrant Software
+
+Packaging
+
+Apache Tomcat
+
+SQL Server
+
+Jenkins
+
+Ubuntu
+
+Network File System
+
+NGINX
+
+Data Dictionary System Structured Query Language (SQL)
+
+- Tested and troubleshot application and documented issue resolutions for development team.
+
+- Created and implemented tracking software with modules designed for specific client needs.
+
+- Collaborated with development team members to create and integrate high availability solutions for mission-critical
+
+applications.
+
+- Coordinated ongoing performance assurance for software applications and automated performance test scripts.
+- Cooperated with project partners to develop system analysis and new system design based on client specifications.
+
+- Delivered software solutions consistent with product roadmap, release plan milestones and key performance indicators.
+
+- Documented outline for project's technical design to keep all stakeholders aware of each milestone.
+
+- Automated application build and deployment, driving efficiency of code development process.
+
+- Applied best practices at all times and encouraged others to do same, which helped to maintain effective security.
+- Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing
+
+and final implementation.
+
+- Motivated software engineer passionate about architecting, defining issues, and building at scale in cloud environments.
+
+- Researched latest tools and technologies to determine effectiveness in agile environment growth.
+
+- Grasped user needs and drove development to working prototype stages.
+
+- Assembled and integrated technologies across different platforms to meet complex user needs.
+
+Junior DevOps Engineer, 03/2016 to 10/2016 Accenture Contractor Jobs - Rolling Meadows, IL
+
+- Monitored software algorithm development and conducted independent assessments to recommend procedural and system
+
+improvements.
+
+- Participated in team-based assessments to ascertain DevOps assignment goals.
+- Collaborated with development, QA and IT operations staff to enhance software productivity.
+
+- Developed and executed DevOps strategy to deploy software that improves application health and performance.
+- Evaluated deliverables as well as test, validation and verification activities to review for adherence with project requirements.
+- Created systems engineering documentation and proposed allocation across systems based on project parameters.
+
+- Oversaw software development projects and met organizational objectives using knowledge of industry standards and concepts.
+
+- Incorporated technology best practices to enhance app operational performance.
+
+- Recommended improvements to facilitate team and project workflow.
+
+- Devised automation, backup and recovery protocols to preserve and safeguard data.
+
+- Advised customers and users on required maintenance practices for diverse software systems to support OEM warranty
+
+requirements and industry best practices.
+
+- Assessed code during testing stage to determine potential glitches and bugs.
+
+- Delivered software solutions consistent with product roadmap, release plan milestones and key performance indicators.
+
+- Coordinated installation of software systems and collaborated with user experience team on design and implementation of new
+
+features.
+
+- Updated software upon release of vendor patches to mitigate vulnerabilities.
+
+- Collaborated with support team to assist client stakeholders with emergent technical issues and develop effective solutions.
+
+- Wrote user manuals and other documentation for roll-out in customer training sessions.
+
+- Reviewed project requirements to identify customer expectations and resources needed to meet goals.
+
+- Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing
+
+and final implementation.
+
+- Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+
+- Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and reuse.
+- Identified areas of applications for regression testing following software updates, system changes or functionality changes to
+
+avoid unnecessary downtime and recoding.
+
+- Coordinated ongoing performance assurance for software applications and automated performance test scripts.
+
+- Identified opportunities for process improvements to decrease in support calls.
+
+- Implemented unit and integration testing protocols to consistently deliver high quality, functional features with minimal defects.
+
+- Analyzed code and corrected errors to optimize output.
+
+Frontend Web Developer, 04/2014 to 09/2016 Digital Turbine - Arlington, VA
+
+- Improved and designed new layouts to achieve usability and performance objectives.
+
+- Collaborated with customers to determine needs and work through design options.
+
+- Worked with product designers and product managers to design user interactions in applications.
+
+- Created successful websites that met requirements for objectives such as load speed and design.
+- Developed sites to work with Microsoft Edge, Mozilla Firefox and Google Chrome.
+
+- Identified UX pain points and provide knowledgeable recommendations for implementing unified user experience.
+- Participated in pre-project analysis and technical assessments to develop user-friendly interface and correct functionality to meet
+
+business objectives.
+
+- Gathered, defined and translated client requirements into product stories and actionable tasks.
+
+- Translated concepts into user flows, wireframes, mockups and prototypes to promote positive intuitive designs, site interactions
+
+and user experiences.
+
+- Maintained strong education in latest technologies, software and hardware products for use in various projects.
+- Defined and conducted design processes at all stages, including research, conceptualization, testing and implementation.
+
+- Designed visual and graphic images to use on multiple platforms.
+
+- Established hosting for each website and completed go-live process by uploading sites to host account.
+
+- Created and implemented firewalls, encryption strategies and other critical security measures.
+
+- Delivered end-user training on content management systems allowing staff to make easy updates and maintenance to website
+
+without developer assistance.
+
+- Reviewed project specifications and devised solutions for use across multiple websites.
+
+- Completed design projects to meet budget, equipment, performance and legal requirements.
+
+- Redesigned sites to enhance navigation and improve visual appeal.
+
+- Validated code for proper structuring, security and compatibility with different browsers, devices or operating systems.
+- Directed design, writing and production of page content to fulfill project demands and satisfy customer needs.
+
+- Troubleshot, tested and remedied issues before software deployment.
+
+- Reviewed information and elements regularly on websites and pages for accuracy and functionality.
+
+Education and Training
+
+BSC: Computer Science and Engineering Shahjalal University of Science & Technology
+
+CERTIFICATIONS
+--------------
+
+- Certified AZ-303: Microsoft Azure Architect Technologies.
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

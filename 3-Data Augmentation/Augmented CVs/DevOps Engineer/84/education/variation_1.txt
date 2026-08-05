@@ -1,0 +1,180 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+ACCOMPLISHMENTS
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+- 8+years of IT experience as a DevOps Engineer in CI (Continuous Integration), CD (Continuous Development), a strong background in Build and Release Management, and Cloud Implementation, all within the suite the needs of an environment in a DevOps Culture.
+
+- Extensive experience in troubleshooting various issues related to Linux OS in the live environment.
+- Providing solutions related to Google Email services, Gmail, Qmail, etc.
+- Working with Linux, AWS, Docker, Jenkins, Ansible, GIT, Nagios, NRPE, WebLogic, JBoss, Docker, KVM, VMware, DRAC servers, etc. Managing a team and working with the team as a team player.
+
+- Good knowledge of other Amazon web services, which include S3, EBS, VPC, ELB, Route 53, Autoscaling, Security Groups.
+
+- |am involved in designing and deploying multi-tier applications utilizing all the AWS services like (EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, IAM) focusing on high availability, fault tolerance, and auto- scaling in AWS Cloud Formation.
+
+- Designed scalable and highly available Domain Name System(DNS) within AWS Cloud to route traffic to AWS Cloud from users connected using AWS Direct Connect for larger deployments.
+
+- Created scripts in Python Which Integrated with Amazon API to control instance operations.
+
+- Build server deployment on Cloud (EC2) servers with help of DevOps tools like Chef.
+
+- Created monitors, alarms, and notifications for EC2 hosts using Cloud Watch.
+
+- Optimization/cost reduction of Amazon AWS services (EC2, S3, EBS, ROUTES3, VPC).
+
+- Configured Apache web server in the Linux AWS Cloud environment using Chef automation.
+
+- Implemented highly responsive multi-channel enhanced customer experience, with Microservices deployed on Pivotal Cloud Foundry (PCF) for highly scalable and agile backend infrastructure.
+
+- Resolved product issue through consumer testing.
+
+- Used Microsoft Excel to develop inventory tracking spreadsheets.
+
+- Configured and installed Red Hat and CentOS Linux Servers on both virtual machine and bare metal
+
+- User account management and administration; Troubleshooting User's login and home directory related issues, reset password and unlock user accounts
+
+- Performed automated installations of Operating System using kick start for Red Hat Enterprise Linux 5
+
+- Implemented Shell, Perl scripting using ksh /csh /bash/Sed/Awk to ease administration tasks
+
+- Maintaining inventory of all components including systems and other hardware performed User Account management, data backups, and user's logon support
+
+- Setup user and group login ID's, network configuration, password, resolving permissions issues, user and group quota
+
+- Creating and maintaining user accounts, profiles, security, rights, disk space and process monitoring.
+
+Routine Activities:-
+
+- Handling of new servers builds on-demand physical & VM servers.
+
+- Working with Nagios, Cacti & GIT.
+
+- Creating EC2 instances and managing AM roles as per the requirement.
+
+- Managing Route53 for managing DNS records.
+
+- Creating and managing S3 buckets to store data.
+
+- Handling & troubleshooting file system related issues and alerts.
+
+- Troubleshooting Gmail, Nginx, Docker and User Administration related issues
+
+- Sharing knowledge with newcomers in the organisation.
+
+- Analysing network, disk, server load and processor performance, disk 10.
+
+- Creating scripts and scheduling them as Cron jobs to automate tasks/process.
+
+- Handling service management related tasks and other tasks.
+
++» Upgrading OS and other software as and when required.
+
+- Installation of Red-hat, CentOS and Ubuntu Operation Systems.
+
+- Creating and managing objects like Docker Container and LVMs, Vgs and Pys etc.
+
+- Managing snapshots, AMIs and security groups for server security and backup in case of
+
+disaster recovery.
+
+- Handling and managing KVM / Fail Overs.
+
+- Server's health monitoring and generating server's health report.t
+
+Environment Cl/CD, AWS, Jira,.net, Java, Ansible, | Eagerness to Learn About New Technologies
+Splunk, WebLogic, Docker, Python, Apache,MySQL,
+
+Ant, Hadoop, Kubernetes, Shell, Git,Kafka,
+
+Terraform, Azure, Atlassian.
+
+DEVOPS ENGINEER 03/2021 to CURRENT Koch Industries, Inc. | Fremont, CA
+
+- [scanned and analyzed my experiencedeploying and maintaining multi-container applications through Docker.
+
+- Worked on several Docker components like Docker Engine, Hub, and Machine, creating Docker Images, Docker Registry.
+
+- Worked on PCF for effective deployment of the application in thecloud using Spring Boot.
+
+- Worked on the deployment of REST Web services and microservices in PCF.
+
+- Experience in Blue-green deployment that reduces downtime and risk by running two identical production environments.
+
+- Worked on Docker container snapshots, attaching to a running container, removing images, managing directory structures, and managing containers.
+
+- Managed builds and wrote build scripts for JAVA and WebSphere based applications
+
+- Managed and monitored the server and network infrastructure using AppDynamics, Splunk. Performed system administration and operations tasks using Jenkins, AppDynamics.
+
+- Installed Splunk in production servers for logging purposes. Built Splunk dashboards for application monitoring. Configured alerts for operational purposes.
+
+- Scanned/Analyzed the builds using SonarQube for effective coding practices.
+
+- - Interfaced with a cross-functional team to determine a comprehensive list of requirements specifications for new applications.
+
+DEJOPS ENGINEER 07/2017 to 08/2020 Koch Industries, Inc. | Dallas, TX
+
+- Monitored automated build and continuous software integration process to drive build/release failure resolution.
+- Wrote and updated documentation to outline technical design of the entire project.
+
+- Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.
+
+- Experience in configuration and administration of Splunk clusters and in-depth knowledge of analysis and maintaining logs.
+
+- Experience in using Splunk, Appdynamics, Dynatrace, Nagios . IBM monitoring tools(TAM).
+
+- Experience in Blue-green deployments/Zero downtime deployments in production environments.
+
+- Good knowledge on other Amazon web services which includes $3, EBS, VPC, ELB, Route 53, Auto scaling, Security Groups.
+
+DECOPS ENGINEER 09/2014 to 07/2017 Koch Industries, Inc. | Brunswick, GA
+
+- |have extensive Mesos experience, experience in a UNIX environment, and expertise in several flavors of Linux, including Red Hat, CentOS, and Ubuntu.
+
+- Expert in developing cloud strategies, roadmaps, architecting new cloud solutions or migrating enterprise applications to the cloud.
+
+- Experience working on several Docker components like Docker Engine, Hub, and Machine, creating Docker Images, Docker Registry, and handling multiple images. knowledge of Mesos, and marathon.
+
+- Extensively worked on Hudson and Jenkins for continuous integration and End-to-End automation for all builds and deployments.
+
+- Excellent hands-on experience with configuration management tools like Chef, Puppet, Ansible, and Docker.
+
+- Experience in the administration and maintenance of source control management systems such as Git Hub and Subversion SVN. created tags, branches, fixed the merge issues and administered software repositories.
+
+- Good knowledge in creating and maintaining various DevOps-related tools for the team such as provisioning scripts, deployment tools, and staged virtual environments using Docker and Vagrant.
+
+- Automated processes with custom-built Python & Shell scripts.
+
+- Experience in Blue-green deployments/Zero Downtime deployments in production environments.
+
+- Good knowledge of other Cloud-based services like GCS, Microsoft Azure.
+
+- Knowledge of using build automation tools like MAVEN, Bamboo, Gradle, and ANT for the building of deployable artifacts such as war & ear from source code.
+
+Master of Science | Management Information Systems 04/2014 Christian Brothers University, Memphis, TN
+
+- Capstone Project: California Housing Price System (California), [Development and | worked in the data science field. So we decided to go with Python and used to various modules available in the market. We used various datasets to get the various features on which the pricingof the house depends. Also, by carefully examined the data we got an idea of what are the most valuable features are in deciding the price of the house. Like geographic location, or crime rate or nearby facilities, After the model is built and ready to be hosted on the local network we will add filters in order to tweak the model or filter out any unwanted results.]
+
+- 3.75 GPA
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

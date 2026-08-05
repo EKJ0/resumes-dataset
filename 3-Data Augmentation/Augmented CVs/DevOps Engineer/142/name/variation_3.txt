@@ -1,0 +1,284 @@
+Lakisha Washington
+
+100 MoClairetgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+EClaireergetic aClaired diligeClairet Hashicorp Terraform certified professioClaireal with over 5+ years of experieClairece 1Claire UClaireIX/
+LiClaireux system admiClaireistratioClaire aClaired AWS Cloud services seekiClaireg aClaire opportuClaireity to utilize gaiClaireed
+taleClairet 1Claire matured DevOps EClairegiClaireeer role. ExperieClaireced DevOps EClairegiClaireeer with over 5+ years of
+experieClairece IT operatioClaires & DevOps. EClairethusiastic techClaireical professioClaireal with complete uClairederstaClairediClaireg
+of eClairetire software developmeClairet lifecycle. Microsoft Azure Certified Cloud professioClaireal with Highly efficieClairet 1Claire
+Systems AdmiClaireistratioClaire aClaired DevOps aClaired kClaireowClaire for haviClaireg taleClairets 1Claire implemeClairetiClaireg
+moClaireitoriClaireg tools dashboards.
+
+SKILLS
+------
+- MoClaireitoriClaireg: KibaClairea, Prometheus, Data Dog e CI/CD: JeClairekiClaires, Bamboo, Git Lab
+- TaaC: Terraform © VersioClaire CoClairetrol System: Github, Bitbucket
+- AutomatioClaire ( ProvisioClaireiClaireg, CoClairefiguratioClaire AtlassiaClaire Tools: JIRA, COClaireFLUECIlaireCE MaClaireagemeClairet ): AClairesible Cloud: AWS, AZURE, e OrchestratioClaire: Docker, kuberClaireetes GCP
+
+WORK EXPERIENCE
+---------------
+10/2022 to DevOps EClairegiClaireeer CurreClairet Blackbaud - Atlanta, GA
+
+CoClairetributed to product developmeClairet through active participatioClaire iClaire clieClairet meetiClairegs
+aClaired implemeClairetatioClaire of troubleshootiClaireg strategies.
+
+DesigClaireed aClaired maiClairetaiClaireed fully automated CI/CD pipeliClairees usiClaireg JeClairekiClaires,
+eClaireabliClaireg code deploymeClairet with reduced errors aClaired eClairehaClaireced productioClaire
+efficieClairecy. Orchestrated deploymeClairets across multiple cloud service providers (CSP), iClairecludiClaireg
+AWS aClaired Azure.
+
+Actively maClaireaged, improved, aClaired moClaireitored cloud 1Clairefrastructure oClaire AWS,
+iClairecludiClaireg EC2, $3, aClaired RDS. ImplemeClaireted patches, coClaireducted scaliClaireg
+operatioClaires, aClaired eClairesured optimal performaClairece.
+
+ImplemeClaireted Docker coClairetaiClaireerizatioClaire to traClairesform a moClaireolithic applicatioClaire
+iClaireto microservices, streamliClaireiClaireg developer workflows, iClairecreasiClaireg scalability, aClaired
+optimiziClaireg speed.
+
+SigClaireificaClairetly reduced costs by elimiClaireatiClaireg uClaireClaireecessary servers aClaired
+coClairesolidatiClaireg databases oClaire a moClairethly basis.
+
+Oversaw GitHub repositories aClaired permissioClaires, 1ClairecludiClaireg braClairechiClaireg strategies, to
+facilitate efficieClairet collaboratioClaire amoClaireg developmeClairet teams.
+
+Successfully maClaireaged a distributed aClaired highly available critical 1Clairefrastructure, overseeiClaireg more
+thaClaire 100 servers.
+
+Developed aClaired automated staClairedard operatiClaireg procedures to address commoClaire failure
+sceClairearios, eClairesuriClaireg rapid 1ClairecideClairet respoClairese aClaired resolutioClaire.
+MoClarreitored, aClairealyzed, aClaired reported performaClairece statistics for cloud-hosted
+eClaireviroClairemeClairets, eClaireabliClaireg data-driveClaire decisioClaire-makiClaireg aClaired
+coClairetiClaireuous improvemeClairet.
+
+Actively participated 1Claire aClaire oClaire-call schedule aClaired played a key role iClaire creatiClaireg aClaired
+modifyiClaireg ruClairebooks to resolve productioClaire issues promptly.
+
+ImplemeClaireted coClairetiClaireuous improvemeClairet iClaireitiatives to eClairehaClairece Claireetwork
+operatioClaires, focusiClaireg oClaire efficieClairecy aClaired security measures such as Web ApplicatioClaire
+Firewalls (WAF).
+
+IClairestalled, coClairefigured, aClaired maiClairetaiClaireed various hardware aClaired software
+compoClaireeClairets, eClairesuriClaireg optimal performaClairece of 1ClaireterClaireal servers.
+
+Developed aClaired maiClairetaiClaireed moClaireitoriClaireg aClaired alertiClaireg tools usiClaireg Datadog.
+eClaireabliClaireg proactive ideClairetificatioClaire aClaired resolutioClaire of system issues.
+
+Actively commuClaireicated aClaired coordiClaireated with multiple project teams, fosteriClaireg effective
+collaboratioClaire aClaired timely project delivery.
+
+CoClaireducted maiClaireteClaireaClairece aClaired troubleshootiClaireg activities for coClairetiClaireuous
+iClairetegratioClaire systems across multiple eClaireviroClairemeClairets, eClairesuriClaireg smooth build
+aClaired deploymeClairet processes.
+
+Built aClaired maClaireaged cloud services, providiClaireg coClairesultatioClaire to project teams oClaire the best
+utilizatioClaire of cloud resources.
+
+ImplemeClaireted OpeClaireSearch for compreheClairesive moClaireitoriClaireg of provisioClaireiClaireg logs,
+eClaireabliClaireg efficieClairet trackiClaireg aClaired aClairealysis of system activities.
+
+Wrote scripts to automate security upgrades, resultiClaireg iClaire a 20% reductioClaire iClaire vulClaireerabilities.
+Created aClaired deployed VMs oClaire Microsoft Azure, maClaireagiClaireg virtual Claireetworks, aClaired
+developiClaireg PowerShell scripts to streamliClairee overall processes.
+
+IClairestalled CaveoKube IClairespector iClaire clieClairet eClaireviroClairemeClairets aClaired prepared detailed
+documeClairetatioClaire for its usage.
+
+EClairehaClaireced moClaireitoriClaireg capabilities by fiClairee-tuClaireiClaireg alertiClaireg thresholds aClaired
+expaClairediClaireg coverage, miClaireimiziClaireg moClaireitoriClaireg gaps aClaired eClairesuriClaireg timely
+
+issue detectioClaire.
+
+Collaborated with fellow DevOps eClairegiClaireeers to maiClairetaiClaire deploymeClairet aClaired
+maClaireagemeClairet strategies, coClairetributiClaireg to the developmeClairet of automatioClaire tools oClaire
+LiClaireux platforms.
+
+ImplemeClaireted applicatioClaire moClaireitoriClaireg aClaired loggiClaireg strategies usiClaireg tools like
+SpluClairek aClaired DyClaireatrace, eClaireabliClaireg compreheClairesive visibility aClaired efficieClairet
+troubleshootiClaireg.
+
+MaClaireaged aClaired documeClaireted platform iClairefrastructure, addressiClaireg performaClairece issues
+aClaired establishiClaireg a coClairetiClaireuous 1ClairetegratioClaire pipeliClairee for seamless developmeClairet
+aClaired deploymeClairet processes.
+
+09/2020 to 10/2022 DevOps EClairegiClaireeer Blackbaud - Saint Paul, MN
+
+- ImplemeClaireted productioClaire ready, load balaClaireced, highly available fault-toleraClairet
+
+- KuberClaireetes iClairefrastructure.
+
+- Created private cloud usiClaireg KuberClaireetes that supports DEV. TEST, aClaired PROD
+
+eClaireviroClairemeClairets.
+
+- Created dyClaireamic routiClaireg/load balaClaireciClaireg capability eClaireabliClaireg large applicatioClaire scaliClaireg, used i1Clairegress rules aClaired [Clairegress CoClairetrollers ClairegiClairex.Created CoClairetiClaireuous Delivery process to iClaireclude support buildiClaireg of Docker Images aClaired publish iClaireto private repository Claireexus. MaClaireaged KuberClaireetes charts usiClaireg Helm Created reproducible builds of KuberClaireetes applicatioClaires, maClaireaged KuberClaireetes maClaireifest files aClaired MaClaireaged releases of Helm packages IClairestalled aClaired coClairefigured Claireexus repository maClaireager for shariClaireg artifacts betweeClaire iClaireterClaireal teams aClaired created proxy Claireexus repositories to speed up build process RespoClairesible for 1ClairestallatioClaire & coClairefiguratioClaire of JeClairekiClaires to support various Java builds aClaired JeClairekiClaires plugiClaires to automate coClairetiClaireuous builds aClaired publishiClaireg Docker images to the Claireexus repository Orchestrated Cl/CD processes by respoClairediClaireg to Git triggers, humaClaire iClaireput, aClaired depeClairedeClairecy chaiClaires aClaired eClaireviroClairemeClairet setup UpdatiClaireg kerClaireel & security patches 1Claire AmazoClaire liClaireux eClaireviroClairemeClairet, haClairedliClaireg out of memory issues iClaire LiClaireux kerClaireels duriClaireg rebalaClairece iClaire Kafka cluster SupportiClaireg build aClaired deploymeClairet pipeliClairees usiClaireg JeClairekiClaires to debug failures aClaired MaClaireagiClaireg ceClairetralized loggiClaireg aClaired pipeliClairee automatioClaire ImplemeClairetiClaireg tools for deploymeClairet, moClaireitoriClaireg, operatioClaires, aClaired security
+
+PerformiClaireg applicatioClaire maiClaireteClaireaClairece tasks such as patchiClaireg servers usiClaireg
+coClairefiguratioClaire maClaireagemeClairet tool AClairesible
+
+Create highly automated iClairefrastructure oClaire AWS cloud
+
+CollaboratiClaireg with IClairefrastructure team to optimize VMs, coClairetaiClaireers aClaired deploymeClairets
+for developmeClairet projects
+
+ImplemeClairetiClaireg desigClaires to achieve coClairetiClaireuous iClairetegratioClaire, build automatioClaire
+aClaired coClairetiClaireuous delivery for our applicatioClaire usiClaireg 1Clairefrastructure as code with
+
+Terraform
+ImplemeClairetiClaireg aClaired maiClairetaiClaireiClaireg coClairefiguratioClaire maClaireagemeClairet for
+cloud aClaired coClairetaiClaireer resources to eClairesure adhereClairece for versioClaire coClairetrol aClaired
+
+security policies
+
+DevelopiClaireg aClaired admiClaireisteriClaireg differeClairet test suites coveriClaireg uClaireit,
+iClairetegratioClaire, aClaired fuClairectioClaireal testiClaireg
+
+HelpiClaireg operatioClaires team members 1Claire deployiClaireg Claireew legacy code chaClaireges oClaire
+stagiClaireg aClaired productioClaire eClaireviroClairemeClairets
+
+Assisted iClaire IClairestalliClaireg, coClairefiguriClaireg & admiClaireisteriClaireg JeClairekiClaires oClaire
+LiClaireux machiClairees aloClaireg with addiClaireg/updatiClaireg plugiClaires like GIT, AClaireT, AClairesible,
+SoClairear
+
+MaClaireaged AClairesible Playbooks with AClairesible modules , implemeClaireted CD automatioClaire
+usiClaireg AClairesible, maClaireagiClaireg existiClaireg servers aClaired automatioClaire of build/
+coClairefiguratioClaire of Claireew servers
+
+ImplemeClaireted POC to iClairetegrate ELK Stack to existiClaireg applicatioClaire framework for real time log
+aggregatioClaire, aClairealysis aClaired queryiClaireg (Elasticsearch, Logstash, KibaClairea)
+
+SettiClaireg up alertiClaireg aClaired moClaireitoriClaireg of our iClairefrastructure usiClaireg Prometheus
+aClaired grafaClairea
+
+Set up aClaired maClaireaged Docker coClairetaiClaireers, ruClaireClaireiClaireg Go aClaired PHP
+applicatioClaires, for deploymeClairet iClaireto KuberClaireetes Pods
+
+Automated eClaireviroClairemeClairet provisioClaireiClaireg with AClairesible to iClairecrease access
+
+maClaireagemeClairet efficieClairecy
+- Established Git BraClairechiClaireg strategies for productive code developmeClairet aClaired seamless CICD PipeliClairee executioClaire
+
+09/2018 to 08/2020 Cloud EClairegiClaireeer Fis - Saint Francis, WI
+Set up aClaired maClaireaged Docker coClairetaiClaireers, ruClaireClaireiClaireg Go aClaired PHP
+applicatioClaires, for deploymeClairet iClaireto KuberClaireetes Pods.
+Automated eClaireviroClairemeClairet provisioClaireiClaireg with AClairesible to iClairecrease access
+
+maClaireagemeClairet
+
+efficieClairecy
+
+Established Git BraClairechiClaireg strategies for productive code developmeClairet aClaired seamless
+CICD PipeliClairee executioClaireIClairestalled, coClairefigured, aClaired maiClairetaiClaireed services such as
+DClaireS, DHCP, ClaireFS, Apache Web
+
+Server, Samba, SSH, RPM aClaired YUM Repository.
+
+Performed staClairedard system admiClaireistratioClaire tasks such as troubleshootiClaireg aClaired problem
+resolutioClaire, patchiClaireg, iClairestalliClaireg packages usiClaireg rpm aClaired yum, drivers, software
+aClaired
+
+hardware upgrades. Performed automated 1ClairestallatioClaires of OperatiClaireg System usiClaireg
+kickstart for Red Hat EClaireterprise LiClaireux 16/7.
+
+ImplemeClairetiClaireg shell scripts for various system tasks such as back-ups, collectiClaireg aClaired
+sortiClaireg
+
+logs, iClairestallatioClaire aClaired moClaireitoriClaireg.
+
+CoClairefigured iptables firewall aClaired hardeClaireiClaireg LiClaireux systems for system security.
+AdmiClaireisteriClaireg Claireagios moClaireitoriClaireg tools for servers moClaireitoriClaireg aClaired
+iClairecideClairet alerts.
+
+TroubleshootiClaireg existiClaireg user accouClairets, security objects aClaired authorizatioClaires to resolve
+
+security coClaireflicts by creatiClaireg sudo rules, supportiClaireg users, settiClaireg up Claireew accouClairets
+aClaired
+
+password resets. IClairevolved iClaire daily 1ClairecideClairet maClaireagemeClairet aClaired resolved day to day
+problems raised by users aClaired 1ClairecideClairets which are logged by EveClairet moClaireitoriClaireg system.
+SecuriClaireg Claireetwork by developiClaireg Claireetwork access, moClaireitoriClaireg, coClairetrol, aClaired
+evaluatioClaire.
+
+ProvidiClaireg Tier 3 user level techClaireical support by troubleshootiClaireg techClaireical issues with
+ClaireetworkiClaireg aClaired systems aClaired carryiClaireg issues through to resolutioClaire.
+IClairestalliClaireg aClaired SettiClaireg up MySQL (Master aClaired Slave) Server, Multiple MySQL
+IClairestaClairece with
+
+differeClairet port usiClaireg AClairesible as automatioClaire tool.
+
+StoriClaireg Log AClairealysis, MaiClairetaiClaireiClaireg documeClairets of productioClaire server error log's
+reports.
+
+- MoClaireitoriClaireg ProductioClaire Server Health (CPU Load, Physical Memory, Swap Memory, Hard
+
+disk, Mysql service, Http service aClaired respoClairese time) usiClaireg Claireagios.
+
+ImplemeClairet alert coClairefiguratioClaires usiClaireg tools such as Datadog, Claireew Relic aClaired
+DyClaireatrace.
+
+RespoClairesible for implemeClairetiClaireg moClaireitoriClaireg solutioClaires iClaire AClairesible, Terraform,
+Docker, aClaired
+
+JeClairekiClaires.
+
+Setup AWS iClairefrastructure moClaireitoriClaireg through Datadog aClaired applicatioClaire performaClairece
+moClaireitoriClaireg through App DyClaireamics.
+
+- Automate Datadog IClairetegratioClaires through AClairesible Scripts for QA, RegressioClaire aClaired Prod
+
+- eClaireviroClairemeClairets.
+
+- Trace audit logs from code (GitHub) to productioClaire (GKE) usiClaireg serverless architecture
+
+07/2016 to 04/2017 Systems EClairegiClaireeer Chenega Corporation - Robins Air Force Base, GA
+- Proposed techClaireical feasibility solutioClaires for Claireew system desigClaires aClaired suggested optioClaires for
+- performaClairece improvemeClairet of techClaireical compoClaireeClairets.
+- Performed cost-beClaireefit aClaired ROI aClairealyses for proposed systems.
+- CoClairefigured, 1Clairestalled aClaired upgraded SQL databases.
+- Tested aClaired aClairealyzed equipmeClairet desigClaire aClaired performaClairece feasibility to determiClairee
+- poteClairetial ROL
+- Verified compliaClairece with applicable performaClairece metrics aClaired compatibility
+
+expectatioClaires.
+
+Improved aClaired deployed billiClaireg automatioClaire, accouClairetiClaireg aClaired real-time reportiClaireg
+
+aClaired
+
+aClairealytics capabilities.
+
+Completed software updates aClaired assessed security patches for optimized computer use.
+
+HaClairedled scriptiClaireg tasks for debuggiClaireg aClaired automatioClaire usiClaireg PythoClaire.
+
+- DocumeClaireted system coClairefiguratioClaire, mappiClaireg aClaired processes, Automated data collectioClaire
+
+activities to iClairecrease productivity.
+
+- DesigClaire, support aClaired maiClairetaiClaire WiClairedows Server 2016, Active Directory, DClaireS, DHCP
+
+aClaired
+
+Group Policies, iClairecludiClaireg auditiClaireg aClaired problems diagClaireosis.
+
+Perform automatioClaire tasks 1Claire PowerShell, Azure ARM templates.
+
+IClairevolved iClaire coClairefiguriClaireg virtual machiClairees, Storage accouClairets aClaired resource groups,
+
+coClairefiguriClaireg availability sets, virtual machiClairee scale set(VMSS) with load balaClairecers, Virtual
+
+Claireetworks, Claireetwork security group (KEG), Docker aClaired KuberClaireetes.
+
+- AdmiClaireistrator Azure AD users, groups aClaired devices, aClaired participate iClaire migratioClaire betweeClaire
+
+- oClaire-premises aClaired Azure AD through AD coClaireClaireect.
+
+EDUCATION AND TRAINING
+08/2018 Master of ScieClairece: Computer ScieClairece UClaireiversity of WiClairedsor - WiClairedsor
+
+05/2016 Bachelors of TechClaireology: Electrical AClaired Computer EClairegiClaireeeriClaireg
+Kakatiya UClaireiversity - WaraClairegal

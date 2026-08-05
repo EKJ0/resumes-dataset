@@ -1,0 +1,65 @@
+ROBERT SMITH Senior Devops Engineer Il
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Versatile and tenacious problem solver with broad, holistic experience managing servers, security,
+cloud infrastructure, applications, firewalls, networks, and personal devices. Security and Unix
+focused with excellent troubleshooting skills. Proactive facilitator and excellent communicator with
+over five years of remote project management and team effort coordination connecting resources
+across the world.
+
+CORE COMPETENCIES
+
+Unix Administration, IT Security, DevOps.
+
+WORK EXPERIENCE
+---------------
+
+Senior Devops Engineer Itt
+RTI International - January 2014 - 2020
+
+wa Deliverables:
+Used MAVEN as build tools on Java projects lor the development of build artifacts on the source coda,
+
+- Developed Scripts for AWS Orchestration Developed Scripts for AWS Orchestration Designing and developing new back-end services, maintaining and expanding our AWS infrastructure, and providing mentorship to athers.on my team.
+
+» Developed/captured/documented architectural best practices for building systems on AWS.
+
+- Worked with technical and non-technical teams across Amazon (AWS).
+
+- Automated the build and release management process including monitoring changes between releases.
+
+- Worked with Docker tor convenient environment setup for development and testing.
+
+» Wrote Docker images for Bamboo, Nexus and various.
+
+Senior Devops Engineer
+Delta Corporation - 2011 - 2014
+
+Koy Deliverables:
+
+Support and maintenance for premium (Several-million dollars) accounts:
+
+=» New area in the company, managing applications in the customers own premises, or their own cloud accounts.
+
+- Elasticsearch, Kibana, Icinga2, Ansible, AWS support, using GIT, APIs; Python and Bash to script things around,
+
+- Secondary support for the application stack,
+
+» Developed Powershell programs to automate configuration and deployment of testing
+environments using Windows Server 2012 A2, SQL Server 2012 R2, .
+
+- Applications included configuration and maintenance ol A10 Load Balancers, implementation of SOL Server transactional replication, configuration ol ,
+
+- Thisis Dummy Description data, Replace with job description relevant to your current role,
+
+SS
+2259 Oak Street, Old Forge, New York, 13420 ‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

@@ -1,0 +1,177 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Am a DevOps and Cloud Platform Engineer with a combined 5 years’ experience in IT Services. have applied My skills in Linux, CI/CD
+pipeline configuration with Jenkins, Ansible and SCM tools for end-to-end Automation & Deployment of Software to different environments.
+T have applied my skills to maintain a highly secured environment with best practices to provision and manage security, fault-tolerant,
+scalable, and highly available architectures.
+
+SKILLS
+------
+
+- Cloud Orchestration/Automation: AWS CloudFormation, AWS « Application Delivery: Application Delivery/ DevOps: Jira,
+
+Lambda, AWS Systems Manager, AWS SSM Parameter Store, Confluence, AWS CodePipeline, AWS CodeCommit, Codebuild,
+Ansible, Docker, Terraform, ECS, Kubernetes Codedeploy, Github, Gitlab, Bitbucket, Jenkins, Jenkinsfile,
+
+- AWS Security: AWS Security Hub, AWS Guard Duty, AWS Maven, Sonarqube, Nexus, Tomcat, Docker, Dockerfile, Ansible, Shield, AWS Firewall Manager, AWS Inspector. Kubermetes, ECS, Terraform
+
+- Monitoring & Event Management: AWS CloudWatch (Events © Data Protection: AWS Certificate Manager, AWS KMS,
+
+& Logs), AWS SNS, AWS $3 Snapshot Lifecycle Manager,
+- Identity & Access Management: AWS Organization, AWS Self Service: Service Catalog IAM, AWS Secrets Manager. Network: VPC, VGW, TGW, CGW, IGW, NGW.
+- Governance & Compliance: AWS Config Rules, AWS Image & Patch: AWS SSM Patch Manager, AWS Golden AMI Organization, AWS Control Tower, AWS Trusted Advisor, AWS Pipeline Well Architected Tool, AWS Budgets, AWS License Manager. AWS Platform: AWS CloudFormation, AWS Lambda, AWS
+
+- Programming Languages: Bash, JSON, YML, Python Systems Manager, $3, VPC, EC2, ELB, RDS, SNS, SQS, SES, Route53, CloudFront, Service Catalog, AWS Auto Scaling, Trusted Advisor, CloudWatch. Worx History
+
+09/2022 to 03/2023 DevOps Engineer Northstar Financial Services Group Llc - Bothell, WA
+
+- Migrating ADO data to GitLab space
+
+- Create a fresh project on Gitlab CICD from scratch
+
+- Merged request on GitLab space
+
+- Involve in Designing and implementing automated build, deployment, and testing pipelines using GitLab CI/CD.
+
+- I Managed the GitLab instance and its associated infrastructure. including backups, upgrades, and performance tuning.
+
+- Working ADO teams with the development team to ensure that code is version controlled and tested before it is deployed.
+
+- Makes changes on Gitlab CI GitLab runner
+
+- Preparing document on every of process for onboarding purpose Creating user group /user in GitLab paces given permission
+
+06/2018 to 09/2022 AWS Cloud Engineer / AWS DevOps Engineer, Linux Ad Nes Associates - Pearl Harbor, HI
+- Working with version control systems like Git and Source Code Management tools like GitHub
+- Working closely with development team to create an automated continuous integration (CI) and continuous delivery (CD) system using Jenkins and Maven for build, Nexus as antifactory, Tomcat and
+- SonarQube
+- Configuring a webhook on a Jenkins to trigger auto build when a push event happens on gitlhub
+- Working closely with development team to create an automated continuous integration (CI) and continuous delivery (CD) system using Jenkins and Maven
+- Apply DevOps best practices for branching & merging strategy to maintain the source code in Git version control systems Using Maven as build tool for building of deployable artifacts such as JAR, .WAR and EAR artifacts from source code Using Dockerfile to build images and push to the dockerHub Participating in daily activities included, delivering daily/nightly builds for the scrum teams, supporting teams with SCM requests, maintaining code stability using CI methodologies, deployments and troubleshooting other day-to-
+
+day issues
+
+Using AWS LAM to provision authentication and authorization into AWS account and restrict/assign access to users
+and other AWS services
+
+Creation of golden AMIs to institute controls and enforcement of the controls leveraging AWS
+
+Guardrails
+
+Build servers using AWS, importing volumes, launching RDS, creating SG, auto-scaling, ELBs in the defined VPC
+Build and configure a virtual data center in the AWS Cloud to support Enterprise Data Warehouse hosting Virtual
+Private Cloud (VPC), Public and Private Subnets, Security Groups, NACLs, Route Tables,
+
+Elastic Load Balancers, VPC endpoints, Peering Connections, Transit Gateways, Route 53
+
+Configuring Elastic IP address for AWS instance, to ensure consistency in case of any server failure
+
+Ability to design, build, manage and operate cloud infrastructure and configuration environment with a focus on
+automation and infrastructure as code using cloud-formation and terraform
+
+Implementing version control services using git to create repository, store, and track changes in source code during
+
+software development
+
+Tools like git hub, git lab and bitbucket are handy
+
+Using Terraform and AWS CloudFormation to provision and manage cloud infrastructure services
+
+Using Github Action and terraform to automate the deployment of various AWS resources
+
+Designed highly available infrastructure using Elastic load balancer and auto-scaling for Web servers which Scale
+in and Scale out automatically, also isolated environment by having security groups and
+
+NACL across subnets for EC2 instances
+
+Configured CloudWatch alarm rules for operational and performance metrics for our AWS resources and
+applications
+
+Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need,
+$3 storage classes and $3 lifecycle policies, leveraging Autoscaling
+
+Leveraged EC2 Life Cycle Manager to create snapshots of EBS Volumes on scheduled intervals for backup and
+define a retention period as a cost saving measure
+
+Developed and created custom Service Control Policies and attached them to approved OUs and AWS accounts as
+required
+
+Deployed Guard Duty across our Control Tower managed organization with the Audit account being the delegate
+administrator
+
+Designed secured, cost optimized, highly available and fault tolerant architecture designs and infrastructure in
+AWS
+
+Implemented security best practices in AWS including multi factor authentication, access key-rotation, role-based
+
+permissions, enforced strong password policy, configured security groups and NACLs, $3 bucket policies and
+ACLs
+
+Leading on designs/development aspects of migration journey - assess, mobilize and migrate phase including
+leveraging CART, ADS, Migration Evaluator, DMS, Cloud Endure etc
+
+Automatically remediated Trusted Advisor findings using Amazon CloudWatch events
+
+Implementing version control services using Git to create repository, store and track changes in source code during
+
+software development
+
+- Experienced with Interpreted Languages like Bash and python
+
+- Automatically remediated Trusted Advisor findings using Amazon CloudWatch events and AWS Lambda
+
+- Conducted deep-dive hands-on training sessions to transfer knowledge to customers considering or already using AWS.
+
+- Worked as technical leader alongside customers and infrastructure team and contributed to business development.
+
+- Participated in architectural discussions to build confidence and promote customer success when developing new and migrating existing applications, software and services on AWS platform.
+
+- Resolved trouble tickets to reduce backlog from 200 to 50.
+
+- Resolved vulnerabilities by making improvements to network security.
+
+05/2017 to 06/2018 Linux Administrator Standard Integrated Support - City, STATE
+Recommending resolutions to complex matters and coordinate the implementation of the approved course of action
+- Server and storage management, configuration, troubleshooting, and performance tuning
+- Administering NFS and other applications on Linux Servers
+- Training new users to use standard applications, equipment’s and business applications
+- Creating Linux/Unix/Window Virtual Machines using VMware
+- RPM and YUM package installations, patching and other server management
+- Configuring, managing, monitoring and troubleshooting of all RedHat & CentOS LINUX servers
+- Implementing and Maintaining Apache web server with HTTPS
+- Creating and Managing Users / Group accounts and setup a user's work environment
+- Responsible for maintaining user accounts and basic service access permissions on infrastructure servers
+- Installing and configuring VMware ESXi Hypervisor on the Physical Hardware
+- Configuring RedHat Kickstart server for installing multiple production servers
+- Installing and configuring monitoring tools Nagios for monitoring the network bandwidth and the hard drives status
+- Installing and configuring SAMBA utility software for sharing files with Windows hosts
+- Responding to emergency calls relating to server performance, diagnosis of problems, repairing problems or calling upon appropriate vendors to resolve the issue
+- Documenting various regular administrative tasks and backup procedures
+- Providing software and hardware tech support
+- Managing warranties and software licenses for all department computers
+- Working closely with other IT staffs to help determine and develop systems that will be implemented
+- Responsible for troubleshooting network outages
+
+EpucatTion
+
+04/2015 Bachelor's degree: Computer Science University of Buea - Cameroon
+
+CERTIFICATIONS
+--------------
+
+AWS Certified Solutions Architect
+
+Certified ScrumMaster (CSM)
+
+DEVOPS GENERALIST
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

@@ -1,0 +1,70 @@
+AWS Devops Engineer Pian 02) 45600 9
+
+Email: Info@qwikresurne.com
+
+R O B E RT S M IT H Website: cammemmery
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+Over 7+ Years of IT experience as DevOps engineer with expertise in areas of Software Configuration Management, Version Control, DevOps/Build and Release management, Linux
+System Administration. Experienced in branching, tagging and maintaining the version across the
+environments using SCM tools like GIT, Subversion (SVN) and TFS on Linux and windows platforms,
+
+SKILLS
+------
+
+Knowledge on cloud computing, Knowledge on Networling.
+
+WORK EXPERIENCE
+---------------
+
+AWS Devops Engineer
+US Foods - January 2016 - 2020
+
+Worked on implementing AWS using EC2, S3, RDS, ECS, Elastic Load Balancer, Auto Scaling groups
+
+Responsible for Worked as a DevOps Engineer for a tearn that involves three different development teams and multiple simultaneous software releases.
+
+Excellent interpersonal skills, ability to Interact with people at all levels.
+
+Supported the application In production and worked closely with offshore teams.
+
+Developed and Implemented software release managernent strategies for various applications
+according to agile process,
+
+Deployed java applications to application servers in agile continuous integration environmerit
+and also automated the whole process,
+
+Responsible for installing Jenkins master and slave nodes,
+
+AWS Devops Engineer
+Delta Corporation - 2014 - 2016
+
+US Foods (formerly known as U.S,
+
+Foodservice) is one of the USAs leading foodservice distributors with nearly $19 billion in
+annual revenue, US Foods was the 10th largest private .
+
+Had worked on implernenting AWS using EC2, $3, RDS, ECS, Elastic Load Balancer, Auto Scaling groups Responsibilities Creating the automated bulld and,
+
+Environment AWS EC2, $3, RDS, Elastic Load Balancer, Auto scaling, VPC instances, Cloud Watch, Maven, Nexus, Jenkins, Chef, Batch, Shell script, ,
+
+T-Mobile USA Is 4 national provider of wireless voice, messaging and data services.
+
+itis the third largest wireless network in U.S,
+
+Had worked on implementing 4 Continuous Delivery pipeline with Docker, Jenkins and GitHub and AWS AMis, whenever anew GitHub branch gets started, ,
+
+EDUCATION
+---------
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

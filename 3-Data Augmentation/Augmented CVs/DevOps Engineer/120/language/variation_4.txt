@@ -1,0 +1,226 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+ADDITIONAL INFORMATION
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+5 years of experience in the field of Build/Release and Configuration Management/DevOps Engineer. Result
+oriented individual with proven ability to implement standards, procedures and processes that improve overall
+DevOps automation processes. A high level knowledge and experience of industry trends and technology
+advancements relating to Source Control, Build Management, Configuration Management Tools. Deployed
+Docker Engines in Virtualized Platforms for containerization of multiple apps. Managed Docker orchestration
+and Docker containerization using Kubernetes. Used Kubernetes to orchestrate the deployment, scaling and
+management of Docker Containers. Worked with Ansible playbooks for virtual and physical instance
+provisioning, configuration management, patching and software deployment. A high level knowledge and
+experience on CI/CD, IDE, Git, Maven and Jenkins. Installed and maintained Puppet based Configuration
+Management system. Ability to configure and maintain web servers (e.g. apache & nginx), DNS servers,
+Firewalls, LDAP servers. Strong experience in Administration, Installation, Upgrading, Migration,
+Configuration. Expertise in developing Shell (including sh, ksh, bash) and Perl scripts to administer and
+automate batch job scheduling including Server Start/Shutdown, backup and recovery processes. Database
+knowledge using SQL, PL/SQL, Oracle and MS SQL Server. Experience working with Puppet Enterprise and
+Puppet Open Source. Installed, configured, upgraded and managed Puppet Master, Agents & Databases.
+Integration of Puppet with Apache and Passenger. Managed Amazon Web Services like EC2, S3 bucket,
+RDS, EBS, ELB, Auto-Scaling, AMI, IAM through AWS Console and API Integration with Puppet Code.
+Experience in working on source control tools like Tortoise SVN, CVS, IBM Clear Case, Perforce and GIT.
+Extensively worked on Jenkins/Hudson by installing, configuring and maintaining for the purpose of
+continuous integration (Cl) and for End to End automation for all build and deployments. Extensive experience
+using MAVEN and ANT as build tools for the building of deployable artifacts (jar, war & ear) from source code.
+Managed all the bugs and changes into a production environment using the Jira tracking tool. Experienced
+with the installation, configuration of volume management using VERITAS Volume Manager and Solstice Disk
+Suite on Solaris and experienced in RAID configurations. Installed, Configured, Managed Monitoring Tools
+such as Splunk, Nagios, iCinga for Resource Monitoring/Network Monitoring/Log Trace Monitoring. Expertise
+in writing Bash Scripts, Pearl Scripts (hash and arrays), Python programing for deployment of Java
+applications on bare servers or Middleware tools. Expertise in Enterprise application deployment on Web and
+App Servers like Apache Tomcat, Web Logic, JBoss servers. Installation, Configuration and Management of
+RDBMS and NoSq| tools such as SQL Server, MySQL, DB2, PostgreSQL, MongoDB and Cassandra. Efficient
+in working closely with teams to ensure high quality and timely delivery of builds and releases. Good
+analytical, problem solving, communication skills and have the ability to work independently as a member of a
+team.
+
+- TECHNICAL SKILLS: e Build Tools
+
+- Languages e Jenkins, Codebuild
+
+- Bash, Python, Groovy, Ruby ¢ Tracking Tools
+
+- DevOps Tools ¢ Atlassian Jira, Remedy, ClearQuest
+
+- Hudson, Jenkins, Amazon Web Services (AWS), « Databases AWS S3, AWS Glacier, Chef, AWS CodeSuite, e SQL Server R2, Oracle, MySQL, DB2, Dynamo
+
+AWS ECS (Container Service), AWS EKS DB
+
+(Managed Kubernetes Service) ¢ Web / Application Servers
+- Configuration/Deployment ¢ Web logic, Web Sphere, Apache Tomcat, JBoss
+- SCM, CodeDeploy, CloudFormation, Docker, ¢ Operating Systems
+
+Ansible Playbook, Kubernetes, CHEF (Knife, e Windows, Mac OS, Unix, Linux/RHEL
+
+Recife, Cookbook)
+- Monitoring Tools
+- Nagios, Splunk, Cloud Watch, Kibana
+- Version Control System
+- Subversion (SVN), GIT, BitBucket
+
+DEVOPS ENGINEER 12/2020 to CURRENT Bigbear.Ai | Colorado Springs, CO
+
+- Designed and implemented a continuous build-test-deployment (CI/CD) system with multiple component pipelines using Jenkins to support weekly releases and out-of-cycle releases based on business needs
+
+- Experience with container-based deployments using Docker, working with Docker images, Docker Hub and Docker-registries and Kubernetes
+
+- Lead transition from manual configuration and deployment to ‘infrastructure as code’ using Chef, including design and implementation of cookbooks and tooling
+
+- Built and managed a large deployment of RedHat Linux instances systems with Chef Automation and
+
+- Implemented automated local user provisioning VMs created in Openstack and AWS cloud through Chef Recipes
+
+- Experienced Cloud and DevOps engineer in Automating, Configuring and deploying instances on AWS, AZURE Cloud environments and Data centers
+
+- Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, GIT, Docker, on GCP (Google Cloud Platform)
+
+- Utilized Kubernetes and Docker for the runtime environment of the Cl/CD system to build, test deploy
+
+- Involved in development of test environment on Docker containers and configuring the Docker containers using Kubernetes
+
+- Developed microservices on boarding tools leveraging Python and Jenkins allowing for easy creation and maintenance of build jobs and Kubernetes deploy and services
+
+- Refactoring of monolithic applications to a Microservices and Component based architectures
+
+- Worked on deployment automation of all the micro services to pull image from the private docker registry and deploy to Docker swarm cluster using Ansible
+
+- Building/Maintaining Docker container clusters managed by Kubernetes Linux, Bash, GIT, Docker, on GCP
+
+- Worked with OpenShift platform in managing Docker containers and Kubernetes Clusters
+
+- Identify, troubleshoot and resolve issues related to build and deploy process
+
+- Interact with developers and Enterprise Configuration Management Team for changes to best practices and tools to eliminate non-efficient practices and bottlenecks
+
+- Coordinate/assist developers with establishing and applying appropriate branching, labeling/naming conventions using Subversion source control
+
+- Coordinate with Release Management regarding appropriate system releases among other development platforms
+
+- Designed the Release Plans while coordinating with Stake Holders including Project Management Lead, Development Lead, and QA Team Lead
+
+e¢ Environment: Ant, Java, Maven, Jenkins, Spring1.3.0, Linux, Solaris, SonarQube, WebLogic,
+Subversion, Shell scripting, WLST, Python scripting Nexus, Cl/CD Chef, AWS, Docker, Openshift,
+Openstack, 2 Oracle, BMC Remedy. SharePoint, Kubernetes.
+
+DEVOPS/AWS ENGINEER! BUILD AND RELEASE ENGINEER 05/2019 to 11/2020 Qualcomm Inc | City, STATE
+
+- Involved in Create/Enhance/automate build and deployment processes for each release and backup, restore and upgrade
+
+- Installed and maintained Puppet based Configuration Management system
+
+- Design and implementation of public facing websites on Amazon Web Services (AWS)
+
+- Setup and Configure the continuous build system using Hudson/Jenkins and running automation Smoke / nightly test suites
+
+- Worked in Installation, Migration, Integration, Implementation, Release and building of in house products
+
+- Maintained and executed build scripts using Maven by coordinating with development and Quality Assurance teams
+
+- Administered JENKINS, Proposed and implemented branching strategy suitable for agile/scrum, Development in a Fast Paced Engineering Environment
+
+- Written Ant Scripts for Automating ear deployments and configuration of Web Sphere server for all J2EE applications
+
+- Experience installing, configuring, testing Hadoop ecosystem components on the server Infrastructure
+
+- Experience in processing large sets of structured, semi-structured and unstructured data and supporting systems application architecture
+
+- Installed and maintained SVN, including Branching, tagging and merging
+
+- Created Subversion repositories and maintained scripts for creating users with authentication
+
+- Performed SCM tasks like branching, merging and tagging the source code in Subversion
+
+- Managed product baselines, and assisted users to merge streams
+
+- Debugged performance related issues with Ant/Maven scripts and helped improved the build Process
+
+- Modularized unstructured Ant/Maven scripts and utilized properties file for reducing the Complexity and making it more manageable
+
+- Developed numerous Tools in Perl, Bash and Python to automate the build and release processes
+
+- Developed a web based build request system, from where the end users can request distribution
+
+- Builds or debug builds of different Flavors
+
+- Demonstrated expertise with data extract and query tools (SQL/Oracle)
+
+- Edited Maven mirror settings in m2/settings.xml to configure Maven to have Nexus as a repository
+
+- Created and managed of all source code repositories, management security model, Backup/ Restore of the source code repositories, and upgrading the version control system
+
+- Implemented Jira with Maven2 release plugin for tracking bugs and defects
+
+- Own the creation of builds and coordinate the creation of source-code tags and branches with Development groups
+
+- Created Application Server, nodes at a cell level, created clusters, defined Data Sources for Database connectivity in Web Logic
+
+- Administered SVN/Git repositories and managed account administration, branching, merging, Patch fixes and snapshots
+
+- Setup and configured Jenkins for Continuous Integration and Release Management
+
+- Environment: Tortoise CVS, Subversion, Apache ANT, AWS Amazon Services, Maven, Nexus, Perl Script, Korn Shell Scripting, Jenkins, Build forge, Visual Build Professional, Java, HTML, XML, Web Sphere, Unix, Oracle, Windows.
+
+DEJOPS ENGINEER/BUILD AND RELEASE ENGINEER 12/2016 to 05/2019 Exterran Holdings | City, STATE
+
+- Setting up and building AWS infrastructure resources such as VPC, EC2, S3. IAM, EBS, Elastic Search, Security Group, Auto Scaling, Lambda and RDS in Cloud Formation and involved in deploying the content to Cloud platform on AWS using EC2, S3, EBS
+
+- Hands on experience with IAM to set up user roles with corresponding user and group policies using JSON
+
+- Defined AWS Security Groups which acted as virtual firewalls that controlled the traffic allowed reaching one or more AWS Ec2 instances
+
+- Used Docker, Kubernetes and OpenShift to manage micro services for development of continuous integration and continuous delivery
+
+- Support an Agile CCD Environment as a DevOps Engineer where we make the Atlassian tools (Jira and Bitbucket) and also provide layer 3 supports on these tools if there are any issues
+
+- Worked on the Deployment, Configuration, Monitoring and Maintenance of OpenShift Container Platform
+
+- Implemented a Continuous delivery pipeline with Docker, Jenkins, GitHub and AWS AMI's
+
+- Our Continuous Integration stack consists of GIT, Jenkins, Cl/CD, the Docker Trusted Registry and OpenShift Enterprise
+
+- Lead the cloud infrastructure maintenance effort using a combination of Jenkins, Chef and Terraform for automating CICD pipeline in AWS
+
+- Used OpenShift to improve application security by putting admin consoles on different Docker containers accessible only from unusual port numbers
+
+- Created automated deployment job for Tomcat with Jenkins and managed deployment automation using Puppet, Custom Puppet Modules and Ruby
+
+- Configuration of various plugins for Jenkins for automation of the workflow and to optimize and smooth running of build jobs
+
+- Responsible for a boarding application teams to build and deploy their code using GitHub, Jenkins and Ansible
+
+- Managed Maven environment by setting up local, remote and central repositories with required configuration in maven configuration files
+
+- Responsible for design and maintenance of the GIT Repositories and the access control strategies and performed all necessary day to day GIT support for different projects
+
+- Created new jobs in Jenkins and built pipeline for Continuous Integration and migrated applications to the AWS cloud
+
+- Used Ansible and Ansible Tower as Configuration management tool to automate repetitive task
+
+- Wrote Ansible Playbooks with Python SSH as a wrapper to manage configurations of AWS nodes and Test Playbooks on AWS instances using Python
+
+- Worked on maintaining, administering and supporting of Red Hat Enterprise Linux (RHEL) servers
+
+- Environment: AWS, Subversion, Azure, TFS, SVN, Chef, Puppet, Nagios, ANT, Maven, Jenkins, Shell scripts, PostgreSQL, JIRA, Service Desk, Splunk, Oracle, Windows.
+
+Bachelor’s | Computer Applications 01/2016 Osmaniya Univercity
+
+- Visa: , Green Card Holder
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

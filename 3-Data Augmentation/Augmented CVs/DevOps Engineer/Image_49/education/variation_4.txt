@@ -1,0 +1,64 @@
+Robert Smith Phone (123) 456 78 99
+
+Email: Info@awikresume,corm
+
+Website > vow. qwikre sume, com
+
+AWS Devops Engineer Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshville Road, Alabama
+
+SUMMARY
+-------
+
+Experienced DevOps Engineer dedicated to automation and optimization for 7 years, Understands
+and manages the space between operations and development to quickly deliver code to
+customers. Has experience with the Cloud, as well as DevOps autornation developrnent for Linux
+pipetion Brings maturity, enthusiasm, and a drive to learn new technologies along with real world
+experience,
+
+SKILLS
+------
+
+Knowledge of networking, Knowledge of cloud computing,
+
+WORK EXPERIENCE
+---------------
+
+AWS Devops Engineer
+University Of MN - January 2014 - 2020
+- Creating the autornated bulld and deployment process for application, re-engineering setup for better user experience, and leading up to building a continuous integration systern for all our products,
+- Implemented AWS solutions using EC2, S3, RDS, EBS, Elastic Load Balancer, Auto scaling groups,
+- Responsible for Design of different Release Environments for new projects and monitoring,
+- Implementing a Continuous Delivery frarnework Using Jenkins, Chef, Maven &arnp; Nexus in Linux environment.
+- Installed Chef-Server Enterprise Or-Premise/WorkStatiory Bootstrapped the Nodes using Knife.
+- Designed and implernented Chef, including the internal best practices, cookbooks, autornated cookbook Cl and CD systern,
+- Made use of Jenkins for Chef Cl, Thor for versioning, Berkshelf for dependency management, and Test-Kitchen for testing and developrnent,
+
+AWS Devops Engineer
+Delta Corporation - 2011 - 2014
+
+» Key Deliverables Technical leader to align processes and tools, such as branching, source
+control structure, dependency managernent, LinuxWindows hybrid bulld Infrastructure, code review, and check-in policies, that are developed and instrumented by DevOps tears across
+projects globally.
+
+» Managed Ubuntu Linux and Windows virtual servers on AWS EC2 using Puppet.
+
+- Experienced with working on Puppet Master and Puppet Agents.
+
+- Defined Puppet Master and Puppet Agents to manage and configure nodes.
+
+- Deployed Puppet, Puppet dashboard for configuration management to existing infrastructure,
+
+- Designed and deployed AWS solutions using E2C, $3, RDS, EBS, Elastic Load Balancer, Auto scaling groups, Opsworks Perforrned Server configuration management via Puppet.
+
+- Transparent Data Encryption (TDE) implementation Database Encryption for mirrored Databases.
+
+EDUCATION
+--------- Bachelor of Technology in Computer Science - (NTU)
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Community College of Denver

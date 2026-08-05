@@ -1,0 +1,53 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+ROBERT SMITH
+
+Assistant Senior Devops Engineer |
+info@qwikresume.com | https: //Qwikresume.com
+
+Over 12+ years of Total IT experience, of which worked on Perl, Oracle, CGI, UNIX;
+JavaScript and Shell script, Involved in the analysis, design, development, enhancement, support and unit testing. Experience to develop UI's using template
+tool kit. Good experience in L4 level Support and Enhancement Bua fixes.
+
+JANUARY 2007 - JUNE 2011 ASSISTANT SENIOR DEVOPS ENGINEER | - ABC CORPORATION
+
+200
+
+Designed to have Approver who will approve the request and interact with specific Resource to get access for the specific user.
+
+Involved lot of processes such as creating new resource, linking with the actual resource, setting attributes, approver nomination, revalidation for approver/user
+etc.
+
+Guided team to complete their tasks on time.
+
+Planned tearn deliverables of one month task in advance.
+
+Wrote Chef Cookbooks for installing and managing Applications.
+
+Worked as a DevOps Engineer for | mplementation of Software Configuration Management processes, controlling and bullding new versions for releases,
+Analyzed and resolved conflicts reéated to merging of source code for SVN.
+
+3 - 2007
+
+SENIOR DEVOPS ENGINEER - DELTA CORPORATION
+
+Serena Software Inc.
+
+provides process-based solutions for managing and automating application development, DevOps and IT operations and management products to
+enterprises around the word.
+
+This Project was based on managing the new version releases of software applications
+
+Responsibilities Coordinate/assist devedopers with establishing and applying appropriate branching, labding/naming conventions using SVN source control.
+Worked with development team to migrate Ant scripts to Maven.
+
+Provided CM and Build support for more than 5 different applications, built and deployed to the production and lower environment.
+
+Implement, maintain and support reiable, timely and reproducible builds for project teams.
+
+EDUCATION
+---------
+
+Bachelor of Engineering in Information Technology - 1999(Madurai Kamara]
+
+- The Free Resume Template # the copyright of Qwikres ume. com. Usage Guidelines

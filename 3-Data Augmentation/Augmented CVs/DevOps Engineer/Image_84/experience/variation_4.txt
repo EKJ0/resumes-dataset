@@ -1,0 +1,75 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+dr.
+
+AWS Devops Engineer Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+ROBERT SMITH eee eacanccaleonemere
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Interactive is the premier online content network for information and online operations of
+ViacomCBS as well as some of the top native digital brands in the entertainment industry. Our
+brands dive deep into the things people care about across entertainment, technology, ncws, games,
+business and sports. With over 1 billion users visiting our propertics every quarter, we area global
+top 10 web property and one of the largest premium content networks online,
+
+Knowledge on cloud computing, Knowledge on networking.
+
+WORK EXPERIENCE
+--------------- Jr. AWS Devops Engineer
+
+PNC Bank - March 2015 - 2020
+
+Responsible for manage network security using load balancer, autoscaling, security groups and
+nacls.
+
+Implement and enhance the existing scripts which are developed in shell, perl, ruby and python.
+
+Use puppet and chef automation tools for configuration management in different systems.
+Write puppet manifests in ruby for deploying. configuring and managing collected for metric
+collection and monitoring
+
+Responsible for maintaining 4-5 different testing/qa environments and erection of the prod
+environment in aws monitoring live traffic, logs, memory utilization, disk utilization and
+various other factors which are important for deployment.
+
+Utilize puppet for configuration management of hosted instances within aws. Configuring and
+networking of virtual private cloud (ype).
+
+Merged release branches to the trunk after the production release and resolved the conflicts
+arose during the merge in both Subversion and GIT.
+
+AWS Devops Engineer
+
+Delta Corporation - 2014-2015
+
+RESPONSIBILITIES Developed and supported the Software Release Management and dures.
+
+Performed all necessary day-to-day GIT/Bit bucket/TFS support for different projects,
+
+fnwolved in migrating physical Linux /Windows servers to cloud {AWS}.
+
+Bulld servers using AWS Importing volumes, launching EC2, RDS, S3, IAM, Route53, VPC,
+
+Code Deploy, creating security groups, auto-sealing, Lambda, load balancers (ELBs} in the
+
+defined virtual private connection.
+
+Implemented. deployed and maintained cloud infrastructure using AWS.
+
+Automating backups by the shell for Linux to transfer data in the S3 bucket.
+
+Maintaining the user accounts {IAM}, RDS, Route 53, SES and SNS services in AWS cloud.
+
+EDUCATION
+---------
+
+Bachelors
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines

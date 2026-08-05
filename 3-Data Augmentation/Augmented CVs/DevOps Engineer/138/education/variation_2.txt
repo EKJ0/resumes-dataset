@@ -1,0 +1,200 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Positioned to apply leading technology to address real business problems and collaborate globally to deliver high-quality, robust and
+scalable software systems while learning and growing as an individual. Over 6+ years of experience as DevOps/Cloud Engineer
+supporting core IT infrastructure
+
+SKILLS
+------
+
+- Strong experience in DevOps Automation with configuration tools such as Puppet, Ansible, and Chef.
+
+- Containerization with Docker, Docker-swarm, Kubernetes.
+
+- Continuous Integration and Continuous deployment with Jenkins, Terraform, GitHub, GitLab.
+
+- Source Control Management tools for versioning include as GIT and SVN.
+
+- Proficiency with Azure / AWS / GCP bare metal infrastructure management, optimization, production support and troubleshooting
+
+- Advanced Linux administration skills
+
+- Scripting using Python, Perl, or Bash
+
+- Experience configuring monitoring and alerting systems
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 03/2016 to Current
+
+Relx Group - Portland, OR
+
+- Develop and manage CI/CD process for different types of application and automate as many processes as possible
+- Manage and support customer environments in Microsoft Azure cloud
+
+- Consult customers on technical aspects of installation, sizing, scaling
+
+- Support development teams in technical questions of continuous integration/continuous delivery, delivery organizations
+- Manage the full release process
+
+- strong experience in configuring, maintaining, and troubleshooting Microsoft based production systems
+
+- Microsoft Azure Cloud:
+
+- ARM templates writing, setup automation for resources provisioning (Azure PowerShell)
+
+- Azure services (Azure App Service, Azure SQL, Azure Service Fabric, Azure Storage Account
+
+- Understanding of load balancers, DNS, virtual networks and
+
+- firewalls in cloud environment
+
+- Setup monitoring (performance metrics, OMS)
+
+- Azure Active Directory basics:
+
+- Azure AD authentication
+
+- Users and groups
+
+- Roles
+
+- CI/CD for .NET projects experience. Manage, develop, build CI/CD pipeline, including:
+
+- Check code quality
+
+- Unit, integration and functional tests implementation
+
+- PowerShell scripting for custom tasks automation
+
+- Environments strategy understanding
+
+- Customer-oriented, diligent, proactive, focused on achieving customer's business objectives as top priority
+
+- Able to work successfully both individually and as a team member
+
+- Easy-going, friendly, communicative, positive in relations with colleagues, in every situation strives to see opportunities rather
+
+than problems
+
+AZURE DEVOPS ENGINEER, 03/2013 to 03/2016 Avanade - Charlotte, NC
+- Maintained Git workflows for Version control( Source Code Management )
+- Developed and maintained automated CI/CD pipeline for code deployment using Jekins
+- Provisioned servers and deployed features using puppet/chef/Ansible
+- Built and deployed Docker containers for implementing microservices Architecture from monolithic architecture
+- Orchestrated docker container cluster using kubernetes/Docker swarm
+- Knowledge of Linux and scripting languages ( python/Ruby and Bash)
+- Proficient with various development, testing and deployment tools ( Git, Jekins, Docker Kubernetes Puppet, chef, Ansible, Nagios)
+
+CLOUD ENGINEER, 02/2012 to 03/2013 Merck & Co., Inc. - Belgrade, MT
+
+- Build cloud native applications using cloud resources and deploy to Azure Web Apps on Windows, Linux and Containers
+
+- Worked with Logic Apps, APIM, Azure Graph API, Azure Active Directory, WVD and other services to create unique solutions for clients
+
+- Evaluate Ansible framework and tools to automate the Cloud deployment and operations
+
+- Implemented a production ready, load balanced, highly available, fault tolerant Kubernetes infrastructure
+
+- Created a private cloud using Kubernetes that supports DEV, TEST, and PROD environments
+
+- Managed deployment automation using Terraform to system operations
+
+- Integrate CI pipeline with configuration management tools for continuous deployment
+
+- Built a new CI pipeline
+
+- Testing and deployment automation with Docker, Jenkins
+
+- Supporting software development and data management projects that prepare large datasets for delivery to a shared cloud computing and storage environment
+
+- Provide strategies and requirements for the seamless migration of applications, web services, and data from local and server- based systems to Azure cloud
+
+- The complete installation and hosting of cloud were automated with Azure cloud formation template and Ansible
+
+- Version control through GIT
+
+- Writing new plugins in Nagios to monitor resources
+
+- Working in an implementation team to build and engineer servers on Ubuntu, Windows and CentOS
+
+- Troubleshoot application deployments deployed on different cloud offerings; recreate customer issues, build proof of concept applications focused on improvements to build and deployment tools
+
+- Developed hybrid cloud delivery model allowing for customers to choose the mix of public and private clouds
+
+- IaC experience with Terraform and ARM templates/ Helm deployments and ability to work with YAML files for configuration
+
+- Experience of working on Azure/on-premises AD, authentication, and authorization.
+
+LINUX ADMINISTRATOR, 02/2011 to 01/2012 General Dynamics - Colorado Springs, CO
+
+Installation/configuration of RHEL 4/5/6 using kickstart Server and Windows OS
+
+- Creation, Installation and administration of Red Hat Virtual machines in VMware
+
+- Designed System Requirements, Storage requirements, Configuration Management/Change control/Release management
+
+- User administration & quota management
+
+- Log file was managed for troubleshooting and resolving errors
+
+Installation of patches and other software packages
+
+- Wrote Shell scripts for automation of jobs, system monitoring and error reporting
+
+- Performed the administration of the Domain Name Server and configuration of the Database Files
+
+- Wrote bash shell scripts for getting information about various Linux servers
+
+- Installed and Configured Send mail Utility on UNIX Servers
+
+- Modified scripts using sh, ksh and bash for day-to- day administration
+
+- Packages and integrating servers to Active Directory, etc
+
+- Maintain puppet environment for automation across multiple servers
+
+- Worked on setting up Veritas clustering
+
+- Worked with Oracle DBA’s for restore of Oracle Instance and Building Oracle RAC Cluster
+
+- Worked on creating Virtual machines using VMware software
+
+- Performed hardware, operating system, security and application updates/patches on these systems as well as operating system hardening based in industry standards
+
+- Experienced working on Datacenter Migration Projects
+
+- Worked with Enterprise Security Manager to get Security certification for servers before moving them in to production
+
+- Responsible for Failover/Pre-Failback/Failback and verification of the same in case of outage in the high environment using VCS (Veritas Cluster Server)
+
+- Working very closely with vendors (IBM/HP/Sun/EMC) in resolving any hardware/ Storage and Network issues
+
+- Monitoring the system performance and doing the kernel tuning to enhance the system performance
+
+- Troubleshooting Production Server Problems related to web applications, Sendmail, disk space, file system, DNS and network connectivity
+
+- Experience with patching both manually and automated
+
+- Provided 24/7 on-call support on a weekly basis.
+
+EDUCATION
+---------
+
+Bachelor of Science: Computer Engineering, 05/2010 University of Lagos - Lagos
+
+CERTIFICATIONS
+--------------
+
+Azure Certified Solution Architect
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

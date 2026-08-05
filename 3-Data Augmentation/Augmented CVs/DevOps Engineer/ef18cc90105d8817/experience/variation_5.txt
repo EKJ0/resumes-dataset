@@ -1,0 +1,81 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+Johnnie Smedsrud
+
+DevOps Engineer
+
+PROFILE
+-------
+
+Detail-oriented DevOps Engineer with one year of experience in designing and implementing operational strategies for improved software development.
+Skilled in utilizing automation tools, improving system infrastructure,
+
+and optimizing deployment processes. Proficient in various programming languages and cloud platforms. Proven ability to collaborate effectively
+
+with cross-functional teams to ensure efficient and seamless software delivery. Demonstrates strong problem-solving skills and a commitment to
+maintaining up-to-date knowledge of new technologies.
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer at Allstate Insurance Company, IL
+
+- Successfully led the automation of deployment processes, reducing deployment times by 60% and increasing efficiency.
+
+- Implemented a Continuous Integration/Continuous Deployment (CI/CD) pipeline that improved development productivity by 40%.
+
+- Reduced system downtime by 30% by developing and implementing robust monitoring and alert systems, thereby improving overall system reliability and performance.
+
+Junior DevOps Engineer at Motorola Solutions, IL
+
+Successfully implemented a new CI/CD pipeline which increased deployment frequency by 35%, leading to more efficient software
+updates and quicker bug fixes.
+
+Led the transition to a new cloud-based infrastructure using AWS, reducing infrastructure costs by 20% and improving system uptime to
+99.9%.
+
+Automated various operational processes using Python and Shell scripting, saving the team 15 hours of manual work per week,
+
+Played a pivotal role in resolving a critical system issue that resulted ina 25% improvement in system performance and stability.
+
+.
+
+Certificates
+
+Docker Certified Associate (DCA)
+
+AWS Certified DevOps Engineer
+
+Memberships
+
+DevOps Institute
+
+@ johnnie.smedsrud@gmail.com
+% (698) 657-8702 9 Chicago, IL
+
+EDUCATION
+---------
+
+Bachelor of Science in Information Technology at University of Illinois at Urbana-Champaign, IL
+
+7 - May 2022
+
+Sep 201 Relevant Coursework: Database Management, Network Security, Web Development, Programming, Systems
+Analysis, Information Systems, Cloud Computing, Cybersecurity, Data Analytics, Software Engineering,
+Artificial Intelligence, and IT Project Management.
+
+Links
+
+linkedin.com/in/johnniesmedsrud
+
+Terraform
+
+GitLab
+
+Prometheus
+
+Languages
+
+English
+
+Hindi

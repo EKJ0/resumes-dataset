@@ -1,0 +1,71 @@
+Jamal Jackson
+
+@ hollee wearmouth@gmail.com
+% (168) 010-3078 9 Anchorage, AK
+
+EDUCATION
+---------
+
+Bachelor of Science in Information Technology at University of Alaska Anchorage, AK
+
+Aug 2018 - May 2022
+
+Relevant Coursework: Database Management, Network
+
+Design and Security,
+
+Software Development, Web Development, IT Project Management, Cloud Computing, Data Analytics, Cybersecurity,
+Computer Programming, and System Analysis & Design.
+
+3
+
+hon
+
+2
+
+Languages English
+
+Urdu
+
+PROFILE
+-------
+
+DevOps Engineer with 1 year of professional experience in designing, implementing, and managing robust software deployment pipelines. Proficient
+in utilizing various DevOps tools, cloud platforms, and programming languages. Proven ability to work collaboratively within cross-functional teams,
+demonstrating strong problem-solving skills and a commitment to achieving project goals effectively. Seeking to leverage expertise to further develop and
+enhance system optimization strategies.
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer at Northrop Grumman, AK
+Apr 2023 - Present
+
+- Led the successful migration of 300+ servers from on-premises to AWS cloud-based infrastructure, resulting in a 30% increase in system efficiency and a reduction in operational costs by 25%.
+
+- Implemented automated Ci/CD pipelines for 20+ software applications, reducing deployment time by 40% and increasing deployment frequency by 60%.
+
+- Improved system availability by 99.9% by leading the design and implementation of a comprehensive disaster recovery and business continuity plan,
+
+- Identified and resolved over 500 system issues, enhancing system performance by 35% and significantly reducing downtime.
+
+Junior DevOps Engineer at General Communication Inc., AK
+Sep 2022 - Mar 2023
+
+- Successfully automated 30% of the previously manual systems administration tasks, saving the team an average of 15 hours per week.
+
+- Played a key role in migrating the company's legacy systems to cloud-based solutions, reducing operational costs by 20% annually.
+
+- Implemented continuous integration and continuous delivery (CI/CD) pipelines for 10 major projects, decreasing the average deployment time by 50%.
+
+- Troubleshot and resolved over 100 system issues, improving system reliability and uptime by 25%.
+
+Certificates
+
+Docker Certified Associate (DCA)
+Oct 2021
+
+AWS Certified DevOps Engineer
+Feb 2020
+
+Memberships DevOps Institute The Linux Foundation

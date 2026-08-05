@@ -1,0 +1,77 @@
+Caroline Keiki DevOps Engineer
+
+Resourceful DevOps manager with 6+ years of experience, seeking to use solid continuous deployment skills to drive efficiency measures
+at Firmalent. Led Agile team of 7 developers at Fireladder Global to slash customer complaints 40% and release times 30%, through
+guided use of Puppet and Jenkins.
+
+Personal Info Experience
+
+Phone 2015 - DevOps Manager
+
+914-368-4356 2018 Fireladder Global
+
+E-mail * Managed Agile team with 7 developers and 3 system admins to continuous
+carolinekeiki@gmail.com deployment of SaaS collaboration software with 1.5 million+ users.
+
+- Switched to pairs programming and GIT version control to boost speed 25%.
+
+www
+
+carolinekeiki.com
+- Maintained network of 25+ Linux servers at 99.9% up-time.
+
+Skills * Used Puppet and PRTG to raise quality and cut customer complaints 40%.
+- Used AWS and Jenkins tools to slash release times 30%.
+
+Programming eeeee ,
+
+2013 - DevOps Engineer Server .
+
+eeee0 2015 Peterboro Analytics Management ‘ ? s 9 * Led continuous deployment of high-volume SaaS investment tool.
+Security eeee0 * Set up and managed 30 Unix servers with 99.9% uptime.
+Continuous ece7ee * Wrote scripts automating security upgrades and cut vulnerabilities 15%.
+Deployment * Deployed 2 iterations each month. Raised customer satisfaction 18%.
+a * Managed DevOps during a period of 25% revenue growth.
+
+Unix/Linux @ee@00
+
+2012 - System Administrator Puppet @e@e@e@0o0 ¥
+
+2013 Saucier Phair Solutions
+Jenkins eeee0 * Installed and maintained 12 Windows 2012 servers.
+Zabbix eeee@0 * Slashed costs 25% through strategic vendor agreements.
+
+: * Wrote scripts to automate system updates.
+Interpersonal Skills eeeeo P y P
+- Worked with team to refine Software Development Life Cycle for better
+
+Collaboration eeeeo efficiency.
+Critical Thinking @eeee@0
+
+EDUCATION
+---------
+
+2008 - BS in Computer Science, Pace University
+
+2012 * Excelled in server management classes.
+
+- Pursued a passion for security and programming coursework.
+- President, Pace Computing Society. Increased membership 25%.
+
+Additional Activities
+
+- Active Member, DevOps Agile Skills Association (DASA).
+
+- Volunteer as DevOps manager for Dewitt Street Homeless Shelter. Lead
+continuous deployment of online fundraising app, creating 150% boost in donations.
+
+- Participate in weekly cycling group as self-care.
+
+Certificates
+
+AWS Certified DevOps Engineer
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

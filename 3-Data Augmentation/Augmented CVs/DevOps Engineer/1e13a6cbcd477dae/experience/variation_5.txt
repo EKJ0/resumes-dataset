@@ -1,0 +1,65 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+Robert Smith
+
+AWS DevOps Engineer
+
+PERSONAL STATEMENT
+
+8+ Plus years of Build & Release and DevOps Engineer Extensive Experience in implementing and making teams adapt to Release/Change
+Management Process Experience with Continuous Integration Tools (TFS, Jenkins, Hudson & Tearn City) Experience with software developrnent
+methodologies such as Waterfall, Agile & Scrum. Good Knowledge In bash (shell) /Perl/Expect and exposure to Jython, Python scripting, Hands-on
+experience on Build and deployment of SOA applications like Oracle Service Bus (OSB), Oracle Policy Modeling (OPM) and Oracle Business Process
+Management (BPM).
+
+WORK EXPERIENCE
+---------------
+
+AWS DevOps Engineer
+ABC Corporation- June 2012 - Present Responsibilities:
+
+= Bullding and maintaining cloud formation ternplates, chef cookbooks, and scripts to automate and deploy AWS resources and confi guration
+changes.
+
+- Integrating subversion into Hudsorvjenkins to automate the code check- out process used Hudson/Hudsoryjenkins for automating builds and automating deployments maintained the shell and Perl scripts for the automation purposes,
+
+= Integrating jira with git hub version control maintained and administered Jira and assigned the roles for the users.
+
+= Updating all the activities in jira for the application tearn in order to track the status of the user stories or defects.
+
+= Performance tuning and stress-testing of NoSQL database environments In order to ensure acceptable database performance in production
+mode.
+
+= Focusing on architecting NoSQL databases like Mongo, Cassandra and cache database,
+
+- Creating and deploying VMS on the Microsoft cloud service azure, managing the virtual network, azure ad, and SQL databases, and developed PowerShell scripts to autornate all of the aforementioned tasks.
+
+DevOps Engineer
+ABC Corporation- October 2011 - May 2012 Re sponsibilities:
+= Responsibilities Design roles and groups using AWS identity and access management (IAM) utilize AWS CLI to automate backups of ephemeral
+data-stores to s3 buckets, EBS and create nightly AMIs for mission- critical production servers as backups.
+= Designed, wrote and built deployment using ant/ shell scripting and automate the overall process using subversion and anthill pro,
+- Developed chef and ruby based autornated DevOps solution to provide consistent platforms across multiple cloud providers for cornplex multt
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+CONTACT DETAILS
+
+1737 Marshville Road, Alabama
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+Bulld Tools Ant, Maven, Gradle, NANT DevOps Docker, Nagios, Chef, Puppet, Openstack & AWS Working Knowledge
+Scripting Languages Linux Sheel Scripting And Advanced Shell Scripting Configuration Management Perforce,
+Subversion, GIT, PVCS Version Manager, Bit Bucket Cl Tools Jenkins, AntHillPro, Tearncity,
+Bamboo. Operating Systems Windows, Unix, RHEL And Solaris Databases Oracle, MySql, MSAccess, SQL
+Server Change Managernent Remedy, and Service Now.
+
+English (Native) French (Professional) Spanish (Professional)
+
+NTERESTS
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Narne)

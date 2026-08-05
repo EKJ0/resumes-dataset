@@ -1,0 +1,182 @@
+Maria Garcia
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+SUMMARY
+-------
+
+Excellent platform knowledge with Linux, Automation and Open source software tools with around 6 years of experience includes
+DevOps, Build Release Engineer and Linux Administration. Experience includes the cloud management AWS as well as DevOps
+development in Windows, Linux and Mac OS systems. *Managed environments DEV, SIT, QA, UAT and PROD for various releases
+and designed instance strategies. *Responsible for the management of cloud services AWS *Ability to work closely with teams, to
+ensure high quality and timely delivery of builds and releases. Strong ability to troubleshoot any issues generated while building,
+deploying and in production support. *Good Interpersonal Skills, team-working attitude, takes initiatives and very proactive in
+solving problems and providing best solutions.
+
+SKILLS
+------
+- Amazon Web Services AWS: EC2, $3, VPC, EMR, SPARK, * Container Management: Docker IAM,ELB © CI/CD tools: GIT, SVN, Jenkins, Nexus, Maven, Ant
+- Languages: RUBY, SHELL, BASH, PYTHON e Linux: RedHat, CentOS
+- DevOps tools: CHEF, PUPPET, ANSIBLE, Packers, Terraform, »* MySQL, SQL, RDBMS, DynamoDB Selenium * Monitoring tools: Splunk, NAGIOS, CloudWatch, NewRelic
+- Operating Systems: Linux, UNIX/LINUX,MACOS. e JIRA, Confluence
+- Agile: Scrum
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 08/2017 to Current Saic - Suitland, MD
+- Worked with Jenkins under the CI/CD pipeline providing continuous improvement to agile software development teams
+- Experienced in Infrastructure as Code and using most of the AWS services like EC2, $3, IAM, ELB, VPC etc.
+- Experience in Setting up the build and deployment automation for Terraform scripts using Jenkins.
+- Worked on Ansible, used YML packages for installing, configuring push to make changes in time.
+
+Involved in DevOps automation processes for build and deployment of a 3tier web architecture
+
+Monitored RDS with Postgres,instances and Elastic Load Balancer for performance and availability.
+- Experience in troubleshooting ay issues generated while build and deployments.
+
+Deployed configuration management and provisioning to AWS using Packer-Docker and Terraform, involved in auto-mated
+deployment of EBS on to the AWS Cloud ec2 instance server and automated the complete deployment environment on AWS.
+
+Created multiple terraform modules to manage configurations, applications, services and automate installation process for Web
+Server and AWS instances.
+Installed Docker, created Dockerfile to create containers and integrated Docker with Jenkins to do build on Docker containers
+
+and to achieve Continuous Delivery goal on high scalable environment.
+
+Managed deployment automation using Packer-Docker, Terraform to automate system operations.Handled work from initial
+stage of development to create branches, make developers follow standards creating build scripts, labeling, automating the build
+process and deploy process by using Jenkins plugin.
+
+- Experience with analysis of logs and performing root cause analysis for various issues coming up on daily basis
+
+Used New Relic for the infrastructure monitoring.Worked for multiple environments, including non-production and production
+environments.
+
+Installed and configured the monitoring tool SPLUNK for tracing the logs and maintained the code quality by using SonarQube
+
+Work with different team members for automation of Release components.
+
+- Implement and Enhanced Scripts which are developed in Shell, Perl, Ruby and Python.
+
+- Also the environment includes Hadoop, DynamoDB, SPARK, EMR and few other.
+
+- Experience with CI (Continuous Integration) and CD (Continuous Deployment) methodologies using Jenkins
+
+- Creating the containers by using Docker.
+
+- Implemented and maintained the monitoring and alerting of production and corporate servers/storage using CloudWatch.
+
+- Experience with Bug tracking tool like JIRA.
+
+- Having good Experience in Configuration Management tools like Ansible for transferring and running the modules with the
+
+help of SSH based systems.
+
+Environment: GIT, JENKINS, JenkinsFile, Jenkins Pipeline project, Packer, Docker, Terraform, EMR, Hadoop, SPARK, DynamoDB,
+Airflow, Ansible, JIRA, AWS, S3, IAM, AWS, EC2, ANT, PUTTY, CONFLUENCE, MAVEN.
+
+DevOps Engineer, 10/2015 to 07/2017 Saic - Sunnyvale, CA
+
+- Responsible for automation with Enterprise GitHub, Jenkins and Sonar Nexus.
+
+- Imported and managed multiple applications into GIT.
+
+- Designed, developed, implemented, and maintained custom Gradle tasks in Java and Groovy build tools for application layer modules and configured Jenkins as a Continuous Integration tool for automation of daily process.
+
+- Wrote groovy scripting to set up Job DSL within Jenkins.
+
+- Ability to create new Jenkins jobs rapidly and allows configuration of jobs to be stored in source control.
+
+- Implemented Infrastructure as Code (IaC) using CloudFormation templates and Puppet.
+
+- Designed and implemented Continuous Delivery (CD) pipeline using Puppet for Configuration management, deployment and server automation, automated the setup and teardown of isolated staging environment for automated testing.
+
+- Worked on creation of Puppet manifest files to install Tomcat instances and to manage configuration files for multiple applications.
+
+- Configured and integrated the servers for different environments to automatically provision and configuration management of Linux instances using CM/ Provisioning tool Puppet.
+
+- Built Puppet manifests and bootstrap scripts to allow us to bootstrap instances to various roles without having to maintain AMIs.
+
+- Deploying the content cloud platform on AWS using EC2, S3, and EBS, also evaluated PUPPET Framework and tools to automate cloud deployments and operations.
+
+- Configured most of the services of AWS stack and Developed few python scripts for AWS services.
+
+- Managing and monitoring the server and network infrastructure using NAGIOS and tested the code quality using Selenium.
+
+- Developed Shell scripts to run the unit tests on different jobs in Jenkins like testing the code.
+
+- Created and maintained the Shell deployment scripts for TC Server/Tomcat web application servers.
+
+- Developed Perl and shell scripts for automation of the build and release process.
+
+- Migrated on Premise MySQL database to Multi Availability Zone RDS instances.
+
+- Responsible for the development and maintenance of processes and associated scripts/tools for automated build, testing and deployment of the products to various developments.
+
+- Installed/Configured and Managed Nexus Repository Manager and all the Repositories.
+
+- JIRA is used as ticket tracking, change management and Agile/SCRUM tool.
+
+- Environment: Subversion (SVN), Jenkins, AWS, MAVEN, PUPPET, TC Server, Tomcat, Shell/Perl Scripts, Linux.
+
+Build and Release Engineer, 09/2014 to 08/2015 Booz Allen Hamilton Inc. - Fayetteville, NC, INDIA
+
+- Managed and examined the Development code following the Software Development Life Cycle Model.
+
+- Maintained SVN repositories for DevOps environment: automation code and configuration.
+
+- Experience in writing maven pom.xml and ant build.xml for build scripts.
+
+- Developed build and deployment scripts using ANT and MAVEN as build tools in Jenkins to move from one environment to other environments.
+
+- Setting up continuous integration and formal builds using Bamboo with Artifactory repository.
+
+- Developed scripts in Ruby to package log files and send them to a remote server.
+
+- Create and Maintain Subversion Branching, Merging and Tagging across each Production releases and perform builds using Jenkins Continuous Integration using Maven Scripts.
+
+- Setting up and installing dedicated Jenkins servers for each project.
+
+- Primary duties include Build and Deployment of the java applications onto different environments like Dev, QA, UAT and Prod.
+
+- Worked on the transition project which involves migration activities from Ant to Maven to standardize the build across all the applications.
+
+- Involved in Installing Jenkins on a Linux machine and created a master and slave.
+
+- Configuration to implement multiple parallel builds through a build farm.
+
+- Consumed various SOAP and REST web services related to requirement.
+
+- Build artifacts (war and ear) are deployed into a WebLogic app server by integrating the WLST scripts to Shell Scripts.
+
+- Generated Ant, Perl and UNIX scripts for build activities in QA, Staging and Production environments.
+
+- Maintained configuration files for each application for build purpose and installed on different environments.
+
+- Deployed JAVA/J2EE applications through WebLogic/WebSphere Application servers.
+
+- Worked closely with the team to review code for compatibility issues, resolve issues as they arise, and implement deployment processes and improvements on a continuous basis.
+
+- Environment: Windows, Bamboo, Shell, Selenium, Python, Golang, Web Logic Server 11g, SQL, J2EE, Shell, UNIX, Windows NT/
+2000 and WebSphere, SVN, Jenkins, Maven, GIT.
+
+Linux Administrator, 03/2012 to 07/2014 Criterion Systems - Reston, VA, India
+- Administered, maintained RedHat 4.0, 5.0 Troubleshooting Hardware, Operating System Application & Network issues and performance issues; Deployed latest patches for, Linux and Application servers, Performed Red Hat Linux Kernel Tuning.
+- Experience in implementing and configuring network services such as FTP, HTTP, DHCP, and TFTP.
+- Administered Linux servers for several functions including managing Apache/Tomcat server, mail server, and MySQL databases in both development and production.
+- Migrated database applications from Windows 2000 Server to Linux server.
+- Installing and setting up Oracle 9i on Linux for the development team.
+- Linux kernel, memory upgrades and swaps area and RedHat Linux Kickstart Installation.
+- Capacity Planning, Infrastructure design and ordering systems.
+- Created users, manage user permissions, maintain User & File System quota on Red hat Linux.
+- Bash shell-scripts to automate routine activities.
+- Monitored trouble ticket queue to attend user and system calls.
+- Attended team meetings, change control meetings to update installation progress, and for upcoming changes in environment.
+- Updated data in inventory management package for Software and Hardware products.
+- Worked with DBAs on installation of RDBMS database, restoration and log generation.
+- Environment: Red Hat Linux 4.0,5.0 AS ES, Oracle 9i/10g, Samba, VMware Tomcat 3.x,4.x,5.x, Apache Server.
+
+Education and Training
+
+Bachelors of Engineering

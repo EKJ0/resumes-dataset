@@ -1,0 +1,59 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+Robert Smith Phone (123) 456 78 99
+
+Emall: Info@awikresume,corm
+
+Website : www. qwikresume,.com
+
+Senior Devops Engineer iliAcadin: inkacktecorneelioesurre:
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+-------
+
+Versatile IT professional with extensive leadership and technical skills in cormmercial, education,
+and government sectors, Background in Unix infrastructure, operations and engineering, DevOps,
+and Agile methodology. Excellent communication skills with experience in career development,
+relations, reporting and compliance,
+
+SKILLS
+------
+
+MS Office, Effective Cornmunication Skills.
+
+WORK EXPERIENCE
+---------------
+
+Senior Devops Engineer
+Lotame, Inc- August 2015 - 2020
+
+- Knowledged transfer from two key technical employees that moved to. other opportunities.
+
+- Assisted the director in hiring five ops tearn members and helped bring thern up to speed on the environment.
+
+- Maintained site uptime on a hybrid data management platform,
+
+- Worked with development teams to correct problerns with in-house apps.
+
+- Improved monitoring by adjusting alerting threshalds and expanding coverage to reduce monitoring gaps.
+
+- Performed software releases using Jenkins and shell scripts.
+
+- Lead transition from cFengine to puppet and Subversion to Git.
+
+Senior Devops Engineer
+Delta Corporation - 2010- 2015
+- Working in an Agile DeyvOps environment.
+- Providing software and services to ensure that releases meet organizational standards.
+- Providing direction and serving as technical lead in areas of Release Engineering, DevOps and Continuous Delivery.
+- Managing source control,
+- (Subversion, Git) Managing continuous Integration clusters.
+- Uenkins, Nexus, Sonar, Clover) Managing a large SLES/CentOS server environment
+- (Tomcat, JBoss, Apache) Accomplishments Developed frameworks for autornated zero- downtime deployments to Prod web application clusters,
+
+EDUCATION
+---------
+Cornputing - Septernber 1994(University of Maryland - Baltimore, MD)
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines

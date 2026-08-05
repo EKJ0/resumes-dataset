@@ -1,0 +1,160 @@
+Greg Baker
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Dependable and highly experienced Build and Release/DevOps Engineer with an excellent reputation as a successful team player.
+Broad and deep expertise in all relevant types of engineering hardware and software.Experience in handling multiple projects
+simultaneously and completing them well ahead of deadline .
+- Currently associated with CISCO as a DevOps Engineer and primarily focused on CONTINUOUS INTEGRATION using JENKINS and MAVEN for a set of projects. Also assisted in software configuration management.
+- Was associated with Roberthalf Technologies last as a senior build/sight reliability engineer and working for the client Cisco Sysytems.
+- A technocrat with over 4 years of hands on experience in shell scripting, Unix System administration, Linux Administration, Perl Programming, MYSQL database administration.
+- Hands-on experience with SVN, GIT and PERFORCE. Good knowledge of various development methodologies like Waterfall, SDLC, Rational Unified Process (RUP).
+- Experience with container orchestration systems, configuration management and cloud infrastructure service.
+- Hands on experience with CI/CD tools like Jenkins , Hudson etc
+- Working experience with reporting services like JIRA and code review tools like SonarQube , GitHub and Coverity.
+- Worked on both windows and UNIX/LINUX based systems.
+- Performed Object Oriented Analysis using UML.
+- Energetic and self-motivated team player/ builder. Facilitated a team approach to achieve organizational objectives, increase productivity and enhance employee morale.
+- Strong communication, inter-personal, intuitive, technical, analytical, problem solving and management skills.
+
+SKILLS
+------
+
+Operating Systems: MSDOS, UNIX, Linux, Windows 95/98/2000/ Programming Language : Java,C,CSS,PL/SQL
+
+ME;/ XP/ NT. Scripting Languages : MySQL, SQL, Python,Bash, Ant, Software/Tools : Java, JavaScript, XML, Hibernate , Jenkins, Git, Maven,Ansible
+
+Docker, Kubernetes, SonarQube, Puppet ,Chef
+
+WORK EXPERIENCE
+---------------
+
+DevOps Engineer, 04/2019 to Current Livongo Health, Inc. - Santa Clarita, CA The Accountabilities:
+- Analyze and design software tools to match the needs of the customer and support the maintenance of these tools
+- Participate in customer meetings to understand their requirements/pain-points and guide the business team accordingly
+- Developing a continuous delivery pipeline in the cloud environment Responsibilities:
+- Deploy code updates into test and production environments and work to roll environments forward.
+- Implement and manage monitoring and analysis tools.
+- Establishing and running the processes for on-going maintenance,monitoring support and security patching of a platform.
+- Maintain Git repositories for developers and promote branch workflow.
+- Help the customers and support them with their daily software bugs.
+- Troubleshoot and escalate bugs for our Live server product.
+- Implemented Artifactory, SonarQube, and Jenkins to support various internal projects of Cisco and automated the build process.
+- Assisted in developing Tables, Triggers, Views, stored procedures and updated the SQL database .
+- Perform primary/secondary on-call duties to manage alerts on pager duty and resolve issues.
+- Identify requirements or pain points in delivering software code to production servers as deployable packages. Based on constant interaction with developers and QA team members, new requirements are identified and discussed in build & release engineering team.
+- Evangelizing DevOps best practice and facilitating the adoption of DevOps methodologies across teams.
+- Work with Kubernetes for building Jenkins masters and container orchestration.
+- Assist with testing and validating production applications Improve the security and performance of infrastructure by working with other team
+- Provide solutions for performance management, disaster recovery, monitoring, and access management
+- Work with product operations team to resolve trouble tickets, developing and running scripts, and troubleshooting services in a hosted environment
+- Developing and promoting standard operating procedures and creating processes and tooling for operation efficiency Environment: Selenium Box, Puppet, SonarQube, Jenkins, Ansible ,Python, Maven 2, Artifactory, GIT, Check_mk, UNIX, Linux, Tomcat Application Server, Puppet, Selenium Box, GitLFS, GitHub, BitBucket
+
+Build and Release Engineer, 04/2018 to 04/2019 Booz Allen Hamilton Inc. - Arlington, VA The Accountabilities:
+- Analyzing business requirements from Functional Specification
+- Designing Technical specification based analyzed requirements.
+- Leading the business analysis team and guiding them on the project Responsibilities:
+- Configured various plugins to the continuous integration process which greatly helped in the project management.
+- Worked with Kuberenets for building Jenkins masters and container orchestration.
+- Implemented Jenkins-Pipeline-Plugin development and setup workflows for CI/CD.
+- Assisted in developing Tables, Triggers, Views, stored procedures and updating the SQL server database and optimized SQL
+
+server stored procedures using joins and indexes.
+
+Implemented various new functionalities to build script which greatly supported in project management like SONAR.
+
+Used Jenkins for the continuous integration process and assisted in the code coverage and analysis by generating reports.
+Implemented Artifactory, SonarQube, and Jenkins to support various internal projects of Cisco and automating the build process
+
+thereby making the process easy and less time-consuming.
+
+Worked on Puppet Development to automate the host bootstrap mechanism.
+- Handle customer support issues with teams running builds, debug artifact issues with build and artifact management systems.
+- Experience using Puppet and Ansible System Configuration Tools to setup automation.
+
+Responsible for driving the enhancement and automation of our continuous integration and delivery toolsets offered.
+
+Responsible for Python, Shell, Ruby and Groovy scripts for software build conduct and management.
+
+Responsible for running web-scale services on Amazon Web Services.
+Worked with Bug tracking tools like JIRA, Remedy.
+
+Was responsible to analyze complex build problems, release issues and environment issues in a multi-component environment.
+
+Creation and maintenance of a DevOps monitoring and alert system Technical Go To regarding all things CI/Build and Artifact
+
+management (Design, implementation, execution, evaluation) Integration tests, Integration troubleshooting and error debugging.
+
+Was responsible to take care of branching, merging and tagging for source code repository
+
+Excellent communicative, interpersonal, intuitive, analysis and leadership skills with the ability to work efficiently in both
+
+independent and teamwork environments.
+
+Setup test automation framework servers for Fitnesse and Selenium and configure Hudson test build jobs to use these servers for
+running automated test scripts.
+Provide customized results reporting mechanism, which is used to promote builds across different phases in SDLC.
+
+Setup code coverage tool "Jacoco” and generate different packages for instrumented and non- instrumented builds from the same
+checked out source.
+
+Setup MySQL DB to implement code analysis tools like Sonar.
+
+Understand and enhance SQL and PL/SQL DB queries in content build scripts that generate required content for Ingenuity
+
+applications Environment:
+XML, ANT, Maven , Jenkins, Artifactory, GIT, SVN, UNIX, SonarQube ,Linux, Tomcat Application Server, Puppet ,Selenium ,
+GitLFS.
+
+Build and release Engineer, 12/2015 to 04/2018 Booz Allen Hamilton Inc. - - Chantilly, VA
+- The Accountabilities: Managing and executing application deployment to hundreds of servers Managing and executing SCM for engineering organization Enforcing and improving organization's release process Responsibilities: Responsible for developing & maintaining IT infrastructure & tools to support development
+
+Identified requirements or pain points in delivering software code to production servers as deployable packages
+- Manage version control tools SVN and Git to version code changes to help developers/programmers branch/merge/revert code
+
+Wrote build scripts & made recommendations to enhance customization in build scripts written in Ant & Maven
+Used Java programming, related code files, config files & package mechanisms (JAR, WAR & EAR packages) & provided optimal
+mechanism to build application packages
+
+Setup & configured Hudson, JENKINS/Tomcat servers & setup continuous integration automation by promoting certified
+packages through various stages in SDLC
+
+Created utilities to monitor continuous integration process (job failure rate, disk usage), coded changes in SVN & job failures in
+
+Hudson
+
+Setup code improvement utilities like Fisheye, Crucible, Sonar to help developers do peer code reviews & identified issues in
+code early in the cycle using code analysis
+
+Setup defect tracking system in Jira & managed various requests to enhance workflows & added/updated components, users,
+
+permissions, projects, etc
+Setup package repository with Nexus & implemented Maven workflow to use & publish JAR files & packages to this central
+
+repository Wrote scripts in Perl, Python & Shell scripting to customize build, promotion & release process
+
+- Working on Cloud server for deployement using AWS Developed and documented a branching strategy to be used Setup code review tool gerrit with GIT and integrated with CI system to help developers do peer code reviews & identified issues in code early in the cycle using code analysis Configured , maintained and administered Linux systems that host build and release
+
+engineering apps by constantly monitoring system load and memory consumption
+
+Worked on the Weblogic Deployments Drive weekly integration/build, release & patch process Configured various plugins to
+the continuous integration process, which greatly helped in the project management
+
+Solely been responsible for more than three UNIX production box setup and migration of the entire set of projects from the old
+ones to the new
+
+- Responsible for building the project in different environments and then troubleshooting and bug-fixing
+
+- Environment: XML, ANT,Jenkins/Hudson , Nexus GIT,SVN, UNIX, SonarQube ,Linux, Tomcat Application Server, GIT , Maven
+
+EDUCATION
+---------
+
+Master of Science: Nano Technology Mount Carmel College - Bangalore , India
+
+Bachelor of Science: Electronics
+
+Mount Carmel College - Bangalore India

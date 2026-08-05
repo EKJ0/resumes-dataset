@@ -1,0 +1,43 @@
+4759 Sunnydale Lane, Plano, Texas,
+
+Maria Garcia
+
+123-456-7890 DevOps Engineer
+
+A DevOps Engineer with seven years of experience, specializing in software development, web development, Agile methodology, and CI/CD.A
+proven track record of collaborating with software developers to enhance development processes and drive automation.
+
+Professional Experience DevOps Manager
+906 Technologies, Marquette, MI | March 2019 - Present
+- Lead an Agile team of four developers and two system administrators, conduct performance reviews, and provide mentorship to drive professional development
+
+- Support the development of new application features and improvements, enhance the user interface, and improve user satisfaction by 20%
+
+- Create and develop Standard Operating Procedures based on common failure scenarios
+- Maintain automated CI/CD pipelines for code deployment
+
+DevOps Engineer
+
+Walmart Tech Services, Marquette, MI | January 2017 - March 2019
+
+- ® Managed 50+ Linux servers with 99.99% uptime, created a Docker container cluster using Kubernetes/Docker Swarm, and prevented network failures
+
+- Developed a system to automate security updates and improve cybersecurity
+
+- Maintained Git workflows for version control and source code management
+
+Education Bachelor’s Degree in Computer Science
+UNIVERSITY OF MICHIGAN, Ann Arbor, MI | September 2012 - June 2016
+
+Agile Development Continuous Improvement Python
+
+JavaScript
+
+Git
+
+Kubernetes
+
+Docker Swarm
+
+a < ” x e:
+a

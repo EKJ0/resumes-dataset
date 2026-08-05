@@ -1,0 +1,62 @@
+Jessica Zackowitz DevOps Engineer
+
+Versatile DevOps manager with 6 years' experience. Seeking to leverage proven continuous deployment skills to raise quality at Google.
+Cut customer complaints by 50% for an SaaS application. At Shellnac Inc., used Jenkins and AWS tools to cut release times by 20% .
+Boosted customer satisfaction by 25%.
+
+Personal Info Experience
+
+Phone 2015-07 - DevOps Manager
+
+A10:279-0218 2018-08 Frostacre Global
+
+E-mail * Led Agile team of 5 developers, 2 SysAdmins to continuous deployment of
+jesszackowitz@gmail.com SaaS real estate solution with 1 million+ users. Collaborated with C-Suite
+
+‘i and sales teams.
+Portfolio
+
+: 5 * Maintained network of 30+ Unix servers with 99.9% up-time.
+www.jesszackowitz.com
+
+- Wrote scripts to automate security upgrades. Cut vulnerabilities by 20%.
+
+Soft Skills 2013-05- | DevOps Engineer
+Collaboration eeceee 2015-06 Shelinac Systems, Inc.
+Expert * Set up and managed 40 Linux servers with 99.95% up-time.
+¥ gis * Managed continuous deployment of a popular SaaS stock-tracking tool.
+Critical Thinking eeee@0 9 ; poy pop 8
+- Deployed 2 software iterations per month for 2 years. Increased customer Advanced satisfaction with software by 25%. Presided over a period of 30% revenue Hard Skills growth:
+raw ecccee 2012-06 - System Administrator
+Deployment 2013-05 Litman Analytics
+Expert * Set up and managed 15 Windows 2008 servers.
+_ - * Wrote scripts to automatically update system components.
+Unix/Linux eeeeoe P yume ¥ p Expert * Cut company costs 20% through aggressive vendor management.
+Puppet, Jenkins, eeeeo Education Zabbix
+Expert 2008 - BS in Computer Science, University of Michigan
+AWS, Cisco eeee@0 2012 * Excelled in security classes.
+Advanced * President, 314 Action STEM Organization.
+Python, GIT @eee0 ps .
+
+CERTIFICATIONS
+-------------- Advanced
+
+AWS Certified DevOps Engineer
+
+AWS Certified SysOps Administrator
+
+Conferences
+
+2017 DevOps Days, Spoke on a panel about serverless networks
+
+PUBLICATIONS
+------------
+
+2017 Article on containers appeared in "The Agile Admin"
+
+2016 Article on monitoring best practices appeared in "DevOpsGuys”
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.
