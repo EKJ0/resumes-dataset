@@ -1,0 +1,68 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+Robert Smith hore Sasbibae
+
+Email: info@qwikresurme.com.
+
+Website : wwew,qwikresume, com Database Developer Linkedin: linkedin.corn/qwikresumne
+
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Database Developer with over 5 years of experience in troubleshooting, debugging, performance
+tuning, requirernents gathering, implementation and production support, and translating client
+requirements into Production Database processes using Oracle 11g, 10g, 9i, SQL, PL/SQL, Dynamic SQL, SOL Plus, Excellent in Oral and Written communications,
+
+SKILLS
+------
+
+PL/SQL, Oracle Database, Oracle Forms And Report, Cognos 8 And Unix Script
+
+WORK EXPERIENCE
+---------------
+
+Database Developer
+Newark Electronics / Element 14 - November 2012 - May 2014
+
+Supported the development from design through production release, utilizing Oracle database, Dynamic PL/SQL, SOL, Unix shell scripting, SOL loader,
+
+Code testing following TOD practices including maintenance/creation of unit tests and
+collaborating with functional and non-functional test tearn members to ensure quality output,
+Elaboration of functional requirernents provided by the business including working with a
+cross-functional team of product owners, business analysts, project managers, QA testers and
+technical designers,
+
+Collaborating with technical specialists during creation of the functional requirements document,
+
+Data migration project migration of modules such as accounts, users, equotes, ibuy, and orders frorn atg to websphere commerce database,
+
+Creating the database objects such as packages, procedures, functions, tables, views, external tables and unix scripts to migrate the data,
+
+Code testing testing the requirernents functionality and prepared unit testing according to
+requirements,
+
+Consultant (Programmer/Analyst)
+Intellisys Consulting Inc - October 2009 - july 2012
+
+Reported analysis and design, wrote report requirement specification for reports that will be
+develop as part of the new solution,
+
+Reported development using pl/sql and cognos 8 develop and maintain reports objects like store procedures, functions, materialized views, views, tables and reports,
+
+Provided training to software developers employees.
+
+Established and maintained the backup schedules and processes for all databases, troubleshoot production problems and performed tuning of databases.
+
+Researched new technologies, made recommendation tools and procedures for increased infrastructure performance,
+
+Created tables, created/modified ssis packages that would allow notify clients to view all order
+confirmations right away before the conversion.
+
+Lead multiple developers and coordinated rollouts to multiple environments (development, qa, and production),
+
+EDUCATION
+---------
+
+- This Free Resime Tempimte ls the copyright of Qwikresume.com. Usage Guilctelines

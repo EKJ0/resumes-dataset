@@ -1,0 +1,54 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+Robert Smith Phone (123) 456 78 99
+
+Email; InfoS@awikresume,cor
+
+Website > vow. qwikre sume, com
+Database Engineer Linkedin: linkedin.com/qwikresume
+
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Experienced DB engineer in enterprise environment providing administration, monitoring, SQL
+developrnent, data extractions and analysis, report generation and database rnanagerment via
+SSDT, SSIS, SSAS, SSRS in SQL Server or Oracle database environment.
+
+SKILLS
+------
+
+IT Manager, IT Specialist.
+
+WORK EXPERIENCE
+---------------
+
+Database Engineer
+ORACLE USA Inc - October 2014 - 2019
+
+- Create and relocate services on preferred database nodes,
+
+- Create database jobs for execution through 12c EOM or manually.
+
+- Import and export database schemas across environments.
+
+Monitor databases RMAN backup using avallable tools and troubleshoot issues accordingly.
+Create and drop Flashback Restore Points as needed.
+
+Rallback database and database objects as needed.
+
+Create database users and monitor their activities using fine grained-auditing,
+
+Database Engineer
+ABC Corporation - 2011 - 2014
+- Provided input for ISO 9000 certification and implemented quality practices, Improved electronics Cormponents database. Analyzed ail data entry and to Improve accuracy. Helped create new categories based on technical knowledge. Additional arn a certified instructor in Tae Kwon Do, a 3rd degree black belt, and a state champion,
+- Highly musical with a worldly, eclectic taste ranging from classical to rock, | play the tuba,
+
+sing solos, and collect records,
+- This is Durnmy Description data, Replace with job description relevant to your current role,
+
+EDUCATION
+--------- Master's in NPO Management - (Eastern University St Davids - Saint Davids, PA)
+
+- This Free Resume Template is the copyright of Qwikresume com. Usage Gulde lings

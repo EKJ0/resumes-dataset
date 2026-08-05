@@ -1,0 +1,33 @@
+& SUMMARY
+
+® SKILLS
+
+Data migration and conversion
+
+Data partitioning and sharding strategies
+
+Data warehousing concepts and implementation
+
+Data backup and disaster recovery planning
+
+Database scripting and automation
+
+Deon Nguyen
+
+WORK EXPERIENCE
+---------------
+
+Database Developer
+
+Acme Corp
+
+Database Developer Acme Corp
+
+Database Developer
+
+Acme Corp
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

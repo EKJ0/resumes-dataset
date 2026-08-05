@@ -1,0 +1,193 @@
+Lakisha Washington
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+A self-motivated Production SQL Server Database Administrator who possesses strong analytical and problem-solving skills. My experience
+includes SQL Server 2005, 2008 and 2012, 2014 and 2016, SSIS, as well as clustering, mirroring, and high availability solutions in OLTP and
+Oracle environments. I am proficient in database backup, recovery, performance tuning, maintenance tasks, security, and consolidation. A team
+player with a Creative, Vibrant and Optimistic Mentality, able to work with minimum or no supervision. Effective critical thinking,
+organizational and planning experience. Strong work ethic with demonstrated success in both teamwork and individual situations.
+
+SKILLS
+------
+- SQL Server Installation and Implementation Disaster Recovery © Database Upgrade patches Strategic Planning T-SQL Performance Tuning e SSIS SSRS PowerShell
+- Database Security Backup & Restore Replication © Solarwinds
+- High Availability Data Migration Database Maintenance
+
+WORK EXPERIENCE
+---------------
+
+Database Administrator, 05/2021 - Current Two95 International Inc. - Texas, TX
+
+- DBA activities like analysis of Space Availability, Backups (transaction log, complete) and Scheduled Jobs Used SQL Profiler for troubleshooting, monitoring, optimization of SQL Server and SQL code
+
+- Performed various data migration tasks for mission critical databases
+
+Worked with a team of 6 to manage over 2000 databases ranging from 350GB to 2.3TB
+- Worked with PowerShell for performance enhancement and security audits
+
+Updating Service packs and Security patches for the Servers
+
+Create and re-evaluate Indexes and made needed modifications for better performance
+
+Creating and Reviewing Security features for all the servers
+- Documentation of Server Builds specifications and Security features
+
+Participating in process, application and database audits
+
+Revise and improve current monitoring strategies for the entire database enterprise (Introduced and setup SolarWinds and SQL Sentry)
+- Perform proactive maintenance of all mission critical databases (small and large)
+
+Supported developers on the use and the importance of SQL Server Index Tuning Wizard and SQL Server profiler
+
+Maintained the proper use of storage space requirements as well as adding new storage space (disk drives) when appropriate
+Responsible for importing as well as exporting data to and from the SQL Server using BCP, DTS and SSIS
+
+Establish standards and schedules for database backups by making sure that the backup schedules meet the recovery requirements on a
+daily, weekly, as well as monthly basis
+
+Used the RESTORE VERIFY option when creating backups
+
+- Work as a team member with other DBA's to ensure 24x7 day a week support of all corporate databases.
+
+Database Administrator, 05/2016 - 02/2021 Two95 International Inc. - New York, NY
+Part of a team of 5 DBAs supporting client and in-house SQL Server database systems on various infrastructure projects improving service
+
+level agreements by reducing time to deliver database solutions to business
+- Interfacing with developers and clients to help them understand their needs based on budget and licensing cost
+Upgrading client RDBMS to SQL Server 2008R2 and SQL Server 2012
+Engaged in Strategic Planning, Implemented and supported high availability (HA) and disaster recovery (DR) solutions via log shipping
+
+and database mirroring along with proper backup strategies across multiple SQL Server instances
+
+Design, implement and administer High Availability solutions, (clustering, log shipping, mirroring, and replication)
+
+Database administration including installation, configuration, upgrades, performance tuning, backup, and recovery in managing clusters of
+SQL servers Worked with Powershell automation, performance enhancements and security audits
+
+Designing, Implementing, and maintaining database schema, entity relationship diagrams, data modeling, tables, stored procedures,
+constraints, indexes, functions, views, rules, defaults, and complex SQL statements
+
+Responsible for maintenance, Backup & Recovery, testing, alerts (job failures, etc.), and database integrity checks
+
+Used scripts and SQL Agent jobs to automate database maintenance tasks
+
+Setting up and managing transactional replication, mirroring, and log shipping
+Configure and install Windows Server 2016 clusters and SQL Server 2016 clusters
+
+- Configure and install Windows Server 2008R2 clusters and SQL Server 2008R2 clusters Serving as the technical expert in SQL Server technologies
+
+Participating in SQL Server database systems design and operations
+
+Created database objects like tables, views, indexes, stored-procedures, triggers, cursors using T-
+
+- SQL
+
+Assisting in the resolution of complex problems in support of production; including on call support
+- Ensuring that the detailed physical design of database and data structures comply with data policies, standards, principles, and meets the established level of service agreements/goals for the system
+
+Using native and third-party monitoring and troubleshooting tools
+
+- Demonstrating experience in working on root cause analysis for SQL Server database issues
+
+Flexible, adaptable, and able to manage multiple tasks in a dynamic environment
+
+Proactively monitoring the database systems to ensure secure services with minimum downtime
+
+Provide on call support on a rotating basis.
+
+Database Administrator, 02/2014 - 05/2016 Two95 International Inc. - Chicago, IL
+- Lead the efforts of the database team in improving CPU consumption for all critical production database servers by tuning queries, databases, instances, etc
+- Thereby reducing the CPU workload from a steady 90% to 10% and resulting in a 300% increase in transaction processing Support of the SQL Server Databases including database performance tuning, installing and upgrading SQL Server and its databases,
+
+clustering, monitoring database health, coordinating with storage teams on capacity planning and storage distribution, backing up and
+restoring databases, maintenance of database users and security, database development, data transfer and replication, mirroring, and server
+diagnostics and analysis
+
+- Building out new clusters to handle mission-critical databases
+
+Automated the process of monitoring entire inventory of SQL Servers to ensure good backups of all servers using T-SQL Scripts
+- Worked as a Primary DBA on several projects including High Availability DR project tied to the company's Active Directory structure
+
+accessed by the company’s employees
+
+Create new database logins and users as required
+
+- Applying necessary SQL Server database patches and installing service packs
+
+- Also, provide 24x7 on-call support for Production Databases
+
+Developed and optimized stored procedures, triggers, and SSIS packages
+
+Troubleshoot disk, network, memory, and CPU related performance issues on high volume OLTP servers
+- Set up Always on Availability Groups for SQL Server 2012 databases
+
+Designed the backup and recovery strategies for SQL Server databases to meet our customer SLA requirements
+- Maintaining all environments (prod, UAT, QC. test, training, and dev)
+
+- Performing frequent health checks for all backups and mission-critical production databases
+
+Creating and analyzing daily reports for mission-critical databases
+
+Monitoring of servers using SQL Sentry third party tools that extends across all platforms and data centers
+Establish escalation policies for the database team
+
+Revise and improve current monitoring strategies for the entire database enterprise (Introduced and setup SolarWinds and SQL Sentry)
+
+Standardize processes for the DB team by creating documentations for installations, migrations, upgrades, backups, restores, index
+maintenance, etc
+
+- Revised current DR and HA strategies and improving them, thereby reducing downtime in the event of any failure
+
+Participating in on-call rotation with the team
+
+Ensured availability of instance and databases via clustering and mirroring
+
+Create reports that ran daily for jobs running in SQL Server Agent.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer Software and Systems Engineering Thames Valley University. (University of West London - London
+
+TECHNICAL SKILLS
+----------------
+
+SQL Server 2005 through SQL Server 2008R2 as well as SQL Server 2012 and SQL Server 2014 on Windows Server 2005, 2008, 2008R2,
+2012 and 2012R2.
+
+Strong knowledge of backups, restores, recovery models, DBCC commands, Clustering, Log Shipping. Mirroring, and Replication.
+
+- Experience in troubleshooting and resolving performance issues, blocking and deadlocking issues, database integrity issues, security issues,
+
+log shipping issues, Database administration including installation, configuration, upgrades, capacity planning, performance tuning,
+backup, and recovery in managing clusters of SQL servers.
+
+Installation, Upgrade, Maintenance and Tuning of SQL Server 2005, 2008, 2008R2, 2012, 2016 and Tables partitioning Knowledge of
+High Availability of database servers using SQL Server 2012 Always On.
+
+Knowledge and Experience of SolarWinds and SQL Sentry One Develop and modify stored procedures, queries, triggers, views, indexes,
+and functions. Experienced with monitoring and troubleshooting in 24x7 operations.
+
+- Experience with network connection tuning using SQL Server 2008R2. Have good understanding of Disk and Server configuration for SQL Server. Proficient in performance of SQL Server software new installation and upgrades. Proficient in Backup/Recovery strategies implementation.
+
+- Experience with setup and administration of SQL Server Database Security environments using Profiles, database Privileges and Roles.
+
+Responsible for troubleshooting and problem solving of SQL database Servers. Ability to ensure the technical integrity of corporate
+databases by protecting against the loss or misuse of information and designing backup/recovery strategies.
+
+- Experience managing multiple MS SQL 2008, 200812, 2012 RDBMS on web-based, transactions. Experience with Windows environment, VM Index Maintenance and tuning of the databases.
+
+Provide SQL Server database physical model creation and implementation (data type, indexing, and table design).
+
+- Experience working with transactional and snapshot replication.
+
+- Experience with SQL Server 2005, 2008, 2008R2, 2012 and on Windows NT, Server 2005, 2008, 2008R2, and 2012 Proficient in use of
+
+tools like SQL Server Profiler and Windows Performance Monitor.
+
+Development database support (T-SQL tuning, Application tuning etc.) Proficient in SQL Server 2005, 2008 and 2008R2 database cloning.
+
+- Experience with monitoring and performance tools (SQL Sentry, SolarWinds, sp_WholsActive, etc...) Extensive knowledge in Microsoft SQL Server databases, as well as SSIS, DTS packages, T-SQL, performance tuning, database design and data warehousing.

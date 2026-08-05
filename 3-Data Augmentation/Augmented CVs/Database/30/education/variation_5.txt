@@ -1,0 +1,177 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Logical Data Analyst skilled in requirement analysis, software development and database management. Self-directed and proactive professional
+
+with 10 years of vast experience collecting, cleaning and interpreting data sets. Natural problem-solver possessing strong cross-functional
+
+understanding of information technology and business processes. Qualified Business Intelligence Analyst versed in data mapping and user
+
+acceptance testing to solve complex problems in high-pressure environments. Activates strong analytical skills to investigate trends in large
+
+amounts of data and formulate conclusions based on findings. Excels at cultivating, managing and leveraging client relationships to foster
+
+extended engagements and business opportunities. Responsible and motivated student ready to apply education in the workplace. Offers
+
+excellent technical abilities with software and applications, ability to handle challenging work, and excellent time management skills.
+
+SKILLS
+------
+- Compatibility Testing e Running backups
+- Query Tools © Data audits
+- Analytical Problem Solving © Vendor/partner relationships
+- Data Visualization and Presentations e Infrastructure development
+- Configuration Management © VMware
+- Data Integrity Validation © Product development and improvement
+- Attention to Detail © Tomcat
+- Sequence Diagrams © Cybersecurity frameworks
+- Data Mining e Backup testing
+- Data Analysis © Server/network configuration Statistical Analysis © Citrix
+- Data Quality ¢ Application stacks
+- Clear and Concise Communication © OSI network layers
+
+Documentation and technical articles
+
+Business Intelligence Systems
+
+- Budgeting and Forecasting © Coaching and training
+- Data Compiling © Data Modeling
+- Process Improvement © Website analytics tools
+- Business Analysis e Wireframes
+- Database analysis e Analytical
+- Troubleshooting © Software Development Lifecycle
+- Performance Monitoring © Multitasking
+
+WORK EXPERIENCE
+---------------
+
+Data Analyst, 07/2006 - Current Spencer Gifts, Llc - Charlotte, NC
+
+Worked with a team of database administrators to designed and implement Multisite.
+
+Analyzed competitive market strategies through related product, market or share trends.
+
+Managed timely flow of business intelligence information to users.
+
+Communicated with customers, competitors and suppliers to stay abreast of industry or business trends.
+
+Assessed programs to identify risks or problems to determine appropriate responses.
+
+Managed diverse projects for data capture, storage and forecast analysis.
+
+Maintained library of model documents, templates or other reusable knowledge assets.
+
+Audited internal data and processes to identify and manage initiatives, improving business performance.
+
+Provided supporting information to substantiate research findings.
+
+Assisted integration of internal and external data tools and products, maintaining stability and performance across systems.
+
+Actively participate in all phases of system development life cycle including planning and analysis, design, development, and testing.
+Maintain application performance & scalability with a focus on (PTO)
+
+Performance Tuning & Optimizing SQL queries, table design, indexing, query plan analysis, databases & SQL servers.
+
+Provide support for architectural designs to enhance complex subsystems like analytics engines.
+
+Design and implement Continuity of Business solutions, data warehouse solutions for SQL Server databases including replication strategy
+and Active-Active and Active-Passive clustering.
+
+Create alerts, notifications, and emails for system errors, insufficient resources, fatal database errors, hardware errors, and security
+breaches.
+
+Export/Import data from other data sources like flat files using SSIS/DTS packages.
+
+Setup Database Security and maintain accounts and access levels by creating suitable Logins and Roles and assigning object level
+permissions.
+
+Manage Disk space, Memory, and User Connections.
+
+Schedule and monitor maintenance activities including database consistency checks and index fragmentation.
+
+Schedule weekly jobs and Maintenance tasks for better performance and created alerts with Database Mail SMTP.
+Generated reports and obtained data to develop analytics on key performance and operational metrics.
+
+Assisted with efforts to track, evaluate and report on impact of programs using multiple data sources.
+
+Synthesized business intelligence or trend data to support recommendations for action.
+
+Conducted data analysis to prepare forecasts and identify trends.
+
+Leveraged software to compile and model data.
+
+Identified needs of customers promptly and efficiently.
+
+Analyzed and tracked data to prepare forecasts and identify trends.
+
+Identified and analyzed industry or geographic trends with business strategy implications.
+
+Identified or monitored current and potential customers using business intelligence tools.
+
+Collected business intelligence data from industry reports, public information or purchased sources.
+
+Created or reviewed technical design documentation to drive accuracy of reporting solutions.
+
+Analyzed and developed technical and functional specifications for databases serving up to 1000 employees.
+
+Partnered with project management teams on development of scope and timelines.
+
+Tested programs and databases to identify issues and make necessary modifications.
+
+Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+Created and implemented database designs and data models.
+
+Created scripts and processes for data integration and maintenance.
+
+Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+Followed standard practices for migrating changes to test and production environments and provided technology support to meet business
+requirements.
+
+Implemented system enhancements to propose, design and develop solutions to fulfill requests and address problem reports.
+Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
+Wrote scripts and processes for data integration and bug fixes.
+
+Tested and modified databases to determine and correct issues.
+
+Developed data models and database designs to plan projects.
+
+Partnered with data scientists to support ongoing research and analytics initiatives.
+
+Data Analyst, 06/2012 - 06/2016 Wells Fargo - Evanston, IL
+
+Partnered with data scientists to support ongoing research and analytics initiatives.
+
+Audited internal data and processes to identify and manage initiatives, improving business performance.
+Provided supporting information to substantiate research findings.
+
+Assisted integration of internal and external data tools and products, maintaining stability and performance across systems.
+Interacted with non-technical stakeholders to deliver analyses and answer questions on deliverables.
+Recommended metrics and models based on observed trends.
+
+Audited initial datasets to confirm validity of imported data, corroborating changes against updates in data tapes.
+Worked with internal teams to understand business needs and changing strategies.
+
+Assisted with efforts to track, evaluate and report on impact of programs using multiple data sources.
+
+Generated reports and obtained data to develop analytics on key performance and operational metrics.
+
+Utilized data analysis to monitor process efficiencies and identify data integrity exceptions.
+
+Collected, tracked and reviewed data to evaluate business and market trends.
+
+Synthesized business intelligence or trend data to support recommendations for action.
+
+Gathered and organized data to analyze current industry trends.
+
+Identified and analyzed industry or geographic trends with business strategy implications.
+
+Collected business intelligence data from industry reports, public information or purchased sources.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Industrial Chemistry . 10/2010 National American University - Uturu

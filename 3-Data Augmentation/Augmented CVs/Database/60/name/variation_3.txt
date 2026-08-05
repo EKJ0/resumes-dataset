@@ -1,0 +1,273 @@
+Lakisha Washington
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Iam an IT professional with over 6 years of experience working on complex database environments with focus on SQL Server. My key
+strengths are performance tuning, capacity planning. High Availability Solution, Disaster recovery planning, managing complex add-ONS
+in (SQL Server 2000- 2017), Migration/Upgrade, applying service Packs and routine DBA activities like Database health check, Index
+optimization, Updating statistics, Client/Server connectivity, Capacity planning, Database backup and Restore/Recovery, Query
+optimization, SQL Server Installation, Configuration of stand-alone with multiple instances in a non - Clustered environments etc.
+
+A highly motivated IT Professional with over 6 years of Strong Experience with MSSQL Server 2000 through 2017 Administration.
+Good experience in the field of Database Technology with experience in designing, developing, implementing Databases and good on
+documentation.
+
+Experience working in an Agile environment.
+
+Experience in translating business requirements into conceptual, logical, and physical data models
+
+Experience administering, Managing and configuring RDBMS database design, performance tuning, optimization, disaster recovery
+planning, execution and testing backup
+
+SKILLS
+------
+- Automation e T-SQL
+- Backup © Troubleshooting
+- Capacity Planning © Upgrade
+- Consulting e Agile methodology
+- Encryption e High Availability Solution
+- Disaster recovery e Disaster recovery planning
+- DML e Managing complex add-ONS in (SQL Server 2000- 2017)
+- Firewall © Migration/Upgrade
+- Managing © Index optimization
+- Mail © Updating statistics
+- Processes © Client/Server connectivity
+- Quality © Capacity planning
+- Reporting © Database backup and Restore/Recovery
+- Servers © Query optimization
+- Scripts © SQL Server Installation
+- Tables © Configuration of stand-alone with multiple instances in a non -
+
+Clustered environments etc.
+
+WORK EXPERIENCE
+---------------
+
+SQL Server Database Administrator, 08/2018 - Current Genesis Consulting Group - Washington, DC
+
+Experience using SQL Server Tools like Import/Export Wizard, SSMS, SQL Profiler, Extended Events, SQL Query Analyzer Database
+Engine Tuning Advisor (DTA), Red-Gate , Service-Now.
+
+Etc.
+
+Production support in a 24/7 environment and project support.
+
+Achieved 99.9% uptime on all SQL Servers.
+
+Interacts with clients, application team and project managers to design, implement and support solutions to meet client needs.
+Installed and configured SQL 2008, 2012, 2014, 2016 and 2017 in both standalone and clustered environment with availability groups.
+Performed different SQL server version Upgrade in both standalone and cluster instances.
+
+Complex database environments, Production, Test and Development Environments.
+
+Provides support for the AppTeam, BI Team, IT Security team and IT Ops Team.
+
+Execute all Production Implementations and Deployments.
+
+Install and configure SSRS for reporting.
+
+Create Database Mail for notifications.
+
+Alerts settings on job failures and Resource deficiencies.
+
+SQL Server Profiler, Extended Events, Query Store and Database Engine Tuning Advisor (DTA) for performance.
+Create Logins at Server level, users at Database level and also create Database Roles for groups of users.
+Configured Always-On Availability Group for disaster recovery.
+
+Trouble shoot complex issues on Always On availability group.
+
+Provide a Stable environment for Availability group Replicas and databases from frequent fail-overs.
+
+System monitoring and proper allocation of Resources.
+
+Troubleshooting client connectivity.
+
+Deadlock resolution.
+
+SQL Server Performance Dashboard Reports for Monitoring.
+
+Performance Base-lining.
+
+Manage indexes to improve performance.
+
+Schedule jobs using SQL Server Agent.
+
+Developed routine jobs for data integrity check.
+
+Managing Server and database security and identity.
+
+Provide support for volumetric Encryption for security.
+
+Database Vulnerability check on databases for security.
+
+Configured and maintained Contained Databases.
+
+Task Automation.
+
+Implementation of snapshot isolation and DML triggers.
+
+Stable Replication Topology.
+
+Planning and implementation of Database backup/restore and disaster recovery.
+
+Upgrade SQL Server 2012, 2014 and 2016 to SQL Server 2017.
+
+Maintained database response times in 24X7 Production environments.
+
+Developing SQL scripts for maintaining administration tasks.
+
+Capacity Planning and resource allocation.
+
+Monitoring standby databases to ensure high availability.
+
+SQL Server Database Administrator, 03/2016 - 07/2018 Genesis Consulting Group - Lincoln, NE
+
+SQL Server Profiler, Extended Events, Query Store and Database Engine Tuning Advisor (DTA) for performance.
+Create Logins at Server level, and users at Database level.
+
+Configured and supported replication.
+
+Configured AlwaysOn Availability Group for disaster recovery.
+
+System monitoring and proper allocation of Resources.
+
+Created and managed table compression and partitions.
+
+Troubleshooting client connectivity.
+
+Deadlock resolution.
+
+SQL Server Performance Dashboard Reports for Monitoring.
+
+Performance Baselining.
+
+Manage indexes to improve performance.
+
+Schedule jobs using SQL Server Agent.
+
+Developed routine jobs for data integrity check.
+
+Managing Server and database security and identity.
+
+Managing Firewall Rule. Trigger, Temporal Tables, Change Data Capture (CDC).
+Configured Transparent Database Encryption (TDE) for security.
+
+Configured and maintained Contained Databases.
+
+Task Automation.
+
+Indexes Maintenance.
+
+Stabilized Performance.
+
+Implementation of snapshot isolation and DML triggers.
+
+Stable Replication Topology.
+
+Planning and implementation of Database backup/restore and disaster recovery.
+Upgrade SQL Server 200812 Servers to SQL Server 2014.
+
+Maintained database response times in 24X7 Production environments.
+Developing SQL scripts for maintaining administration tasks.
+
+Capacity Planning and resource allocation.
+
+Monitoring standby databases to ensure high availability.
+
+SQL Server Database Administrator, 06/2014 - 03/2016 Jacobs Engineering Group Inc. - Wallops Island, VA, NIGERIA
+
+SQL Server Profiler, Extended Events, Query Store and Database Engine Tuning Advisor (DTA) for performance.
+Create Logins at Server level, and users at Database level.
+
+Configured and supported replication.
+
+Configured AlwaysOn Availability Group for disaster recovery.
+
+System monitoring and proper allocation of Resources.
+
+Created and managed table compression and partitions.
+
+Troubleshooting client connectivity.
+
+Deadlock resolution.
+
+SQL Server Performance Dashboard Reports for Monitoring.
+
+Performance Baselining.
+
+Manage indexes to improve performance.
+
+Schedule jobs using SQL Server Agent.
+
+Developed routine jobs for data integrity check.
+
+Managing Server and database security and identity.
+
+Managing Firewall Rule. Trigger, Temporal Tables, Change Data Capture (CDC).
+Configured Transparent Database Encryption (TDE) for security.
+
+Configured and maintained Contained Databases.
+
+Task Automation.
+
+Indexes Maintenance.
+
+Stabilized Performance.
+
+Implementation of snapshot isolation and DML triggers.
+
+Stable Replication Topology.
+
+Planning and implementation of Database backup/restore and disaster recovery.
+Upgrade SQL Server 200812 Servers to SQL Server 2014.
+
+Maintained database response times in 24X7 Production environments.
+Developing SQL scripts for maintaining administration tasks.
+
+Capacity Planning and resource allocation.
+
+Monitoring standby databases to ensure high availability.
+
+Role: JR.
+
+SQL SERVER DATABASE ADMINISTRATOR.
+
+Installed SQL Server 2012 on advanced servers, applied security fixes.
+
+Maintain the overall database integrity and quality, including routine data improvement.
+Create Logins at Server level, and users at Database level.
+
+Documented processes for installations, and upgrade.
+
+Maintained database response times in 24/7 Production environments.
+Proactively generated performance reports.
+
+Automation of DBA Tasks and monitoring.
+
+Planning and implementation of Database backup/restore and disaster recovery.
+Database Mail and Operator.
+
+Tables Design, views, Stored procedures, Function etc.
+
+Capacity Planning and resource allocation.
+
+Monitoring standby Databases to ensure high availability.
+
+Maintained SQL Server Database; ensured accuracy of information and automated numerous functions.
+Fine tuning of database objects and server to ensure efficient data retrieval.
+Monitor and optimize system performance using SQL Profiler and Database Engine Tuning Advisor.
+Schedule jobs using SQL Server Agent.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Public Administration, 12/2008 ENUGU STATE UNIVERSITY oF SCIENCE & TECHNOLOGY - ENUGU STATE NIGERIA
+
+ACTIVITIES AND HONORS
+
+CERTIFICATIONS
+--------------
+
+MSCA (inview) CERTIFIED Scrum Master CERTIFIED Software Tester

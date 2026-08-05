@@ -1,0 +1,380 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+CORE QUALIFICATIONS
+
+- Database Admin: SQL Server
+2008/2005 /2000, MS Access
+2003 & 2000
+
+- Database Migration: SQL server
+2000 & 2005 to 2008R2, Oracle to Microsoft SQL Server
+
+- Operating System: Windows
+Server 2008/2003/2000, Windows XP/NT4.0, MS-DOS, VMware
+
+- Programming: SQL, T- SQL,JOIN, Store Procedures, Trigger, Functions
+
+- ETL Tools: SSIS/DTS
+
+- Database Reporting Tool: SSRS (SQL Server Reporting Services), Crystal Report
+
+- Data Modeling: SSDD (SQL Server Database Diagram), Toad
+
+- SQL Tools: Query Analyzer, Profiler, Query Execution Plan, Counter
+
+- Performance Monitoring Tool: Profiler, Execution Plan, PerfMon, DatabaseTuning Adviser, DMV, Activity Monitor
+
+- Networking: Active Directory, TCP/IP
+
+- Hardware/Storage: SAN, RAID NAS
+
+- Over 5 years of SQL Server DBA professional experience in production, test and development environment
+
+- Installed, Configured & Maintained MS SQL Server
+2000, 2005 and 2008 ona standalone and Clustered Servers [Active/Active and Active/Passive Cluster Design]
+
+- Applied SP (Service Packs), and hot fixes
+
+- Performed Upgrade of SQL
+Server 2000, 2005, and 2008
+
+- Experienced using Configuration Tools such as SQL Server Configuration Manager and SQL Server Surface Area Configuration
+
+- Managed Security
+
+- Used Data Modeling tool using Data Modeler and Toad, Forward and Backward Engineering
+
+- Experienced in Database Backup, Recovery and Disaster Recovery procedures.
+
+- Worked on Database High Availability Solutions
+
+- Worked on Linked and Remote Servers to run queries between SQL servers and other data sources using ODBC, OLE DB drivers
+
+- Database Monitoring and Performance Tuning
+
+- Experienced in Online Indexing, Query Optimization, Performance Tuning and Database Consistency Checks using DBCC commands
+
+- Configured and maintained SQL Server Reporting Services [SSRS]
+
+- Experienced in creating and scheduling SSIS/DTS packages in SQL Server to transfer data between various DBMS and files
+
+- Good experience in debugging SQL Server stored procedures/ triggers and documenting issues/resolutions of SQL Server Applications
+
+- Experienced with creating alerts, schema management, database reorganization, data loading, database maintenance and optimization
+
+- Self-motivated; proactive; a team player; able to
+
+- manage own projects efficiently for on-time delivery
+
+EDUCATION
+---------
+
+University Putra Malaysia
+2007
+
+Bachelor of Science: Cormputer Science
+
+MCITP
+
+Microsoft Certified Professional Microsoft Certified Technology Specialist
+
+Microsoft SQL Server 2008, Implementation and Maintenance
+
+PROFESSIONAL SUMMARY
+--------------------
+
+A Microsoft Certified SQL Server DBA (hands-on professional experience on SQL Server Database as
+Administrator
+
+(DBA) with over 5 years of progressive professional working experience as a SQL Server DBA in all
+aspects of SQL
+
+Server Databases (2000, 2005, and 2008). Professional working experience in managing large
+databases in processing
+
+environment including backup/recovery, performance tuning, developing and managing reports using
+SQL Reporting
+
+Services (SSRS), Monitoring, Performance Tuning, stored procedures, triggers, functions, constraints
+and views etc.
+
+Working experience entails strong knowledge on using database third party tools ERWin, and Toad
+Data Modeler.
+
+Backup/Recovery: Strong knowledge and working experience in Database Backup and Disaster Recovery Experienced
+
+with Point-in-Time Recovery Restored Database from backup Used DBCC to check database conditions,
+Rebuilding
+
+indexes and other database Maintenance purposes as well Strong working experience in creating,
+modifying tables,
+
+Index (Cluster/Non-Cluster), Constraints Unique/Check), Views, Developed Different Maintenance
+Plans for database
+
+monitoring Monitor Server Activity, and solving problem as needed
+
+WORK EXPERIENCE
+---------------
+
+COX Communication - Microsoft SQL Server Database Administrator
+02/2009 - Current Accomplishments and Responsibilities
+
+- Installed, Configured, and Managed SQL Server 2008 R2, 2005 & 2000 in development, test, and production environment
+
+- Installed and Configured SQL Server 2012 for testing different features and stability
+
+- Database High Availability:
+
+- Installed, Configured and Maintained Fail-Over Clustering using SQL Server 2008/2005
+
+- Installed, Configured and Maintained Database Mirroring using automatic fail-over option in SQL
+Server 2008
+
+- Configured Log Shipping as Standby database from Production database for Reporting purposes
+
+- Configured and Maintained Replications (Transactional)
+
+- Report Development:
+
+- Installed, Configured, and administered SQL Server Reporting Services (SSRS)
+
+- Developed Reports using SSRS
+
+- Deployed Reports
+
+- Developed Ad-hoc Reports using Report Builder 3.0, 2.0
+
+- Database Upgraded (development, testing and production environment):
+
+- SQL Server 2000 to 2005/2008
+
+- SQL Server 2005 to SQL Server 2008
+
+- Database Migrated (development, testing and production environment):
+
+- MS Access 2003/2000/97 databases into MS SQL Server 2000, 2005, and 2008
+
+- Oracle 10g databases to SQL Server 2008
+
+- My-SQL 4.1.0/5.0.1 databases to SQL Server 2005 and 2008
+
+- Data Modeling:
+
+- Worked on Data Modeling projects and generated E-R Diagrarn
+
+- Data Modeling tools used using Toad Data Modeler and SQL Server Data Diagram
+
+- Backward & Forward Engineering with data modeling tools mentioned above
+
+- Patch Management:
+
+- Applied SP (Service Pack) on SQL Server 2000, 2005, 2008
+
+- Applied HOT Fixes on SQL Server 2000, 2005, 2008
+
+- Applied Patch on Windows Server 2003 Enterprise Edition
+
+- Database Monitoring/Performance Tuning:
+
+- Strong on database Monitoring and Performance tuning
+
+- Scheduled jobs to automate different database related activities including backup, monitoring database health, disk space, backup verification
+
+- Monitor SQL Server Error Log, space usage
+
+- Database Programming:
+
+- Writing T-SQL, Trigger, and Stored-Procedures
+
+- Assisted Database Developers to optimize SQL queries and Stored Procedures
+
+- DTS/SSIS:
+
+- Export & Import data from Flat file, CSV file to/from SQL Server Database using DTS, SSIS, and BCP
+
+- Export & Import data from/to databases like Oracle, My-SQL, and Access to/from SQL Server
+
+- Backup/Recovery:
+
+- Strong knowledge and working experience in Database Backup and Disaster Recovery
+
+- Experienced with Point-in-Time Recovery
+
+- Restored Database from backup
+
+- Used DBCC to check database conditions, Rebuilding indexes and other database Maintenance Purposes as well
+
+- Strong working experience in creating, modifying tables, Index (Cluster/Non-Cluster), Constraints
+
+- (Unique/Check), Views, Developed Different Maintenance Plans for database monitoring
+
+- Monitor Server Activity, and solving problem as needed
+
+IBM - Microsoft SQL Server Database administrator
+City, STATE + 04/2008 - 2009
+
+Responsibilities
+
+Installed, Configured, and Managed SQL Server 2008, 2005 & 2000 in development, test, and production environment
+
+Installed and Configured SQL Server 2008 for testing different features and stability Backup/Recovery:
+
+Strong knowledge and working experience in Database Backup and Disaster Recovery Experienced with Point-in-Time Recovery
+
+Restored Database from backup
+
+Database High Availability:
+
+Installed, Configured and Maintained Database Mirroring including automatic fail-over option in SQL
+Server 2008
+
+Configured Log Shipping as Standby database from Production database for Reporting purposes
+Maintained Fail-Over Clustering using SQL Server 2008/2005
+
+Configured and Maintained Replications
+
+DBCC:
+
+Used DBCC to check database conditions, fix database corruption, rebuild indexes and other database
+Maintenance purposes as well
+
+Report Development:
+
+Installed, Configured, and administered SQL Server Reporting Services (SSRS)
+
+Developed Reports for different purposes like DBA Reports, user reports using SSRS and Report Builder
+3.0 & 2.0
+
+Deployed Reports and managed security of report server including folder level
+
+Database Upgrade:
+
+SQL Server 2000 to 2005/2008/2008 R2
+
+SQL Server 2005 to SQL Server 2008/2008 R2
+
+Database Migration:
+
+MS Access 2003/2000/97 databases into MS SQL Server 2000, 2005, and 2008
+
+Oracle 10gR2/11gR2 databases to SQL Server 2008 R2
+
+My-SQL 4.1.0/5.0.15 databases to SQL Server 2005 and 2008 R2
+
+Data Modeling:
+
+Worked on data modeling projects, generated scripts, and E-R Diagram
+
+Backward & Forward Engineering for logical and physical model respectively
+
+Data Modeling tools used using ERWin, Toad Data Modeler
+
+Created and managed Indexes, Constraints
+
+Patch Management:
+
+Applied SP (Service Pack) on SQL Server 2000, 2005, 2008, 2008 R2
+
+Applied Patch on Windows Server 2003, 2003 R2
+
+Database Monitoring/Performance Tuning:
+
+Strong on database Monitoring and Performance tuning
+
+Scheduled jobs to automate different activities such monitoring database health, disk space, job
+alert, index monitoring, stats monitoring etc
+
+Database Programming:
+
+T-SQL, Trigger, and Stored-Procedures
+
+Assisted Database Developers to optimize SQL queries and Stored Procedures
+
+DTS/SSIS:
+
+Export & Import data from Flat file, CSV file to/from SQL Server Database using DTS, SSIS, and BCP
+Export & Import data from/to databases like Oracle, My-SQL, and Access to/frorm SQL Server.
+
+Golden Living\Hospital And Health Care Industry - Microsoft SQL Server Database Administrator
+City, STATE + 07/2007 - 04/2008
+
+Installed, Configured, and Managed SQL Server 2005 & 2000 in development, test, and production
+environment
+
+Installed and Configured SQL Server 2008 for testing different features and stability
+
+Installed, Configured and Maintained Fail-Over Clustering using SQL Server 2005
+
+Installed, Configured and Maintained Database Mirroring using automatic fail-over option in SQL
+Server 2005
+
+Configured Log Shipping as Standby database from Production database for Reporting purposes
+Configured and Maintained Replications (Transactional)
+
+Installed, Configured, and administered SQL Server Reporting Services (SSRS)
+
+Developed Reports using SSRS
+
+Deployed Reports
+
+Developed Ad-hoc Reports using Report Builder 3.0, 2.0
+
+Database Upgraded (development, testing and production environment):
+
+SQL Server 2000 to 2005
+
+Database Migrated (development, testing and production environment)
+
+MS Access 2003/2000/97 databases into MS SQL Server 2000, and 2005 My-SQL 4.1.0/5.0.1 databases to SQL Server
+
+2005
+
+Worked on more than 10 data modeling projects and generated E-R Diagram
+
+Data Modeling tools used using ERWin, VISIO, Toad Data Modeler, SQL Server Data Diagram Backward & Forward Engineering with data modeling tools mentioned above
+
+Applied SP (Service Pack) on SQL Server 2000, 2005
+
+Applied HOT Fixes on SQL Server 2000, 2005
+
+Applied Patch on Windows Server 2003 Enterprise Edition
+
+Strong on database Monitoring and Performance tuning
+
+Scheduled jobs to automate different database related activities including backup, monitoring
+database health, disk
+
+space, backup verification
+
+Monitor SQL Server Error Log, space usage
+
+Wrote SQL/T-SQL, Trigger, and Stored-Procedures
+
+Assisted Database Developers to optimize SQL queries and Stored Procedures
+
+Export & Import data from Flat file, CSV file to/from SQL Server Database using DTS, SSIS, and BCP
+Export & Import data from/to databases like Oracle, My-SQL, and Access to/from SQL Server Strong knowledge and working experience in Database Backup and Disaster Recovery
+Experienced with Point-in-Time Recovery
+
+Restored Database from backup
+
+Used DBCC to check database conditions, Rebuilding indexes and other database Maintenance purposes as well
+
+Strong working experience in creating, modifying tables, Index (Cluster/Non-Cluster), Constraints
+(Unique/Check),
+
+Views, Developed Different Maintenance Plans for database monitoring
+
+Monitor Server Activity, and solving problem as needed
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

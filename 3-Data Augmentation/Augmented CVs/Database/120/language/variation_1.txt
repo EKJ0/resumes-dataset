@@ -1,0 +1,204 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+------
+
+- Guest services
+
+- Inventory control procedures
+- Merchandising expertise
+
+- Loss prevention
+
+- Cash register operations
+
+- Product promotions
+
+EDUCATION
+---------
+
+University of Houston
+Dec 2013
+
+Master of science: Management Information Systems Management Information Systems GPA: 3.4
+
+GRIET
+
+Hyderabad + June 2012 Bachelor of Technology GPA: 3.6
+
+CERTIFICATIONS
+--------------
+
+- CMA (Certified Management Accountant) conferred by Institute of Management Accountants (IMA)
+
+- Member Institute of Logistics and Transport (MILT)
+
+- Certified Protection Officer (cPo)
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Senior Oracle Database Administrator (ORACLE DBA) with experience in Oracle products on multiple
+platforms and environments spanning Banking, Communication and Tech sectors. Experience as On-
+Call 24x7 production DBA support, application/development DBA. Extensive knowledge on database
+administration for Oracle 9i, 10g, 11g and 12C with experience in very large-scale database
+environment and mission critical large OLTP and OLAP systems. Experienced in Oracle installations,
+upgrades, migration, configuring logical/ physical architecture, SQL, Tuning, database access and
+Security and auditing. Deep understanding about Exadata and its specified features such as Smart
+Scan, HCC Hybrid Columnar Compression, Flash Cache, etc. Involved in Patching Exadata components
+such as Infiniband, cellnode, db node.
+
+WORK EXPERIENCE
+---------------
+
+Aar Corporation - Sr. Oracle Database Administrator
+Patrick Space Force Base, Psfb + 04/2016 - 01/1
+
+- Planning and configuring near Zero downtime database migration and Upgradation of Oracle databases from Non-Exadata to Exadata Servers.
+
+- Design and implement Active to Active and Active to Passive GoldenGate replication and also Upgraded Goldengate to 12.1.0.2 from lower versions.
+
+- Implemented advanced security using TDE (Transparent Data Encryption).
+
+- Managed cross platform migration of 15TB heavy transactional Oracle database from Solaris (11.1.0.7) to Linux (12c) using Oracle Goldengate.
+
+- Install, configure and administer OEM13c.
+
+- Migrated more than 70 Oracle databases between different Datacentres from NonExadata to Exadata machines using Goldengate, Active Dataguard, Transportable tablespaces, RMAN, EXPDP/ IMPDP.
+
+- Upgraded 11.2.0.4 databases to 12c using manual upgrade and DBUA.
+
+- Configuration and Implementation of Dataguard Physical / Logical Standby Databases and Automating the Monitoring / Resolving on and off Gap or lagging issues.
+
+- Performed tuning of Oracle Wait Events/Latches-Enqueues/Memory structures using Automatic shared memory management (ASMM), ASH and Buffer Cache Advisors.
+
+- Fabricated multiple CLONING databases using manual method and RMAN utility Backup and recovery procedures using RMAN.
+
+- Created scripts for RMAN incremental backups and also for full database backups using Datapumps.
+
+- Involved in process improvement, Oracle Server Installations/Upgrades/Patches, Space Management, Capacity Planning, Backup & Recovery, Disaster Recovery, Database Performance Tuning, Memory Tuning, Application Tuning, Security Administration, Data Warehousing, Data guard, Oracle Advanced Replication, Real Application Clusters, Oracle standby services.
+
+- Environment: Oracle 11g/12c, Exadata X3/X4/X5, Oracle Enterprise Manager 12C/13C, Goldengate 11g/12C, Oracle RAC, Goldengate Veridata, TDE, Active Dataguard, RMAN Backup and recovery, Expdp/Impdp, DBUA.
+
+Apex Systems - Oracle DBA
+Altamonte Springs, FL + 09/2015 - 04/2016
+
+- Installed, configured and maintained Oracle 11GR2 4 node RAC on Exadata X5-2 full rack.
+
+- Assisted in management and database administration of Oracle database applications on Exadata X3 and X5 platforms.
+
+- Installed, configured and maintained Oracle Database 12c Deploy the 12c agents on the target servers and add the target Configuration Items to monitor.
+
+- Plug-in installations on the target servers to extend the functionality of OEM Configure Oracle Advanced Security to implement Transparent Data Encryption at table space, table and column levels.
+
+- Also, configured Redaction using OEM's Policy expression builder.
+
+- Setup physical standby’s (DATAGUARD) for several Databases (via OEM as well).
+
+- Implemented DBFS on EXADATA and Troubleshooting Exadata smart scan/offloading issues.
+
+- Monitoring the InfiniBand Switches/ports, HCA ports on DB/CELL nodes and IB topology Migrating databases to Exadata Setting and Monitoring Exadata using OEM12c Maintaining and Troubleshooting Exadata Cell/Storage and DB/Compute node performance issues.
+
+- Implemented Goldengate Unidirectional/Bidirectional replication on RAC using ACFS file system.
+
+- Configured Dataguard broker between the primary and standby databases, perform Switchover/ Failover and monitor the Dataguard status Storage Migrations: Solely responsible for migrating the Prod/Test/Dev Databases from NetApp to HNAS and also to block level storage.
+
+- Migrating the databases from Non-ASM to ASM) Backup/Restore & Recover of the databases using RMAN and FLASHBACK database procedures.
+
+- Database Installation, Upgrades and Patching.
+
+- Upgrade the binaries by applying patch set and interim patches using OPATCH and OPATCH Auto.
+
+- Capacity planning for the projects owned in the environment.
+
+- Effective Production Support and off hour support, support handover, off-shore co-ordination.
+
+- Environment: Oracle 12c/11g/10g on Unix/Windows, Oracle EXADATA X5, X2, Golden gate, Oracle 11g, Sun SPARC T4-1/T3-1, Red Hat Linux 5.8, AIX 6, OEM 12c, RAC, Oracle Advanced Security, Data guard including DG Broker setup, RMAN, Partitioning, Compression, DBFS, ASM, Performance
+tuning, OPATCH Auto, TOAD for oracle 12.1/11.6, Storage Migrations.
+
+Apex Systems - Oracle DBA
+Arden Hills, MN + 01/2014 - 08/2015
+
+- Migrated oracle databases using oracle 11g GOLDENGATE.
+
+- Migrating databases to Oracle Exadata Database Machine for different clients Worked on upgrading of oracle databases from 11g to 12c.
+
+- Installed ORACLE 12c database and Cloud control (12.1.0.3) on Linux 64-bit server.
+
+- Implemented OEM Cloud Control 12c Agent installations, plug-ins installations and adding targets to OEM.
+
+- Monitoring all the databases using OEM 12c cloud control.
+
+- Worked in troubleshooting 2node and 4node RAC and implemented 11g New ASM features.
+
+- Extensively worked in setting up physical standby database using Data guard and implemented new 11g feature such as Active Dataguard and Snapshot standby database.
+
+- Implemented switching primary database to standby and standby to primary during regular maintenances of catalog databases and DR databases.
+
+- Configure OEM 12c monitoring with customized templates and email alerts.
+
+- Configured ASM and handled issues and suggested feasible workarounds for ASM Metadata corruption.
+
+- Extensively worked with ASMCMD for managing ASM.
+
+- Performed DR drill activity.
+
+- Applying patch set and interim patches using OPATCH for upgrading the binaries.
+
+- Provided Instance level performance monitoring and tuning for Event Waits, Sessions, Physical and Logical I/O and Memory Usage.
+
+- SQL query tuning using tools like Explain Plan, SQL*Trace, TKPROF, SQL Tuning Advisory.
+
+- Installed SQLTXPLAIN (SQLT) Tool that helps to diagnose SQL statements performing poorly.
+
+- Used Oracle 11g/12c AWR & ADDM to monitor database activities and performance tuning.
+
+- Performed Range Partitioning as a cause to improve the performance of the database.
+
+- Proactive performance monitoring, and capacity planning for future database and server growth using OEM.
+
+- Applied necessary Patches during installation and also in up-gradation of databases on Oracle 11g database versions.
+
+- Extensive Experience with Change Control Management for all database changes.
+
+- Performed Cross platform migration using transportable table spaces and RMAN.
+
+- Data Refresh from Production to Development and Test environments using Data Pump export/ import Involvement in space management, rectification of lock problems, user management.
+
+- Supporting Application developers with various performance, connectivity and security related issues on various projects.
+
+- Scheduled Jobs and Backups using 12c OEM and CRONTAB.
+
+- Experience in backups and recovery using RMAN shell Scripts.
+
+- Involved in 24x7 Production Support with on-call pager.
+
+- Environment: Oracle 12C, 11gr2, HP-UX, REDHAT LINUX, SUN SOLARIS, IBM AIX, OEL 5.8, OEM12c, RAC, Golden Gate, Oracle Exadata, Oracle Fail Safe 3.x, RMAN, EXPDP/IMPDP, Partitioning, ASM, DBFS, Data guard including DGMGRL, Performance tuning, OPATCH Utility, TOAD, DB Artisan, SQL Developer, Shell Scripting.
+
+SKILLS
+------
+
+IBM AIX, AIX 6, AIX 5.x, ASM, Backup, C, Capacity Planning, catalog, CPU, Encryption, clients,
+
+database administration, Databases, Database, Data Warehousing, debugging, Disaster Recovery,
+editing, email, ERWIN, ETL, features, Flash, GUI, HP-UX, Linux, managing, memory, Access,
+
+Windows, 3.x, Windows XP, Migration, MYSQL, Enterprise, Operating Systems, Oracle 9, ORACLE,
+
+Oracle Enterprise Manager, Oracle database, DB, Developer, PL/SQL, PostgreSQL 8.0, process
+
+improvement, REDHAT LINUX, Red Hat Linux 5.8, Red Hat, scheduling, Servers, scripting, scripts,
+Shell Scripting, shell Scripts, SUN SOLARIS, Sun Solaris 5.8, Solaris, SQL, SQL Server, SQL Loader, Sun
+SPARC, Switches, TOAD, troubleshooting 2, Troubleshooting, Unix, HP UNIX, UNIX Shell Scripts, Unix
+shells, Upgrades, upgrading, Upgrade, Utilities
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

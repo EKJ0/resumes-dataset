@@ -1,0 +1,248 @@
+Maria Garcia
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Over 10 years aggregate IT experience and 8 years of experience driving excellence in the management and configuration of large, highly
+
+available systems across multiple business locations. Seeking the opportunity to use expertise across various IT platforms to ensure strong end
+
+user support and quickly resolve server issues. stressful conditions where speed and accuracy are necessary for mission critical databases. My
+
+attention to detail and the ability to maximize system resources can be beneficial in the following areas.
+
+- Database creation
+
+- Backup and recovery
+
+- Monitoring and Performance tuning
+
+- Database Upgrade and Migration
+
+- Data and database integrity and security
+
+- Oracle Enterprise manager Cloud control 12c
+- Oracle High Availability Architecture (HA) involving Oracle RAC and DataGuard
+- Golden Gate Replication and maintenance
+
+- Extensive knowledge of Oracle Fusion Middleware Applications
+- Configure and manage Ms Sql Server 2008 R2 , 2014 and 2016 Database systems
+
+WORK EXPERIENCE
+---------------
+
+SR DATABASE ENGINEER/ADMINISTRATOR. 09/2014 - Current Chickasaw Nation Industries - Montgomery, AL
+
+Work as part of a project team to coordinate database development and determine project scope and limitations.
+
+Develop methods for integrating different products so they work properly together such as customizing commercial databases to fit specific
+needs.
+
+Upgraded DEV/QA, Testing , Preprod and Production databases from 11.2.0.3 and 11.2.0.4 to 12.1.0.2.
+
+Loading data from flat files to database using SQL.
+
+Loader, External Tables.
+
+Installation, up gradation, configuration and troubleshooting Golden Gate 11G/12C software.
+
+Configured Golden Gate components for unidirectional and bidirectional replications and maintain data synchronization.
+
+Configure Oracle Enterprise manager Cloud control 12c and setup monitoring on the entire DEV, QA. TESTING,PREPROD and PROD
+environment.
+
+Applying PSU and CPU patch on all oracle database servers as well as patching the OEM box which includes patching the OMS and the
+AGENT and Repository which make up the components for the OEM 12c.
+
+Performed Zero Downtime Database Data Center Migration using Golden Gate and Data Guard.
+
+Extensively used AWR, ADDM and explain plan for periodic performance tuning.
+
+Implementing Data pump, conventional export/import utility of Oracle 11g, 10g for re-organizing Databases/Schemas/Tables to improve
+the performance.
+
+Used import/export utilities for cloning/migration of small sized databases and Data pump import/export to move data between 10g, 11g
+and 12c environments.
+
+Involved in construction of DR sites for all the Production environments.
+
+Installed 12c databases and worked on Multitenant databases.
+
+Successfully performed data replication using Materialized views and Oracle Streams in Oracle 11gR2-
+
+Cloned/Migrated databases using RMAN and traditional Data Pump export/import utilities in Oracle 11gR2.
+
+Implemented recovery strategies whenever required and successfully recovered databases in case database crash, media/disk failures by
+using RMAN.
+
+Scheduling the Physical backups (hot & cold) in CRON tab using RMAN utility and monitoring the scheduled jobs.
+
+Install and configure block change tracking to work with RMAN Merged incremental backups.
+
+Applied patches 10g R1&2, 11gR1&2 and 12c both container and pluggable databases.
+
+Performed Database Refresh from Production to QA, UAT and Development databases.
+
+Experience using EXPORT/IMPORT utility for backups and to do table level and full database defragmentation.
+
+Responsible for taking hot backups and logical backups at schema, tablespace and database level.
+
+Applying CPU/PSU patches, Oracle patches, Release upgrades, ONE-OFF patches.
+
+Configured Physical Standby database using Oracle DATAGUARD for Disaster recovery.
+
+Implemented table partitioning and sub-partitioning to improve performance and data management.
+
+Extensive use of Crontab in UNIX environment for scheduling routine tasks and writing shell scripts to automate the data loading.
+Created a Clone Database using RMAN on remote Server and used SRVCTL commands for Real Application Cluster (RAC) Databases
+Successfully implemented Backup & Recovery using RMAN which includes hot backups and Cold backups.
+
+Assist in SQL tuning and providing consultation such as creating Materialized views, adding indices, dropping unnecessary indices, using
+hints wherever possible, among others.
+
+Worked on both VMS and UNIX environments.
+
+T-MOBILE TELECOMMUNICATION, 09/2011 - 09/2014 ORACLE DATABASE ADMINISTRATOR - City. STATE
+
+Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.
+Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.
+Applied Bug fixes patches and Quarterly Security Patches for the stand-alone databases and 2- node RAC databases with in the
+
+maintenance window.
+
+Performed Installation and configuration of Oracle 10.2.0.1 database on HP-UX platform.
+
+Installed Oracle 10g and 11gR1,11gR2 database on HP-UX 11.0, Redhat 6, IBM AIX 5.1, 5.2, 6.1.
+
+Applied Bug fixes patches and Quarterly Security Patches for the stand-alone databases and 2-node RAC databases with in the
+maintenance window.
+
+Installed RAC/GRID Infrastructure on Oracle 10g,11g and worked on ASM feature of Oracle on HP-UNIX/LINUX.
+
+Worked on the ACFS file system and scheduled backup using RMAN on ACFS file system sharing between the nodes.
+
+Maintained a 2-node RAC environment on LINUX AS 4.0(RHEL) for the staging purpose to support the business requirements and
+provide High Availability.
+
+Upgraded DEV/Qa and Production databases from 11.2.0.3 to 12.1.0.2.
+
+Upgraded the databases from 10gR2 to 11gR2 and upgrade from 11.2.0.3 to 11.2.0.4.
+
+Installed and configured golden gate for replication.
+
+Managed DSS (Decision Support System) and OLTP (On Line Transaction Processing system) full life cycle projects with multiple
+databases at one time, biggest database around 30 TBytes.
+
+Responsible for Database Backup and Recovery, daily monitoring of database & network issues.
+
+Deployed Grid Control to monitor and manage all the databases on clients.
+
+Worked on the Load Balancing issues on the Server side by creating the services.
+
+Extensive Performance Tuning, Memory (SGA) Tuning, Net backup, EMC (Time finder and SRDF), RAID, RAW Devices.
+Provided instance level performance monitoring and tuning for Event Waits, Sessions, Physical and Logical IO and Memory Usage.
+Handling large database environments (Data warehouse) using Oracle Enterprise Manager (OEM) on daily basis observing the
+performance of the production database and constantly active regarding performance and space management issues and accordingly
+providing recommendations to make database healthy and running.
+
+Experience in Data Modelling concepts like Data Vault and also in Advance security like DB Auditing, Labeling.
+
+Data loads using SQL.
+
+Loader and refresh the test environments using Data Pump export/import.
+
+Monitoring the databases using CloudControl (OEM) including but not limited to Space Management, Performance Tuning, and Workload
+Analysis (AWR, ADDM).
+
+Involved in setting up disaster recovery sites using Data Guard technology.
+
+Configuring the Physical Standby, active data guard and snapshot standby database.
+
+Used Shell Scripts to automate database operation and schedule jobs using CRONTAB.
+
+Created and managed the RAC clustered databases on Solaris and HP-UX used ASM.
+
+ORACLE DATABASE ADMINISTRATOR, 07/2009 - 09/2011 GLOBAL HEALTHCARE SERVICE - - City, STATE
+
+Work as part of a project team to coordinate database development and determine project scope and limitations.
+
+Write and code logical and physical database descriptions and specify identifiers of database to management system or direct others in
+coding descriptions.
+
+Installation and Configuration of Oracle 12c Multitenant container and pluggable databases with Flex Cluster and Flex ASM.
+Configured GoldenGate Downstream Mining and Integrated components for Active-Passive and Active-Active replication.
+
+Installed and configured GoldenGate Agent to work with OEM GoldenGate Plugin.
+
+Monitoring space, wait events, locks and long operations running on the database.
+
+Monitoring the session waits for the database performance and resolving the performance issues.
+
+Monitoring the database for growth and added space to the table spaces as per demand.
+
+Creating and scheduling Oracle backend process jobs in Crontab.
+
+Handled all standard database administrative tasks, such as proactive performance tuning and monitoring, troubleshooting on an as needed
+basis.
+
+Implement and troubleshoot Oracle Cloud Control 12c and multiple Agent deployments.
+
+Monitored daily backups using RMAN and Export/Import.
+
+Establish refresh jobs for test databases using Export-Import and RMAN DUPLICATE option.
+
+Moving large amount of data Administered (12c RAC) environments adding and removing nodes to the cluster and handled performance
+tuning using AWR.
+
+backups.
+
+Refreshing Dev and Test instances with data from Production on a regular basis.
+
+Developed PL/SQL packages, DML, DDL, Oracle tables, Stored Procedures, functions, cursors, triggers and UNIX shell scripts.
+Knowledge in Oracle Data warehouse DBA skills relating to administration and management of VLDB environments, Oracle OLTP.
+
+Hardware Maintenance Engineer, 2005 - 04/2008 PAUL'S COMPUTER CYBER CENTER - City, STATE, Cameroon
+
+Managing and repairing PCs.
+
+Installing hard drives on all computer systems.
+
+Troubleshoot and maintain PCs, Laptops, Servers, Printers, Plotters, Scanners, Projectors and various Network devices.
+
+Assist in designing, implementation and configuration of Wireless and Wired networks (Copper & Fiber Optic).
+
+Prepare maintenance manuals for laptops, desktops and server systems.
+
+Provide support for IT Hospital's day to day activities with different, internal and external departments/parties, to ensure its smooth
+operation and adherence to all procedures and QOS approaches/procedures & standards.
+
+Provide best hardware maintenance practices to maximize output, ensuring quality with time efficiency through practical skills &
+conceptions on basic electrical circuitry or electrostatic concepts, Safety procedures with local standard, equipment handling and other
+Safety procedures.
+
+Upgrade own technical capability through maximum available resources, attend & Provide training as and when required.
+
+Perform all lines of work and other assignments including on-site, inside company Premises or inside /outside city with best Customer
+Supporting Practices as required.
+
+Maintain a pool of required hardware spares.
+
+EDUCATION AND TRAINING
+
+Bachelor's degree: Biology UNIVERSITY OF BUEA
+
+Biology
+
+SKILLS
+------
+
+Oracle Real Application Clusters (RAC), Data Guard and VMware Technologies, VM box, Automatic Storage Management (ASM), Oracle
+Enterprise manager cloud control 12c* Oracle Tools: Data Pump, Export/ Import, Oracle Universal Installer, Database Configuration Assistant,
+Database Upgrade Assistant, SQL*Plus, Apex and 1iSQL*Plus, Oracle Grid Control (OEM), DataGuard, RAC ,Oracle Net Manager, Recovery
+Manager, Drupal, Linux including Linux scripting skills, Oracle Security Label (OSL), Virtual Private Database (VPD),
+
+LINKEDIN
+
+www linkedin .com/in/Jessica-Claire-45029294

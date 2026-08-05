@@ -1,0 +1,311 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+QUALIFICATIONS
+
+Oracle Database Performance Tuning expert (12c and 11g)
+
+Data Warehouse Design and Optimization
+
+Data Quality and Metadata Analysis
+
+Oracle USA, Principal Support Engineer (Top Accounts/Highest Severity)
+
+Database and Data Architect in Pharmaceutical Research Environment
+
+Database Contents, Performance Metrics , Capacity Planning, Computation Complexity and Scalability of Algorithms (industry
+independent)
+
+CERTIFICATIONS
+--------------
+
+Oracle 11g OCP and 11g Certified Tuning Expert
+
+Speaker at Conferences:
+
+- Oracle Open World (San
+Francisco, 10/2006) -
+Presentation $281237:
+Transparent Application Tuning Using SQL Profiles - Practical Lessons, Tips and Techniques”.
+
+- Oracle Life Sciences User Group
+(Boston, 4/2006): Metadata Profiling Aspects of Oracle 10g Snowflake and Hybrid Schema Optimization”.
+
+Multiple Oracle internal courses in the area of database performance tuning.
+
+EDUCATION AND TRAINING
+
+University of Warsaw
+Warsaw +» 1981
+
+M.Sc: Mathematics Numerical Methods
+
+Applied Mathematics (Numerical Methods and Computational Complexity of Algorithms)
+
+CAREER OVERVIEW
+
+- Principal Support Engineer, Oracle USA Database Performance Team since 2009 till now
+
+- Database performance tuning and database optimization expert for Oracle 12c, 11g and earlier versions.
+
+- Troubleshoots and resolves database performance issues for custom and COTS applications including Oracle e-Business Suite, PeopleTools, GoldGate on RAC and Exadata.
+
+- Multi-DBMS/multi-platform DBA experience: 18 years of Oracle, 10 years of DB2, and 2 years of SQL Server.
+
+- Solid data architecture background, data warehousing and data profiling experience.
+
+- Major previous employers: Bristol-Myers Squib (Oracle DBA and DBA manager, database and data architect) and IBM (DB2 DBA)
+
+ACCOMPLISHMENTS
+
+- Resolved hundreds of database performance issues for Oracle customers
+
+- Prevented a large number of database performance issues by evaluating results of pre-production testing and recommending appropriate patches and/or database changes.
+
+Resolved lots of problems related to upgrades of Oracle databases to 12c and 11 and Oracle
+
+applications to the latest point releases (*).
+
+- Resolved numerous issues with Oracle Workload Repository maintenance, Enterprise Manager, Real Application Testing, etc.
+
+- Filed multiple new defects and one-off patch requests for 12c and 11g based on external and internal test cases.
+
+Consistently ranked among top 10-20% database performance support engineers in US.
+
+(*) Lists available on request.
+
+WORK EXPERIENCE
+---------------
+
+Atos - Principal Engineer, Oracle Customer Database Performance Support
+
+Boca Raton, FL + 01/2009 - Current
+
+Supports Oracle Top and Platinum Accounts (severity 1/24x7 service requests only) in US and overseas
+in the area of critical database performance related issues. On any given day typically works on 5-6
+cases including 2-3 brand new cases.
+
+Responsible for initial high level triage of Real Application Cluster (RAC) and EXADATA performance
+problems within Database Performance Team.
+
+Participates in Oracle Performance Tuning Automation initiative.
+
+Modern Technology Solutions, Inc. - Data Architect - BMS Global Data Architecture
+Oklahoma City, OK + 03/2007 - 11/2008 Customer Address Data Remediation (DataFlux parsing, profiling & enrichment)
+
+- Profiled customer address data and assessed data quality via metrics, score cards, and drill-downs to source data.
+
+- Designed remediation process (Rational Rose), defined and created staging database (AllFusion, Oracle),
+
+- and ae data architect enrichment jobs (DataFlux).
+
+- Wrote, tested and implemented reports and update scripts to verify addresses against the USPS database and apply approved changes to matching records in the master database based on difference classification scheme.
+
+Product HUB
+
+- Profiled material data for raw/substances, API, intermediate, drug products and packaging materials in ERP (BPICS, SAP) and R&D Regulatory Submissions repositories using DataFlux architect jobs.
+
+- Profiled BOM data extracted from SAP using SQL Server/Back Office, Oracle queries, DataFlux architect jobs
+
+- Profiled Single Item Master data (DataFlux architect jobs)
+
+- Reversed engineered SAP identity and reference rules for BOMs to help formulate and validate integrity and source-to-target mapping requirements.
+
+- Maintained PHUB logical and physical models.
+
+- Participated in the design of PHUB logical and physical data model in AllFusion 7.2.x
+
+- Synchronized PHUB physical model with Oracle database objects in development and test environments
+
+- Participated in defining requirements, creating test cases and testing of PHUB reference data maintenance jobs
+
+Cold Chain Management for Biologics
+
+- Participated in requirements reviews for BMS Biologics Cold Chain management project
+
+- at protecting the integrity of temperature-sensitive products during storage and transportation.
+
+- Created Cold Chain logical data model to integrate Sensitech’s Cold Chain solution (TempTale4 BIO) with supply chain reference models and SAP.
+
+- Focused on drug substance/product life cycle events in relationship to readings of temperature monitoring equipment
+
+- (trip data analysis to ensure that a shipment has maintained its specified temperature limits
+
+- and met stringent FDA regulations or that a shipment has exceeded the pre-programmed thresholds established for a particular product).
+
+- Included aggregated “out of ambient” temperature durations for the entire life cycle of drug products.
+
+Data Quality Assessment Methodology
+
+- Authored documents for data architects and developers defining:
+- Data Profiling Deliverables
+
+- Data Profiling Best Practices and Guidelines
+
+- Data Techniques and Processes
+
+Model Mart Administration
+
+- Created extensions to Data Browser to facilitate global analysis of object classes and properties and cross library, model, and subject area integration.
+
+- Developed customized “where used” reports for entities and attributes and low level version control reports.
+
+- Troubleshot and documented Model Mart performance problems and bugs; interfaced with CA Technical Support regarding software upgrades and patches
+
+- Continuous Improvements Suggestions - Submitted well documented proposals to a. Use AllFusion (Erwin) as Logical Metadata Data Mart with ACTIVE search b. Extend DataFlux Metadata Repository and Supplement DataFlux Scorecards by adding Metadata Metrics and Metadata Searches c.Use Metadata Metrics in Logical and Physical Models Assessment
+
+Sharp Decisions - Database Architect in Scientific Computing Services (SCS) of Global Core
+Technologies (GCT).
+Remote / New Hyde Park, NY + 10/2005 - 03/2007
+
+- Main areas of responsibility included physical database design and optimization of SCS data warehouses, evaluation and implementation of new technologies (Grid Control, Business Activity Monitoring, SOA).
+
+Supported Drug Discovery, ExD! and Bioinformatics & Applied Genomics databases. DBA for 40
+
+databases including two multi-TB data warehouses (Cellomics and Resolver).
+
+- Administrator of PRI EM Grid Control repositories.
+
+Bristol-Myers Squibb - Manager/Technical Team Lead of Oracle Database Administration of SCS/
+GCT.
+City, STATE + 02/2000 - 10/2005
+
+- Managed DBA team that supported 200 Drug Discovery, ExDI and Bioinformatics & Applied Genomics production, UAT, test and development databases.
+
+- Supervised and coordinated work of 3-5 oracle database administrators
+
+- Supervised all system and application DBA tasks including software installations, upgrades, patches, backup & recovery, performance monitoring & tuning, disaster recovery and capacity planning.
+
+- Responsible for resource capacity planning, performance partnerships and annual development summaries of DBA staff.
+
+- Assisted development teams with all aspects of physical database design for various Enterprise and Endeavor projects.
+
+- Provided high and low level consulting services for the most challenging database projects in Drug Discovery and ExD! divisions of PRI (SMART-IDEA, CLRS, OSCAR, HTS, etc.)
+
+- Dramatically improved performance of SMART-IDEA and Forms Builder applications via application transparent physical database redesign of the underlying Central Database Repository (CDR) based on thorough analysis of access patterns, in-depth profiling of data and metadata, and good understanding of Oracle 10g features. The key elements of the physical database design (partitioning, sub-partitioning, clustering, materialized views, histograms) were predicated on and
+aligned with top 10 BMS focus disease areas. Overall performance for the suite of ca. 400 SQL test
+queries against CDR was improved over 10 times for version 3.1 (measured by elapsed and cpu
+times) on top of 10x improvement for version 2.1 (accomplished mostly by “generic” hints for
+various types of dynamic SQL).
+
+- Performed troubleshooting and performance tuning in support of multiple databases upgrades to Oracle 9i and 10g.
+
+- Configured Oracle monitoring tools (OEM) and third party tools (QCO from Quest Software) to proactively monitor production databases.
+
+- Submitted over 20 functionality improvement suggestions to Quest Software related to their monitoring and optimization tools
+
+- Participated in tools evaluations for Information Integrator (IBM), Axio (Evoke), QCO, Foglight, and SharePlex (Quest Software), Oracle TimesTen In-Memory Database, Oracle Business Activity Monitoring (Oracle BAM).
+
+- Designed and implemented prototype of meta data profiling tool for Oracle to assess data distributions and histograms.
+
+- Developed a library of data and metadata profiling scripts aimed at rapid evaluation of various aspects of logical and physical database design (data correlations, contextual key analysis, surrogate key translation, etc.).
+
+Bristol-Myers Squibb - Senior Oracle Database Administrator, Worldwide Medicines Group
+City, STATE + 01/1996 - 02/2000
+
+- Supported multiple SAP centric data warehouses and data marts (Gateway, ESPRIT, ARDM, SPRD, DM, DME).
+
+- Special award for ca. 50x performance improvement of ESPRIT reporting functions (“manual” implementation of materialized views).
+
+- Participated in the physical database design and implementation of a number of data marts for WMG (MRAS, Report Viewer) and one component of Discover Data Warehouse (QBAR).
+
+- Provided database support for a number of software packages (Plateau, EZREQ, Expert Evolution/ Advisor) and home grown applications (GSS CLIPR in the UK and the US).
+
+- Member of DBA team for Sales & Marketing data warehouse project based on Intelligent Warehouse product from HP.
+
+- Made numerous performance improvement recommendations at physical database level (cost based optimization, bitmap indexes, star queries, partition elimination) and at SQL level and implemented therm in production.
+
+- Provided DBA support for the OLAP software (sparsity analysis for HOLOS, Crystal Info)
+
+- Provided DB2 consulting services for new mainframe projects (Common Customer) and multiple legacy applications including COPS.
+
+- Responsible for DB2 databases disaster recovery support
+
+- Supported Platinum database administration tools.
+
+- Developed data profiling scripts for DB2.
+
+- Supported entire suite of Quest Software administrative and monitoring tools and provided training and mentoring for other DBAs.
+
+American Express - DB2 DBA Consultant
+City, STATE + 09/1995 - 01/1996
+
+- Supported HR applications (TESSARACT) running on DB2/IBM 390 in 8 environments.
+- Extensive use of Platinum database administration tools.
+- Tuned dynamic SQL.
+
+Pershing/DLJ - Senior DB2 Database Administrator
+City, STATE + 05/1994 - 09/1995
+
+- Designed (in Bachman) and implemented (in DB2 V3) databases for two data marts: Manager View for Pershing correspondents (brokers) and Credit View (internal). Used advanced DB2 features including partitioning and data sharing.
+
+- Mentored fellow DBAs in the areas of SQL optimization, performance monitoring and tuning.
+
+- Supported BMC database administrative tools including software installation and configuration.
+
+IBM/Pathmark - DB2 DBA and Data Architect
+City, STATE + 08/1988 - 05/1994
+
+- Logical design (in ADW) and physical database design (DB2 v. 2.3) of Pathmark advertising, sales, and warehouse applications.
+
+- Supported implementations of Worldwide Chain Stores System package (WCSS) for IBM clients.
+
+- Customized DDL (introduced partitioning), improved physical database design (data compression,
+indexing), and optimized WCSS SQL for DB2 v. 2.3 on IBM 390 based on thorough data and metadata analysis.
+
+- Performed SQL code reviews for all supported applications.
+
+- Became expert in Platinum database administration tools.
+
+(**) IBM employee from 1992 after Pathmark outsourced their IT department to IBM.
+
+KVL Systems - Programmer
+City, STATE + 10/1987 - 08/1988
+
+- Mainframe COBOL and Assembler programmer in CICS/IDMS environments.
+- Consulting assignments with M&P Chemicals, Dun & Bradstreet and Sandoz in New Jersey.
+
+Informatics Data Center - Software Engineer
+City, STATE, USA + 05/1980 - 10/1987
+Member of development team that implemented a subset of SQL for network DBMS (IDMS, RODAN).
+
+- Coded NESTED LOOP and MERGE joins as well as GROUP BY and HAVING clauses with aggregate functions.
+
+- Designed and implemented set operations (UNION, INTERSECT, MINUS).
+
+Presented paper on join optimization in Budapest, Hungary in 1983.
+
+Database consulting engagement with Kuwait Oil Company, Ahmadi, Kuwait in 1984-85.
+
+SKILLS
+------
+
+- Performance tuning expert for Oracle 12c, 11g, and earlier versions.
+
+- Extensive data base management, data modeling, data warehouse design skills
+
+- Efficient customer call and web conference management with large audiences including customer engineers, managers and executives. .
+
+- Very good interpersonal communication skills resulting in frequent customer requests for additional service and personalized performance training.
+
+- Excellent troubleshooting, root cause analysis and problem solving skills based on thorough
+knowledge of internal traces (10046/10053 and other), system state dumps & hang analyze output,
+SQLT & SQLHC utilities, SQL Tuning Advisor, SQL Access Advisor, ADDM, AWR and ASH reports etc.
+
+- In-depth familiarity with Oracle performance tuning methodology starting with issue clarification and verification, cause determination and justification, proposed solution with justification, detailed action plans throughout case life cycle ending with internal knowledge management content creation and/or updates. This includes filing new bugs, one-off back port requests and patches.
+
+- Good understanding of AWR repository model during root cause analysis (RCA) phase by using appropriate standard and ad-hoc drill downs to historical snapshots.
+
+- Solid 11g and 12c Real Application Testing (RAT) background.
+
+- In-depth familiarity with Adaptive SQL Management, Adaptive Execution Plans, and Optimizer Statistics Management for 12c.
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

@@ -1,0 +1,196 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Multi-talented Database Administrator with 6+ years of expertise in designing, testing, and coding database solutions in various environments.
+Highly skilled in multiple technologies such as Performance tunning and Data Migrations. Motivated self-starter who consistently meets
+deadlines and succeeds in high-pressure environments.
+
+SKILLS
+------
+- Data conversion and migration ¢ Document management
+- Python © Index Management
+- Continuous process improvement © performance Tuning
+- Writing queries ¢ GIT
+- Database analysis © Upgrades
+- Safety protocol e Amazon Web Services
+
+WORK EXPERIENCE
+---------------
+
+POSTGRESQL DATABASE CONSULTANT, 02/2023 - Current Cognizant Technology Solutions - Princeton, NJ
+
+Providing technical support and guidance to clients on all aspects of PostgreSQL database operations, including installation, configuration,
+optimization, backup and recovery, and security.
+
+Spearheaded development and implementation of business intelligence architecture to deliver end-to-end BI solutions.
+
+Troubleshooting and resolving complex database issues for clients in a timely and effective manner, using a variety of diagnostic tools and
+techniques.
+Developing and maintaining technical documentation, including best practices, troubleshooting guides, and operational procedures, to help
+
+clients optimize their PostgreSQL database environments.
+
+Collaborating with other technical teams, such as software development and customer support, to deliver high-quality service to clients and
+
+ensure customer satisfaction.
+
+Participating in database migration and upgrade projects, helping clients to move their PostgreSQL databases to newer versions or other
+platforms as needed.
+
+Staying up-to-date with the latest developments in PostgreSQL database technology and related tools and technologies, and sharing
+knowledge and insights with colleagues and clients.
+
+- Analyzed database applications and made necessary adjustments to parameters and architecture to improve performance.
+
+PostgreSQL Database Administrator, 09/2020 - 01/2023 Cognizant Technology Solutions - Redmond, WA
+- Worked with software vendors to analyze and resolve software installation and ongoing support issues. Solved complex analytical problems using statistical models from data. Supported planning for software development and purchases and coordinated implementation.
+
+- Partnered with project management teams on development of scope and timelines.
+
+Created data verification and testing methods to resolve performance issues and prevent glitches.
+
+Spearheaded development and implementation of business intelligence architecture to deliver end-to-end BI solutions.
+
+Coordinated security compliance and audit preparation with cyber security team.
+
+Participated in evaluation, design and implementation of new and major enhancements of business applications.
+- Aligned systems with business needs to enhance scalability of database structures and recommend improvements.
+- Analyzed database applications and made necessary adjustments to parameters and architecture to improve performance.
+
+Defined synchronization plan for patch management.
+
+Established security controls to help protect client systems.
+
+- - Recommends and oversees the implementation of database-level configuration changes to optimize performance. Ensures maintenance of physical integrity of all production databases.
+
+- - Install, configure, test, monitor, upgrade, and tune new and existing PostgreSQL databases.
+
+- - Tuning auto vacuum parameters to ensure up-to-date table stats and reclaim space consumed by dead tuples.
+
+- - Contributed to decreasing the need for downtime by developing and improving procedures for automated monitoring and proactive intervention.
+
+- - Studied and stayed current on features and functionality of PostgreSQL.
+
+- - Proactive managing standby replication methodologies like Streaming replication and hot standby for disaster recovery.
+
+- - Scheduling daily Point-in-time recovery (PITR) to the development environment for proper product testing.
+
+- - Proactive in updating the latest security patches to the database, which are provided by PostgreSQL open source community.
+
+- - Provisioned Azure Data Lake Gen2, Data Factory, and Azure Database for PostgreSQL using Terraform
+
+PostgreSQL Database Administrator, 08/2018 - 08/2020 Emw, Inc. - Norfolk, VA
+- Consulted with internal departments to identify customer needs to include in project objectives.
+- Solved complex analytical problems using statistical models from data. Developed strategies to assess applications designed to client standards while eliminating security risks.
+
+- Aligned systems with a business need to enhance the scalability of database structures and recommend improvements.
+- Analyzed database applications and made necessary adjustments to parameters and architecture to improve performance.
+
+Scheduling daily Point-in-time recovery (PITR) to the development environment for proper product testing.
+- Administered PostgreSQL in AWS Aurora and, EC2 and on RDS Spearheaded development and implementation of business intelligence architecture to deliver end-to-end BI solutions.
+
+Collaborated with stakeholders to gather business requirements for enhancements and change requests.
+Used PgHero for performance tuning. Tuned SQL using Explain Analyze and PG_STAT_ACTIVITY.
+
+- Performed maintenance activities like a vacuum, vacuum full, and analysis.
+
+- Tuned Postgres Instances using Pg_tune and Pgconfigurator.
+
+Configured pgBouncer for connection pooling.
+Installed/Configured PostgreSQL Version 9.6, 10 and 11 and monitored and managed them using PgAdmin and PSQL.
+
+Implemented sharding to host partitioned tables on remote servers via PostgreSQL’s foreign data wrapper (fdw)
+Performed backup using pgBackrest, pg dump and pg Basebackup.
+
+Created and managed database objects such as users, roles, indexes, views, sequences, and permissions.
+
+Migrated Oracle databases to AWS Aurora with PostgreSQL compatibility using Schema Conversion Tool (SCT) and Data Migration
+Service (DMS) Tool.
+
+- Administered PostgreSQL in AWS cloud.
+
+- Manually converts incompatible codes not converted using SCT.
+
+Wrote post-validation scripts to validate Oracle and PostgreSQL objects count.
+
+Migrated from oracle to PostgreSQL on premise using ora2pg.
+
+Performed database patching as well as version upgrade using Logical replication and Pg_upgrade from 9 to 11.
+- Configured and managed Streaming Replication between master and multiple slaves for high availability.
+
+Oracle Database Administrator, 05/2016 - 07/2018
+
+Hughes Network Systems LLC. - City, STATE
+
+Created and implemented recovery strategies, and successfully recovered databases using RMAN.
+- Utilized RMAN utility to schedule and monitor physical backups in the CRON tab.
+
+Created users, groups, roles, and profiles, and granted privileges according to job needs.
+
+- Optimized and tuned SQL queries using SQL-TRACE, TKPROF, and EXPLAIN PLAN utilities.
+- Applied security patches such as Patch set, Critical Patch Updates, and Patch Set Updates.
+
+Used Transportable Tablespace (TTS) to quickly move a user’s tablespace across Oracle databases.
+
+Implemented data refreshes using RMAN, Data pump, and conventional export/import for Oracle 11g and 10g.
+- Installed and configured Oracle 11.2.0.1 database on LINUX and WINDOWS platforms.
+
+Upgraded databases from 11g to non-CDB 12c.
+
+Successfully used materialized views and Oracle Streams in Oracle 10gR2 to perform data replication.
+Implemented Tablespace level TDE security and created Oracle wallets.
+
+- Constantly monitored the performance of databases through viewing alert log and trace files.
+
+- Managed space, capacity planning, disaster recovery, and overall maintained the databases.
+
+Responsible for RMAN backups, and improvement to backup with incremental back by adding block change tracking feature of Oracle
+11gR2. Maintaining and scheduling Cold Backups, Hot Backups, and Export Dumps. Maintaining backups of Archive logs and automating
+
+cleaning of archive logs.
+
+Deploying RMAN to automate backup and maintaining scripts in the recovery catalog.
+
+- Performing complete and incomplete recovery during disasters, failures and user errors.
+
+- operating system backup, cold and hot backup, full backup, incremental and cumulative backup. Implementing backup and recovery strategies using RMAN
+
+Deployed Standby databases using Data Guard 11G (Maximum Performance).
+
+Created and altered database storage structures to meet user needs.
+
+Created program backups and information recovery systems.
+
+Developed and ran autonomous database backups.
+- Partnered with project management teams on development of scope and timelines.
+
+Promoted high customer satisfaction by resolving problems with knowledgeable and friendly service.
+- Worked successfully with diverse group of coworkers to accomplish goals and address issues related to our products and services.
+
+Worked closely with team members to deliver project requirements, develop solutions and meet deadlines.
+
+Prioritized and organized tasks to efficiently accomplish service goals.
+Updated and inspected database security features and protocols.
+
+- Managed user accounts and support systems within complex Oracle database and cloud systems.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Economics, 01/2012 University of Yaoundé II, Soa - Yaounde II Soa
+
+LANGUAGES English: French:
+Negotiated: Negotiated:
+
+CERTIFICATIONS
+--------------
+
+- Oracle 12c Database Administrator (OCA) License . AWS SOLUTION ARCHITECT - On-going
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

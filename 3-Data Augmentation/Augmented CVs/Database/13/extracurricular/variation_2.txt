@@ -1,0 +1,203 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+Detail-oriented Database Administrator with seven years of experience overseeing Physical and Virtual clustered SQL Servers and Databases.
+Talented at understanding and accommodating business needs. Expert in technical troubleshooting and maintaining servers.
+
+SKILLS
+------
+
+- Continuous process improvement e Agile methodology
+
+- Database administration e Customer needs assessment
+
+WORK EXPERIENCE
+---------------
+
+10/2014 to Current SQL Database Administrator Accenture - Wayne, PA
+
+- Investigated and resolved SQL Server job alerts including backups, SQL Maintenance jobs, CPU, memory, low disk space, replication latency or failovers
+
+- Monitored database performance using DMV’s, Foglight for SQL Databases, SQL, and Windows Event logs,
+SolarWinds and VMWare in an environment with 500 SQL Server instances containing 3000 databases
+
+- Assisted in converting SQL Security individual accounts to Active Directory Security groups
+
+- Led the project to cleanup many shared SQL Database Servers
+
+- Researched, composed emails, and scheduled zoom meetings addressed to managers and Directors to determine
+database application owners for 2500 unclaimed databases to improve database security
+
+Demonstrated the ability to communicate effectively resulting in good rapport with inhouse customers,
+infrastructure, and application teams
+
+- Planned and setup remote meetings
+
+- Composed correspondence to a wide audience or targeted groups to investigate unresolved issues or notify and explain upcoming changes
+
+- Restored and refreshed databases including point in time recovery
+
+- Implemented stored procedure, database structural changes and Data Modifications
+
+- Resolved connection and application performance issues using Windows Active Directory Groups, Windows and SQL Server logs, DMV’s, SQL queries, WholsActive, and Foglight for SQL standalone, AlwaysOn Clusters with Availability groups, SSRS and SSIS servers
+
+- Assisted with analyzing query execution plans, suggestions for indexing and query tuning
+
+- Installed and configured SQL Server 2008 R2, 2012, 2014, 2016, 2017 on standalone or AlwaysOn Failover Clusters with Availability Groups
+
+- Coordinated, and executed database migrations to newly built systems
+
+- Applied new patches and versions as needed., Managed database security access to SQL Server databases, SSIS Integration and SSRS Report servers
+
+- Experienced working with application teams and third-party vendors for installations and upgrades
+
+- Worked closely with Capacity Planning team to set and adjust the memory monitoring standards for SQL Servers
+
+- Orchestrated best practices for database security controls and data governance
+
+- Performed SQL Server evaluations regularly to ensure data security, privacy, and integrity
+
+- Excellent Analytical and problem-solving skills
+
+- Ability to work under indirect supervision with excellent attention to detail
+
+- Experience with AGILE, KanBan, JIRA, Confluence. ServiceNow, Foglight for SQL Databases, Redgate and SentryOne Plan Explorer software.
+
+03/2007 to 10/2014 Senior IT Support Specialist Saic - Remote Work, MA
+
+- Receive incoming calls to the ServiceDesk, help maintain ServiceDesk and Voice Mail Inbox
+
+- Resolve connectivity issues for remote users
+
+- Documented computer problems and steps taken to resolve issues in ServiceNow Software
+
+- Performed New Employee Orientation training for Laptops, VDI, Citrix, and Outlook OWA
+
+- Created the Power Point slides for the training presentations
+
+- Supported Centene software performance issues in CCMS, Amisys, MACESS as well as Microsoft Office Suite, Windows XP, and Win7and Citrix applications
+
+- Installed and configured software as needed on VDI's or laptops or desktops
+
+- Service Desk Trainer for new employees and UAT Tester for ServiceNow upgrades
+
+- Supported network, CNET WIFI wireless, air card issues as well as cellular issues
+
+- Reconnected computer accounts to the domain, enabled and deleted computer accounts, moved to correct OU and supported users network accounts through Active Directory
+
+- Supported VDI, thin client, desktop and laptop users with software and hardware performance issues as well as performing research to resolve more complex issues as time allowed
+
+- Performed ServiceDesk OnCall Rotation as scheduled
+
+12/2002 to 02/2007 Desktop Support/ Application Support Briljent - Bloomington, IL
+
+- Experienced installing and configuring Windows 2000 - XP Operating systems thru PXE Boot server, CD or Ghost Imaging
+
+- Assisted in creating ghost image for Windows 2000
+
+- Replaced hard drives, video cards, audio cards, motherboards, CD/DVD Rom drives and the necessary drivers
+
+- Setup. configured, maintained, repaired Lexmark and HP network printers
+
+- Provided second level support to end-users with Microsoft Outlook, Word, Excel, One Note, Crystal Reports,
+Track-It, Windows 2000 - XP and various inhouse VB and Net applications
+
+- Ability to discover, troubleshoot and resolve software application problems with several in house and purchased databases for various departments
+
+- Assisted troubleshooting McIntosh OS issues as well as installed and configured Graphic software for Graphic Arts and TV Media Department
+
+- Responsible for running in house Mass E-mail program which included monitoring performance, server stress load and adjusting for increased performance
+
+- Made recommendations to software development team where program needed validation checks resulting in improved performance and accuracy
+
+- Provided follow up with users to ensure customer satisfaction was achieved
+
+- Created Active Directory users accounts, E-mail accounts and enabled SIP communication for MS Instant Messenger, reset passwords, added, and removed user groups and computer accounts
+
+- Created user documentation on proper way to archive and maintain user Exchange Mailbox as well as how to
+schedule meeting room resources in Outlook 2003
+
+- Documented software installation and configuration procedures as needed
+
+- Became SME for Microsoft Office issues
+
+- Experience troubleshooting connectivity issues with VPN, and OWA (Outlook Web Access).
+
+12/2001 to 12/2002 Help Desk Support Joyce Meyer Ministries - City, STATE
+- Received incoming requests for computer assistance by phone and E-Mail
+- Used Track-It 5.0 to log work order problems for computer technicians
+- Created various Crystal reports necessary to monitor and analyze work order flow
+- Analyzed and corrected report database discrepancies resulting in more accurate reporting
+- Performed administrative database duties to maintain Track-It database such as compacting, repairing. purging database records, as well as troubleshooting and resolving database technical problems
+- Created technician accounts.
+
+09/2000 to 12/2001 Software Engineering / Student Database Technician U.S. Geological Survey - City, STATE
+
+- Assisted in gathering and documenting requirements for new inventory system to perform system and analysis and system design
+
+- Documented data analysis results in Designer 2000 Repository Object Navigator
+
+- Imported Dbase and Fox Pro data into Oracle tables using Excel and Oracle’s SQL Loader resulting in multi- platform access needed to perform data migration
+
+- Developed SQL queries & scripts using Toad Tool for Oracle Application Developers to migrate data from non- relational database into new system design
+
+- Demonstrated the ability to communicate effectively, resulting in good rapport with users during systems analysis and design of new in in-house computer inventory system
+
+- Designed an Oracle form using Oracle Form Builder which included use of SQL triggers and PL/SQL stored procedures
+
+- Updated User's Guide Instructions for mapping application on USGS Website using MS Word, with screenshots, links and how to instructions
+
+- Converted to PDF document for Web access.
+
+03/1999 to 08/2000 Student Computer Support Services U.S. Geological Survey - City, STATE
+
+- Assisted the Help Desk by providing customer support, logging work orders, and forwarding requests to the appropriate department
+
+- Logged helpdesk work orders in Excel spreadsheet
+
+- Created monthly trend reports for Help Desk using Excel
+
+- Helped troubleshoot software application and network related problems received
+
+- Installed and configured software applications as requested by the Help Desk
+
+- Designed and developed Help Desk Knowledge Base in Access 2000 for Help Desk Technical Support Team with search capabilities allowing for quick reference
+
+- Supported sales force and customer calls by solving problems involving customer accounts
+
+- Created various marketing reports from data imported into Microsoft Excel to analyze sales data
+
+- Produced marketing correspondence and bids using MS Word
+
+- Computerized several thousand-inventory records using IBM AS-400 data entry screens
+
+- Designed Chemical Beverage reports using the customer information from the AS-400 company database combined with the department inventory tracking records through IBM GUI software called Vista Showcase.
+
+04/1987 to 08/1990 Customer Service Representative, Patient Accounts Penrose Hospital - City, STATE
+- Received customer dissatisfaction calls and took necessary steps to resolve issues
+- Explained hospital billing charges and Explanation of Benefits to patients by phone and in person
+- Analyzed and referred accounts for insurance re-bill
+- Assisted customers in making payments on accounts and setting up payment plans.
+- Credited administrative adjustments and contractual allowances for Blue Cross, HMO, and PPO insurances
+- Prepared accounts for referral to attorney, collection agencies, financial assistance program or bank loans.
+- De-escalated problematic customer concems, maintaining calm, friendly demeanor.
+- Documented conversations with customers to track requests, problems and solutions.
+
+EDUCATION AND TRAINING
+
+07/2004 BS: Computer Information Systems, Business Management Columbia College - Rolla, Missouri
+GPA: 3.8
+
+ACCOMPLISHMENTS
+
+- Office Specialist Certification for Outlook 2003, MCP 2000/XP, MCDST, Network +, MCSA 2 | Page
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

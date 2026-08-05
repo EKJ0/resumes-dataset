@@ -1,0 +1,197 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+15 years in IT, 10 years versatile DB2 Database Administration in ZOS Mainframe and LINUX platforms. *Install, Configure, design,
+maintain, test, integrate and deploy large-scale IBM DB2 Databases using COBOL, JCL, VSAM. Experience in SMP/E, IBM Data Growth,
+DB2 Archive, BMC, CA Platinum Tools, OMEGAMON, Tracer, , Preference, FastAccess, IDMS, Natural, ADABAS and Predict. Working in
+Mainframes / LINUX /UNIX / Windows Operating Systems. Oversee entire database lifecycle, develop Disaster Recovery strategies.
+- Performs installation, configuration and implementation of DB2 software across various Platforms and Operating Systems. Support problem resolution, backup and recovery of DB2 databases. Develops detailed procedural documentation for installation, maintenance and testing for the project. Manages databases across the system's life cycle. Coordinate DB2 software changes through the life cycle. *Involves in improving SQL programming, provides performance monitoring and tuning recommendations, and estimates cost based on client requirement. A highly motivated DBA professional with strong commitment to quality and customer service.
+
+SKILLS
+------
+
+DB2 for Mainframe z/OS, LINUX, DB2 LUW, OMEGAMON for DB2, SMP/E, DB2 Connect, Java and ERWIN Databases : DB2 for
+zOS, LINUX: Languages : Java, JCL, SQL, COBOL, Natural, ADABAS Other Tools : CA-IDMS, ASG-Tracer, ASG-FastAccess,
+Sumtotal-Preference, IBI-FOCUS
+
+WORK EXPERIENCE
+---------------
+
+03/2013 to 10/2016 Senior DB2 Database Administrator Atos
+
+07/2012 to 02/2013 DB2 Database Administrator Asrc Federal Holding Company
+
+07/2008 to 07/2012 DB2 Database Administrator Asrc Federal Holding Company
+
+02/2008 to 06/2008 DB2 Database Administrator Asrc Federal Holding Company
+
+06/2006 to 01/2007 Systems Engineer Veeam
+
+01/2003 to 04/2006 Db2 Database Administrator Asrc Federal Holding Company
+
+2001 to 01/2002 Systems analyst Archer Daniels Midland Company
+
+06/2000 to 2001 Systems analyst Archer Daniels Midland Company
+
+05/1997 to 05/2000 Software Engineer Bgc Partners
+
+08/2012 to Current Senior Mainframe DB2/ADABS Database Administrator Archer Daniels Midland Company - Brookston
+
+- Involve in administring DB2 databases on zOS and Linux; Production support, maintenance of existing DB2 system infra-structure & databases; Involved in Migration, configuration of DB2 subsystems.
+
+- Executing DR exercises Setting up daily copy & backup utilities and monitoring those jobs.
+
+- Running All Online and Standalone IBM Utilities 1.
+
+- Unloading, Loading, Reorg etc.
+
+- and collecting statistics for the processes; Reviewing and updating System Parameters for optimal performance and binding plans for DB2 dependant products.Maintaining RD &FSA DB2 subsystems Analyze data, develop and execute appropriate DDLs to support projects; Create DB2 instances, configure and update licences, Performing System DBA activities for National Institute of Technolgy Centre (NITC).
+
+- Installing and configuring the DB2 products in MVS using SMPE installation procedure like RECIEVE, APPLY and ACCEPT.
+
+- Install, Configure and Admin CA-IDMS, ASG-Tracer, ASG-FastAccess, Sumtotal-Preference, IBI-FOCUS, Natural and ADABAS for FAA.
+
+- Environment
+
+07/2008 to 07/2012 DB2 DBA - Lead Consultant Ust Global
+
+- Involve in administering DB2 databases on Z/OS and on LINUX; Monitoring daily DB2 jobs and fixing issues; Create DB2 objects like databases and provide appropriate access rights to the DB2 users; Fix DB2 problems faced by the developers.
+
+- Solve Locking conflicts; Provide authorization and privileges for DB2 access; Check database status, monitor daily, monthly batch cycle, resolve any job abends in production environment; Responsible for database integrity & database backup and recovery; Involve in design of DB2 objects for various projects for ZURICH; Environment
+
+02/2008 to 06/2008 DB2 UDB DBA
+
+L&T Infotech
+
+- Involve in administring DB2 databases in LINUX and Z/OS environments; Remove the restriction of pending
+
+status against DB2 objects.
+Backup and Recovery of DB2 objects.
+Data refresh & maintenance; Remove restrictions & pending status against DB2 objects: Provide change
+management and documentation for database changes; Set up DB2 Instances for development and test
+environments; Create and maintain DB2 Objects and databases; Involve in performance tuning of DB2 instances
+running on LINUX; Take backups and restore databases in development, test and production: Design database for
+the eTCPS TransUnion application and apply fix-packs: Design component design activities in database component
+
+design; Set up development environment for the eTCPS application and implement database design; Use ERWIN
+tool for physical and logical database design; Environment
+
+06/2006 to 01/2008 Systems analyst L&T Infotech
+
+05/2004 to 05/2006 DB2 DBA - Project Lead
+
+- Involve in providing support to projects; Unload, Load the database, Reorganize and collect statistics for the processes; Reorganization of Table space & Collecting Statistics using Runstats; Remove the restriction of pending status against DB2 objects; Running Online and Standalone IBM Utilities; Backup and Recovery of DB2 objects: Involve in project plan reviews, test reviews and document preparation; Involve in performance tuning of DB2 sub system running on AIX: Attend DB2 associated internal training programs; Database admin including backup, recovery and installation of DB2 database and configuring instances; Set up DB2 databases; Environment: DB2 for Z/OS, AIX, DB2; IBM, Candle Corporation Chennai DB2 DBA Product Development: IBM Performance Expert (A DB? Product) Responsibilities: Products supported are: IBM OMEGAMON XE for DB2, IBM Performance Expert for DB2; Perform extensive DBA activities to recreate/set-up the test environment/situation; Perform DBA functions like archiving, providing user and Object privileges; Execute recovery operation and backup procedures; Test the products in various versions of DB2 like ver 8 & 9 and test the product in various types of DB2 like datasharing, DDF, New Function mode, etc. Develop and test programs for testing the product features like performance of Stored Procedures, User Defined functions, Distributed Database threads, Distributed Allied threads, CICS and IMS threads, TSO, Batch threads, etc.; Usage of operator commands and DB2 commands at appropriate times; Active participation in Fagan Inspection process for code and document inspection; Execute DB2 Utilities like fullcopy, increametal copy and image copies, Load-Unload, Runstats, Reorg,..; Set up test environments - include the following activities: Installing and configuring the DB2 products in MVS using ICAT which uses the SMPE installation procedure like RECIEVE, APPLY and ACCEPT: Installing necessary components in Windows like DB2 connect, CNP/CNPS and configuring them; Installing needed Fixpacks/PTFs for the Defects testing in the appropriate version of the product; Developing Test plans and defining Testcases in the Test Tracking tool Lotus Notes Database; Running SMF and GTF Traces and producing reports; Report defects using IBM CMVC and following it's progress; Update the current status of the defects in Defect Tracking Database; Experience in Relational and Dimensional Data Modeling for creating Logical and Physical Design of Database and ER Diagrams using the ERWIN tool; Environment: Z/OS, AIX, DB2 UDB, DB2 Connect, IMS, JCL, VSAM, COBOL, Java; IBM, Candle Corporation Chennai.
+
+02/2003 to 04/2004 DBA
+- Product Development: OMEGAMON for DB2 The Products supported are OMEGAMON II for DB2,
+
+OMEGAMON XE for DB2 and DB/Explain The testing is termed as "Function Test" which involves: Function
+Testing; Performance Testing; Regression Testing; System Testing: Responsibilities: Preparation of test plans and
+test schedule: Analysis of the Defect records and recreation of the situation; Involve in Fagan Inspection Process;
+Setting up the test environment; Installing the products and the necessary PTFs and Fixpacks in Distributed
+environment; Developing programs and creating necessary DB2 objects for testing: Defining the tasks and
+allocating each task to the team members; Interacting with onsite team to get the information of the defect records;
+Preparation of testdata, testcases and executing the testcases; Preparation of test results and other deliverables;
+Environment: Z/OS, AIX, DB2 UDB, Java, DB2 Connect, WLM, Datasharing, DDF, COBOL;.
+
+08/2001 to 02/2003 Java Consultant L&T Infotech - City, STATE
+
+- Project involved developing Java Beans and JSP for customer contact center.
+
+- Responsibilities: Configure WebLogic server and set up the properties file.
+
+- Handling file uploading though FTP; Design and development of Java beans, JSP for user inputs.
+
+- JSP reports connect with ORACLE database and retrieves data from the database.
+
+- Formatting the Reports as per the user requirements; Coding the session management in each JSP page to pass the form values from one page to another: Create JDBC connection to the database.
+
+- Connecting the database though JSP; Create Java beans to specified requirements, and accessing them through JSP.
+
+- White client side validation using JavaScript.
+
+- Code scriplets in JSP to handle specified tasks; Writing server side includes dynamic page generation; Write test cases for Java programs and JSP.
+
+- Generating test results from the unit test; Environment: Java, JSP, J2EE, ORACLE;.
+
+02/2001 to 07/2001 Java Consultant Metlife, Inc. - City, STATE
+
+- Project: Business Intranet Development Project involved creating new internal business projects, maintaining the project status and creating reports.
+
+- Responsibilities: Design, Coding and Testing of Java programs, JSP and reports which connect the ORACLE database; Code the session management in each JSP to pass the form values from one page to another; Create JDBC connection to the database.
+
+- Connecting the database and retrieve data from tables: Design ORACLE database and write Stored Procedures to migrate data from data warehouse tables to local Intranet application tables; Create Java beans to specified requirements and accessing them through JSP.
+
+- White client side validation using JavaScript.
+
+- Code scriplets in JSP to handle the specified tasks; Writing server side includes dynamic page generation; Write test cases for Java programs and JSP.
+
+- Generating test results from the unit test; Environment: Java, JSP, J2EE, ORACLE;.
+
+07/2000 to 01/2001 Java Consultant Price Waterhouse Coopers PWC - City, STATE
+
+- Digital Identity - An identity hosting service that enables people and institutions to securely execute legally binding transactions online and provides a secure channel to deliver authenticated information & documents. Responsibilities: Develop UI for registration center using JSP, JavaScript and Java beans using WebLogic server on Windows 2000 platform; Design and develop UI for NetCertainty system administrators to view, update and maintain information for identities using an UI to EJB updating the database; Provide capability for administrators to change the status of users, enable or disable accounts and open or close accounts.
+
+Develop UI to register corporate accounts using JSP and Java beans; NetCertainty Security Area - Develop an
+online secure area into which NetCertainty users can log in using their username and password using JSP,
+JavaScript and Java beans.
+
+Personalize the site by creating a filing cabinet for each user, displaying signed/unsigned documents; Updating
+personal information and credentials via the security area an interface to EJB that updated the object database;
+NetCertainty Identity Recovery - Devise and implement an algorithm for users to recover their forgotten/stolen
+credentials based on personal secret information using JSP and an interface to EJB that queries and updates the
+database; Perform Unit test, System test and Acceptance test.
+
+- Unit tests ensure that the constituent components act as they should.
+
+- Acceptance tests ensure that the top-level functionality of the system, as it appears to a user, is as it should be.
+- Write Unit test scripts to check the behavior of components; Environment: Java, JSP, J2EE;.
+
+03/1999 to 06/2000 Mainframe Consultant GE Power Systems - City, STATE
+
+- Project: Transportation System This legacy system is logically divided into different modules like Finance, PO, Transportation, etc.
+
+- The Transportation system keeps track of all details of Shipment, Container and Cartons during the transportation of footwear and apparel from factory to customers.
+
+- Responsibilties: Module management - offshore, Client interaction - onsite; Maintaining the deliverables to the CMM level 5 standards; Involved in maintenance and enhancement of the legacy system on mainframe using COBOL, JCL, DB2, CICS and Xpediter; Involved in Unit & Regression testing: Environment: COBOL, DB2, JCL, CICS;.
+
+03/1998 to 02/1999 Mainframe Consultant NetCertainty Inc - City, STATE
+
+- AMMS (Advanced Material Management Systems) - Accounts Payable (AP) supports the AP module in AMMS.
+
+- The AMMS A/P module is used to process invoices for regulated USWC purchases that are made through the AMMS procurement system.
+
+- Invoices for AMMS purchases are received in the AMMS A/P office directly from the vendor.
+
+- Upon input into the AMMS system a three-way match is done (PO, Receipt & Invoice) prior to AMMS A/P approves the invoice for payment.
+
+- AMMS utilizes up-front accounting edits and Common Tax Module to insure that transactions sent to Tax calculations are free of accounting errors and have the correct sales taxes applied.
+
+- Responsibilties: Develop new programs for making new changes/reports on Offsite/Onsite coordination; Involved in design and development, Quality Assurance for Specification, Coding and Testing: Involved in maintenance and enhancement of the system on mainframe using COBOL, JCL, VSAM, CICS and Xpediter; Environment: COBOL, DB2, JCL, CICS: US Fidelity & Guaranty (F&G).
+
+06/1997 to 02/1998 Mainframe Programmer
+- The Y2K impact analysis reports are generated by TCS developed tool.
+- For the affected date fields, the code is amended (Y2K conversion) to make it Y2K compliant.
+- Responsibilties: Analyze and identify the Y2K date impacted programs; Quality Assurance for Specification, Coding and Testing; Environment: COBOL, VSAM, JCL:; Page 6 of 6.
+
+INTERESTS
+---------
+All Online and Standalone IBM utilities; High Risk Security Clearance for US Fedaral Clients
+
+EpucaTIon
+
+Master of Engineering (MIT Anna University - Chennai
+
+ADDITIONAL INFORMATION
+
+- Utilities : All Online and Standalone IBM utilities; High Risk Security Clearance for US Fedaral Clients
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

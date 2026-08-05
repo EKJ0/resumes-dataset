@@ -1,0 +1,337 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Over 8 years of Customer-focused IT Business/Data governance Analyst experience, committed to provide accurate, on-time
+
+deliverables for new and existing implementations. Specializing in information flow for customer and marketing systems.
+
+maintaining integrity, efficiency, and availability of data. Demonstrated ability to collaborate with technical and cross-functional
+
+teams throughout the project lifecycle, including user testing and training. Extensive experience interfacing with customers and
+
+stakeholders to understand needs, discuss action plans, and conduct post-mortem reviews. Highly motivated with solid leadership,
+
+communication, analytical, and organizational skills
+
+SKILLS
+------
+
+- Incident/Business Analysis | Production Support |
+
+Business Objects, Internal audit, Policies, Upstream Requirement Gathering/Analysis | Technical Documentation
+
+- Data & Root Cause Analysis | Agile Methodology | Relational Databases | Database Structures! Software Validation Stakeholder Communication | Report Analysis & Monitoring Systems | Quality Management | Business
+
+Business process, ITIL, Processes, Validation
+
+Business processes, Java, Programming, Vendor Management Cu, JavaScript, Quality, Visio
+
+CMS, Law, Quality Management, Vision
+
+Com, Legal, QA, Web Intelligence
+
+Concept, Linux, Quest
+
+Intelligence | IT Platforms & Service Management
+- CERTIFICATIONS |
+
+Conversion, Marketing, Rational Rose
+
+- Informatica Axon Data Governance, Specialist Certification ¢ CRM, Meetings, Relational Databases
+
+- Certified Scrum Master (CSM)
+
+- Certified Scrum Product Owner (CSPO)
+
+- CMC Certification for Data Processing
+
+- CMC Certification for C++
+
+- Streamline, Decision-making, 98, SQL
+
+- Ad, Documentation, NT, SQL Server
+
+- Agile, Downstream, Windows XP, Surveys
+
+- Application development, ETL, MySQL, Tableau
+
+- Agency, Functional, ENTERPRISE, User training
+
+- Automation Tools, Government, Operating Systems, Technical Documentation
+
+- Bind, HP, Optimization, Test Director
+
+- Budget, HTML, Oracle, TOAD
+
+- Business Analyst, IBM, Oracle database, Transmission
+
+- Business Analysis, DB2, PLSQL, Troubleshoot
+
+- BI, Informatica, Peregrine, UML
+
+Crystal Reports, Access, Reporting
+
+CSS, MS Access, Requirement
+
+Client, Excel, Requirements gathering Clients, Microsoft Office, Retail Customer support, MS Office Suite, Risk Assessment
+
+Data analysis, PowerPoint, Risk Management Data integration, MS Project, RUP
+
+Data Processing, Microsoft SharePoint, SOX compliance
+Data Warehouse, 2000, SCRUM
+
+Databases, 3.1, SDLC
+
+DATABASE, Windows 95, Software development
+
+- Business Intelligence, Insurance, Perl, UNIX
+
+WORK EXPERIENCE
+---------------
+
+Data Governance and Customer Data Sr.Analyst, 12/2016 to Current Mastery Systems - MN, State
+
+- Tableau.
+
+- Alteryx.
+
+- ITIL training, NIT Data, Bloomington, IL.
+
+- HIPAA training, State Farm, Bloomington, IL.
+
+- Business Objects (XIR2, Web Intelligence, Xcelsius), NIT Data, Bloomington, IL.
+
+- Risk Assessment Process, State Farm, Bloomington, IL.
+
+- Risk Management Cycle, State Farm, Bloomington, IL ITSM: ServiceNow, HP Service Manager, Peregrine, Remedy, JIRA Service Desk, Confluence Bug Tracking Tools: Mercury Test Director, Rational Clear Quest, SPLUNK Software development methodologies: Agile, Waterfall, RUP Databases: MS Access, MySQL, SQL Server, Oracle, DB2 Utility Tools: IBM Data Studio, Excel, Access, PowerPoint, MS Project, TOAD Reporting Tools: Crystal Reports, Business Objects XIR2, Alteryx, Power BI, Tableau Programming Languages: Java, SQL, PLSQL, Perl Operating Systems: UNIX, Windows 95/98/NT/2000/XP, Linux Internet: HTML, JavaScript, CSS Automation Tools: MS Visio, Rational Rose, CUSTOMER CENTRAL(CC): CC repository is
+
+customer record of reference meant to support the TMS/USA enterprise need of reliable customer information.
+
+CC integrates with several customer sources like DMS systems, Owner portals, Retail transformation, TBDP, Repair orders,
+Telematics, Enterprise lead management system, Enterprise marketing database, Enterprise Customer Preference Center,
+Surveys etc.
+
+- And non-customer internal and external data sources like Vehicle systems, Warranty, TFS, Staff master, PQSS, Workday, Sirius XM, Experian and others.
+
+Budget oversight for several supporting providers in the amount of about $7M+.
+
+- Revenue Contribution to the tune of about $1.7M because of accurate data being provided to SOAR platform.
+
+(Dealer list pull) ENTERPRISE MARKETING DATABASE (EMD): The purpose of this system is to create a golden source for all
+marketing data that will drive the lead generation and customer engagement initiatives through a lifecycle journey beginning
+
+with initial contact to conversion, repurchase, brand advocacy that will ultimately yield increase in revenue for the enterprise.
+
+Roles and Responsibilities:.
+
+As a product owner convey vision to the scrum team, prepare and prioritize product back log.
+- Manage all aspects of business process management - the collection of client business requirements and understanding of
+
+process flows to develop and manage most feasible, scalable and cost-effective solutions.
+
+Possess an in-depth understanding of the various business units within the organization.
+
+Determine operational objectives by studying business functions; identifying gaps, recommending process improvements and
+
+evaluating output requirements and formats for streamlining day-to-day operations.
+
+- Execute data governance policies and standards to ensure accuracy and quality of data through all upstream and downstream data channels.
+
+- Ensure Data Privacy, and compliance in relations to GDPR, California Privacy law(CCPA),Federal, State, and local mandates
+
+(Includes Non-USA boundaries: i.e.
+
+Mexico/Toyota Puerto Rico).
+
+Monitor & track all interfaces and data sources to ensure accuracy and timeliness.
+- Collaborating with data excellence team to build data quality dashboards and data metrics, Catalouging the data resources into Enterprise tools, Building a meta data repository, Implementation of governance tools.
+
+Effectively communicate as Subject Matter Expert (SME) for Customer Central and Marketing databases, enterprise business
+teams and external clients leveraging a full understanding of the various environment deliverables.
+- Optimization defined as ongoing hygiene analysis and augmentation of data records to ensure accuracy, validity, accessibility,
+
+timeliness, and completeness.
+
+Determine effective strategies to respond to customer data list requests from Enterprise end-users in compliance with
+
+government/mandated policies and privacy requirement.
+
+- Collaborate with compliance and legal teams to ensure business processes are compliant with respective legal and privacy requirements.
+
+- Collaborate with internal and external business /IT teams to analyze, troubleshoot and solve problems related to data reconciliation.
+
+- Independently make decisions regarding data integration rules (conversions, source precedence, etc.) during team meetings with the assigned IT resources.
+
+- During the process of User Acceptance Testing (UAT) make independent, informed decision as to whether a change should be
+
+implemented into production.
+
+Vendor Management: Manage multiple vendors that provide data augmentation services, Marketing and business partners
+
+supporting other services like Toyota care and road side assistance.
+
+IT Analyst/Database Analyst/Sr.Business Systems Analyst, 07/2012 to 06/2016 State Farm Mutual, Insurance And Bank - City, STATE
+
+- Customer Information Management Suite (CIMS) is a CRM application used to create and maintain customer information.
+
+- It integrates with several applications like Quote and Bind, Enterprise Claims, NECHO, State farm payment plan etc.
+
+- As a Business Analyst, I was involved in multiple system enhancements for both web based and host systems.
+
+- Enterprise Client Merge: With the current web-based system (CIMS) a party/client that spans multiple regions have multiple records identified by specific region or state.
+
+The scope of the project is to collapse all the existing regional records to identify as one enterprise client and the ability to create
+future parties under one Enterprise record facilitating easy access to information across the enterprise.
+
+NECHO CAM: This is a host application used by agent's offices to submit policy transactions like policy renewals
+&cancellations, name and address changes etc.
+
+I was involved in root causing the multiple data inconsistencies that were arising from creation and updates to millions of client
+records due to an inconsistency/mistake on party creation which was ultimately leading to a data breach.
+- This project was involved in incorporating stringent system validations and customizing the application as per business
+
+requirements.
+
+The scope of the project is to main data integrity across several other State Farm systems such as multi -line discount processing,
+
+SF.com, Agency Business Services and Claims.
+
+Master party details (MPD): is a central data store for customer information.
+Several other regional databases integrate with the MPD, making it vulnerable to data integration and data quality issues.
+
+- Consumed by multiple downstream corporate applications and systems, such as agent offices, marketing, SF.com, Federal Data Warehouse, customer support, and other products.
+
+Involved in the improvement of data transmission between affiliate systems (auto, Life, Health, Fire, vendors) and MPD.
+
+The scope of the project is to minimize the data lag to the production system.
+
+- Some other projects include the addition of military indicator to provide subsidized insurance prices for veterans, enabling the privacy indicator as per customer request etc.
+
+- Environment: DB2 systems, IBM data studio 3.1, Microsoft Office, Microsoft SharePoint, HP Service Manager, and Rational rose.
+
+Roles and Responsibilities:.
+
+Engaged customers, development teams, SMEs, and system partners, including agency business services, corporate host
+
+systems, and vendor systems, to ensure full collaboration during system enhancements.
+
+- Discussed multiple viewpoints and functioned with transparency.
+
+- Gather data from multiple systems, analyzing trends and developing tactical recommendations that drive and support business decisions.
+
+- Analyze large amounts of data from flat files to identify data errors, revamped batch process to streamline the data feeds to the
+
+production system.
+
+Strong understanding of various SDLC methodologies such as Agile, Waterfall with hands-on experience in all of them.
+
+- Collaborate with business partners to define project objectives and scope.
+
+Track, analyze and communicate project risks and opportunities.
+
+Researched and documented existing business processes for legacy host insurance systems.
+- Experience in documenting process maps representing ("as - is” process map) and future state business process ("to-be" process
+
+map) involving Customer information management suite and Client Register applications.
+
+Facilitated requirements gathering sessions with business stakeholders and key technical resources.
+- Used industry standard techniques like conducting surveys, led JAD and brainstorming sessions to elicit requirements from the Business.
+
+- Demonstrated experience in documenting and prioritizing business, user and system requirements.
+
+Used Rational requisite pro as requirement gathering tool.
+
+- Prepare functional and technical specifications that supported the approved business requirements.
+
+Performed requirement walkthroughs with the Dev and QA teams with the aim to develop testing strategies and test plans such
+that test cases reflect user needs.
+
+Identify opportunities to improve operational excellence and work with process owners to mobilize actions and resources to
+
+address gaps.
+
+- Experience in querying Master Party Detail relational databases, understanding of database structures, ETL processes and manipulate large amounts of customer and policy data to resolve client data discrepancies and to maintain data integrity across different State Farm Systems.
+
+- Investigated and analyzed the root cause of data origination issues and worked with appropriate system teams to resolve problems at the system source, thereby reducing incident volume by 5%.
+
+- Review and monitor new, routine, and ad hoc report.
+
+- Conducted post-mortem incident reviews with stakeholders, identifying root causes and potential corrective actions.
+
+- Created executive summaries and live dashboards for team members and managers showing data trends and repeat offenders, thereby increasing visibility and decision-making criteria.
+
+- Coordinated with QA during testing cycles; ensure results are documented and obtain testing sign -off documentation.
+
+- Worked with internal audit and compliance teams to establish best practices and procedures while accessing sensitive data to protect customer and the organization.
+
+- As SME of data support team mentored and trained 10 junior/new staff members on tools, frameworks, industry practices,
+
+business processes, data structures, data flows, data validations across systems and applications.
+
+- Coordinated and facilitated end user training sessions and system demos.
+
+Business Analyst, 01/2010 to 06/2012 Allstate - City, STATE
+
+- Project Scope: Enhance claim system by providing users and agents with the ability to check claim status online and upload claim's related artifacts using web interface.
+
+- Knowledge Base: Data mapping application, agile methodology (SCRUM), Waterfall Environment: Windows XP Professional, Oracle, UML, Rational Rose, MS Office Suite, MS Visio 2003, HTML, CSS, Business Objects XIR2 (CMC, CMS, CCM, Designer), Web Intelligence, Xcelsius Prepare business requirement document by gathering and analyzing functional specifications and test plans.
+
+- Conducted surveys, led JAD and brainstorming sessions.
+
+- Used Rational Rose for developing use cases and activity diagrams.
+
+- Performed UAT for web-based and database-related applications.
+
+- Managed schedules, deadlines, resources, and collaborated on a project using MS Project.
+
+- Created proof of concept (POC)/prototypes using HTML and CSS.
+
+- Presented prototypes to stakeholders to demonstrate application functionality and usability.
+
+- Developed and documented claim scenarios used by development and business teams for implementation and testing.
+
+- Experience working in the Agile methodology (SCRUM).
+
+- Collaborated with external auditors to document SOX compliance requirements for application development.
+
+- Interacted with developers to resolve reported bugs and technical issues.
+
+- Extracted data from Oracle database with MS Access and performed SQL querying, data analysis, and verification.
+
+EDUCATION
+---------
+
+Master of Science: Life Sciences
+
+ACHARYA NAGARJUNA UNIVERSITY - Guntur
+
+Bachelor of Science: Life Sciences
+
+ANDHRA UNIVERSITY - Visakhapatnam
+
+CERTIFICATIONS
+--------------
+
+Core Competencies Incident/Business Analysis | Production Support | Requirement Gathering/Analysis | Technical
+Documentation Data & Root Cause Analysis | Agile Methodology | Relational Databases | Database Structures! Software
+Validation Stakeholder Communication | Report Analysis & Monitoring Systems | Quality Management | Business Intelligence |
+IT Platforms & Service Management CERTIFICATIONS |
+
+Informatica Axon Data Governance, Specialist Certification
+
+Certified Scrum Master (CSM)
+
+Certified Scrum Product Owner (CSPO)
+
+CMC Certification for Data Processing
+
+CMC Certification for C
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

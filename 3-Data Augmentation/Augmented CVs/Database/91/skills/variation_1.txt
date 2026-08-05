@@ -1,0 +1,215 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL PROFILE
+
+Oracle Certified Database Administrator (DBA) with over 7 years’ experience in Information Technology. Possess extensive knowledge and
+proficiency in Database design, monitoring & tuning, security implementation and risk analysis, as well as backup and recovery in Windows,
+Unix. Attention to detail and the ability to maximize system resources in the above areas. Exhibit quickly and easily adaptability to fit in new
+work environment, strong ability to quickly grasp and translate technical issues, ability to work extended hours toward a tight deadline. Great
+team player with a fast learning curve, work perfectly under stressful conditions where speed and accuracy are necessary for mission critical
+databases. Possess decent work ethic, dynamic and detail oriented. Excellent communication and troubleshooting skills as well as a cohesive
+
+team member.
+
+SUMMARY OF SKILLS
+
+Oracle 10g, 11gR2, 12c Database Administration SQL Server, MySQL and Big Data (Hadoop) Administration
+24/7 production and development support - Oracle and MS SQL © Database Security (Data access, profiles) as per (STIG) Rules
+
+Server Administration ¢ Patching CPU and PSU, Oracle Software Upgrade for 10g/11g/
+- Software Development Life Cycle (SDLS) 12c, Migration
+- SQL Server, MySQL and Big Data (Hadoop) Administration e Backups using RMAN and DATAPUMP? Backup policy using
+- Creating Databases and managing user securities on both Oracle RMAN and VNB (Veritas Net Backup) and SQL server ¢ Implementation of high availability solutions with Oracle 11g
+- Database Security (Data access, profiles) as per (STIG) Rules RAC, Physical Standby database, Data Guard
+- RDBMS Installation, Creating and Managing OLTP and OLAP e Performance Tuning using STATSPACK, TKPROF, EXPLAIN Database PLAN, SQL TRACE, AWR, ADDM
+- Patching CPU and PSU, Oracle Software Upgrade for 10g/11g/ ¢ Experience with Stored Procedures, Functions and Database 12c, Migration Flashback Technology, Log Miner, ADDM Triggers Implementation e Disaster Recovery plans by implementing 10g/11g Oracle RAC
+- Backups using RMAN and DATAPUMP’ Backup policy using and Data Guard switchover and failover
+
+RMAN and VNB (Veritas Net Backup) Perform upgrades of Oracle DBMS software on heterogeneous
+
+ASM for RAC and NON- RAC configuration Data pump for Schema Refresh, Database Object Migration
+
+platforms © Proficient in SQL, PL/SQL, Unix Shell Scripting and analyzed
+- Implementation of high availability solutions with Oracle 11g Batch programs
+
+RAC, Physical Standby database, Data Guard e Administration and Management - Database Links, Oracle Golden
+- Recovery from Media failure, Block Corruptions, User errors Gate (Data Replication)
+
+TECHNICAL SKILLS
+----------------
+
+- Databases: Oracle 12c/ 11g/10g/, MySQL, MS SQL Server 2005/2008, 2012,2016, MS Access, RAC, Golden Gate, AWS RDS
+- Operating Systems:
+
+UNIX, Linux Red Hat, Sun Solaris2.5/2.6/8/9/10, HP-UX 10.x/11.x, ATX 5.1/5.2/5.3/6.1, RHEL 2.1/3-x/4_x/5.xWindows,XP/
+
+2000/2003/2008, Peoplesoft FN/HR 9.1 MS Office Suite (2003-2016)
+
+- Languages: SQL, PL/SQL. UNIX Shell Scripting, PERL, HTML, XML
+
+- RDBMS Utilities: SQL*Plus, Oracle Enterprise Manager, Real Application Cluster, ASM, Transportable Tablespaces, SQL* Loader, RMAN, Datapump utilities (expdp/impdp), ADRCI, EMCLI, Management Studio and Word Bench
+
+- Tools: TKPROF, EXPLAIN PLAN, STATSPACK, AWR. and ADDM, Toad, Putty, NX client, WinSCP, Remote Desktop Connection, VNC, Team Viewer, LogMeIn and Cisco VPN Client, SQL Developer, DB Artisan
+
+EDUCATION AND TRAINING
+
+OCA- Oracle Certified Associate SQL Fundamentals Certified ORACLE University
+
+Database Management
+
+Southern New Hampshire University
+
+Diploma: Electronics, Computer, Telecommunication Technology TESST College of Technology - Beltsville, MD
+Electronics, Computer, Telecommunication Technology
+
+WORK EXPERIENCE
+---------------
+
+Oracle Database Administrator, 01/2013 - Current Cognizant Technology Solutions - Cheverly, MD
+- Installed and configured software for Oracle 10g, 11g 12c on both Windows and UNIX platforms using OFA
+
+and 2008 (Databases sizes range 10GB to 2.3TB)
+- Collaborate with the system Administrator to configure any software and hardware requirements that will function with the Oracle Database. Capacity Planning with developers on development and test for production for growth potential Implemented a backup strategy following company SLA; Implementation of backup schedule for both logical and physical backup using RMAN and DATAPUMP utilities respectively Consult with and provide guidance to database users and client groups, often recommending tactical and strategic solutions
+
+Created documentation during project planning, project execution and project maintenance phases
+
+of old services
+
+Knowledge of Normalization/Denormalization techniques for OLTP and OLAP environments Migration of database Objects across platforms
+
+Flexibility to adapt to and willingness to learn new technologies
+
+Responsible for setup and implementation of 2 Node RAC on Linux Platform in 10g and 11g R2
+
+Implemented Data guard, creating both logical and physical standby databases in 10g and 11g RAC environment for production database
+- Experienced in Design. implementation and generating documentation of Oracle 10g and 11g Data Guard on both physical/logical standby databases in high availability mode and optimizing the performance of the databases on a periodic basis using AWR, ADDM reports and providing recommendations
+
+Implemented ASM on RAC and stand-alone databases Managing disks and disk groups with ASM Done migration of non ASM database
+to ASM database Scheduling and maintaining level 0 and level 1 RMAN (Recovery Manager) backups Managing. Monitoring and
+optimizing the performance of the databases on a periodic basis using AWR, ADDM reports and providing recommendations Planned and
+Performed Daily, Weekly and Monthly Backups.
+Tested and Implemented restore procedures for complete and incomplete recovery using RMAN SQL tuning and Application Performance
+monitoring Resolving issues related to Network Congestion, Memory (SGA and PGA), CPU and I/O Capacity Planning for OLTP
+
+environment- Allocating system and planning future storage requirements for the existing and new Databases
+Involved in Installation and configuration of Oracle 10g and 11g RAC using Oracle Clusterware and ASM
+Implemented Data Guard, Physical Standby database in 10g and 11g RAC environment for the Production Databases for Active and
+
+Passive cluster
+
+Creating & Managing Database Structures, Storage Allocation, Table/Index segments, Constraints, Database Access, Roles and Privileges
+- Performance tuning of Queries by maintaining Aggregates, Compression, partition, Indexing and use of Hints, Stored outlines and Statistics
+
+Provided database related services to Development and QA environments as Database Refresh/Cloning and Object Migration
+Performed policies on data confidentiality, integrity, availability, and auditability, based on Access controls for Access to Data at the
+database level
+
+Extensively implemented Datapump, conventional Export/Import (Oracle 11g, 10g) for migration and logical backup of the database
+Strong skills in applying security patches (Patch set, Critical Patch Updates (CPU) / Patch Set Updates (PSU), (One-off Patch) using
+"runInstaller" and Perl based utility "opatch"
+
+Worked closely with the developers for the better performance in Applications in writing the Packages, Triggers, Materialized Views and
+Indexes on the tables
+
+- Used Secure SCP and SFTP extensively for the File transfers from machines to remote server
+
+- Experienced in documentation and excellent writing skills, provided documentation for database design, analysis, modifications, creating
+
+schemas etc.
+
+Develop automation (python) and perform tasks related to data migration, security, database performance optimization, automation, and
+other duties as assigned.
+
+Oracle Database Administrator, 11/2010 - 12/2013 Cognizant Technology Solutions - Clinton, NC
+
+- Installation and maintenance of Oracle 10g/11g on Linux OS Installed, upgraded and patched Oracle installations Capacity Planning (supported 3 tier architectures, planning of tables, indexes, tablespaces and databases) to allow for growth potential and
+
+analyze data growth trends for capacity and resource
+
+Consult with and provide guidance to database users and client groups, often recommending tactical and strategic solutions
+
+Worked closely with System administrators, developers, technology stack team and server tech teams
+
+Implemented security through basic and advanced security techniques like applying recent patches and upgrades, appropriate user grants,
+permissions and profile management
+
+Automated tasks at operating system level using Crontab and AT and at the database level using SQL Scripts and PL/SQL procedures
+Schema Refreshes using export/import (Exp/Imp) and Oracle Data pump (Expdp/Impdp)
+
+Creating users and administering user privileges
+
+SQL tuning and Database Performance Tuning on reports generated by SQL Trace, TKPROF, STATSPACK, Explain Plan and Monitor the
+Database performance on daily basis
+
+Responsible for optimizing the queries for application tuning
+
+Provided support to Application Database Administrators in designing the database
+
+Implemented RMAN backups (Hot, Cold, full and incremental) as per backup policy
+
+Automated the nightly RMAN backups for the Production, Development and Test Databases using Crontab
+Recovered full and point-in-time of Databases as needed from RMAN backups
+
+Cloning the database using Scripts as well as RMAN
+
+- Management of Schema objects, partitioning Tables & creating Indexes
+
+Performed hot and cold backup and recovery using RMAN and UNIX Scripts
+
+Monitored database and SQL performance using Stats Pack, OEM, EXPLAIN PLAN and tuned problem areas to enhance performance
+- Worked on Application and Database security (data access, passwords, network, etc.)
+
+Handled daily Production problems/change requests with Oracle
+
+Performed daily Database administration tasks: User management, Space monitoring, Performance monitoring and tuning, Alert Log
+monitoring and backup monitoring Performed Physical backup (hot and cold) as well as Logical backup (Export/Import)
+
+prevented issues, disasters from happening
+
+Monitoring table space issues and Management of User Accounts
+
+Involved in session management and monitoring critical wait events, blocking sessions in the Database
+
+Implemented Data Guard on Oracle 11g with high availability and performance configurations and participated in Data Guard Fail over
+tests
+
+Using Oracle Data Pump utility making faster exports/imports on large Databases
+
+Monitoring several Databases varying from Terra byte sizes using Oracle Enterprise Manager Grid Control.
+
+Worked extensively on monitoring Grid control Database. configuration of error notifications, installing listeners, and adding listeners to
+the Grid control
+
+Export and Import of Database objects from one database to another database Investigating suspicious Database activity using Auditing
+Involved in query optimization and using rule based optimizers and cost based optimizers
+
+- Experience working with ORACLE SUPPORT (Open SR's) as per company SLA
+
+Supported production databases on 24/7 on call rotation, shared responsibly with fellow DBA's for 24/7 on-call support Documented work
+
+progress and updated work road map on project status for administrative and managerial assessment
+- Constantly monitor the performance (v$ dynamic performance views at peak load) of the Databases and viewing Alert log files & Trace files Detecting and correcting instance performance problems.Locating and tuning SQL statements
+
+Demonstrated effective oral and written communication skills with the ability to communicate technical information to non-technical
+personnel
+
+Reconciled functional and technical problems through interaction with the client by researching and identifying the defined issue and by
+fully testing and confirming workable solutions to the problem.
+
+Database administration Upgrades Performance tuning Production support Installation Encrypting, Securing and Monitoring Migration
+
+RAC Configuration Backup and recovery Cloning and Refresh Space management & security.
+
+- Database conversion to a pluggable database on 12c
+
+Database Security - Transparent Data Encryption, Data pump and RMAN Encryption and User Account Management
+
+Involved in query optimization and using rule-based optimizers and cost-based optimizers
+
+Supported daily administration, proactive monitoring, tuning and troubleshooting on single instance on UNIX/Linux, Windows server 2003
+
+Participated in change management board meetings for new release, change implementations, removal, retirement and/ or decommissioned
+
+Proactively managed the databases; set up alarms for managing any exceptions in day to day management of the databases; pre-empted and

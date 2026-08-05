@@ -1,0 +1,175 @@
+Emily Walsh
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+More than 6 years of diverse experience in administration of Relational Databases . Extensive technical skills and understanding of PostgreSQL,
+MS SQL Server Databases in the cloud and on-prem. Strong collaborator and team player with excellent communication skills and expertise in
+analytical problem-solving. Key participant in daily meetings to discuss about the new database maintenance strategies, Backups and creation.
+Installing and configuring open source and enterprise databases systems. Experience designing database structures, indexes, views, partitioning.
+Installing and configuring multiple PostgreSQL utilities e.g. EFM, pgbouncer, pgpool, pgbadger, pg_backrest, pg_ repack etc. Installing and
+configuring MS SQL Server 2017, 2019 & 2021 (standard and enterprise editions), PostgreSQL 10.x, 11x, 12.x, 13.x &14.x on AWS RDS and
+EC2. Installed, configured, upgraded, migrated (as necessary) and maintain several instances. Troubleshoot replication, corruption issues and fix
+
+as appropriate. Extensive work experience on production databases.
+
+SKILLS
+------
+
+PostgreSQL, EDB Postgres, RDS Postgres, MS SQL SERVER, e Replication, upgrade, migration etc.
+
+MYSQL,. © Pgbouncer/pgpool-II, EFM.
+- Linux/Unix (Cent-OS, Debian, Ubuntu), Kubemetes e MTK, pg_dump, Green/Blue Deployment, Pg_upgrade,
+- AWS RDS, $3, EC2, Lambda, Performance Insights, CloudWatch, pg_hba.conf, postgresql.conf etc. KMS e Ansible, Terraform, AWX,
+- Explain Analyzed ¢ Problem-Solving, Multitasking, Abilities Analytical and Critical
+- Database development, Relational Database Management. Thinking,
+- PostgreSQL extensions (pg_cron, pg_repack, pgbadger, e DBeaver, PgAdmin, Dynatrace, psql, scripting etc.
+
+pg_stat_statements etc.)
+
+WORK EXPERIENCE
+---------------
+
+Cloud Database Administrator (PostgreSQL, MS SQL), 07/2022 - Current Cognizant Technology Solutions - Mckinney, TX
+- Taking Backup of PostgreSQL Databases running on AWS RDS using pg_dump, AWS Lambda & AWX Backup.
+- Configured MS SQL Server Option group called "Native-backup-restore" to backup MS SQL databases running on AWS RDS. and store in S3 bucket.
+- Working in collaboration with the SRE Team for database monitoring, Monitored my databases using Dynatrace, Performance Insights, Enhanced monitoring, CloudWacth and Dynatrace. Compared 2 different schemas and two different databases to find the missing tables using Pg_Admin. Installing and configuring PostgreSQL & MS SQL Databases running on AWS RDS, on-premises.
+- Configuration of pgbadger to analyze the results of load testings in order to address database issues.
+
+Stand up a production database with a snapshot of the staging environment, shared from a different AWS account.
+
+Modification of the RDS databases to enable more features like performance insights, enhanced monitoring, delete protection etc.
+Upgraded multiple PostgreSQL databases from 10.x to 12 and 13.x
+
+Homogenous migration of PostgreQL databases from on-prem to AWS RDS using pg_dump, pg_restore and psql.
+
+Assisting deployment teams by running database scripts (MDL, DDL, TCL etc.), by taking a backup of specific database or table as
+
+recommended on the Jira Tickets.
+
+Assisting deployment team with issues related to backup and restore etc.
+Worked with DEVOPS Team to address the database readiness after a new deployment.
+Troubleshooted staging & production databases and resolved issues with corruptions, queries and Database latency;
+
+Checking fragmentations, database integrity, custom database report.
+
+- memory management, thread and tasks managements, buffer management:
+
+- Configuration of PostgreSQL & MS SQL SERVER Parameter group to address specifics database problem based on the result of our investigations
+
+Proposed to the DBA a maintenance plan strategy to resolve database issues, specially for some critical production databases.
+Configured pg_cron to automate our db maintenance tasks like VACUUM ANALYZE, REINDEX, CLUSTER.
+Resolved issues with cache missed, bloat, temp_files, deadlocks, locks, frequent checkpoints, index corruption, latency due to the table
+
+size, full storage, extension not present in rsd.allow_extensions, high CPU usage etc.
+- Configured pg_ repack for full database vacuum with minimum downtime. Scheduled SQL agents to resolve issues with fragmentation & kill sleeping processes on MS SQL SERVER databases
+- Used basics Kubernetes commands to find information as per business requirement.
+
+- Providing response for all system / database issues on 24 x 7 schedule responding to critical events and situations outside normal work hours
+
+Monitored the database for Index, partitioning Memory and I/O utilization,
+
+- Connect to my RDS MS SQL SERVER using MS SQL Management studio;
+
+Used EXPLAIN and EXPLAIN ANALYZE to identify and fine tune SQL queries for performance improvements;
+
+Switched the Database from Production to Testing and Testing to Production:
+
+Prepared technical interview questions to interview with few candidates for the position of Database administrator;
+- Familiarity with Parameter store, Route 53, EBS, LastPass etc.
+
+PostgreSQL Database Administrator, 02/2019 - 05/2022 The Active Network - Remote, DE
+
+- Create LAM user accounts and role-based policies for access to AWS Postgres on Both RDS and EC2 Instances, Compared custom and default parameters group Defined AWS Security Groups which acted as virtual firewalls that controlled the traffic allowed to reach one or more AWS EC2 instances;
+- Manage the Space and Storage of Databases through various Shell Scripts scheduled in the crontab periodically in regular intervals; Performed database Refreshes and monitored replication delays;
+- Highly experienced in Configuration, Implementation and Maintenance of Log Shipping:
+
+Created new cluster and upgraded the cluster to another PostgreSQL sever:
+
+Database secutity with Row level security, search path, pg_hba.conf and postgresql.conf
+Installed and configured MTK for migration from Oracle to postgresql and EDB advance server;
+- Maintained postgresql with PgAdmin 4, Psq:
+
+Created tablespace, databases, indexes, moving data, granting of necessary privileges in posgresql and EDB advance server from 9.6 to
+12x.
+Performed backup, restore. and created databases using PgAdmin 4. pg_dump and pg_basebackup, pg_backrest.
+
+Created Tablespaces, Schemas, Users, profiles and implementing various adjustments in postgresql.conf file and granting users and
+application access through pg_hba.conf file etc:
+- Tuning autovacuum parameters to ensure up to date table stats and reclaim space consumed by dead tuples.
+
+Provided response for all system / database issues on 24 x 7 schedule responding to critical events and situations outside normal work
+
+hours:
+
+Worked with development and operations teams to tune production queries for optimal performance:
+
+- Proactive managing standby replication methodologies like Streaming replication and hot standby for disaster recovery:
+
+- Configuring monitoring tools for better performance like PEM, CloudWatch, Performance Insight, Postgresql logs.
+
+Proactive in updating the latest security patches to database, which are provided by PostgreSQL open-source community;
+
+- Configured and Database installation creating tables, schemas;
+
+Monitored the database for Index, partitioning Memory and I/O utilization
+
+Configured Enterprise Failover Manager for fast database failover, and integrate that with pg_pool-II for connection pooling and load
+
+balancing to resolve issues with locks and deadlocks.
+
+Implemented cascading replication for our databases running on EC2.
+- Used EXPLAIN and EXPLAIN ANALYZE to identify and fine tune sql queries for performance improvements.
+
+Database Administrator, 02/2018 - 01/2019 CVS Pharmacy - City, STATE
+- Maintained detailed technical documentation of database architecture and modeling as per business requirements;
+- Provided technical assistance for preparation of shell scripts for tasks automation;
+- Conducted complete analysis of database capacity and performance requirements;
+- Implemented procedures for analysis, consolidation and tuning of databases for efficiency;
+- Implemented a database replication, replication monitoring ® configured pg_ bouncer for load connection pooling
+- Upgraded databases from 9.6 to 10.x and 11.x using pg_upgrade
+- Performed database maintenance tasks like vacuum, analyze, vacuum full, reindex, cluster, create index etc.
+- Monitored using Datadog:
+- scheduled my jobs using crontab.
+
+Junior Database Administrator (MySQL & PostgreSQL), 01/2015 - 11/2017 Trader Joe's - City, STATE
+Responsible for configuring, integrating, and maintaining all Development, QA, Staging and Production PostgreSQL databases within the
+
+organization:
+
+Implement, configure, and troubleshoot database instances, replication, backup, partitions, storage, and access;
+
+Set user privileges within and outside the database environment from the pg_hba.conf:
+
+Migration of Data from Reports generated by various vendors into PostgreSQL Databases using PostgreSQL Export/Import Procedures;
+- Manage the Space and Storage of the Databases through various Shell Scripts scheduled in the crontab periodically in regular intervals;
+- Migration of Data from Reports generated by various vendors into PostgreSQL Databases using PostgreSQL Export/Import Procedures;
+- During production hours, resolved lock/deadlocks and resource contention issues;
+
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+
+pg_dump. pg_basebackup, X-TRA backup for MYSQL,
+
+Monitored my databases using solarwinds;
+
+created a MySQL and PostgreSQL Databases;
+
+- Familiarity with psql, DML, DDL, DCL etc.
+
+Performed MYSQL daily Maintenance tasks.
+
+reload/refresh the privilege or the grants tables;
+
+started, stopped and reloaded my databases.
+
+- Database security with row level security, search_path, pg_hba.conf and Postgresql conf.
+
+EDUCATION
+---------
+Certification of: PostgreSQL-12 Certified Associate, 03/2022
+
+EnterpriseDB - USA
+
+Bachelor of Science: Computer Science, 08/2014 University of Douala - Douala, Cameroon

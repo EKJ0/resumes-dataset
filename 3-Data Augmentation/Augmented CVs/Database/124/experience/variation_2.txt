@@ -1,0 +1,183 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Ten years of experience split between Technology and Army Human Resources fields. Mission-driven SharePoint Content Manager and
+Human Resources Manager with experience and expertise in personnel management with the Department of Defense (DoD). directly
+supporting military personnel, government employees, and their families. Possesses the deep understanding of HR personnel management
+business processes, process maturity, organizational culture, and organizational change management needed to employ the knowledge to
+analyze business problems and produce solutions through use of enterprise solutions such as SharePoint, CRM, and internal HR systems.
+Results-driven track record of flexibility, leadership, adaptability, organization, and technical comprehension. An established team player, but
+can also work autonomously, that excels in multitasking and maintaining multiple projects simultaneously. I look forward to employing my
+current versatile skill sets to achieving mission goals while being challenged to broaden my own knowledge and skills in a competitive
+
+environment.
+
+SKILLS
+------
+- Advanced Microsoft Office Suite Knowledge e Personnel records maintenance
+- Microsoft SharePoint © Strong problem solver
+- Microsoft Dynamics CRM © Dedicated team player
+- Database management e Human Resources Management (HRM)
+- Exceptional interpersonal skills © Detail-oriented
+
+WORK EXPERIENCE
+---------------
+
+SharePoint Content Manager - Senior Database Admin, 06/2018 - 11/2019 Lockheed Martin - City, STATE
+SharePoint Administrator responsible for the maintenance and management of three SharePoint farms.
+- Maintained and expanded SharePoint database and content to improve collaboration and productivity within the unit. Defined and optimized the database structure and record management system ensuring ease of access and data integrity.
+- Gathered requirements, designed, and developed solutions to automate organization processes to maximize efficiency. This was achieved by defining, analyzing. and learning customer business processes, developing solutions, conducting user acceptance training, completing documentation, deploying solutions, and providing maintenance as needed.
+- Deployed multiple solutions on a test farm, to include custom code and script which included use of JavaScript, jQuery, and CSS, without impacting production.
+- Utilized out of the box (OOB) workflows and built custom workflows using SharePoint Designer. Created and maintained existing InfoPath Forms and helped to transition organization from InfoPath Forms to PDF ShareForms.
+
+Redesigned site collections to improve and modernize the user experience in the 2016.
+
+Developed custom site templates in order to quickly create new, modernized sites for customers.
+Developed dashboards for power end users to help easily maintain and update their content using OOB web parts and apps.
+Regularly performed site collection cleanup, maintenance and management through content archiving and deletion to ensure content
+
+remained relevant and readily accessible.
+
+Developed and implemented effective SharePoint 2016 training for novice, intermediate, and advance courses. Provided regular training
+to users of the knowledge base in classroom, remotely, and one-on-one training settings and gathered feedback.
+
+Responsible for managing user access through use of SharePoint Groups and Active Directory (AD) security groups.
+
+Conducted site usage and analytic reports.
+
+Organized projects, tasks, and tickets through use of enterprise ticketing system and task and issues lists within SharePoint.
+
+Worked with farm administrators to troubleshoot issues that were due to back-end configuration. Communicated with the farm
+administrators to ensure correct features were enabled and all processes were correctly working. Regularly collaborated with farm
+administrators to resolve problems, assist with issues, and transfer knowledge.
+
+Collaborated with development team for customized solutions.
+
+Provided effective resolutions to issues and escalated problems with knowledgeable support and quality service.
+- Supported customers in local and remote locations.
+- Kept flexible schedule and resolved after-hours and weekend emergencies quickly and accurately.
+
+Human Resources Management CTR, 02/2011 - 11/2017 Logistics Management Engineering, Inc. - City, STATE
+Human Resources Management for the DoD. Responsible for maintaining personnel records for 295 military, 17 GS Civilian, and 77
+contractors.
+- Consulted with S-1 SGM and S-1 Chief/Adjutant to identify SharePoint 2016 requirements in order to determine the best approach to find solutions for existing problems within the section. Worked with SharePoint admin to create processes and build solutions based on business processes for S-1.
+
+- Collaborated with SharePoint admin to develop custom site templates, web parts, and workflows for transition from SharePoint 2010 to
+SharePoint 2016 for S-1 Personnel section and users.
+
+- Familiar with SharePoint migration from 2010, 2013, and 2016. Experience with software testing and Quality Assurance/Quality Control (QA/QC) during 2010 to 2016 SharePoint migration. Worked with SharePoint admin to design, develop, and test workflows before being published.
+
+Used conditional formatting to pull queries from HR systems which translate to building views in SharePoint.
+
+Researched best courses of action for customers in unique situations that required referencing regulations and policies.
+
+- Constructed lists and libraries within SharePoint 2016 for S-1 SGM and S-1 Chief/Adjutant with the deployment of the new SharePoint
+2016 migration.
+
+Created and generated reports for the command group to check for data discrepancies for military personnel, Civilians, and contractors in
+the unit. Advanced knowledge of the HR systems allowed for creation and manipulation of reports to quickly access requested
+information through specific data sets and queries.
+
+Executed Personnel Management Indicators (PMI) and provided guidance and recommendations on findings. Briefed Commander and
+Command Sergeant Major on all aspects of the PMI to include evaluations, awards, and gains/losses through Command and Staff and
+HR projection management tools.
+
+Responsible for maintaining and tracking the PERSTAT/PERSTEMPO thresholds for high OPTEMPO unit. Created quarterly reports to
+brief Commander and Command Sergeant Major on unit PERSTEMPO and analyzed trends and changes within PERSTEMPO.
+Compiled any additional reports as requested by command prior to briefing to higher headquarters or any other circumstances.
+
+Provided guidance to Soldiers, Civilians, and contractors on numerous HR related issues/policy. Actively monitored the United States
+Army Human Resources Command (HRC) for Military Personnel (MILPER) messages and All Army Activities (ALARACT). Advised
+leadership and command of changes to policies and requirements on programs, operations, and other HR issues.
+
+- Evaluations management and processing of USASOC's Total Army Performance Evaluation System (TAPES), Defense Civilian Intelligence Personnel System (DCIPS), Non-Commissioned Officer Evaluation Reports (NCOERs), and Officer Evaluation Reports (OERs). Reviewed military and Civilian evaluations for administrative content. Managed command rating scheme.
+
+Worked with Civilian Personnel Advisory Center (CPAC) to complete job analysis for recruit/fill actions. Processed Civilian awards in
+accordance with the Army Incentive Awards Program (AR 672-20) for decorations, awards, and honors.
+
+Responsible for special/incentive pay programs. Programs include Assignment Incentive Pay (AIP), Civilian Clothing Allowance (CCA),
+Flight Pay (Crewmember and NonCrewmember), Hazardous Duty Pays (Static-Line and Military Free Fall Pay), Imminent Danger Pay,
+Language Pay, Special Duty Assignment Pay (SDAP). et al. Managed special pay programs for the unit and initiated all paperwork for
+pays processing. Created pay orders at authorized levels and submitted other requests to higher headquarters for further approval.
+Ensured all personnel receiving special pays qualified for and met all requirements for pay. Terminated special pay/incentives as
+
+necessary.
+Reviewed Unit Commanders' Finance Report (UCFR) which provides unit commanders with valuable information about Soldier's pay.
+Verified Soldiers had correct pay orders against the UCFR to prevent over/underpayment of government funds. Worked directly with the
+
+Finance office to correct any discrepancies found within the report.
+Managed Soldier Personnel Readiness Program (SRP) and brought the unit's program to 100% readiness rate. Continually monitored to
+ensure that all military Service Members within the unit maintain the highest possible readiness posture for overseas deployment.
+Updated Soldier's Record for Emergency Data (DD Form 93) and the Servicemembers' Group Life Insurance (SGLI) Election certificate
+(SGLV-8286). Assisted Service Members in transitioning to SGLI Online Enrollment System (SOES) in milConnect to designate SGLI
+primary and secondary beneficiaries and make any changes to SGLI or Family Servicemembers’ Group Life Insurance (FSGLI)
+coverage.
+
+- Managed, reviewed, and submitted Civilian timesheets for Defense Civilian Pay System (DCPS) processing. Monitored timesheet data
+
+and entry on USASOC Form 1166. Maintained Civilian Tour of Duty Request on USASOC Form 1166-2. Assisted Civilians on correct
+
+time and attendance codes.
+
+Managed all Travel Orders through Orders Publication System. Responsible for processing all Request for Orders (RFOs) for 295
+
+military and 17 GS Civilians. Worked closely with the unit Executive Officer (XO), Comptroller, and Finance section to process both
+
+RFOs and TDY Orders. Generated all Travel Orders/DD 1610 once RFO was approved. Amended DD 1610s for any changes to travel
+
+arrangements. Revoked DD 1610s as necessary.
+
+- Primary Verifying Official (VO) and Issuing Official (IO) for Real-Time Automated Personnel Identification System (RAPIDS) and Defense Enrollment Eligibility Reporting System (DEERS). Verified data, entered data, and issued ID cards for 295 military members, over 650 family members, 17 GS Civilian, and 77 contractors. Verified the identity of card recipients as required by AFI 36-3026 (I) before entering applicant data in RAPIDS. Completed the annual RAPIDS certification training. Viewed and scanned legal documents prior to entry into DEERS or issuance of ID cards. Entered DoD Sponsor and family member information. Issued DoD ID Cards to military members, their family members, and other entitled persons with a DoD association. Suspended individual privileges as necessary. Generated the DD Form 1172. Used the RAPIDS workstation to issue the CAC and request certificates and then downloaded them to the CAC before issuing the card. Updated the CAC as necessary to reflect any change in the personnel category of the CAC recipient. Terminated CAC to execute revocation requests received from the Local Registration Authority (LRA) or other authorized
+
+sources.
+
+Responsible for maintaining secure (PKI) records of Soldier's Official Military Personnel File (OMPF) using the Interactive Personnel
+
+Electronic Records Management System (iPERMS). iPERMS Authorized Official role and Scan Operator role. Completed annual Cyber
+
+Awareness Training and Personally Identifiable Information (PII) training to maintain access roles in iPERMS.
+
+- Prepared, reviewed, interpreted, and analyzed a variety of data, information and reports, to include MILPER/ALARACT messages, and made recommendations to S-1 SGM and S-1 Chief/Adjutant.
+
+FEITH CME, 08/2010 - 02/2011 Logistics Management Engineering, Inc. - City, STATE
+FEITH CME for the DoD responsible for managing personnel records and converting from hard copy to electronic versions within FEITH
+Document Database System.
+- Responsible for converting records from hard copy to digital within six (6) months; completed conversion within two (2) months
+
+EDUCATION
+---------
+
+Bachelor of Science: Biology, 2009 James Madison University - Harrisonburg, VA
+- Teaching Assistant (TA) for Introduction to Biology Laboratory.
+- Member of James Madison University’s Women's Club Volleyball Team from 2005-2009
+- Served as Vice President 2007-2008
+- Served as Director of Tournaments 2008-2009
+
+CERTIFICATIONS
+--------------
+
+CompTIA Security+ Certification
+
+Joint Special Operations Command (JSOC) SharePoint Site Manager Certification DEERS/RAPIDS Verifying Official
+
+DEERS/RAPIDS Issuing Official
+
+iPERMS Authorized Official
+
+iPERMS Records Manager
+
+iPERMS Scan Operator
+
+Certified Mail Handler
+
+USA Volleyball Coaching Accreditation Program (USAV-CAP) I Certified Certified IMPACT Coach
+
+AFFILIATIONS
+
+All Ranks Association

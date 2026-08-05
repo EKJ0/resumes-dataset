@@ -1,0 +1,206 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+CORE QUALIFICATIONS
+
+- SQL Expert
+
+- Relational & Dimensional Database Design
+
+- Data Warehousing & Analytics
+
+- Business Intelligence
+
+- Java/ C/C++ Development
+
+- API Design and Specification
+
+- Agile Development Methodologies
+
+- Excellent Communicator
+
+EDUCATION
+---------
+
+University of Texas at Dallas
+Richardson, Texas + 2008
+
+Master of Science: Software Engineering
+
+Jonnson Fellowship, GAANN Fellowship. Summa Cum Laude, GPA 4.0/4.0.
+
+West Virginia University
+Morgantown, West Virginia « 1995
+
+Bachelor of Science: Electrical Engineering/Computer Engineering WVU Foundation Scholar, National
+Merit Scholar. Summa Cum Laude,
+GPA 3.98/4.0.
+
+CERTIFICATIONS AND CLEARANCES
+
+- Secret Clearance: Current as of
+Apr 2010
+
+- Top Secret/SBI Clearance with
+YF: Expired Nov 2000
+
+- Certified Scrum Master: Oct
+2010
+
+PROFILE
+-------
+
+Skilled software/database engineer with 21 years of experience in data-focused analysis and back-end
+software development, with an extensive background in database and data warehouse design, implementation, and reporting.
+
+ACCOMPLISHMENTS
+
+- Leidos: Investigated and mitigated extreme performance issues in reporting system by pre- computing and caching aggregated estimate data and pivoted budget data, resulting in a reduction in application load time from an average of five minutes to less than 20 seconds.
+
+- Leidos: Tasked with updating existing Microsoft Access-based Real Property Access Database Project (RPAD) data submission system to meet new requirements. Constructed a new, more
+flexible system using SQL Server 2008 in six weeks. Provided GSA with a complete inventory of
+real property holdings of entire Department of Defense.
+
+- Monster Government Solutions: Recognized with a $2,000 bonus for independently completing detailed analysis to alert management of critical slowdown of applicant fax documentation database.
+
+WORK EXPERIENCE
+---------------
+
+Ascensus - Database and Infrastructure Developer
+Brainerd, MN + 11/2015 - Current Lyt Project (Office of Undersecretary of Defense, Acquisition Technology & Logistics)
+
+- Integrating the functionality of the legacy Kaleidoscope project into the Department of Defense's new enterprise data architecture, Defense Acquisition Visibility Environment (DAVE) using more modern Javascript-based frameworks to offload much of the existing data transformation from the server to the browser.
+
+- Designing and developing JSON-based APIs to supply budget, unit cost, and other critical data first to the Lyt Project and eventually to other components within the DAVE environment.
+
+- Specifying a new data warehouse structure to allow the user to view and analyze significantly more data than was available in the Kaleidoscope project as well as to track how data changes over time to find anomalies and problems.
+
+Ascensus - Senior Database & Java Developer
+Philadelphia, PA + 2010 - 11/2015
+Kaleidoscope Project (Office of Undersecretary of Defense/ Acquisition, Technology, & Logistics)
+
+- Analyzed and re-architected existing SQL Server 2008 database schema for large-scale changes when its primary data source was replaced.
+
+- Developed information models and reports for analysis of budget, unit cost, and other key
+
+performance data for the 200 largest defense spending programs in the US Department of Defense,
+
+using Domo CenterView.
+
+Instituted formal source control protocols.
+
+Real Property Assessment Database Project (Business Enterprise Integration)
+
+- Analyzed, documented, and implemented changes to modernize the existing business system based on Microsoft Access databases for the collection of real property data.
+
+- Worked on annual required submission to GSA Federal Real Property Profile.
+
+- Led team of three in information modeling to implement, and document a new modern business
+system using SQL Server 2008’s enterprise data processing and native XML generation capabilities.
+
+- Submitted FY11-15 real property assets of Army, Navy, Air Force, US Army Corps of Engineers, and Washington Headquarters Service on schedule and within budget.
+
+State Of Colorado - Software Engineer
+Denver, CO + 2009 - 11/2009 Tunnel Detection Project, Raytheon UTD
+
+- Designed information model for experimental system to record, analyze, and detect underground tunnel construction in support of the U.S. Border Patrol. Coherent Multi-Array Processing (CMAP) Evaluation Project, Signal Systems Corporation (SSC)
+
+- Implemented information model for SONAR detections of submarines for the evaluation of SSC CMAP contact classification system using Matrix Laboratory (MATLAB) software with integrated lightweight JavaDB database. System automated and stored CMAP’s detection results over thousands of executions with varied parameters, allowing SSC to compute the probability of successful detection as a function of noise level, a key performance parameter for their Navy contract.
+
+Paychex - Teaching & Research Assistant
+San Diego, CA + 07/2006 - 11/2008
+Multi-Agent Visualization System (MAVs) Laboratory (MAVs Lab), University of Texas at Dallas
+
+- Taught graduate course in database development and undergraduate courses in software
+
+engineering and Java development. Set up and administered the MAVs Lab web site and eight server network.
+
+Ascensus - Software Engineer
+Atlanta, GA + 08/2004 - 07/2006 Monster Hiring Management Data Warehouse, US Department of Labor (DOL)
+
+- Worked with team of three developers to modernize existing business system. Created custom reporting system for analyzing trends in DOL applicants and applications. Built business intelligence
+application using ETL (extract / transform / load) development with SQL Server 2000 Data Transform Services and MicroStrategy.
+
+Monster Hiring Management Software Development, Multiple Federal Agencies
+
+- Assessed risks, identified defects, communicated discoveries with management, and modernized system. Corrected software defects, data inconsistencies, and query issues in Enterprise Hiring Management application used by more than 50% of federal government agencies.
+
+Ascensus - Financial Assistance Clerk
+Chicago, IL + 09/2003 - 07/2004
+
+- Managed disbursement of federal HOPWA assistance to save patients from eviction or utility shut- off.
+
+Zenimax Media, Inc. - Administrative Temp
+Hunt Valley, MD + 05/2003 - 09/2003
+
+- Created Access databases to track patients’ bodywork appointments and library usage.
+
+Tutorfind, Inc - Tutor
+City, STATE + 03/2003 - 08/2006
+
+- Tutored secondary and college students in physics, SAT Prep, and mathematics from algebra through calculus.
+
+Edge Technologies - Software Engineer III
+City, STATE +» 07/2000 - 02/2001
+
+- Developed Java code for enPortal web application allowing users to build dashboards from multiple HTML sources.
+
+Veridian MRJ Technology Solutions - Software Engineer
+City, STATE + 09/1999 - 07/2000
+
+- Developed C++ code for AIM, a prototype system for scheduling military intelligence and reconnaissance resources.
+
+29th Infantry Virginia Army National Guard - Personnel Records Specialist
+City, STATE + 07/1998 - 2000
+
+- Developed Excel pivot-table system to track casualties and requisition replacements during battle simulation.
+
+Orincon Corporation - Engineer/Programmer II
+City, STATE + 03/1998 - 09/1999
+
+- Coded enhancements to RDSIP software for passive SONAR signal analysis.
+
+NextStrat, Inc - Software Engineer
+City, STATE + 04/1997 - 02/1998
+
+- Implemented data collection software for monitoring telecommunication switches for the Hekimian Corporation.
+
+Lockheed Martin Federal Systems - Associate Programmer
+City, STATE + 05/1995 - 04/1997
+
+- Developed software testbed for Special Information Programs to evaluate correctness of control algorithms. (TS/SCI)
+
+SKILLS
+------
+
+- Languages: Java, C/C++, Matlab, Lisp, Ada, FORTRAN
+- Databases: SQL Server, PostgreSQL, MongoDB, Microsoft Access, Interbase/Firebird
+- Operating Systems: Windows, Mac OS/X, Linux, VMWare
+
+INTERESTS
+---------
+
+Activities
+
+- Reading Buccaneers Drum & Bugle Corps, Reading, PA: member 2001 and 2003-2006; world
+champions 2005 & 2006
+
+- Arlington Public Schools, Arlington, VA: Volunteer tutor and computer consultant, 2003
+- Syracuse Brigadiers Drum & Bugle Corps, Syracuse, NY: member 2002; world champions 2002
+
+ADDITIONAL INFORMATION
+
+Honors & Awards
+
+- UT Dallas Jonsson Fellowship: two years’ graduate tuition and fees with research assistantship
+
+- GAANN Fellowship: federal scholarship for PhD students interested in teaching, covering three years’ tuition and fees with teaching assistantship
+
+- WVU Foundation Scholarship: four years’ undergraduate tuition, fees, and living expenses

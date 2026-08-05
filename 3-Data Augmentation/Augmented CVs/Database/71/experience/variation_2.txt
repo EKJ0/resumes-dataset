@@ -1,0 +1,150 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFILE
+-------
+
+Value-driven technology project manager, specializing in complex data-driven business solutions.
+
+EDUCATION
+---------
+
+Bachelor of Science: Business, Information Technology Management, 2013
+
+Western Governors University
+
+CERTIFICATIONS
+--------------
+
+Professional Scrum Master
+
+CompTIA Project+ CIW Web Foundations Associate CORE QUALIFICATIONS
+- Project Management © Strategic Planning
+- Business Analysis © Product Management
+- Scrum/Kanban © Process Improvement
+- Agile © Stakeholder Management
+
+SKILLS
+------
+
+- Methodologies: Scrum, PMBOK, IIBA BOK, Agile
+
+- Languages/Sofware: MS Project, MS Office, MS Sharepoint, SalesForce, Atlassian Confluence, Atlassian JIRA, Clarizen, Remedy AR, FogBugz, Plateau LMS, Merced, WordPress, HTML, Wiki markup
+
+Databases/Operating Systems: Windows, Mac OS, Oracle, Greenplum
+
+Industries: Healthcare business intelligence, healthcare software, wireless telecommunications
+
+WORK EXPERIENCE
+---------------
+
+ISS Project Manager - Database Development, 2012 - Current Lpl Financial Services - Fairport, NY
+Program manager for a large queue of integrated data warehouse projects for client-facing healthcare business intelligence systems for various
+data sets and logic implementation, including:
+- Medical encounter
+- Financial accounting
+- Contact center
+
+- Foundation/Donor
+
+Act as a liaison between technical personnel and client-facing personnel by gathering and managing requirements and defining project scope.
+
+Facilitate technical discovery and start up meetings to communicate project objectives, requirements, and process orientation.
+
+Develop scope statements and work breakdown structures for mid to large size projects.
+
+Create, maintain, and distribute program plan status reports and host conference calls in order to communicate scope, timeline, and stakeholder
+
+engagement.
+Facilitate communication among internal and external stakeholders:
+- Client Executives: public relations/marketing, planning/forecasting, finance, and physician relations
+- Client IT: Directors, Data Analysts, Project Managers
+- Internal Client Development: Directors, Vice Presidents, Group Vice Presidents, Client Services Coordinators
+- Internal Marketing: Strategic Marketing Managers, Marketing Analysts, Marketing Coordinators
+- Internal IT: Database Developers,Database Maintenance Specialists, Product Managers Manage and allocate developer resources as appropriate. Prioritize case backlog, monitor, and control assigned work to ensure timely completion.
+Implementation Specialist, 11/2010 - 2012 Pennymac - Roseville, CA
+Project manager for client implementations of web-based services for pharmacy operations products, responsible for 14 concurrent client
+projects at a time.
+Completed 40 implementation projects within 9 months, representing nearly $250,000 in revenue.
+Collaborate with clients on their workflows to achieve maximum value from the product purchased.
+Provide client training and guidance on software configuration.
+Communicate project plan updates to clients through weekly status reports.
+Document project dates, communications, and events in customer relationship manager software (SalesForce).
+Manage project timelines, anticipate risks, and develop mitigation strategies as needed.
+Accurately forecast completion timelines on a monthly basis to ensure projects are falling within the resourced timeline.
+Internal project manager as directed:
+.
+- Served as project team member for internally implementing Clarizen project management software
+- Process owner for managing team’s client-facing documentation
+- Manager of team policy/procedure content through Atlassian Confluence (wiki editor)
+- Team advocate for SalesForce development
+Owner/Webmaster, 06/2009 - 11/2010 Newell Brands - Sauk Rapids, MN
+
+Created website concept with a focus on learning musicianship, songwriting, and music production.
+
+Created and managed original content, using WordPress as a publishing platform.
+
+Developed free downloadable music course as incentive for e-mail list sign up.
+
+Performed search engine keyword research and content development to draw in visitors based on targeted searches.
+
+Utilized social media such as Facebook, Twitter, MySpace, and YouTube to promote content.
+
+Utilized blogs, forums, and other websites for marketing through back linking to increase site authority and page ranking in search engines.
+
+Performed analytics and market research to increase website traffic.
+
+Strategically placed affiliate offers within relevant content to generate revenue.
+
+Business Support Analyst, 10/2008 - 06/2009
+
+T-Mobile - City, STATE
+
+Designed and managed requirements gathering processes to gain feedback from employees and customers to enhance service experience.
+
+Reviewed and documented process breaks that caused employee and customer dissatisfaction.
+
+Reduced employee submission initial response time to 3 business days from an average of 2 weeks by designing feedback processes in
+Microsoft SharePoint.
+
+Point of contact for operations systems implementation and upgrades
+
+Partnered with senior business analysts, project managers, and other technical process owners to ensure coherent, efficient, and consistent
+experiences for customers and service representatives.
+
+Managed content of local intranet to implement and communicate new initiatives, processes, and system changes.
+
+Served as a strategy resource for management to improve team performance.
+
+Monitored recorded calls, processes, and other customer interaction to deliver performance feedback to management.
+
+Administrative Assistant - Learning & Development, 03/2004 - 10/2008
+
+T-Mobile - City, STATE
+
+Managed logistics of site training department to ensure objectives were met.
+
+Managed training life cycles of new hire and continuing education courses for a staff of 10 trainers and 6 training assistants.
+
+Managed and designed tracking and calculation process for national incentive program consisting of 24 training departments across the country
+
+to ensure appropriate rewards were delivered accurately and fairly.
+
+Site administrator for web learning management system (Plateau) to ensure leadership training was tracked properly.
+
+Maintained resource planning schedule based on training and staffing needs.
+
+Analyzed data using web-based statistics system (Merced) and MS Excel to provide performance updates to reports, presentations, and strategic
+plans.
+
+Senior Customer Service Representative, 02/2002 - 03/2004 T-Mobile - City, STATE
+
+Served as advanced support for teams of 15-20 service representatives.
+Responsible for resolving complex and escalated customer issues.
+
+Provided performance feedback to individual team members.
+
+Audited credit and adjustment performance.

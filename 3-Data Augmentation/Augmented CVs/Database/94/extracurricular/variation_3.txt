@@ -1,0 +1,271 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Multi-talented Oracle, PostgreSQL and MYSQL Database Administrator with over nine years experience in designing, testing and
+coding database solutions in various environments. Proven skills in security management, database maintenance and establishing
+backup and recovery processes to safeguard data. Over the years, I have successfully configured and managed Oracle databases 10g.
+11gR1/R2 and 12C multitenant databases. My experience includes but is not limited to Postgres ,Replication, Database Security,
+Memory Management, Patch Installation, Migration, Upgrades, Backup and Recovery, Cloning, and performance tuning. I have
+supported multiple environments spanning Finance, IT, Insurance and Tech sectors. I have great communication skills which grant
+me the ability to work both as an individual contributor and as a member of a team.
+
+SKILLS
+------
+
+OPERATING SYSTEMS: Red Hat Linux, SOLARIS, MS-
+
+Databases, RDBMS
+
+DOS, NT, RHEL 5.x, Windows 2012 RDBMS: Oracle 12c/11g/ e Database, Read 10g SOFTWARE/ * Database design, Red Hat Linux
+- Databases: Oracle 12c, 19c 18c 11gR2, 10gR2 RAC, SQL Server Delivery, SAN
+
+2005, 2008 and 2012 PostgreSQL SQL
+
+APPLICATIONS/ TOOLS: DBCA, DBUA, Recovery Manager
+
+(RMAN), Oracle Enterprise Manager (OEM), OEM Grid
+
+Control, Oracle Data Guard, Real Application Clusters (RAC), Features, Sql
+
+ASM, Sql Navigator, TOAD, Data Pump (expdp, impdp), Flash, SQL server
+
+SRVCTL, SQL ¢ HTML, SQL Loader
+
+Scripting: Unix Shell Scripts, Python
+
+- TUNING TOOLS: SQL TRACE, TKPROF, EXPLAIN PLAN, STATSPACK, AWR, and ADDM 2
+
+- WEB TOOLS: HTML, XML
+
+Upgrade/Migration of Databases from Oracle 9i to 10g, Cross
+
+Disaster Recovery, Servers
+
+Erwin, Scripts XML, Sun Solaris
+
+Managing, Statistics Windows, Tables Windows XP, TOAD Migration, Translating
+
+Navigator, Type
+
+NAS, Upgrading
+
+OPERATING SYSTEMS, Upgrade Oracle 9, Utilities
+
+Oracle database
+
+platform migration from different platforms such as Oracle, windows and PostgreSQL
+
+- Experienced in using 10g and 11g features Data pump, Flash- Back Recovery, AWR, ASM, ADDM, Grid Control Monitoring and Recycle Bin.
+
+Oracle database management
+
+Expert in SQL Loader, export/import and data pump to load
+
+Database updating data into tables.
+
+Upgraded Oracle 10g/12C to the Oracle 11g R2 database
+
+Database creation
+
+SQL database
+
+version.
+
+Implemented the Golden Gate Replication
+
+Oracle Database capacity planning, space management, storage allocation and different type of storage structure
+(SAN/NAS)
+
+Data guard Broker configuration and Managing Physical
+
+Standby databases using Oracle Data Guard Broker.
+- Golden Gate replication implementation.
+- Golden Gate Unidirectional and Bidirectional replication.
+- AIX, ORACLE, VMS
+- ASM, Oracle Enterprise Manager, Windows Server
+- Backup, DB
+- C, Oracle Database
+- Capacity planning, PL/SQL
+- Client, Organizing
+- Clients, Peak
+- Data modeling, PostgreSQL
+- Data Warehouse, Problem solving skills
+
+WORK EXPERIENCE
+---------------
+
+Database Administrator, 09/2020 to Current Cognizant Technology Solutions - Scranton, PA
+- Implement backup and recovery procedures using (RMAN) for Oracle databases and test regularly in conjunction with Operations.
+- Upgraded database in DEV/PROD databases from 11.2.0.3 to 12.1.0.2 so that business applications can take advantage of the newly enhanced oracle features in 12c.
+
+Implement backup and recovery procedures using (RMAN) for Oracle databases and test regularly in conjunction with
+Operations.
+
+Involved in the installation, configuration and extended support to Oracle 11g, 10g two Node RAC (Real Application Cluster)
+with ASM file system on AIX platform.
+
+Performed Database upgrade from Oracle 9i (9.2.0.7) to Oracle 10g (10.2.0.5) and to Oracle 11g (11.1.0.7) RAC database.
+
+- Handle all Client Requests, work closely with Clients for New Projects from Initiation to Production cutover Identify cost saving
+
+opportunities & implement innovative DB solutions for clients (collaborate with Infrastructure Delivery team as needed).
+Involved with installation and maintenance of ORACLE 11g RAC/oracle 12cRAC and Standby databases (Oracle Data Guard) for
+High Availability and Disaster Recovery purpose.
+
+- Good knowledge on all incident, change, problem management process & compliance process.
+
+Responsible for installing, upgrading and configuring the Oracle environment by creating databases, database backup and
+recovery, monitoring and optimizing database performance.
+
+- Superior communication, presentation, analytical and problem-solving skills.
+
+Work well with all levels of business.
+
+Deep understanding about Exadata specified features such as Smart Scan, HCC Hybrid Columnar Compression, Flash Cache,
+
+etc.
+
+- Identified and reduced/ eliminated non-idle wait events such as scattered file read, sequential file read wait event, log file completion, in queue, and buffer latch waits.
+
+- 24X7 support for all the production and development databases.
+
+- Fixed malfunctions through algorithmic solutions aimed at origins of problematic coding architecture.
+
+- Managed project parameters and personnel with deliberation and timeliness to follow rigid organizational deadlines.
+
+Database Administrator, 08/2018 to 08/2020 Cognizant Technology Solutions - Sleepy Hollow, NY
+- Implement backup and recovery procedures using (RMAN) for Oracle databases and test regularly in conjunction with Operations.
+- Upgraded database in DEV/PROD databases from 11.2.0.3 to 12.1.0.2 so that business applications can take advantage of the newly enhanced oracle features in 12c.
+
+Implement backup and recovery procedures using (RMAN) for Oracle databases and test regularly in conjunction with
+Operations.
+
+Involved in the installation, configuration and extended support to Oracle 11g, 10g two Node RAC (Real Application Cluster)
+with ASM file system on AIX platform.
+
+Performed Database upgrade from Oracle 9i (9.2.0.7) to Oracle 10g (10.2.0.5) and to Oracle 11g (11.1.0.7) RAC database.
+
+- Handle all Client Requests, Work closely with Clients for New Projects from Initiation to Production cutover Identify cost saving
+
+opportunities & implement innovative DB solutions for clients (collaborate with Infrastructure Delivery team as needed).
+Involved with installation and maintenance of ORACLE 11g RAC/oracle 12cRAC and Standby databases (Oracle Data Guard) for
+High Availability and Disaster Recovery purpose.
+
+- Good knowledge on all incident, change, problem management process & compliance process.
+
+Responsible for installing, upgrading and configuring the Oracle environment by creating databases, database backup and
+recovery, monitoring and optimizing database performance.
+
+- Superior communication, presentation, analytical and problem solving skills.
+
+Work well with all levels of business.
+
+- Deep understanding about Exadata specified features such as Smart Scan, HCC Hybrid Columnar Compression, Flash Cache,
+
+etc.
+
+- Identified and reduced/ eliminated non-idle wait events such as scattered file read, sequential file read wait event, log file completion, in queue, and buffer latch waits.
+
+- 24X7 support for all the production and development databases.
+
+- Defined database design specifications based upon project requirements.
+
+- Assessed customer needs and goals through communication and system evaluations to modify existing databases for
+
+personalized customization.
+
+Oracle Database Administrator, 02/2016 to 07/2018 Cognizant Technology Solutions - South Deerfield, MA
+- Utilized Grid Control to administer multi-node RAC database also managed redo and undo in the RAC environment.
+- Load balancing of RAC instances.
+- Monitoring space, wait events, locks and long operations running on the database.
+- Implemented RAC databases and ASM, Toad.
+- Logical and physical data modeling using Erwin tool and Demonstrated experience translating logical models into physical models, Database design in a multi-terabyte Data Warehouse environment.
+- Tuning Experience - AWR, ADDM, ASH, SQL Tuning Advisors, STATSPACK, EXPLAIN PLAN, SQL Trace with TKPROF, Toad.
+- Monitoring the database for growth and added space to the table spaces as per demand.
+- Generating AWR/stats pack reports on a regular basis to identify the database performance at peak load.
+- Tuning the SQL statement by analyzing the explain plan and ADDM reports.
+
+System Administrator, 10/2016 to 01/2018 Company Name - City, State
+- Set up user accounts, permissions and passwords and defined network policies and procedures.
+- Set up, optimized and managed network equipment.
+- Determined and alleviated hardware, software and network issues.
+- Orchestrated and oversaw upgrades to system hardware and software.
+- Researched, recommended, configured and supported hardware and software for multiple departments.
+- Supported, configured, maintained and upgraded customer networks and in-house servers.
+- Managed network-related projects from concept to implementation.
+- Delivered reliable support for server-class systems.
+- Assessed latest innovations to recommend and adopt cost-effective, useful solutions.
+- Managed day-to-day storage equipment administration to promote optimal system asset application.
+- Oversaw storage management, data migration, backups and drive replacements.
+
+Oracle Database Administrator, 02/2014 to 01/2016 Company Name - City, State
+- Experience on working with data guard physical/logical standby databases.
+- Applying upgrade patch, maintenance and interim (opatch) patches on all the databases.
+- Expert in Performance Tuning i.e.
+- Tuning applications, shared pool, I/O distribution, rollback segments, buffer cache, redo mechanisms.
+- Expertise in performance-tuning, SQL tuning services with EXPLAINS PLAN, TKPROF, STATSPACK, SQL TRACE, AWR, ADDM to collect and maintain performance statistics and improve the database performance. Refreshing Dev and Test instances with data from Production on a regular basis.
+- Used Data Pump for export and import.
+
+Wrote scripts for Backup of databases, maintenance of archive logs for databases.
+- Streamlined backup procedures and implemented RMAN for backup and disaster recovery. Database Refreshing / Replication from production to testing using Exp/Imp.
+
+Created logical and physical design installed and upgraded databases.
+
+Installed and configured Oracle 11g database on a test server using Oracle standard procedures and OFA, for performance
+testing and future 10g production implementation.
+
+- Environment: Oracle 10g/11g RAC VMS, Sun Solaris, Windows Server 2003, Red Hat Linux, TOAD, RMAN, SQL server, OEM. Successfully installed and configured Oracle 11.2.0.3, Oracle 12.1.0.2 databases on AIX platforms.
+
+Monitored different databases and application servers using Oracle Enterprise Manager (OEM) 10g Grid Control.
+
+Installed ASM environment and migrated databases from NON-ASM to ASM.
+
+Performed SQL and PL/SQL tuning, oracle contention and monitored production database using automatic workload repository
+(AWR), automatic database diagnostic monitor (ADDM) and Active Session History (ASH).
+
+Database refreshes using expdp, impdp, RMAN Duplicate and cloning.
+
+- Experienced in cloning the databases using HOT and COLD backups.
+
+Used RMAN Duplicate and HOT/COLD backups to migrate the data from 11.1.0.7 to 11.2.0.3.
+
+24 X 7 Production & Development database support and administration.
+
+- Implementing Datapump, conventional export/import utility of Oracle 11g, 10g for re-organizing Databases/Schemas/Tables to
+
+improve the performance.
+
+Used import/export utilities for cloning/migration of small sized databases and Datapump import/export to move data between
+9i and 10g/11g environments.
+
+Database monitoring/maintenance, replication process and performance tuning are done using OEM (Oracle Enterprise
+Manager).
+
+Applying upgrade patch, maintenance and interim (opatch) patches on all the databases.
+
+Performed full & incremental backup (cumulative and differential) using RMAN and implemented recovery strategies.
+Refreshed/cloned databases using RMAN utility.
+Successful in applying RDBMS patches, security patches for improving the security and functionality of the databases.
+
+Education and Training
+Bachelor of Science: Computer Information System, 05/2018
+
+Bowie State University - Bowie, MD
+
+High School Diploma: 05/2013 Eleanor Roosevelt High School - Greenbelt, MD
+
+CERTIFICATIONS
+--------------
+
+AWS Solutions Architect
+
+Sequel Query Language Oracle Certified Associate
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

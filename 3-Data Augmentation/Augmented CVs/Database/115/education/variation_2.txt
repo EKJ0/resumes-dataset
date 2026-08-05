@@ -1,0 +1,238 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Driven Database Architect with [Number] years of experience in full lifecycle development. Goal-oriented team player succeeds
+working with various colleagues and clients by maintaining communication. Motivated with keen analytical, problem-solving and
+
+task management abilities.
+
+SKILLS
+------
+
+- Database Optimization
+
+Advanced Excel Spreadsheet Functions Korn Shell Integrity Checks
+
+- Corporate Accounting
+- SQL Server Integration Services (SSIS)
+- Database Coordination
+
+Application and Server Monitoring
+
+- Linux Environments Client Information Database Systems
+
+- Database Mirroring * Coding Data
+- Data Structures ¢ HP Unix
+- Data Synchronization ¢ Architecture Improvements
+
+® Oracle Database Administration (DBA) © Infrastructure Solutions
+
+- Database Testing Software * Client Correspondence
+
+- Oracle Enterprise Manager * Security Recommendations
+- PERL Scripting e Disaster Recovery Design
+
+- Administering Databases * Recovery Techniques
+
+- Data Encryption SQL Transactional Replications
+
+- Client Requirements Team Meetings
+
+Crash Recoveries
+
+- Database Schemas
+
+- Data Testing
+
+Continuous Improvement
+
+- IBM DB2 * Continuous Integration Software
+- Database Cloning ¢ Database Oversight
+- Database Support ¢ Requirements Specifications
+
+- IBM AIX Standard Operating Procedures Proficient
+
+- Microsoft SQL Server Reporting Services Database Design and Management
+
+- Code Fixes ¢ Warehousing Environments
+
+Event Service
+
+Troubleshooting and Modifications
+
+Data Imports
+
+Standard Operating Procedure Development
+
+- Training Junior Team Members
+
+- Customer Needs Assessments
+
+- Database Consolidation
+
+- Technical Application Support
+
+- Query Execution
+
+WORK EXPERIENCE
+---------------
+
+Senior Database Administrator Solute - - Dahlgren, VA
+- Tested programs and databases to identify issues and make necessary modifications.
+- Set up and controlled user profiles and access levels for each database segment to protect important data.
+- Modified existing databases to meet unique needs and goals determined during initial evaluation and planning process.
+- Created scripts and processes for data integration and maintenance.
+- Wrote and maintained technical and functional specifications to document database intentions and requirements.
+- Created and implemented database designs and data models.
+- Coordinated with project management staff on database development timelines and project scope.
+- Planned and implemented security measures to safeguard vital business data.
+- Authored and coded logical and physical database descriptions.
+- Designed and developed [Type] and analytical data structures.
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+- Installed, upgraded, configured and tuned [Type], [Type] and [Type] systems and all associated middleware in LINUX and Windows environments.
+- Managed systems and infrastructures by defining hardware requirements and planning storage capacity for [Type], [Type] and [Type] databases.
+- Eliminated downtime by accurately implementing [Type] database.
+- Implemented BI solution framework for end-to-end business intelligence projects.
+- Developed, updated and organized [Software] databases to handle customer and [Type] data.
+- Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.
+
+- Carried out day-day-day duties accurately and efficiently.
+
+Cloud Security Solution Architect Rockwell Automation, Inc. - Alpharetta, GA
+
+- Interfaced directly with customers, stakeholders and end-users regarding capability architectures, requirements use cases and stories to derive, develop and decompose next-cycle updates and specifications.
+
+- Provided solution designs to meet system strategies, capabilities and technologies and to respond to current and future business requirements.
+
+- Developed specifications, drawings and engineering artifacts and reports.
+
+- Collaborated with development and operations teams to develop practical automation solutions and custom modules.
+
+- Provided architectural leadership and guidance to technical teams to deliver robust, highly scalable and cost-effective solutions.
+
+- Defined cloud architecture for both hybrid and non-hybrid cloud solutions.
+
+- Researched and understood emerging technologies and end-user needs.
+
+- Identified and remediated single points of failure and security risks.
+
+- Developed and documented system security authorization boundaries for cloud-based solutions and client applications within cloud service.
+
+- Partnered closely with technical stakeholders to implement security, operational, compliance and privacy-related controls as part of cloud blueprints.
+
+- Maintained compliance with cybersecurity regulations and measures and tracked, assessed, integrated and reported on modernization and migration processes.
+
+- Displayed sound understanding of standard networking protocols, virtual networks and load balancing.
+
+- Recommended design changes to production systems in response to changing business process, capacity, risks and performance requirements.
+
+Installed, configured, tested and maintained operating systems, application software and system management tools.
+
+- Worked closely with customers, internal staff and other stakeholders to determine planning, implementation and integration of system-oriented projects.
+
+- Participated in system development life cycle from requirements analysis through system implementation.
+
+- Provided 2nd and 3rd level technical support and troubleshooting to internal and external clients.
+
+- Monitored and tested application performance to identify potential bottlenecks, develop solutions, and collaborate with developers on solution implementation.
+
+- Managed use of various types of databases and configured, installed and upgraded new ones.
+
+- Managed and monitored installed systems for highest level of availability.
+
+- Managed installation, upgrade and deployment projects and provided on-site direction for network engineers.
+
+- Wrote and maintained custom scripts to increase system efficiency and performance time.
+
+- Built and maintained network infrastructure consisting of Windows, Linux and virtual products.
+
+- Oversaw development and maintenance of organization computer systems and intranet.
+
+- Defined enterprise processes and best practices and tailored enterprise processes for applications.
+
+- Designed and implemented system security and data assurance.
+
+- Resolved issues related to operational components for LAN, WAN and voice systems.
+
+Cloud Solution Architect, 03/2022 to Current Optimum Tech - City, STATE
+
+- Developed specifications, drawings and engineering artifacts and reports.
+
+- Interfaced directly with customers, stakeholders and end-users regarding capability architectures, requirements use cases and stories to derive, develop and decompose next-cycle updates and specifications.
+
+- Provided solution designs to meet system strategies, capabilities and technologies and to respond to current and future business requirements.
+
+- Defined cloud architecture for both hybrid and non-hybrid cloud solutions.
+
+- Identified and remediated single points of failure and security risks.
+
+- Collaborated with development and operations teams to develop practical automation solutions and custom modules.
+
+- Provided architectural leadership and guidance to technical teams to deliver robust, highly scalable and cost-effective solutions.
+
+- Researched and understood emerging technologies and end-user needs.
+
+- Developed and documented system security authorization boundaries for cloud-based solutions and client applications within cloud service.
+
+- Maintained compliance with cybersecurity regulations and measures and tracked, assessed, integrated and reported on modernization and migration processes.
+
+- Recommended design changes to production systems in response to changing business process, capacity, risks and performance requirements.
+
+- Partnered closely with technical stakeholders to implement security, operational, compliance and privacy-related controls as part of cloud blueprints.
+
+- Installed, configured, tested and maintained operating systems, application software and system management tools.
+
+- Displayed sound understanding of standard networking protocols, virtual networks and load balancing.
+
+- Worked closely with customers, internal staff and other stakeholders to determine planning, implementation and integration of system-oriented projects.
+
+- Participated in system development life cycle from requirements analysis through system implementation.
+
+- Provided 2nd and 3rd level technical support and troubleshooting to internal and external clients.
+
+- Monitored and tested application performance to identify potential bottlenecks, develop solutions, and collaborate with developers on solution implementation.
+
+- Managed installation, upgrade and deployment projects and provided on-site direction for network engineers.
+
+- Managed and monitored installed systems for highest level of availability.
+
+- Wrote and maintained custom scripts to increase system efficiency and performance time.
+
+- Resolved issues related to operational components for LAN, WAN and voice systems.
+
+- Designed and implemented system security and data assurance.
+
+- Defined enterprise processes and best practices and tailored enterprise processes for applications.
+
+- Built and maintained network infrastructure consisting of Windows, Linux and virtual products.
+
+- Oversaw development and maintenance of organization computer systems and intranet.
+
+Data Architect | Engineer, 04/2022 to 04/2022 AT&T - City, STATE
+- Conducted research to test and analyze feasibility, design, operation and performance of equipment, components and systems.
+- Read and interpreted blueprints, technical drawings, schematics and computer-generated reports.
+- Prepared cost estimates, schedules and project specifications for proposals.
+- Participated in formal internal design reviews of proposed products and components, providing input on potential technical improvements.
+- Reviewed and checked technical drawings by architectural technicians, CAD technicians and drafters.
+- Developed work plans for various personnel roles, designing to suit required competencies and technical goals of ongoing efforts.
+- Drafted and captured technical schematics for use in project planning and execution.
+- Identified, analyzed and resolved infrastructure vulnerabilities and application deployment issues.
+- Used metrics to monitor application and infrastructure performance.
+- Reviewed existing systems and made recommendations for improvements.
+- Provided technical leadership and delivered innovative products and services to address customer specific requirements.
+- Implemented necessary controls and procedures to protect information system assets from intentional or inadvertent modification, disclosure or destruction.
+- Supported data center power and cooling infrastructure and consistently applied critical facility operational best practices.
+
+EDUCATION
+---------
+
+MBA: Project Management, 01/2016 University of Michigan - Atlanta, GA
+- Dean's List [Semester and Year]
+- Honor Roll [Semester and Year]
+
+Bachelor of Science: Computer Information System, 04/2014 DeVry University - Downers Grove, IL
+- Dean's List [Semester and Year]

@@ -1,0 +1,200 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Certified Microsoft SQL Server database administrator (DBA) with five years of professional experience that sustains and develops
+
+different business systems in using Microsoft technologies. Versatile engagements in development, testing and production
+
+environment with overwhelming successes in accomplishing individual and team projects, is seeking for Database Administrator
+
+Position.
+
+SKILLS
+------
+
+- Backup/Restore T-SQL Scripting, PowerShell, CMD
+
+- Database Performance tuning Cloud computing Azure (IaaS)
+
+- Design and implement SQL Jobs. Create Databases and Database Objects
+- Database Refresh Install/upgrade/Migration SQL Server
+
+- Database High availability Managing database security (login,
+
+user)
+
+- SQLServer 2008
+
+- 2012/2014, 2016, 2017, 2019
+
+- Reporting Tools: Excel 2007, SSRS 2008/2012, Integration
+Services: SSIS 2008/2012/2016
+
+- Operating Systems: Windows Server 2008 2012, 2016, Linux
+
+Programming Languages: T-SQL, PowerShell (PowerShell)
+- Third-Party Tools: Idera, Jira,Salesforce, service now
+- Ad, Scripts
+- Automation, Scripting
+- Backup, Shipping
+- Capacity planning, SLA
+- Clustering, MSSQL
+- Database, SQL
+- Databases, SOL Server
+- Designing, SQLServer
+- Disaster Recovery, Statistics
+
+- Documentation, T-SQL
+
+WORK EXPERIENCE
+---------------
+
+SQL Database Administrator, 10/2020 to Current Accenture Contractor Jobs - Havre De Grace, MD
+
+Email, Troubleshoot E-mail, Troubleshooting Features, Upgrade Linux, Validation Managing
+
+Meetings
+
+Access
+
+Excel
+
+Windows
+
+Window
+
+Migration
+
+Network
+
+Os
+
+Operating Systems DBA
+
+DB
+
+Processes Programming Reporting
+
+Servers
+
+- Ensure Database are performing within their expected performance baselines.
+- Monitor and schedule database backups per Operational Guidelines.
+
+- Proactively monitor and action DB alerts.
+
+- Configured and maintain database High Availability Features (Failover Clustering, Replication, Always on Availability group).
+
+- Designing, building, and maintenance of cloud environments in Azure, utilize IaaS, Pass, and SaaS Cloud Service model in
+
+Microsoft Azure.
+
+- Assist team with Migration from on-premises to on Azure, IaaS.
+
+- Managing SQL Server Databases both on-prem and Azure using (IaaS) for production environment.
+
+- Collaborate with other architecture teams ie.
+
+- Applications, Network, Database, Infrastructure, Security, etc.
+
+- Perform ad-hoc backups and restores.
+
+- Sanitize data before handing over the temporary restores.
+
+- Restore backups from Production systems periodically and validate RPO and RTO SLA’s are met.
+
+- Maintain and administer DB access for users and applications.
+
+- Revoke unused access periodically.
+
+- Monitor DB growth pattern and provide inputs for capacity planning.
+
+- Excellent in Performance Tuning including monitoring, troubleshooting, and optimizing performance of the databases as well as
+
+high availability service.
+- 24X 7 Production Database on Call Support.
+
+SQL Database Administrator, 11/2016 to 10/2020 Accenture Contractor Jobs - Hines, IL
+
+- Every day Checks OS Events Logs and SQL Server Logs for unusual events,.
+
+- Verifying that all scheduled jobs have run successfully.
+
+- Regularly monitor and identify blocking issues, disk space usage,.
+
+- Created SQL Server alerts to notify the potential problems and have sent an e-mail to the operators.
+
+- Regularly restoring backups to test server in order to verify that I can restore them.
+- Performed Always on High Availability Group on Window failover cluster failover window in MSSQL server.
+
+- Used DBCC to check and manage database consistency, index fragmentation, and statistics.
+
+- Wrote T-SQL, Stored-Procedures and Functions, triggers.
+
+- Work with vendors in evaluating and implementing new technologies.
+
+- Maintain SQL Servers in a Clustered Environment, including initial installation.
+
+- Assisted SQL developers to optimize SQL queries create Stored Procedures and Triggers.
+
+- Created and Managed users, roles, schemas security at objects level.
+- Automated Database tasks (Created jobs, alerts, and schedules for database maintenance tasks).
+- Deployed Databases in Test, Dev, and to the Production environment.
+
+- Participate in on-call rotation, Attended daily, weekly, and release planning meetings.
+
+- Identified bottlenecks related to database, query, and server performance issues from slow running.
+- Resolve deadlocks, blocking/locking conflicts stemming from high resource utilization.
+- Troubleshoot application connectivity issues in availability groups.
+
+Database Administrator, 04/2015 to 10/2016 Northstar Financial Services Group Llc - Bothell, WA
+- Configured and maintained Log Shipping.
+
+- Follow Microsoft best practices for configuring and operating SQL Server.
+
+- Properly maintain Backup and Recovery methods.
+
+- Support SQL Database Operational of Developers and Business users.
+- Configured and maintain High Availability (HA) and Disaster Recovery (DR) options for MSSQL Server.
+
+- Implementing automation of reoccurring DBA tasks.
+
+- Good communication and documentation skills for processes and procedures.
+
+- Knowledgeable of Performance tuning at the server and SQL Server database and Query level.
+
+- Provide database production support of critical systems including backup recovery.
+
+- Designed and Developed SQL scripts to validate data.
+- Prepared Test data for various validation rules check.
+- Extensively used SQL to test backend functionality.
+
+- Troubleshooting various problems that arise in a day to day work and Fix the issue monitoring.
+
+- SQL Server Error logs and checking email Alerts.
+
+Education and Training
+
+Bachelor: Information Technology, 2011
+
+BIT MARYAM University
+
+CERTIFICATIONS
+--------------
+
+- MCSA: Microsoft Certified Solution Associate
+
+- Microsoft Certified Azure Administrator Trainings:
+- Training on database High availability
+
+- Training on Database Performance tuning
+
+- Training on Azure Platform
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

@@ -1,0 +1,380 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 100 Montgomery St. 10th Floor
+
+SKILLS
+------
+
+- Microsoft SQL
+
+- Writing queries
+
+- Data conversion and migration
+
+- Database analysis
+
+- Information systems management
+
+- Continuous process improvement
+
+- Data management
+
+- Decision-making
+
+- Working collaboratively
+
+- Training & Development
+
+- Team building
+
+- MS Office
+
+- Positive attitude and dedication to work
+
+- Fluent in all respects of English
+
+- Considerable strengths in database management
+
+- Excellent programming and analytical skills
+
+- Proven leadership, team management and organizational
+
+SKILLS
+------
+
+- Highly motivated and result driven individual
+
+EDUCATION AND TRAINING
+
+St. Xavier's College
+Calcutta + 08/1996
+
+Bachelor of Science: Science
+
+EDUCATION
+---------
+
+National Institute of Information Technology
+
+Calcutta + 08/1998
+
+Diploma, Computer Science,
+1994-1998-Advanced Program in Systems Management:
+Concentration in Software Technology And Systems M
+
+Nashville State Community College
+
+Nashville, TN
+
+Certificate, CIS-Database Programming
+
+National Institute of Information Technology Calcutta
+
+Certificate Program On .NET Technologies
+
+Rochester Institute of Technology Online
+
+International Project Management Course
+
+SUMMARY
+-------
+
+Multi-talented Database Administrator with 24years of expertise in designing, testing and coding
+database solutions in various environments. Highly skilled in multiple technologies. Database design,
+management & data analysis in longitudinal clinical research protocols in hospitals, universities and
+media industries. Expertise in technical skills to handle large medical and newspaper databases.
+Strong understanding of data contributing to research fields and also in media decisions for
+newspaper edition launches and other fields over the span of 20 years work experience. Motivated
+self-starter consistently meets deadlines and succeeds in high-pressure environments.
+
+WORK EXPERIENCE
+---------------
+
+Ameriprise Financial - Sr. Clinical Database Analyst
+Glen Allen, VA «+ 11/2012 - Current
+
+Department of Epidemiology and cancer control
+November 19th, 2012- Present
+
+- Coordinates protocol research information management of assigned tasks within the Department of Epidemiology with independent decision-making authority as defined by the Director of Databases and Systems in collaboration with Principle Investigators and the Department Chair.
+
+- Uses various applications to maintain and update large databases, reviews database designs and ensures consistency of standards, procedures and content.
+
+- Assembles, manipulates, analyzes, and disseminates data. Serves as the primary individual responsible for the integration of information from various disparate systems.
+
+- Primary responsible database developer for St Jude Life Study (SJLIFE) on large cohort with multiple collaborating institutions besides responsibility on St Jude Life study and other Ancillary studies.
+
+- Designed, developed and/or maintain databases and automations for all the SJLIFE systems, including ancillary studies of around 35 databases.
+
+- Responsible for performing database and maintenance design of over 35 databases over the last 5 years on different research protocols while utilizing his knowledge of database/software validation, up-to-date querying tools and various relational database structures and methodologies.
+
+- Working on several clinical databases based on various research grants. Responsibilities in this position includes assisting with the management and analysis of medical research data for patients diagnosed with cancers using different MS SQL server to author programs and codes to maintain, analyze and update medical research data.
+
+- Working knowledge and conducting MS Access-based database programming utilizing Visual Basic applications (VBA) programming language to manage multiple research databases.
+
+- Working on database management and validation. Substantial expertise in managing large databases with current querying tools and relational database structures and methodologies.
+
+- Responsible for coordinating protocol research information management of assigned tasks within the Department of Epidemiology and Cancer Control with independent decision-making authority.
+
+- Systems in collaboration with principal investigators and the Department Chair.
+
+- Attend database build meetings with end users to determine database design and requirements, as well as future updates.
+
+- Utilize various applications (such as MS Access 2010 and MS SQL Server 2008) and programming languages to build, maintain and update large databases, review database designs and ensure the consistency of standards, procedures and content.
+
+- Implement code to realize system design and develop programs to assess data content, interpret results and verify accuracy.
+
+- Participate in data migration activities between legacy systems and new database applications.
+
+- Assemble, manipulate, analyze, and disseminates data. Serve as the primary individual responsible for the integration of information from various disparate systems. (DB)
+
+The Npd Group - Database Analyst
+
+Reston, VA +» 01/2011 - 11/2012
+
+January 17th, 2011 - November 9th, 2012
+
+Division for Center for Health Services and Research
+
+Worked directly under the supervision of Dr. Michael E Matheny, MD, MS, MPH
+
+Assistant Professor of Medicine. Biostatistics. Biomedical Informatics and his group led by the Chief,
+Dr. Ted Spearoff Associate Director, Health Services Research & Development, Vanderbilt Center for
+Patient Safety, Director, Clinical Improvement and Operations Research Unit team on multi-
+Institutional several research grants.
+
+- Designs, develops, modifies and implements database systems programs and applications using MS SQL, T-SQL, Data Modeling and Relational Database design
+
+- Primary responsibility and oversight for multiple research databases of over 20 million hospitalized & outpatients and patient admissions with over 40 million of rows of data within the National Veterans Affairs (VA) Health system from all over US.
+
+- Actively writes SQL queries with minimal supervision from faculty supervisors.
+
+- Serve as technical resource to users and others in the research group in the area of database management
+
+- Administrates and trains staff and faculty in data storage and subversion source control repository, and administrates the system
+
+- Liaison with information architects to develop data models for the repository
+
+- Supervises Informatics and clinical research fellows for database manipulation, data cleaning, and analysis activities
+
+- Assigns work and establishes priorities to ensure deadlines are met
+
+- Tracks investigator and staff action items related to the databases
+
+- Actively identifies and participates in training, education and development activities to improve own knowledge and performance to sustain and enhance professional development
+
+- Data sourcing, data mapping and managing metadata
+
+- Documenting and analyzing workflow and clinical processes.
+
+- Provide database programming support and troubleshooting and review process design
+
+- Develop requirements for data mapping and data transformation processes.
+
+- Work with Information architects to develop data models for the data repository.
+
+- Able to generate reports during the ongoing research process.
+
+- Database Cleaning and Optimization
+
+- Working with students, fellows and faculty members who need to access the data for research work and assist with coding.
+
+- User of electronic health record software CPRS (Computerized Patient Record System)
+
+- Managing subversion control and assigned as ProjectLocker Wiki/SQL Script Repository Administrator
+
+- Operations and maintenance of standard, routine queries
+
+- Additional tasks related to data extracts, automated operations and SQL queries as required
+
+- Screen medical charts
+
+- Update documentation on current tools and datasets.
+
+- Track progress towards goals.
+
+- Generate regular reports on status of data projects and ongoing assignments.
+
+- Compile documentation of program development and revisions in a timely manner.
+
+Akzo Nobel N.V. - Research Analyst
+
+Cologne, MN + 08/2007 - 01/2011
+
+August 3th, 2007 - 13th Jan, 2011
+
+Research Analyst | -
+
+Division of Psychopharmacology, Department of Psychiatry,
+
+Worked with Dr. Herbert Meltzer, Director Bixler/May/Johnson Professor of Psychiatry and Professor of
+Pharmacology at the Vanderbilt University School of Medicine and his team on several research grants.
+
+- Relational database programming and application development with responsibility for database design and maintenance with Access Visual Basic programming for clinical databases
+
+- Design and creating data entry screens and utilities and maintain database systems using Access
+
+- Data Analysis and documentation of research data, data coding and database management of clinical research data.
+
+- Help developing forms that will collect the appropriate data.
+
+- Maintain data files, error checking and updating data files.
+
+- Design, code, test and document data entry, processing and validation systems to support data registries to include maintenance of existing systems as well as research and development for enhancements
+
+- Maintain databases and enter study related data into a research database.
+
+- User of StarPanel Clinical Data Repository which is Vanderbilt’s integrated web-based application that allows access to electronic medical records
+
+- User of REDCap (Research Electronic Data Capture) which is a secure, web-based application designed exclusively to support data capture for research studies.
+
+- Route questionnaires record information and distribute results using established procedures
+
+- Develop utilities to perform data collection and cleaning tasks as needed including mapping data to project specifications, verification of external data to internal files, identifying data quality problems and documenting site specific issues
+
+- Create data validation programs appropriate to clinical and statistical requirements.
+
+- Assist with recruiting and interviewing study participants
+
+- Updated database files and maintained study participants records.
+
+- Provide appropriate documentation for research.
+
+- Assists in the preparation of materials for publication.
+
+- Regular editorial assistance in the preparation of manuscripts for publications working on Endnote and reference manager bibliographic software according to accepted practices.
+
+- Collect and organize data from a variety of reference sources and perform preliminary analysis.
+
+- Prepare charts, graphs and tables according to accepted research practices.
+
+- Work with all members of the project team includes doctors, nurses, clinical investigator on a regular basis to ensure the highest quality data and utilities are produced and to ensure meeting project needs in a timely manner.
+
+- Work with the project statisticians to create quality analyzable databases.
+
+- Serve as liaison to clients regarding special request and operational issues as they arise.
+
+Business Standard - Dy. Manager
+City, STATE + 05/2006 - 07/2007
+
+- Primarily responsible for data collection, database management and analysis of the newspaper market data for the entire Eastern India with the skills on MS Access database programming.
+
+- Advanced work needed use of MS office programs or Applications as Word, Excel, Outlook Access, and PowerPoint.
+
+- Worked with research methods, sampling, and analytic software.
+
+- Conceptual understanding of data storage in relational and or flat file environments.
+
+- Provide data analysis and client support as part of team conducting outcomes and studies for media customers.
+
+- Participated in the development of new business proposals and assisting on another on-going project work as needed.
+
+- Work closely with project team members (Officers/Analysts, News Agencies, Retailers, Assistants, Advertisers) to complete research projects that meet clients’ needs.
+
+- Design implement and maintenance of databases used by decision makers, stakeholders, staffs for making appropriate decisions in launching of newspapers in potential areas based on the facts.
+
+- Research and extract data from various sources to support the development of research proposals, project analysis plans, project specifications, and client deliverables.
+
+- Perform data investigation on diagnostic, descriptive, and statistical output during course of research project.
+
+- Create modify and enhance Access databases reporting tool by importable table and exporting data, running reports, updating data table, develop database structures, design forms and reports and creating queries.
+
+- Ability to create evaluation applications to describe market competitiveness and data trend using simple statistical, spreadsheet and presentation software and preparing study visit reports as required
+
+- Competency with business process improvement methodology and flow-charting software.
+
+- Complete ad-hoc research and analytic projects to identify opportunities for continuous improvement and resulting recommendations to the supervisors.
+
+- Create and maintain excel spreadsheets in alignment with the various business requirements
+
+- Graphical representation of the sales & marketing data for trade meets and events and conferences
+
+- Provide leadership to Asst Mangers and officers and design tools to assist in management of databases. This includes project coordination, development and technical support of multiple databases.
+
+- Provides effective leadership in media industry information, benchmarks and analysis that enable organizations to manage costs, improve performance and enhance the quality of newspaper
+
+- Collaborate and consult with higher management to analyze problems, recormmend technology- based solutions and design computational strategies for a wide range of newspaper promotions
+
+- Recommend new business opportunities, new systems and processes and suggests improvements in operations
+
+- Update research database and provide tuning and query support and optimization as needed
+
+- Ability to analyze, interpret, synthesize and present complex market data reports effectively
+
+- Solid judgment, sensitivity and discretion in handling confidential information effectively
+
+- Ability to collaborate effectively with colleagues and staff particularly in support of newspaper houses goals and initiatives
+
+- Collaborating information on product performance, market presence and brand position vis-a-vis competition with a view to fine tune sales and marketing strategies
+
+- Attend and present at client presentations when requested.
+
+- Support training and orientation of new hires to Media Operations
+
+The Hindu - Senior Sales Officer
+City, STATE + 08/1997 - 04/2006
+
+- Worked with CROs’, chain of news agencies from different states of India and responsible for data collection, data management and data analysis of news agencies performances using Microsoft Access.
+
+- Worked on MS office programs such as Excel, Word, Outlook and PowerPoint for variety of data management work.
+
+- Word required familiarity with newspaper industry systems, knowledge of publishing houses research methods and work on basic statistical analysis using computer applications
+
+- Perform data entry by updating information in a database and files and design forms to display and enter data and reports for printing.
+
+LANGUAGES
+
+English: Hindi:
+Negotiated: Negotiated:
+Bengali:
+
+Negotiated:
+
+ACCOMPLISHMENTS
+
+Notable Key achievements in diverse fields:
+
+- The winner of the prestigious “Piktale Influencer’s Award 2021”- Top 100 Global Social Influencers. It’s a unique recognition given to top 100 Global personalities for their contribution in
+varied fields. https: / /www.piktale.com/summit
+
+- Brand ambassador for the Leading international daily Times of India: A regular contributor for their e-newspaper in the NRI section. So far, he has 28 publications posted in the NRI section of TO! e-paper (https: //timesofindia.indiatimes.com /Jessica-Claire/nricontributeprofile/ 60423152.cms)
+
+- Contributing author to Storyboard Memphis publication. https: / /storyboardmemphis.org/author/ aClaire/
+
+- Jessica Claire’s write up also published in the Storyboard Memphis tabloid -Bicentennial May special International - Issue VIII/ Page 11)
+
+- Recipient of 9th 2017 Kindle Award - . The Kindle Awards Gala award presented by Loretta McNary show. Loretta McNary, the celebrity TV & amp, Radio Show host, Founder of Pink Eagles Inc. the award-winning author, member of Hollywood chamber of Commerce. Claire is the only Indian from among the 38 amazing individuals and 2 charitable 2 organizations from among the 5 states of US
+to have been received the award in 2017. The event was the first Red Carpet, a black tie/formal
+event to celebrate these incredible people who dedicate their lives to excellence in their
+professional endeavors and are committed to making a positive impact in the lives of many others.
+
+- Special Invitation - Among the 50 invited guests for the prestigious “Indian American
+Leadership Committee Congressional Luncheon - on July 28, 2021 at Congressional Office Building for the House of Representatives in the Capitol Hill - Washington DC
+
+- Article featured with the St. Jude's Children’s Research Blog (https: //blogs.stjude.org/progress/ new-chemotherapies-changes-approach-to-cancer-treatment/
+
+- Interviewed for the documentary by Memphis film works as one of the resident who make a mark in the society and shape them. -The filming session and what it will be about - Our Neighbors Our Stories explores the art, life, history and culture of Memphis and the shared story experiences of residents who shape them. The shared story experience by which to acknowledge our past, honor our present, and build a brighter future more welcoming and inclusive for all.
+
+- Also featured in the video by Kregse Foundation - our neighbors our stories. (https: //fb.watch/ 4Hne9TkeS5/)
+
+- Honorary advisor for Asentrek Global - Digital Transformation & Acceleration: (https: //
+www.asentrekglobal.com/our-team/)
+
+- Nominated as one of the 50 most admired global Indians by Passion Vista 2018 - Nominated by passion vista among “THE Most Admired Global Indians”- The profile marked as a Brand of high repute and values. The decision was by Editorial Board of Passion Vista, Jury of the Global Business Excellence Forum jointly with Evaluation Partners - CIAC
+
+- Interviewed by Turiya Communications LLP in the Turiya Talks YouTube show: Season 7: Episode 7- Hosted by Sandhya Sutodia, Co-founder of Turiya Communications LLP. (https: //
+www.youtube.com/watch?v=Vtd5HqsUfAl)
+
+- Featured in the 6th Page of 3rd April Dainik Viswamitra, Kolkata, one of the most popular Hindi newspapers in Kolkata.
+
+- Featured in the Business Economics Magazine of April 15, 2021
+
+- Hosted Celebrity talk shows for online portal nrbnews24 newschannel during pandemic for 3 months
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

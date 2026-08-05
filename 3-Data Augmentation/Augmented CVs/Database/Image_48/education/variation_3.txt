@@ -1,0 +1,92 @@
+AREAS OF EXPERTISE
+
+Microsoft SOL Server 2000 -
+2005 - 2008
+
+Disaster recovery SOL skills Sybase
+
+Oracle DBA
+
+Data cleansing Data Warehouse tools
+
+PROFESSIONAL
+
+Microsoft Certified Database Administrator
+
+ISEB Certificate in Data Protection
+
+PERSONAL SKILLS
+
+Attention to detail Good analytical skills
+
+Goals orientated
+
+PERSONAL DETAILS
+----------------
+
+Susan Greene
+
+34 Anywhere Road Coventry
+
+CV6 7RF
+
+Database administrator
+
+PERSONAL SUMMARY
+
+An experienced IT professional with database & Unix administration skills across both Oracle and MS SQL. Having the ability to take the technical lead in projects
+Currently working in a demanding production support environment managing large volumes of business critical data. A committed team player, self motivated
+with the ability to communicate at all levels.
+
+Presently looking for a suitable database administrator position with a responsible company.
+
+WORK EXPERIENCE
+---------------
+
+IT Consultancy Firm - Coventry
+DATABASE ADMINISTRATOR June 2008 - Present
+
+Responsible for the technical and administration aspects of the companies Oracle and SQL Database infrastructure. Also the first point of call for providing
+technical support as well as specialist technical input.
+
+Duties:
+
+- Installing and maintaining databases.
+
+- Administration of the database including performance monitoring and tuning.
+- Taking part in the preparation and execution of technical tests,
+
+- Populating a database with new information or transfer existing data into it.
+- Creating back up copies of data.
+
+- Daily maintenance of firewall protection and file security.
+
+- Responsible for database security and also preventing data loss.
+
+- Identifying and escalating immediately any risks to the database service.
+
+- Involved in the design of physical database schema, data modeling, and performance tuning.
+
+KEY SKILLS AND COMPETENCIES
+
+@ Able to effectively communicate technical data to non technical colleagues.
+
+- Experience of Oracle Application Servers, SAN, NAS, XMLDB,
+
+- Able to plan the structure of a database.
+
+Experience with RAC, ASM, instance tuning and SQL tuning.
+
+- Have an excellent knowledge of PHP, SQL, XHTML, CSS and JavaScript.
+
+- Ability to multi task & prioritise under ever changing & challenging workloads, @ Ability to quickly understand complex problems and devise effective solutions,
+Experience of working on Oracle 9i/10/g/11g server infrastructures.
+
+- Knowledge of OEM, Diagnostic, Tuning, Configuration and Change Management Packs.
+
+ACADEMIC QUALIFICATIONS
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

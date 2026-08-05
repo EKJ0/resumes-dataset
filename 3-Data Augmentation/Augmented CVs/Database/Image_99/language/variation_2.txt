@@ -1,0 +1,46 @@
+HOMER HARBER @) EXPERIENCE
+
+Information
+
+05/2020 - present HESSEL AND SONS
+
+Address Chicago, IL Senior Teradata Database Administrator
+67609 Nicolas Square New York e Experience with relational databases, particularly MySQL
+
+NY e Experience with configuration and administration of Atlassian
+
+applications - Jira, Confluence, Bamboo, Bitbucket Phone
+
++1 (555) 507 6292
+
+11/2016 - 02/2020 HACKETT, ABBOTT AND MURAZIK Chicago, IL IT Database Administrator
+
+- Experience working with Cloud Database technologies
+
+- Database Performance analysis and tuning
+
+- Knowledge Patching and upgrading databases
+
+- Strong UNIX scripting for DB administration
+
+- Knowledge in 12c/13c Grid Control administration and usage
+
+- EDUCATION
+
+PARSONS THE NEW SCHOOL FOR DESIGN
+
+Bachelor's in Computer Science
+
+SKILLS
+------
+
+- Knowledge of Ed-Fi or other educational data standard including the supporting definitions and structures
+
+- Understanding of iPaaS models and data warehouse theory
+
+- Demonstrated knowledge of Python - knowledge of luigi, pandas, sqlalchemy/pyodbc, selenium helpful
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

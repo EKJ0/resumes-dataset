@@ -1,0 +1,154 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Experienced Data Architect well-versed in defining requirements, planning solutions and implementing data structures at the
+enterprise level on a data warehouse enrinment. Analytical problem-solver with a detail-oriented and methodical approach.
+Background includes design/maintenance of conceptual, Logical, Physical and Dimensional Start Schema data models. Prepared to
+
+offer over 10 years of related experience to a dynamic new position with room for advancement.
+
+SKILLS
+------
+
+- Erwin 17.3 modeling tool, IBM Rational System Architect * Staging tables (RSA), Microsoft Office (Excel, Word, Power Point, Outlook), e Verbal and written communication Data Governance tool Collibra, IT Service Alerting tool (TSA), © Analytical skills Confluence, JIRA, Rochade MetJessicata Repository, COBOL Programming
+- Report generation
+- Structure designs
+
+WORK EXPERIENCE
+---------------
+
+Database Consultant, 01/2010 to 09/2020 Amazon.Com, Inc. - West Jefferson, OH
+- Transitioned to a dual role (MetJessicata Analyst/Logical data modeler) to perform Enterprise Relational Data Modeling for banking industry using CA ERwin tool following the IBM Banking Data Warehouse (BDW) standards.
+- Responsibilities included the creation/maintenance of Conceptual/Logical/Physical/Star Schema data models for different databases housed in data warehouses based in the United States.
+- Worked closely with business stakeholders, business analysts, data analysts, systems analysts to translate data requirements into data model design using 3rd form of normalization.
+- During an interview process worked with end users, business analysts, technical architects, and developers to identify and understand project requirements and data from different source systems. Performed data profiling/analysis activities to help establish, modify, and maintain the data models for the different business lines by using Excel spreadsheets.
+
+Assisted teams in Hong Kong, UK and Mexico to ensure logical modeling standards were followed.
+Single handed a project with over 2000 data elements needed to research for the Risk team.
+Single handed the logical modeling effort and standardized over 3000 data elements to comply with UK team requirements for a
+
+new credit card vendor.
+
+Spearheaded the delivery of 1,000 data elements in 10 weeks (as opposed to the normal delivery time of 6 months) by using an
+iterative process that split the work across multiple metJessicata analysts and logical data modelers.
+Created and maintained data mart Dimensional Star Schema models for the Mortgage business line.
+
+Created conceptual data models to identify key business entities and visualize their relationships.
+Created and maintained detailed logical data models identifying all the entities, attributes and their relationships to comply with
+
+business requirements.
+Worked closely with ETL and DBA teams to create a best fit physical data model derived from the logical data model to facilitate
+the DDL scripts for database implementation.
+
+Worked closely with ETL/DBA teams during testing of the DDL scripts to ensure the models were deployed to all test
+
+environments with no issues.
+
+Provided updated data dictionaries and reports from the data models to business users.
+
+Performed data validation by querying the data in SQL server to ensure the accuracy of the data model design.
+- Documented data lineage and source to target mapping while developing data warehouse models.
+
+Implemented the tracking of changes over time at attribute levels for the purpose of traceability.
+
+Responsible for training/development of other team members on the dual role of logical modeler/metJessicata analyst.
+
+Assisted in peer reviewing changes to logical data models.
+
+Used Visual Paradigm tool to upload XML files from Erwin models in an effort to convert the data models into a new modeling
+tool.
+
+- Used Juniper RX tool to prepare and load data into GCP storage bucket.
+
+- Collaborated with system architects, design analysts and others to understand business and industry requirements.
+
+- Documented and communicated database schemas using accepted notations.
+
+- Actively listened to customers’ requests, confirming full understanding before addressing concerns.
+
+- Created plans and communicated deadlines to ensure projects were completed on time.
+
+- Gathered, defined and refined requirements, led project design and oversaw implementation.
+
+- Developed database architectural strategies at modeling, design and implementation stages to address business or industry requirements.
+
+- Actively listened to customers, handled concerns quickly and escalated major issues to supervisor.
+
+MetjJessicata Analyst, 01/2005 to 09/2020 John Wiley & Sons, Inc. - Saint Louis Park, MN
+
+- Hired as a MetJessicata Analyst with the main objective to ensure the application of data standards with responsibilities that included gathering of business and technical requirements, documentation of data lineage and source to target mapping, maintained data dictionaries and other essential data management functions.
+
+- Prepared and loaded business glossaries and technical metJessicata to the metJessicata repository tool (ASG-Rochade metJessicata management).
+
+- Collaborated with IT stakeholders to support implementation of metJessicata to Collibra Data Management tool.
+
+- Worked closely with Data Stewards in the identification and documentation of all critical data elements (CDE) in preparation to load to Collibra.
+
+- Used the IBM Rational System Architect (RSA) tool to query the business data model in Collibra for the different systems.
+
+- Created/maintained JIRA story boards to track issues/requirements to facilitate the engagement of different IT teams on agile projects.
+
+- Created/maintained Confluence pages and ITSA JIRA events for applications that were discovered as being deployed into production without the proper development operations workflows that complies with service level agreements.
+
+- Assisted on research, development and implementation of special projects as needed.
+
+- Maintained data glossary, business definitions, calculations, business rules, column names, data lineage, impact analysis, business metJessicata and technical metJessicata.
+
+- Led global metJessicata efforts on multiple projects with over 1,000 data elements with the purpose of identifying redundancies, data definitions deficiencies, and naming convention discrepancies.
+
+- Identified and resolved problems through root cause analysis and research.
+
+- Generated reports detailing findings and recommendations.
+
+- Validated results and performed quality assurance to assess accuracy of data.
+
+Business System Analyst, 01/2000 to 01/2005 American Dental Partners, Inc. - Menomonee Falls, WI
+- Hired as a COBOL DB2 programmer to work on projects for different business lines.
+- Responsible for writing/modifying batch/on-line COBOL programs to populate DB2/IMS database segments that would interact with Power Builder screens.
+- Assisted in the conversion of CII (IMS System) COBOL programs to point to new DB2 tables on the retirement of IMS segments.
+- Assisted with the analysis, design and implementation of a batch interface process for data conversion from AS400 to OS/390 environment.
+- Wrote the technical specifications that translated RPG programs from its current process.
+- Wrote new DB2 programs to replicate current AS400 process.
+- Performed data mapping to ensure no impact to the new process.
+- Wrote new DB2 programs which replaced current manual processes.
+- Wrote data conversion programs on files received/sent to vendors.
+- Assisted with the analysis/design/implementation of the on-line EZPAY application.
+- Assisted with data conversion from SQL server to a DB2/IMS/CICS environment.
+- Wrote the nightly batch process to retrieve/update/insert/delete transactional data from DB2 tables.
+- Responsible for supporting the system after implementation.
+- Audited loaded data to ensure data quality.
+- Wrote program as part of a monitoring process for on-line transactions that ensured federal compliance.
+- Helped deploy system enhancements to improve field operations.
+- Coordinated data migration and consolidation efforts.
+- Gathered, reviewed and reported on findings.
+- Collected, defined and analyzed business requirements.
+
+EDUCATION
+---------
+
+B.A.: Economics North Park University - Chicago, IL
+
+Online Cloud related courses Creating New Big Query Datasets and Visualizing Insights, Applying Machine Learning to your
+Data with GCP, Achieving Advanced Insights with Big Query, Exploring and Preparing your Data with Big Query
+
+Big Data and NoSqI Program - Mongo and Cassandra DB Computer Career Program (CCP) Certification (Cobol, JCL, CICS, DB2)
+DePaul University
+
+Continuously working on updating skills. On-line Courses in Progress Data Warehouse Developer - SQL Server/ETL/SSIS/SSAS/
+
+SSRS/T-SQL Microsoft Power Bi Desktop for Business Intelligence Microsoft Excel Data Analysis and Dashboard Reporting
+
+DQS Training (Microsoft SQL Server Data Quality Services for Data Cleansing & Data Deduplication with Data Quality Client
+& SSIS tools) Mar 2021 MySQL Database Administration - Beginner SQL Database Design Feb 2021 SQL - MySQL for Data
+Analytics and Business Intelligence: Google Cloud Platform (GCP
+
+Data Engineering Specialization
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

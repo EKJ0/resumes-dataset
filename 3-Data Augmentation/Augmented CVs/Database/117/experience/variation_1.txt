@@ -1,0 +1,145 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Seasoned MS SQL Server Database Administrator with 8 years of extensive experience designing. scripting. testing and managing database
+solutions in development and production environments. Proficient in working with diverse technologies and tools such as SolarWinds DPA,
+Red Gate, IDERA, SQL Server Management Studio, Azure Data Studio, SQL Sentry, and SQL Server Migration Assistant etc. Skilled in
+using Business Intelligence such as SSIS, SSRS, Power BI and Tableau for data modelling, reporting and analysis. Strengths in
+troubleshooting and maintaining servers and systems to support smooth business operations. Excellent communicator with advanced
+presentation creation and delivery skills. Motivated to stay informed of latest industry innovations to provide users with most up-to-date
+solutions.
+
+SKILLS
+------
+
+- T-SQL & Power Shell scripting skills for automating repetitive e Ability to create and maintain documentation of source code,
+
+tasks application installation processes, technical specifications, and
+- Database Servers Hardware and Software Upgrades and Patches data governance program.
+- High Availability and Disaster Recovery Solutions Design e Ability to multitask and manage multiple simultaneous high
+- SQL Server database Security and Audit Compliance priorities
+- SQL Serve Database Monitoring and Performance Tuning and ¢ Ability to communicate effectively with all levels of employees Optimization and management
+- ETL Tools, Power BI and Tableau e Ability to work independently and as team leader
+- Data Conversion and Migration e System Performance
+- Relational Database Management ¢ Business Continuity
+- Maintenance
+- Azure
+
+WORK EXPERIENCE
+---------------
+
+05/2022 to Current SQL SERVER DATABASE ADMINISTRATOR (Contract)
+
+NTT DATA SERVICES - - City, STATE
+
+- Install, configure and maintain SQL server (2016, 2017 & 2019 versions) databases infrastructure from Test to
+
+Production environments with high availability and disaster recovery solutions (such as Replication, Mirroring,
+Log shipping and Availability Groups in multi-subnet cluster environment) which help company achieved 99.9%
+business continuity and high availability projections.
+Successfully migrated over 7TB databases with all objects from on premises to cloud (both Azure and AWS) and
+11TB databases, including all objects, from 2012 SQL Server Instance to 2019 SQL Server instance, using
+automated tools.
+Designed and Maintained complex T-SQL queries, stored procedures, Views, Tables, Indexes, Functions and
+Triggers in multi-database environment for high level performance that increased systems and database high level
+performance by over 100%.
+Implemented database security measures that control access to databases through authentication and authorization
+policies, and performed auditing of database usage and active users. This resulted in eliminating vulnerabilities to
+data theft and breaches by over 99.8%.
+Implemented ETL tools and Power BI solution framework for data warehousing and modeling, data analysis,
+integration and reporting services with resulting products massively deployed for executing end-to-end business
+
+intelligence projects.
+
+Using Business Intelligence tools, documented and analyzed business reports for prompt communication, follow-
+up and customers support, leading to 97% average customer satisfaction rating.
+
+Assisted application and development teams with scripts development, SQL Codes reviews, schema refinement,
+complex query tuning, pre-deployment testing and data integration and maintenance, ensuring that only appropriate
+and efficient SQL codes are deployed to production servers, resulting in seamless production operations and
+excellent outputs.
+
+Followed standard practices for migrating changes to test and production environments and provided technology
+
+supports to meet business requirements.
+
+Crafted and implemented exceptionally effective high-standard database solutions that provided application and
+production stability, reliability, security and high-speed performance, which resulted in overall revenue growth by
+12.5%.
+
+Recommended and on approval, implemented hardware requirements and planning storage capacity best practices
+to manage servers’ systems and infrastructure, which within three months of implementation, resulted in
+outstanding performance effectiveness, surpassing team expectation by 14%.
+
+Reduced servers and system downtime by 99.9% by assembling and deploying highly effective RDBMS native
+utilities and third-party automated tools like Red Gate, Fog Light and SolarWind DPA for proactively monitoring,
+tuning and optimizing system performance and instant resolution database issues.
+
+Used critical thinking to break down problems, evaluate solutions and make decisions.
+
+Saved company thousands of dollars in man-hours and hardware deprecation costs by automating routine/repetitive
+DBA tasks like jobs and schedules, using SQL Server Agent and creating mail profile and setting up alerts and
+events notifications through ticketing services.
+
+Designed and implemented strategically planned periodic and needed MS-SQL software/hardware upgrades and
+patching using power shell scripts and other automated scripts which have seen significant boost in query
+
+optimization and general database servers’ performance efficiency.
+- Collaborated with team members to achieve target results.
+- Provide 24x7 on-call support rotation for critical production systems.
+
+01/2021 to 03/2022 SERVER DATABASE ADMINISTRATOR INFO SYS BPM - City, STATE
+
+- Installed, configured and managed SQL Server 2008-2019 versions in test and production environments using automated processes and virtual machine configuration in VMware
+
+- Designed and managed mirroring, replication, log shipping, Availability Group in multi-subnet cluster environment for high availability and resilience
+
+- Reviewed and refined SQL codes and schema, tuned queries and optimized indexes to support database administration tasks such as performance tuning, system health check etc
+
+- Executed SQL Server assessments including monitoring Servers resources like CPU, memory, I/O, disk, and carried out Performance Tuning and Optimization, using Query Store, Dynamic Management Views, SQL Extended Events, and 3rd-party troubleshooting tools to resolve bottlenecks, deadlocks, blocking and long-running queries
+
+- Set up and automated Jobs, maintenance plans for backups, rebuilding indexes, disk space, check server health, alert and notifications
+
+- Developed and deployed Power BI, SSRS report and other ETL tools using SSIS
+
+- Provided technical support for database environments for ensuring database security, integrity, performance, availability and recoverability of servers and databases.
+
+- Built useful reporting deliverables to properly document analysis results and provide performance improvement feedback.
+
+- Created scripts and processes for data integration and maintenance.
+
+07/2014 to 12/2020 SERVER DATABASE ADMINISTRATOR HALLMARK TRUST & INVESTMENT LIMITED - City, STATE, NIGERIA
+
+- Installed, tested and maintained new versions of database software, patches and other associated software application changes or upgrades using PowerShell
+
+- Implemented, configured, and troubleshot database instances, partitions, storage, and access for over 500 databases bigger than 10TB.
+
+- Designed SSRS and SSIS packages for generating weekly, monthly and quarterly reports as required by clients for business analysis
+
+- Prevented important important users’ leak/theft and saved company more than $615,000 in regulator's fine for data privacy noncompliance by proactively performing SQL server security monitoring and audits necessary for maintaining database security and privacy protection.
+
+- Ended system of irregular, behind-schedule backup and restore routines, upgrades, patching and maintenance jobs and systems and servers monitoring by automating these SQL Server routine processes, performance issues tracking and documentation of changes.
+
+- Assisted Developers with code review, troubleshooting, tuning and deployments activities
+
+- Monitored database performance to ensure integrity of data and provide tuning of database for optimal performance and managed database growth, data purging/archiving
+
+- Provided on-call support for production issues occurring outside business hours.
+
+Epucarion
+06/2012 B.Sc.: Computer Science
+
+Adekunle Ajasin University - Akungba-Akoko, Ondo State, Nigeria
+
+CERTIFICATIONS
+--------------
+
+§ Microsoft Certified Solutions Associate (MSCA): SQL 2014 Database Administration § Microsoft Certified: Azure Fundamentals
+§ MTA Database Certification

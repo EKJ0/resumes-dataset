@@ -1,0 +1,254 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Iam a Senior Database Administrator with over 7 years of experience. I am a strong team worker with experience working with other team
+members, developers and third-party service providers to successfully complete my technical duties with professionalism and passion. Solid
+working experience in managing large databases, backup/recovery, configuring and managing HA/DR solutions, Database Security,
+Performance Tuning, Data Migration, SSIS and SSRS. Working experience entails strong knowledge on using SQL Server database inbuilt as
+well as third party tools to enhance performance of my environment. Strong business and technical vision with effective people skills, ability to
+manage multiple complex projects, innovative, creative problem solver, results oriented, and has an aptitude for learning and can maximize
+resources while possessing a sense of urgency. Ability to work under minimal supervision in a fast-changing environment. Bilingual: English
+and French.
+
+SKILLS
+------
+
+- Windows 8 - 10
+
+- MS SQL Server 2019,2017,2016, 2014, 2012 and 2008.
+
+- MS products: Outlook, Excel, Access, Visio, MS Project Management
+- SQL Server Management Studio (MSSMS) and SQL T-Transact
+
+- Database Tuning Advisor, Query Analyzer, SQL Profiler, Extend Event, Activity Monitor
+
+- ETL Tools: SSIS, Data Transformation Services, Bulk Copy Program, Import-Export Data. * SolarWinds, Redgate and Sentry One Database Performance Analyzer for SQL Server
+
+- SDLC and Agile
+
+- Jira and ServiceNow
+
+Availability, Log Shipping, Traditional Failover Clustering, Always On, Replication, Hyper-V, VMs, T- SQL Databases
+
+- Activity Monitor, SQL Profile, task manager, event viewer, window performance monitor, SSMS, Configuration Manager, Transparent Data Encryption (TDE), Dynamic Data Masking DDM, Always Encrypted, High
+
+WORK EXPERIENCE
+---------------
+
+MS SQL DATABASE ADMINISTRATOR | 02/2017- Current, 02/2017 - Current
+
+Smartronix - City, STATE
+
+- Responsible for the Network Infrastructure Upgrade Project around 4 billion dollars.
+
+- Collected and documented project requirements and got approval from directors for project execution.
+
+- Collaborated with team members and third-party providers during project implementation and cut over activities.
+
+- Installed and configured SQL Server on servers and applied level and security fixes.
+
+- Performed SQL Server post configuration and upgraded related applications.
+
+- Maintained more than 80 production servers in different domains and 55+ Dev and Test Servers
+
+- Configured High Availability Solution, Always-On Availability Group, Database mirroring, Log shipping and Clustering.
+- Created, maintained, and provided documentation on current configurations and changes.
+
+- Designed, created, and migrated databases to different instances and servers and refresh databases as per business needs.
+- Installed, tested, and maintained changes to the database management systems in accordance with approved Change Management Process.
+- Used T-Transact and GUI to perform DDL, DML, DQL and DCL operations.
+
+- Performed troubleshooting using RCA root cause analysis of problems
+
+- Managed production, development, and test database environments.
+
+- Configured and maintain SSRS, SSIS, and SSAS instances
+
+- Provided support to improve database monitoring, performance, and reporting.
+
+- Collaborated with other team members and resolved tickets and slow running queries.
+
+- Created and maintained indexes to speed up data retrieval and resolve performance
+
+- Designed and implemented the Disaster recovery plan aligned to company’s SLA, RPO and RTO requirements.
+
+- Experienced in using normalization (OLTP) and denormalization (OLAP) to resolve database performance issues.
+
+- Deployed databases from on-prem to AZURE using different methods like backup and restore, replication, Database Migration Assistant (DMA)
+
+- Monitored and proactively managed disk space usage and capacity planning.
+
+- Knowledgeable in troubleshooting slow running queries, concurrency and dead locks.
+
+- Analyzed and produced resource trends reports and recommended appropriate solutions to meet the resource requirements.
+- Produced and distributed database performance reports periodically and archives.
+
+- Reviewed and analyzed system logs and proactively set up preventive actions.
+
+- Ensured databases adhere to corporate standards and policies, including database auditing.
+
+- Used Data Encryption technologies like Transparent Data Encryption and Always Encrypted for data security.
+
+- Provided production level support for onsite - On Call 24/7 environment
+
+INTERNSHIP STUDENT, HELP DESK TECHNICIAN | 02/2016, 01/2022 - 07/2022
+
+Orange Telecom - City, STATE
+
+- Planned and developed frequently windows and SQL Server patches.
+
+- Creating and Modifying Tables, Stored Procedures, Views, Indexes, User-defined Functions and triggers as required on SQL Server Environments.
+
+- Involved in the planning, setup, and implementation of new servers across the entire enterprise.
+
+- Involved in ensuring data recovery, maintenance and data integrity and space requirements for physical database.
+- Planning and implementation of database backup\restore and disaster recovery.
+
+- System monitoring.
+
+- Production level support for onsite and offshore clients.
+
+- Troubleshooting client connectivity, lock resolution and performance baselining.
+
+- SQL server performance dashboard reports for monitoring.
+
+- Manage indexes to improve performance.
+
+- Schedule and automate jobs (indexes and backups) using SQL agent to improve performance and availability.
+
+- Develop routine jobs for data integrity check.
+
+- Creating and managing database objects including tables, views, stored procedures etc.
+
+- Managing server and database security and identity
+
+[9:17 PM, 9/21/2022] Eric: INTERNSHIP STUDENT, HELP DESK TECHNICIAN | 02/2016 - 07/2017
+
+MTN Communications - Yaoundé, Cameroon
+
+- Involved in ensuring data recovery, maintenance, and data integrity and space requirements for physical database.
+- Creating and Modifying Tables, Stored Procedures, Views, Indexes, User-defined Functions and Triggers etc. as requirement on SQL Server Environments.
+
+- Involved in the planning, setup and implementation of new servers across the entire enterprise.
+
+- Planned and deployed monthly windows and SQL server patches.
+
+- Planning and implementation of Database backup/restore and disaster recovery.
+
+- Troubleshooting client connectivity, Lock resolution and Performance Baselining-
+
+- SQL Server Performance Dashboard Reports for Monitoring.
+
+- Manage indexes to improve performance.
+
+- Schedule jobs using SQL Server Agent.
+
+- Developed routine jobs for data integrity check.
+
+- Code deployment into Production.
+
+- Tables Design, views, Stored procedures, Function etc.
+
+- Managing Server and database security and identity.
+
+- Task Automation.
+
+- Indexes Maintenance.
+
+- SQL Server Profiler, Extended Events, Query Store and Database Engine Tuning Advisor (DTA) for performance.
+- Stable Replication Topology.
+
+- Installed SQL Server 2008 on advanced servers, applied security fixes.
+
+- SQL Server Upgrade both in place and side by side upgrade from older to newer versions of SQL(2008 to 2012, 2014 and 2016).
+- Database migration from different versions of SQL SERVER (2008, 2012,2014,2016).
+
+- Installed and configured MS SQL Server 2012 supported all Production and development servers.
+
+- Maintained database response times in 24X7 Production environments.
+
+Junior Database Administrator, 03/2022 - 04/2022
+
+Magellan Health - City, STATE
+
+- Planned and developed frequently windows and SQL Server patches.
+
+- Creating and Modifying Tables, Stored Procedures, Views, Indexes, User-defined Functions and triggers as required on SQL Server Environments.
+
+- Involved in the planning, setup, and implementation of new servers across the entire enterprise.
+
+- Involved in ensuring data recovery, maintenance and data integrity and space requirements for physical database.
+- Planning and implementation of database backup'restore and disaster recovery.
+
+- System monitoring.
+
+- Production level support for onsite and offshore clients.
+
+- Troubleshooting client connectivity, lock resolution and performance baselining.
+
+- SQL server performance dashboard reports for monitoring.
+
+- Manage indexes to improve performance.
+
+- Schedule and automate jobs (indexes and backups) using SQL agent to improve performance and availability.
+
+- Develop routine jobs for data integrity check.
+
+- Creating and managing database objects including tables, views, stored procedures etc.
+
+- Managing server and database security and identity
+
+DATABASE ADMINISTRATOR | 05/201 - 02/2017, 01/2022 - 03/2022
+
+American Airlines - City, State
+
+- Involved in ensuring data recovery, maintenance, and data integrity and space requirements for physical database.
+- Creating and Modifying Tables, Stored Procedures, Views, Indexes, User-defined Functions and Triggers etc. as requirement on SQL Server Environments.
+
+- Involved in the planning, setup, and implementation of new servers across the entire enterprise.
+
+- Planned and deployed monthly windows and SQL server patches.
+
+- Planning and implementation of Database backup/restore and disaster recovery.
+
+- Production level support for onsite and offshore Clients.
+
+- System monitoring.
+
+- Troubleshooting client connectivity, Lock resolution and Performance Baselining.
+
+- SQL Server Performance Dashboard Reports for Monitoring.
+
+- Manage indexes to improve performance.
+
+- Managing Server and database security and identity
+
+- Developed routine jobs for data integrity check.
+
+- Tables Design, views, Stored procedures, Function etc.
+
+- Schedule and automate jobs (indexes and backups) using SQL agent.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer And Information Sciences, 06/2015
+
+University Of Buea - Buea Cameroon
+
+Bachelor of Science: Accounting And Business Management
+
+Lamar University - Beaumont, TX
+
+LANGUAGES
+
+English: French:
+Negotiated: Negotiated:
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

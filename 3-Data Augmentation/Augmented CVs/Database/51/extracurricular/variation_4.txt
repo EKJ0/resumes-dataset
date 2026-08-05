@@ -1,0 +1,315 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+------
+
+- C, C++, C#, Java, J2EE
+
+- Scripting Languages : JavaScript, JSP servlets, XML, HTML, Shell, Python, Ruby
+
+- Java Technologies : J2SE1.3, J2EE 1.3, Servlets 2.3, JSP 1.2, EJB 2.0, JDBC, JMS
+
+- SCM Tools : CVS, SVN, GIT, ClearCase, Mercurial, Perforce
+
+- Build Tools : ANT, Maven, Make
+
+- Cl Tools : Jenkins/Hudson, Bamboo, AnthilPro, CruiseControl
+
+- Bug Tracking Tools : Jira, Rally, Remedy, Bugzilla, ClearQuest
+
+- Operating Systems : MS
+Windows XP/2000/NT/98, UNIX, Linux, MS DOS, Android, Mac
+
+- Database : Oracle 10g and 8i/ 9i, MS SQL, DB2 7.2/8/1/8.2 Servers Apache,
+
+- Tomcat, IBM JBoss, WebLogic, WebSphere
+
+- Tools : MS Office Suite, Confluence
+
+EDUCATION AND TRAINING
+
+Jawaharlal Nehru Technological University
+
+Bachelor of Technology: Electrical and Control Engineering
+
+Electrical and Control Engineering JNT University), Kukatpally, Hyderabad, Andhra praadesh
+
+PROFILE
+-------
+
+- Over 5 years of experience in Software Development, and over 3 years with OBIEE 11/10 -
+
+- Over 1.5 years experience with BI/XML Publisher
+
+- Extensive experience in OBIEE Administration Tool, OBIEE Answers, OBIEE Interactive Dashboards, BI Publisher, Delivers and iBots within OBIEE suite
+
+- Experience with Data flow diagrams, Data dictionary, Database normalization theory techniques, Entity relation modeling and design techniques.Expertise in Client-Server application development using Oracle 11g/10g/9i/8i, PL/SQL, SQL *PLUS, TOAD and SQL*LOADER
+
+. Effectively made use of Table Functions, Indexes, Table Partitioning, Collections, Analytical
+functions, Materialized Views, Query Re-Write and Transportable table spaces
+
+. Strong experience in Data warehouse concepts, ETL.Good knowledge on logical and physical Data
+Modeling using normalizing Techniques.Created Tables, Views, Constraints, Index (B Tree, Bitmap and
+Function Based).
+
+- Experienced in tuning Informatica Mappings, Sessions and SQL queries for better performance
+
+: Designed Star schemas, Snowflake schemas for Data Marts and Data Warehouses
+
+- Experience in shell scripting (pre-sessions and post-sessions commands)
+
+- Expertise in debugging and optimizing the Oracle BI / OBIEE Dashboards / Reports and Informatica Mappings / Workflows
+
+- In-depth knowledge in formal Systems analysis design, implementation of Operational/Database systems, utilizing Oracle RDBMS Methodologies
+
+Excellent problem solving, troubleshooting and decision-making skills.
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+Rtx - Database Engineer
+Springfield, VA » 07/2012 - Current
+
+Cordinated with the front end design team to provide them with the necessary stored procedures
+and packages and the necessary insight into the data. Worked on SQL*Loader to load data from flat
+files obtained from various facilities every day.Created and modified several UNIX
+
+shellScripts according to the changing needs of the project and client requirements. Wrote Unix
+Shell Scripts to process the files on daily basis like renaming the file, extracting date from the file,
+unzipping the file and remove the junk characters from the file before loading them into the base
+tables.Involved in the continuous enhancements and fixing of production problems.Generated
+server side PL/SQL scripts for data manipulation and validation and materialized views for remote
+instances.Developed PL/SQL triggers and master tables for automatic creation of primary
+keys.Created PL/SQL stored procedures, functionsandpackages for moving the data from staging
+area to data mart.Created scripts to create new tables, views, queries for new enhancement in the
+application using TOAD.Created indexes on the tables for faster retrieval of the data to enhance
+database performance.Involved in data loading using PL/SQL and SQL*Loader calling UNIX scripts
+to download and manipulate files.Performed SQL and PL/SQL tuning and Application tuning using
+various tools like EXPLAIN PLAN, SQL*TRACE, TKPROF and AUTOTRACE. Extensively involved in using hints to direct the optimizer to choose an optimum query execution plan.Used Bulk
+Collections for better performance and easy retrieval of data, by reducing context switching
+between SQL and PL/SQL engines.Created PL/SQL scripts to extract the data from the operational
+database into simple flat text files using UTL_FILEpackage.Creation of database objects
+
+like tables, views, materialized views, procedures and packages using oracle tools like Toad, PL/
+SQL Developer and SQL* plus.Partitioned the fact tables and materialized views to enhance the
+performance. Extensively used bulk collection in PL/SQL objects for improving the
+
+performing. Created records, tables, collections (nested tables and arrays) for improving Query
+performance by reducing context switching.Used Pragma Autonomous Transaction to avoid mutating problem in database trigger.Extensively used the advanced features of PL/SQL
+
+like Records, Tables, Object types and Dynamic SQL.Handled errors using Exception
+
+Handling extensively for the ease of debugging and displaying the error messages in the application.
+
+JP Morgan Chase - Devops/AWS Engineer
+City, STATE + 11/2010 - 08/2012
+
+Responsible for managing infrastructure provisioning (S3, ELB, EC2, RDS, Route 53, IAM, security
+groups - CIDR's, VCP, NAT) and deployment via SCALR and EC2 Installs with CentOS, Ubuntu and
+RHEL 6 and Scientific Linux.
+
+Automate Deployment using configuration Management tool like puppet to provision amazon AWS
+Instances to enable continuous Deployments.
+
+Involved in maintaining the user accounts (IAM), RDS, Route 53, VPC, RDB, DynamoDB, SES, SQS
+and SNS services in AWS cloud.
+
+Worked on Autoscaling, Cloudwatch({monitoring), AWS Elastic Beanstalk(app deployments), Amazon
+$3(storage) and Amazon EBS(persistent disk storage).
+
+Wrote and maintained build scripts for E2Open cloud platform SaaS applications modules like
+supplier services and admin portal using Maven.
+
+Migrating the application from WebLogic to JBoss.
+
+Configured connection pools.
+
+JMS Queues and Converted data sources from weblogic to Jboss.
+
+Upgraded the full web and application hosting platform for JBoss and Apache.
+
+Installed, Configured, Integrated, tuned and administered WebLogic 10.x/11g/12c and related
+components.
+
+Managed and Monitored JVM Performance by adjusting WebLogic heap size and garbage collection
+parameters.
+
+Backing up the SOA Applications and upgraded Oracle Fusion Middleware SOA Suite 10g to 11g.
+Implemented a Continuous Delivery pipeline with Docker, Jenkins and GitHub and AWS AMI's, Whenever a new github branch gets started, Jenkins, our Continuous Integration server,
+automatically attempts to build a new Docker container from it, The Docker container leverages
+Linux containers and has the AMI baked in.
+
+Converted our staging and Production environment from a handful AMI's to a single bare metal host
+running Docker.
+
+Configured and administered JDBC, JMS, Work Managers and SNMP in WebLogic Server andJBoss
+Application Server Wrote Shell scripts to apply the Integration label to all the files which needed
+manual labeling.
+
+Gathered all the stakeholder approvals and necessary signoffs while acting as a release manager
+for two development teams.
+
+Created analytical matrices reports and dashboards for release services based on Rally tickets.
+Experience working directly with external partners for scheduling and coordination application
+teams (LGS, ICMP, enterprise), TIS support teams (UNIX, middleware, patching, network, storage)
+Gathered all the stakeholder approvals and necessary signoffs while acting as a release manager
+for two development teams.
+
+Created analytical matrices reports and dashboards for release services based on Rally tickets.
+Created a complete release process doc, which explained all the steps involved in the release
+process.
+
+Updated the Database Tables running the Database Scripts.
+
+Environment: Java/J2EE, Maven, Subversion, Git, GitHub, UNIX, Rally, Shell, Artifactory, Jenkins/
+Hudson, Python, JBoss, WebSphere, Confluence, Linux, MYSQL.
+
+Gartner Corp - Sr. Build and Release Engineer/Dev Ops Engineer
+City, STATE + 07/2008 - 11/2010
+
+Created and deployed builds to different environments based on requests.
+
+Converted and automated builds using Maven and Make.
+
+Scheduled automated nightly builds using Jenkins.
+
+Helped developers and other project teams to set views and environments.
+
+Created and applied Baselines and Labels for each Build Artifacts.
+
+Created UCM Projects, Development and Integration views for Development and Integration Streams.
+
+Created and maintained documentation of build and release processes and application configuration to comply with audit requirements and Industry best practices.
+
+Produced release notes and other build-related documentation.
+
+Deployed a small set of ClearCase Triggers to enforce fundamental custom policies and also to
+guide, monitor and control development activities.
+
+Created Pre-operation and Post-operation triggers in UCM.
+
+Developed scripts using BASH and BATCH files for Automation of Activities and builds.
+
+Worked closely with Web Administrators to setup an automated deployment for SharePoint applications using SVN and Git Tools.
+
+Provided level one support for build troubleshooting and production issues.
+
+Installed Weblogic servers, configured domains across Prod and Non Prod environments for deploying retail applications.
+
+Installed and Configured Apache to Weblogic Plug-in.
+
+Installation and configuration of Oracle Fusion Middleware SOA.
+
+Managing the SOA instances.
+
+Deploying SOA applications.
+
+Extensively used WLST (WebLogic Scripting Tool), Perl, Python and UNIX Shell Scripts to monitor
+and manage WebLogic server instances and domains and for auto deployment processes.
+Setting up the cluster environment for Weblogic Server integrated with multiple workflows.
+24/7 on-call support for emergency site maintenance and immediate build and install requests.
+Worked with the automated scripts for the Build and Deployment of the applications.
+
+Monitored and administered the automated build and continuous integration process to ensure
+correct build execution, and facilitate resolution of build failures.
+
+Maintained configuration files for each application for the purpose of build and install on different
+environments.
+
+Created the build instructions docs and install (deploy) instructions docs for each application for
+different environments.
+
+Performed merges between different branches, and resolved all merge conflicts successfully by
+working with development teams.
+
+Added different queries to query work items.
+
+Implemented, maintained, and troubleshot software build environments.
+
+Experience working directly with external partners for scheduling and coordination application
+teams (LGS, ICMP, enterprise), TIS support teams (UNIX, middleware, patching, network, storage)
+Defined, implemented, and documented software deployment strategies and installation procedures.
+
+Performed Baseless merges.
+
+Environment: Solaris, UNIX, Java/J2EE, Eclipse 3.20, Make, Maven, Python, Subversion, GIT,
+WebSphere Application Server (WAS), Jenkins/Hudson, ClearCase 7.0, Jenkins, Crucible, Remedy,
+BASH.
+
+Bank Of America - Build and Release Engineer/Dev Ops Engineer
+STATE + 01/2007 - 07/2008
+
+Responsibilities Used Perforce for the purpose of Software Configuration management and maintaining the versions of the Symantec's Website Code.
+
+Coordinating the resources by working closely with Project Manager's for the release and Project
+Manager for all the Operational Projects.
+
+Carried Deployments and builds on various environments.
+
+Wrote ANT Scripts to automate the build process.
+
+Created the Deployment notes along with the Local SCM team and released the Deployment Instruction to application support.
+
+Coordinated with IT groups on the release timings to ensure systems are ready for code to be
+deployed.
+
+Managed source code, software builds, software versioning, and defect tracking on all software
+maintenance tasks and projects.
+
+Maintained release plan, managed release content, communicated release status and analyzed
+functional and technical dependencies among projects and maintenance of releases.
+Implemented UCM solution for Unity Project.
+
+Participated to upgrade the ClearCase server with patches and new ClearCase licenses.
+
+Planned and wrote Project's CM Plans and process.
+
+Helped CC Admin and involved in Administrator Activities.
+
+Performed Builds for various Environments such as QA, Integration, UAT and Productions Environment.
+
+Documented the deployment process (Migration Doc) of code to production on an Excel Sheet.
+Worked on ETL tools like Informatica Power Center and reporting tools like Business Objects.
+Moved the Informatica Mappings, Sessions and Business Objects universe and reports from one
+environment to other environment.
+
+Work directly with Project Managers to establish and create & design therelease plan.
+
+Identify and coordinate deployment of appropriate modules to various test environments and
+production environments.
+
+Work closely with developers to pinpoint and provide early warnings of common build failure.
+Pro-actively Installed and configured GIT and Gerrit Experience working directly with external
+partners for scheduling and coordination application teams (LGS, ICMP, enterprise), TIS support
+teams (UNIX, middleware, patching, network, storage) Responsible for GIT and Gerritadministration.
+
+Environment: Java, J2EE, Ant, Maven, Anthilpro, ClearCase, Shell, Html, Oracle 8.x/10.x, Solaris,
+Servlets, Remedy, JDK 1.4.2.
+
+AFFILIATIONS
+
+SKILLS
+------
+
+- NET, ANT, Apache, Automate, Automation, backup, BASH, Business Objects, C, C++, ClearCase, ClearCase 7.0, Configuration management, content, CVS, Database, Delivery, documentation, Eclipse
+3.20, EJB 2.0, ETL, XML, functional, HTML, IBM, DB2 7.2, Informatica, Instruction, J2EE, J2EE 1.3,
+Java, JMS, JSP, JSP 1.2, JavaScript, JBoss, JDBC, jQuery, Linux, notes, Mac, Managing, meetings,
+C#, Excel, MS Office Suite, Office, SharePoint, 2000, 98, NT, MS Windows XP, Middleware, Migration,
+MS DOS, MYSQL, enterprise, network, networks, Operating Systems, Oracle 8.x, Oracle, pen, Perl
+Scripting, Perl, policies, processes, Python, QA, reporting, retail, scheduling, Scientific, Servers,
+Serviets 2.3, Servlets, Shell, Scripts, Shell scripts, Shell scripting, Scripting, SNMP, Solaris, MS SQL,
+SSL, Symantec, Tables, Tomcat, troubleshooting, UNIX, UNIX Shell Scripts, upgrade, Visual Studio,
+Website, WebLogic, WebSphere
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

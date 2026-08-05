@@ -1,0 +1,86 @@
+Peter Smith
+
+WORK EXPERIENCE
+---------------
+
+AMS SYSTEMS, New York, NY
+Database Administrator [J, Jun 2003 ~ present
+
+Approve, sebedule, plan, and supervise the installation and testing of new products wad improvements to
+
+computer systems such as the installation of new databuses.
+
+Develop data model describing data elements and how they are used, following procedures and using pen,
+
+template or computer software.
+
+Develop eS eee so they work properly together such as customizing
+
+commercial databases to fit specific needs,
+
+ron existing databases and database tuenagemeat systems or direct programmers and analysts t make
+
+mages.
+
+Plan, coordinate and implement security measures to safeguant information in compater files against
+
+accidental or unauthorized damage. modification or disclosure.
+
+_ - part of = project team to coordinate database development and determine project scope and
+imatations.
+
+‘Test programs or databases, correct errors and make necessary modifications.
+
+‘Write and code logical and physical database descriptions oad specify identifiers of database to management
+
+system or dirvet others in coding deseriptions.
+
+‘Tram esers and answer questions.
+
+Database Administrator 1, Jan 2001 - Jum 2003
+
+Establish and calculate optimum values for detatase parameters, using manuals and calculator.
+Review procedures in databese management gystem manuals for making changes to database,
+
+Review workflow charts developed by programmer analyst to understand tasks computer will perform, sach
+as updating records.
+
+‘Specify weers and user access levels for each segment of databave,
+
+Identify and evatuate industry treods in database systems to serve as n source of information and advice for
+Upper management
+
+Review project requests deseribing database user needs to estimate time and cost required to accomplish
+project.
+
+EDUCATION
+--------- eee or ak Cals NY United States
+
+Administration, May 2000
+
+TECHNICAL SKILLS
+----------------
+
+Backup or archival software - Acronis Recovery Expert, BMC Catalog Mani RMAN
+
+Data hase reporting softenre - Orncle Reports, Oracke SQL, Loader, Orace $QU, Plus, ReCrystallize Crystal
+Reports
+
+‘Object oriented dats base management software - IBM Informix, PostyreSQL softwure
+
+Systems and data disaster reovery software - VERITAS NetBeckup
+
+Clustering software - Cluster server software, Orucle Real Application Cluster RAC
+
+Data base management system software - BMC Change Manager, Embarcadero Technologies DBArtisan,
+IBM DB2, Microsoft SQL Server, MySQL soltware, Oricle DBMS, Oracle Enterprise Manager
+
+Database cloning software - Hewlett-Packard HP Omniback I1,1BM ADSTAR, Legato NetWorker
+Data base user interface and query software - Database query language, Structured query language SQL
+
+324 Sprng Meedow Lanz New York, NY 10003 (212)456-1434 peter anth(gmnil com
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

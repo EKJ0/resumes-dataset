@@ -1,0 +1,77 @@
+Robert Smith hore Sasbibae
+
+Email: info@qwikresurme.com.
+
+Sr. Database Analyst Website : www, qwikresume, com
+
+Linkedin: linkedin, corm/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Detail oriented IT Professional with over 15 years experience as an IT Database/QA Analyst
+Specialist. Skilled at operating in a wide range of platforms, excellent written and verbal
+communication skills and an expert in explaining complex software issues in easy-to-comprehend
+tems.
+
+SKILLS
+------
+
+SQL, Excel, Medical Terrninology, MySQL, Microsoft Word, Data Entry / 51 Plus Wprn, Microsoft
+Office Access 2007, PowerPoint Presentations 2007, SQL Statements, Query Building, And
+Microsoft SQL Server Management 2008,
+
+WORK EXPERIENCE
+---------------
+
+Sr, Database Analyst
+Google - October 2011 - August 2015
+
+implement daily, weekly, and monthly reports online by reviewing and approving new product
+tables therapeutic class while assisting in making therapeutic dass decisions when necessary,
+Assigns products names via MediSpan through system generated ids which the specialist creates and are then called brand names for In-house client database tables,
+
+Consist of system generated ids for strengths, forms, manufacturers, and corporations which
+analyst creates as well as USC codes for new NDCS which are not yet placed into database tables.
+
+Analyze data with the ability to identify all data discrepancies with the authority to make the
+necessary changes.
+
+Create multiple operational reporting tools such as PL/SOL query statements to extract data
+to create an excel spreadsheet.
+
+Research the Internet (google, daily med, price Rx, and facts and comparisons answers etc.)
+to maintain data integrity.
+
+Match new forms and routes, also package combination to form nurmbers,
+
+Reference Data QA Analyst
+Sdi Health, Lic - January 2000 - October 2011
+
+Supported efforts by analyzing the pharmaceutical product, payer, and provider data using Microsoft Access, Oracle, toad, PLSQL, and SOL for external clients likGenentechch and
+Glaxosmithkline,
+
+Provided and maintained data integrity of product databases against daily, weekly, and monthly updates.
+
+Interfaced with external clients and provided lucid interpretations of the large amounts of
+data,
+
+Trained managerial and co-workers staff on these departmental policies.
+
+Achieved a substantial increase in the speed and efficiency of database development and
+improved product consistency by creating software tools to generate io modules, tables, and
+views.
+
+Manage data quality and data integrity standards for daily vendor data transfer.
+Automating data processes and improving workflow Integration with existing systems,
+
+EDUCATION
+---------
+
+- This Free Resime Tempimte ls the copyright of Qwikresume.com. Usage Guilctelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

@@ -1,0 +1,213 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+A passionate Microsoft SQL Server Database Administrator with 4+ year’s practical experience solving performance problems, query
+tuning & optimization. Strong working knowledge of all versions of SQL Server back to 2008 R2. Experience managing large
+enterprise level databases > 1 TB in a mission critical environment. Experience with capacity planning, performing routine Health
+Checks / Assessments, In-Depth Product Reviews, Product Upgrade / Migration Assessments, Systems Performance Reviews, Post
+Operational Review of Product Implementations. Experience working closely with programmers/developers to provide optimum
+business solutions. A result-oriented team player with strong analytical, Effective learning skills and excellent communication skills.
+Am also a self-starter who is versatile with database technologies across multiple platforms, keeps up with current technology
+
+SKILLS
+------
+- Database Administration e BCP, SSIS/ETL Processes
+- Database Design and Modeling ¢ Data integrity and Security
+- SQL Server * Capacity Planning
+- T-SQL/ Scripting e Communication and Documentation skills
+- Backup, Disaster and Recovery solution ¢ Infrastructure/Team support
+
+- SQI Server Monitoring, Performance Tuning, Troubleshooting « Encryption
+
+and Management
+
+WORK EXPERIENCE
+---------------
+
+Senior SQL Server Database Admin / Engineer (contractor), 04/2021 to Current High Quality Care Nursing - Laurel, MD
+- Lead role for efforts that involve multi-terabyte data management / migrations
+- Create and support HA for tier 1 production servers using Always-On Availability groups and replication Excellent backend skills in creating SQL objects like tables,stored procedures,views,indexes, constraints and user defined data
+
+types
+Responsible for monitoring customer Facing databases and ensuring 24x7x365 uptime within our internal SLA of 99.99 with on
+
+call responsibility
+
+Troubleshoot any performance anomalies and respond to high priority issues
+
+Developed Oracle Database Backups & Recovery Strategies and created High Availability processes using Windows Clustering
+and Database Replication Technologies.
+
+- Recommending and implementing data security by creating users and assigning permissions based
+
+on the minimum level of database access the user would need and with tools like Always
+
+Encrypted, Transparent Data Encryption (TDE) and Dynamic Data Masking (DDM) to secure
+
+clients sensitive data.
+
+Performed administrative activities like Database Maintenance, Indexing Large Databases, Database Tuning, Query
+Optimization and Database Backup & Recovery.
+
+Developed and automated daily, weekly and monthly system maintenance tasks such as database backup, database integrity
+verification and indexing.
+Develop and managed SLAs, including RTO & RPO, for all server instances (50+)
+
+Perform Patching and Database upgrades and migration on multiple versions of SQL server to ensure instances are up to date
+
+with the latest security fixes from Microsoft
+- Implementation of SQL logins, roles and authentication modes as a part of security policies for various categories of users by
+
+creating users and assigning permissions based on minimum level of database access
+
+Provide 24x7 support for critical production database systems.
+
+Managed identification, protection and use of data assets.
+
+- Planned and installed upgrades of database management system software to enhance database performance.
+
+Gathered, defined and refined requirements, led project design and oversaw implementation.
+
+Developed database architectural strategies at modeling, design and implementation stages to address business or industry
+
+requirements.
+
+Collaborated with system architects, design analysts and others to understand business and industry requirements.
+
+- Communicate with corporate customers via telephone, written correspondence, or electronic service regarding problems identified in Microsoft SOL Server software.
+
+Provided Microsoft SQL Server performance monitoring to establish baselines and adjust resources and/or database settings to
+achieve higher performance.
+
+Installed, configured Microsoft SQL Server instances for high availability and disaster recovery on remote locations.
+
+Provide day-to-day maintenance and administration of Microsoft SQL Server databases supporting client-facing and back-office
+production applications.
+
+Performed daily DBA management tasks including troubleshooting, performance and tuning, database monitoring and backup/
+
+recovery.
+
+Supervised daily DBA operations; implemented infrastructure and processes to support over 500 databases across enterprise.
+
+SQL Server Database Administrator/Analyst, 01/2019 to 04/2021 Evangel Christian Child Care - Beltsville, MD
+- Troubleshooting and performance tuning stand-alone and clustered environments
+- Managed SQL Server databases through multiple product lifecycle environments, from development to mission-critical production systems
+- Review scripts submitted by the development team and working with other team like system analyst, developers, business analyst and project teams to perform the capacity planning required to create and maintain databases Installed multiple versions of SQL Server and performed regular updates and applied services packs
+- Contributed to disaster recovery and business continuity plans and exercises
+
+- Worked and assisted software application development groups to provide database setup, regularly refreshed on lower environments, configuration, optimization, and modification support
+
+Assisted in development, efficiency improvements and implementation of database policies and procedures for data security
+and integrity
+
+Leveraging the uses of in-built software in SSMS such as SQL Server profiler, Performance
+
+monitor, Extended Events, DMVs, Database Integrity checks to ensure database integrity,
+
+stability, and system availability and other Third-party software like IDERA and SolarWinds
+
+Database Performance Analyzer to monitor system health and security.
+
+Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
+Developed custom database objects, stored procedures and delivered application support.
+Created optimal technical solutions to user needs through research and in-depth system analysis.
+
+- Managed workload independently but collaborated with colleagues to complete larger scale tasks in distributed team environment.
+
+- Managed systems and infrastructures by defining hardware requirements and planning storage capacity for projects
+
+- implement targeted scheduled health-check reporting from Windows Server-level to provide additional monitoring of SQL
+
+Server availability.
+
+Installed and administered 3-Node Active/Active/Passive cluster on Microsoft Windows Server 2012.
+
+Handed all aspects of upgrading SQL server 2005 to SQL Server 2008 R2 in Microsoft Windows Server 2008 R2 Enterprise
+
+Edition.
+
+Installed, configured and administered MS SQL Server on Windows servers and updated them with hot fixes and latest service
+
+packs.
+
+Migrated SQL server 2008 to SQL Server 2012 in Microsoft Windows Server 2012 Enterprise Edition and windows 2008R2 SP2
+
+enterprise editions.
+
+Created custom T-SQL stored procedures and triggers to improve performance, preserve referential integrity and provide
+additional application functionality.
+
+Developed different applications using T-SQL and analysed functional requirements and developed software programs to
+specifications.
+
+Developed T-SQL Stored Procedures for maintaining data in existing systems and newly developed applications.
+
+Supported development effort by providing T-SQL statement tuning and optimising data loading processes.
+- Performed T-SQL data modifications to resolve issues and performed customer account maintenance.
+
+- Provided mentoring to less-experienced DBA and application support team members.
+
+- Handled Primary DBA roles and responsibility for multiple applications.
+
+SQL Server Database Administrator/ETL Developer, 11/2017 to 01/2019 KBA Academy - Beltsville, MD
+- Implemented troubleshooting of SQL Server performance issues using SQL Server Profiler, Trace, Index tuning wizard and Database Engine Tuning Advisor (DTA)
+- Monitored database performance, implement changes and apply new patches and versions when required
+- Performed tests and evaluations regularly to ensure data security, privacy and integrity
+- Provided proactive and reactive data management support and training to users
+- Provided technical support and troubleshooting assistance to application development teams and other third-party software providers utilizing SQL Server platform
+- Implemented and support Administration tasks such as backup and recovery procedures, database utilities, and database log shipping technologies for both PROD and NON-PROD environments
+- Provided 24x7 support for critical production database systems.
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+- Tested programs and databases to identify issues and make necessary modifications.
+- Created optimal technical solutions to user needs through research and in-depth system analysis.
+- Implemented high availability and disaster recovery (Database Mirroring and Clustering) on the production servers.
+- Configured and Maintained Backup and Restore strategies on production server or development servers as per requirement.
+
+- Monitored and audited enterprise data management activities including operational monitoring, daily ETL monitoring, report distribution, and performance tuning.
+
+- Involved in business analysis and technical design sessions with business and technical staff to develop requirements document and ETL design specifications.
+
+- Developed technical infrastructure designs and project documentation for database objects, data mappings and related ETL procedures.
+
+- Implement additional ETL processes that would benefit data generation, configuration, and inventory management.
+
+- Identified and implemented solution to correct system design limitations for overnight reporting ETL batch process.
+
+SQL Server Database Administrator/Specialist, 01/2016 to 11/2017 Kebetkache Women Development Port - Port Harcourt, Nigeria
+- Ensured database backups are routinely captured and are stored in accordance with the retention policy
+- Ensured that backup and recovery plans were identified, agreed upon by technical support group, documented completely and accurately in accordance with company procedure
+- Provided expert database administration and support of SQL Server 2008r2 and above
+- Implemented and support administration tasks such monitoring and collecting database utilities baseline on production, Test and Dev environments
+- Managed job and activity schedules to promote optimal performance, maximum availability and minimize data latency and data load durations
+- Performed threshold forecasting, sizing, capacity planning, and trend analysis
+- Performed SQL Server installations, database migrations, deployments, upgrades and routinely applied SQL Server patches
+- Performed routine database tuning, index optimization and implanted backup and recovery plans
+- Provided 24x7 support for critical production database systems.
+- Configured and Managed the High Availability and Disaster recovery Solutions Always On, Replication, Clustering on Critical Production Servers.
+- Worked in Database Administration on Production Servers with server configuration, Performance Tuning and maintenance with outstanding troubleshooting capabilities.
+- Coordinated physical changes, current space utilization and performance monitoring of two replicated production servers and
+
+two development servers.
+
+EDUCATION
+---------
+
+Bachelor of Arts: In Communications And Technology, 10/2015
+
+University of Benin - Nigeria
+
+CERTIFICATIONS
+--------------
+
+Microsoft Certified Solutions Associate (MCSA)- 2012/2014 Certified 2021
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

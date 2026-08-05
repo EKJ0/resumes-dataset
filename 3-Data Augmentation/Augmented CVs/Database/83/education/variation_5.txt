@@ -1,0 +1,471 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Dynamic Database Engineer devoted to maintaining reliable computer systems for uninterrupted workflows. Delivers up-to-date methods to
+increase database stability and lower likelihood of security breaches and data corruption. Offers detailed training and reference materials to
+
+teach best practices for system navigation and minor troubleshooting.
+
+SKILLS
+------ Technical Skills: e RedHat Linux 4.x, 5.x, 6.x 7.x, Solaris 10, 11, ATX 7.1, HP-UX
+- Oracle 19c/18c/12c/11g/10g/91, 18c/12¢/11g RAC/ASM, 111, Windows 2008/12. EXADATA, MS SQL Server 2016/12/08, MySQL, MariaDB, * SQL, PL/SQL, T-SQL, UNIX Shell scripting, C, C++, Perl MongoDB e Amazon Web Services(AWS), Oracle Cloud Infrastructure(OCI) Administration Tools & Utilities © Interfacing with Oracle Corporation for technical support.
+- OEM 13c/12c , TOAD, UC4 and Opcon scheduler, TKPROF, e Environments: Oracle 10g/11g, MS SQL Server 2005/2008, RMAN, DataPump Import/Export, SQL loader, Tuning & Redhat Linux 4.x/5.x, Sun-Solaris 10, RMAN backup & recovery, Diagnostic packs AWR/ADDM, Load runner, VERITAS AWR & ADDM, STATPACK, TKPROF, SQL Trace
+
+NetBackup, CommVault, DataDomain, EMC SRM, Explain Plan, ERWIN, SQL-Navigator, Data Guard.
+Pentaho, SQL Server Integration Services (SSIS)
+
+WORK EXPERIENCE
+---------------
+
+Senior Database Engineer, 08/2017 - Current Humana Inc. - Ormond Beach, FL
+
+Installation, Configuration and Maintenance of Oracle 19c/12c RAC on new servers with Redhat Linux 7.0/6.0
+
+Upgraded several databases from 11g/10g to 12c and then 12c to 18c/19c with databases sizing 1 TB to 10 TB
+
+Migration of Databases from Non-RAC to RAC clusters and also between cross-platform HP-UX to Redhat Linux
+
+Troubleshooting RAC issues like bugs, network issues, configuration files issues, OCR issue, and Node eviction issue
+
+On RAC systems did CRS upgrade, ASM upgrade, DB Upgrade and OEM Agent Upgrade
+
+Supported SAN Migrations: Moved ASM disk groups from server to server and Add/drop disks from the existing Diskgroups
+
+Breaking up RAC for few instances and Added new cluster nodes to the existing clusters ( Added 4 nodes to the existing 3 node cluster )
+Configuration and Implementation of Dataguard Physical / Logical Standby Databases and Automating the Monitoring / Resolving on and
+off Gap or lagging issues
+
+Installed, configured and upgraded Golden gate for Oracle database and enable real-time data integration and continuous data availability
+by capturing and delivering updates of critical information as the changes occur and providing continuous data synchronization across
+heterogeneous environments
+
+Capture, Propagation, Apply using Golden Gate
+
+Worked on Implementing Disaster Recovery strategies for RDS Oracle databases and documented into confluence page
+
+Hands on experience in Amazon Web Services (AWS) provisioning and good knowledge of AWS services like EC2, $3, Elastic Beanstalk,
+ELB (Load Balancers), RDS, VPC, Direct Connect, Route53, Cloud Watch, Cloud Formation, IAM, SNS etc
+
+Configured and installed, involved using AWS services such as EC2, Data Pipeline, $3, RDS and EMR
+
+Architecting new DBA solutions in AWS
+
+Provide domain expertise of open-source and commercial relational DBMS products and services (Oracle 11g/12c, SQL Server,
+PostgreSQL, AWS RDS) and NoSQL databases (e.g
+
+MongoDB, Cassandra databases
+
+Defined AWS Security Groups, which acted as virtual firewalls that controlled the traffic, allowed reaching one or more AWS EC2
+instances
+
+Installed the application on AWS EC2 instances and configured the storage on $3 buckets
+
+Worked on migrating Oracle databases to AWS RDS using utility AWS Database Migration Service (DMS)
+
+Implemented and maintained the monitoring and alerting of production and corporate servers such as EC2 and storage such as $3 buckets
+using AWS Cloud Watch
+
+Creating $3 buckets and managing policies for $3 buckets and Utilized $3 bucket and backup on AWS
+
+Worked on AWS Oracle databases for App migration into private cloud
+
+Worked on AWS Database Migration Services for migrating data from Oracle to RDS
+
+Hands on experience in Implementing DataGuard High Availability Environment on RDS Oracle Databases
+
+Worked on Configuring and installation of DataGuard Broker on AWS Servers
+
+Worked on configuring and installing Data Guard Broker and implemented FSFO in Higher Environment
+
+Implement and maintain database security (create and maintain users and roles, assign privileges)
+
+Implemented RAT (Real Application Testing) Testing to run POC test for 12c upgrade on most critical databases
+
+Configuration and implementing various RMAN Backup and Recovery using Catalog or controlfile
+
+Configuration and implementing DDBOOST and TAPE (TDPO) Backup and Recovery
+
+Configuration and implementing / Automating Datapump Backup jobs (Full DB, Schema Level, Table Level)
+
+Frequently Cloning/Refresh Databases using RMAN, DDBOOST, Datapump export and import utilities
+
+Configuring and performing Flashback, Restore point, Archivelogs managing and Recovering Block-corruption using RMAN
+Pro-actively Monitoring and Management Databases using OEM GRID Control
+
+PL/SQL and Shell scripting to Automate Monitoring, Backup jobs, cleanup and Reporting jobs using CRONTAB as well as
+DBMS_SCHEDULER utilities
+
+Performance tuning by Fine Tuning Initialization parameters, I/O, Memory, storage and Operating System kernel parameters, Oracle SQL,
+optimizer, and query plan, optimize queries and performing PL/SQL code profiling
+
+Troubleshooting the Database Performance issues by analyzing Automated Workload Repository (AWR), Active Session History (ASH),
+Automatic Database Diagnostics Monitor (ADDM) reports, using SQL Adviser & UNDO Adviser tools, OEM GRID, TOAD
+
+Tracing Blocking / Locking and Long Running sessions, Wait Interface
+
+Capacity Planning as per Data growth and work-load by working closely with other decision making Teams such as Development,
+Business / Clients
+
+Apply CPU, DST, RDBMS patches to RAC Databases as per the requirement
+
+Supporting OS Patching activity for all RAC Servers
+
+Create databases for development, testing and production (including RAC databases and NON-
+
+RAC databases)
+
+OEM / GRID (OGC) installation and configuration for monitoring and performance tuning
+
+Performed Range Partitioning as a cause to improve the performance of the database
+
+Database monitoring and maintenance activities which include checking alert logs, space management, undo management, gathering
+database statistics, database locking issues, scheduling of jobs, creation of users, schemas, table spaces and other database objects
+Environments: Oracle 19c¢/18c/12c/11g RAC/ASM, Golden Gate, SharePlex, SAN, OEM 13c/12c, DataGuard, Toad, DataPump, AWR/
+ADDM. ASH, SQL
+
+LOADER, PL/SQL, UNIX Shell scripting, RMAN, Oracle Enterprise Linux 5/6/7, Sun Solaris, HP-UX 11, Windows, AWS, OCI.
+
+Contributed to internal activities for overall process improvements, efficiencies and innovation.
+
+Senior Database Administrator, 01/2014 - 07/2017
+
+Solute - Philadelphia, PA
+
+Performing all the Database Administration activity like space management in database, user and roles administration, schema management of
+all databases
+
+Set up and controlled user profiles and access levels for each database segment to protect important data.
+
+Experienced in automating routine server tasks and alerts using various scripting technologies Unix Shell scripting, batch files, configure
+alerts through OEM
+
+Implementing 11g Data guard with one physical database
+
+Used OEM Grid Control Diagnostic and tuning packs to tune application and SQL queries
+
+Installation, Configuration & Administration of Oracle 11gR2 RAC
+
+7 production support for day to day operations and On Call responsibilities
+
+Working knowledge of Exadata
+
+Involved in moving of OLTP databases to Exadata environment
+
+Attended EXADATA workshop familiar with Smart scan, Hybrid column compression, Flash cache and
+
+IROM
+
+Implemented Hugepages and performed Exadata health check on newly build Exadata environments
+
+Optimization and tuning SQL queries using TRACE FILE, TKPROF, EXPLAIN PLAN
+
+Extensive usage of ADDM, AWR, ASSM, features of 10g/11gR2
+
+Database structure changes, table/index sizing, SGA sizing, SQL, I/O and Application tuning, transaction monitoring, detecting lock
+contentions, tuning sort operations
+
+Timely Reorganization of tables and rebuilt of indexes to improve the performance of the SQL queries as part of scheduled maintenance
+window
+
+Developing online RMAN backup scripts to automate backup procedures
+
+Database Export/Import and evaluating the Backup and Recovery Procedures periodically & performing backups using RMAN
+Restoration and recovery from backup as timely manner to support application development team for testing
+
+Cloning of application from production environment to test environment using 11g new feature active database cloning and application of
+patches
+
+Configure and manage Oracle Advanced Security features Oracle Database Vault and Oracle Wallet manager for Encryption
+
+Security Administration including the management of profiles, roles, users and their privileges
+
+Providing controls on users with the required permissions and preventing them from performing unauthorized changes to databases
+Admunistrated User accounts by creating users, roles and privilege and managing those using grants and profiles
+
+Configure and manage Database Auditing
+
+Configure and manage Database Gateway for Oracle Heterogenious Services
+
+Clone RAC databases with various strategies like Cold/Hot/Logical Refresh and RMAN Backup
+
+On RAC systems did CRS upgrade,ASM upgrade, DB Upgrade and OEM Agent Upgrade
+
+Cloning from cluster database to Normal database and Cloning from Normal database to cluster database
+
+Handled all standard database administrative tasks, such as: proactive performance tuning and monitoring, trouble-shooting, back-up and
+recovery, installations and configurations on an as needed basis
+
+Transformed logical database designs into physical databases
+
+Build and implement test, quality assurance, and production databases and environments
+
+Coordinated strategies to move data between databases
+
+Created SQL tuning sets and SQL profiles for better optimization
+
+Database monitoring and maintenance activities which include checking alert logs, space management, undo management, gathering
+database statistics, database locking issues, scheduling of jobs, creation of users, schemas, table spaces and other database objects
+
+Have used different tools like TOAD, DBArtisan, EXPLAIN PLAN, AWR, ADDM., TKprof, Oracle Enterprise Manager (GRID
+CONTROL) 12c to solve the performance issues
+
+Helped developer in installing Oracle Client, troubleshoot and establish the connection to Oracle database through JDBC
+
+Responsible for monitoring RMAN backup jobs and analyze tables and indexes of Oracle database periodically for better performance
+Extensively used SQL, PL/SQL
+
+Designed Data Model using Erwin
+
+Installed, Configured & Supported MySQL databases
+
+Managed Data Repository / Datawarehouse Databases, performing necessary structural changes and ETL activities using Pentaho tool
+Environments: Oracle 11g, RAC/ ASM 11gR2 , MySQL, OEM 12c, DataGuard, RMAN, DataPump Expdp/Imppdp, Erwin Data Modeling,
+Pentaho, RHEL 4/5, ATX 6.1/7.1, Windows 2008 server.
+
+Database Administrator, 07/2012 - 12/2013 Sentry - Little Rock, AR On-Call 24x7 DBA support for production databases
+
+Implemented and supported 10g/11R2g RAC consisting of 2 to 8 nodes
+
+Managed multiple terabytes of databases
+
+Created database users, roles; manage database user security, passwords for all Development engineers/users
+
+Implemented 10g/11g Data guard with one physical database
+
+Automated housekeeping and monitoring jobs using Global scripting
+
+Installed and upgraded OEM 12.1.0.1 and 12.1.0.2 to 12.1.0.3
+
+Implemented Oracle Stream replication on database, Schema level and table level
+
+Implemented Oracle streams replication for both DML and DDL operations
+
+Trouble shooting of various database performances by proper diagnosis at all levels including SQL, PL/SQL, database design, database
+tables, indexes, Instance, memory, operating system and java calls
+
+Installed RAC on Oracle 10g and 11gR2 and worked on ASM feature of Oracle
+
+Security User Management, Privileges, Roles, Auditing, Profiling, Authentication
+
+Upgraded multiple databases from 91,10gR1,10.2.0.4 to 11.2.0.3
+
+Performed DR test in regular intervals for mission critical environments
+
+AS a part of database upgrade Involved in Upgrade Oracle TDE Encryption from 10g to 11.2.0.3
+
+Installed agents for MySQL and Timesten and DB2 databases as part of OEM 12C configuration
+
+According to the end user business requirement implemented transparent data encryption on RAC 11g
+
+Extensive Performance Tuning, Memory (SGA) Tuning, RAC tuning, Net backup, EMC (Time finder and SRDF), RAID, RAW Devices
+Data Migration as part of enterprise data warehouse project
+
+Used Triggers for database activities, including delete, update, and insert triggers for multi-master Replication
+
+Cloning databases using scripts as well as RMAN
+
+Installation, setup and configuration of DataGuard
+
+Used PL/SQL, SQL Loader as part of ETL process to populate the operational data store
+
+Perform Oracle replication (advanced Queues, materialized views etc.)
+
+Recovery of Database (Recovering from Media Failure, Recovering tables dropped accidentally, Recovering data files, Recovering from
+Block Corruption)
+
+Supported development effort by providing SQL statement tuning and optimizing ETL procedures and removing load and query
+performance bottlenecks by using tools Explain Plan, SQL Trace, TKPROF and Oracle Enterprise Manager
+
+Based on user scope and security purpose restricted users by using virtual private database (VPD)
+
+Also implemented VPD for sensitive information protection
+
+Solid discipline in providing end-users timely updates on their problems
+
+Installing server software
+
+Addition of users, objects etc
+
+As and when required and granting proper privileges for Database access
+
+Taking care of database by checking the size the database and addition of table spaces, data files
+
+Extensively worked with ASMCMD for managing ASM environment
+
+Made use of the REF CURSORS in stored procedures for report generation
+
+Daily Health Check Up of the Database using STATSPACK, AWR, ADDM
+
+Optimal Space utilization in tablespace by avoiding fragmentation
+
+Tuning SGA, I/O Tuning, Identifying contention, waits and tuning
+
+Taking periodic Backup of the Database and the software using RMAN and VERITAS NETBACKUP
+
+Able to work effectively with multiple teams at once
+
+Able to thrive in a fast-paced, time compressed and dynamic environment
+
+Solid skills and discipline for Change Management practices processes
+
+Environments: Oracle 10g/11g, RAC/ASM 10g/11g. OEM, DataGuard, RMAN, DataPump Expdp/Imppdp, Sun-Solaris, LINUX, MS SQL
+Server 2005/2008.
+
+Oracle Database Administrator, 08/2010 - 06/2011 Cvs Health - Champaign, IL
+
+Performing all the Database Administration activities like installation, configuration, cloning, patching, upgrade, performance tuning,
+backup & recovery, space management in database, user and roles administration, schema management
+Installation, Configuration, Upgrade, patching of Oracle RDBMS and applications
+
+Monitored Production Databases, Performed performance tuning, added data files. resized segments, and table spaces
+Security User Management, Privileges, Roles, Auditing, Profiling, Authentication
+
+Installed and configured Oracle 10g
+
+Migrated Oracle 10g database to Oracle 11g
+
+Supported the databases with frontend Siebel and Java applications
+
+Storage and space management including table spaces and data files
+
+Supported OLTP and OLAP databases for Siebel CRM Applications
+
+Monitoring Database for fragmentation and correcting them
+
+Database performance tuning using STATPACK, TKPROF. SQL Trace, Explain Plan
+
+Monitoring and Management of table space growth, extent growth
+
+Planning and implementation of Backup and recovery procedures and Maintenance of Database
+
+Performed Backup/Recovery using RMAN
+
+Wrote scripts for Startup, Shutdown and automation of backups
+
+Monitoring Scheduled jobs of the daily activities for the performance of all the databases
+
+Prepare the documents of the process and knowledge transferring about the project to the new team members
+Worked with the development team to solve the issues
+
+Checking alert log of all the databases
+
+Involved in the process of tuning and refining queries of various applications
+
+Written scripts for Health Check of Databases, Analyzing of Tables and Rebuilding of Indexes.
+
+EDUCATION
+---------
+
+Master of Science: 12/2012 National American University - Fremont, CA
+
+Bachelor of Technology: Electronics And Communication Engineering, 05/2011 Jawaharlal Nehru Technological University - Hyderabad, India
+
+ACCOMPLISHMENTS
+
+10+ years of experience in Information Technology in various roles as an Database Administrator having hands on experience in database
+administration and performed different tasks like installation, Configuration, Upgrades, Patches, Performance Tuning, Golden Gate,
+Backup and Recovery, Production Support, Cloning, Space Management, Database Security, Enterprise Manager(OEM) and Shell
+Scripting
+
+Install and configure Container and Non - Container databases, Pluggable databases - Architecture, Installation and the concepts associated
+with database
+
+Hands on experience in Amazon Web Services (AWS) provisioning and good knowledge of AWS services like EC2, $3, Elastic Beanstalk,
+ELB (Load Balancers), RDS, VPC, Direct Connect, Route53, Cloud Watch, Cloud Formation, IAM, SNS etc
+
+Automated RMAN Backups, Data pump, cloning, space management, database security, cloning, migration, AWS DMS, AWS KMS, AWS
+IAM, AWS ADG, AWS RDS, AWS EC2 and documentation
+
+Configured and installed, involved using AWS services such as EC2, Data Pipeline, $3, RDS and EMR
+
+Architecting new DBA solutions in AWS
+
+Provide domain expertise of open-source and commercial relational DBMS products and services (Oracle, SQL Server, AWS RDS) and
+NoSQL databases (e.g
+
+MongoDB) databases
+
+Performed Migration between different Data centers, Non ASM to ASM, Single instance to RAC
+
+Extensively worked on identifying bugs and installing necessary/latest CPU/PSU patches in a rolling fashion for both the Clusterware
+home and Database home
+
+Worked on Performance optimization of large objects (LOB, BLOB, CLOB) by monitoring redoes generation, increasing log buffer size,
+blocksize and changing archiving procedures and Query tuning using Statspack, TKprof and OEM
+
+Performance Tuning of the database (Memory Allocation Tuning, I/O Tuning, Tuning Contentions) using oracle tools like AWR, ADDM,
+Advisories, TKPROF, EXPLAIN PLAN for the Better performance
+
+Provided technical troubleshooting and give consultation to development teams
+
+Performed Database Refreshes and Database Copies for Development, Test and Production databases
+
+Implemented basic replication through Materialized Views
+
+Expertise in cross platform data migrations using Transportable Tablespaces
+
+Excellent Troubleshooting skills in OS level and Database level
+
+Worked on AWS DMS for Migrating Oracle databases
+
+Worked on $3 buckets and Cloud trails to monitor logs and backups
+
+Experience in monitoring and managing of Oracle instances using Enterprise Manager Grid Control (OEM Grid) 10g/11g/12c/13c
+Worked on building and rolling out new databases for Dev/SIT/UAT environments
+
+Setup and configured Oracle Enterprise Manager Cloud control and use it as a tool of Administration, monitoring and performance tuning
+Experience in Construction of Catalog Databases and developed scripts to perform Backups using RMAN
+
+Implemented RMAN backup (Full, incremental and cumulative) and recovery and disaster recovery
+
+Installation and configuration of Recovery Catalog for multiple Databases
+
+Experience in taking logical backup of the database using DATAPUMP (Expdp/Impdp)
+
+Used oracle configuration assistants like Database Configuration Assistant (DBCA) for creating databases, ADRCI for Oracle Database
+diagnostic data, Database Upgrade Assistant (DBUA) for upgrading databases and Network Configuration Assistant (NETCA) for creating
+a Listener, TNS names to establish a Client-Server environment
+
+Experience in implementation of enterprise databases on enterprise Storage Solutions using Storage area Networks (SAN) / Network
+Attached Storage (NAS)
+
+Experience in configuring, managing and monitoring ASM for standalone and RAC databases
+
+Experience in Performance Tuning for better performance
+
+Identifying bottlenecks with memory and disk contentions
+
+In-depth study of Automatic Workload Repository (AWR), Active Session History (ASH) and Automatic Database Diagnostic Monitor
+(ADDM) reports
+
+Hands on experience in implementing and installation of DataGuard Broker for EC2 instances and supported High Availability
+environment in Multi-AZ locations
+
+Responsible for 24x7 production operations (incident break/fix, change, service requests, management) and On-Call rotation.
+
+ADDITIONAL INFORMATION
+
+Provided DBA support to multiple Cluster, Non Cluster and ASM Database in production, development and Testing Servers in UNIX, AIX
+& Windows Environments. Experience in Installation of Oracle Real Application Cluster (RAC) with ASM and manage RAC instances
+using CRSCTL and SRVCTL Utilities. First hands-on experiences in software and firmware maintenance of both the Database and Storage
+servers in the Exadata database machine including upgrades and patching. Provide and implement performance tuning recommendations of
+all components in Exadata database machine. Develop and record certified processes/procedures for all potential IT downstream support
+groups to maintain and upgrade the Exadata database machine. Deep understanding about Exadata specified features such as Smart Scan,
+HCC Hybrid Columnar Compression, Flash Cache, etc. Backup and Recovery issues related (loss of OCR, Voting Disk and Oracle cluster
+ware) & also issues with corruption of individual disk data blocks, loss of OS configuration files, loss of net configuration files Resolved/
+Diagnose Node Eviction. Add or Remove Node from RAC. Implement & Configuring replication technology using Dataguard & Golden
+Gate installation. Worked on Implementing Disaster Recovery strategies for RDS Oracle databases and documented into confluence page.
+Installation, Configuration and Maintenance of Physical/Active standby databases in Data guard. Implemented Dataguard with Maximum
+Availability, Protection and Performance configurations and worked with Dataguard Failover and Switchover cases. Resolving the different
+sync issues in DR by identifying the root cause and resolving the same, restore logs and applying manually if necessary. Golden Gate
+Install, Configuration, Maintenance, Trouble Shooting and Upgrade. Upgrade of Grid and Oracle Infrastructure on multi node RAC cluster
+from 11g to 12c and 12c to 19c.
+
+CERTIFICATIONS
+--------------
+
+Oracle Certified Professional

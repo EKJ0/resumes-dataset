@@ -1,0 +1,223 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+CAREER OVERVIEW
+
+Proficient software and senior database developer with extensive experience in Advertising, Finance and IT industry. Adept at adapting work
+pace to evolving client deadlines. Around 10 years of experience in Database development, analytics reporting, data center move, Security
+Control Measures, Technical Problem Solving and support using Embedded SQL, MS SQL Server, Reporting Services (SSRS) and other
+technologies. Dedicated team player, willing to go above and beyond to meet deadlines and satisfy customer requirements and proven ability
+to implement solutions that decrease costs, increase performance and positively affect the bottom line. Excellent communication and
+
+organizational skills.
+QUALIFICATIONS
+- Programming and design skills © GUI and tools
+- Strong analytical skills © Strong collaborative skills
+- Database servers ¢ Document management
+- Structured query language (SQL) © Optimizing and performance tuning
+- Excellent problem solving skills e Testing
+- Customer needs assessment © Reporting and Analytics ACCOMPLISHMENTS Requirements Analysis
+
+- Helped during business requirements analysis including the evaluation of systems specifications for new reporting solution and data warehouse architecture ahead of deadline. Leadership
+- Served as leader of analytics reporting solution. Quality Assurance
+- Streamlined QA process to increase efficiency and delivery for Analytics Reporting. Operational Management
+- Developed, coded, tested, debugged and documented Custom Reporting solutions using SQL/ Embedded SQL and Excel Analytics. Technical Training
+- Actively mentored, trained and supervised new hire database developers with domain and technical knowledge sharing.
+
+WORK EXPERIENCE
+---------------
+
+2016 to Current Senior Database Developer Rural Sourcing - Madison, WI
+
+- Creating historical data reports for future client requests
+
+- Maintaining ETL processes for 24/7 raw data processing, aggregating at different levels of hierarchy and reporting as per the client requirements and performance goals.
+
+- Fixing job failures due to system failures / data issues / other causes of the 24/7 ETL processing.
+
+- Researching data discrepancies and implementing the resolutions or the changes required.
+
+- Creating analysis reports using T-SQL / SQL Server 2008 Reporting Services.
+
+- Continuous interaction and discussion with different individuals among various departments in the company in case of red flags and the discrepancies issues, to get to the bottom of the issue and resolving it without affecting the bottom line client users.
+
+- Documentation of data processing steps, reporting analysis, failure causes and resolutions which will be useful to the developers.
+
+- Also includes but not restricted to SQL programming, code debugging, 24x7 production support.
+
+- Environment: MS SQL Server 2005/ 2008, TSQL, Embedded SQL, VB Script, SSRS, MS Excel 2013
+
+08/2008 to 11/2015 Senior Database Developer Rural Sourcing - Milwaukee. WI
+- Online Data Collection, Management and Reporting Analytics It is next generation rich media ad creation, delivery and measurement tool. It combines all creative tools, media tools and ad serving functionality into a single. powerful interface that allows total access to all aspects of the advertisements. Offers the end users unprecedented flexibility to quickly and accurately design online campaigns, managing them from start to finish and providing reporting and analysis from a single location.
+
+Worked in Scalable Agile Framework environment towards building software incrementally with fast learning
+cycles with best quality and value to client deliverables.
+Creating, modifying and maintaining ETL processes for 24/7 raw data processing, aggregating at different levels of
+
+hierarchy and reporting as per the client requirements and performance goals.
+
+Fixing job failures due to system failures / data issues / other causes of the 24/7 ETL processing.
+
+Knowledge sharing and helping new hires to get them up-to-speed with cross department training related to
+database management team.
+
+Data Center Move where worked on scripting out database objects to export them into another environment,
+reporting services installation and configuration, documenting and setting up new server environment variables,
+database backups and restore.
+
+Researching data discrepancies and implementing the resolutions or the changes required.
+
+Creating analysis reports using T-SQL / SQL Server 2008 Reporting Services.
+
+Tying in data from complex SQL Server stored procedures and macros while creating the pivot tables tied to new
+
+source data.
+Also includes but not restricted to database schema design, SQL programming, code debugging, 24x7 production
+support, testing and code review.
+
+Continuous interaction and discussion with different individuals among various departments in the company in
+
+case of red flags and the discrepancies issues, to get to the bottom of the issue and resolving it without affecting the
+
+bottom line client users.
+
+- Documentation of data processing steps, reporting analysis, failure causes and resolutions which will be useful to the developers.
+
+.
+
+- Environment: MS SQL Server 2005/ 2008, TSQL, Embedded SQL, VB Script, SSRS. MS Excel 2007.
+
+2007 to 07/2008 Programmer Analyst New Jersey Institute Of Technology - Newark, NJ
+
+- Advertisement Data and Investment Management Duration Advertisement Data and Investment Management is the powerful information tool that helps user see the complete media picture through 24/7. It provides comprehensive advertising information on 2.2 million brands across 19 media. It is a vital resource for advertising professional, media specialists and marketers. It is the gold standard for timely, relevant and actionable advertising information; delivering answers to the important media questions related to data and investments, capitals that impact your business.
+
+- Adding some new features to WBI Products with user friendly approach, enhancing new reporting capabilities visualization, reducing redundancy of data and many such other features.
+
+- Supported 24/7 to nightly and weekend maintenance processes to make sure the applications are getting up-to-date data without and errors and interruption.
+
+- Also altered databases and modified scripts during production support issues.
+
+- Prepared Data Flows, Process Flows documentation for nightly and weekend maintenance.
+
+- Also prepared documentation for the data flow during data loads for different media.
+
+- Also did some of manual loads for magazine ratings data.
+
+Flat files to databases ASE and IQ.
+
+- Also did unit testing for different modules.
+
+- Also prepared documentation for the testing environment and the processes to be run against testing environment for database migration.
+
+- Environment: C, Kornshell, Sybase, MS SQL Server, TSQL, Perl, SUN OS, Apache Web Server.
+
+06/2006 to 11/2006 Programmer Analyst Trainee Asset Mark - Encino, CA
+
+- Project Employee Record Management This is an employee record management system to handle the employees’ record for various purposes in the company. The recipient systems and users include system administration, security and facility management applications and personal. It has modules to maintain employee and build databases on employee required info and export to various other applications. It has reporting module for basic and advanced reporting.
+
+- Wrote the Perl code distributing data exports generated by application to recipients.
+
+- Used VB for front end forms and reports.
+
+- Used Sybase connection from VB for data retrieval and updates.
+
+- Created many Stored Procedures in Sybase and used from VB.
+
+- Worked in data export module using VB and Sybase.
+
+- Created many data outputs including PDF and Excel.
+
+- Developed different functions in Perl for data export, distributing and logging.
+
+- Worked as a developer to create various modules of the application.
+
+- Supported VB programmers with TSQL queries and Stored Procedures.
+
+- Worked in Stored Procedures related to asset creation, modify, delete etc., and created various reports which are supported by Stored Procedures.
+
+- Environment: TSQL. VB 6, Perl, DBI/DBD, SendMail, Odbc, Sybase 11.5.1, Solaris 2.4, Windows NT/2K.
+
+11/2003 to 11/2004 Software Engineer Asset Mark - Atlanta, GA, India
+
+- Insurance Quote Generation System Duration This system is mainly is designed for employees of small businesses. The insurance brokers gather the insurances needed for the employees of the small business and they are entered to the application. The system generates various benefit package and price quotes after going through the validation entered to the system by the brokers. The price quote is web-based, but could be reformatted to word and sent to the small business owner with the different insurance reports they could provide to their employees.
+
+- Wrote many Perl/CGI modules for upload, download and presentation of the documents.
+
+- Wrote TSQL queries for document information look up.
+
+- Designed and developed many Stored Procedures.
+
+- Modified front end pages using HTML.
+
+- Created new PERL/CGI scripts to support new functionalities.
+
+- Worked in document search module using PERL/TSQL.
+
+- Took part in design and user meetings.
+
+- Did unit and system level testing.
+
+- Created web pages using Html and JavaScript.
+
+Used DBI/DBD modules for connectivity.
+
+- Environment: Perl, CGI, DBI/DBD, Html, JavaScript, Sybase 11.x, HP UNIX, Apache Web Server Company.
+
+05/2003 to 11/2003 Software Engineer Disha Technologies - City, STATE, India
+
+- Equity Post Trade Compliance System This application supports legal advisory group in the firm. The business users set up the compliance rules, which are applied on the holdings of funds. This helps to supervise the legal proposition as back and front - end tool. The system uses the security and positions data from various vendors.
+
+- Worked extensively in the back end Sybase database.
+
+- Created many Tables, Stored Procedures and Triggers on Sybase server.
+
+- Worked in performance tuning on Sybase using de-normalization techniques.
+
+- Developed Perl/CGI scripts for various user interfaces.
+
+- Created many search result pages using PERL, CGI, Sybase, and JavaScript.
+
+- Developed mail alert mechanism for alerting the users when their selection criteria are met.
+
+- This is developed using PERL, Sybase and Stored procedures.
+
+- Used Perl DBI/DBD connection for Sybase.
+
+- Developed many PERL modules and packages, Enhanced existing PERL scripts.
+
+- Created many new functionality for report distribution module and user/client update module.
+
+- Participated in Quality analysis and testing
+
+.
+
+- Environment: Perl, CGI, DBI/DBD, Html, JavaScript, Sybase 12.5, HP UNIX, Apache Web Server.
+
+EDUCATION AND TRAINING
+
+2006 Masters of Science: Computer Science New Jersey Inst. Of Technology - Newark, New Jersey
+
+2003 Bachelors of Engineering: Information Technology Shivaji University - Kolhapur, Maharashtra
+
+SKILLS
+------
+
+Databases: MS SQL Server (2000, 2005 and 2008), Sybase, Oracle 8, MS Access, IBM Netezza
+
+Languages: C, C++, TSQL, Kornshell, Perl, Java, C+, HTML, Visual Basic
+
+Microsoft Technologies: SQL Server Reporting Services, SQL Server Analysis Services, MS Word, MS Excel, MS PowerPoint, MS
+Outlook, MS Office Excel Services, MS FrontPage
+
+Tools: SQL Server Management Studio, SQL Server Enterprise Manager, DBI, Crontab, ODBC, Subversion, Visual Source Safe, Erwin, SQL
+Advantage, Reflection Unix Client(XDMCP Broadcast mode), E_Term32 Unix Client, Sybase Central (Java Edition), Numara
+FootPrints(Issues and error tracking)
+
+Operating Systems: Windows 95, 98, 2000, 2003, XP, Windows 7, Linux , HP UNIX, Sun Solaris
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

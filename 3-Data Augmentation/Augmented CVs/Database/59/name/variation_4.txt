@@ -1,0 +1,296 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jamal Jackson
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+PROFESSIONAL SUMMARY Client-focused Database Administrator with Over 8 years proactively working
+toward achieving high client satisfaction. As an IT professional, I'am very much committed to maintain cutting
+edge technical skills And up-to-date industry knowledge. Deadline-focused with broad skill range including,
+Database Design Development And Support of MS SQL Server 2019/2017/2016/201 4/2012/2008R2/ in
+Production, non-production, UAT, Test, Development And Cluster Server Environments. Strong Skill set in
+Database Administration using Windows platform. Always eager to acquire knowledge, share with colleagues,
+also have experience in Azure. Very much committed to maintain cutting edge technical skills And part of
+multiple IT Professional groups for up-to-date industry knowledge, participate in blogging like PASS, SQL
+Saturday, etc.
+
+- SQL Server Databases (2019,2017,2016, 2014, ¢ PL/SQL
+2012 and 2008R2) in administering, installation’ e T-SQL
+- Configuration, upgrading, migrating, patching, « NET performance tuning, backup and recovery, High e¢ Problem management
+- Availability and Disaster recovery technologies. ¢ Database administration
+
+- Microsoft SQL Server ¢ Linux operating system
+- Azure ¢ Performance Turning and Trouble shooting
+- Scripting ¢ Excellent work ethic. e« SQL
+- TFS
+SQL SERVER DATABASE ADMINISTRATOR 06/2018 to CURRENT
+
+Netsmart | San Jose, CA
+
+- Designed and implemented TSQL queries for reporting and complex solution development.
+
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+
+- Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
+- Developed custom database objects, stored procedures and delivered application support.
+
+- Created optimal technical solutions to user needs through research and in-depth system analysis.
+
+- Followed standard practices for migrating changes to test and production environments and provided technology support to meet business requirements.
+
+- Created and implemented database designs and data models.
+
+- Planned and implemented security measures to safeguard vital business data.
+
+SG2 SERVER DBA, MANAGER 02/2016 to 05/2018 Nbc Universal | Washington, DC
+
+- Installation and Maintenance of SQL Server 2017/2016/2014/2012 on Test,
+
+- Development and Production Environments in both standalone and clustered servers
+
+- Administration and maintenance of 150+ SQL Server Instances hosting more than 600+ databases DEV/UAT/PROD/DR environments
+
+- Installed /Patched/Upgraded/Migrated from SQL Server 2005, 2008R2 to SQL server 2012 /2014 on Multiple DEV / UAT / PROD/ DR Servers
+
+- Strong experience in working on Very Large Databases (VLDB) over 50 TB for OLTP
+
+- Strong experience in supporting and maintaining SQL SERVER 2012/2014 two nodes cluster in both
+
+- Active/Passive and Active/Active architecture
+
+- Worked closely with development team for database performance tuning, code reviews and provided vital inputs in terms of index optimization, schema structures and data changes
+
+- Work with team of 6 DBA's in designing and implementing new SQL Server 2017 concepts like Always
+
+- ON Availability Groups for HADR and use secondary replica to offload some critical application read only/reporting workload hence improving Performance on Primary replica (Production) databases.
+
+- Supported daily database task like creating logins, users, fixed orphan user issues, creating new databases, disk space check, and Consistency checks, looking for slow/long running queries and hung jobs and resolving end user's database issues through tickets
+
+- Experience in designing and implementing SQL server backup and recovery solutions (FULL,
+
+- DIFFERENTIAL & TRANSLOG BACKUPS) using SQL Server native tools and also using third party tools backup like Veaam, SQL Lite
+
+- Experience in implementing and maintaining SQL server HADR technologies like Log shipping, Mirroring,
+
+- Always ON, FCI and troubleshooting related configurations issues
+
+- Implemented Disaster Recovery Planning, Testing and Analyzing, continuous update of documentation
+
+- Involves in change review meetings to review, analyze and effect changes that have to be made on critical Production databases
+
+- Worked with upgrading, cloning and migrating SQL databases in SQL Server
+
+- Fog Lite, SQL Lite Speed, Nagios, Jira Service Desk, IDERA diagnostic, Expertise experience in
+installing new instances of SQL Server 2008 R2, 2012 AND 2014 on Microsoft Windows Server2012 R2
+and following best practices
+
+- Monitored and administered SQL Instances on standalone servers and Cluster environment
+
+- Highly experience on handling VLDB such ranging from 500Gb to 3T on different
+
+e« VMS which added up to a total of 50T both in UAT/DEV & PROD environments
+
+- Installed and administered 2 Node cluster on Microsoft Windows Server 2012 R2
+
+- Enterprise Edition on SAN storage
+
+- Strong experience in Database Optimization and Tuning, Backup/Restore,
+
+- Troubleshooting, and Data Import/Export
+
+- Expertise in designing , implementing processes and standards for database systems, recovery and back-up checks.
+
+- Updated database systems by reviewing, planning, testing and installing database security patches and service packs.
+
+- Expertise in troubleshooting SQL Server Agent jobs, Error Logs. Windows Logs to resolve failure job component.
+
+- Extensive experience in monitoring and making recommendations for performance improvement in hosted databases, this involved index creation, index rebuilt, index reorg.
+
+- Experience in cloud databases such as Synapse
+
+S@Q SERVER DBA 03/2013 to 11/2015 WinWire | City, STATE
+
+- Installation, Administration and Maintenance of SQL Server Instances
+
+- (Installing SQL Server)
+
+- Setup Test, Dev, Staging and Production Environments
+
+- (Installing SQL Server)
+
+- Create Users and assign permissions based on level of database access user would need
+
+- (Security)
+
+- Create Linked Servers to SQL Servers and other databases such as Oracle, Access,
+
+- - Informix
+
+- (Security and General Administration)
+
+- Design database Backup and Restoration Strategy
+
+- (Database Backups and SQL
+
+- Server Agent
+
+- Create Linked Servers to SQL Servers and other databases such as Oracle,
+
+- Access, Informix
+
+- Design database Backup and Restoration Strategy
+
+- Create database Backups, monitor those backups are being performed regularly
+
+- From time to time recover databases to specific point of time, as per requests
+
+- Setup High-Availability as part Disaster Recovery Strategy for Databases
+
+- Troubleshoot various problems that arise in day-to-day work and fix issues
+
+- Monitoring and Performance Tuning; Physical Server Level, Database level (Database settings and options) and query tuning
+
+- DTS
+
+- Experience in using BCP. Exported and Imported data from other data sources like flat files using Import/
+
+- Export through DTS, SSIS
+
+- Responsible for monitoring and making recommendations for performance improvement in hosted databases, this involved index creation, index removal, index modification, file group modifications, and adding scheduled jobs to re-index and update statistics in databases
+
+- Involved in Optimization and Performance Tuning of SQL Server using SQL Profiler and Performance monitor, extended events, DMV's, Activity Monitor, Resource
+
+- Monitor and other third-party tools
+
+- Experience in troubleshooting and resolving application blocking, locking and deadlock issues by using sp_who2, Sp who is active
+
+- Experience is detaching, attaching and cloning SQL server database from once database server DEV to TEST for developer to test their codes
+
+- Experience in setting up SQL server jobs, Monitoring Notifications, Alerts, database mail to make sure all jobs run successfully and revert back to SQL server errors and windows to event to find root cause of failed jobs
+
+- Experience in administering on-pram databases such as Oracle,
+
+- Expertise installing and configuring SQL server Reporting Services (SSRS) to design and develop different reports of performance metrics
+
+- Checking Database Health by using DBCC Commands and DMVS
+
+- Experience in cloud databases such as Synapse,
+
+- Redshift, Snowflake, Big Query
+
+- Performed Database Integrity Checks, updated Database Statistics and performed
+
+- Re-indexing
+
+- Created and managed schema objects such as tables, views, clusters, indexes, procedures and triggers and maintained Referential Integrity
+
+- Implementation of SQL Logins, Roles and Authentication Modes as a part Security
+
+- Policies
+
+- Ensure backup and recoverability of all enterprise SQL server databases using
+
+- Native SQL and Veaam and SQL Lite Backups
+
+- Created Databases on Azure SQL Server in PAAS and IAAS setup and Migrated databases to and from
+
+- On-Premises datacenter to Azure using different techniques like Azure DATA Sync, Azure database copy,
+
+- BACPAC files, BCP and Import and export
+
+- Experience in writing and editing T-SQL Scripts for database backup jobs and daily/weekly jobs and automated some of process
+
+- Work with Server/ infrastructure to implemented Capacity planning for different server database servers
+
+- Revamped company website via deploying responsive design and facilitate mobile user increase
+
+- Migrate SQL databases and data sources to Relational cloud-based Azure platform (PAAS)
+
+- Performed data partitioning for efficient management of database tables and indexes
+
+- Maintaining the database consistency with DBCC at regular intervals
+
+- Monitored and modified Performance using execution plans and Index tuning
+
+- Working on Client/Server tools like SQL Server Enterprise Manager and Query
+
+- Analyzer to Administer SQL Server
+
+- Experience in applying Service Packs at database and OS Level
+
+- Experienced working in agile environment using Jira and also working with company security and governance team to keep all cooperated databases SOX,
+
+- 18027001 and HIPPA compliance
+
+- Support database disaster recovery efforts and coordinate with application owners to ensure that database recovery supports recovery times stipulated in
+
+- IT Contingency Plans that are managed for specific systems
+
+- Technical Analysis, Code Review, Implementation, 24 x 7-production support
+
+- Used TFS for source control and managing development via tasks/bugs
+
+- Design configures modify and enhance applications as necessary
+
+- Bi-Weekly on-call support for Production Environment
+
+- Handling and Designing advertisement for “Jobs, Real Estate, and Retails Shop” fields
+
+- Handling US based project
+
+- Designing advertisement using HTML & XML tag - Offline Project
+
+- Handling XML E-Book Projects (Styling, Tag Edit, QC)
+
+- Handling Data Processing projects
+
+- Environment: SQL Server 2019/2017/2016/201201 4/2012/2008R2, Windows 2008, 2008 R2, 2012 Servers, Azure, ADO.NET, Red gate, MS Visio, Microsoft SQL server
+
+- Visual Studio 2005/2008, T-SQL, MS Business Intelligence Development Studio 2008,
+
+- Big Query
+
+- Redshift, Snowflake native SSMS tools
+
+- Experienced to work in coordination with different Teams (like Network Team,
+
+- Windows Admins, Storage Admins, and other application Teams) as well with
+
+- Stakeholders and customers
+
+- Experienced with High Availability solution such as Always On, Cluster,
+
+- Mirroring and Log Shipping
+
+- Experienced in rewriting and restructuring store procedures and views with
+
+- T-SQL
+
+- Expertise in writing technical reports for the management and for other of
+
+- Production support
+
+- Provided 24x7 production support for SQL Server databases on Clustered Servers with sizes ranging from 1 to 2 Terabytes to achieve maximum performance and uptime in production environment
+
+e« Asana / 2008R2, T-SQL, SSIS, Asana, Red-gate, Lite
+
+- Speed, SQL Profiler, Performance monitor, BCP. Log Shipping, Mirroring,
+
+- Clustering, Windows Server 2012R2, .Net Framework, C#.Net, JavaScript, MS TFS,
+
+e« MS-Access, SharePoint 2010, Oracle 10g, IIS 6.5,7.5, 8.0, SolarWinds, and PAL tool.
+
+Bachelor's degree | Information Science 11/2007 University of Lagos, Lagos, GU

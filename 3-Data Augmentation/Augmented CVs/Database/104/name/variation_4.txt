@@ -1,0 +1,119 @@
+Jamal Jackson
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Skilled, solutions-oriented Senior Database Administrator with impressive background in development, administration, and support
+of complex databases environments. Hands on experience conducting database updates and migrations across numerous platforms.
+
+Able to monitor and analyze database systems, implementing improvements, and resolving issues to ensure optimal performance.
+
+SKILLS
+------
+
+- Microsoft servers, UNIX AIX, Linux
+
+Databases, SOP
+
+- Tools: Synoptix, Entrinsik Informer, CS Gold, Double-Take e Microsoft SQL Server RecoverNow Administrator, Oracle 11g/9i/8i/7.3, Oracle ¢ Disaster recovery OEM, Oracle RMAN, Autosys Job Scheduling, Crystal * Documentation Reports, Golden Gate Replication software, JDA retail ¢ Upgrades application, Quest products for Oracle, Quest products for ¢ VERITAS Volume Manager MSSQL, VERITAS Volume Manager, Microsoft SQL Server ¢ Migration
+2005 - 2016 ¢ Decision-making
+
+- Training: CSGOLD Administration-Maintaining a MSSQL e Team management
+Server 2005 - 2016, Golden Gate Replication Administration- Project planning Oraclellg Architecture & Administration - Oraclellg ¢ Team building
+Network Administration - Oraclellg Performance & Tuning- . Troubleshooting
+
+Oracle 11g Backup and Recovery - Fast Track to SOL Server - System 11 SQL Server Internals - Data Structures - - System 11
+Administration - System 11 Performance & Tuning - Oracle 11g Database Administration - Fast Path to DB2 UDB
+
+- Backup, Oracle
+
+- Budget, DBA
+
+- Project lead
+
+- PVCS
+
+- Quest
+
+- CRM, Reporting
+
+- Crystal
+
+- Crystal Reports
+
+- Database Administration
+
+WORK EXPERIENCE
+---------------
+
+Managing Assistant Director of Database Systems, 2018 to Current Kean University - City, STATE
+- Maintain 100+ MSSQL Server databases versions ranging from 2005-2016.
+- Consistently maintain database uptime of 99.3% month to month.
+- Project manager for upgrading the business object reporting system from 3.x to 4.2.
+- Successfully upgrade all SQL servers from current versions to SQL 2016 & 2017 based on application optimization.
+- Negotiated all contracts with vendors for the group to receive best pricing and terms.
+- Designed backup and recovery procedures for all SOL servers.
+- Administrated and maintained CSGOLD financial system.
+- Designed test systems for all production systems.
+- Synoptix administrator.
+- Designed DR plan for all database systems based on own recommendations and experiences.
+- Restructured physical database configuration on all databases for 73% performance improvement.
+- Redesigned the physical architecture of all SOL Servers to improve performance.
+- Restructured BI reporting security to ensure information was confidential to various levels.
+
+Manager Database Administrators, 2006 to 2017 Hudson Group - City, STATE
+- RMAM for disaster recovery process, 141 batch jobAutosysAutosys Job Scheduling, new MSSQL 2008 systems, Crystal Reports Server.
+- Administered and troubleshot database systems companywide, MS NavVision, Oracle XBR, and Double-Take RecoverNow.
+- Upgrades: Oracle 9i to 11g, Crystal Reports Server X to Crystal Edge Server.
+- Projects Led: Great Plains financial system upgrade, major upgrade of Hudson systems to include AIX, Oracle, JDA, PVCS, Crystal Reports.
+- Conducted 60+ database migrations and updates on Oracle & MSSQL platforms.
+- Maintained a database uptime of 99.3% month to month.
+- Designed five databases from the ground up.
+- Evaluated new database component software to make recommendations and implementing this software as needed.
+- Updated disaster recovery procedures quarterly.
+- Monitored and supported all production systems to ensure optimal uptime and reliability.
+- Created database operations and standard operating procedure documentation for upper management and external auditors.
+- Utilized Quest products for Oracle to monitor JDA retail application.
+- Project lead for the Migration of Oracle from AIX system to Linux system.
+- Negotiated all contracts with new vendors and vendor renewals for the group.
+- Responsible for $500K worth of purchases within group.
+- Project Manager for IT Group on all infrastructure projects to track they were on time and on budget.
+- Spearheaded creation of all database systems from development to production for the JDA system.
+- Created all production systems SOP documentation.
+
+Manager Database Administrators, 2002 to 2006 Party City - City, STATE
+- Database Migrations/Updates: Oracle.
+- Liaised between DBA’s and application-development team to identify and resolve database-performance issues.
+- Monitor and support all production systems to ensure optimal uptime and reliability.
+- Successfully migrated two production systems to one reporting system utilizing Golden Gate replication system.
+- Tasked with creating all documentation and procedures to meet Sarbanes-Oxley regulations.
+- Spearheaded migration of all test, development and production system from IBM P670 to IBM P570 system.
+- Create and update regularly disaster recovery procedures.
+- Evaluate, recommend, procedure, and implement new database-component software.
+- Create database operations and standard operating procedure documentation.
+
+- Orchestrated upgrade of Oracle systems from 8i to 9i.
+
+Manager Database Administrators, 2000 to 2002 C3i - City, STATE
+- Directed all internal database services for this leader in outsourced and CRM services.
+- Developed extensive documentation for all database operations.
+- Managed 10-member team of DBA’s to provide daily maintenance on all internal client database systems.
+- Evaluated and delivered recommendations on all potential new software purchases.
+- Developed and managed security and disaster recovery procedures for all internal and client databases.
+- Evaluated team members on performance and coached employees as needed.
+- Directed all phases of database development, maintenance, and support.
+- Orchestrated implementation of and provided remote monitoring for complex database systems for several pharmaceutical clients.
+
+Education and Training
+
+Associate of Applied Science County College of Morris - Randolph, New Jersey
+NavVisionTRAININGS: Oracle Administration, Crystal Reports, Informex, CS Gold System Administrator
+
+Accomplishments
+
+- Consistently maintained a database uptime of 99.3% month to month.
+- Responsible for 100+ MSSQL server databases and successfully maintain all of them.
+
+- Chosen as project lead numerous times to lead and train employees on projects needed.

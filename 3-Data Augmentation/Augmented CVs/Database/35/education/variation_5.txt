@@ -1,0 +1,174 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+Multi-talented Database Administrator with 11 years of expertise in designing, testing and coding database
+solutions in various environments. Highly skilled in multiple technologies such as Healthcare(Cerner),
+Database administrator, Cloud Architecture and Application Express. Motivated self-starter consistently meets
+
+deadlines and succeeds in high-pressure environments.
+
+Certified Oracle Cloud Architect Database Administration
+
+Senior System Engineer Microsoft PowerShell
+
+Shell scripting
+
+Virtual and Cloud Technologies Database Analysis
+
+Microsoft SQL
+
+Application Express
+
+Writing Queries
+
+Continuous Process Improvement Information Systems Management Root Cause Analysis
+
+Good Work Ethic
+
+DATABASE ADMINISTRATOR 2-IT Prolim Global | Newport News, VA
+
+Critical Thinking
+
+Friendly, Positive Attitude Reliable & Trustworthy
+
+Data Conversion and Migration Data Management
+
+Problem Resolution
+
+Microsoft Office
+
+Training & Development Apache Tomcat
+
+Data and Systems Architecture Technology Best Practices System Testing
+
+Application Administration Infrastructure Buildout
+
+10/2022 to CURRENT
+
+Analyzed database applications and made necessary adjustments to parameters and architecture to
+
+improve performance.
+
+Analyzed and developed technical and functional specifications for databases.
+Provided support for complex issues related to software tools, applications and databases.
+
+Defined synchronization plan for patch management.
+
+Collaborated with stakeholders to gather business requirements for enhancements and change
+
+requests.
+
+Migrated ON-Prim Databases to Oracle cloud Infrastructure.
+Built and Managed EXADATA Databases in Oracle cloud Infrastructure (OCI) Created a Database backup to OCI and restore tool using Application Express.
+
+DACABASE ADMINISTRATOR 3
+
+Caci International Inc. | Orlando, FL
+
+01/2019 to 10/2022
+
+Analyzed database applications and made necessary adjustments to parameters and architecture to
+
+improve performance.
+
+Provided support for complex issues related to software tools, applications and databases.
+
+Analyzed and developed technical and functional specifications for databases.
+
+Created and monitored performance metrics to keep databases functioning at optimal capacity.
+Defined database design specifications based upon project requirements.
+
+Worked with software vendors to analyze and resolve software installation and ongoing support issues.
+Developed data models and database designs to plan projects.
+
+Supported end users in selecting, procuring and using software applications.
+
+Aligned systems with business needs to enhance scalability of database structures and recommend
+
+improvements.
+
+Consulted with internal departments to identify customer needs to include in project objectives.
+
+SYOTEM ENGINEER 2 Agfa | Munich, ND
+
+08/2014 to 01/2019
+
+Provided effective resolutions to issues and escalated problems with knowledgeable support and quality
+
+service.
+
+Maintained servers, software and operating system equipment.
+
+Maintained database and server storage.
+
+Provided exemplary helpdesk service and support to assist customers.
+
+Provided needs assessment, systems analysis, troubleshooting and resolution.
+
+Managed, troubleshot, backed up and restored data, operating systems, files, documents and drivers to
+provide comprehensive systems management and support.
+
+Trained and directed users on correct use of software and hardware within systems.
+
+Participated in IT department meetings to identify continuous improvement opportunities and enhance
+
+delivery of IT services to users.
+
+Kept systems operating efficiently by performing necessary upgrades and repairs.
+
+Provided appropriate permissions to users for accessing files and databases.
+
+Implement policies, procedures and best practices to safeguard and protect data, reports and access.
+Increased team productivity and automated repetitive tasks with batch files, PowerShell and VBScript.
+Performed data backups and disaster recovery operations.
+
+Conducted basic troubleshooting to isolate and diagnose common system problems.
+
+Worked closely with systems analysts, engineers and programmers to understand limitations, develop
+
+capabilities and resolve software problems.
+
+Recommended improvements to facilitate team and project workflow.
+Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+
+SYOTEM ENGINEER Cerner | City, STATE
+
+07/2012 to 07/2014
+
+Provided effective resolutions to issues and escalated problems with knowledgeable support and quality
+
+service.
+
+Built and Maintained servers, software and operating system equipment.
+Provided exemplary helpdesk service and support to assist customers.
+
+Installed Cerner software
+
+Planned, implemented and integrated updated system-oriented projects.
+Ran operational tests on systems and equipment to reinforce proper processes and remedy
+
+malfunctions.
+
+Installed and Managed Citrix software Preformed Midtier software validation testing Managed/Maintained testing environments
+Profiled the largest client at the time Database
+
+Bachelor of Science | Information Technology Southern Illinois University Carbondale, Carbondale, IL
+
+05/2012
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

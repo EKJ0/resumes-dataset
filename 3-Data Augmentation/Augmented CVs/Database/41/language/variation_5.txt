@@ -1,0 +1,193 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Successful database administrator with Nine (9) years of experience in database development and production environments. Proven skills in
+security management, database maintenance and establishing backup and recovery processes to safeguard data. Well-versed in various
+programming languages, including T-SQL and SQL. Enthusiastic DBA eager to contribute to team success through hard work, attention to
+detail and excellent organizational skills. Experience in database development and production environments. Areas of expertise include
+maintenance and security. Confident professional offering an extensive background in collaborating with business stakeholders to achieve
+projects’ scope. Smart Software Architect boasting expertise in the research of emerging technologies to effectiveness in solving specific issues.
+Enthusiastic System Engineer offering three years of experience in project management, scripting, and Remote Desktop Services. Polished and
+highly educated with desire to work within the public sector. Deep understanding of operational dependencies of applications, networks,
+systems, security and policy.
+
+SKILLS
+------
+
+Database creation Relational Database Management
+
+- Backup and recovery e Running backups
+
+- Monitoring and Performance tuning © Data audits
+
+- Database Upgrade, patching and Migration © Vendor/partner relationships
+- Software Installation and Maintenance e Infrastructure development
+
+- Database Backup and Recovery ° VMware
+
+- Capacity Planning © Product development and improvement
+- Database Tuning © Tomcat
+
+- Job control language (JCL) © Cybersecurity frameworks
+
+- Writing queries ¢ Backup testing
+
+- Continuous process improvement e Server/network configuration
+- Data Extraction, Transformation and Loading © Citrix
+
+- Security e Application stacks
+
+- Data conversion and migration © OSI network layers
+
+- Microsoft PowerShell © Documentation and technical articles
+- Data testing © Coaching and training
+- Database analysis © Data Modeling
+- Troubleshooting © Website analytics tools
+- Performance Monitoring e Wireframes
+- Database development e Analytical
+- SAP PowerBuilder ¢ Software Development Lifecycle
+- Implementing security measures ¢ Multitasking
+
+WORK EXPERIENCE
+---------------
+
+Database Administrator, 04/2019 - Current Zoom - TX, State
+- Experienced with designing, managing and developing SQL Server environment for different applications on an enterprise scale. Installation/Configuration of SQL SERVER 2008&R2, 2012, 2014, 2016& 2017, 2019 in both UAT/DEV/PROD servers.
+- Perform and Monitor daily tasks such as Backups & Restore, maintenance of jobs, handling developers’ requests and user's permissions etc. Implemented, and maintained all (HA) High Availability configurations like Log Shipping, Database Mirroring, Replication and Failover Clustering as a part of HADR Plan.
+- Worked with a team of database administrators to designed and implement Multisite. Failover clustering For critical production database in different data center one on PREM and the other in AZURE for DR purposes.
+
+- Experience and very knowledgeable in setting up SQL server and always on AG for business-critical applications and databases.
+- Experience in troubleshooting always on failover issues, making sure replication is happening between primary and secondary replicas in the always-on setup.
+
+Configure listener and make sure applications are able to connect seamlessly in the event of the automatic or manual failover.
+- Configure/setup Server Properties like Memory Options, MAXDOP, CTOP. Database Settings etc. Checking Database Consistency/health by using DBCC &Commands DMVs at regular intervals.
+
+Actively participate in all phases of system development life cycle including planning and analysis, design, development, and testing.
+
+Maintain application performance & scalability with a focus on (PTO)
+- Performance Tuning & Optimizing SQL queries, table design, indexing, query plan analysis, databases & SQL servers.
+
+Provide support for architectural designs to enhance complex subsystems like analytics engines.
+
+Design and implement Continuity of Business solutions, data warehouse solutions for SQL Server databases including replication strategy
+and Active-Active and Active-Passive clustering.
+
+Create alerts, notifications, and emails for system errors, insufficient resources, fatal database errors, hardware errors, and security
+breaches.
+- Export/Import data from other data sources like flat files using SSIS/DTS packages.
+
+Setup Database Security and maintain accounts and access levels by creating suitable Logins and Roles and assigning object level
+
+permissions.
+
+Manage Disk space, Memory, and User Connections.
+
+Schedule and monitor maintenance activities including database consistency checks and index fragmentation.
+Extensively work on Performance Monitor, SQL Profiler, DMVs, DMFs and DTA to tune the databases, servers and query tuning.
+Utilized the query store new feature in SQL server 2016 and 2017 troubleshooting database query performance related issues and created
+
+baselines and gaining insight into query plans.
+Schedule weekly jobs and Maintenance tasks for better performance and created alerts with Database Mail SMTP.
+
+Configure database maintenance plans for backups, re-indexing, and reorganization of indexes, cleanup history, and update statistics.
+relocation/migration of databases from one server to another using attach and detach database tasks or backup and restore.
+
+Migration of MS SQL server databases to the company’s cloud infrastructure.
+
+Analyzed and developed technical and functional specifications for databases serving up to 1000 employees.
+
+- Partnered with project management teams on development of scope and timelines.
+
+Tested programs and databases to identify issues and make necessary modifications.
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers. Created and implemented database designs and data models.
+
+Created scripts and processes for data integration and maintenance.
+
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+
+Followed standard practices for migrating changes to test and production environments and provided technology support to meet business
+
+requirements.
+
+Implemented system enhancements to propose, design and develop solutions to fulfill requests and address problem reports.
+Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
+Wrote scripts and processes for data integration and bug fixes.
+
+Tested and modified databases to determine and correct issues.
+
+Developed data models and database designs to plan projects.
+
+SQL Server Database Administrator, 04/2016 - 05/2019 Cdk Global - Boston, MA
+- Tested and modified databases to determine and correct issues.
+- Assessed customer needs and goals through communication and system evaluations to modify existing databases for personalized customization.
+
+- Communicated with data architects, programmers and engineers to keep projects on track.
+
+Performed quality assurance processes to support data warehouse improvements.
+
+Wrote scripts and processes for data integration and bug fixes.
+
+Developed scripts for index and table analysis actions.
+
+Uploaded antivirus software to protect data from cyber threats and malware.
+
+Developed data models and database designs to plan projects.
+
+Monitor jobs and take bacup and recovery of data set alerts to monitor database activities
+
+Developed and implemented security initiatives to protect important company data.
+- Experience with web services (REST & SOAP, JSON & XML, etc.).
+
+Cloud-base relational and database
+
+Experience building ETL and data streaming solutions
+
+- Experience with data design and development using industry standard concepts, practices, and procedures while requiring limited
+
+supervision
+
+SQL Server Database Administrator, 03/2013 - 03/2016 Cdk Global - Campbell, CA
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+- Followed standard practices for migrating changes to test and production environments and provided technology support to meet business
+
+requirements.
+
+Designed and implemented TSQL queries for reporting and complex solution development.
+Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
+Wrote scripts and processes for data integration and bug fixes.
+Tested and modified databases to determine and correct issues.
+Developed data models and database designs to plan projects.
+
+Developed scripts for index and table analysis actions.
+
+Performed quality assurance processes to support data warehouse improvements
+
+Set up and controlled user profiles and access levels for each database segment to protect important data.
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+
+Modified existing databases to meet unique needs and goals determined during initial evaluation and planning process.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer And Information Sciences, 10/2010 Abia State University - Uturu
+
+CERTIFICATIONS
+--------------
+
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Solutions Architect
+
+- Microsoft Security Operations analyst
+
+- Microsoft Azure Security Technologies
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

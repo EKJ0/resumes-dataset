@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Database
+Folder: Database  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_1.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. supervised
+Resume Length: 287 words, 28 lines (~0.6 pages)
+
+CANDIDATE 2  (source file: Image_62.txt)
+----------------------------------------------------------------------
+Name: Personal Info
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, managed
+Resume Length: 224 words, 47 lines (~0.4 pages)
+
+CANDIDATE 3  (source file: Image_56.txt)
+----------------------------------------------------------------------
+Name: Bob Markkula
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2009 - 2013
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, managed
+Resume Length: 235 words, 36 lines (~0.5 pages)
+
+CANDIDATE 4  (source file: Image_97.txt)
+----------------------------------------------------------------------
+Name: Michele Lakin
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 491 words, 53 lines (~1.0 pages)
+
+CANDIDATE 5  (source file: 64.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~51 (estimated from earliest date/grad year 1997, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (8 instances) — e.g. managed, lead, oversaw
+Resume Length: 735 words, 75 lines (~1.5 pages)
+
+CANDIDATE 6  (source file: Image_61.txt)
+----------------------------------------------------------------------
+Name: Joslyn Hahn
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: RHODE ISLAND SCHOOL OF DESIGN Bachelor's in Computer Science
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 323 words, 34 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: 52.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor’s Degree: Computer Science, 01/2014 UNIVERSITY OF MANCOSA SA
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 1135 words, 101 lines (~2.3 pages)
+
+CANDIDATE 8  (source file: 98.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~53 (estimated from earliest date/grad year 1995, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Activities
+Education: University of Texas at Dallas | Richardson, Texas + 2008
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, managed
+Resume Length: 1229 words, 122 lines (~2.5 pages)
+
+CANDIDATE 9  (source file: 08c17b29832594aa.txt)
+----------------------------------------------------------------------
+Name: Taylor Foster
+Ethnicity: Not stated in source (not inferred)
+Age: ~26 (estimated from earliest date/grad year 2022, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. led
+Resume Length: 299 words, 39 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: 15.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 07/2010 Bachelor of Science: Human Resource Management Covenant University - Nigeria
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, established
+Resume Length: 1857 words, 133 lines (~3.7 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

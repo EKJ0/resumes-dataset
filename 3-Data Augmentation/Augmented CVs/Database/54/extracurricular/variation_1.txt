@@ -1,0 +1,208 @@
+WEBSITE, PORTFOLIO, PROFILES
+
+PROFESSIONAL
+
+SUMMARY
+-------
+
+ACCOMPLISHMENTS
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+- = https:/Awww.linkedin.com/in/Jessica-Claire/
+
+Experienced Database Administrator with over 8 years of experience in Database Administration. Excellent
+reputation for resolving problems and improving customer satisfaction.
+
+Experience in setting up maintenance plans, creating jobs, and automating processes. Experience in
+monitoring SQL Server with Solar Winds, Reg Gate, Sentryone, Rubrik and Commvault, Jira for Agile
+methodology, Service Now for ticketing and confluence for documentation. Experienced with PowerShell
+automation of repetitive task. Experience in setting up maintenance plans, creating jobs, and automating
+processes.
+
+- Received certifications in AWS - AWS Cloud Practitioner, Microsoft Azure - Azure Administration and Microsoft Certified Solutions Associate.
+
+- Automated Database refresh process to reduce workflow by 24 hours.
+
+- Optimized existing procedures to improve performance by 90%.
+
+- Collaborated with team of 8 in the Migration of Database from Sql Server to Azure and AWS.
+
+- Agile Methodology ¢ Data Synchronization
+
+- Microsoft SQL Database Administration ¢ SQL Transactional Replications
+
+- Running Backups and Database Optimization ¢ Change Data Capture
+
+- SQL Server Integration Services (SSIS) ¢ Microsoft SQL Server Reporting Services
+
+- Microsoft PowerShell
+
+SENIOR DATABASE ADMINISTRATOR 05/2022 to CURRENT Ally | Sandy, UT
+
+- Experienced with using Service now Ticketing system
+
+- Managing High availability (Always-On) SQL Server solutions, including Replication Models (Snapshot/ Transactional), Mirroring, HADR Setup Configuration based on RPO/RTO objective of organization
+
+- Performance tuning, optimization, backup and recovery
+
+- Set up maintenance plans, creating jobs, and automating processes
+
+- Develop Basic ETL processes like SSIS and SSRS
+
+- Implementation of SQL Logins, Roles & Permissions for SQL Server and MongoDB
+
+- Support of MS SQL Server 2005 to 2022
+
+- Set up and controlled user profiles and access levels for each database segment to protect important data.
+
+- Tested programs and databases to identify issues and make necessary modifications.
+
+- Good Knowledge of System Administration 2008,2012 R2 and 2016 Windows Server
+
+- Support Releases and assist Developers in Deployment of codes to Production
+
+- Migration of Databases to AWS EC2 Instances
+
+- Migrated Databases from On-Prem to Azure SQL, Azure Managed Instance and Azure VM
+
+- Database Refresh Automation using PowerShell
+
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+
+- Eliminated downtime by accurately implementing maintenance of database.
+
+SEQIOR DATABASE ADMINISTRATOR 01/2019 to 03/2022 Ally | Washington, DC
+
+- End Clients: [Chevron, X Sport Fitness, Kodiak Gas, CDW, Technologent, Sanford G]
+
+- Monitoring of database mirroring as part of disaster recovery solution
+
+- Monitoring of Server Activity, Error Log, space usage, and solved problems as needed., Maintaining Fail-Over Clustering, Replication and Database Mirroring
+
+- Performs backup and recovery on Database Management System
+
+- Restoring Database from database backups and file backups
+
+- Experienced with Point-in-Time Recovery
+
+- Supports Reporting Servers (SSRS), Integration Services (SSIS), Analysis Services (SSAS)
+
+- Using SSIS, building high performance data integration solutions, including extraction, transformation, and load (ETL) packages for data warehousing
+
+- Ran DBCC statements to check physical and logical consistency of database and rebuild indexes
+
+- Schedules and automates maintenance plans using SQL Server job agent
+
+- Responsible in Configuring, Maintaining and troubleshooting Log shipping, Mirroring, Always on Availability Groups, SQL server Failover cluster on Same and multiple subnet
+
+- Carrying out performance tuning task on regular basis on issues ranging from query tuning to index optimization, Temp DB issues, to |O, High CPU usage, severe blocking, and long running query, always on out of sync, mirroring out of sync, and log shipping out of sync
+
+- Maintaining SQL Server Cluster setup and configuration
+
+- Weekly Patching of Standalone and Cluster instances
+
+- Migrating and Upgrading SQL server from Legacy to 2014, 2016, &2017
+
+- Managing permissions and security
+
+- Monitoring daily, weekly, Monthly, and quarterly Maintenance Task
+
+- Carrying out regular health checks across servers using PowerShell script
+
+- Maintaining database space issue, resolving excessive log growth issue, and Normalization of DBs
+
+- Comprehensive Backup plan and disaster recovery strategies working with company SLA
+
+SG. SERVER DATABASE ADMINISTRATOR 01/2013 to 01/2019 Kemper | Houston, MN
+
+- Installation, configuring, and maintaining SQL failover clustering for Production Environment
+
+- Implementation of SQL Logins, Roles and Authentication Modes as part of Security Policies for various users
+
+- Weekly Refreshing Database for analysis and Developers Update
+
+- Using T-SQL stored procedures to automate task
+
+- Migrated SQL server 2008 to SQL Server 2012, in Microsoft Windows Server 2012 Enterprise Edition
+
+- Migrated database from on premise to Azure Cloud
+
+- Installed and administered 2-Node cluster Active /Passive on Microsoft Windows Server
+
+- 2012 Enterprise Edition
+
+- Securing Database with Transparent Data Encryption TDE
+
+- Rebuilding indexes at regular intervals for better performance
+
+- Designed and implemented comprehensive Backup plan and disaster recovery strategies Implemented
+
+- Involved in trouble shooting and fine-tuning of databases for its performance and concurrency
+
+- Monitored and modified Performance using execution plans and Index tuning
+
+- Perform SQL Server service pack and Windows Service pack patches and upgrades
+
+- Working with customers on Application rollouts and server migrations
+
+- Extensively worked on Enterprise Manager for managing database
+
+- Troubleshoot performance problems and fine-tuning of databases
+
+- Environment: SQL Server 2008, SQL Server 2012, windows server 2012 R2, 2014, 2016, 2017
+
+- Designed and implemented TSQL queries for reporting and complex solution development.
+
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+
+- Managed workload independently but collaborated with colleagues to complete larger scale tasks in distributed team environment.
+
+- Followed standard practices for migrating changes to test and production environments and provided technology support to meet business requirements.
+
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+
+IT CUPPORT ENGINEER 07/2010 to 12/2012 Arrow Electronics | All Cities, AR
+
+- Identified and resolved network issues within organization and clients
+
+- Installation of software, antivirus and troubleshooting tickets
+
+- Work closely with different teams and vendors when required
+
+- Setup of emails for staff
+
+- Proactively monitor systems, software, and hardware.
+
+- Provided Tier 1 IT support to non-technical internal users through desk side support services.
+
+- Used ticketing systems to manage and process support actions and requests.
+
+- Documented transactions and support interactions in system for future reference and addition to knowledge base.
+
+- Resolved escalated issues by serving as subject matter expert on wide-ranging issues.
+
+Bachelor of Science | Computer Science 01/2009 University of Agriculture Abeokuta, Ogun State Nigeria
+
+- MCSA Database Administrator
+- AWS Cloud Practioner
+- Azure Fundamentals
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

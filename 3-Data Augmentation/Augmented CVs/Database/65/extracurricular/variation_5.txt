@@ -1,0 +1,241 @@
+JESSICA CLAIRE
+
+@ resumesample@example.com
+
+& (555) 432-1000
+
+9 100 Montgomery St.
+10th Floor
+
+SKILLS
+------
+
+- Server configuration
+
+- Database creation
+
+- Database Administration, Servers
+
+- Database Backup
+
+- Databases, Scripting
+
+- Microsoft SQL Server Disaster recovery
+
+- Documentation, MS SQL Server
+
+- SQL Profiler
+
+- VM Clustering
+
+- SQL failover clustering
+
+- MS SQL Server 2017, 2016,
+2014, 2012 /2008
+
+- SQL Jobs Automation
+
+- Replication, ETL, Performance Monitor, Activity Monitor
+
+- Third Party Tools Sqldiagnostic manager, light speed, Quest Spotlight, SolarWinds, SQL Safe
+
+- Programming: T-SQL
+
+- PowerShell
+
+- Microsoft: Microsoft office tools, SharePoint , TFS
+
+- IDE Visual Studio
+2013/2012/2010
+
+- ETL, SQL
+
+- DB2 \IIAS
+
+- Teradata
+
+- Managing, Troubleshooting
+
+- Microsoft office, Upgrades
+
+- Optimization, VM
+
+EDUCATION
+---------
+
+Addis Ababa University Addis Ababa, Ethiopia
+
+Bachelor: Computer Science
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Database Administrator Professional with 8+ years of experience in MS-SQL server and supporting skype and SharePoint servers. Well experienced on working on VMware and
+Hyper v environments.
+
+Through my experience | have had Implement and maintain smooth operation and physical design of databases. Conducts performance tuning of indexes and databases in
+general. Provides backup recovery and makes recommendations regarding enhancements and/or improvements. Maintains security and integrity controls. Formulates policies,
+procedures, and standards relating to database management, and monitors transaction activity and utilization. Oversees the scheduling of database projects and backups.
+Reviews technical designs, reports, documentation. Managing MSSQL servers in development, testing, and production environments with performance monitoring,
+troubleshooting, security. Perform database migration, high availability and DR solutions up to windows failover clustering and sql server Always On configuration.
+
+Excellent confidence in my work ethic and willingness to put in significant extra time as needed. Along with my strong Database Administration background, | have good
+communication skill, Works well under pressure, strong team-oriented.
+
+LINKS
+
+- https: //www.linkedin.com/in/hana-w- Claire-65031b43/
+
+WORK EXPERIENCE
+---------------
+
+Asrc Federal Holding Company - SQL Database Administrator Oklahoma City, OK + 04/XXX0 - Current
+
+- Roles and responsibilities: .
+
+- Good exposure working on Microsoft SQL Server 2008 R2, 2012, 2014, 2016 and 2017 Database Administration.
+
+- Deploys, patches, upgrades, and troubleshoots database platforms of a moderate complexity.
+
+- Supporting documentation that includes architecture, configuration, security, maintenance, troubleshooting, and backup details.
+
+- Working on security, Grant / denied permissions based on the role they requesting and up on the environment.
+
+- Backups and restore data bases.
+
+- Deployment to production environments and refreshing from prod to staging environment.
+
+- Troubleshoot MSSQL Server performance issues to including server configuration, indexes, queries, as well as being able to identify network and disk related issues.
+
+- Working on SQL Server Reporting Services.
+
+- Implementing and supporting log shipping, transactional replication, database mirroring and Always On.
+
+- Proficient in administration and management of hosted Windows computing environments.
+
+- Performing on change, incident and problem management.
+
+- Environment
+- Windows Server 2008/2012R2/2016, MS SQL Server 2005/ 2008R2/2012/2014/2016/
+2017, T-SQL, SQL Profiler, Performance Monitor, Activity Monitor, High Availability/ AlwaysOn , Redgate, jira , solarwind, Teradata, ETL, PowerShell, VMWare, Data
+Warehousing, , TFS, ServiceNow , password Vault and Others.
+
+Asrc Federal Holding Company - SQL Database Administrator
+Kirkland Afb, NM + 07/2018 - 11/2019
+
+- Roles and responsibilities: .
+
+- Install, configure, and manage multiple SQL server environments with high availability and disaster recovery.
+
+- Monitor & Manage Databases, Perform Database Health Checks.
+
+- Providing SQL admin operations functions for the Client related to the applications Skype and SharePoint.
+
+- Working on the daily database related incidents\ requests and resolve it.
+
+- Perform changes on production databases based on change order requests.
+
+- Design, manage, validate and implement a backup & recovery system.
+
+- Support the performance of functions, such as, applying patches, interfacing with application vendors, and assisting the application administrators.
+
+- Testing and implementing changes or Perform Database Upgrade.
+
+- Perform Platform Migration Project.
+
+- Performance tuning of Index rebuild setup, configuration, concepts, techniques and tools.
+
+- Performed troubleshooting, root cause analysis, workaround, including after-hours and weekends.
+
+- Deploy database change scripts provided by Developers or third-party vendors.
+
+- Working on Windows failover clustering and configuring AlwaysOn SQL server 2016 and
+SQL server 2017.
+
+- Participated in monthly database patching maintenance.
+
+- Perform tests and evaluations regularly to ensure data security, privacy, and integrity.
+
+- Advanced knowledge of IBM Integrated Analytics System (IIAS ) security implementation.
+
+- Monitor IIAS performance in addition to managing users and security.
+
+- Advance knowledge of BLUDB\schema backup with script and using console
+Environment- Windows Server 2008/2012R2/2016, MS SQL Server
+2008R2/2012/2014/2016/ 2017, T-SQL, SQL Profiler, Performance Monitor, Activity Monitor, SQLDIAG, ETL, PowerShell, Hyper-V, Data Warehousing, High Availability/
+AlwaysOn, TFS, Visual Studio, SharePoint, DB2 WLU.
+
+- IAS and Others.
+
+Asrc Federal Holding Company - SQL Database Administrator
+Orient Point, NY +» 04/2015 - 04/2018
+
+- Roles and responsibilities: .
+
+- Expert in performing installation, configuration, optimization, server builds, patches, service packs, upgrading and troubleshooting of SQL Servers in Clustered and Non- Clustered Environments.
+
+- Routinely patched SQL servers using PowerShell scripts.
+
+- Worked with SQL server profiler and generated traces to optimize the performance of the database.
+
+- Automated server and database health checks using PowerShell scripts.
+
+- Providing dedicated support for production database servers.
+
+- Creating Backup and restore strategies following strict RPO and RTO guidelines.
+
+- Configured and managed High Availability solutions (Clustering, database Mirroring, Log shipping.
+
+- Experienced in Migrating from SQL server 2008, 2012 and 2014 and documented complete Upgrade Process.
+
+- Configured Always-ON for High availability as a disaster recovery (DR) solutions.
+
+- Maintained indexes at regular intervals for better performance.
+
+- Scheduled jobs to automate different database related activities including backup, monitoring database health.
+
+- Designed and implemented SSIS package to migrate data from multiple data sources.
+
+- Troubleshoot and resolved issues performance, database integrity, security issues.
+
+- Participating in 24/7 ‘on-call’ support for SQL Server database systems.
+
+- Environment- Windows Server 2008/2012R2, MS SQL Server 2012/2014, T-SQL, SQL Profiler, Performance Monitor, Activity Monitor, ETL, Quest Spot Light, PowerShell, Hyper-V, Data Warehousing, High Availability/AlwaysOn, TFS, Visual Studio, SharePoint and Others.
+
+Inova Health Systems - MSSQL Server DBA
+City, STATE + 03/2012 - 03/2015
+
+- Roles and responsibilities: .
+
+- Managed databases, from planning and testing stages through implementation and production support.
+
+- Created logins, groups, users, roles, databases, alerts checking for database consistency.
+
+- Expert in creating automation for routine tasks and per need basis.
+
+- Expert in creating automation for routine tasks and per need basis.
+
+- Migrated/upgraded SQL Server 2008/2008R2 to 2012.
+
+- Applied service packs, extensive experience in migrating and new installations of SQL Server on Hyper-V and VMWARE environments.
+
+- Configured, Scheduled and check SQL Server agent Jobs/ Alerts for Maintenance plans, Backup and Recovery plans, Database Mail Configuration, facets and Transparent Data Encryption.
+
+- Check database conditions, rebuilding indexes and other database maintenance purposes as well.
+
+- Troubleshoot performance issues.
+
+- Applied performance tuning techniques and maintained the functionalities of ongoing databases.
+
+- Deployment administration and operational support of production.
+
+- Performed day-to-day activities/ tickets including full, differential and log backups, database restores/refreshes and proactive monitoring of SQL server health.
+
+- Worked with database developers to optimize SQL queries and stored procedures
+Environment- Windows Server 2008/2012R2, MS SQL Server 2008/2008R2, 2012/2014, T-SQL, SQL Profiler, Performance Monitor, Activity Monitor, ETL, SCCM, Quest Spot
+Light, PowerShell, Hyper-V, Data Warehousing, High Availability/AlwaysOn, TFS, Visual Studio, SharePoint and Others.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

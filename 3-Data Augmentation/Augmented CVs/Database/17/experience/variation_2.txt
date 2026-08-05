@@ -1,0 +1,160 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+An MBA graduate looking for an exciting and challenging opportunity in management. Software engineer and tech lead with experience as a
+web developer, database developer and validation engineer. Action oriented and results driven Scrum master/project manager directing complex
+multi-site projects following Agile and waterfall methodologies with abilities to deliver productivity and quality improvements. Regional
+Organization Health Chair leading the efforts to uncover and address issues affecting the moral of the organization. Risk Taking and Innovation
+Lead, helping peers to develop a culture of innovative thinking to help company increase patent asset.
+
+HIGHLIGHTS
+----------
+
+ASP.NET, MVC.NET, Web Services, C#, C, C++, Java, Python, HTML5, CSS3, JavaScript, jQuery, MS SQL, SSIS, Team Foundation
+Server, Github
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+Application and Database Developer/Lead, 06/2000 - Current Kepro - Chicago, IL
+- As an application developer in agile settings, worked on a project that involved use of C#, MVC -NET, Web Services and MS SQL technologies.
+- Primary responsibilities included working with business analyst and other developers to understand user stories, develop effort estimates, tool development and debugging issues.
+
+Tech lead and an application developer on an application that replaced a manual process to replace manual tracking of Virtual servers,
+
+saving a 2 a head count worth of work.
+
+- The project was originally de-scoped due to budget constraints. but then all the ZBB features and more were implemented within the original time estimate.
+
+- Also piloted the Virtual Pair Programming service that the business group had developed, with the remote developer.
+
+- The project received a Grand Slam SOC award.
+
+Developed a C# application to match sensor data collected by a 3rd party tool with video files that were recorded in parallel.
+
+- The sensor data capture and the video recordings were on non-connected systems, so it was critical to associate correct sensor data with corresponding videos.
+
+- This had a huge impact on the productivity and delivery of the data to the customer for data processing and evaluation.
+
+- As a SQL Server Integration developer, initially worked under the direction of a technical lead modifying existing packages, testing the changes, and deploying to test and production servers.
+
+- Quickly got to a point of independently understanding new requirements, developing new packages, migrating to different environments and working directly with system analyst.
+
+Database developer on a services project intended to handle terabytes of data and support tens of millions of devices daily.
+
+Jessica participated in analyzing the requirements and setting up multiple web and database virtual machines for the Pilot.
+
+Jessica owned the database part of the project and designed transaction and reporting databases, SQL stored procedures and views and
+Extract Transform and Load (ETL) processes to aggregate transactional data in a reporting database.
+As a data migration Lead on a project, responsibility was to collaborate with Intel and vendor SME's on data that needed to migrate.
+
+Responsible for communicating the requirements to the Intel and vendor developers and was the primary contact for any data migration
+
+issues and resolution.
+
+Delegate issues to appropriate Intel or vendor owner to rectify.
+
+Created a SQL job to daily update user data in migrated database from source system.
+
+- Identified changes in user data that would require a change/update to the database and respective follow up actions in the tool. Owned post data migration validation and also developed data validation test plan so the SMEs could do a deeper data validation. Scrum Master: Managed a team of 22 developers and business analysts in all sprint activities, including sprint planning. review and
+
+retrospective meetings.
+
+Daily coordination of team activities including removal of impediments, helping team to be fully productive and encouraging self-
+management.
+
+- Working with product owner and development managers to create, prioritize and maintain product backlog and update release plan.
+
+- Ensuring that project status, risks and release plan are clearly and regularly communicated to all stakeholders, and software developed is of the highest quality.
+
+Identified opportunities and improved the processes while maintaining team enthusiasm and morale.
+
+Project Manager Validation Engineer
+- Took over a project in explore phase to deliver artifacts from four different groups on path to production for code migration across multiple
+
+environments.
+
+Created a document template which enabled consistent layout for data collection and easier comparison of common processes & gaps
+identification.
+
+Received "Excellent" rating from the customer.
+
+Regional Organizational Health Chair: Lead the organization heath team to discover issues effecting regional environment and employee
+
+morale.
+
+The org health team collected employee feedback on organizational environment, responded to every issue that was brought up, created
+action plans for each, and drove each item to closure.
+
+Improved the quality of the org health report out, receiving positive feedback from senior management.
+
+Risk taking and Innovation Lead: Leading a team to practice and cultivate the culture of innovative thinking to generate and increase
+intellectual property.
+
+Encourage, collaborate and facilitate invention brainstorming sessions,
+
+- Software Test Development and : Work with product developers, System Engineers, and Application programmer Interface committee.
+
+Analyze, find and report gaps in product requirements.
+
+Write Test Design Specifications and test code to test Application programmer Interfaces for Windows and UNIX.
+
+Create and merge code in VSS.
+
+Work with product developers to resolve hardware and software problems.
+- Attend Product Development Team meetings to get updates and provide input.
+
+Debug issues using test equipment and worked with Design Engineers to communicate and resolve design issues.
+
+Lead the effort on finalizing test code tree structure and implemented it in Source control.
+- Evaluated various source analysis tools and provide purchase recommendation.
+
+Coordinate multiple test configurations with development engineers, collecting failure details and maintaining a log, and reporting the
+failures.
+
+Software Engineer, 05/1999 - 06/2000 NA - City, STATE
+- Involved in a project to put code from FLASH into Internal ROM for faster execution.
+- Responsible for building the phone engine and testing it on simulator and the phone hardware.
+- Responsible for assigning unique message IDs to the team.
+- Responsible for development environment and Configuration Management for the team using ClearCase.
+
+Software/Product Test and Evaluation Engineer, 05/1996 - 05/1999 Motorola - City, STATE
+- Responsible for administering Networking software package file system using source control tools and in charge of software package daily builds.
+- Implemented new tests to validated new features in hardware and software.
+- Designed, modified, and executed test cases for Network Management Systems.
+- Investigated and replicated customer reported problems and issues.
+- Setup and configured Network nodes, workstations, and communication channels for validation.
+- Trained and assisted new test engineers in using the test tools, workstations, and network configurations.
+- Facilitated setup and configuration of development and test lab following organizations move to new facility.
+- Test Engineer responsible for training newly hired engineers in test tool, equipment, hardware, and lab configurations.
+
+EDUCATION
+---------
+
+MBA: May 2007 W-.P. Carey School of Business, Arizona State University - Tempe, AZ
+
+Masters: Computer Science, May 2000 New Jersey Institute of Technology - Newark, NJ
+
+Computer Science
+
+Bachelors: Electrical Engineering Technology, May 1997 New Jersey Institute of Technology - Newark, NJ
+Electrical Engineering Technology
+
+Diploma: Electronics and Radio Engineering, Dec 1989 Government Polytechnic - Surat
+
+Electronics and Radio Engineering
+
+Engineer-In-Training Certification *Certified Scrum Master
+
+SKILLS
+------
+
+- NET, ASP.NET, agile, budget, business analyst, C, C++, ClearCase, hardware, Configuration Management, CSS3, data collection, data processing, data migration, data validation, databases, Database, debugging, delivery, direction, Engineer-In-Training, Engineer, ETL, senior management, features, FLASH, HTMLS, IDs, Innovation, Intel, intellectual property, Java, JavaScript, jQuery, layout, meetings, C#, Windows, migration, MVC, Network Management, Network, Networking, developer, Organizational, processes, Product Development, programmer, Programming, Python, quality, receiving, reporting, Scrum, servers, MS SQL. SQL, SQL Server, stories, system analyst, phone, test equipment, test tools, unique, UNIX, validation, video

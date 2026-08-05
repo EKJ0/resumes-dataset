@@ -1,0 +1,162 @@
+Jamal Jackson
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+A certified SQL server Database Administrator with 6+ years IT experience: designing, coding, testing and supporting next-generation database
+solutions in SQL Server environment. Experienced in creating SSIS Packages for integrating data using OLE DB connection from
+heterogeneous sources (Excel, CSV, Oracle, flat file, Text Format Data) by using multiple. transformations provided by SSIS such as Data
+Conversion, Conditional Split, Bulk. Proficient in designing and creating database objects in MS SQL and MySQL environments Created stored
+procedures, triggers and views and fine-tuned slow queries. Proficient in database performance tuning. Experience in implementing windows
+clusters across multiple availability zones and Implemented SQL Server Always On availability group in AWS. Experience in Installing,
+configuring, administration and Maintenance of mission critical client databases in SQL server 2008R2, 2012, 2014 and 2016, 2017 versions.
+Extensive Experience in Upgrading SQL Server (In place Upgrade and Side by side Upgrade) based on application compatibility and fixing the
+orphan users. Experience in implementing SQL Server security and Object permissions like creation of users, granting permissions, and
+assigning roles to users, auditing SQL logins and applying encryption. Deployment, administration and operational support of production,
+development and test environments utilizing proper change management and other ITIL best practices using ticketing tools. Expert in
+implementing and troubleshooting High Availability of database servers using Replication, Log Shipping, Database Mirroring, failover
+clustering and Always On AG. Strong experience understanding and creating the server level and database level roles as per business
+requirement. Experience in Configuring and Scheduling SQL Server agent Jobs, Alerts, operators, Maintenance plans, Database Mail
+Configuration, facets, and Transparent Data Encryption. Extensive experience in Monitoring, Performance Tuning, and analyzing DB
+performance issues. Skilled Senior Database Administrator bringing more than 6+ years of experience in design and administration of
+databases, as well as key skills in modeling and warehousing of data, development of enterprise architectures and strategic collection and use of
+business intelligence. Proficient in technical software, languages and tools and learns new strategies quickly. Collaborative and team-oriented
+with first-rate oral and written communication, complex problem-solving and decision-making abilities. Proactive Database Administrator with
+6+ years of experience in database development and production environments. Proven skills in security management, database maintenance and
+establishing backup and recovery processes to safeguard data. Well-versed in various programming languages, including SQL and. T-SQL.
+
+SKILLS
+------
+- Technical Skills © Organizational Skills
+- Information Systems Management e Team Building
+- Document Management © Friendly. Positive Attitude
+- Root Cause Analysis © Windows, SQL Server, T-SQL, Dell Spotlight, SCOM, Redgate
+- Database Administration SQLCompare and Data Compare , Redgate SQL toolbelt,
+- Safety Protocol DataEdo, ERwin, SSDT, Azure, SSIS, SSRS, SSMS, DTA, JIRA,
+
+RAID. MySQL, ServiceNow, Octopus Deploy, TFS, MDW, CITRIX, IDERA Diagnostic Manager, Outlook, Skype for
+Business, MFA, SAN, Office 365 Planner, AG, HA/DR..DB Hardening, Monitoring and health check, Data export/Dump and
+Import/Load.SSIS, SSRS .Documentation, Analysis, Disaster Recovery Planning, Stored Procedures, Windows Server, and ETL
+
+- Writing Queries
+
+- Microsoft SQL
+
+WORK EXPERIENCE
+---------------
+
+SQL Database Administrator, 02/2021 - Current Chicago Public Schools - Chicago, IL
+Installing, configuring, administering, and securing production and non-production servers (clustered and non-clustered)
+Upgrading SQL server 2012 to SQL Server 2016 and 2017
+- Experience in implementing windows cluster across multiple availability zones and Implemented SQL Server 2016 Always On availability
+
+group in AWS
+- Experience in setting up database transactional replication for reporting servers, Using Backup and restore methods
+- Experts in Database refresh from prod to lower environment as per the business requirements Automated quarterly/monthly database refresh Managed and Involved in SQL performance Tuning, identifying locking and blocking issues using Native and Third-party tools to enhance and boost performance of SQL Dbs Managed and Implemented Ola Hallengren's Industries best SQL server maintenance plan and created schedules for all environments Managed SQL server Logins, Database users & roles and involved in Daily User Maintenance Created Database Maintenance jobs to perform full & transaction log Backups and scheduled them with the SQL Server agent job scheduler Monitor database growth activities & Troubleshoot Transaction Log Issue
+
+Created and configured mirroring for Disaster Recovery
+- Providing weekly status information on all projects to Project Manager Wrote and debugged Stored Procedures and (DDL /DML) Triggers, Functions as per client requirements
+
+Logical and Physical design of database for projects on basis of user requirements using ERWIN
+- Reporting on a weekly basis to the project manager
+
+Extensively worked on troubleshooting and fine-tuning of databases for optimal performance
+
+- Worked with Performance Tuning/Query tuning, execution plans, trace flags and SQL Profiler Installation of Service packs to all environments
+
+Used log shipping for synchronization of databases
+
+Designed and developed ETL process using SSIS to load data from various sources like MS Access and SQL Server 2014, Oracle database
+- Expert in Data Extraction, Transformation and Loading (ETL) using SQL Server Integration Services (SSIS)
+
+- Experience in migrating SQL Server 2012 and 2014 to SQL Server 2016 with AlwaysOn Availability
+
+- Good understanding in database and data warehousing concepts (OLTP & OLAP)
+
+Used SSIS to create ETL packages to validate, extract, transform and load data to data warehouse databases
+
+Worked on BCP for a data uploading module and created SSIS packages for data transfer & transform across locations and multiple data
+
+sources as per requirement
+
+Created new tables, stored procedures and triggers using T-SQL
+
+Refactored and Fine-tuned the queries and Stored procedures in T-SQL
+
+- Performing DB backups, DB refresh, DB restores, clean-up, statistics update
+
+- Installed and configured MS SQL Servers in Virtual Environments using VMWARE
+
+- Analyze the Execution plans and recommend/implement a better execution plan
+
+- Experience in Monitoring and Tuning system resources associated with the database performance, hit ratios, I/O. lock, and latch contention
+- Experience supporting AWS DB in production and Development environment.
+
+SQL DBA, 04/2019 - 01/2021 Apex Systems - Athens, GA Created and updated databases, tables, stored procedures, triggers, functions, and views
+
+- Configured, administered, and troubleshoot multiple databases in production and staging environments in clustered and standalone
+
+environments
+
+Prepared documentation for disaster recovery plan
+
+Involved in installing failover clustering on multiple nodes
+
+Implemented database mirroring and log shipping
+
+Planned backup strategies. scheduled backups, and performed restore operations
+- Managed security of SQL server databases by creating logins, creating database users, creating roles, assigning proper permissions, creating server and database audits
+
+Worked on creating, reorganizing, and rebuilding indexes
+- Worked on database space management, performance monitoring, and alert management
+
+Planned the location of files and increased the size and number of files
+
+Performed tasks of query optimization, troubleshooting client/server connectivity issues, and performance tuning
+
+Monitored and troubleshoot database and server performance at system-wide scale and effectively identify network, databases, Memory,
+CPU, Disk Space, and I/O related bottlenecks
+
+Transferred data between several servers using BCP and DTS
+
+Generated reports extensively using SSRS
+- Providing resolution to assigned tickets (JIRA, Team Track and Service Desk) as per their severity and meet the deadline before SLA is
+
+due.
+
+SQL DBA, 06/2016 - 03/2019 Apex Systems - Bedminster, NJ Installing and configuring SQL server
+- Configuring SQL server reporting/analysis and integration services
+- Consulting with departments or customers on project status and proposals
+- Working with customers or departments on technical issues including software system design and maintenance
+- Analyzing information to recommend and plan the installation of new systems or modifications of an existing system
+
+Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements
+
+Designing and developing software systems using scientific analysis and mathematical models to predict and measure outcomes and design
+
+consequences
+
+Preparing reports on programming project specifications, activities, or status
+- Conferring with project managers to obtain information on limitations or capabilities
+
+Analyze existing scripts, tweak scripts to address performance issues
+
+Developing SQL scripts and implementing it
+
+Developing advanced SQL queries by using SQL server
+
+Outlining and designing logical interrelation between sets of data so as to be able to make scientific Analysis
+- Making predictive Analysis on the basis of Data interpretations using statistical softwares such as SSPS and SAS
+
+Creating Analysis reports for both organization level team members and external client
+Presenting Data Analytics using a set of graphic tools such as graphs, tabular, and other visualization tools.
+
+EDUCATION AND TRAINING
+
+Bachelor Of Science: Information Technology Southern New Hampshire University - Manchester, NH
+
+ADDITIONAL INFORMATION
+
+- Strong experience on designing and implementing the backup and disaster recovery strategies as per RPO and RTO values. Created jobs, alerts to run SSIS, SSRS packages periodically. Created the automated processes for the activities such as database backup processes and SSIS, SSRS Packages run sequentially using SQL Server Agent job Experience on configuring and maintaining full backup, Transactional log backup, Differential backup and creating the maintenance plans for index rebuild, index reorganize based on fragmentation. Worked on BCP for data uploading module and created SSIS packages for data transfer & transform across locations and multiple data sources as per requirement. Expert in Data Extraction, Transformation and Loading (ETL) using SQL Server Integration Services (SSIS) Experience in Microsoft Reporting Service (SSRS) with Report authoring. Report management, Report delivery and Report security. Created reports, sub reports, charts, Tablix, Matrix, Hyperlink reports using SSRS. Excellent knowledge of performance tuning stored procedures, Queries using tools like SQL Profiler, Database Tuning Advisor, Execution Plans, DMV’s, and Efficient coding standards.

@@ -1,0 +1,206 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Successful database administrator with seven (7) years of experience in database development and
+production environments. Proven skills in security management, database maintenance and establishing
+backup and recovery processes to safeguard data. Well-versed in various programming languages, including
+T-SQL and SQL. Enthusiastic DBA eager to contribute to team success through hard work, attention to detail
+and excellent organizational skills. Experience in database development and production environments. Areas
+of expertise include maintenance and security. Proactive in establishing backup and recovery processes and
+protocols to protect and retain valuable company data.
+
+- Database creation « Data conversion and migration
+- Backup and recovery ¢ Microsoft PowerShell
+- Monitoring and Performance tuning ¢ Data testing
+- Database Upgrade, patching and Migration ¢ Database analysis
+- Software Installation and Maintenance ¢ Troubleshooting
+- Database Backup and Recovery « Performance Monitoring
+- Capacity Planning ¢ Database development
+- Database Tuning « SAP PowerBuilder
+- Job control language (JCL) ¢ Implementing security measures
+- Writing queries ¢ Relational Database Management
+- Continuous process improvement ¢ Running backups
+- Data Extraction, Transformation and Loading ¢ Data audits
+- Security
+DATABASE ADMINISTRATOR 12/2017 to CURRENT
+
+Chenega Mios | Killeen, TX
+
+- Experienced with designing, managing and developing SQL Server environment for different applications on an enterprise scale.
+
+- = Installation/Configuration of SQL SERVER 2008&R2, 2012, 2014, 2016& 2017, 2019 in both UAT/DEV/ PROD servers.
+
+- Perform and Monitor daily tasks such as Backups & Restore, maintenance of jobs, handling developers’ requests and user's permissions etc.
+
+- Implemented, and maintained all (HA) High Availability configurations like Log Shipping, Database Mirroring, Replication and Failover Clustering as a part of HADR Plan.
+
+- Worked with a team of database administrators to designed and implement Multisite.
+
+- Failover clustering For critical production database in different data center one on PREM and the other in AZURE for DR purposes.
+
+- Experience and very knowledgeable in setting up SQL server and always on AG for business-critical applications and databases.
+
+- Experience in troubleshooting always on failover issues, making sure replication is happening between primary and secondary replicas in the always-on setup.
+
+- Configure listener and make sure applications are able to connect seamlessly in the event of the automatic or manual failover.
+
+- Configure/setup Server Properties like Memory Options, MAXDOP. CTOP., Database Settings etc.
+
+- Checking Database Consistency/health by using DBCC &Commands DMVs at regular intervals.
+
+- Actively participate in all phases of system development life cycle including planning and analysis, design, development, and testing.
+
+- Maintain application performance & scalability with a focus on (PTO)
+
+- Performance Tuning & Optimizing SQL queries, table design, indexing, query plan analysis, databases & SQL servers.
+
+- Provide support for architectural designs to enhance complex subsystems like analytics engines.
+
+- Design and implement Continuity of Business solutions, data warehouse solutions for SQL Server databases including replication strategy and Active-Active and Active-Passive clustering.
+
+- Create alerts, notifications, and emails for system errors, insufficient resources, fatal database errors, hardware errors, and security breaches.
+
+- Export/Import data from other data sources like flat files using SSIS/DTS packages.
+
+- Setup Database Security and maintain accounts and access levels by creating suitable Logins and Roles and assigning object level permissions.
+
+- Manage Disk space, Memory, and User Connections.
+
+- Schedule and monitor maintenance activities including database consistency checks and index fragmentation.
+
+- Extensively work on Performance Monitor, SQL Profiler, DMVs, DMFs and DTA to tune the databases, servers and query tuning.
+
+- Utilized the query store new feature in SQL server 2016 and 2017 troubleshooting database query performance related issues and created baselines and gaining insight into query plans.
+
+- Schedule weekly jobs and Maintenance tasks for better performance and created alerts with Database Mail SMTP.
+
+- Configure database maintenance plans for backups, re-indexing, and reorganization of indexes, cleanup history, and update statistics. relocation/migration of databases from one server to another using attach and detach database tasks or backup and restore.
+
+- Migration of MS SQL server databases to the company’s cloud infrastructure.
+
+- Analyzed and developed technical and functional specifications for databases serving up to 1000 employees.
+
+- Partnered with project management teams on development of scope and timelines.
+
+- Tested programs and databases to identify issues and make necessary modifications.
+
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+
+- Created and implemented database designs and data models.
+
+- Created scripts and processes for data integration and maintenance.
+
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+
+- Followed standard practices for migrating changes to test and production environments and provided technology support to meet business requirements.
+
+- Implemented system enhancements to propose, design and develop solutions to fulfill requests and address problem reports.
+
+- Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
+- Wrote scripts and processes for data integration and bug fixes.
+
+SQ@© SERVER DATABASE ADMINISTRATOR 03/2015 to 10/2017 Jacobs Engineering Group Inc. | Charleston, SC
+
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+
+- Followed standard practices for migrating changes to test and production environments and provided technology support to meet business requirements.
+
+- Designed and implemented TSQL queries for reporting and complex solution development.
+
+- Produced high-standard database solutions to meet stability, reliability and performance metrics.
+
+- Wrote scripts and processes for data integration and bug fixes.
+
+- Tested and modified databases to determine and correct issues.
+
+- Developed data models and database designs to plan projects.
+
+- Developed scripts for index and table analysis actions.
+
+- Performed quality assurance processes to support data warehouse improvements
+
+- Setup and controlled user profiles and access levels for each database segment to protect important data.
+
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+
+- Modified existing databases to meet unique needs and goals determined during initial evaluation and planning process.
+
+SQ) SERVER DATABASE ADMINISTRATOR 05/2013 to 04/2015 Jacobs Engineering Group Inc. | Chester, PA
+
+- Maintained complex T-SQL queries, views and stored procedures in multi-database environment with little supervision.
+
+- Managed workload independently but collaborated with colleagues to complete larger scale tasks in distributed team environment.
+
+- Followed standard practices for migrating changes to test and production environments and provided technology support to meet business requirements.
+
+- Designed and implemented TSQL queries for reporting and complex solution development.
+
+- Created optimal technical solutions to user needs through research and in-depth system analysis.
+
+- Planned and implemented security measures to safeguard vital business data.
+
+- Tested programs and databases to identify issues and make necessary modifications.
+
+- Coordinated with project management staff on database development timelines and project scope.
+
+- Implemented BI solution framework for end-to-end business intelligence projects.
+
+- Administered, supported and monitored databases by proactively resolving database issues and maintaining servers.
+
+- Setup and controlled user profiles and access levels for each database segment to protect important data.
+
+- Created and implemented database designs and data models.
+
+- Wrote and maintained technical and functional specifications to document database intentions and requirements.
+
+IT TECHNICIAN 06/2011 to 03/2013 Denalitek | Anchorage, AK
+
+- Set up hardware and software in optimal configurations to meet network performance requirements.
+
+- Managed system-wide operating system and software deployments, as well as related software upgrade problems.
+
+- Delivered network technology training to junior team members and end-users, enhancing knowledgebase and team productivity.
+
+- Established, repaired and optimized networks by installing wiring, cabling and devices.
+
+- Broke down and evaluated user problems, using test scripts, personal expertise and probing questions.
+
+- Configured hardware, devices and software to set up work stations for employees.
+
+- Patched software and installed new versions to eliminate security problems and protect data.
+
+- Maintained and monitored server room, wireless network and other server infrastructure, keeping systems running effectively and efficiently.
+
+- Created support documentation that empowered and enabled user community to extend skills, leverage system features and find resolutions to questions without intervention from support team.
+
+- Removed malware, ransomware and other threats from laptops and desktop systems.
+
+- Responded to support requests from end users and patiently walked individuals through basic troubleshooting tasks.
+
+Bachelor of Science | Computer And Information Sciences 10/2010 Abia State University , Uturu
+
+MCDBA
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

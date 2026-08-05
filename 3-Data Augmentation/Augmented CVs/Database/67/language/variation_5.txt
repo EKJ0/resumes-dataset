@@ -1,0 +1,187 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+SQL Developer with 6 years progressive experience in resolve problems with applications and database systems , databases and application
+writing. Self-driven programmer with strong aptitude for Interface with developers, network, virtualization, storage and systems operations
+teams to resolve problems with applications and database systeM, Serve as support for database administration tasks and Administer and
+monitor 24/7 applications and systems, developing automated alerts to warn of failure to build appropriate and useful deliverables. Critical
+thinker offering high performance in SQL management studio and practical application in database to deliver and produce a good result.
+The kind of target jobs i want is a
+
+sql developer .
+
+Senior Sql Server Database Administrator.
+
+sql architecture
+
+SKILLS
+------
+
+- Microsoft SQL Server ,SQL understanding .Strong ability to work © SQL Server proficiency,SQL and databases
+
+independently and manage one's time. Strong knowledge of © Good knowledge of High Availability (HA), Always On and
+computer software, such as SQL, Visual Basic, Oracle, etc Disaster Recovery (DR) options for MSSQL Server
+
+- Am proficient with SQL Server 2005/2008 / 2008 R2 / 2012 & © SQL Server, Teradata DBA, Microsoft Sql Server Integration
+2014 optimization, fine-tuning, and scalability techniques with Services (SSIS) knowledge of SSIS .Strong knowledge of MS Office products Disaster Recovery Planning
+
+- SQL Server Server Management Clustering
+
+- Ability to apply detailed knowledge of organizational procedures © Network server management
+
+to make independent decisions and serve as a credible resource Support Ticketing Systems for a senior management team Internal Technical Communications
+Strong interpersonal skills, written and verbal communication System Standards Documentation
+Strong decision-making, problem-solving skills, critical thinking, ¢ Organization and testing skills
+Strong knowledge of computer software, such as SQL, Visual Basic, Oracle, etc management System (RDBMS). MS SQL
+Server 2000 .SQL development
+- Strong knowledge of computer software, such as SQL, Visual Basic, Oracle, etc
+- Knowledge of High Availability (HA) and Disaster Recovery (DR) options for SQL Server
+
+WORK EXPERIENCE
+---------------
+
+11/2018 to 01/2020 SQL Database Administrator Asrc Federal Holding Company - Denver, CO
+
+- Created optimal technical solutions to user needs through research and in-depth system analysis.
+
+- Provides technical direction for RDBMS software delivery. Designs, recommends, and implements backup and recovery policies and procedures. Participates in business continuity design & implementation plans. Establish database standards, policies, and procedures and drives for team to adhere to standards Set up and controlled user profiles and access levels for each database segment to protect important data. Performs advanced database administration/maintenance tasks (includes advanced administration such as replication, encryption, clustering, partitioning, creating & reviewing complex work plans.) Modified existing databases to meet unique needs and goals determined during initial evaluation and planning
+
+process.
+
+Identify and resolve complex database issues independently in a timely manner; advanced troubleshooting. Opens
+& works tickets with RDBMS vendors; helps other team members to drive vendors to resolution
+
+Identifies global problems and drives to standardize and correct across the ecosystem. Implements & documents
+procedures to avoid future issues.
+
+Makes recommendations for daily operational checks; reviews event management alerts and e-mails, and assists in
+designing audits of inventory and processes.
+
+Writes complex shell, powershell, REXX, or other scripts
+
+Works with cross-functional teams on designing high-performance database solutions for projects/initiatives.
+
+Understands all system and application level concepts/components for a given application.
+
+Perform database tuning and performance analysis; assist in application level consultation as required.
+Thorough knowledge of mainframe storage administration
+
+Proficiency in mainframe performance monitors (RMF, Omegamon, Sysview)
+
+Thorough understanding of database relational modeling, design concepts, & implementations.
+
+- Maintain database servers and processes, including monitoring of system health and performance, to ensure high levels of performance, availability, and security
+
+Apply data modeling techniques to ensure SQL implementations & integrations meets or exceeds performance
+
+requirements
+Independently analyze, solve, and correct issues in real time, providing problem resolution end-to-end
+Participate in migrations for customers
+
+Participate in upgrades
+
+Keep time entry up to date within 24 hours
+
+Advise customers on hardware and licensing questions
+
+Ensure that customers are have appropriate maintenance in place including backups, index maintenance,
+
+consistency checks and statistics maintenance
+
+Support SSIS. SSRS, SSAS solutions for customers
+
+- Performance tuning
+
+- Administers SQL databases, monitoring backups, space utilization, and software updates.
+
+- Works with Operations Lead to maintain a solid backup and recovery strategy for all global databases.
+
+- Reviews backup and recovery strategy quarterly, and works with Operations to maintain and test disaster recovery databases
+
+04/2017 to 09/2018 Sql Server DBA Nbc Universal - Phoenix, AZ
+- Perform SQL administrative tasks including installing and upgrading SQL server products, creating maintenance plans, and creating database objects
+- Install, configure and deploy MS SQL Server. Perform capacity planning, performance turning, monitoring. troubleshooting and optimization of databases
+- Prepares users by conducting training: providing information; resolving problems
+- Designing and running system load/stress testing: escalating application problems to vendors Standardize and manage Database Administrator procedures for monitoring database performance, testing, archiving, and optimizing Maintenance and support of SQL server Mirroring, Log shipping, Clustering, and other methods of disaster recovery
+
+Built useful reporting deliverables to properly document analysis results and provide performance improvement
+feedback for more than 30 times
+
+Created optimal technical solutions to user needs through research and in-depth system analysis
+
+Developed and produced high-standard database solutions to meet stability, reliability and performance metrics
+Responsible for all Database Operations including planning, configuration, trouble-shooting, monitoring, security
+
+configurations and migrations.
+
+Build & Manage SQL Server databases in multiple environments, from development to mission-critical production
+systems.
+
+Configure and maintain database servers and processes, including monitoring of system health and performance, to
+ensure high levels of performance, availability, and security
+
+Apply data modeling techniques to ensure SQL implementations & integrations meets or exceeds performance
+requirements
+
+Independently analyze, solve, and correct issues in real time, providing problem resolution end-to-end
+
+Design and implement redundant systems, policies, and procedures for disaster recovery and data archiving to
+ensure effective protection and integrity of data assets.
+
+Monitor, optimize and allocate physical data storage for database systems.
+
+01/2016 to 03/2017 Junior SQL Server Database Developer Amita Health - Sparta, TN
+
+- Increased customer satisfaction by resolving issues with management studios
+
+- Supporting disaster recovery including database mirroring and replication
+
+- Resolved backups problems, improved operations and provided exceptional client support
+
+- Creating and maintaining jobs
+
+- Designing and creating SQL Server tables
+
+- Assisting in SQL Server optimization including indexing and query optimization
+
+- Created Stored Procedures, User Defined functions, & Triggers
+
+- Created SSIS Packages in BIDS
+
+- Created and Deployed SSRS Reports in BIDS
+
+- Devoted special emphasis to punctuality and worked to maintain outstanding attendance record, consistently arriving to work ready to start immediately
+
+- Drove operational improvements which resulted in savings and improved profit margins
+
+- Resolved conflicts and negotiated mutually beneficial agreements between parties more than 20 consecutive time
+
+- Plan, coordinate and manage data migrations and replication between systems. Develop, implement, and maintain change control and testing processes for modifications to databases. Participated in a 24/7 On-Call Rotation. Experience with HA/DR technology for RDBMS mentioned above.
+
+01/2014 to 11/2014 Application Support Analyst DC Logistics - City, STATE
+- Conducted and supported implementation delivery with client and internal departments.
+- Collaborated with developers, analysts and project managers to expedite incident resolutions.
+- Provided 24/7 support for web- and client-based applications, file and data feeds and batch processes to prevent impact to business.
+- Analyzed and troubleshot integration issues related to system configuration, data, maps and workflows.
+- Installed, configured and provided ongoing configuration management for 10 custom applications.
+- Accommodated delivery challenges specific to SaaS delivery environment
+- Performed software application and disaster recovery testing to guarantee business readiness following fail-overs.
+- Led and audited international subsidiaries and operational processes to mitigate risks.
+- Demonstrated advanced knowledge of software delivery lifecycle and varied delivery methodology.
+
+EpucatIon
+
+06/2015 DATABASE ADMINISTRATOR
+THE TECH EDGE - Peachtree Industrial Blvd, Atlanta, GA 30360
+
+Information Technology Central Georgia Technical College - Macon, GA
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

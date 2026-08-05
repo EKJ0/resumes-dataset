@@ -1,0 +1,143 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Seasoned Database Administrator with 10+ years of extensive experience designing, coding and testing database solutions in z/OS, Windows
+and Linux environments. Proficient in working with diverse technologies such as Db2 for z/OS, Db2 for Linux, MySQL, Apache Cassandra,
+MongoDB and PostgreSQL. Exposure to Amazon RDS, Aurora, DynamoDB & DAX, Redshift, Document DB, Neptune, QLDB, Elasticache .
+Timeseries and Athena Database technologies. Exposure to AWS services such as IAM, EC2, EC2 instance storage(EBS., EFS, EC2 instance
+store), Elastic Load Balancing, Auto Scaling, Route 53, $3, Cloud Front , Global Accelerator, SQS, SNS, Kinesis, ECS, FARGATE, LAMBDA
+Function, API Gateway, Cloudwatch, CloudTrail, AWS Config, KMS encryption, SSM Parameter store, Shield, WAF, VPC configuration .
+Internet gateway, NAT instance , VPC Peering, VPC End Points and Database migration services. Experienced in performance monitoring,
+Database object modeling, maintenance , backup , recovery , DR maintenance, analyzing performance report and providing solution.
+Experienced in Informatica Power Exchange to do Extract, Transform and Load (ETL) data across different databases in multiple platforms.
+Motivated to stay informed of latest industry innovations to provide users with most up-to-date solutions. Goal-oriented team player succeeds
+working with various colleagues and clients by maintaining communication. Succeeds in high-pressure environments while meeting business
+
+needs and project expectations.
+
+SKILLS
+------
+- Db2 z/OS, Db2 LUW, MySQL, Aurora, RDS, PostgreSQL. e Unix, Linux, Windows, Shell, Perl, JCL, REXX,COBOL, Java,
+- Apache Cassandra, MongoDB, DynamoDB, Athena. Redshift, Python, VSAM. Elasticache, CICS, IMS. e AWS services, IAM, EC2, EBS, EFS, Instance store, Elastic Load
+
+balancing, Auto scaling, Route 53, $3, Cloud front, Global accelerator, SQS, SNS, Kinesis, ECS, Fargate, Lambda, API
+Gateway, Cloudwatch, Cloud Trail, KMS, WAF, Shield, VPS, DMS.
+
+WORK EXPERIENCE
+---------------
+
+Senior Database administrator, 10/2014 - Current
+
+Mantech International Corporation - San Diego, CA
+
+REsponsible for Db2 Database (DDL) Design , implementation and maintenance.
+
+Responsible for SQL or system performance (I/O, CPU, DASD delay) tuning and resolution, Database security.
+
+Implemented Automated backup strategy . Script to Monitor & Notify Cost consuming SQL, Weekly automated maintenance schedule (
+Db? utilities).
+
+Implemented automated Database refresh from production to non production system.
+
+Implemented Db2 Version Migration or upgrade and exploring features from New version.
+
+Set up user access to objects based on RACF standards.
+
+Implemented REXX scripts to simplify manual task and save execution time.
+
+Implemented Cross System CDC (Change Data Capture) between DB2 z/OS and Oracle to support 24/7 data replication.
+
+Implemented Informatica power exchange workflow to extract, transform and load (ETL) data across different database in multiple
+platforms.
+Provided 24* 7 support.
+Cassandra POC:
+- Installed, configured and Tested Datastax Apache Cassandra multi-node cluster.
+- Estimated cluster sizing and configured cassandra_yaml file to modify, update configuration to improve performance. Configured CQL to perform CRUD operations with Read and write consistency level (Quorum model). Created Cassandra keyspaces with replication & compaction strategy and nodesync , Created Column families, Implemented partitioning
+
+and clustering using primary key.
+
+Implemented vnode configuration and performed Cassandra-stress test.
+
+Monitored and performed database operations Cassandra using top, dstat, nodetool commands, system & output log, JVM garbage
+collection log, OpsCenter and life cycle manager GUI tool.
+Performed Node addition/removal/replace, Node bootstrapping, Node repair , sstablesplit, CQL copy. sstabledump, sstableloader, Dsbulk,
+Backup.
+MongoDB POC:
+
+Installed and configured multi-node mongodb cluster.
+
+- Configured mongodb configuration file to modify cluster configuration and improve performance.
+
+- Implemented replicas and performed addition/removal of nodes
+
+- Executed mongodb query language to create database, collection , indexes, collations, read/write document with read/write concern, CRUD operations.
+
+- Implemented sharding with effective sharding keys. performed operations on configdb to get to know cluster configuration and logs.
+
+- Executed mongostat, mongotop, mongoreplay, mongo, profiler, compass, mtools to monitor performance of cluster, schema , query and to
+
+resolve them.
+
+Senior Database Administrator, 04/2012 - 10/2014 Mantech International Corporation - Suitland, MD
+- Maintained multiple QA. DEV and Prod Db2 subsystems in z/OS . designed & created Objects including Database, Tables, Stored procedure, Triggers, User defined functions , Aliases , MQT, Temporal Tables, referential integrity, constraints, Programs and plans -
+- Automated Data migration, Replication , Unused storage reclaim, Backup/Snapshot and Recovery.
+- Analyzed performance reports to proactively identify long running SQL queries , optimize and redesign SQL query.
+- Executed Stand alone and online utilities to perform Load, Unload, Export, import, Mysqldump, reorganize the data, backup, restore , repair . bulkcopy, explain. bind, client/server connectivity & database consistency check. MYSQL:
+- Performed MySQL server installation, maintenance , upgrades for QA, Test and Production on Linux and windows environment, Handled security , schema changes , buffer tuning and data integrity.
+- Experienced in coding REXX for Db2 , Shell & Perl scripting and general system administration skills on Unix, Linux, z/OS and windows environments.
+
+Effectively used MYSQL Config changes, multiple instances , hardware upgrades, tuned innodb buffer , log buffer to improve DB
+
+performance.
+
+Replicated data into Dataware house environments , established High availability replication environment , master-master and master-slave
+setup environment.
+
+Ability to carry out security tasks at network level such as block/unblock TCP/IP ports through firewall on both Linux and windows and
+block/unblock remote access to MySQL server.
+
+Performed CPU, I/O & Memory test using Sysbench and utilized mysqlslap benchmark tool to capture mysqlid performance.
+
+Db2 Database Engineer for Z/OS & LINUX, 06/2008 - 08/2009 Tata Consultancy Services Ltd - City, STATE
+- Installed .maintained and performed upgrades on Db2 for z/OS, Db2 for LUW. and IMS databases engines. Created and implemented Database logical & physical database object design including (tables, indexes, functions, stored procedures,
+
+MOT, views , aliases, triggers and temporal tables) , data models, Database Backup and Recovery strategies.
+
+Created Automated script using REXX & SHELL to reduce man hours to implement regular tasks.
+
+Performed capacity planning . resource management, SQL tuning .proactive monitoring , report analysis and notification .
+- Executed Online & stand alone utilities to perform Export, Import, LOAD, UNLOAD, Reorganize data, Repair Tables, backup/snapshot, Recovery, update/collect statistics, bind programs & plans,
+
+Scripted to perform Auto data migration between Production and Test Regions.
+
+Set up and controlled user profiles and access levels for each database segment to protect important data.
+
+Resolved SQL error codes, Locking conflicts and performed Disastrous recovery set up, SQL replication, Q-replication , BLU acceleration
+
+and HADR set up,
+
+EDUCATION
+---------
+Bachelor of Technology: Informational Technology, 06/2008 PSG COLLEGE oF TECHNOLOGY - COIMBATORE
+
+CERTIFICATIONS
+--------------
+
+- Db2 V8 for z/OS certification
+
+- MongoDB 4.2 certified DBA (Associate level) License #602-850-608
+
+- Cassandra Administrator Certification (Associate Level)
+
+- AWS Certified Cloud Partitioner ( Validation Number 0EQ2NIML2EVEQS9D )
+
+- AWS Certified Solutions Architect - Associate ( Validation Number MTHHNEHLGE1QQ9CR )
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

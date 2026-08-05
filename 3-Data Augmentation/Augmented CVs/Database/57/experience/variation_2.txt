@@ -1,0 +1,165 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA XXX05
+(555) 432-1000 - resumesample@example.com
+
+CAREER OVERVIEW
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+driving increased sales, improving buying experience and elevating company profile with target market.
+
+QUALIFICATIONS
+
+- Technical Skills: Microsoft SQL Server 7, 2000, 2005 and 2008,
+2012
+
+Oracle 7, 8, 81 and 91
+
+- MSDE
+
+Gupta SQLBase 7.5 Idera - SQL Diagnostic Manager
+
+SQL LiteSpeed
+
+Oracle Enterprise Manager
+
+- TOAD Windows NT/2000/2003/2008/2012 Server (32-bit/64-bit)
+Windows 8.1/7/Vista/XP/2000/98/95/3.1 Microsoft Office Microsoft Visual Studio
+
+Rational Rose
+
+- Erwin
+
+- Visio
+
+- SourceSafe
+
+- MKS Source Integrity
+- PVCS
+
+- StarTeam
+
+- VMWare
+
+- Lotus Notes
+
+- OS
+
+- SharePoint Services
+- Business Objects PowerShell
+- C#
+
+- NET
+
+ec
+
+- Ct
+
+Visual Basic
+
+- Perl
+
+JavaScript
+
+VB Script
+
+DOS Batch Scripting Transact-SQL PL/SQL Net MTS/COM+ Client-Server
+
+- N-Tier
+
+- HTML
+
+- XML
+
+- UML
+
+TECHNICAL SKILLS
+----------------
+
+ACCOMPLISHMENTS
+
+Utilized prioritization and scheduling skills to reduce the average number of outstanding change requests by 20 percent, while serving as the
+Change Request Manager of the architecture group
+
+WORK EXPERIENCE
+---------------
+
+01/2005 to 01/2015 IT Director / Database Administrator Bae Systems - Arnold. MO
+Responsible for implementing and maintaining multiple SQL Server database servers used to support the financial
+operations for the Global financial operations of a multi-national business. These environments utilize a combination of
+clustering, replication; log shipping and database mirroring to provide the required high availability and data protection.
+Created a database server standard / specification that provides for a robust and redundant data environment. This
+allowed for the consolidation of multiple smaller database servers reducing operating cost and increasing reliability.
+Provided database and application development support to the internal application development team including design
+review, database performance review, release and configuration management. Responsible for the implementation of
+security initiatives as prescribed by our global data security group. This has included various State laws, PCI
+compliance and oversea requirements. Created and implemented a database server, network infrastructure and
+application administration change log process in order to comply with internal and external auditor general computer
+controls. Responsible for the overall IT operations of multiple business operations in North America. These activities
+include IT departmental budgeting, helpdesk operations, phone system support, server room management and hardware
+/ software purchasing. Managed an 8500-seat Microsoft Enterprise agreement that includes providing current licensing
+information to all Global business units that allows for cost effective and proper licensing.
+
+01/2004 to 01/2005 Senior Systems Engineer Best Buy - Round Rock, TX
+Application/Architecture Development Responsibilities/Accomplishments Project team leader responsible for the
+technical project definition and planning of an n-tier enterprise supply chain management portal website using
+Microsoft .NET technologies. (C#, IIS, ASP Net, SQL Server) Middle-tier developer for an n-tier enterprise supply
+chain management portal website responsible for business-object, data access, and database design and coding. (C#, IIS,
+- Net Removing and SQL Server) Re-engineered the build process used by the NET development team using NAnt and CruiseControl .NET framework to create a continuous build process, reducing quality assurance and production build related errors and increasing uptime. Team member responsible for the implementation of Star Team version control system as part of an overall software development life cycle methodology implementation using StarTeam, Mercury Test Director and CaliberRM. Database Administration/Development Responsibilities/Accomplishments Responsible for Database Administration of day-to-day operations for production, quality assurance and development databases located in the main data center and in remote production locations. This includes the primary database server using a SQL Server 64-bit 2-node cluster system and 8 remote SQL Server database servers. Duties include backup/restore, user security, transactional replication, space management, monitoring and tuning. Responsible for developing processes and procedures relating to all areas of database administration including day-to-day operational tasks, server layout, backup/ restore, security, database creation and database maintenance. Developed, implemented and monitor SQL coding standards used by the NET development team to ensure code consistency and reduce SQL performance issues.
+
+01/1998 to 01/1 Product Developer I Vertex, Inc - City, STATE
+Sarasota, Florida (Formerly Arthur Andersen LLP - Tax Technology Enterprise, Sarasota, Florida) Experienced
+Application Development Manager, 2002-2004 Application Development Manager, 2000-2002 Responsible for
+developing standards, procedures, processes, and tools, to simplify the definition, construction, conversion, and support
+of products requiring relational databases. Database Administration / Development Identified the need for and
+established a database standards committee consisting of members from all functional areas (e.g. development, testing,
+deployment, etc.) to ensure that standards and procedures were adhered to throughout the organization. Identified the
+need for a common installation of the desktop database engine used by the organization's various product groups.
+Gathered requirements from each of these groups and established a single common standard installation. Developed and
+implemented standards and procedures, based on the SQL-92 standards, to ensure that one code base would support
+multiple DBMS platforms. Developed and implemented a single template based automated process to build and convert
+Oracle, Microsoft SQL Server, and Gupta SQLBase databases. Developed and implemented a standard methodology for
+converting SQL Server stored procedures to Oracle PL/SQL stored procedures. Reduced processing time 50% for an n-
+tier online application, by analyzing and implementing SQL tuning enhancements. Application / Architecture
+Development Defined the standards and processes utilized to transform the organization from a client-server to an n-tier
+development organization. as a member of the Software Engineering Management Team. Utilized prioritization and
+scheduling skills to reduce the average number of outstanding change requests by 20 percent, while serving as the
+Change Request Manager of the architecture group. Developed and implemented enhancements for a client-server
+application which provided for tighter data security in an online environment. Led the architecture group on the design
+of the architecture and application development build process used as a model for all new development projects.
+Developed and implemented changes to a client-server application product to support the Oracle DBMS platform in
+order to secure the organization's largest client.
+
+01/1987 to 01/1995 Senior Consultant KPMG LLP - City, STATE
+Responsible for developing, implementing, supporting, and marketing software products for the firm's health care
+industry practice.
+
+EDUCATION AND TRAINING
+
+Master of Accountancy: Accountancy University of West Florida - Pensacola, Florida University of West Florida, Pensacola, Florida Master of Accountancy
+
+Bachelor of Arts: Accounting Information Systems Bachelor of Arts, Accounting Information Systems
+
+CERTIFICATIONS
+--------------
+
+Certified Public Accountant CPA Oracle81 Certified Professional Database Administrator Microsoft Certified Solution Developer Certified
+System Professional CSP Oracle Master for Database Administration, Oracle7
+
+SKILLS
+------
+
+Application Development, Database, Ms Sql Server, Security, Sql, Sql Server, Operations, Replication, Budgeting, Business Operations,
+Buying/procurement, Change Management, Clustering, Configuration Management, Data Protection, Database Administrator, Design
+Review, Financial Operations, Helpdesk, Payment Card Industry, Pci, Performance Review, Phone System, Purchasing, Shipping, And
+Marketing, Marketing, Architecture, Database Administration, Databases, N-tier, B2b Software, Client-server, Database Engine, Database
+Management System, Doms, Deployment, Engineering Management, Gupta, Microsoft Sql Server, Oracle, Pl/sql. Scheduling. Software
+Engineering, Stored Procedures, Testing, net, Access, Asp, Asp.net, C#, Caliberrm, Coding, Data Center, Database Design, Engineer, lis,
+Internet Information Services, Life Cycle, Maintenance, Mercury, Microsoft net, Ms -net, Ms Asp, Quality Assurance, Software
+Development, Software Development Life Cycle, Star Team, Starteam, Structured Software, Supply Chain, Supply Chain Management,
+Systems Engineer, Version Control, Accountant, C++, Certified Public Accountant, Com+, Cpa, Dos, Erwin, Html, Javascript, Lotus Notes,
+Management Consulting, Microsoft Office, Microsoft Sharepoint, Microsoft Visual Studio, Ms Office, Msde, Oracle 7, Perl, Pvcs, Rational,
+Rational Rose, Scripting, Sharepoint, Sourcesafe, Uml, Visio, Visual Basic, Visual Studio, Vmware, Windows 8, Xml, Accounting,
+Accounting Information Systems

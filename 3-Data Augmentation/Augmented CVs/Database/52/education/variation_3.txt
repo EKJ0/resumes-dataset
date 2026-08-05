@@ -1,0 +1,168 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+With 5+ years of experience in IT and the SQL server environments, I have worked with MS SQL Server from 2008 to 2019 in diverse
+
+Environments like the Test, Quality-Assurance, Development, and Production. I am an all-rounder, highly motivated, and self-starter, with
+strong interpersonal and excellent communication skills, both oral and written. Outstanding problem solver with analytical skills. I have hands-
+on experience in the Installation and Configuration of SQL Server, Data Migration, Security, Performance Tuning, High Availability and
+Disaster Recovery, Backup and Restore, Database Refresh, SQL Server Upgrades, and OS Patches.
+
+SKILLS
+------
+- Guest services © Loss prevention
+- Inventory control procedures © Cash register operations
+- Merchandising expertise © Product promotions
+
+WORK EXPERIENCE
+---------------
+
+SQL Server Database Administrator, 09/2019 - Current Rr Donnelley & Sons - Laurel, MD
+
+Highly analytical and results-driven IT professional working with databases
+
+Responsible for daily maintenance of PROD, TEST, and DEV environments
+
+In charge of managing large environments
+
+Managed users by creating logins, and passwords and assigning privileges to users following the principle of least privilege
+
+Enhanced database performance implemented recovery procedures and achieved 99.9% uptime on all SQL Servers
+
+Increased efficiency by providing optimum database performance with efficient disaster recovery solutions such as backup and restore
+processes
+
+Generated prompt responses to Tickets, resolved user requests based on priority, and ensured database configuration maintenance in the
+configuration repository
+
+Strong Experience with SQL Server 2008 through 2019 administrating standalone and cluster environments
+
+Production level support for onsite and offshore - On Call 24/7 environment
+
+High Availability Solution Always On, Log Shipping, Traditional failover Clustering and mirroring
+
+Experience using SQL Server features such as Query Store, data Import/Export, Extended Events, and Tuning Advisor
+
+Interacts with clients, application team and project managers to design, implement and support solutions to meet client needs
+
+Evaluate and implement new technologies for service improvement
+
+Perform all day-to-day aspects of MS SQL database and Administration such as Installation, configuration, upgrades, security, user
+management, and Logins, performance tuning and monitoring, database Availability, backup and recovery, troubleshooting, and problem
+resolution
+
+Working with the entire IT team too
+
+Work with the development team to resolve bug fixes and assist in relevant testing through various environments
+
+Provide solutions for database issues including capacity, redundancy, replication, and performance
+
+Involved in ensuring data recovery, maintenance, data integrity, and space requirements for the physical database
+
+Creating and Modifying Tables, Stored Procedures, Views, Indexes, User-defined Functions, Triggers, etc as requirements on SQL Server
+Environments
+
+Planning and implementation of Database disaster recovery such as backup, restore, and snapshots
+
+SQL Server Profiler, Extended Events, Query Store, and Database Engine Tuning Advisor (DTA) for performance
+
+Configured and supported replication and log shipping in both SQL 2008 and 2012
+
+Automation of DBA Tasks and monitoring using both SQL inbuilt tools and third-party tools
+
+Respond promptly to user complaints regarding access to the database
+
+Perform automated Jobs to run and resolve database issues
+
+Configured and supported replication (Snapshot/Transactional/Merge) and log shipping in both SQL 2014 through 2016 Servers
+
+High Availability Solution- Clustering, Always-On, Database Mirroring, and Traditional Failover Clustering
+
+SQL Server Database Administrator, 08/2017 - 10/2019 Rr Donnelley & Sons - Sacramento, CA
+
+Planning the Installation of Microsoft SQL Server 2012, 2016 building. designing. Configuration, Upgrade, Migration, and application of
+Windows and SQL Patching during scheduled database downtimes after hours to ensure databases are up to date in Virtualized
+environments
+
+Implementation and definition of vigorous Backup and Recovery strategies and Capacity planning following the company’s Recovery Point
+Objective (RPO) and Recovery Time Objective (RTO) and the Retention policy
+
+Recommending and implementing data security by creating users and assigning permissions based on the minimum level of database
+access the user would need and with tools like Always Encrypted, Transparent Data Encryption (TDE), and Dynamic Data Masking
+(DDM) to secure clients’ sensitive data
+
+Using in-built tools such as SQL Server profiler, Performance monitor, Extended Events, DMVs, and Database Integrity checks to ensure
+database integrity, stability, and system Managing and providing end to end support and problem resolution for SQL Server databases
+through multiple product lifecycle environments, such as development, testing to mission-critical production systems
+
+Configured High Availability (HA) and Disaster Recovery (DR) Solutions on productions systems using Clustering - Always On, Log
+Shipping to make sure the databases are always available and participating in disaster recovery testing
+
+Analyze, solve, and correct issues in real-time and provide end-to-end problem resolutions such as hardware and software purchases, server
+configuration changes, and assisting developers with query/index tuning, Partitioning, compression, and statistics to enhance speed and
+maximize system performance
+
+Creating and monitoring maintenance plans and agent jobs that take backups and defragment indexes for query performance
+
+Create and update database documentation about company standard procedures, technology features, and production issue troubleshooting
+Review scripts submitted by the development team and work with other teams like systems analysts, developers, business analysts, and
+project teams to determine the capacity planning required to create and maintain the Databases
+
+Hands-on database tuning and troubleshooting of SQL Server service outages as they occur, including providing on-call support during
+after-hours and weekends
+
+Providing scheduled maintenance, supporting application deployment, and hardware/software upgrades after hours and 24 x 7 support
+Control and establish appropriate database user access control levels by provisioning and de-provisioning users based upon company
+policy to control access for each segment of the Databases
+
+Develops database security guidelines and performs audits.
+
+SQL DATABASE ADMINISTRATOR, 02/2016 - 05/2017 Chicago Public Schools - Chicago, IL
+
+Responsible for taking and maintaining data back-up for recovery in the event of a disaster, and database security
+
+Upgraded SQL Server 2005 servers to SQL Server 2008 with both In-place and Side by Side Upgrade to support new applications in the
+company
+
+Handled SQL Server installation, Configuration, Security, and maintenance following best practices, reliability, and maintaining the
+database
+
+Using SQL Server Profiler, Extended Events, Database Engine Tuning Advisor (DTA) for performance, and other third-party monitoring
+
+TOOLS
+-----
+
+Cooperate with developers when writing complex queries and schema refinement
+
+Maintain database response times 24x7 in Production environments by developing automated alert jobs, work according to policies and
+regulations
+
+Prioritizing and responding to and executing tasks in a high-pressure environment, designing, Configuration, Upgrade MS SQL, and
+supporting production systems
+
+Migration and application of Windows and SQL Patching during scheduled database downtimes after hours to ensure databases are up to
+date
+
+Designing and implementing Backup and Recovery strategies and Capacity planning following the company's Recovery Point Objective
+(RPO) and Recovery Time Objective (RTO) and the Retention policy, SQL database architecture, technical support Directory, Learn
+emerging technologies, operating systems, federal regulations, system support, information technology
+
+Work according to company policies, collaborating with the entire IT team and other employees.
+
+EDUCATION AND TRAINING
+
+Bachelor’s Degree: Computer Science, 01/2014 UNIVERSITY OF MANCOSA SA
+
+CERTIFICATIONS
+--------------
+
+Microsoft Certified Technology Associate MTA
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University
