@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — BPO
+Folder: BPO resumes  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_64.txt)
+----------------------------------------------------------------------
+Name: Jody Bode
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: University of Cincinnati Bachelor's in Business
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead
+Resume Length: 243 words, 36 lines (~0.5 pages)
+
+CANDIDATE 2  (source file: 771a3f5903b5e71a.txt)
+----------------------------------------------------------------------
+Name: First Last
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: - English (Native)
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: University of New York Bachelor of Science Business Administration New York City, New York | 10/2011 - 06/2014
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. leading, supervised, mentored
+Resume Length: 406 words, 67 lines (~0.8 pages)
+
+CANDIDATE 3  (source file: 5ff0e747e682aac4.txt)
+----------------------------------------------------------------------
+Name: Lorena Riccardi
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Villaville College, Sampdoria
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. oversaw, supervised, coordinated
+Resume Length: 223 words, 32 lines (~0.4 pages)
+
+CANDIDATE 4  (source file: 1005faff82750b7a.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: - Listening Music
+Education: Not stated in source
+Writing Style: bullet-driven, short, punchy sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 157 words, 27 lines (~0.3 pages)
+
+CANDIDATE 5  (source file: Image_74.txt)
+----------------------------------------------------------------------
+Name: Kimberlie Bernier
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 150 words, 15 lines (~0.3 pages)
+
+CANDIDATE 6  (source file: 1026396195224b55.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- University of Illinois at Urbana-Champaign Urbana, IL Bachelor of Science in Business Administration Date period
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. led, managed, oversaw, coordinated
+Resume Length: 318 words, 28 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: Image_1.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~44 (estimated from earliest date/grad year 2004, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Maters in Management
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 218 words, 44 lines (~0.4 pages)
+
+CANDIDATE 8  (source file: Image_79.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: » SSC (10"):- From C.B.S.E Board in 2003 Affiliated to Haynes SENIOR SECONDRY EDUCATION with Distinction.
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 170 words, 23 lines (~0.3 pages)
+
+CANDIDATE 9  (source file: 3801a1a3a5de35a6.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: B.S, In Computer Science
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 348 words, 38 lines (~0.7 pages)
+
+CANDIDATE 10  (source file: 2985a49f97227d97.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 300 words, 42 lines (~0.6 pages)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)
