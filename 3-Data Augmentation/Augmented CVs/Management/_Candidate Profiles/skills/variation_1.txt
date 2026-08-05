@@ -1,0 +1,146 @@
+CANDIDATE PROFILES — Management
+Folder: Management  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_54.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, established
+Resume Length: 292 words, 23 lines (~0.6 pages)
+
+CANDIDATE 2  (source file: 7e5b8ed37f4fc39f.txt)
+----------------------------------------------------------------------
+Name: Jerie Beireis
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. led, leading, managed
+Resume Length: 360 words, 38 lines (~0.7 pages)
+
+CANDIDATE 3  (source file: cca5b6324aec7238.txt)
+----------------------------------------------------------------------
+Name: Xander Blakewood
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. led, lead, leading, managed, drove
+Resume Length: 431 words, 38 lines (~0.9 pages)
+
+CANDIDATE 4  (source file: 98.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~57 (estimated from earliest date/grad year 1991, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Associate of Applied Science: Nursing Practice, 05/1991 West Virginia Northern Community College - Wheeling, WV
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. coordinated, oversaw, mentored
+Resume Length: 684 words, 55 lines (~1.4 pages)
+
+CANDIDATE 5  (source file: 33.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~59 (estimated from earliest date/grad year 1989, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science: Medical Laboratory Science Charles Sturt University - NSW
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, managed, coordinated, established
+Resume Length: 849 words, 80 lines (~1.7 pages)
+
+CANDIDATE 6  (source file: 123.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~58 (estimated from earliest date/grad year 1990, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- Master of Sport Administration: Present
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead, managed, directed, founded
+Resume Length: 602 words, 41 lines (~1.2 pages)
+
+CANDIDATE 7  (source file: 73.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- Master Welder Certificate Tulsa Welding School - Tulsa, OK High School Diploma Union High School - Tulsa Ok
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. directed, coordinated, established
+Resume Length: 1001 words, 110 lines (~2.0 pages)
+
+CANDIDATE 8  (source file: e50e72c412a43b6f.txt)
+----------------------------------------------------------------------
+Name: Gabriel Campbell
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Coastal Business School Online Ongoing coursework in Business, Finance, Accounting, and Hospitality
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. oversaw, initiated
+Resume Length: 323 words, 41 lines (~0.6 pages)
+
+CANDIDATE 9  (source file: 101.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~62 (estimated from earliest date/grad year 1986, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, oversaw, coordinated
+Resume Length: 669 words, 70 lines (~1.3 pages)
+
+CANDIDATE 10  (source file: c7d9d6e30abc648a.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, lead, supervised, initiated
+Resume Length: 398 words, 29 lines (~0.8 pages)

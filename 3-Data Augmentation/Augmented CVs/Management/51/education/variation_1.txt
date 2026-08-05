@@ -1,0 +1,191 @@
+JESSICA CLAIRE
+
+San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Identity and Access Management (LAM) Architect with 3 years of professional experience designing, developing, and deploying application
+
+integrations across multiple platforms, while consistently exceeding professional expectations. Extremely passionate self- starter with strategic
+relationships and leadership skills. Thorough understanding of the Software Development Life Cycle and solutions-based methodologies.
+Accustomed to working in environments that are rapidly changing and evolving.
+
+SKILLS
+------
+- Guest services ¢ Loss prevention
+- Inventory control procedures © Cash register operations
+- Merchandising expertise © Product promotions
+
+WORK EXPERIENCE
+---------------
+
+Identity and Access Management Engineer, 12/2021 - 01/2023 Adp - Bloomington, MN
+
+Collaborated with Application Owners to understand LAM requirements and limitations, providing solutions to meet organizational security
+protocols
+
+Led the design, implementation, and automation of enterprise wide LAM solution for 70+ critical and business applications to meet
+Compliance and Lifecycle Management requirements while ensuring an API-First approach
+
+Deployed and implemented MuleSoft AnyPoint/Integration Studio for all JDBC and Delimited File based applications
+
+Increased operational efficiency by 25% through transformation of Job Title based manual spreadsheet to a hybrid RBAC/ABAC model
+Matured existing Single Sign-On (SSO) and Multi-Factor Authentication (MFA) model for all applications through Okta and Active
+Directory
+
+Established Identity Governance and Administration (IGA) processes and policies for managing access and permissions following the
+principle of Least Privilege/Zero Trust
+
+Implemented IDaaS (Identity as a Service) for all on-premise and cloud-based applications via API, Web Services, JDBC/DB2 Database
+Connection and Flat File feed
+
+Assisted in automating service desk ticketing catalogue in ServiceNow for all non-automated applications and consistent documentation
+Integrated API-based Security Information and Event Management (SIEM) through Splunk for continuous logging of Apache Std-Out and
+Log4J2
+
+Environment: SailPoint IdentityIQ 8.0-8.3, Java 11, JavaBean, Tomcat 9, JUnit 4, Maven, MSSQL 2016/19, Azure DevOps Server,
+BeyondTrust, Git, VS Code, SSL/TLS, Okta, ServiceNow, MuleSoft AnyPoint, Azure AD
+
+Full Stack Application Developer, 03/2021 - 10/2021
+1-800-Flowers.Com, Inc. - Eugene, OR
+
+Maintained J2EE legacy applications based on in-house monolithic architecture, utilizing Struts, JSP rendered views, and DAO based
+Oracle DB access services
+
+Assisted in planning, development, and migration of existing legacy web applications to microservice- based architecture, utilizing Spring
+Boot, Spring MVC, Hibernate, and Spring Security
+
+Led development of AngularJS and React.js component-based frameworks, resulting in 40% enhancement to quality of service
+
+Led enhancement for Linux-based POS systems' UI, allowing for dynamic resizing of applications using customized Swing components
+and Layout Managers
+
+Environment: Java 11/14, J2EE, Struts, Spring Framework 3, Angular 8/9, Tomcat, JUnit 4, React.js, Maven, Oracle SQL Dev.18c, Swing,
+JSP, AJAX, jQuery, Hibemate, Jira, Tortoise SVN, Eclipse IDE, Linux, Liferay DXP
+
+Managed Services Engineer, 07/2020 - 03/2021 Cyber Advisors - Maple Grove, MN
+
+Works closely with Project Management and Systems Engineering teams in support of large enterprise migration from CHS to QHC health
+systems
+
+Spearheaded Identity and Access Management processes utilizing Azure Active Directory, Microsoft SQL Server, SailPoint IdentityIQ, and
+Java/Spring Authentication mechanisms
+
+Effective communication with end-user to understand workflows, processes, and data collection within each integrated application as they
+relate to system design and migration decisions that support the project functions and goals
+
+Environment: Java 8, Spring Framework 3, Spring Security, Microsoft SQL Server, Microsoft Azure AD, Azure Functions, Azure Logic
+Apps, Microsoft Power BI, LDAP, SailPoint IdentityIQ, Cerner
+
+IT Systems Analyst, 02/2018 - 06/2020 Dechert Lip - Los Angeles. CA
+
+Responsible for the design, implementation, and testing of integration solutions for various contracting and accounting systems and
+protocols, including REST, SOAP, and MQ
+
+Utilized programming languages such as HTML, CSS, JavaScript, Spring/Java and .NET to develop custom connectors using REST and
+SOAP
+
+Implemented integration middleware, such as MuleSoft and Apache Camel, to improve scalability and efficiency
+
+Worked with data formats such as XML, JSON, and CSV to ensure seamless data transfer between systems
+
+Utilized SQL to perform data manipulation and validation
+
+Assisted in troubleshooting and resolving issues related to integration solutions
+
+Worked with cross-functional teams to ensure successful integration projects delivery.
+
+EDUCATION
+---------
+
+Bachelor of Science - BS: Software Engineering, December 2020 Arizona State University GPA: 3.4, Project Organizer with ASU's CodeDevils Software Club
+
+May 2017
+
+Airman Leadership Academy: Honor’s Graduate
+The Meritorious Service Medal (AF FORM 2228)
+The Air Force Commendation Medal (AF FORM 2224
+
+Associate of Science: Practical Nursing Technology, January 2017 Community College of the Air Force
+GPA: 4.0, GPA: 4.0, Rank: Staff Sergeant
+
+CERTIFICATIONS
+--------------
+
+Java (7+)
+
+OOP (6+)
+
+SDLC (5+)
+
+Blockchain Technology (3+) DLT (2+)
+
+SailPoint IdentityIQ (3+) SOA (4+)
+
+J2EE (3+)
+
+Ethereum (2+)
+
+Solidity (1+) REST/SOAP APIs (7+) Postman (5+)
+
+JavaScript (4+) Typescript (3+)
+
+JPA (2+)
+
+XML (6+)
+
+JSON (6+) Authentication Protocols Authorization Protocols IAMIIGA (6+)
+
+Hibernate (2+)
+
+Okta Admin (2+)
+
+Spring Framework (4+) Apache Maven (5+) React (3+)
+
+Redux (2+)
+
+AngularJS (4+)
+
+Junit 4 (4+)
+
+AJAX (5+)
+
+NodeJS (5+)
+
+JQuery (4+)
+
+Apache Tomcat (6+) Linux/Bash (4+) GraphQL (1+)
+
+Micro Services (4+) Project Mgmt (1+) Responsive Design (2+) JavaBean (3+)
+
+Atlassian / Jira (3+) ServiceNow Admin (1+) HTMLS (5+)
+
+CSS3 (44)
+
+Agile Framework (3+) TDD (3+)
+
+Azure DevOps (3+)
+
+MS Azure AD (3+) Git/GitHub (6+)
+
+SVN (3+)
+
+IDBC (6+)
+
+Microsoft SQL Server (4+) Windows Powershell (4+) MySQL (2+)
+
+CCD (1+)
+
+Docker (1+) Certifications and Licenses Certified SailPoint IdentityIQ Engineer Exam: Course ID 339510 (Taken. September 2022) Oracle
+Certified Professional, Java SE 8 Programmer II Exam: 1Z-808/809 (Taken: September 2020) MuleSoft Certified Developer Exam:
+MuleSoft Certified Developer - Level 1 (Taken: Jan 2023 - Exp: Dec 2025) Certified Information Systems Security Professional
+
+ADDITIONAL INFORMATION
+
+Citizen: , Authorized to work in the US for any employer
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

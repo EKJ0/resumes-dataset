@@ -1,0 +1,126 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+CAREER Focus
+
+Well-qualified Compliance professional, with more than 15 years of progressive experience in financial services risk and compliance roles
+within global organizations. Demonstrated ability to lead and streamline business operations that drive growth and increase efficiency. Strong
+qualifications in developing and implementing risk controls and processes in addition to productivity improvements, and change management.
+
+SUMMARY OF SKILLS
+
+In-depth knowledge/efficiency of MS Office Suite, Large data SQL sets-table enhancements, Operational risk, Managing and Analyzing
+accounting and audit processes, Strong written and verbal communication skills, Experience in high-quality financial and
+performance metric reporting (PMR), Business and Data analysis skills, Experienced with requirement/defect tracking tools such as Quality
+Center and JIRA, NICE Actimize risk and compliance software, Team approach with an ability to manage multiple work streams in a global
+
+environment
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+Asset Management Compliance Director, 01/2015 - Current Tishman Speyer - San Francisco, CA
+
+- In coordination with the Line of Business in Risk, Internal Audit and Technology to develop and/or enhance new policies, processes for ERM programs with a strong focus on the regulatory requirements of the Investment Company Act of 1940. Assist with firm responses to the SEC on reviews of controls and policies under Rule 206(4)-7 for the Investment Advisors Act of 1940 employing Compliance Testing and Monitoring plans.
+
+Liaise with Equity and Fixed Income Surveillance teams on emerging issues affecting controls used to capture violations and mitigating
+trading, and counterparty risks, including new products, changes in business models and processes.
+
+Assist with the maintenance and the submission to the SEC of Form ADV Part 1 and 2 for registered investment advisors.
+
+Oversee a small group of compliance testing and surveillance staff, assisting with the periodic reporting of their test results while
+summarizing gaps and recommendations accordingly.
+
+Working collaboratively with Legal on responses to regulatory requests for data and analysis while interfacing with regulators during
+
+examinations on the implementation of three lines of defense.
+
+Participate in the creation of the yearly Global Test Plan, Test Strategy to ensure tests are documented and completed tracking high risk test
+findings.
+
+Senior Advisory, 01/2014 - 01/2015 PricewaterhouseCoopers-PwC - City, STATE
+Successful client engagements in the field of compliance, risk management, and anti-money laundering practices, which included
+
+investigations, data quality, alert generation/data look back assessment scenarios, and designated SAR case reviews.
+Using Advanced Statistical and Analytical techniques such as Normalization, Clustering, and Regression Modelling to yield the
+
+appropriate thresholds to identify outliers and to prepare metrics for reporting to senior management.
+
+Senior project leadership developing risk assessment processes and strategies experience while leveraging consultant resources and
+
+contribute through others within a diverse team setting.
+
+Enhanced Business Development reputation by accepting ownership for accomplishing new and different requests: exploring opportunities
+to add value to project scope and accomplishments.
+
+Developed and maintained data documentation, user acceptance testing, ad-hoc inquiries, ER diagrams, Flowcharts, use-test case creation,
+data modeling, internal and external business requirements'.
+
+Responsible for development and enhancement of risk techniques and risk reporting on large client engagement which consisted of
+monitoring, reviewing and approving project team's cases, SARs and escalations.
+
+Developed new risk models in wide variety of areas (geography, product, customer-type, typology, referral channel that improved the look
+back review process communicating to senior management and external regulatory entities.
+
+Senior Associate, 01/2008 - 01/2014 Barclays Investment Bank - City, STATE
+Knowledge of data modeling concepts in a multi-layer data warehouse, working with various business logic tools to create automated
+
+surveillance models meeting regulatory standards.
+- Managed release planning and participated in pre-post release testing to validate requirements and identify key risks while establishing and maintaining vendor relationships with Bloomberg /Reuters.
+
+Conducted systems integration testing designed to support our QA process improvements while documenting and ensuring our users within
+UAT have an acceptable range of results.
+
+Monitor and escalated threshold breaches on existing trade surveillance models using the firms surveillance tools Actimize and Mantas.
+
+Generated SQL relational databases and writing queries while identify data gaps and preventive investigations into the data trends while
+monitoring existing fixed income trade surveillance model.
+
+- Achievement: Led strategic implementation of a fixed income platform for Corporate Municipal Bonds that reduced manual booking by over 40% which decreased the firms expenses by an estimated $275k yearly.
+
+Completed periodic cost analysis, documenting polices and workflows while identifying and recommending areas for cost savings from a
+
+technical and operational standpoint to senior management leading a team of four analyst.
+
+Financial Portfolio Associate, 01/2005 - 01/2008 Lehman Brothers - City, STATE
+- Reconciled institutional accounts and client accounts, failed trades, maintaining cash regulatory requirements from the NYSE & SEC highlighting gaps and risk opportunities.
+- Served within the Performance Management group (PMR) coordinating with operational support staff completing dividend analysis/ processing, portfolio accounting, and risk analysis on a daily basis.
+- Analyzed client portfolio positions and contributed to cutting edge portfolio construction and investment strategies while exercising the clients strategic wealth preservation requirements and risk management needs.
+- Documented process flows and procedure manuals while leading the day to day operations, managing a staff of 5 junior associates supporting the business in a range of management inquiries, financial/regulatory and compliance requests.
+
+EDUCATION
+---------
+
+Bachelor of Science: Economics Business Management, May 2005 Stony Brook University - Stony Brook, NY
+
+Economics Business Management
+
+Master: Business Administration Corporate Finance, May 2010 Dowling College - Oakdale, NY Business Administration Corporate Finance 3.7/4.0
+
+SQL Programming Language Certificate: November 2013 Learning Tree International - New York, NY
+
+Organization Performance Improvement Certificate: March 2014 George Washington University School of Business - New York, NY
+
+Certified Fraud Examiner - ACFE: October 2014 New York, NY
+
+PROFESSIONAL AFFILIATIONS
+
+Association of Certified Fraud Examiners
+
+LANGUAGES
+
+Limited working proficiency: Spanish
+
+SKILLS
+------
+
+Bloomberg, Business Development, Project Management, Cost Analysis, Data Analysis, Data Modeling, Documentation, MS Office Suite,
+Actimize, Risk Assessment, SQL. Communication Skills (Verbal and Written)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.
