@@ -1,0 +1,63 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+Robert Smith
+
+Business/Data Analyst
+
+PERSONAL STATEMENT
+
+A highly responsible and dedicated data analyst with strong analytical and technical experience in the IT industry, Practiced in clarifying business
+requirements, performing the gap analysis between goals and existing procedure/skills sets, and designing process and system improvements to
+increase productivity and reduce costs.
+
+WORK EXPERIENCE
+---------------
+
+Business/Data Analyst
+GLAXO SMITH KLINE - July 2011 - Present Responsibilities:
+
+= Worked with internal business clients and business leads to create functional requirement docurnentation, interfaced with internal and
+external stakeholders to understand tool, promotion, and process enhancements.
+
+- Developed numerous supply chain KPI's including freight cost rate, fuel surcharge, order tracking, forecast volurne, various inventory reports, backorders, internal customer service report etc using Cognos, bo, ms access and excel, Visio.
+
+- Perforrn data mining activities of gathering and compiling data to make a thorough analysis of data integrity issues with respect to the data provided by Isps(logistics service providers), and to extract the relevant information for rnétrics reporting and KPI measurements.
+
+= Developed/published online reports using Cognos to replace existing bo reports on freight costs, costs of goods mfg, savings on goods delivered
+Air vs. Sea, thus increasing web visibility to our data warehouse and allowing for more informed decision making by managers and senior
+executives.
+
+= Designed and developed a series of complex business intelligence solutions via business objects(designer, desktop intelligence, and web
+intelligence) and Cognos 8 reporting system and tools using best business practices guidelines.
+
+- Interacted with clients to understand the reporting needs, evaluated requirements, designed, developed and implemented reporting using Cognos and business objects. Provided ad-hoc reporting support.
+
+» Created different KPI dashboards in report studio using a combination of the list, crosstab, graph and map reports.
+
+Business/Data Analyst
+CISCO SYSTEMS - April 2010 - july 2011 Responsibilities:
+
+- Business/data analyst for gms(global supply chain and manufacturing) acquisitions group.
+
+» Developed a web based intranet application (rfq tool) to allow cisco/supplier commodity managers to do a cornpetitive cost analysis
+when negotiating pricing of acquisition company product(s) for integration into cisco product line,
+
+- This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines
+
+1737 Marshville Road, Alabarna
+
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+SQL, Business Objects, COGNOS, MySQL/PHP, SAP, VBA, LEAN SIX SIGMA, Data Mining, Data Warehousing,
+Analytics, Data Analysis, Business Analysis, Visio, RDBMS.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+REFERENCES
+---------- Reference - 1 (Com Name) pany
+
+Reference - 2 (Com nero) pany

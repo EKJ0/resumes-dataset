@@ -1,0 +1,54 @@
+ROBERT SMITH Senior Business Analyst
+
+Phone: (0123)-456-789
+
+SUMMARY
+-------
+
+Senior Business Anulyst with nine-plus years of Well-rounded/Pmgressive experience essaying various
+techni cul and functional roles for banking & financial services & logistics Clients. Extensive experience
+with Requirements gathering, Analysis, design, development, customizations, and implementation of
+software upplications using Waterfall and AGILE methodology.
+
+SKILLS
+------
+
+RDBMS; Onicle 91, SQL, DB2 Languages: C, C++, Shell Scripting, Perl Scripting, Oracle, SQL,
+PeapleSaft SQR O/S: Unix, AIX, Linux Tools Used: HP ALM, Requisite Pro, MS Visio, TOAD, DB2
+Command Editor
+
+WORK EAPERIENCT
+
+Senior Business Analyst
+ABC Corponition - Januury 2013 - Present
+
+- Took the initiative to analyze, split, estimate, code, and test and also mentor the co-developers, sharing knowledge of the project and helping them in their problems, which finally resulted in not only successful completion of the project but also itwas a timely promotion and under budget as well,
+
+- Tok the initiative to choose the tasks for the next serum and split them into subtasks and provided an estimate for each task, to decide if it was feasible to deliver the tasks as decided in the available time frame of two weeks scrum,
+
+- Taking initiative to distribute the task among the team such that each person gets and works on their area of expertise and in this way each serum was successfully completed on time.
+
+- Attending customer verification sessions and provided a demo to the clients for the work completed in each scrum,
+
+- Providing knowledge sharing sessions to the new team members and to the suppart teum to teach them what top is and how it works.
+
+- Documenting the functionality of top describing cach service calls which top invokes and how exactly it works,
+
+- Investiguting the issues and problems faced by the customers and provided them with the answers to their problems,
+
+Business Analyst
+ABC Corponition - January 2010 - January 2013
+
+- Blicited business requirements from business users and subject matter experts,
+
+® Documented requirements in the format of user stories with acceptance criteria (agile).
+- Developed use cases, activity diagrams, and flowchurts to facilitate development,
+
+- Performed quality assurance testing.
+
+- This Ens Remus Tomphats = the copyright of Qwiknewimecom, Usage Galdsfines
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

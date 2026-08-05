@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — BusinessAnalyst
+Folder: BusinessAnalyst  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_12.txt)
+----------------------------------------------------------------------
+Name: William Kaye
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Genchi Genbutsu philosophy
+Education: 2008
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed, drove, led
+Resume Length: 369 words, 74 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: 362c0f404b08c553.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 344 words, 40 lines (~0.7 pages)
+
+CANDIDATE 3  (source file: 43bf4ae24a334b9a.txt)
+----------------------------------------------------------------------
+Name: Business Analyst
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 224 words, 19 lines (~0.4 pages)
+
+CANDIDATE 4  (source file: Image_57.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: COWELL UNIVERSITY, Chicago, IL Bachelor of Arts in Business Administration (concentration: finance) | Honors: cum laude (GPA: 3.8/4.0)
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 322 words, 39 lines (~0.6 pages)
+
+CANDIDATE 5  (source file: Image_65.txt)
+----------------------------------------------------------------------
+Name: John Smith
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. lead, managed, established
+Resume Length: 338 words, 29 lines (~0.7 pages)
+
+CANDIDATE 6  (source file: Image_10.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 355 words, 25 lines (~0.7 pages)
+
+CANDIDATE 7  (source file: Image_73.txt)
+----------------------------------------------------------------------
+Name: Archie Cook
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 446 words, 41 lines (~0.9 pages)
+
+CANDIDATE 8  (source file: 855decf67830665a.txt)
+----------------------------------------------------------------------
+Name: Richard Jec
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. established
+Resume Length: 336 words, 32 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: Image_6.txt)
+----------------------------------------------------------------------
+Name: First Last
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Resume Worded University, San Francisco, CA 2015 Master of Engineering; Major in Business Analytics
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (8 instances) — e.g. led, managed, leading, oversaw
+Resume Length: 380 words, 32 lines (~0.8 pages)
+
+CANDIDATE 10  (source file: Image_42.txt)
+----------------------------------------------------------------------
+Name: Jennifer Jobseeker
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. lead, led
+Resume Length: 459 words, 36 lines (~0.9 pages)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University

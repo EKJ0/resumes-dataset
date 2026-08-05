@@ -1,0 +1,50 @@
+NAME
+
+te XXXXXXX, New York, New York 10001 & XXX.XXX.XXXX D4 XXXX@gmail.com
+
+BUSINESS ANALYST
+
+QUALIFICATIONS PROFILE
+
+Detail-oriented, multifaceted, and solutions-oriented professional, offering wide-ranging experience in
+business analysis; complemented with knowledge of information technology operations. Adept at collecting,
+documenting, and assessing needs and requirements for the development and modification of company systems.
+Highly capable of managing multiple tasks while thriving within fast-paced environments to support
+organizational objectives. Armed with excellent communication and interpersonal skills in building productive
+relationships with individuals of different backgrounds.
+
+CORE COMPETENCIES
+
+Data Manipulation and Visualization | Client Services and Relations | Troubleshooting Application Management | Cross-functional Collaboration | Rapid Conflict Resolution
+
+WORK EXPERIENCE
+---------------
+
+XXXXXXXXX, New York, NY
+Business Analyst II 2017-Present
+Business Analyst 2014-2017
+- Hold accountability in planning and creating various forecast models
+- Provide first-rate service to numerous clients including discussing complex modeling techniques
+- Take charge of key functions such as data analysis, visualization, and manipulation
+- Display technical skills in designing custom applications in Python for enhanced report mapping
+- Promptly identify and resolve business-related issues in partnership with analysts
+- Earned promotion to business analyst II for demonstrating exceptional work performance.
+
+XXXXXXXXX, New York, NY
+Intern 2014
+- Rendered assistance in analyzing Google Analytics user data, as well as in implementing Tableau into customer-facing software using Tableau Desktop and Tableau Online
+- Assumed responsibility in identifying data inaccuracies; updating SQL databases for added columns and tables; and introducing new features to client-facing software
+
+EDUCATION
+---------
+
+Bachelor of Science in Statistics: 2014 XXXXXXXXXXXXX, New York, NY Dean's List
+
+TECHNICAL ACUMEN |
+
+Tableau | Power BI | Alteryx | Oracle BI | R | Python | Java | SQL
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

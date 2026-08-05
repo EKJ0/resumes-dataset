@@ -1,0 +1,83 @@
+Gaurav Dahiya
+
+Ajay@nineyardsolutions.com
+901-217-3930
+
+Proven 9 years of experience with business process analysis/ modeling, reporting business requirements,
+
+definition and documentation
+
+Interacting with stakeholders, gathering requirements, rating them and assigning priorities to each of them.
+
+Documenting business processes and translating them to functional
+
+Experienced in all areas of project life cycle in a highly structured change management environment using both
+and Agile methodology.
+
+Business-critical initiatives include writing user stories, capture and document scope changes, schedule and facilitate
+
+psd Ray sessions, requirement clarification, requirement analysis, process facilitation and User Acceptance
+
+Testing (UAT).
+
+Facilitate discussion and address challenges that arise during deployment and escalate issues to project managers.
+
+Facilitating Review Sessions for Scope Documents, Use Case, High Level and Detail Level Design, Test Plan, and Test
+
+Cases.
+
+Experience in developing screen Mock ups and Wireframes using MS Visio.
+
+Used JIRA and Confluence for tracking various pre-prod, post-prod defects, and change requests
+
+Experience in creating Business Case and Presentation
+
+Excellent business writing skills in creating Business Requirements Document (BRD), use-case specifications,
+functional specifications, GAP analysis, and Systems Requirements Specification (SRS).
+
+Proficient in soliciting client requirements through interviews, workshops, existing system documentation, and
+organizing Product & Sprint Backlog sessions
+
+Proficient in Unified Modeling Language (UML) concepts such as Sequence, Activity, Business Processes, and Use Case
+Diagrams on multiple UML toots and platforms.
+
+Active involvement in all phases of SDLC including requirements gathering, client interaction, gap analysis, and team
+coordination.
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Real Page, San Francisco, CA Dec 2014- Present Business Analyst
+
+Real Page is a real estate software company which creates mobile apps for the apartment industry. The mobile apps are
+targeted at maintenance technicians and leasing office to manage service requests, screen rental applications and for
+purchasing materials from hardware stores.
+
+Responsibilities:
+
+Gathered Business Requirements, interacted with the Users, Designers and Developers, Project Manager and SMEs to
+get a better understanding of the Business Processes.
+
+Conducted JAD Sessions periodically with various stakeholders at various phases of the Software Development Life
+Cycle (SDLC) to discuss open issues and resolve them.
+
+Analyzed and optimized the process, Prepared Business Requirement Document and then converted the business
+requirements into Functional Requirements Specification.
+
+Identified Use Cases from the requirements and documented the processes using UML Diagrams
+
+Analyzed claim adjustments, daim processing from point of entry to finalizing, claim review, identifying daims
+processing problems, their source and providing alternative solutions using best practice model and principles and
+assisted in Claims Management.
+
+Communicate with design, development and test team using MS exchange Messaging and Defect Tracking System.
+Supported the QA team in ensuring quality.
+
+Used MS Project to manage schedules, deadlines and resources, and collaborate on the project.
+
+Tools: MS EXCEL, MS Visio & JAMA Contour. Artifact lighthouse, MS Project, Mantis
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

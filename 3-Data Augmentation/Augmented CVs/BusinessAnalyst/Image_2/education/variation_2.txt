@@ -1,0 +1,60 @@
+BLAKE THORNBROCK
+
+CONTACT
+-------
+
+blake.thorn@email.com
+(123) 456-7890
+
+Boston, MA
+
+Linkedin
+
+EDUCATION
+---------
+
+BS.
+
+Business
+
+Boston University
+September 2010 - April 2014 Boston, MA
+
+SKILLS
+------
+
+SQL
+
+Excel/ Google Sheets Tableau
+
+Google Analytics Leadership Experience Problem Solving
+
+BUSINESS ANALYST
+
+WORK EXPERIENCE
+---------------
+
+Business Analyst Lancer Insurance Company
+May 2018 - current / Boston, MA
+
+- Increased revenue by $16M through analysis of data surrounding customer behaviors, vendor relationships, stakeholder goals, and workflows Discovered an additional $3M in savings after compiling data and identifying dead industry trends Researched and prepared presentations for C-level suite regarding profitability reports, policies, internal operating inefficiencies, and industry trends Participated in product development planning, providing key insights based on predictive modeling, which allowed PMs to circumvent a $50K legal fine
+
+Business Analyst ThreeBridge Solutions
+August 2016 - May 2018 / Boston, MA
+
+- Traveled 3 of 5 days to work with clients, observing business processes, interviewing staff, and documenting practices Conducted research, analyzed business operations, and problem solved operating inefficiencies, saving companies a
+combined 800 man hours a month Worked with stakeholders and clients to model and document goals, communicating transparently to meet 98% of deadlines
+Modeled data to generate reports comparing business process evolution, assisting C-level staff with appropriate KPIs based on
+improved operations
+
+Product Modeling Analyst Geico
+August 2014 - August 2016 / Boston, MA
+
+- Identified operating improvements from internal data with SQL, which reduced man hours by 8% year over year Tracked, extrapolated, and interpreted customer data using Python, SQL, and Excel to report customer behaviors and state- wide retention numbers Presented predictive modeling insights to C-level suite and stakeholders, participating in decisions surrounding policy
+packages that saved company $3.2M in legal costs in 2015 Worked with 3 analysts to institute a new modeling technique
+that saved 60 quarterly hours in customer comparisons
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

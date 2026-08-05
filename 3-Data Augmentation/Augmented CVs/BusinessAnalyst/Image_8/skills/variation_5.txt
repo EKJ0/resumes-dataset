@@ -1,0 +1,78 @@
+Robert Smith
+
+Senior Consultant / IT Business Analyst
+
+PERSONAL STATEMENT
+
+Hard-working, selFmotivated, experienced Business Analyst is seeking new challenges.
+
+WORK EXPERIENCE
+---------------
+
+Senior Consultant / IT Business Analyst
+DaVita Laboratory - March 2015 - Present
+
+Responsibilities:
+
+Communicate with the business unit to gather requirernents and accurately document technical/functional requirements within a
+compound application environment:
+
+Utilizes various project management techniques to effectively facilitate change management for validated and non-validated software systems,
+managing scope within the project.
+
+Versatile use of appropriate SDLC (agile and waterfall) to achieve project goals and timeline.
+
+Successfully documented software functionality for conversion to a different technology platform.
+
+Work in collaboration with the quality assurance team to ensure test cases are sufficient, regression cycles are performed, and high-quality
+testing is completed within the project timeframe.
+
+Provided ongoing support for It projects to business clients post- deployment to ensure successful operation,
+
+Organized requirements for customer statement and invoice system with use cases and UML classes.
+
+Business Systems Analyst
+DaVita Laboratory - March 2006 - March 2015
+
+Responsibilities:
+
+Optimized the dataloader to upload the client specific translations into the systern to increase the work efficiency by 70%.
+
+Performed software evaluation and made recommendations to mitigate risks via phased migration.
+
+Analyzed and translated various investment calculations fron) mainfrarne's ALGO to SQL.
+
+Worked with developers and business process coordinators to come up with improvised calculations, increased efficiency in data processing
+and retrieving, to enhance overall functionality.
+
+Designed and optimized ETL processes using SSIS for stocks and indices frorn Morningstar and other sources for maximum efficiency.
+Responsible to transfer business requirernents like the client specific translations into the functional and technical specifications like system
+specific rules to be used by the preprocessor of the systern.
+Responsible for performing root cause analysis for issues and provide effective timely business and technology resolution.
+
+- This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines
+
+1737 Marshville Road, Alabarna
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+SKILLS
+------
+
+Sdic, Requirements Analysis, Technical Documentation, Change Management, Waterfall &amp; Agile, Database,
+Excel, PowerPoint, Html, SOL, Testing.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+REFERENCES
+---------- Reference - 1 (Company
+
+Name) Reference - 2 (Company Name)
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations
