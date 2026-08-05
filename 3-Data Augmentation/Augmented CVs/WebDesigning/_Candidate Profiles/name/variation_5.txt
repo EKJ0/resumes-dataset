@@ -1,0 +1,148 @@
+Maria Garcia
+
+CANDIDATE PROFILES — WebDesigning
+Folder: WebDesigning  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 1e24c2e0a3049e7e.txt)
+----------------------------------------------------------------------
+Name: Experiences Lead Web Designer
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead
+Resume Length: 31 words, 9 lines (~0.1 pages)
+
+CANDIDATE 2  (source file: 31cca168988b010d.txt)
+----------------------------------------------------------------------
+Name: Karen Higgins Web Developer
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 259 words, 18 lines (~0.5 pages)
+
+CANDIDATE 3  (source file: Image_11.txt)
+----------------------------------------------------------------------
+Name: Web Designer
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Cyberpunk literature Triathlon
+Education: 2016 Bachelor of Science, Web Design & Development Simmons University, Boston, MA GPA: 3.9 | Relevant coursework: | - Graphic Design
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 309 words, 43 lines (~0.6 pages)
+
+CANDIDATE 4  (source file: adcb31b8d5e9d769.txt)
+----------------------------------------------------------------------
+Name: Karen Philips
+Ethnicity: Not stated in source (not inferred)
+Age: ~53 (estimated from earliest date/grad year 1995, not stated)
+Nationality: USA
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. spearheaded
+Resume Length: 378 words, 50 lines (~0.8 pages)
+
+CANDIDATE 5  (source file: Image_97.txt)
+----------------------------------------------------------------------
+Name: Chandan Kumar
+Ethnicity: Not stated in source (not inferred)
+Age: ~56 (estimated from earliest date/grad year 1992, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 264 words, 37 lines (~0.5 pages)
+
+CANDIDATE 6  (source file: 8bd44c36ae64a357.txt)
+----------------------------------------------------------------------
+Name: Jonathan Line
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2016
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 291 words, 42 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: Image_38.txt)
+----------------------------------------------------------------------
+Name: Mary Jane Doe.
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 177 words, 20 lines (~0.4 pages)
+
+CANDIDATE 8  (source file: Image_5.txt)
+----------------------------------------------------------------------
+Name: New York Usa
+Ethnicity: Not stated in source (not inferred)
+Age: ~53 (estimated from earliest date/grad year 1995, not stated)
+Nationality: USA
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. spearheaded
+Resume Length: 385 words, 40 lines (~0.8 pages)
+
+CANDIDATE 9  (source file: Image_9.txt)
+----------------------------------------------------------------------
+Name: Allen Chaudhari
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2008 - 2011
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead
+Resume Length: 277 words, 50 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: Image_34.txt)
+----------------------------------------------------------------------
+Name: Allen Chaudhari
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. lead
+Resume Length: 284 words, 28 lines (~0.6 pages)

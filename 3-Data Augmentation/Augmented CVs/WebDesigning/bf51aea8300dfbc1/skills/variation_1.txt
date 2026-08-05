@@ -1,0 +1,27 @@
+Charles Loehle
+
+Web Developer
+
+2600 Castleberry Rd. Apt. A2 Cumming, Ga. 30040 | C 770-380-0752 | charlesloehle@gmail.com
+https://cldigitaldesign.com _https://github.com/ciguitar1
+
+Experience With Javascript ReactJS jQuery HTML5 CcSs3 Bootstrap 4 Git / Github Wordpress
+
+PROJECTS
+-------- Blog App _ Exercise Tracker
+MERN stack app where a user creates an account MERN stack app where a user creates an account
+and can create blog posts and commentilike other and save exercise data to MongoDB.
+user's posts. Authentication with json web tokens, Authentication with json web tokens, express-validator and berypt. express-validator and bcrypt.
+Portfolio Site tcise-Generator Wordpress website built from an underscores ReactJS app that generates a random yoga theme and custom css design.
+exercise to relieve body aches and pains.
+
+EDUCATION
+---------
+Udemy Online Sept. 2016 - Present
+
+Coursework - ReactJS, MERN Stack, Javascript, JQuery, Wordpress, HTML, CSS, SCSS, Bootstrap, Git, Gulp.
+
+Free Code Camp Online Jan. 2019 - Present
+
+Georgia State University Atlanta, Ga. May 1999
+Master of Music - Jazz Studies GPA 3.92
