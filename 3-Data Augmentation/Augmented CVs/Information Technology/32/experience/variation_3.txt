@@ -1,0 +1,163 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+INFORMATION TECHNOLOGY MANAGEMENT Data Center Operations Application Support Business Continuity Disaster Recovery HIPPA SOX PCI Auditing Compliance Vendor Management Contract
+Management Network Security Cyber Security DevOps Management SDLC (Agile) Support desk Management
+IT Governance Project Management Budgeting Strategic Information Technology Manager skilled in guiding
+navigation of modern technology. Accustomed to driving efficiency and effectiveness by developing,
+delivering and supporting strategic plans. Demonstrated skill in translating technical requirements to business
+solutions. Successful , 20 year track-record of building positive relationships with internal and external
+stakeholders.
+
+- Agile framework ¢ Risk mitigation planning
+- Security planning ¢ Requirements analysis
+- Project lifecycle management
+
+MANAGER OF INFORMATION TECHNOLOGY OPERATIONS 01/2015 to CURRENT Electronic Systems | Nc, NC
+
+- Insurance subsidiary of Fortune 500 WR Berkley Insurance Co.
+
+- Direct team responsible for data center operations, database administration, DevOps and service desk operations.
+
+- Develop IT Strategy to ensure technology initiatives support business objectives by creating technology roadmap and collaborating with business leadership via technology steering committee and user council meetings.
+
+- Secure corporate data by performing risk and threat analysis, developing remediation plans, implementing patch management, encrypting Oracle and MS SQL databases and cyber security education for users.
+
+- Conduct disaster recovery and business continuity initiatives including business impact analysis, integration of, (R2C) , eVaulting, Iron Mountain off-site storage and creation of RPO and RTO.
+
+- Enhance data center availability and fault tolerance by implementing a smart UPS system, leveraging RackSpace cloud services, increasing Internet bandwidth and installing diverse-path redundant MPLS connectivity.
+
+- Satisfy audit compliance requirements by conducting quarterly internal and SOX (KPMG) audits and ensuring that practices are in compliance with applicable HIPPA state regulations.
+
+- Coordinate with legal and compliance team to review vendor contracts, software licensing, service and maintenance contracts.
+
+- Provide technical consultation to legal team on responses to security incidents and data breaches.
+
+- Maintain Data Center performance meeting operational SLAs by implementing change control policies, leveraging Foglight (Performance Investigator) and SolarWinds monitoring tools.
+
+- Increase network performance and availability by upgrading network infrastructure using a Cisco
+Catalyst 9300 switch stack at the core and a Cisco Catalyst 2960X switch stack at the access layer.
+
+- Deliver reduced batch-job processing times and increased disk storage by implementing capacity planning guidelines and performing equipment upgrades on a Hitachi Storage Area Network (SAN).
+
+- Remediate legacy technologies by developing a technology roadmap to remediate Windows Server
+2003, Windows 7, Office 2010, VMware 5, MS SQL 2012 and Oracle 11.2 and IBM AIX environments.
+
+- Optimize production job efficiency and reduce processing conflicts, resource contention and job failure rates by implementing Cisco Tidal Enterprise Scheduler (TES) to manage job workflow.
+
+- Improve application development efficiency by implementing DevOps controls and processes that reduced deployment failures and increased stability of development environments.
+
+- Facilitate improved collaboration capabilities by implementing Cisco video conferencing system, Cisco VoIP phone solution, Wi-Fi capability, interactive dashboard and conference room presentation systems.
+
+- Optimize operational and service desk KPIs and reduce-time-to-resolution by implementing change control policies, end-user documentation, self-service tools and end-user training sessions.
+
+DICECTOR OF INFORMATION TECHNOLOGY 01/2008 to 01/2015 Comcast-Spectacor L.P | City, STATE
+
+- Subsidiary of Fortune 50 Comcast Inc.
+
+- Operates public assembly facilities; providing management services, operational services and specialty catering.
+
+- Lead team of IT professionals supporting data center operations and project management on behalf of
+120 facilities and 4,000 employees throughout the US and Canada.
+
+- Manage internal audit team responsible for coordinating and conducting annual IT audit performed by outside audit firm.
+
+- Improved technology project outcomes by spearheading initiative to establish Project Management Office (PMO).
+
+- Created first dedicated enterprise PM role and developed internal standards for project management based on PMI guidelines and best practices.
+
+- Functioned as team lead for systems integration of acquisitions.
+
+- Acquired facilities were migrated onto enterprise network infrastructure, messaging and enterprise application platforms.
+
+- Acted as project lead for $1.2M high density Wi-Fi network that improved customer experience and employee mobility and productivity.
+
+- Lead enterprise website development template project.
+
+- Employed project management and Agile development methodology to ensure project deliverable matched stakeholder requirements.
+
+- Managed PCI compliance efforts.
+
+- Implemented network monitoring solution, operational controls and procedures to ensure enterprise met compliance requirements.
+
+- Fostered professional growth within IT team resulting in 4 team members being promoted into management roles.
+
+- - Diligently coached and mentored staff at all levels of IT organization.
+
+- Project Lead on corporate mobile device standardization and BYOD policy development.
+
+- Defined standards and implemented policies resulting in cost savings and increased data security.
+
+- Collaborated with learning management system (LMS) project team.
+
+- Contributed to development of functional requirements and product release.
+
+- Implemented enterprise video conferencing.
+
+- - Utilizing Microsoft Lync as our enterprise standard video conferencing solution, improving collaboration between remote teams and reducing travel costs.
+
+- Managed $2.5M operational budget.
+
+- Ensured that projects and operational objectives were achieved within budget and that costs were appropriately allocated to business units.
+
+M.ONAGER OF ENTERPRISE APPLICATION SUPPORT 01/2001 to 01/2008 Comcast-Spectacor L.P | City, STATE
+
+- Align technology initiatives with corporate strategic goals by partnering with divisional leaders to identify optimal application of technology resources.
+
+- Researched, recommended and implemented technology solutions to improve business productivity.
+
+- Responsible for technology procurement, capital, and operating budget planning activities.
+
+- Designed and managed construction of new corporate data center with improved security, capacity, redundancy and operational efficiency.
+
+- Facilitated transition of multiple disparate financial systems onto a common platform.
+
+- Utilized Citrix to centrally provision financial systems for 100+ remote locations.
+
+- Played lead role in development and launch of employee mentoring initiative that was eventually rolled out enterprise-wide and improved employee productivity, professional development and promoted effective succession planning.
+
+- Launched self-service portal for employees that reduced support calls by 180 per month and allowed end users to independently manage their passwords and SPAM filter settings.
+
+AFOLICATION DEVELOPMENT PROGRAM MANAGER 01/2000 to 01/2001 SPX Valley Forge Inc | City, STATE
+
+- Multi-industry manufacturing leader with operations in more than 35 countries.
+
+- It's product offerings are concentrated on serving customers in 3 primary end markets: power and energy, food and beverage, and industrial flow markets.
+
+- Managed SDLC for up to 5 simultaneous web-based application development projects utilizing Microsoft Visual Studio and JAVA platforms for major automobile manufacturers, including BMW, Mercedes Benz, and Subaru.
+
+- Managed activities of 14 internationally dispersed software developers and technical writers.
+
+- Maintained ISO 9000 certification by developing and documenting standard processes and procedures.
+
+- Increased revenue by $350,000 by building sales pipeline with prospective clients.
+
+- Performed business needs analysis with existing and perspective clients then made recommended customized technology solutions.
+
+Master of Science | Cyber Security 05/2017 Maryville University , St Louis, MO
+
+Miter of Science | Information Systems 05/2000 Penn State University
+
+Ba-helor of Arts | Economics 05/1997 Texas Southern University, Houston, TX
+
+ITILv3 Certification Data Privacy and Cyber Law, Seton Hall University Law School (fall 2021)

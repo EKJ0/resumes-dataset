@@ -1,0 +1,148 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+WORK EXPERIENCE
+---------------
+
+Information Technology Supervisor, 07/2015 to Current Cypress Energy - Oh, OH, Bahrain
+- Communicated with IT Manager to maximize development efficiencies and resolve technology issues.
+- Responsible for Veeam Endpoint Backup & Replication, Firewalls Setup, Windows Servers & Mac platforms, Networking, MS Nav 2016 Micros POS, Foodics, Opera PMS, Asset Inventory, MS Office Adobe suits, Avaya PBX, Eset Endpoint Security AV.
+- Regular Database backup and maintenance for RP MS Nav, Harms (Spa, Salon Software), Fidelio MC, Opera and Micros 3700, Simphony.
+- 24x7 POS onsite support for Oracle micros 3700, Simphony 2.7 MR6, & Foodics support and including WS configuration and
+
+menu item setup.
+
+User's Administration (Setup and migrating operating systems and join users on Domain (Windows Server 2008, 2012).
+- Veeam Endpoint security Backup & replication with Tape Library maintenance.
+
+- Opera PMS Ver.4.0, 5.0 complete client setup and maintenance.
+
+Fidelio Materials Control client installation and support.
+
+Support for Cloud end user backup and maintenance.
+
+Firewall configuration and VPN management (Cyberoam & Sophos devices) including WiFi routers setup.
+Avaya PBX voicemail box, Softex backup & maintenance.
+Support for Suprema Biolite, ESSL Biometric devices with Sql db backup.
+
+Strong experience in MS Word, Excel & PowerPoint applications.
+Regularly monitoring 41 locations (including abroad) of CCTV DVR’s (Hikvision, Dahua, Alston, CP Plus) and maintain camera
+
+and physical security systems.
+
+- Assists on IT financial planning, including the purchase of new equipment and software when needed.
+
+- Also, managing cloud base IT Asset inventory management system.
+
+- Talking to staff or clients through a series of actions either face to face or over the telephone to help set up systems or resolves issues.
+
+- Ensure all workstations and servers are regularly patched with O/S updates throughout the company including branches.
+
+Establishes working relationships with others in the department, collaborating on new technology needs or expanded uses for
+
+existing technologies to increase functionality or efficiency.
+
+Closely collaborated with project members to identify and quickly address problems.
+
+Coordinated ongoing technical training and personal development classes for staff members.
+
+Wrote policy, procedure and manuals governing internal IT use.
+
+Reviewed and assessed architecture design, implementation, testing and deployment needs to identify project requirements and
+
+costs.
+
+Information Technology Coordinator, 07/2013 to 07/2015 City Of Cincinnati, Oh - Cincinnati, OH
+Installation and upgrading Office applications and maintenance.
+- Microsoft Outlook database management and setup.
+- Install and Administrating File and Print Servers also configuring shared files and folders.
+- Setup Eset Endpoint security onto the desktops and configure real time Antivirus protection and restricted user access on network and applications.
+- Support Network MFP printers & standalone printers, Fax machines, UPS, Projector and.
+- Resolved hardware failures by troubleshooting hard drives, diagnosing memory issues and checking power supply.
+- Oracle VM, VMware Virtual Machines management and VPN Configuration site to site.
+- Office 2007, 2010 support and maintenance.
+- MS Outlook database and troubleshooting.
+- Providing Routers configures as different modes and implementing on business networks.
+- Terminates network and Telephone points on Emergency basis.
+- Travels onsite and abroad as directed by the IT Manager.
+- Maintains IT Dept.'s filling system, eg.
+- Purchasing files (LPO/ Receipts) for audit purpose.
+- 24x7 Onsite and remote support on Oracle micros systems.
+- Liaise with IT hardware and software suppliers regarding purchases.
+
+- IT Asset inventory management.
+
+Lab Technician, 09/2010 to 07/2013 The Luxottica Group - Fairview Heights, IL
+- Ubuntu Linux 10.4 LTS Installation and maintenance.
+- Project Development such as multimedia Presentation system.
+- Works with MS Word,Excel, Adobe Premier, Photoshop, PageMaker, Ilustrator and FCP.
+- Network file sharing, Printers installation and Troubleshooting.
+- Onsite maintenance for Software and Hardware issues.
+- Installation and repair of PC hardware and Windows deployment.
+- Provided day-to-day hardware or software technical support.
+- Manage and Administer Scheduled Backup to NAS & External disk).
+- Virtual Learning Environment support to students.
+- Worked with Windows 7 and Ubuntu Education Linux to maintain proficiency at teachable level.
+
+Computer Technical Support, 06/2009 to 09/2010 ICM Infotech - City, STATE
+- Configured hardware, devices and software to set up work stations for employees.
+- Responsibilities.
+- Windows/ Linux based PC troubleshooting at Banking field.
+- Windows 98, NT, XP Installation and maintenance.
+- Tally 7.2Ver.
+- Client Installation and Maintenance.
+- Office, Outlook Maintenance and Installation of networks.
+- Onsite support.
+- Network structuring, Sharing and Printer installation Support (Dot-matrix, LJ and Inkjet).
+- Created support documentation that empowered and enabled user community to extend skills, leverage system features and
+
+find resolutions to questions without intervention from support team.
+
+EDUCATION
+---------
+
+Computer Word Processing English Ist Grade: Computer , 09/2012 Board Of Technical Examinations, Govt. Of Kerala - Kerala, India
+
+Certificate in Computer Hardware Maintenance.: Certificate in Computer Hardware Maintenance., 07/2006
+ICM InfoTech - Kottayam, Kerala, India
+
+Typewriting English And Computer Word Processing 2nd Grade: 08/2010 Board Of Technical Examinations - Kottayam, Kerala, India
+
+Diploma: Computer Hardware Maintenance, 04/2009 Model Polytechnic College - Mattakkara, Kottayam, Kerala, India
+
+Computer Hardware Maintenance: Computer Hardware Maintenance, 04/2006 ICM InfoTech - Kottayam, Kerala, India.
+
+Bachelor of Arts: English, 04/2005 Sree Sankaracharya University Of Sanskrit - Kalady, Kerala, India
+
+SUMMARY
+-------
+
+A dedicated, result oriented IT Professional with more than 10 years of experience of achieving ambitious goals in challenging IT
+environment. Diligent, forward-thinking and adaptable to dynamic company, customer and project needs. Successful at motivating
+teams to meet demanding timelines. Highly motivated tech-support professional skilled in troubleshooting, analyzing and resolving
+complex technical problems and utilizing advanced resolution procedures.
+
+HIGHLIGHTS
+----------
+
+- Windows Servers, Active Directory, Antivirus, Backup & e Asset tracking and inventory Replication ¢ Documentation and reporting
+- Micros & Foodics POS Support e Team management
+
+- Database management, Windows & Mac Operating systems e Supervision
+- Computer Hardware & Networking.
+
+Additional Information
+- OTHER TECHNICAL SKILLS: , Clean Bahrain driving license.
+
+CERTIFICATIONS
+--------------
+
+- Windows Server 2012: Install, Configure, and Administer Active Directory (Issued by Linkedin)
+- Learning Linux Command Line (Issued by LinkedIn)
+- First Aid Training (Issued by JB International Training, Bahrain)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

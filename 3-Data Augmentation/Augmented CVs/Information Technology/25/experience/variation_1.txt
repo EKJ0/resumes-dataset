@@ -1,0 +1,204 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Information Technology Specialist with over 25 years of experience in information systems and customer support services. A support technician
+with expertise in troubleshooting desktop applications and hardware devices. An independent Information Technology Specialist task with
+configuring and testing hardware to meet security requirements for enterprise integration. A professional who maintains technology skills to
+support customers with network services and desktop support. A System Analyst with over 8 years of experience in assessing and advancing
+systems to align with customer demands. A certified Information Technology Specialist that consistently trains in the latest trends to support
+
+future requirements.
+
+SKILLS
+------
+- Desktop Support © Property Management
+- Customer Service © Troubleshooting
+- Application Support © Computer Security
+- Hardware Installation © Mobile Device Support
+- Change Management e Database Administration
+- Software Installation © Mobile Device Support
+
+WORK EXPERIENCE
+---------------
+
+Information Technology Specialist, 05/2020 - Current Department Of Homeland Security - Chesapeake, VA
+
+Provide customer support in troubleshooting common or unique computer problems. Resolve technical issues to restore computer desktop
+operations and enterprise services. Apply technical education and expertise to systematically identify enterprise wide or local network
+issues, resolve technical problems, escalate trouble tickets submission beyond scope of administrative authority.
+
+Manage hardware through lifecycle and disposal of all government property. Maintain inventory of hardware disposal. Perform hardware
+inventory via Remedy as required to account for government property. Process Remedy tickets for hardware issue or returns to
+organizational depot.
+
+Identify and document all technical problems requiring local helpdesk services using Remedy reporting system. Track and monitor all open
+Remedy tickets to completion or resolution of customer satisfaction.
+
+Provide LT. configuration manager of user desktop profile, email account configuration, organizational mailboxes, network share drive
+mapping, and network printer configuration setup.
+
+Resolved customer problems with web integration services for unique applications, multifunctional services of print, scan, or copy using
+enterprise services.
+
+Provide user account management (create/edit/delete) using Active Directory services. Perform Move/Add/Change (MAC) to fulfill
+customer requests for computer services.
+
+Perform network administration in processing System Authorization and Access Request (SAAR) for users. Administer network
+permission list to manage network share drives, folders and file access as required by organizational policy.
+
+Provide customer support for Cloud service data and file storage using OneDrive or Box.
+
+Provide user training on basic computer troubleshooting to resolve routine problems thus empowering user in basic computer skills and
+increasing customer satisfaction.
+
+Maintain 100% security of hardware and software by deploying patch management to administer servers, client systems and other IT assets
+to include endpoint software to protect against spam, phishing and other types of attacks or malicious code.
+
+Aid intemal/external users in computer operations and network services using remote desktop tools. Provide step-by-step instructions
+resolve enterprise connection issues or services involving user's local Internet Service Provider (ISP). Correct Domain Name Services
+configuration for external connection to enterprise services to support teleworking by 100%.
+
+Ensure all mobile devices follow agency guidance on data encryption. Maintain 100% of mobile operating system updates to support cyber
+security for mobile device management.
+
+Install and configure Microsoft Office 365 Mobile apps for enterprise services. Perform device administration of enrollment, device
+account reset, device retirement, and remote wipe to support security of user information. Troubleshoot mobile device problems to restore
+mobile services. Perform upgrade of mobile apps and mobile operating system to maintain devices within cyber security framework.
+
+Using image deployment tools, install and configure operating systems to support desktop/laptop operations. Restore user profile and data.
+Identify broken hardware in need of repair services or replacement, escalate service ticket and route work order for hardware maintenance
+or warranty services. Perform hardware repairs to expedite return of computers or hardware to customer.
+
+Assist customers by providing documentation using easy to understand language on computer workarounds/procedures to address common
+computer problems or technical issues.
+
+Perform database administration to add/remove users to support client applications. Task with daily backup of database to support
+restoration policy and availability of data. Administer database security to maintain database permissions.
+
+Support MacBook users, installing and maintaining 10S operating system. Install and configure VPN software for secure network services
+and communications using office products for 10S. Perform MacBook application installation and security updates.
+
+Information Technology Specialist, 07/2011 - 09/2019 Department Of Homeland Security - Cleveland, OH
+
+Process user documentation to create user network account, provide user setup of desktop profile, email configuration of user account and
+organizational mailboxes, map network share folders and network print devices, configure web applications to support user processing and
+unique hardware requirements, user support and integration 100%
+
+Re-image, deploy and manage workstations, provide Move/Add/Change service to support computer relocation , add or remove software,
+change hardware and software configuration, provide Change management support 100%
+
+Develop user data backup program using PowerShell scripts to enable users to safely backup working data, resulting in 0% data loss.
+Manage workstation updates, deploy security patches via update services to resolve security issues, routinely scan computers for security
+compliance, maintain desktop computer security controls to align with cyber security framework 100%
+
+Troubleshoot software errors and hardware malfunctions by performing analysis to isolate root cause, document testing and results to
+provide proof of concept of corrective measures, maintain 98% computer uptime
+
+Establish procedures for internal trouble ticket management. Increased customer satisfaction by 75% by providing first-line support in
+resolving 95% of trouble tickets
+
+Perform site survey to identify infrastructure services for data and telecommunication support, develop checklist of accessories to support
+relocation efforts, develop project to establish work orders, statement of work, budget, and relocation timeline to execute phase approach in
+office transition to reduce relocation impact by 60%
+
+Account for all computers, mobile devices, and communication equipment, perform monthly inventory to achieve 0% loss of government
+property.
+
+Deploy network Multi-Function device for network printing/copying/scanning services to support users, provide easy instructions on
+secure scanning of documents to email inbox, demonstrate step-by-step instructions to support all users 100%
+
+Support sending of large files, provide training DoD SAFE website to transfer files that exceed email limitations. 100% of users trained
+Install Virtual Private Network (VPN) software to support users in remote locations, configure VPN connection profiles to allow easy use
+and secure connection to enterprise network, trained and supported
+
+users 100%
+
+Apply technical education and experience to systematically identify enterprise wide or local network issues, resolve technical problems, or
+escalate trouble tickets beyond scope of administrative authority, follow up and update all trouble tickets to completion 100%
+
+Write and communicate information to users of varying knowledge on information technology issues, produce tutorials to support end-
+users using easy to understand terminology, publish technical documents
+
+on technical solutions or work-around, reducing trouble call time by 60%
+
+Manage user training records to support annual cyber security training requirements, track and assured all personnel trained in cyber
+security and Personal Identifiable Information (PII) handling, resulting in 100%
+
+unit training completion
+
+Information Technology Specialist, 04/1995 - 05/2011 Department Of Homeland Security - Irving, TX
+
+Managed data center and maintained operational uptime of 98%
+
+Installed, configured and managed web services, hosted online resupply web program providing logistical support to remote installations,
+reduce unit resupply time by 70%
+
+Installed, configured, and manage relational database system for electronic record processing and data retention, eliminated paper
+processing effort by 80%
+
+Developed database queries to support data importing and exporting to desktop applications. Implemented database backup and restoration
+procedures, reduce restoration time by 80%
+
+In performance of field service technician, provide first line support in troubleshooting desktop computers, operating systems, network
+devices, solve 90% of trouble tickets
+
+Train and mentor junior Information Technology Specialist in web development and programming using Dot Net Framework, JavaScript,
+Cascading Style Sheets, and structured query language, to fully support web services with full time web developer.
+
+Prepared information systems for accreditation, performed security scans and analysis to mitigate computer security threats, implemented
+and followed guidelines for implementing server hardening and system
+
+approval with 100% pass rate
+
+Server as Responsible Officer in custody of information technology property, successfully accounted all government property with 0% lost
+
+in inventory.
+
+EDUCATION
+---------
+
+Bachelor of Science: Information Technology, Business Analytics, 2015 University of Phoenix - Tempe, AZ
+
+Associate of Science: Software Engineering, 2011
+
+University of Phoenix - Tempe, AZ
+
+CERTIFICATIONS
+--------------
+
+CompTIA Security +
+
+ADDITIONAL INFORMATION
+
+Training:
+
+Facing Confrontation in Customer Service Training - 2021
+
+Widows 10: Troubleshooting for IT Support - 2021
+
+Windows 10: Advanced Troubleshooting for IT Support - 2021
+Telecommunication & Information System Coordinator Training - 2019
+Security Technical Implementation Guide (STIG) Training - 2019
+Navigating through Changes and Conflicts in Projects Training - 2021
+Microsoft SQL Server Back up Database 2016
+
+Microsoft SQL Server Stored Procedures 2016
+
+Section 508 Training
+
+Awards
+
+09-Jun-2019 Performance Award
+04-Feb-2018 Performance Award
+19-Mar-2017 Performance Award
+13-Dec-2011 Time Off Award
+20-Dec-2010 Time Off Award
+19-Dec-2010 Performance Award
+03-Jan-2010 NSPS Performance Increase
+04-Jan-2009 NSPS Performance Increase

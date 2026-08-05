@@ -1,0 +1,58 @@
+Sam Williamson
+2555 N. Ballard Avenue Phone: 253-555-1212
+Seattle, WA 98102 Email; swilliamson32@earthlink.net
+
+Innovative technology professional who takes pride in building complex solutions with basic technology,
+getting the most from a company’s technology investment. Recognized as a tenacious problem solver
+focused on making technology work. Accomplished researcher who tums challenges into building blocks
+to learn new technology, master advanced skils and streamline processes. Applies natural talent to
+translate a fove of learning into a love of teaching, and helping others to learn.
+
+Strengths and Capabilities Sofware Installation and Configuration... Problem Solving ... Technical Troubleshooting
+Testing & Quality Assurance ... Technical Training .., Diversity in Roles Responsive to Customers ... Patient and Respectful
+
+WORK EXPERIENCE
+---------------
+
+HANODSON-BI, LLC 1990-present Senior Technical Leader
+
+Technical lead of a senall team in a fast-changing field. Achieved success on multiple diverse projects by
+exceeding the demands to learn quickly, be versatile, and take on varied roles and responsibilities with
+enthusiasm and interest. Primary roles included systems administrator, database administrator, technical
+trainer, instructional materials designer, soRware developer, and web developer.
+
+Business Intelligence (Bl) Systems Administration and Configuration Management
+
+Managed configuration of a unique-in-the-industry mobile learning laboratory, The lab was the
+foundation of a successful education program.
+
+- Employed advanced configuration management skills to operate as many a¢ 20 incompatible and conficting software products on a single platform.
+
+- Developed and executed processes to assure that labs were quickly and reliably configured using rigorous testing procedures and a master machine and ghosting protocol.
+
+- Researched functionality of e-learning tools, learned the tools; and then buit complex prototypes, Demonstrated the prototypes in a decision-making review to facilitate toot selection.
+
+- Prevented risks that occur with unlicensed software by maintaining extensive list of software licenses and updates, ensuring current versions,
+
+- Negotiated with vendors to acquire complimentary licenses for laboratory software,
+
+Business Intelligence (Bl) Technical Training and Learning Laboratory Management
+
+- Trusted with all aspects of logistics, transportation and set up of mobile learning labs,
+
+- Designed instructional materials that matched features and functions to learning needs, to create a high quality classroom experience.
+
+- Delivered hands-on technical training. Product functionalities included data mining, OLAP. dashboards, statistical analysis, business analytics, geospatial analytics, query and reporting, and data integration. Within one short year transitioned from a new instructor to a recognized member ofthe faculty.
+
+- Enhanced learning and information discovery by creating sample data and designing dashboards, ‘scorecards, and reports for use in lab exercises.
+
+Software Design and Development
+
+- Built low cost data flow diagramming tool that provided a visual design of work flow that is currently lacking in commercial ETL tools. Used existing tools to create a product independent of ETL of database technologies.
+
+- Created data quality auditing tool that allowed users to define data quality rules and return confidence levels as measures of data quality,
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

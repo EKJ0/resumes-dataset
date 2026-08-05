@@ -1,0 +1,176 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+IT SUPERVISOR Career of 21+ years of expertise in technical professional, leading complex projects, managing cross-functional resources
+to ensure achievement of business, and organizational goals. Along with ensuring system efficiency and cost effectiveness. Oversee the
+organization operation requirements and fulfill technology solution to support user and management. Commit to quality and service
+excellence with aptitude for launching new technology operations, including client/vendor relationships, policies/procedures, and business
+
+processes.
+
+SKILLS
+------
+- Guest services © Loss prevention
+- Inventory control procedures © Cash register operations
+- Merchandising expertise © Product promotions
+
+WORK EXPERIENCE
+---------------
+
+03/2014 to 09/2019 Information Technology Supervisor I
+
+Colorado Springs Utilities - Colorado Springs, CO
+
+- Managed Statewide data collection, coding, and auditing for California (CA) law enforcement agencies for validity
+
+of fatality crash data
+In compliance with the National Highway Traffic Safety Administration (NHTSA) and the Governors Highway
+Safety Association (GHSA)
+Responsible for 1.5 million of the Federal Grant and Cooperative Agreement to ensure the implementation of
+quality, efficient, and consistent approaches to carrying out Data Management tasks
+Served as a key liaison between the California Department of Technology (CDT), internal IT, Caltrans, Office of
+Traffic Safety, Universities, and the Governor
+Managed all CA law enforcement agencies crash data for timely reporting, completeness, and accuracy to support
+the 1.5 million of the NHTSA Federal Grant and the Cooperative Agreement
+Managed two teams of analysts and system administrators for support and contribute to the development of project
+deliverables to meet deadlines; Provide analysis, research, and insight to support NHTSA programs; Research and
+review emerging fatality data for accuracy and validity Regularly reported on grant deliveries including program accomplishments
+- Maintained data integrity in compliance with defined standard of the Model Minimum Uniform Crash Criteria (MMUCC) guideline cooperatively by NHTSA Coordinated with cross-functional team on specific data management review, ensuring adequacy, legitimacy, and
+
+accuracy of data; implementing efficient procedures, on-time delivery of accurate data collection to meet NHTSA’s
+benchmark
+
+Developed and distributed a variety of organization-wide key reports, revising methodology, and presentation
+Assisted with database audits and analysis procedures with the understanding of data administration
+
+Created staff training sessions on best practices for streamline and effective work processes
+
+Proven track record of leading teams, providing technical direction and leadership on successful projects
+
+Collaborated with all levels of senior management at multiple organizations to meet organization IT goals and
+expectations
+
+Managed and maintained budget hardware and software lifecycle management
+
+Achieved short and long-term goals by securing smooth, effective procurement operations of goods and services
+through strategic planning in compliance with the State Administration Manual (SAM) and the State Contracting
+Manual (SCM)
+
+Reviewed Leverage Procurement Agreements (LPA), conducted market analysis, negotiated prices, and resolved
+invoicing issues with Finance and Accounting
+
+Reviewed employees’ performances, promoted competent and confident staff, while recognizing employees for
+outstanding teamwork and overall performance
+
+- Coached, mentored, and led levels 1, 2, and 3 support personnel within the technical team environment
+
+- Supported senior management in developing and implementing organization standard operating procedure (SOP)
+
+09/2009 to 03/2014 Information Technology Supervisor Colorado Springs Utilities - Colorado Springs, CO
+
+- Collaborated with functional business areas and strategic leaders to plan, implement upgrades, enhancement, migrations, and deployments of the $35 million California Highway Patrol (CHP) Computer Aided Dispatch (CAD) Replacement Project ensuring smooth and seamless operations while upgrading software and hardware in
+24/7 911 25 call centers statewide Led team of 12 system administrators for 24/7 support of a statewide CAD network
+Evaluated operating needs and developed comprehensive technology plans to address both current and future
+network requirements
+
+Worked with engineering teams on the design, development, and implementation of the customer’s statewide CAD
+network
+
+Developed and implemented key components of the Post-Implementation Evaluations & Reviews (PIERs) and Site
+Installation Plan, including conducting site surveys, training, creating workstation images used statewide,
+developing documentation to support installation processes, and equipment maintenance
+
+- Managed an asset inventory of more than 228 servers, clients, and network communication devices including lifecycle management, procurement, and replacement keeping the networks at peak readiness
+
+Optimized network functionality by maintaining internet protocol (IP) routing, domain naming system (DNS)
+servers, internet information services, port security, secure socket layers (SSL), and certificate authorities
+
+Installed and configured, Window Server Active Directory, remote access, virtual private network (VPN), routers,
+firewalls, structure query language (SQL), and VisiCAD software on CAD
+
+Worked with engineering teams to install and configure NetMotion Wireless’ Mobility system to support the CHP’s
+Mobile Digital Computer (MDC) systems in patrol cars statewide
+
+Supported local and remote users in troubleshooting hardware, software, and network issues with distributed
+
+servers and databases. including on-call support
+
+Coached, developed, and supported team to improved accuracy and efficiency that relate to technical and non-
+
+technical- functions of the new CAD system
+
+- Enhanced material and product value by increasing quality and lowering cost through LPA, strategic sourcing. and acquisition of new IT technologies in compliance with SAM and SCM
+
+- Monitored all software and hardware products and ensure compliance with California Technology Agency (CTA), the Department Operations Manual (DOM) and SAM
+
+- Facilitated all new employee orientation to foster a positive team attitude; managed the annual employee evaluation
+
+program
+
+04/2009 to 08/2009 Information Technology Supervisor Vitera Healthcare Solutions - Lincoln, NE
+
+- Supervised high-performing team of IT professionals charged with ensuring 24/7 uptime operations for medical professionals within the two prisons
+
+- Ensured the optimal performance of business-critical network, workstation equipment, intemet sites, user applications and databases
+
+- Led team of 16 system administrators for 24/7 support of the IT Network Services Team
+
+- Developed, implemented, and trained end-users to ensure that systems, network, and data users are aware; understand and follow the network information assurance (LA) policies and procedures
+
+- Reduced system risk, improved troubleshooting capabilities by implementing remote management functionality, and standard procedures for the deployment and recovery of systems
+
+- Optimized network functionality by maintaining Window Active Directory, IP routing, DNS servers, internet information services, port security, SSL, certificate authorities, installed, configured remote access, VPN, routers, and firewalls
+
+- Spearheaded installation and configuration, including cabling, hardware builds, setup, server configuration, security, and testing
+
+- Collaborated with all levels of management at multi-organizations to meet standard IT goals and expectations
+
+- Reviewed employees’ performance evaluations while recognizing employees for outstanding teamwork and overall performance
+
+07/2007 to 04/2009 Associate Information Systems Analyst Corrections And Rehabilitation - City, STATE
+
+- Designed and managed network infrastructure for Business Services and Training for Trainers (T4T) in the Business Intelligence System (BIS) for the Department of Corrections and Rehabilitation
+
+- Supported the full lifecycle of the server from ordering the server all the way to decommissioning of the server
+
+- Designed, documented, implemented processes for network server hardware, software, and database support
+
+- Created network server diagrams, logical diagrams, IP address schemes, asset management, database management, and database designs
+
+- Identified, implemented, and configured tools to facilitate support processes and activities
+
+- Posed and applied knowledge of principle, practices, procedures in the field of server hardware/software, Windows Active Directory, SQL Server, and Oracle database administration
+
+- Performed active directory user/computer accounts and group policy management
+
+- Collaborated with all levels of senior management at multiple organizations to meet organization IT goals and expectations
+
+- Assisted management with budgeting, staffing, and purchasing for the IT Network Services Team
+
+- Achieved short and long-term goals by securing smooth, effective procurement operations of goods and services through strategic planning in compliance with SAM and SCM
+
+- Developed, implemented, and trained end-users to ensure that systems, network, and data users are aware; understand and follow network LA policies and procedures
+
+- Mentored junior level personnel in technical complexities of assigned work
+
+- Became a subject matter expert for various IT products
+
+- T4T in the new Business Intelligence System (BIS)
+
+- Conducted training for 33 state prisons, 11 offices, Corrections Boards, and Headquarter
+
+EDUCATION AND TRAINING
+
+Bachelor Degree: Criminal Justice Administration Operating
+/ Networking Systems: Windows Server; MS Exchange; MS Active Directory; and VMware Computer proficiency with applicable software
+application: CAD, MS Word, Excel, PowerPoint, Project
+
+Visio, and Outlook and Adobe Suite Networking Protocols/Tools: Cisco; TCP/IP; VMware; NetMotion Mobility
+: VoIP: FTP; VPN; Firewall; DNS: DHCP: SMTP LAN: and WAN

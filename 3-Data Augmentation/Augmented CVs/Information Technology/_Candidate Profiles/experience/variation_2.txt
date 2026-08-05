@@ -1,0 +1,148 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+CANDIDATE PROFILES — Information Technology
+Folder: Information Technology  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: e335dff237e4302f.txt)
+----------------------------------------------------------------------
+Name: Sam Williamson
+Ethnicity: Not stated in source (not inferred)
+Age: ~58 (estimated from earliest date/grad year 1990, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, managed
+Resume Length: 469 words, 33 lines (~0.9 pages)
+
+CANDIDATE 2  (source file: 121.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High School Diploma: 2012 Allatoona High School - Acworth, GA
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (13 instances) — e.g. lead, led, established, directed, oversaw
+Resume Length: 824 words, 90 lines (~1.6 pages)
+
+CANDIDATE 3  (source file: Image_77.txt)
+----------------------------------------------------------------------
+Name: Veda KuhIman
+Ethnicity: Not stated in source (not inferred)
+Age: ~44 (estimated from earliest date/grad year 2004, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. directed
+Resume Length: 511 words, 55 lines (~1.0 pages)
+
+CANDIDATE 4  (source file: Image_58.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master's In Homeland Security - Information Security and Forensics - 2013(Penn State WorldCampus - York, PA)
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, pioneered
+Resume Length: 348 words, 40 lines (~0.7 pages)
+
+CANDIDATE 5  (source file: 63.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Southern Polytechnic State University Marietta, GA
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (22 instances) — e.g. managed, directed, lead, oversaw, established
+Resume Length: 680 words, 113 lines (~1.4 pages)
+
+CANDIDATE 6  (source file: Image_43.txt)
+----------------------------------------------------------------------
+Name: Alina Rudimenko
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. led, managed
+Resume Length: 280 words, 35 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: 87.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~65 (estimated from earliest date/grad year 1983, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: ADDITIONAL INFORMATION
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (18 instances) — e.g. managed, led, leading, supervised, directed
+Resume Length: 2448 words, 169 lines (~4.9 pages)
+
+CANDIDATE 8  (source file: 76879b0711f6fe2a.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. established, managed
+Resume Length: 306 words, 28 lines (~0.6 pages)
+
+CANDIDATE 9  (source file: 80.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~64 (estimated from earliest date/grad year 1984, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master of Science: Management and Organizational Leadership, 08/2015 Warner Pacific University - Portland, OR | Management and Organizational Leadership
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. managed, coordinated, supervised, established
+Resume Length: 938 words, 81 lines (~1.9 pages)
+
+CANDIDATE 10  (source file: ea49234910e15194.txt)
+----------------------------------------------------------------------
+Name: Ryland Mayfield
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 272 words, 25 lines (~0.5 pages)

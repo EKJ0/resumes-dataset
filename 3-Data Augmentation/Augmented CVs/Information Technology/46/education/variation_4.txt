@@ -1,0 +1,303 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Motivated, results-oriented X professional with nearly X years of experience training high-performance teams, building meaningful client relationships, and driving innovative business strategies to enhance customer experience & organizational growth
+
+Excellent communication and interpersonal skills demonstrated through strong rapport building with clients, coworkers, and
+
+management
+
+Highly skilled in X, Y, and Z Innovation-driven IT executive with diverse experience in leading teams in system, infrastructure,
+and network advancements. Proven expertise in translating business requirements for teams to understand, build, and deliver
+innovative solutions for data, testing, and system deployment. Skilled in aligning end-user needs with long-term resolutions to
+
+complex IT challenges. Accomplished in building and strengthening relationships across functions to drive cohesive, strategic
+
+operations. Track record of success in combining development planning, knowledge of the latest technology, and system
+
+integration expertise to create engaging educational training programs.
+
+SKILLS
+------
+
+Taken from resume body: Security Oversight: Disaster Recovery: Installation, Migration & Testing: Change
+Integration: Risk Mitigation: Team Leadership: Change Integration: Service Strategy: Enterprise Migration: M&A
+Optimization: Mobile Workforce: InfoSec Strategy: Learning & Development: Policy Creation:
+
+Team Creation & Growth
+
+KPI Analysis
+
+Cross Functional work
+
+Training Teams
+
+Program Planning
+
+Risk Mitigation
+
+Budget Allocation
+
+Vendor Management
+
+Support Delivery
+
+ITIL Life Cycles
+
+Process Improvement
+
+Business Strategy
+
+Project Management
+
+Quality Assurance
+
+Data Analysis
+
+Operations Management
+
+Project Management
+
+Social Media Marketing
+
+Consulting
+
+Organizational Management
+
+People Management
+
+Website Analytics
+
+Effectively support coordination/execution of 150+ technology
+
+cross functional projects annually by implementing ITIL service management concepts and lean methodologies
+(Scrum, Kanban, Agile).
+
+Successfully led the technology integration of 12 M&A firms within a one-year period at Mercer Advisors
+
+WORK EXPERIENCE
+---------------
+
+Optimized a $6M annual budget and reduced core connectivity costs 69% while increasing redundancy by
+negotiating/renegotiating with vendors favorable contract terms to maximize profit and cut costs at Ibotta.
+
+Active Directory, Direction, Team lead, Network, Strategy Agile, Disaster Recovery, People Management, Operations
+Management, Strategist
+
+Application development, DNS, Managing, Optimization, Technical training
+
+Approach, Financial, Market, Organizing, Vendor Management
+
+Architect, Functional, Marketing, Organizational, Website Budget, Information security, Consulting, Policies, WAN
+Business Strategy, Information Systems, Access, Processes, Workflow
+
+Hardware, Inventory management, Microsoft Exchange, Process Improvement
+
+Consulting, Investments, Office, Profit
+
+Clients, ISO, Windows, Program Planning
+
+Data Analysis, ITIL, Migration, Project Management Databases, LAN, Negotiating, Quality Assurance
+Delivery, Leadership, Enterprise, Scrum
+
+Directing, Team Leadership, Network security, Servers
+
+Head of Information Security / Director of Technology, 01/2018 to Current Carolina Handling - - Greensboro, NC
+- Responsible for establishing information security strategy and direction, spanning the architecture, design, and implementation
+
+to protect operations, assets, and information.
+
+Oversee and coordinate all information security efforts across the entire enterprise, accountable and responsible for enterprise
+
+wide results.
+
+Responsible for directing and implementing corporate technology initiatives that support the strategy and goals of the
+
+corporation including systems and infrastructure for multiple locations, applications analysis and enterprise application
+
+development and administration.
+
+Identified need for information security program, stepped in as architect and team lead an enterprise-class hybrid framework for
+
+cybersecurity within a 6 month turnaround time.
+
+Created and implemented a detailed security program that included comprehensive NIST and ISO InfoSec policies, a business
+
+continuity plan, as well as implemented the corresponding technical controls, resulting in the company passing a SEC Cyber
+
+sweep with no deficiency letter.
+
+Positioned Mercer to be able to move all 430 employees from 47 office branches to a work from home model within 1 day notice,
+
+by quickly creating and executing an overhaul of the company technology stack.
+
+Rolled out the transition to work from home model during COVID-19 resulted in executive action to eliminate several offices,
+
+resulting in less overhead.
+
+Led the implementation of sophisticated technical controls to prevent unauthorized access to enterprise resources.
+
+Rolled out a companywide cyber security training program utilizing Knowbe4, drastically reducing the effectivity of Phishing
+
+attacks.
+
+Developed scalable processes to build cyber security into business functions and sets strategy for long-term investments.
+
+Created a new M&A onboarding process to accelerate the speed of completion to integrate acquired firms in Mercer's
+
+infrastructure.
+
+The enhancements reduced the Technology onboarding from 4-6 months to less than 2 months per firm.
+Directed a successful Salesforce migration of over 10,000 clients from Classic to Lightning Financial Service Cloud.
+Developed, tracked and controlled information technology operating budgets and cost and benefit analyses for IT spending
+
+initiatives.
+
+- Developed and maintained service level agreements for strategic applications and measured performance against objectives.
+
+Information Technology Director, 01/2016 to 01/2018 Aaa Auto Club - Bettendorf, IA
+
+- Managed the scope of IT projects by planning, organizing and directing the acquisition, development, maintenance, and support
+
+projects within a $6M budget.
+
+- Led a team of 7 staff (managers, applications specialists, and service desk analysts) in supporting applications, migration,
+
+development, testing, and integration operations for systems used by 500 users in an SaaS/OSX/Windows/Checkpoint
+
+environment.
+
+Utilized expertise in testing, deployment, administration, and security by acting as a strategist and visionary for IT solutions that
+
+were high performing and efficient.
+Direct information security program and NIST-53 controls.
+
+Created a Steering Committee that enabled business partners to influence and build consensus on technical decisions and
+
+prioritize initiatives.
+
+Created new policies and procedures that increased end-user satisfaction.
+
+Rolled out new software, systems, and storage solutions while ensuring minimal downtime in operations.
+
+Orchestrated complex system deployments using tools to improve network connectivity speed and reliability throughout the
+
+organization's LAN/WAN/internet/intranet infrastructure.
+
+Leveraged strong technical abilities and familiarity in the latest technologies to recommend cost effective and efficient IT system
+
+structure design enhancements for deployment.
+
+Managed complex systems, software, applications, storage, and security ICT projects by leading the team in following the path
+
+of action items for on-time delivery while providing life cycle support.
+
+Analyzed department and job-related functionality requirements to align technology priorities with business needs.
+Developed, tracked and controlled information technology operating budgets and cost and benefit analyses for IT spending
+
+initiatives.
+
+Senior IT Consultant, 01/2014 to 01/2016 Institute On Aging - Inland Empire, CA
+
+- Provided IT consulting services to mid-market companies, determining technology needs and developing processes, procedures,
+
+and best practices to support business goals.
+
+Facilitated gap analysis and security sweeps to identify and mitigate potential risks or security breaches.
+
+Acted as a technical resource, providing IT solutions, right-fit infrastructure, vendor/inventory management, and management
+
+of assets.
+
+Circumvented risk with management of network security using a bottom-up approach for testing, detection, assessment, and
+
+control of security/permissions.
+
+Coordinated and delivered technical training to employees to ensure overall usability and functionality for enterprise
+
+applications and systems.
+
+Streamlined [Type | process for entire department by implementing method that cut call hold times by [Number] minutes.
+Identified business issues through careful collaboration with key stakeholders.
+
+Troubleshot issues by understanding issue, diagnosing root cause and coming up with effective solutions.
+
+Closely monitored and updated company systems for efficiency, output and other factors to improve overall productivity
+
+[Number]%.
+
+Director of Technology, 01/2008 to 01/2014 Zetta Pros - City, STATE
+
+- Achieved initiatives in managing IT processes, programs, and systems by leading a team of 8 in overseeing all IT and back-end operations for Global 500 clients such as Universal Music Group, Cannon and the LA Clippers within a 24/7 support
+
+environment.
+
+Incorporated emerging technologies to attain business goals.
+
+Drove project management for numerous large-scale projects, including workflow development, approvals, and milestone
+
+management.
+
+Successfully integrate networked, stand-alone computing, and associated hardware/software; oversaw server refreshes of test
+
+environments for application, web, and process scheduler.
+
+Safeguarded organizations by administering/managing MS Server-based solutions, including Windows Servers and Microsoft
+
+Exchange, applying patches, facilitating backups, and updating all systems.
+
+Acted as focal point for information and computer security matters, monitoring virus reports, safeguarding information,
+
+controlling access, and managing data across systems, Active Directory and DNS.
+
+EDUCATION
+---------
+
+Institution, City, State Month & Year Completed ITIL Fundamentals Institution, City, State Month & Year Completed ITIL
+Practitioner Institution, City, State Month & Year Completed Certified Information Systems Security Professional (CISSP
+
+Institution, City, State Month & Year Completed Certified Scrum Master Institution, City, State Month & Year Completed People
+
+First Leadership Program
+
+Accomplishments
+
+- It's a repository where every possible detail about your career lives.
+
+- It's for your eyes only! Once completed, a Master Resume can reduce the time it takes you to apply to positions by half, because
+
+it can easily be edited and streamlined from opportunity to opportunity.
+
+- You will no longer have to reinvent the wheel as you apply for roles.
+
+- Please note: Your Master Resume is not a finished document-it must be trimmed and edited BEFORE you begin applying to
+
+positions.
+How Will We Create It.
+
+- First: I've started by placing your existing content into a modern format that is recognized and well-received by the applicant
+
+tracking systems (ATS) used by companies and recruiters.
+
+- Next: Please address the items and questions you'll see in yellow on the pages to follow.
+
+- This is the all-important "data dump” described during your consultation! Then: Once you've provided information and
+
+clarification related to these items, I'll create new content for your Master Resume, remove our notes and thoughts, edit it for
+
+both grammar and aesthetics, and submit it for your approval.
+
+What Happens After That?.
+
+Additional Information
+
+HONORS & AWARDS Ron Sharon
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Community College of Denver

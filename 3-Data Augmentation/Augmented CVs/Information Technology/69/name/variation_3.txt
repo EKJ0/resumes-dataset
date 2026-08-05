@@ -1,0 +1,157 @@
+Lakisha Washington
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com Links
+- https://www.linkedin.com/in/Jessica- overton-iv-699770b9/
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Experienced technological veteran with expertise in coding, server management, networking, and computer/cellular/office/server
+hardware troubleshooting. In possession of exceptional attention to detail, the ability to think critically, resilience, an insatiable thirst
+for knowledge, and an infectious positive attitude. Knowledgeable in Java, C++, Linux, WAN & LAN, phone systems, as well as
+computer configuration, technological support, and team building along with more than 5 years of quality customer service.
+
+SKILLS
+------
+
+- Server maintenance Typing (Alpha) 50+ WPM
+
+Technical Troubleshooting (8 years)
+
+- Remote support
+
+- Troubleshooting and resolution In possession of working knowledge of
+
+- Technical Documentation various networking and voice
+
+- System Analysis protocols including, but not limited to:
+
+- Remedial Training Oversight LDAP, AD, SSL Certificates, TCP/IP,
+
+- Network security DHCP, VLAN, SIP, UDP, QoS, and
+
+- Scripting skills VoIP
+
+e¢ Network infrastructure administration e Microsoft Word, Microsoft PowerPoint, Microsoft Outlook,
+- C++ Programming (1 year) Microsoft Excel, Microsoft Teams, Microsoft Sharepoint, and Java Programming (2 years) Microsoft Access
+
+Office 365 \ Active Directory \ Cisco Meraki Switch Admin Strong Written/Verbal Communication
+
+- Linux (2 years)
+- Spanish(Intermediate)
+- Macintosh OS
+
+Process improvement
+
+- MS-Office ¢ Reporting and documentation
+- Windows 95/98/NT/2000/XP/Vista * Critical thinking
+/7/8/10 ° Issue Analysis
+- MS-DOS e Customer rapport
+- Cleared for Public Trust (Iss. March ¢ Teamwork and collaboration
+- e Team training
+- OSPF, RIP, BGF, DNS routing * TCP/IP protocol protocols e Firewalls, VPNs and security products
+- Cisco routing systems \Meraki Gear ¢ ITIL training \ ITSM knowledge
+
+- Layer 2 switching Exposure to Powershell
+
+- Router Configuration (5 years) ¢ VMWare & VSphere
+- Network Configuration (6 years) * Change Management
+- Computer Hardware (6 years) * Microsoft Exchange
+
+- Proofpoint
+
+- Confluence
+
+ManageEngine PMP, Desktop Central, and GoToAssist ADManager & ADAudit
+
+WORK EXPERIENCE
+---------------
+
+Tier II Engineer, 03/2021 to Current Charles River - Skokie, IL
+- Creating, modifying, and disabling user accounts, groups, distributions, OUs, and access via Active Directory & Powershell
+- Managing and provisioning Adobe licenses & phone services
+- Handling all aspects from user-onboarding from account creation across multiple domains via Powershell to decommissioning, immediate separations, and reaping of licenses while following retention protocol
+- Providing on-site and remote technical support for employees and VIPs (CEO, CFO, CTO)
+- Handling support team call flow via Cisco Jabber
+- Actively auditing disabled user accounts
+- Auditing and editing documentation to keep up to date for users and employees
+- Creating, modifying, and removing users in DUO for MFA as well as Intune to allow access to company's management profile and applications.
+
+Information Technology Operations Engineer, 02/2019 to 03/2021 State Of New York - Middletown, NY
+
+- Provided secondary training to personnel struggling with technological tools and systems.
+
+- Executed troubleshooting and server support, including in-person and remote situations.
+
+- Ensured that we, as a company, maintain PCI compliance through education and monthly patching via N-Able Solarwinds MSP Patch Management Successfully reported PCI compliance status and exposing asset vulnerability per company asset via N-Able Solarwinds MSP Reporting Implemented scripts to deploy various changes or files to be accessed locally through N-Able Solarwinds MSP Created/recorded KTs (Knowledge Transfer) training sessions/SOPs (Standard Operating Procedures) for necessary/essential processes for optimal business functionality Attended weekly meetings with VP of IT, CFO, and IT team either in person or via Microsoft Teams to discuss future company
+
+goals, elaborate on projects to better service and collaborate to further the company as a whole
+
+Re-cabling via CAT6/CAT5/CATS5e ethernet/patch cables across various properties/troubleshooting connectivity issues to further
+allow properties to continue delivering quality service
+
+Created, modified, and managed users’ information company-wide through Microsoft's Active Directory
+Assisted in the decommissioning of Legacy Windows Server 2008 R2 and Windows Server 2012 and implementation of AWS
+
+servers to promote a higher level of security for sensitive information
+- Custom built test labs fit with Meraki switches and firewalls to test software functionality for quality assurance company wide
+- Managed and maintained the corporate/company-wide VPNs as well as supporting LANs, VLANs, & WLANs through monitoring and troubleshooting cutting edge Cisco switches (i.e. MS225-24P, MS225-24P, MS120-8FP, MS125-24P), access points (i.e. MR74, MR30H), and firewalls (i.e. MX64W, MX65W, MX100) as well as through Unifi products and services through Meraki's and Ubiquiti’s GUIs Single-handedly migrated 120+ web domains from GoDaddy to Cloudflare (without the aid of an API). Maintaining website functionality/health of all websites along with corporate marketing team
+- Working knowledge of LDAP, RADIUS servers, etc.
+
+Provided day-to-day support to system users, educating employees on troubleshooting and problem-solving protocols.
+
+Installed, configured, tested and maintained operating systems, application software and system management tools.
+
+Provided firewall and VPN management, L2PT security protocol management, and incident response.
+
+Conducted security assessments and made recommendations for disaster recovery, remote access, network appliances, servers
+and directory services security.
+
+- Adhered to SLAs, exercising ITIL and ITSM knowledge to manage issues and projects.
+
+- Executed troubleshooting and server support, including in-person and remote situations.
+
+- Provided secondary training to personnel struggling with technological tools and systems.
+
+IT Analyst, 02/2018 to 02/2019 Voxai Solutions - City, STATE
+- Monitored and troubleshot corporate servers/databases via Remote Desktop Connection, Icinga, and Solution Control Interface.
+- Assisted and lead network/software patching efforts for various clients, positively affecting overall business efficiency.
+- Actively created documents via Microsoft Excel/Microsoft Word and applying hands-on training to assist in the training of new hires.
+- Utilized/troubleshot Genesys software such as Palladion, Speechminer, and Advisors to deliver top-tier customer service by ensuring proper business functionality.
+- Created/recorded KTs (Knowledge Transfer) training sessions for necessary processes for optimal business functionality.
+- Acted as administrator for various businesses via Configuration Manager by allowing/denying access to various users, creating user credentials for use over Genesys mainframe.
+- Provided end-user support through various channels and tracked incidents using the ServiceNow ticketing system.
+- Actively edited and executed SQL scripts via Microsoft SOL Server Management Studio (SSMS).
+- Utilized knowledge of Linux to access Red Hat Linux servers to engage in necessary troubleshooting.
+- Generated and created reports to assist our clients’ leadership to better help observe company growth or downturn.
+- Created and monitored test calls through Cyara to maintain stellar call quality via proper call routing/network handshakes between various servers from consumer to agent.
+- In possession of working knowledge of various networking and voice protocols including, but not limited to: LDAP, AD, SSL Certificates, TCP/IP, DHCP, VLAN, SIP, UDP, QoS, and VoIP.
+
+Command Center /TJX New POS Project Agent, 06/2017 to 08/2017 Fujitsu - City, STATE
+- Established long-lasting camaraderie with peers, technicians, and superiors.
+- Communicated with peers and superiors through various channels in a clear, concise, and succinct manner.
+- Ensured that the on-site technicians received software based support to supplement the hardware aspects of the installation to successfully implement the POS.
+- Remotely logged into technology on-site and ensured users were able to utilize services necessary to carry out transactions throughout the business day.
+- Verified network communications were viable throughout installation to prevent potential data loss throughout installation process.
+- Created clear yet information dense ServiceNow tickets for future teammates, lessening the amount of time needed to search for required information for teammates to complete given tasks in a time efficient manner.
+- Secured files from outdated POS to allow EOD (End of Day) sales polling to successfully run on new XStore POS, preventing loss
+
+of data and revenue for client.
+
+Assistant Network Administrator, 09/2011 to 10/2012 Lantex Corporation - City, STATE
+- Configured networks, desktops, laptops and printer to support clients’ business functionality.
+- Resolved technical issues for clients via in person, phone, remotely,and/or through email to assure clients’ businesses ability to operate properly.
+- Provided internal office support for all office software applications and validate licensing, ensuring that all applications were being properly used within specified terms of agreement.
+- Configured modems, routers, and wireless fidelity necessary for clients’ functionality and ability to do business.
+- Successfully implemented automatic data backups of essential data at clients’ request, securing the safety of the lifeblood of the
+
+client.
+
+EDUCATION
+---------
+
+Bachelor of Science: Computer Engineering
+
+The University of Texas At Arlington - Arlington, TX
+- Continuing education in Computer Science
+- Minor in English

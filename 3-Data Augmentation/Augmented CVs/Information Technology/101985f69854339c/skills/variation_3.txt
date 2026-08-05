@@ -1,0 +1,58 @@
+Robert Ss mith Phone (123) 456 78 99
+
+Email; InfoS@awikresume,cor
+
+Website : www. qwikresume,.com
+
+Information Technology Specialist Il \liacadins linkacktecorneeelioeaurre
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+-------
+
+Experienced in testing, designing and enhancing IT Solutions. Committed to improving business
+productivity, efficiency, and developing insightful solutions to Current business practices, Ability to
+document, analyze clients' existing systems and business rnodels to understand their strengths
+and weaknesses. Deterrnined opportunities to autornate existing functions and processes,
+Translated business requirements into functional specifications and manage changes to those
+specifications. Redesigned current business processes for newer technology.
+
+SKILLS
+------
+
+Server 2003, Server 2008 R2, Windows XP, Vista, 7, 8, Microsoft Office 2007, Microsoft Office
+2013, Exchange 2003, Exchange 2008, Sharepoint, Active Directory
+
+WORK EXPERIENCE
+---------------
+
+Information Technology Specialist II
+ABC Corporation - January 2011 - Present
+- Promoting cost-effective, high-perforrnance computer technology that will provide continuous improvement to in-house productivity and efficiency,
+- Contributing analytical and technical expertise regarding in-house computer-related hardware and plant/business information technology.
+- Understanding the business process that utilizes cormputer Information technology,
+- Installing, configuring, performance tuning, administering and troubleshooting all in-house cornputer-related hardware and software.
+- Complying with cornpany data backup, disaster recovery, software licensing, security and authorization policies,
+- Maintaining an audit record of Plant hardware/software. Maintaining software licensing,
+- Developing, documenting and maintaining necessary in-house information and nor-plant floor data collection systerns.
+
+Principal Information Technology Specialist
+ABC Corporation - September 2006 - July 2010
+- Setup, maintained, and troubleshoot all printers (including monitoring Ink levels and inventory),
+- Managed Window updates for all enc-user systems. Managed virus protection reports and provide resolution to issues,
+- Maintained company phone/cormmunication system.
+- Evaluated system potential by testing the compatibility of new programs with existing programs.
+- Evaluated expansions or enhancements by studying workload and capacity of the computer system.
+- Maximized the use of hardware and software by training users, interpreting instructions, and answering questions,
+- This is Durnmy Description data, Replace with job description relevant to your current role.
+
+EDUCATION
+---------
+BS - 2011 (Jefferson Community College)
+
+- Ths Frag Resume Template is the copyright of Qwikresume com. Usage Gulde lines
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

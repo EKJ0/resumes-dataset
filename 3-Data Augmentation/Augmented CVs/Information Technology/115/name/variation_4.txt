@@ -1,0 +1,373 @@
+Jamal Jackson
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+Links
+
+- https://www_linkedin.com/in/Jessica-Claire-16a8a711b/
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Experienced IT Technician and Signal Support System Specialist with knowledge on various skills such as Python, JavaScript, HTML etc.
+Also have in most pentesting and vulnerability tools like nmap, OpenVAS, Nessus and also Digital forensic tools like Prodiscovery etc.
+Worked on reverse engineering tools like IDA Pro. Have a home lab which constantly keep working and practice on Kali Linux with.
+Working in the Military Organization. Mainly work on Microsoft Azure Endpoint Manager, Active Directory, Azure Security Center, Office
+365, SharePoint etc. Also have knowledge on Amazon Web Service (AWS). Worked on security software like Sophos, Mimecast, CCTV and
+DVR Cameras etc. Work on Comsec encryption keys and set-up HF and VHF radios for the commander in communicating with Brigade.
+Earned a medal for been a sharpshooter. Have a SECRET security clearance from the Military. Skilled in Windows 7, 8, and 10 with Linux.
+Computer Repair. Computer Networking mostly Cisco products, CompTIA Network+, and Network Troubleshooting. Also have a strong
+background on Windows Server Management, Managing Security Projects, Policy Development in Information Assurance. Good security
+Analyst on network incident and detection. Strong engineering professional and have knowledge on Cyber Law and Compliance. Also have a
+background in the medical field as a Certified Nurse Aide, have a strong interpersonal skill in working with people in all settings, eager to
+help people and strong communication skills. Have been exposed to great vendor portals as an administrator. These vendors include Verizon,
+Comcast business, Grid4, Google Admin for creating containers and applications, Sophos, PointClickCare, Allscripts, Mimecast, DSSI etc.
+Have a Bachelors Degree on Information Assurance and Cyber Defense and currently working on Masters on Cybersecurity. Skilled
+Technologist with experience configuring computers, servers and peripheral devices to work within established company and security
+parameters. Adept at managing permissions, filters and file sharing. Devoted troubleshooter with deep understanding of system architecture
+and diagnostics. Highly adept Information Technology Technician with proven hardware and software configuration and troubleshooting
+expertise. Manages office-wide Local Area Network and minimizes downtime while overseeing system expansion. Excellent technical and
+communication skills.
+
+SKILLS
+------
+- End-user support e Mimecast
+- Active directory e Azure Security
+- Windows Server * Comcast
+- Group Policies © Verizon
+- Amazon Web Services (AWS) © DocuWare
+- Microsoft Azure ¢ Bomgar
+- Python (Programming Language) © ConnectWise
+- Penetration Testing © Cisco Meraki
+- Digital Forensics « Linux © Spiceworks Help Desk
+- Powershell © Google Admin
+- HTML © Grid4
+- SCCM © Security Monitoring
+- Reverse Engineering e Threat Analysis
+- Budget and cost analysis © Threat Detection
+- Network administration © Thought Leadership
+- LAN protocols © Incident Response
+- Security Protocols © Processes And Procedures
+- Excellent work ethic e Event Management
+- Verbal and written communication e IDS/IPS
+- Systems administration © Monitoring
+- Device configuration © Technical Support
+- Sophos
+
+WORK EXPERIENCE
+---------------
+
+01/2020 to Current Information Technology Technician Brazos River Authority - Graford, TX
+- Worked on-site, remotely, and office for assisted living center of more than 300 employees and 10 different locations.
+- Internet and WAN Circuit provisioning for client and coordinating with ISPs such as Verizon, Comcast, Grid 4 etc.
+- Worked with traditional active directory and later migrated to Microsoft Azure with strong skill set in applying
+policies and creating accounts and passwords for over 300 clients.
+- Worked as PointClickCare Security Admin by creating and managing user accounts and assign information privileges for all levels of employees such as Nurses, Doctors, Admissions, Life Enrichment etc.
+- Work hands-on with firewall interfaces and polices on devices like Cisco and Meraki. Strong Skill set in working with Meraki dashboard and Sophos enterprise for monitoring and maintenance of
+
+company’s IT security standard and policies.
+
+Create Bit Locker encryption for clients and manage it via Sophos portal.
+
+Gain experience with enterprise domain management such as analyzing group policies and utilizing PowerShell for
+efficiency.
+
+Also worked and assisted clients with Bomgar representative console.
+
+Encourage end users importance or cloud and how to manage files using OneDrive.
+
+Gained strong background in servicing ticketing kiosks, printers, scanners, Verizon phones, mobile phones, tablets,
+routers, switches, laptops desktops, VPN etc.
+
+Worked with mostly Windows and some Mac including printer logic installations, as well as joining them to AD
+domains.
+
+- Manage users in Microsoft Azure and manage SharePoint via office 365.
+
+Also create applications, computer devices: enroll and manage them on Microsoft Azure Endpoint Manager.
+
+Built and provided basic end-user troubleshooting and desktop support on Windows, Linux and Mac systems.
+Strong background in installing Cisco-Meraki access points (AP).
+
+Team player with excellent communication and organizational skills, combined with flexibility, creativity and
+exceptional analytical and problem-solving skills.
+
+- Managed customers’ expectations of support and technology functionality in order to provide positive user experience.
+
+Quick learner and self-starter who excels in team environment but can work equally well independently.
+Conducted daily system monitoring, verifying security, integrity and availability of all hardware, server resources,
+
+applications and key processes.
+
+Set up hardware and software in optimal configurations to meet network performance requirements.
+Established, repaired and optimized networks by installing wiring, cabling and devices.
+Investigated and corrected problems with printers, copiers and other peripheral devices.
+
+Managed system-wide operating system and software deployments, as well as related software upgrade problems.
+Answered and triaged requests for assistance in order to provide top-notch support.
+
+Delivered network technology training to junior team members and end-users, enhancing knowledgebase and team
+productivity.
+
+Provided Tier 1 IT support to non-technical internal users through desk side support services.
+
+Performed tests of functionality, security and performance of different workstations and devices.
+
+Loaded software, granted permissions and configured hardware for new employees as part of onboarding process.
+
+Developed and maintained strong client relationships to deliver exceptional customer service and problem
+resolution.
+
+08/2017 to Current Signal Support System Specialist Holy Redeemer Health System - Egg Harbor Township, NJ
+- Gained security clearance of SECRET. Good problem-solving skills and interest in working with electronic equipment.
+
+Supervises, plans and executes installation, operation, and maintenance of all signal support systems to include
+
+local area and wide area networks and routers.
+
+- Responsible for network integration using radio, wire, satellite and battlefield automated systems: directs unit signal training and provides technical advice and assistance.
+
+- Develops and executes communications security management (COMSEC) policies and guidelines within Battalion.
+
+- Manages automation setup, accountability, distribution and troubleshooting of information systems and devices
+valued at approximately $500,000 assigned to battalion.
+
+- Plans and provides unit level training for automation and communications systems and Signal support equipment.
+
+- Assists in staff supervision of information services.
+
+- Plans, supervises and executes unit level maintenance programs for user owned and operated signal equipment.
+
+- Repairs maintenance and supply requests for unit level signal support.
+
+- Normal color vision (no color-blindness) is required.
+
+Work with all manner of electronic devices, including communications equipment, vehicles, radio and wire
+systems, and power generators.
+
+Good problem-solving skills and interest in electronics.
+
+Integrated new devices into managed networks while maintaining assigned security protocols and protections.
+
+Set up terminal devices, completing prescribed onboarding processes to verify successful integration into existing
+network frameworks.
+
+Tracked and detected network service disruptions using computer systems, scopes and meters.
+
+- Maintained radio and data distribution systems by completing mandated task within prescribed timeframes.
+
+- Trained users to connect to and utilize Local Area Networks (LANs) and Wide Area Networks (WANs).
+
+- Performed signal diagnostic functions to detect network interruptions and diagnose connection deficits.
+
+- Installed new wiring and networking hardware in existing facilities and within new construction.
+
+Tested signal-level equipment for operational performance within prescribed tolerances.
+
+- Handled all troubleshooting tasks for signal support services, which included radio, wire and battlefield automated systems.
+
+- Provided maintenance and technical assistance to commanders and staff in regards to signal support systems.
+
+- Utilized technical equipment to monitor network status in operational environments.
+
+- Supervised and assisted with battlefield signal support systems and terminal devices.
+
+Set up hardware and software in optimal configurations to meet network performance requirements.
+
+- Improved overall user experience through support, training, troubleshooting, improvements and communication of system changes.
+
+- Delivered network technology training to junior team members and end-users, enhancing knowledgebase and team productivity.
+
+08/2016 to 01/2020 IT Technician Support, Information Technology Technician Jollof Enterprise & Consulting - City, STATE
+- Install and configure computer hardware operating systems and applications.
+- Help mainly install office 365 for record keeping.
+- Monitor and maintain computer systems and networks.
+- Troubleshoot system and network problems, diagnosing and solving hardware or software faults and replace parts as required.
+- Provide support, including procedural documentation and relevant reports.
+- Follow diagrams and written instructions to repair fault or set up system.
+- Support roll-out of new applications.
+- Set up new user accounts and profiles and deal with password issues.
+- Respond within agreed time limits to call-out priorities and manage many open tickets at one time.
+- Rapidly establish good working relationship with customers and other professionals, such as software developers.
+- Test and evaluate new technology.
+- Conduct electrical safety checks on computer equipment.
+- Completed inventory counts and organized supplies.
+- Updated documentation and produced reports. Removed malware, ransomware and other threats from laptops and desktop systems.
+- Patched software and installed new versions to eliminate security problems and protect data.
+- Helped streamline repair processes and update procedures for support action consistency.
+
+07/2012 to 01/2016 Certified Nursing Assistant Advantage Living Centers - City, STATE
+
+- Helped patients effectively manage routine bathing, grooming and other hygiene needs.
+
+- Assisted patients with mobility needs, including moving to and from beds, organizing wheelchairs and preparing assistive devices.
+
+- Checked patient vitals such as temperature, blood pressure and blood sugar levels.
+
+- Tum or reposition patients.
+
+- Collect information about conditions and treatment plans from caregivers, nurses and doctors.
+
+- Report any emergency to Registered or charge nurse.
+
+- Document or chart on patients on their daily activities.
+
+- Provide and empty bedpans.
+
+- Lift patients into beds, wheelchairs, exam tables, etc.
+
+- Answer patient calls.
+
+- Examine patients for bruises, blood in urine or other injuries/wounds.
+
+- Clean and sanitize patient areas.
+
+- Change bed sheets and restock rooms with necessary supplies.
+
+- Also serve as conduit between patients and nurses, doctors, and record and communicate all issues to medical staff.
+
+- Earned employee of month.
+
+- Great communication skills.
+
+- Promoted good oral and personal hygiene by aiding patients with shaving, bathing and teeth brushing.
+
+- Maintained patient stability by checking vital signs and weight, testing urine and recording intake and output information.
+
+- Answered call lights and supported patient comfort and safety by adjusting bed rails and equipment.
+
+- Provided activities of daily living by assisting with serving meals, ambulating, turning and positioning patients.
+
+- Provided patients with personal hygiene assistance by giving bedpans. baths, backrubs and assisting with travel to bathroom.
+
+- Monitored patients’ status and reported any identified abnormalities or changes to nursing personnel.
+
+- Kept accurate records of patients’ care, condition and progress.
+
+- Assisted patients with mobility by providing physical support and pushing wheelchairs.
+
+- Provided prompt and accurate services such as CPR and first aid during emergencies.
+
+- Documented vital signs to inform nurses and physicians of any changes in patient status.
+
+- Cared for clients with diagnoses such as respiratory failure, diabetes, Parkinson's disease and muscular dystrophy.
+
+- Agreed to take on additional shifts and extra hours during busy periods and holidays to maintain proper staffing and floor coverage.
+
+Maximized patient satisfaction by helping individuals carry out personal tasks such as dressing and walking.
+
+- Delivered compassionate care and clear communication in handling issues of death and dying.
+
+- Monitored, tracked and conveyed important patient information to healthcare staff to help optimize treatment planning and care delivery.
+
+- Wiped down equipment with proper cleaning products after each patient transport to reduce instances of infection.
+
+- Promoted patient socialization, self-care and development by recognizing and using patient strengths to motivate patient.
+
+- Secured patient information and maintained patient confidentiality by completing and safeguarding all medical records.
+
+- Maintained and organized patient rooms and communal spaces to minimize environmental and safety hazards.
+
+- Offered immediate assistance in emergency and routine paging situations to evaluate needs and deliver care.
+
+- Conferred with multidisciplinary healthcare team to help effectively manage patient conditions with regular testing and vitals assessments.
+
+- Performed basic standardized wound care procedures by applying hot and cold packs and applying dressings and bandages to patients.
+
+- Administered medication according to each patient's medical charts and recorded vitals such as blood pressure, temperature, and pulse.
+
+- Evaluated patients’ progress in treatment, communicating observations to physician on duty to maintain or adjust prescribed care.
+
+EpucaTIon
+
+2021 Certification: Basic Leadership Course (BLC) Camp Selby - Selby, MS
+- Honors Graduate.
+- Promoted to a Sergeant to a greater leadership role.
+- Group Dynamics.
+- Effective Listening.
+- Written Communication.
+- Public Speaking.
+- Critical Thinking & Problem Solving.
+- Army’s Leadership Requirements Model.
+- Counseling.
+- Cultural Competence.
+- Army Values, Ethics, & Integration of Soldier 2020.
+- Legal Responsibilities & Limits of NCO Authority.
+- Physical Readiness Training.
+- Followership & Servant Leadership Fundamentals.
+- Team Building & Conflict Management.
+- Drill & Ceremonies.
+- Mission Orders & Troop Leading Procedures.
+- Training Management / Conduct Individual Training.
+- Soldier for Life - Transition Assistance Program (SFL - TAP).
+- Command Supply Discipline Program.
+- Soldier Readiness.
+- Resiliency.
+
+2022 Master of Science: Cybersecurity And Information Assurance Western Governors University - Salt Lake City, UT
+- Continuing education in Cybersecurity
+
+2020 Bachelor of Science: Information Assurance and Cyber Defense Eastern Michigan University - Ypsilanti, MI
+- Awarded Bachelors in Information Assurance and Cyber Defense
+- Honors graduate
+- Member of the Information Assurance and Cyber Defense Association.
+- Deans List
+- Extensively worked on multiple projects in regards to Networking and Cybersecurity.
+
+2017 Associate of Applied Science: Computer Information Systems Wayne County Community College District - Detroit, MI
+- Majored in Computer Information Systems.
+- Honors Graduate
+- Dean's List.
+
+2015 Associate of Science: General Studies Wayne County Community College District - Detroit, MI
+- Awarded Associate of Science in General Studies.
+
+2018 Certification: Gordon (US Army)Advanced Individual Training (AIT) Fort Gordon - Augusta, GA
+
+- Extensive training on Networking and Signal Support.
+
+ADDITIONAL INFORMATION
+
+- Honors & Awards . Certificate of Appreciation - 210th Military Police Batalion Jun 2019 Award for Excellence - US Army Apr 2019 Honors Graduate - Eastern Michigan University Dec 2020 Jessica Claire - page 5 The Army Achievement Medal - US Army Jun 2020 Jessica Claire - page 6
+
+ACCOMPLISHMENTS
+
+- Resolved product issue through consumer testing.
+
+- Worked on port scanning project using JavaScript and a Proxy using AWS.
+
+- Deployed both Comcast and Grid4 phones in large buildings and configure PoE phones.
+
+- Supervised Junior Soldiers in accomplishing a task for the Brigade Commander.
+
+- Received an Award on the Army Achievement Medal
+
+- Received a Michigan State Service Ribbon for the Covid Mission
+
+- Received Certificate of appreciation and a coin for effectively and diligently working in order to accomplish a signal mission task.
+
+CERTIFICATIONS
+--------------
+
+- TestOut Network Pro Certification (ID C28RK)
+- Cybersecurity Analyst
+
+- Comptia Security+
+
+- Windows Operating System Security
+
+- Cyber security Fundamentals
+
+- Linux Operating System Security
+
+- Information Security Program
+
+- Counter Intelligence Awareness
+
+- Unauthorized Disclosure of Classified Information for DoD.
+- OPSec Level 1
+
+- HIPAA and Privacy Act Training
+
+- Cyber Expected Service (CES)

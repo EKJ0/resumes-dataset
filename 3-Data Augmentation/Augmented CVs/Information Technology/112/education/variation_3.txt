@@ -1,0 +1,176 @@
+JESSICA CLAIRE
+
+San Francisco, CA @ (555) 432-1000 resumesample@example.com
+
+WORK EXPERIENCE
+---------------
+
+Director of Information Technology, 05/2019 - Current Hyatt Hotels Corp. - West Hollywood, CA
+- Accountable for information technology operations, security and 5 staff members at 4 locations across the United States and responsible for
+
+aligning information technology solutions with business goals and requirements.
+
+Implement cloud first policies and initiatives that leverage existing purchases in cloud technology or software as a service.
+
+Oversee the information security program, incident response, disaster recovery and business continuity plans.
+
+Create capital and operating budget in harmony with organization budget directives, projecting approximately 25% reduction of
+
+unnecessary or duplicate services in 2020.
+
+Successfully executed business continuity plan during COVID-19 pandemic and oversaw organization wide communication and remote
+
+access capability.
+
+Architected single sign-on and two-factor authentication using Azure Active Directory and oversaw implementation on 95% applications.
+
+Designed a multi-office web conferencing solution using Zoom rooms and leveraged whole room audio conferencing technology to
+provide a single button user experience.
+
+Implemented IT Service Management solution bringing incident, change, problem and asset management under a single software platform
+resulting in increased visibility into IT operations and knowledge transfer between the information technology department, stakeholders
+
+and employees.
+
+Infrastructure and Security Manager, 05/2018 - 05/2019 Mantech International Corporation - York, PA
+- Oversaw infrastructure operations at multiple datacenters and several branch offices throughout the US, focusing on network administration, server infrastructure administration, virtualization, and security.
+- Served as the information security consultant, advising the organization of current threats, vulnerabilities, security technologies and
+
+regulatory issues.
+
+Senior Systems Administrator, 08/2007 - 12/2009 International Gaming Technology Inc. - Weston, FL
+- Configured SSO and dual-factor authentication throughout the organization using multi-site Active Directory Federation Services (ADFS) with SAML authentication for cloud applications.
+- Led the organization's IT security compliance initiatives with key focus on 3rd party vendor risk and attestation management, mobile
+
+device management, disaster recovery and business continuity testing.
+
+Oversaw the information security awareness program and was responsible for presenting annual information security training and ongoing
+information awareness updates to the organization's users through prepared presentations, periodic email/newsletter communications and
+one-on-one user training.
+
+- Administration and configuration of enterprise firewalls, intrusion prevention and intrusion detection systems.
+
+- Management of Windows Server 2008 Active Directory domain including 40 physical Windows/Linux servers at two locations.
+
+Proposed and executed a migration to Exchange 2007.
+
+Configured an HA solution - clustered mailbox servers, redundant Hub Transport cluster, and Single Copy Replication to offsite location in
+
+accordance with business requirements.
+
+Designed and deployed a Proofpoint communications archiving platform in compliance with SEC regulations regarding records retention.
+
+Evaluated and deployed a disk backup solution and replication to an offsite data center.
+
+Systems Administrator, 11/2004 - 07/2007 Best Buy - City, STATE
+
+Responsible for managing all aspects of Best Buy for Business clients’ solution: server build and installation, network planning and setup,
+and on-going maintenance and management.
+
+Installation, administration, and troubleshooting of Windows Server 2003, Windows Small Business Server 2003 and Windows Server
+2000 Domains and application servers.
+
+- Extensive use of TCP/IP, DNS, and DHCP as pertaining to a Windows Server environment.
+
+- Experience in deployment of security measures including: group policies, user rights, security policies, encryption (EFS), and hardware/ software firewall configurations.
+
+- Implementation of virtual private networks using PPTP and L2TP/IPSEC.
+
+- Experience in all areas of Exchange 2003 and Outlook client setup.
+
+- Deployment and management of Trend Micro SMB and Office Scan, Symantec Backup Executive and other proprietary applications.
+
+ACCOMPLISHMENTS
+
+- Ensured information security and technology requirements were met by identifying risks or gaps and implementing secure technology solutions, controls and/or policies to strengthen the effectiveness of the information security program.
+
+Successfully merged two organizations after acquisition: data center operations, Active Directory domain consolidation, network design
+
+and business application integration.
+
+Implemented a Security Information and Event Management (SIEM) system and integrated network, server infrastructure and security tool
+logging information thereby providing correlated security events.
+
+- Led the user awareness training program through in person and online training sessions covering corporate policies and security initiatives.
+- Conducted random phishing simulations to test employee security education.
+
+- Information Technology and Security Manager Denver Investments Denver, CO December 2009 - May 2018.
+
+Provided enterprise technical leadership, mapping business strategy to information technology solutions with a focus on security.
+
+Spearheaded the corporate information security program through a risk-based analysis of the firm's information security policies and
+controls set against the NIST Cybersecurity Framework and IS027001.
+
+- Operationalized information security through vulnerability assessments, cyber-security risk assessments and implementation of a security control lifecycle throughout the organization.
+
+Relayed relevant information security threats, vulnerabilities, incidents and action plans to the organization's C-Level executives and fund's
+Board of Directors through quarterly presentations.
+
+Rightsized disaster recovery and business continuity costs, increased scalability and reduced RPO/RTO by leveraging application
+virtualization using Citrix Xenapp.
+
+Overhauled the technology infrastructure across two sites saving the organization 21% in infrastructure costs over 6 years leveraging a
+
+converged network topology.
+
+EDUCATION
+--------- BS: Information Technology Colorado State University AAS: Network Administration
+DeVry University
+
+SUMMARY
+-------
+
+ISACA Certified Information Security Manager (CISM) CompTIA Security+ Microsoft Enterprise Administrator (MCITP) Messaging
+Administrator (MCITP) A technical director with 14yrs of experience in technology and cybersecurity management. A team leader with a
+proven track record in project management and a superior capacity to solve complex problems. An information security subject matter expert:
+
+adept in all information security domains with a focus on network and infrastructure security.
+
+CERTIFICATIONS
+--------------
+
+(ISC)2 Certified Information Systems Security Professional (CISSP) ISACA Certified Information Security Manager (CISM) CompTIA
+Security+ Microsoft Enterprise Administrator (MCITP) Messaging Administrator (MCITP) Personal Info Location Denver, CO Phone, (ISC)2
+Certified Information Systems Security Professional (CISSP)
+
+HIGHLIGHTS
+----------
+
+- Operating Systems © Windows Server 2008r2-2019, Debian/Ubuntu, CentOS
+- Windows Server 200812-2019, Debian/Ubuntu, CentOS e AuthenticatiovIAM
+- AuthenticatiovIAM e Active Directory, Azure AD, ADFS, SAML/SSO, MFA, DUO
+- Active Directory, Azure AD, ADFS, SAML/SSO, MFA, DUO e Network Infrastructure
+- Network Infrastructure e Cisco IOS, Nexus, Aruba, PanOS, HP Procurve, Citrix Netscaler,
+- Cisco IOS, Nexus, Aruba, PanOS, HP Procurve, Citrix Netscaler, BGP, OSPF, DNS
+
+BGP, OSPF, DNS © Cloud
+- Cloud © Azure
+- Azure © Virtualization
+- Virtualization © Cisco UCS, VMware 5.5-6.5, Citrix XenApp/XenDesktop 6.5-7.15
+- Cisco UCS, VMware 5.5-6.5, Citrix XenApp/XenDesktop 6.5-7.15 © Security Infrastructure
+- Security Infrastructure e Palo Alto Firewall, Checkpoint Firewall, Alienvault SIEM, Snort/
+
+Palo Alto Firewall, Checkpoint Firewall, Alienvault SIEM, Snort/ Suricata IDS, OpenVas, OSSEC, Sonicwall SSLVPN, ELK, Pulse
+Suricata IDS, OpenVas, OSSEC, Sonicwall SSLVPN, ELK, Pulse Secure VPN
+
+Secure VPN e Endpoint Security
+- Endpoint Security © Palo Alto, Checkpoint, TrendMicro, Symantec
+- Palo Alto, Checkpoint, TrendMicro, Symantec © Messaging, Security & Archival
+- Messaging, Security & Archival © 0365, Exchange 2007-2016, Smarsh, Proofpoint, Symantec,
+- 0365, Exchange 2007-2016, Smarsh, Proofpoint, Symantec, Wombat Wombat e Languages
+- Languages e PHP. Powershell, Python, VBscript, BASH, MySQL, Javascript,
+- PHP. Powershell, Python, VBscript, BASH, MySQL, Javascript, CSS. MSSQL, WordPress Development CSS. MSSQL, WordPress Development e Active Directory, Audio, BGP, Cisco, Consultant, Client, Disaster
+- Software/Tools recovery, Firewalls, HP, IDS, ISO, Linux, Access, Outlook,
+- Operating Systems Migration, Network administration, Newsletter, Policies,
+
+Presentations, Risk Assessment, Symantec, Trend, VPN
+
+- AD, Backup, Budget, Citrix, Encryption, Clients, DNS, Firewall, Hub, Information Security, Javascript, Managing, Exchange, Windows, MySQL, Network, Operating Systems, PPTP, Program Design, Servers, TCP/IP, Troubleshooting, Windows Server
+
+- Asset management, BASH, Cisco IOS, Hardware, CSS, DHCP, Email, Focus, PHP, Information technology, Leadership,
+Messaging, Office, 2000, Enterprise, Networks, OSPF, Presenting, Python, MSSQL, User training, VBscript
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

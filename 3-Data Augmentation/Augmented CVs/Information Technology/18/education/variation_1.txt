@@ -1,0 +1,218 @@
+JESSICA CLAIRE
+
+resumesample@example.com
+(555) 432-1000
+
+100 Montgomery St. 10th Floor
+
+SKILLS
+------
+
+Customer Service Application Support Services Technical Consulting Troubleshooting
+
+Data collection and analysis Device configuration Change management Server management Hardware installation
+Software installation and updates
+
+Computer security Databases management
+
+EDUCATION
+---------
+
+University of Phoenix
+
+Tempe, AZ + 2015
+
+Bachelor of Science: information Technology (Business Analytics)
+
+University of Phoenix
+Tempe, AZ + 2011
+
+Associate of Science: Software Engineering
+
+CERTIFICATIONS
+--------------
+
+CompTIA Security+ (Expires:
+12/2021)
+
+Telecommunication & Information System Coordinator
+Training - 2019
+
+Security Technical Implementation Guide (STIG)
+Training - 2019
+
+Microsoft server 2008
+
+CERTIFICATIONS
+--------------
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Skilled Information Technology Specialist with over 25 years of experience in information systems and
+Customer Support Services. An eager and fast learner with expertise driven initiatives in
+troubleshooting desktop applications and hardware devices. An experienced technical troubleshooter
+able to identify root causes and resolve technical problems to restore productivity. A proven
+Telecommunication Control Officer Representative, able to provide and support communication
+services for office desktops or network services. A mobile support specialist with experience in
+mobile software installation, encryption services and device configuration. A certified Information
+Technology Specialist that constantly trains in the latest trends to support future I.T requirements.
+
+WORK EXPERIENCE
+---------------
+
+Us Government Other Agencies And Independent Organizations - Information Technology Specialist
+Pittsfield, MA + 05/2020 - Current
+
+Provide customer assistance in troubleshooting common or unique computer problems. Resolve
+technical issues to restore computer desktop operations and enterprise services. Provide user
+training on basic computer troubleshooting to resolve routine problems thus empowering user in
+basic computer skills and increasing customer satisfaction. Customer Trained: 100%
+
+Aid internal/external users in computer operations and network services using remote desktop
+tools. In a timely manner provide step-by-step instructions to meet customer demands on network
+support services. Resolve enterprise connection issues or services involving user’s local Internet
+Service Provider (ISP), Domain Name Services for external connection to enterprise services.
+Troubleshooting: 100%
+
+Deployed virtual platform to test and evaluate configuration for desktop applications. Establish
+baseline configuration for applications to support enterprise deployment and interface with user
+hardware or network services. Capture and test images for deployment using image deployment
+services.
+
+Resolved customer problems with integration services involving email, network share folders,
+multifunctional services of print, scan, or copy using enterprise services. Provide user account
+management (create/edit/delete) using Active Directory services. Perform Move/Add/Change
+(MAC) to fulfill customer requests for computer services. Customer Support: 100%
+
+Install and configure Microsoft Office 365 Mobile apps for enterprise services. Perform device
+administration of enrollment, device account reset, device retirement, and remote wipe to support
+security of user information. Troubleshoot mobile device problems to restore mobile services.
+Perform upgrade of mobile apps and mobile operating system to maintain devices within the cyber
+security framework. Device Migration and Support Rate: 100%
+
+Using image deployment tools, install and configure operating systems to support desktop/laptop
+operations. Run PowerShell scripts to setup network share drives, printer services, user profile.
+Provide user assistance on the accessing of government applications to support the onboarding of
+new customers. Increased Customer Onboarding Rating: 100%
+
+Performed analysis on customer support practices to identify problematic trends in services or
+procedures that hinder the quality-of-service. Research known issues in delivery services and make
+recommendations for improvement in quality of services to improve customer service.
+
+Conduct routine software updates to maintain operating systems and applications to align with the
+security framework. Identify broken hardware in need of repair services or replacement, escalate
+service ticket and route work order for hardware maintenance or warranty services. Working with
+customers, provide technical advice or assistance on computer operations or best practices. Assist
+customers by providing documentation using easy to understand language on computer
+workarounds/ procedures to address cormmon computer problems or technical issues: Technical
+Support: 100%
+
+Support MacBook users, maintain iOS operating system. Install and configure VPN software for
+secure network services and communications using office products for iOS. Customer Support:
+100%
+
+Us Government Other Agencies And Independent Organizations - Information Technology Specialist
+Plattsburgh, NY + 06/2011 - 09/2019
+
+Successfully performed assignment of desktop support technician by providing first-line support in
+resolving all technical issues; resulting in 95% uptime of all computers
+
+Troubleshoot software errors and hardware malfunctions by performing troubleshooting analysis to
+isolate root cause, document testing and analysis to develop solution to correct errors or
+malfunction, thus maintaining 98% organization computer readiness
+
+Re-image, deploy and manage workstations, provide Move/ Add/Change service to support computer relocation , add or remove software, change hardware and software configuration,
+provide Change management support 100%
+
+Manage workstation updates, deploy security patches via update services to resolve security
+issues, routinely scan computers for security compliance, maintain desktop computer security
+controls to align with cyber security framework 100%
+
+Develop user data backup program using PowerShell scripts to enable users to safely backup
+working data, resulting in 0% data loss
+
+Process user documentation to create user network account, provide user setup of desktop profile,
+email configuration of user account and organizational mailboxes, map network share folders and
+network print devices, configure web applications to support user processing and unique hardware
+requirements, user support and integration 100%
+
+Telecommunications Control Officer, process telecommunication request for land-lines and mobile
+devices, provide detail statement of work of telecommunications services, complete post work
+verifications to finalize work to achieve customer satisfaction rate of 100%
+
+Routinely perform monthly audit of cellular services statement, identify and resolve all outstanding
+transactions or billing to maintain business standards or guidance in support of telecommunication
+services plan, achieving 100% audit rate
+
+Support sending of large files, provide training DoD SAFE website to transfer files that exceed
+email limitations. 100% of users trained
+
+Account for all computers, mobile devices, and communications equipment, perform monthly physical inventory to achieve 0% loss of government property
+
+Provide customer assistance in setup and configuration of software automation, troubleshoot
+communication equipment to diagnose and repair hardware for operational use or business presentation to large audiences, thus maintaining 95% customer service rating
+
+Deploy network Multi-Function Device (MFD), install and configure MFD for network printing/
+scanning services to support enterprise users, provide easy instructions on secure scanning of
+documents, demonstrate step-by-step instructions and hands-on training of installation of desktop
+printer to support all printing/scanning requirements (100%)
+
+Install Virtual Private Network (VPN) software to support users that are on temporary assignment or
+in remote locations. Configure VPN connection profiles to allow easy use and secure connection to
+enterprise network and resources. Teach and provide easy step-by-step instructions in proper use
+of enterprise VPN software. Personnel trained (100%)
+
+Apply technical education and experience to systematically identify enterprise wide or local issues.
+Resolve all technical problems, or escalate trouble ticket that are beyond scope of administrative
+authority, report and process all trouble tickets to completion (100%)
+
+Train and mentor users in operating systems and computer applications to increase productivity
+and to empower users in developing innovative ways to expedite data processing, increase document processing and completion by 50%
+
+Maintain user training records to manage annual cyber security training of Personal Identifiable
+Information (Pll), Cyber Security Awareness, organization completion of training 100%
+
+Write and communicate general information to users of varying knowledge of information
+technology, produce tutorials or PowerPoint presentations to communicate to lay audience technical
+practices to support training on solving routine issues to develop user confidence and independence
+
+Us Government Other Agencies And Independent Organizations - Information Technology Specialist
+Pomona, CA + 04/1995 - 05/2011
+
+Install and configure barcode printers to support web program functions, successfully provide 100%
+barcoding tagging of government property
+
+Coordinate technical refresh of computers with zero interruption to users and data processing
+Successfully managed data center and maintained server and data center services, providing 98%
+uptime
+
+Configure, manage and provide Internet Information Services for Web hosting of online shopping
+cart and increased sales by 40%
+
+Install, configure, enterprise database for record transaction and data retention, thus reducing
+paper processing by 60%
+
+Administered and maintained Relational Database Manage System, configures and sustained
+database security, wrote and develop database queries, develop database backup and restoration
+procedures, thus reducing database backup or restoration time by 80%
+
+Information Systems Coordinator, first line of support in troubleshooting desktop computers,
+hardware, operating system, and desktop application, reduced trouble tickets by 90%
+
+Process all work request for workgroup permission list to provide security controls of sensitive
+information, successfully managed access controls with 0% information mismanagement
+
+Train and mentor employees in web development and programming using Dot-Net, JavaScript, Cascading Style Sheets, and Structured Query Language, resulting in reduction program
+modifications by 30%
+
+Prepares information systems for accreditation and assurance, performed security scans and
+analysis to mitigate threats and weaknesses, implemented server hardening using Security
+Technical Implementation Guide (STIG) for information systems approval and operations 100%
+Server as Responsible Officer for computer property inventory, successfully accounted for all
+property items with zero lost in inventory
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

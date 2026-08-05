@@ -1,0 +1,55 @@
+DAVID HURSTON
+
+D> Dallas, Texas 75026 Ce) D> - EEE Sy isp.net
+
+INFORMATION TECHNOLOGY SECURITY SPECIALIST
+
+Insightful, results-driven IT professional with notable success directing a broad range of corporate
+IT security Initiatives while participating in planning, analysis, and implementation of solutions in
+support of business objectives. Excel at providing comprehensive secure network design, systems
+analysis, and full life cycle project management. Hands-on experience leading all stages of
+system development efforts, including requirements definition, design, architecture, testing, and
+support, Outstanding project and program leader; able to coordinate and direct all phases of
+project-based efforts while managing, motivating, and guiding teams.
+
+AREAS OF EXPERTISE:
+
+Network and Systems Security + Data Integrity / Disaster Recovery Research and Development « Risk Assessment / Impact Analysis
+Regulatory Adherence + Contingency Planning
+
+Cost Benefits Analysis « Technical Specifications Development Policy Planning / Implementation + Team and Project Leadership
+
+TECHNICAL PROFICIENCIES
+
+Platforms: UNIX (Solaris, HP-UX), Windows 9x/NT/2000/XP/Vista, Linux (Red Hat,
+
+Yellow Dog), Sun SPARC, Mac OS, VM/370, OS2 Warp
+
+Networking: TCP/IP, Novell, DECnet, Banyan, ISO/OSI, IPX/SPX, SNA, SMS/SQL, Ethernet, Token Ring, FODI, VPN, SSH, SecurelD, PGP, PKI, HIPAA, CFR-11
+
+Languages: UNIX Shell Scripting, C, HTML, Java, JavaScript, PHP
+
+Tools: LAN Manager, ISS RealSecure, Checkpoint Firewall, Norton Firewall and
+
+Ghost, McAfee/Norton Virus Protection Utilities, HP OpenView, Network Flight Recorder, IBM Tivoli, Tripwire, Snort, Lotus Notes, Microsoft Office Suite
+(Word, Excel, PowerPoint, Access, Project, Outlook), FrontPage
+
+WORK EXPERIENCE
+---------------
+
+SYSTEMS INTERNATIONAL, Dallas, Texas
+Information Security Analyst, 2006 - Present Recruited to establish enterprise-wide information-security program; oversee companywide
+efforts to identify and evaluate all critical systems. Design and implement security processes
+and procedures and perform cost benefit analysis on all recommended strategies; manage security budget of $1.1 million, Collaborate with external auditors to conduct in-depth
+compliance audits and penetration testing, presenting results to senior management. Develop
+curricula and facilitate awareness training, Supervise daily activities of Computer Security
+Assistant and Internet Administrator, Key Achievements:
+- Instrumental in developing and implementing Business Continuity and Disaster Recovery (BCP & DRP) Plans for corporate sites throughout Texas, Ohio and Canada.
+- Spearheaded creation of four new information-security departments: Risk Assessment, Vulnerability, Penetration Testing, and Security Engineering services,
+
+Cantnued
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University
