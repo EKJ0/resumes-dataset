@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — HR
+Folder: HR  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_44.txt)
+----------------------------------------------------------------------
+Name: First Last
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: GROWTHSI BUSINESS SCHOOL San Francisco, CA | Professional in Human Resources (PHR) 2013-2014 RESUME WORDED UNIVERSITY New York, NY | Bachelor of Arts, Human Resources Development 2008-2012
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed
+Resume Length: 273 words, 34 lines (~0.5 pages)
+
+CANDIDATE 2  (source file: 125.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~35 (estimated from earliest date/grad year 2013, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, oversaw, established
+Resume Length: 849 words, 64 lines (~1.7 pages)
+
+CANDIDATE 3  (source file: Image_27.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. led, managed, lead, directed
+Resume Length: 482 words, 42 lines (~1.0 pages)
+
+CANDIDATE 4  (source file: Image_28.txt)
+----------------------------------------------------------------------
+Name: Adam Sandler
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (8 instances) — e.g. managed, oversaw, led, leading
+Resume Length: 580 words, 46 lines (~1.2 pages)
+
+CANDIDATE 5  (source file: 132.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High School Diploma: 12/2015 St. Clare's College - Departamento De Maldonado, Uruguay | - Completed coursework in Spanish as well as English, in Philosophy, Physics, Biology, Chemistry, Civics, Geography, Math and Literature.
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 775 words, 56 lines (~1.6 pages)
+
+CANDIDATE 6  (source file: Image_56.txt)
+----------------------------------------------------------------------
+Name: Hr Executive
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (8 instances) — e.g. leading, supervised, managed, directed, coordinated
+Resume Length: 462 words, 47 lines (~0.9 pages)
+
+CANDIDATE 7  (source file: 83.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~51 (estimated from earliest date/grad year 1997, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 01/1997
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, directed, supervised, coordinated
+Resume Length: 730 words, 84 lines (~1.5 pages)
+
+CANDIDATE 8  (source file: Image_54.txt)
+----------------------------------------------------------------------
+Name: Jonathan Burns
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 205 words, 18 lines (~0.4 pages)
+
+CANDIDATE 9  (source file: Image_2.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Arts in Human Resources, University of North Carolina Wilmington, Wilmington, NC | May 2010
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed
+Resume Length: 302 words, 35 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: 59.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Jessica Claire
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: High (25 instances) — e.g. managed, oversaw, led, directed, supervised
+Resume Length: 1097 words, 89 lines (~2.2 pages)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.
