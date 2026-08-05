@@ -1,0 +1,148 @@
+Jamal Jackson
+
+CANDIDATE PROFILES — HealthFitness
+Folder: HealthFitness  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_13.txt)
+----------------------------------------------------------------------
+Name: Marshwille Road Alabama
+Ethnicity: Not stated in source (not inferred)
+Age: ~50 (estimated from earliest date/grad year 1998, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: B.S. in Athletic Training - August 1998( University of North Carolina of Pembroke - Pembroke, NC)
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, established
+Resume Length: 290 words, 34 lines (~0.6 pages)
+
+CANDIDATE 2  (source file: Image_10.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- UNIVERSITY OF HOUSTON Houston, TX | Bachelor of Science in Health Promotion Jan 2016
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 279 words, 36 lines (~0.6 pages)
+
+CANDIDATE 3  (source file: 3b27473c3bd20a86.txt)
+----------------------------------------------------------------------
+Name: Marcus Hall
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2011 - 2013 West Lafayette, Indiana
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, mentored, launched
+Resume Length: 316 words, 49 lines (~0.6 pages)
+
+CANDIDATE 4  (source file: b6c2fc0759204fce.txt)
+----------------------------------------------------------------------
+Name: David Warren Personal Trainer
+Ethnicity: Not stated in source (not inferred)
+Age: ~53 (estimated from earliest date/grad year 1995, not stated)
+Nationality: USA
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: DETAILS
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 372 words, 57 lines (~0.7 pages)
+
+CANDIDATE 5  (source file: Image_46.txt)
+----------------------------------------------------------------------
+Name: Health Fitness Specialist Pian
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 308 words, 44 lines (~0.6 pages)
+
+CANDIDATE 6  (source file: 497d843482e7ac0a.txt)
+----------------------------------------------------------------------
+Name: Certificates Global Health Policy
+Ethnicity: Not stated in source (not inferred)
+Age: ~29 (estimated from earliest date/grad year 2019, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led
+Resume Length: 529 words, 36 lines (~1.1 pages)
+
+CANDIDATE 7  (source file: Image_40.txt)
+----------------------------------------------------------------------
+Name: Work Exterience
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 266 words, 28 lines (~0.5 pages)
+
+CANDIDATE 8  (source file: Image_36.txt)
+----------------------------------------------------------------------
+Name: Fitness Trainer
+Ethnicity: Not stated in source (not inferred)
+Age: ~50 (estimated from earliest date/grad year 1998, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 355 words, 40 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: 932189c60f7f4fb7.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~30 (estimated from earliest date/grad year 2018, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science in Exercise Science at Texas A&M University, TX
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. mentored
+Resume Length: 339 words, 48 lines (~0.7 pages)
+
+CANDIDATE 10  (source file: Image_100.txt)
+----------------------------------------------------------------------
+Name: Cletus Skyway Detroit Ml
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 208 words, 19 lines (~0.4 pages)
