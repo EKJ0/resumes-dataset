@@ -1,0 +1,173 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1XXX @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+7+ years of experience in all the phases of Software Development Life Cycle that includes understanding requirement, technical analysis,
+design, development, Integration, maintenance, installation, implementation and testing of various web applications.
+MuleSoft experience in Development on Anypoint Studio, DataWeave, Transformers, APIkit Router, RAML, Anypoint Platform, API
+
+Management etc.
+
+- Responsible to develop RESTful and SOAP web services in Mule ESB based on SOA architecture.
+
+- Good experience using Mule ESB with Connectors, transformations, Routing, ActiveMQ, JMS and Data Transformations using Mule ESB.
+
+- Good Experience in creating API specification, implement REST and SOAP services.
+
+- Experience in Automation build and deployment tools such as CI/CD process with Jenkins, GIT, Bamboo and Bitbucket
+
+- Good implementation experience of WS-security, digital signatures, message encryption & decryption, SSL concepts and its implementation in Mule ESB and DataPower.
+
+- Experience with DB2 and Oracle Databases, Stored Procedure creation and DB integration with Mule ESB.
+
+- Good experience in designing Flows, Sub Flows, and Exception handling strategies, Data Weave transformation and Mule Expression Language (MEL).
+
+- Good experience in integrating applications using MQ, JMS, Web Services, HTTP, SMTP and FTP protocols.
+
+- Experience in multiple project life cycles design, implementation, testing and launching of the SOA Releases.
+
+- Experience in application development methodologies such as Waterfall, Agile and use Jira and serviceNow for Task/Project and issue management.
+
+Effective communication and interpersonal skills, ability to work in a team/independently and adapt quickly to new and emerging
+technologies.
+- Fast learner, nimble, flexible and able to adapt quickly.
+
+SKILLS
+------
+Integration: Mule 3.x and 4.x runtime, CloudHub J2ee & Frameworks: Java EE, JSP, Servlets, JSTL, INDI JMS, EJB
+Languages: Java, python, C++, dataweave (Session beans & Entity Beans), JSF, Struts, Spring (IOC, MVC, AOP
+Databases: Oracle 91/10g/11g, DB2, MS SQL Server, MySQL. & DAO) and hibernate.
+Servers: JBoss, Websphere Application Server, Apache Tomcat, Web Service: XML, JSON, XSLT, XSD, SOAP, REST
+Apache HTTP Server 2.x, JBoss 5.x Tools & Utilities: Jenkins, Maven, Nexus, Git, SVN, Log4j, ANT,
+
+Junit, MUnit and JIRA.
+Platform: Windows, Linux, MacOS
+
+WORK EXPERIENCE
+---------------
+
+MuleSoft Developer, 11/2020 - Current Qumulo - Seattle, WA
+- Create MULE ESB artifact and configured the MULE configuration files and deployed
+- Automate build and deployment package tool using Maven and build the code in Jenkins
+- Create RAML based REST web services API's using Mule ESB
+- Add the nexus repository details in pom-xml to import the all dependencies when Jenkins build the application and deploy the application in to cloud hub
+- Write MUnit test cases to validate the Mule flows
+
+Create the integration workflows using MuleSoft ESB
+- Worked with integrations using connectors such as Sale force, Database, JMS, Active MQ. HTTP, FTP, SFTP and File Connectors Participate in creating HTTP inbound & outbound flows and orchestration using XPath using MULE ESB
+
+Used Cloud Hub console to monitor the request and response payload
+
+Create cluster environment using Mule ESB with Mule Any Point Studio and Creating Active MQ with different topologies in Enterprise
+Integration
+
+Configure the Mule process for fetching the data from topic and makes web service calls to the middle tier Mule ESB for processing and
+put the data on the Cloud hub
+
+Implement data transformation using XPATH, XSLT, Data Weave, Custom java classes
+
+Used Bitbucket and GIT repository to run the Jenkins job for Continues Integration
+
+Create and consume SOAP and REST services using CXF and used Anypoint Studio to route various validating the Fine-grained security
+
+based on the API consumer for generating token for invoking services
+
+Used with transformers, exception handling, testing & Security of Mule ESB endpoint through OAuth
+
+Use Mule ESB connectors- SFDC, Message Transformer, Choice Exception Strategies, Batch processing etc
+
+In designing the application as a middleware between the third-party system and the customer side system
+
+Follow agile methodology and Scrum and was involved in application design and participated in technical meetings, Effort estimations,
+backlog grooming etc
+
+Design, develop, test, maintain and implement application integration system enhancements working with in established processes
+Environment: MuleSoft ESB 3.9/ 4.1, JAVA, ActiveMQ, RAML, Nexus, Apache-Maven, Cloud Hub, Nexus 2.11.4 (Nexus Maven
+Repository), Bit Bucket, XML, XSLT, LDAP, MS SQL, Log4J, Git, Web Services, Jenkins, Anypoint Studio 6.5/7.5
+
+API Developer, 01/2018 - 10/2020 Leidos Holdings Inc. - Minneapolis, MN
+- Architected Integrations using Mule ESB environments for both on premise and CloudHub environments
+
+Used MMC (mule management console to monitor the request and response payload) Have written MUnit test cases to validate Mule flows
+
+Used ANT scripts to build the application and deployed on Oracle WebLogic Server and implemented WebLogic cluster and Node
+manager Implement the application using spring modules includes IOC, AOP, Batch and MVC
+
+Actively involved in designing and implementing Business Delegate, Data Access Object, and Session Facade and Data Transfer Object
+design patterns
+
+Design and develop Message driven architectures that consumed the JMS messages from the Java message queue and process the database
+updating and conversion
+
+Design and implement the application in Agile - methodologies
+
+Develop middle tier business logic using Spring based transaction managers
+
+Used Log4Jto capture the log that includes runtime exceptions, monitored error logs and fixed the problems
+Used SVN the version control tool for code commit and update
+
+Used Auto wired POJO and DAO classes with Spring Controllers and services
+
+Used Mule Flows with Data Mapper to customize XML to CSV mapping conversion
+
+Developing and securing CXF web services in Mule ESB
+
+Used Angular JS as development framework to build Single Page Application (SPA)
+
+Handled the back-end operations using SQL, PL/SQL, Stored procedures, triggers and developed the persistence structure using ORM
+based Hibernate
+
+Used Mule ESB for routing, filtering and aggregate message between application based on content and rules
+
+Setting up Mule ESB for the development environment
+
+Create MULE ESB artifact and configured the MULE configurations files and deployed
+
+Implemented Web Services using SOAP protocol, UDDI, WSDL and Service Oriented Architecture (SOA) Concept
+
+Design and development of user Interfaces using JSP, HTML, CSS, JavaScript and AJAX
+
+Developed SQL Queries using Toad for Oracle
+
+Develop Mule ESB projects for the services with synchronous and asynchronous Mule flows
+
+Environment: Mule ESB 3.0.x/ 3.8.x, Anypoint Studio 5.0, Cloud hub, Putty, Apache-Maven, FileZilla, Nexus, RAML, MUnit, API,
+AJAX, XML, JAXP, JAXB, JSP, HTML, CSS, SQL, JUnit, PL/SQL, JavaScript, Web logic, Oracle, MDB, SOAP UI, SVN, Windows
+XP & Linux, Java 1.6, Spring, Hibernate, Web Services.
+
+Python Developer, 04/2016 - 12/2017 Novogradac & Co. Lip - Columbus, OH
+Design and developed Use-Cases, Classes and Object Diagrams using UML Rational Rose for Object Oriented Design techniques
+
+Participate in develop the REST Web services to expose the business methods to external services in the project
+
+Responsible for gathering requirements, system analysis, design, development, testing and deployment
+Develop user interface using CSS, PHP, HTML, JavaScript and JQuery
+
+Write Python modules to extract/load asset data from the MySQL source database
+
+Work on front end frame works like CSS, Bootstrap for development of Web application
+
+Create a Git repository and added the project to GitHub
+
+Design and implemented a dedicated MySQL database server to drive the web apps and report on daily progress
+
+Create views and templates with Python and Django's view controller and templating language to create a user-friendly website interface
+Used Punit, the Python unit test framework, for all Python applications
+- Collaborate with internal teams and external teams to solve the issues and giving feedbacks
+
+- Document the problems and progress of project most accurately
+
+- Collaborate with team during testing of data warehouses Environment: Python, MySQL, REST Web Services, JavaScript, Eclipse, Linux, Shell Scripting, JQuery, GitHub, JIRA, GIT, Django, HTMLS/CSS.
+
+EDUCATION
+---------
+
+BSc.: Computer Science Sample University
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

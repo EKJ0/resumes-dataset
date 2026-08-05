@@ -1,0 +1,190 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 ‘2 (555) 432-1XXX 4 resumesample@example.com
+
+- Good Integration solution experience with Mule ESB and Object - oriented concepts with complete software development life cycle experience - Requirements gathering, Conceptual Design, Analysis, and Detail design Development, System and User Acceptance Testing.
+
+- Experience in database development skill using Oracle 8i/10g, MySQL and hands on experience with SQL, PL/SQL.
+
+- Experience in writing Ant build and Maven Build script build/compile/deploy the code using ANT and Maven script in mixed Solaris/HP-UX/WIN environment.
+
+- Experience with Enterprise Application Integration (EAI), interconnecting applications and services using Mule Message building blocks implementing content-based message routing, filters, and exception handling.
+
+- Good knowledge of Service-Oriented Architecture ( SOA ) concepts, SOAP and REST based web services Good experience in MuleSoft Anypoint Platform - 3.7.x, 3.8.x, 4.x versions, Mule MMC, IPAAS (CloubHub) and devkit.
+
+- Good experience in Mulesoft installation and configuration on AWS, Azure and on premise Linux servers.
+
+- Good experience in Software Architecture, design with UML & Knowledge of Design Patterns Experience in modelling & building RAML based APIs for retail customers using Anypoint Platform.
+
+- Strong design skills in Java/J2EE, spring Batch, spring MVC, DB design, Enterprise Integration and Messaging.
+
+- Conceptual innovative problem solver with excellent organizational and communication skills.
+
+- Willingness and ability to quickly adapt to new environments and learn new technologies.
+
+- Good experience in setting up automated build and deployment process with CICD tools; Jenkins, Maven, Nexus and repository.
+
+- Quick learner and up-to-date with industry trends.
+
+excellent written and oral communications and team player.
+
+- Excellent customer relations and people management skills.
+
+- Ability to work independently and well-organized.
+
+Integration: Mule 3.7, Mule 3.9 and 4.3 runtime, J2ee Technologies: Java EE, JSP. Serviet, EJB,
+CloudHub. JDBC, JNDI, JSTL, JPA
+
+Languages: Java 6 and 7, XSLT, python, ruby, Web Service: XML, JSON, XSLT, XSD, SOAP. REST
+dataweave Tools & Utilities: Jenkins, Maven, Nexus, Git, SVN
+
+Databases: Oracle 9i/10g, MongoDB 2.6, MS SQL Platform: Windows, Linux, MacOS
+Server 2008, MySQL 5/6, PostgreSQL 8/9
+
+Servers: Apache Tomcat 5/6/7, Apache HTTP Server
+
+2.x, JBoss 5.x
+
+MULESOFTI/API DEVELOPER 07/2021 to CURRENT Peraton | Windsor Mill, MD
+
+- Participate in gathering requirement, conduct client meetings, create documents (BRD, HLD, LLD)
+
+- Coordinate with program managers, Business analyst, and QA engineer to achieve project desired output
+
+- Create an Integration Component with third party system and implement message reprocessing strategies to achieve minimal message loss
+
+- Create RESTful API interface with RAML and applied best practices such as; Traits, ResourceType, Libray and Fragments
+
+- Create Maven Archetypes for generating fully functional REST web service supporting both XML and JSON Message transformation
+
+e« Create SOAP and REST web services Producer, and consumer from source to target systems
+
+- Create Mule flows using various Transformers, Filters, Flow Control, VM Connection, Collection splitters, Aggregators, Scatter- Gather etc
+
+- Configure exception handling strategies such as Global Exception Handler, OnError-Continue Exception Strategies and OnError-Propagate
+
+- Co-ordinate with testing and back-end teams, client during the smoke tests and reggression tests
+
+- Configure mule flows (synchronous and asynchronous) that connects with various systems
+
+- Integrate Mule runtime with Splunk log aggregator, Okta - identity provider
+
+- Used Mule ESB connectors- SFDC, Message Transformer, Choice Exception Strategies, Batch processing, etc
+
+- Create MUnit test cases to validate the Mule flows
+
+- Integrate flows with database using PL/SQL by configure JDBC driver on database connector
+
+- Participate in 24X7 production support effort after application go-live
+
+Environment - Okta, Jenkins, Anypoint Studio 6.x and 7.x, AWS, $3, EC2, Mule version 4.x and 3.x,
+Mule Management Console, RAML, ActiveMQ, Anypoint MQ, Maven, Nexus
+
+M(LESOFT DEVELOPER 02/2018 to 06/2021 Crst International | Cambridge, OH
+
+- Identify, analyze and develop interfaces and integration flows using Mule ESB
+- Leverage Confluence to catpure various documents and Jira to manage tasks and issues as part of Agile/Scrum methodologies
+- Create flow to expose, consume Restful Web services
+- Create RAML to defaine Restful API interface and publish to exchange for sharing resources and specification
+- Import RAML to anypoint studio to realize flow and build transformation logic
+- Use Mule Connectors such as Http, File, SFTP. FTP. Database, VM.JMS, Web Service Consumer
+- Automate build and deployment both onpremise and cloudhub
+- Create API interface using RAML, and migrate existing Swagger document to RAML 1.0
+- Migrate RAML 0.8 to RAML 1.0 and Dataweave 1.0 to DataWeave 2.0
+- Create flow to interact with Oracle database and done complex queries
+- Create mule applications using API Led connectivity using XAPI, PAPI and SAPI
+- Leverage best practices to create RAML and Mule applications
+- Create MUNIT to mock backend, verify call to connector, and assert response payload
+- Leverage APIM to create and apply policies such as OAuth2.0, XML/JSON threat protection, IP Whitelist and etc
+- Configure Bitbucket as a version and source controlling tool, used Jenkins as a continuous integration tool and deployed the application on Premise as well as on CloudHub Environment - RAML, JDBC Connector, Files, FTP, SFTP, Actv MQ, Dataweave, Selector Expressions, Xpath, DataMapper, JAXB, Postman, Exception Handling, MMC, MUnit, CloudHub, Agile, OAuth, SOAP, REST, Jenkins, Maven, SalesForce (SFDC), Git Hub.
+
+SCO TWARE ENGINEER 08/2016 to 01/2018 Novogradac & Co. Lip | Andover, MA
+
+- Participate in the development using JAVA/J2EE Technologies, Web services, Spring, Hibernate Framework
+
+- Implement RESTFUL based web services
+
+- Used the Hibernate for data base Connectivity
+
+- Design the user interface of the application using JSP
+
+- Participate in web Ul pages using JSP, JSTL, CSS, HTML, XML, XSL, XSLT, JavaScript
+
+- Implement front-end validations with JavaScript, Angular Js, Node Js
+
+- Implement application using Spring, Web Services (SOAP and RESTFUL)
+
+- Built web-based applications using Spring MVC 3.0 Architecture
+
+- Used Spring Core for concept Inversion of control (IOC) implemented using dependency injection
+
+- Implement Controller, Model and View components on MVC 2 architecture based application
+
+- Experience in unit testing the applications using Junit Framework and developed logging and standard
+
+mechanism based on Log4J
+
+- Used the Java Collections API extensively in the application
+
+- Implement Documents using MS Office, Excel and Power point
+
+- Expose Stateless session beans as Restful web services using Jersey JAX-RS
+
+- Design, develop, implement, and maintain custom Ant tasks in Java
+
+- Execute unit test with junit and integration with SOAPUi and POSTMAN Environment: JAVA/J2EE, JSP, Serviets, Spring, Struts, Hibernate, Web services, SOUP, REST, JAX- RS, Tomcat, Java Script, Oracle, Log4j, XML, HTML, CSS, UNIX, ANT, WSDL, SOAP, AJAX, Agile.
+
+PYOHON DEVELOPER 11/2014 to 07/2016 Gap | City, STATE
+
+- Used UML Rational Rose to develop Use-case, Class and Object diagrams for OOA/OOD techniques
+
+- Built database model, Views and API's using Python for interactive web based solutions
+
+- Placed data into JSON files using Python to test Django websites
+
+- Used Python scripts to update the content in database and manipulate files
+
+- Developed web based application using Django framework with python concepts
+
+- Generated Python Django forms to maintain the record of online users
+
+- Used Django API's to access the database
+
+- Involved in Python OOD code for quality, logging, monitoring, and debugging code optimization
+
+- - Skilled in using Collections in Python for manipulating and looping through different user defined
+
+objects
+
+- Wrote Python modules to view and connect the Apache Cassandra instance
+
+- Created Unit test/ regression test framework for working/new code
+
+- Installed and maintained web servers Tomcat and Apache HTTP in UNIX
+
+- Utilized standard Python modules such as CSV, itertools and pickle for development
+
+- Developed efficient Angular js for client web based application
+
+- Responsible for designing, developing, testing, deploying and maintaining the web application Environment: Python 2.7,3.3, Django 1.4, HTML, CSS, AJAX, Tomcat, Apache HTTP, Angular.js, JSON, Restful, XML, JavaScript, OOD, Shell Scripting, GIT Hub, MYSQL, Cassandra, JIRA.
+
+BSc. | Computer Science Sample University
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

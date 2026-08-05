@@ -1,0 +1,190 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+Knowledgeable Software Developer offering 20 years leading cross-functional teams and completing projects
+on-time. Seamlessly manages workloads and meets challenging deadlines and quality benchmarks. Strong
+understanding of common web technologies, languages and frameworks.
+
+Knowledgeable Tutor with in-depth knowledge of C++, JavaScript, Core Java, J2ee.. Skillful in developing,
+optimizing and reworking systems to meet specific customer requirements. Expertise in writing codes in
+various languages, developing flowcharts and layouts and integrating software components.
+Unconventional Programmer Analyst valued for driving consistency and quality throughout all phases of
+software development projects. Committed to producing high-quality, user-friendly, scalable and bug-free
+software. Skilled with data structures. object-oriented concepts and design patterns.
+
+Software Developer skilled at application development, testing and optimization. Excels at coordinating
+ground-up planning, programming and implementation for core modules. Maintains strong object-oriented
+and software architecture fundamentals.
+
+- Agile development methodologies « Agile
+
+- Interface design and implementation e¢ SQL expert
+
+- Advanced knowledge of embedded systems e ASP Dot Net
+
+- Customer-oriented e Java
+
+- JavaScript expert e J2ee
+
+- Requirements analysis and design phases e Java Script,
+
+- Certified Application Developer © C, C++, C#
+
+- Project management e = Proficient in HTML
+
+- Application development ¢ Visual Studio 9
+
+- Analytical e Visual Studio 7
+SOFTWARE DEVELOPER 01/2013 to 12/2015
+
+Sangoma Technologies Corporation | Huntsville, AL
+
+- Conducted full life-cycle software development in multiple software environments.
+
+- Logged and implemented development tasks based on system requirements and documented approaches.
+
+- Developed production, test and beta websites using various software programs.
+
+- Collaborated with product and engineering team members to define and develop new product concepts.
+
+- Recommended and executed plans to improve development tools and processes.
+
+- Implemented and tested enhancement feature requests to improve product functionality and extend performance.
+
+- Coordinated with engineering teams to assess and optimize hardware and software interfaces.
+
+- Contributed back-end development experience and collaborated on multiple APIs crucial to functionality.
+
+- Collected and defined customer requirements to produce product scopes.
+
+- Instrumented and modified unit and integration tests to improve software quality and reliability.
+
+- Drafted whitepapers, user manuals, implementation documentation and support base entries to reduce customer tickets and customer service expenses and enable support team to solve customer queries effectively.
+
+- Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+
+- Created technical workflows in wiki to support education and training of newly hired employees.
+
+- Collaborated with agile development team to test, develop and maintain web and desktop-based software applications.
+
+- Developed scripts for index and table analysis actions.
+
+PROGRAMMER ANALY ST TRAINEE 06/2013 to 10/2014 Stevens Industries, Inc. | Akron, OH
+
+- Performed tests and carefully reviewed work to verify quality.
+
+- Uncovered system issues by troubleshooting hardware and testing code at project intervals.
+
+- Configured devices and components according to project specifications and performed routine maintenance.
+
+- Developed logic flowcharts and diagrams to use in program coding workflow planning.
+
+- Resolved customer issues by establishing workarounds and solutions to debug and create defect fixes.
+
+- Engineered and maintained intuitive application suitable for end users.
+
+- Designed and implemented solutions by examining customer needs.
+
+- Coordinated installation of software systems and collaborated with user experience team on design and implementation of new features.
+
+- Leveraged multiple programming languages to develop applications for various platforms.
+
+- Logged and implemented development tasks based on system requirements and documented approaches.
+
+- Designed software configuration to meet multiple website system hosting requirements.
+
+- Drafted whitepapers, user manuals, implementation documentation and support base entries to reduce customer tickets and customer service expenses and enable support team to solve customer queries effectively.
+
+- Troubleshot malfunctions with systems and programs to pinpoint root cause of issues and restore.
+
+- Documented all programs, including details regarding development, revisions and alterations.
+
+- Assessed program risks by reviewing plans and analyzing available data.
+
+- Met with and collaborated with clients in discussion sessions so that all parties were aware of project specifications pertaining to applications, databases and systems.
+
+- Performed functional, non-functional, regression and performance tests for updated systems.
+
+- Mentored newly hired employees, prepared for project tasks, and trained on unfamiliar systems.
+
+- Recommended and executed plans to improve development tools and processes.
+
+- Implemented and tested enhancement feature requests to improve product functionality and extend performance.
+
+- Developed production, test and beta websites using various software programs.
+
+- Participated in team-oriented environments, working cohesively and successfully on multiple projects.
+
+PROGRAMMER 10/2011 to 02/2013 Akron Public Schools | City, STATE
+
+- Prepared detailed analyses, plans, diagrams and verification procedures for existing and proposed computer applications.
+
+- Identified areas of applications for regression testing following software updates, system changes or functionality changes to avoid unnecessary downtime and recoding.
+
+- Conducted technical reviews and trade-off studies to identify purpose, audience and scope.
+
+- Refactored legacy code to drive system architecture improvement.
+
+- Coordinated with project managers across multiple initiatives to align development timelines, plan testing and work with client representatives.
+
+- Executed scripts to communicate with back-end servers and provide real-time updates.
+
+- Led working groups to develop mitigation strategies and prepare standard operating procedures.
+
+- Implemented unit and integration testing protocols to consistently deliver high quality, functional features with minimal defects.
+
+- Delivered software solutions consistent with product roadmap, release plan milestones and key performance indicators.
+
+- Created proof-of-concept prototype applications for demonstration and evaluation purposes.
+
+- Coded user-customizable applications to convert raw data from design engine to graphical formats.
+
+- Collected information by meeting with database architects and administrators to determine client system limitations for capacity and load for data processing projects.
+
+- Trained system operators, data entry and user personnel to support operations.
+
+- Collaborated with business analysts to understand project requirements, customer expectations and timelines.
+
+- Implemented system security and data assurance software.
+
+- Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing and final implementation.
+
+TUCOR 05/2008 to 08/2010 CSC Center | City, State
+- Helped students with software programming knowledge such as C, C++, Java, J2ee as well as general abilities in learning, studying and retaining information.
+- Tutored the students to code programming languages C, C++, Java, J2ee scripts.
+- Helped Students to troubleshoot, debug the errors in programming language.
+- Developed their knowledge to improve the code by themselves.
+- Tutored them in detail of each programming Language.
+- Tutored them the basic programming knowledge to create their own programming codes for their school
+project and 100% got successful
+- Developed training materials, such as handouts, study materials and quizzes.
+- Identified and removed obstacles keeping students from learning, helping to effectively complete homework tasks on time.
+- Conducted quarterly assessments to determine progress and establish updated learning goals.
+- Stayed informed about new resources and learning strategies as well as detailed information about tutoring subjects.
+
+Master of Science | Computer Software Application 04/2014 Anna Adarsh College For Women, Chennai
+
+Bzohelor of Arts | Accounting And Computer Science 04/2011 Anna Adarsh College For Women, Chennai, India
+
+GED 03/2008 Vijantha Model Higher Secondary School, Chennai, India
+
+Hig) School Diploma 04/2006 Velammal Matric High School, Chennai, India
+
+ErQy Level Programmer | Computer Programming, Specific Applications 04/2006 Apollo Career Center , Chennai, India
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

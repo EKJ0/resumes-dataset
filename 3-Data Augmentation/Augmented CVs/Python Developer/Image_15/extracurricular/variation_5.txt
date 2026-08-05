@@ -1,0 +1,60 @@
+Robert Smith
+
+Python Developer
+
+PERSONAL STATEMENT
+
+Good experience of software developrnent in Python and IDEs - subline text, PyCharm. Experience in Python, Robot Framework. Technical
+experience in supporting applications which use an object-oriented programrning language (Java). Experience in using Pandas python libraries
+during development lifecycle. Excellent experience with Python developrnent under Linux OS (Ubuntu), Experienced in writing SQL
+Queries, Stored procedures, functions, packages, tables, views, triggers.
+
+WORK EXPERIENCE
+---------------
+
+Python Developer
+Varite Inc- April 2014 - Present Re sponsibilities- = Involve inthe developmentof the application using Python 3. 3, HTMLS,
+CSS3, AJAX, |Son and JQuery.
+= Developed the applications using DJANGO 1, 7 MTV framework which Is based on model ternplate view design pattern.
+= Extensively used DJANGO technologies, which includes forms, ternplates and orm for communication with database in different forms.
+= Extensively used interceptors, validators, actions using DJANGOL, 7 framework.
+- Used perforce version control system and Python Tools for Visual Studio(PTVS) IDE. = Create and write result reports In different formats like txt, csv, xls, and JSon. = Worked on CSV files while trying to get input from the MySQL database,
+
+Python Developer
+ABC Corporation- 2010 - 2014 Responsibilities:
+
+= Wrote python scripts to parse xrnl docurnents and load the data in the database,
+
+= Used pandas api to put the data as time series and tabular format for east timestamp data manipulation and retrieval.
+
+- Was involved inthe environment, code installation as well as the svn implementation,
+
+- Cleaned data and processed third-party spending data Into maneuverable deliverables within specific formats with excel macros and python libraries.
+
+- Ensured high quality data collection and maintaining the integrity of the data.
+
+- Collaborated with internal tears to convert end user feedback Into meaningful and improved solutions,
+
+- This project also used other technologies like jquery for javascript manipulations, bootstrap for the front-end htm! layout.
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marshwille Road, Alabarna
+
+(123)-456-7899
+info@qwikresume.com
+
+DJANGO, HTML, JQuery, MYSQL, PYTHON
+
+English (Native) French (Professional) Spanish (Professional)
+
+INTERESTS
+--------- Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

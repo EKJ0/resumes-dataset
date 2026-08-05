@@ -1,0 +1,66 @@
+Robert Smith
+
+Jr. Python Developer
+
+PERSONAL STATEMENT
+
+Looking for a suitable position with a company where outstanding performance is recognized and rewarded and where he can work ona
+variety of high profile web back end projects,
+
+WORK EXPERIENCE
+---------------
+
+Jr. Python Developer
+Gokiman Sachs- December 2016 - Present Responsibilities:
+
+= Developed views and templates with django view controller and template language to create a user-friendly website interface.
+
+= Implemented user interface guidelines and standards throughout the developrnent and maintenance of the website using the HTML, CSS,
+JavaScript and jQuery.
+
+= Created APIS, database model and views utilization python in order to build responsive web page application,
+
+= Implemented user interface guidelines and standards throughout the developrnent and maintenance of the website using the HTML5, CSS3,
+JavaScript, JQuery and Angular JS
+
+= Developed views and templates with Python and Djangos view controller and templating language to create a user-friendly website
+interface.
+
+= Worked on rest API calls and integration with Ul. Used Angular JS to develop the component to the application tearn, Spring MVC to
+consume rest APIS and used JavaScript, CSS3 and JQuery to display the data in front end,
+
+= Developed views and ternplates In Django to create a user-friendly website interface.
+
+Python Developer
+ABC Corp- 2014-2016 Responsibilities:
+= Wrote python scripts to parse xrnl docurnents and load the data in the database, = Used pandas api to put the data as time series and tabular format for
+east timestamp data manipulation and retrieval.
+- Was involved inthe environment, code Installation as well as the svn implementation,
+- Cleaned data and processed third-party spending data Into maneuverable deliverables within specific formats with excel macros and python libraries.
+
+= Ensured high quality data collection and maintaining the integrity of the
+
+data.
+
+- Collaborated with internal tears to convert end user feedback Into meaningful and improved solutions,
+
+- This project also used other technologies like jquery for javascript
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+1737 Marshville Road, Alabama
+(123)-456-7899 info@qwikresume,.com
+www.qwikresume.com
+
+HTML, JAVASCRIPT, JQuery, PYTHON,
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

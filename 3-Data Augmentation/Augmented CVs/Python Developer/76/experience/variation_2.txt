@@ -1,0 +1,248 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing sales professional with track record of
+
+driving increased sales, improving buying experience and elevating company profile with target market.
+
+SKILLS
+------
+- SKILLS e Standards
+- Software Documentation e JS Frameworks: React, Angular,
+- Control ° Vue
+- API Design and Integration © Object-Oriented Programming
+- RDMS Development- SQL e (OOP)
+- Server, MySQL e Databases: Oracle, MongoDB
+- Data Storage and Retrieval e Mule ESB
+- Web Services e Jira
+- Java © Git/GitLab/GitHub
+- SOAP © Deployment
+- XML « IMS
+- Maven e Any point
+- Jenkins ¢ Boomi
+- REST © CloudHub
+- Munit ¢ HTTP
+- CI'CD © DevOps
+- Apache poi e JDBC
+- Salesforce © Tools:
+- Software Development © MS SQL Server 2005/2008, MS-Excel, DTS, Visual Studio 2008, SQL profiler
+
+WORK EXPERIENCE
+---------------
+
+MuleSoft Developer, 03/2021 - Current Wipro Ltd. - Boston, MA
+
+Create MULE ESB artifact and configured the MULE configuration files and deployed
+
+Automate build and deployment package tool using Maven and build the code in Jenkins
+
+Create RAML based REST web services API's using Mule ESB
+
+Add the nexus repository details in pom.xml to import the all dependencies when Jenkins build the application and deploy the application
+in to cloud hub
+
+Write MUnit test cases to validate the Mule flows
+
+Create the integration workflows using MuleSoft ESB
+
+Worked with integrations using connectors such as Sale force.
+
+Database, JMS, Active MQ, HTTP, FTP, SFTP and File Connectors
+
+Participate in creating HTTP inbound & outbound flows and orchestration using XPath using MULE ESB
+
+Used Cloud Hub console to monitor the request and response payload
+
+Create cluster environment using Mule ESB with Mule Any Point Studio and Creating Active MQ with different topologies in Enterprise
+Integration
+
+Configure the Mule process for fetching the data from topic and makes web service calls to the middle tier Mule ESB for processing and
+put the data on the Cloud hub
+
+Implement data transformation using XPATH, XSLT, Data Weave,
+
+Custom java classes
+
+Used Bitbucket and GIT repository to run the Jenkins job for Continues
+
+Integration
+
+Create and consume SOAP and REST services using CXF and used
+
+Anypoint Studio to route various validating the Fine-grained security based on the API consumer for generating token for invoking
+services
+
+Used with transformers, exception handling, testing & Security of Mule
+
+ESB endpoint through OAuth
+
+Use Mule ESB connectors- SFDC, Message Transformer, Choice
+
+Exception Strategies, Batch processing etc
+
+In designing the application as a middleware between the third-party system and the customer side system
+
+Follow agile methodology and Scrum and was involved in application design and participated in technical meetings, Effort estimations,
+backlog grooming etc
+
+Design, develop, test, maintain and implement application integration system enhancements working with in established processes
+Environment: MuleSoft ESB 3.9/ 4.1, JAVA, ActiveMQ, RAML, Nexus, Apache-
+
+Maven, Cloud Hub, Nexus 2.11.4 (Nexus Maven Repository), Bit Bucket, XML,
+
+XSLT, LDAP, MS SQL, Log4J, Git, Web Services, Jenkins, Anypoint Studio 6.5/7.5.
+
+API Developer, 09/2018 - 02/2021 Leidos Holdings Inc. - North Chicago, IL
+
+Architected Integrations using Mule ESB environments for both on premise and CloudHub environments
+Used MMC (mule management console to monitor the request and response payload)
+
+Have written MUnit test cases to validate Mule flows
+
+Used ANT scripts to build the application and deployed on Oracle
+
+WebLogic Server and implemented WebLogic cluster and Node manager
+
+Implement the application using spring modules includes IOC, AOP.
+
+Batch and MVC
+
+Actively involved in designing and implementing Business Delegate,
+
+Data Access Object, and Session Facade and Data Transfer Object design patterns
+
+Design and develop Message driven architectures that consumed the
+
+JMS messages from the Java message queue and process the database updating and conversion
+
+Design and implement the application in Agile - methodologies
+
+Develop middle tier business logic using Spring based transaction managers
+
+Used Log4Jto capture the log that includes runtime exceptions, monitored error logs and fixed the problems
+Used SVN the version control tool for code commits and update
+
+Used Auto wired POJO and DAO classes with Spring Controllers and services
+
+Used Mule Flows with Data Mapper to customize XML to CSV mapping conversion
+
+Developing and securing CXF web services in Mule ESB
+
+Used Angular JS as development framework to build Single Page
+
+Application (SPA)
+
+Handled the back-end operations using SQL, PL/SQL. Stored procedures, triggers and developed the persistence structure using
+ORM based Hibernate
+
+Used Mule ESB for routing, filtering and aggregate message between application based on content and rules
+Setting up Mule ESB for the development environment
+
+Create MULE ESB artifact and configured the MULE configurations files and deployed
+
+Implemented Web Services using SOAP protocol, UDDI, WSDL and
+
+Service Oriented Architecture (SOA) Concept
+
+Design and development of user Interfaces using JSP, HTML, CSS,
+
+JavaScript and AJAX
+
+Developed SQL Queries using Toad for Oracle
+
+Develop Mule ESB projects for the services with synchronous and asynchronous Mule flows Environment: Mule ESB 3.0.x/ 3.8.x, Anypoint Studio 5.0, Cloud hub, Putty,
+
+Apache-Maven, FileZilla, Nexus, RAML, MUnit, API, AJAX, XML, JAXP, JAXB,
+
+JSP. HTML, CSS, SQL, JUnit, PL/SQL, JavaScript, Web logic, Oracle, MDB, SOAP
+
+UI, SVN, Windows XP & Linux, Java 1.6, Spring, Hibernate, Web Services.
+
+Python Developer, 05/2016 - 08/2018 General Dynamics - Towson, MD
+
+Design and developed Use-Cases, Classes and Object Diagrams using
+
+UML Rational Rose for Object Oriented Design techniques
+
+Participate in develop the REST Web services to expose the business methods to external services in the project
+Responsible for gathering requirements, system analysis, design, development, testing and deployment
+
+Develop user interface using CSS, PHP, HTML, JavaScript and JQuery
+
+Write Python modules to extract/load asset data from the MySQL source database
+
+Work on front end frame works like CSS, Bootstrap for development of
+
+Web application
+
+Create a Git repository and added the project to GitHub
+
+Design and implemented a dedicated MySQL database server to drive the web apps and report on daily progress
+Create views and templates with Python and Django's view controller and templating language to create a user-friendly website interface
+Used Punit, the Python unit test framework, for all Python applications
+
+Collaborate with internal teams and external teams to solve the issues and giving feedbacks
+
+Document the problems and progress of project most accurately
+
+Collaborate with team during testing of data warehouses
+
+Environment: Python. MySQL, REST Web Services, JavaScript, Eclipse, Linux,
+
+Shell Scripting, JQuery, GitHub, JIRA, GIT, Django, HTML5/CSS.
+
+SQL Developer, 02/2015 - 04/2016 Louisiana State University - Baton Rouge, LA
+
+Responsible for all the servers which are running on a SQL platform (SQL
+
+Server 2005/ 2008)
+
+Setup multiple Nodes (Active/ Passive) in SQL Servers to add the clustering feature
+
+Managed SQL Server databases and Configure failover cluster
+
+Plan and modify SQL Server Permissions in quarterly basis
+
+Create databases and schedule backups (Transaction log backup,
+
+Differential backup and Full backup) with Recovery sessions (Simple or
+
+Full)
+
+Setup and maintain Replication for Production servers to provide high availability and monitor using Replication Monitor
+Setup Alerts, Notifications, Jobs, Job steps with automated Response solution schedules
+
+Frequently Monitor Connections, Locks and Database Performance
+
+Reviewed and optimized SQL queries, CDC, stored procedures, functions, Indexes, views and triggers
+
+Created an internal secured website linking to the database that includes updated information about all Target SQL Servers information.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Computer Science AAU
+
+Certification-MuleSoft Certified Developer V4 -Active
+
+ADDITIONAL INFORMATION
+
+7+ years of experience in designing, developing and testing middleware applications using WebSphere Message Broker, WebSphere MQ,
+DataPower and MuleSoft ESB. 4+ years of experience in application integration using Mule ESB, CloudHub, Anypoint Studio, Anypoint
+Platform. Huge experience in using Mule Soft Studio that integrates APIs, databases and SaaS applications and deployed Mule Soft
+applications to Cloud Hub and on-premise servers. Utilize MuleSoft features like Data Weave, API designer and various connectors to
+ensure robust and loosely coupled integration layer every time. Good experience in XML technologies like XSD, XSLT, XQuery, and
+Xpath for data transformations in MuleSoft. Good experience in securing middleware infrastructure (SAML, OAUTH, and LDAP). Good
+experience in using ActiveMQ, AWS suite for Asynchronous message queuing for guaranteed dJessicavery pattern. Develop message
+flows and implement data transformation using XSLT, ESQL and Java. Create XSD and WSDLS for implementing web services in
+Message broker. Proficient in automated deployment using Jenkin, GIT/SVN/CVS, Artifactory. Experience in RESTFUL client to interact
+with the services by the RESTFUL URL mapping. Proficient both in Agile and Water fall software development methodologies. Proficient
+in creating reusable shell scripts, Python and Ruby scripts. In-depth understanding of Data Structures and Algorithms. Responsible for all
+aspects of development including Performance Tuning, Fault Tolerance, Upgrades and Deployment of Middleware infrastructure. Excellent
+understanding of full Software Development Life Cycle. Good experience in monitoring application and troubleshooting production issues.
+Excellent communication skills and motivated organized team player with high aptitude for learning and implementing.

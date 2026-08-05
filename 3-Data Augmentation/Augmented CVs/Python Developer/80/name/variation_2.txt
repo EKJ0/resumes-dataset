@@ -1,0 +1,281 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+Greg Baker
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Certified Python Programmer Tibco Spotfire Architect/Engineer with extensive years of RDBMS programming
+covering all aspects of back-end processes - relational data model, dimensional data model, OLTP, OLAP.
+Cubes, SQL/ETL and testing. Strong understanding of Spotfire API, IronPython/Python scripting, TERR/R
+programming, C#/.NET SDK extensions. Great professional attitude and communication skills with efficiency in
+SDLC methodologies - Agile, RUP applied with team-player mentality. Strong ability to use Tibco Spottfire
+architectural components - Web Player Server, Spotfire Server, Information Designer, Library Administration,
+Administration Manager, Spotfire database, In-memory/In-db storage.
+
+- Note
+
+- lronPython/Python scripting
+
+- over Spotfire API
+
+- Dynamic visuals, d3.js visuals, User interactions, Web services (RESTtul services), File I/O, Dynamic images, Text Area dynamism, RDBMS operations, Custom python modules, Tagging Analysis, Color customization, Dynamic data tables, Algorithms, Guided-analysis, Data security, Parameterized-script analysis, Log- monitoring, Data manipulation, DXP state
+
+manipulation
+
+- Ability to innovate and improvise new designs techniques.
+
+- Spotfire
+
+- TERR-platforn/R programming
+
+- TERR Data Functions, Expression Functions, RStudio
+
+- Ability to use R-scripts for analytics.
+
+- DataWarehouse
+
+- Conceptual, Logical and Physical Data Models Entity/Attribute Relationships (Cardinality/ Optionality) and Dependencies OLTP and OLAP
+
+- Staging and ODS Maintenance
+
+- Relational Model and Normalization
+
+- Analytical SQL, Programming SQL
+
+- Ability to work in design, data quality, maintenance aspects of a DataWarehouse.
+
+- Tibco Spotfire Core Techniques
+
+- On-Demand Load, Custom Expressions/ Calculated Columns Dynamic Visualizations, Information Links
+
+- User/Group Administration
+
+- Application Profiler
+
+- Document/DataTable/Column Properties
+
+- Data Functions
+
+- |ronPython Scripting and SDK Customization
+
+- Geo-Analysis (Geo-Coding and Coordinate Matrix Systems)
+
+- HTML, CSS, JAVASCRIPT and d3js visuals
+
+- Ability to create appealing
+
+- Visualizations and DXP's
+
+- Programming
+
+- Object-orientation (JAVA/C#)
+
+- - Scripting (Python, R)
+
+- RDBMS (SQL, Programming SQL)
+
+- Ability to work with various
+
+- programming concepts. Statistical Tools:
+
+- R, Python, Tibco Spottire
+
+- Database:
+
+- Oracle | SQL Server | Teradata | MS Access | Hadoop/HDFS | NoSQL (HBase)
+
+- Operating Systems:
+
+- UNIX WINDOWS XP/1998/2000/7 HTML | CSS | JAVAScript | J2EE JAVA | REST API
+
+- Programs:
+
+- Microsoft Office Suite (Word, Excel, PowerPoint, Access and Outlook), MS Visio
+
+TIBCO SPOTFIRE DEVELOPER 05/2015 to CURRENT Vmly&R | Hoboken, NJ
+
+- The project was on clinical data trials data captured via EDC (Electronic Data Capture).
+
+- Batch processing via Oracle Clinical engine and analysis via Tibco Spotfire platform and Tableau reporting were the key features of the project.
+
+- Database locks for interims, last data generated, patient visits were some of the key data attributes.
+
+- Python, JAVA, SQL and R were the key environment also including Oracle, Informatica, DB2, DB Visualizer, MS Excel, XML, Agile, Macros VBA, Business Objects, MS Office Suite, MS SharePoint, Mainframe Technology, AutoSys, and SAS files.
+
+- Created BI specifications for clinical trials database lock metrics - LDG (last data generated), FPLV (first patient last visits), Interim database locks, Interim Data Cut Offs and more.
+
+- Created Job file (in XML module) to automate the reporting tasks.
+
+- Reviewed EDC (Electronic Data Capture) process of gathering clinical trials data.
+
+- Created Information Links with prompts, on-demand loads, transformations, joins, parameterizations connecting to data sources and files.
+
+- Designed folders in Spotfire Library, administered users/groups, analyzed back-end spotfire database. tracked memory/CPU usages of Spotfire Server and Web-Player Server.
+
+- Incorporated Custom Python Modules into Spotfire Server to utilize Python Library in full for custom functionalities.
+
+- Used d3.js (Data-Driven Documents) for interactive and appealing visuals utilizing HTML Text Area features - JAVASCRIPT, HTML, CSS and IronPython.
+
+- Designed specifications for custom functionalities and dynamic visualizations within DXP's.
+
+- Manipulated data tables, columns, rows, cell values, document properties, document metadata, filters, markings using IronPython to achieve interactions.
+
+- Created specifications for data transformation - information links, custom expressions, calculated columns, data wrangling with python, R scripts with TERR, advanced custom expressions (THEN/ OVER).
+
+- Worked with statisticians to utilize R scripts and incorporate with Spotfire's TERR engine for writing data functions and expression functions.
+
+TIL ZO SPOTFIRE DEVELOPER 08/2013 to 04/2015 Deutsche Bank | City, STATE
+
+- The analytics project involved financial data relevant to auditing and accounting.
+
+- The back-end framework involved Hortonworks based platform comprising of Hadoop batch processing of Big Data.
+
+- The major languages involved Pig Latin and Apache Hive.
+
+- Analytics platform involved Tibco Spotfire with Python customization and Information Links import.
+
+- The key metrics involved financial data entities.
+
+- Other sources included Sql Server relational data plus various file formats incoming from external clients.
+
+- Tracked data quality issues and reporting requirements in JIRA tool and Quality Center.
+
+- Modified the existing database models for both relational and dimensional databases.
+
+- Created conceptual, logical and physical data models to depict the level of granularity of measures and distribution of dimensions.
+
+- Analyzed feasibility of Hadoop-like Architecture to analyze high volume of data as per Big Data Analytics concepts.
+
+- Used standalone Hadoop mode to run initial MapReduce job.
+
+- Created specifications for data transfer in HDFS from sFTP, FTP, HTTP, SMTP web servers.
+
+- Created Technical specification for running Hadoop/MapReduce jobs via Pig Latin and Apache Hive in fully distributed mode.
+
+- Assessed the feasibility of NOSQL storage via HBase.
+
+- Created specifications for real-time streaming processing using Apache Kafka and Apache Storm.
+
+- Created specifications for HDFS architecture and file/folder architecture.
+
+- Reviewed open source Apache Hadoop projects for information and knowledge transfer.
+
+- Used Linux Command Line Interface to run Hadoop commands, Grunt Shell scripts to run PIG/SQL scripts, GREP commands to query plain text data, Linux shell commands to untar files in the Database ecosystem.
+
+- Created Information Links to load data on demand controlled by document properties, expressions, limiting and parameterization.
+
+- Used JavaScript d3 library to create visualizations sourcing from JSON file formats.
+
+- Created Map charts comprising of Map Layers, Feature Layers based on Geo-coding tables and Co- ordinate Matrix Systems.
+
+- Wrote IronPython scripts to customize dashboards by implementation of Tagging Analysis, Document Properties manipulation, Visualization properties manipulation, Table manipulation and file-data manipulation.
+
+- Used HTML and CSS along with JavaScript features to design Text Areas.
+
+- Used Web Player Configuration to control initial state of dashboards.
+
+- Used Marking and Filtering selection via IronPython scripts to automate the functionalities of dashboards.
+
+- Tested Usage Analysis comprising of memory usage, CPU usage, Network usage, User/Group activities and Library activities.
+
+- Created Calculated columns and Custom expressions to manipulate data loaded in Spotfire.
+
+- Wrote Hive QL to load data on demand from Hortonworks Hive Metastore.
+
+SFOTFIRE DEVELOPER 2011 to 07/2013 L'OREAL CORPORATE | City, STATE
+
+- Project's primary goal was to convert all the SSAS cube reports in Spotfire dashboards and visualizations.
+
+- Total number of cubes was around 30 and the dashboards covered metrics related to production, inventory, customer segmentation, and more.
+
+- - In-built Spotfire features were used along with customization via IronPython scripts.
+
+- Created non-spatial geographical distribution charts and map-charts to display metrics via geo-coding and co-ordinates mapping.
+
+- Used IronPython scripts to loop through filters, markings, visuals and data columns and build customized functionalities within spotfire documents.
+
+- Used Spotfire Library Administrator to manage folders, .dxp files, information links, and connectors.
+
+- Installed and configured Sql Server connector, SAP HANA connector, SSAS connector and others to create In-db connections.
+
+- Used Spotfire Automation Services to create automated jobs via XML builds and scheduled it on daily, weekly basis.
+
+- Managed users, groups, privileges and security of spotfire environment using LDAP-Spotfire fusion.
+
+- Developed Custom Data Source via SDK module for Google Analytics Connection.
+
+- Wrote Custom Expressions for visualization axes, calculated columns, property controls and limit expressions.
+
+- Created custom Text Areas via HTML scripts and JAVASCRIPTS.
+
+- Used Advanced Data Services (ADS) over Cisco Composite Servers to create data virtualization layers.
+
+- Designed Information Links to mimic in-memory connections.
+
+DACA ANALYST 10/2009 to 11/2010 TRowe Price | City, STATE
+
+- The Compliance Data Quality Project was to assess and define the gaps in quality of Equities/ Securities/Trades data.
+
+- Monitored weekly AutoSys Jobs in Dev, Qual and PROD regions.
+
+- Created Sprint Logs for Agile mode of work.
+
+- Created Job file (in XML module) to automate the reporting tasks.
+
+- Created Technical Specifications for modification of Informatica mappings.
+
+- Created Technical specification to list data profile including constraints, indexes, views, sequences, synonyms, cardinality/optionality, measures (metrics), dimensions, referential integrity, aggregations, calculations, transformations, statistical modeling in order to pre-design data load from source to target.
+
+- Monitored Informatica session logs in order to assess and rectify data cycle errors to address data quality issues.
+
+- Assessed existing data marts and designed bridge tables to connect different data tables.
+
+- Modified Source Qualifier queries in Informatica mappings.
+
+- Used Analytic Functions, Statistical Functions via SQL to analyze and process the data at aggregate level including roll-ups, cubes, grouping sets.
+
+- Used DML and DDL statements via SQL to manipulate and define data sets.
+
+- Used joins, subqueries and set operators via SQL to cross- analyze data across multiple tables.
+
+- Used Substitute Functions, Character Functions, Numeric Functions, Conversion Functions, and Date- Time Functions, Pivots, Hierarchies, Aggregation via SQL to modify data column values.
+
+- Used Data Security languages and Data Transaction Control languages via SQL.
+
+- Written test strategies, test cases to asses Informatica code changes including initial code debug.
+
+- Converted Business Objects Ad-hoc reports to dashboards and visualizations (pie chart, bar chart, pivots, line charts, cross-tables, and heat-map).
+
+- Maintained source data flow using Excel Macros, Flat Files, Relational Tables.
+
+- Accessed files from Mainframe System and used in Informatica ETL.
+
+- Created Technical Specification for ‘Insert Else Update' Process as part of Slowly Changing Dimensions.
+
+- Used Data Profiling Services in Sql Server 2008 to document Column Null Ratio Profile, Column Statistics Profile, Column Value Distribution Profile, Column Length Distribution Profile, and Column Pattern Profile.
+
+- Reviewed Informatica PowerCenter Designer mappings, Informatica Workflow Manager for workflows/ sessions, Autosys Job Scheduling, Informatica Workflow Monitor for session logs.
+
+JACA DEVELOPER/PY THON PROGRAMMER 07/2008 to 10/2009 JP MORGAN CHASE | City, STATE
+- The project involved creating a UI application to be used for mortgage line of business.
+- JAVA, PYTHON and SQL were the three key frameworks.
+- Used JAVA fundamentals and core JAVA techniques to design and maintain application codes.
+- Used JAVA Hibernate and JSP principles to create front-end User Interface and communication layer to the RDBMS.
+- Used Python data processing logics to derive analytical data from transactional sources for regulatory submission.
+- Used SQL to validate data quality and accuracy at the back-end.
+
+Master of Science | INFORMTATION TECHNOLOGY AUG 2015 GOLDEY BEACOM COLLEGE, WILMINGTON, DE
+
+BzChelor of Science | Technology SEP 2007 KATHMANDU UNIVERSITY, DHULIKHEL, NEPAL

@@ -1,0 +1,74 @@
+dr.
+
+Python Developer Plenuer (1 S89 288
+Email: info@qwikresume.com
+
+ROBERT SMITH deca sacle
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Experienced Python backend developer commitied to maintaining cutting edge technical skills and
+up-to-date industry knowledge. Has more than three years designing innovative applications and
+achieving high client satisfaction,
+
+Database., HTML, Python
+
+WORK EXPERIENCE
+---------------
+
+dr,
+
+. Python Developer
+
+Dell Computers - May 2015 - Present
+
+Managed, developed and designed a dashboard control panel for customers and administrators
+using DJANGO, Oracle DB, PosigreSQL and VMWARE API calls.
+
+Installation, configuration, integration, tuning, backup, crash recovery, upgrades, patching,
+monitoring system performance, system and network security and troubleshooting of ILnux/Unix servers.
+
+Qucried MYSQL database queries from Python using Python-MYSQL Connector and MYSQL DB package to retrieve information,
+
+Developed wrapper in Python for instantiating multi-threaded application.
+
+Implemented a login module for user, registration of the products, placing the order and tracking the order.
+
+Wrote Python routines to log into the websites and fetch data for selected options.
+
+Designed email marketing campaigns and created interactive forms thai saved dala into database using DJANGO framework.
+
+Python Developer
+
+ABC Corporation - 2010 - 2015
+
+Wrote python scripts to parse xml documents and load the dais in the database.
+
+Used pandas api to put the data as time series and tabular format for cast timestamp data manipulation and retrieval,
+
+Was involved in the environment, code installation as well as the syn implementation.
+Cleaned dala and processed third-party spending data into maneuverable deliverables within
+specific formats with excel macras and python libraries.
+
+Ensured high quality data collection and maintaining the integrity of the data.
+
+Collaborated with internal teams to convert end user feedback into meaningful and improved
+solutions.
+
+This project also used other technologies like jquery for javascript manipulations, bootstrap for
+the front-end html layout.
+
+EDUCATION
+---------
+
+Bachelors in Computer Science - 2009{West Bengal University Of Technology }
+
+- This Free Resume Template ts the copyright of Quwikres umecom. Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

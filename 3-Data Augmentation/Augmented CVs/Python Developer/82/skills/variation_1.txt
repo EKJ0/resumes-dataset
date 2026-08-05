@@ -1,0 +1,151 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Experienced Full-Stack Developer with a demonstrated history of working in the Information technology and services Industry. Strong
+engineering professional, currently seeking Full-time Job Opportunities. Skilled in JavaScript, TypeScript, React, Node.js, HTML, CSS/CSS3,
+and Python Programming Language. My goal is to expand my knowledge to an extent where I am able to provide architectural solutions in
+
+Software Development.
+
+SKILLS
+------
+- ReactJS/Redux/Flux/MobX, React-Router, React-bootstrap/ © CI/CD, Pipeline, Gitlab, Jenkins Semantic-UI, Material-UI e NPM, WebPack, Babel, Yarn, Gulp/Grunt, Docker
+- Python/Django/Django REST Framework/Flask ¢ MongoDB, PostgreSQL, MySQL
+
+- ES6/7, TypeScript/JavaScript, HTML5, CSS3, Bootstrap, SASS/ e AWS(EC2, Lambda, DynamoDB, $3, etc), Heroku, Firebase LESS
+- Node/Express/Koa/Hapi
+
+WORK EXPERIENCE
+---------------
+
+Freelancer, 06/2022 - Current Jpmorgan Chase & Co. - Helena, MT
+
+Full Stack Engineer, 03/2022 - 05/2022 Cognizant Technology Solutions - San Francisco, CA
+- Developed complex software and systems deploying one or more programming languages.
+- Followed and supported change management practices and internal controls standards.
+- Designed and implemented scalable application programming interfaces.
+- Understood full technology stack and underlying applications, services and databases, resulting in optimal program performance.
+
+Freelancer, 01/2021 - 02/2022 Two95 International Inc. - Milpitas, CA
+
+Full Stack Developer, 10/2018 - 01/2021 Two95 International Inc. - Montvale, NJ
+- Responsible for SDLC process in gathering requirements, system analysis, design, development, testing and deployment.
+
+Developed single page application for web pages and mobile application using HTML5, CSS3
+
+Used GIT and GitHub for continuous integration.
+- Extensive experience in web based and client/server applications using Python and Django.
+
+Excellent experience and Knowledge in CSS preprocessors like SASS
+
+Designed front-end applications, user interactive (UI) web pages using web technologies like CSS, JavaScript
+- Integration of Amazon Web Services (AWS) with other applications infrastructure Handled all client-side validation using JavaScript.
+
+Followed Agile Methodology to meet customer expectation, timelines with quality deliverables.
+
+Used basic incorporate React.JS to build client-side applications for building server-side APIs.
+
+Creation and maintenance of website using HTML, CSS & JavaScript
+Used React.JS as framework to create Single Page Application (SPA) which can bind data to specific views and synchronize data with
+
+server.
+
+Used JavaScript to make frontend components interactive to add dynamism to web pages at client side.
+Integrated Frontend jQuery UI with backend REST API.
+
+Responsible for all backup, recovery, and upgrading of databases.
+Environment: HTML, CSS, JavaScript, REST API, React.JS, AWS, jQuery, SASS, SDLC, Agile, Django, Python, Git, GitHub
+
+React Developer, 04/2016 - 08/2018 Company Name - City, State
+Create, developed, and helped to build numerous adaptable web and mobile software applications developed by company clients using
+
+JavaScript, React.js, Nodejs
+
+Developed, introduced, and helped to build next version of product line using React.js with Redux.js
+
+Create and helped to build applications layout basis on react-router-dom technology using functional methods as createContext,
+useReducer, styled-components in React Hooks environment
+
+Creating architecting schemas basis on GraphQ! for MongoDB database in business entities existed projects and logic of new web projects
+
+Built API requests with different HTTP methods, used different types of variables (local, collection, environment, global), and display on
+web page components data through getting data in Javascript and React.js Developed, and helped to build multipage projects in Node.js based on Handlebars engine.
+
+- Applied practice to use TypeScript catching bugs, increasing productivity, and avoiding mistakes working on apart elements in JavaScript projects.
+
+Developed, created, and helped to build multi-pages responsive HTML sites and components to them using block model, semantic tags,
+Flexbox / Grid / SASS methods Developed and maintained unit tests using Jest, Mocha.js
+
+Python Developer, 01/2013 - 03/2016 Company Name - City, State
+
+Developed views and templates with Python and Django view controllers and templating language to create user-friendly website interface.
+Created Handler function in Python using AWS Lambda that can invoke when service is executed
+
+Integrated services like GitHub, AWS CodePipeline, Jenkins and AWS Elastic Beanstalk to create deployment pipeline. Developed and
+implemented UI controls and APIs with JavaScript, Bootstrap, Ember.js, Backbone.js, Angular.js and Node.js.
+
+Managed AWS EC? instances utilizing Auto Scaling, Elastic Load Balancing and Glacier for our QA and UAT environments as well as
+infrastructure servers for GIT and Chef. Designed python script to load transformed data into cloud services (AWS, Azure, and GCP).
+Implemented Docker to provision slaves dynamically as needed. Had to Create and Maintain Docker files in Source Code Repository, build
+
+images and run containers for applications and testing purposes.
+
+Used Node.JS for asynchronous data communication between server and client. Developed Restful Micro services using Flask and Django
+and deployed on AWS servers using EBS and EC2.
+Designed, developed. implemented, and maintained solutions for using Git and GitHub for micro service and continuous deployment.
+
+Created custom CMS built using Django, AWS (Amazon web service), REST, Json with JavaScript, JQuery, AJAX components.
+
+Used Elastic search for powering not only Search but using ELK stack for logging and monitoring our systems end to end Using Beats.
+Used elastic search for name pattern matching customizing to requirement. Worked high-end on collections and multithreading.
+
+Worked as part of Agile/Scrum based development team and exposed to TDD approach in developing applications. Worked on deployment
+of project on Amazon $3 and used GIT version control and deployed project to Heroku.
+
+Python Developer, 05/2011 - 12/2012
+
+Company Name - City, State
+
+Involved in development of Python based Web Services using REST for sending and getting data from external interface in JSON format
+and performing analysis using Django, PostgreSQL.
+
+Developed Spark/Scala, Python for regular expression (regex) projects in Hadoop/Hive environment with Linux/Windows for big data
+resources.
+
+- Experience working with R, Python, SAS and Weka, MATLAB, Relational databases. Deep understanding & exposure of Big Data Ecosystem.
+
+Developed backend web services using Node.js and stored dependencies using Node Package Manager (NPM).
+
+Build data pipelines to create dependencies between tasks and it is easy to write modular code.
+
+Setup and build AWS cloud infrastructure various resources like EC2, EBS, $3, DynamoDB, lambda, VPC, RDS, ELB, Auto Scaling,
+CloudFormation, Elastic Cache, CloudWatch, SNS, AWS Import/Export.
+
+Design Data Pipeline which can capture data from streaming web data as well as RDBMS source data
+
+Created and published multiple dashboards and reports using Tableau server.
+
+Importing and sending out information into HDFS and Hive utilizing Sqoop and Kafka.
+
+Utilized Apache Spark with Python to develop and execute Big Data Analytics and Machine learning applications, executed machine
+Leaming use cases under Spark ML and Mllib.
+
+Design & develop common platform frameworks on NodeJS. Ex: - logging, rest client, exception handling. Developed Entire server-side
+
+application using NodeJS.
+
+Build ETL pipeline using Pentaho Spoon, Spark, Hadoop, HDFS for customers with large data volume.
+
+Worked on DevOps methodologies and cloud infrastructure automation tools like AWS, Chef by using Terraform.
+
+Read Parquet and CSV files from $3 after applying business logic and upload output back to $3 using Pandas and PySpark
+Used Apache spark on Databricks for big data transformation and validation.
+
+EDUCATION
+---------
+
+Bachelor of Science: Computer Science, 2011 The University of Georgia - Athens, GA

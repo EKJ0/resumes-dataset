@@ -1,0 +1,59 @@
+ROBERT SMITH Full Stack Python Developer
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+SUMMAR
+
+Pull stack developer over 3+ years of industrial experience in Designing, Development, Deployment and
+maintenance of web apps based an and Django-Python.Professional Web Apps development experience
+using Django and Plask inclusive of expenence in UI using Javascript, Jquery. Developed Views and
+Templates with Django view controller and template language to create an easily accessible website
+interfaces,
+
+SKILLS
+------
+
+Python, Java, HTML/HTMLS, CSS/CSS3, XML, DOM. AJAX, JQuery, JSON And CSS Bootstrap.
+Frameworks Django, Flask
+
+WORK EAPERIENCT
+
+Full Stack Python Developer
+Maximus - January 2015 - Present
+
+® Designed the front end of the application using Python, Java, Html, CSS, Ajax, JSan and JQuery.
+
+- Analyzed system mquirements specifications and also in client interaction during requirements specifications.
+
+® Used JavaScript and XML to update a portion of a webpage and node. JS for server-side inteniction.
+
+- Part of the team implementing rest APIS in Python using micro-framework like Plask with SQLALCHEMY in the backend for management of data center resources on which OpenStuck would be deployed,
+
+- ® Worked on Python OpenStack APIS and used Numpy for numerical analysis.
+
+- implemented rally OpenStack benchmarking tool on the entire Cloud environment.
+
+- Understanding Python files in OpenStack environment and make necessary changes if needed.
+
+Python Developer
+ABC Corpomition - January 2011 - January 2015
+
+- Application was based on Service Oriented Architecture and used Python 2. 7,2. 5, Dango L. 5, JSF2, Spring2, Ajax, Html, CSS for the frontend.
+
+® Used python pandas library to create datufrimes.
+
+® Wrote python scripts using pandas dataframe to get data from two different datahases and applied
+joins.
+
+- Designed email marketing campaigns and also created responsive web forms that saved data into a dutubase usingpython/ django frumework.
+
+- Developed views and templates with python and djangos view controller and templating language to erate a user-friendly website interface,
+
+® Used ajax and jquery for transmitting json duta objects between frontend and controllers,
+
+- This Ens Resume Tomphats 2 the copyright of Qwikrewimecom, Usage Gaildedi nes
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

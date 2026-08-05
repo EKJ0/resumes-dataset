@@ -1,0 +1,354 @@
+SUMMARY
+-------
+
+TECHNICAL SKILLS
+----------------
+
+WORK EXPERIENCE
+---------------
+
+ADDITIONAL INFORMATION
+
+EDUCATION AND TRAINING
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+Experienced and enthusiastic Software Developer with 6 plus years of experience in the IT industry with great
+coding, debugging and project management abilities. Well versed with all the phases of Software
+Development Life Cycle (SDLC) such as Analysis, Design, Development, Testing and Implementation.
+Focused on accomplishing challenging development goals under strict deadlines. Analytical and resourceful
+problem-solver with disciplined approach and skill in producing clean, robust code. Works great with team
+members under Agile and Scrum frameworks.
+
+Languages: Java, SQL, PL/SQL, JavaScript, e Databases: Oracle10g/119g, DB2, MySQL, J2EE Technologies, JSP, Servlets, JDBC, React, SOLR, NoSQL Database, MongoDB
+
+JSF, XML Parsers, JTA, JNDI, Java Beans, JMS, e IDE Tools: Eclipse, IntelliJ, Net beans, Web
+Web Services Storm, Sublime Text, and Spring Tools Suite Framework: Spring (IOC, AOP. MVC, JDBC, e Web Services: SOAP RESTful, UDDI, WSDL,
+ORM, Data, Boot, Batch, Security) and Micro JAX-RS, JAX-WS, JAX-B, Jersey API Services e Version Controls: Git, SVN, CVS
+
+ORM Tools: Hibernate 3.x/4.x/5.x, Apache, e¢ Build Scripts: Maven, ANT, Jenkins iBATIS, Eclipse Link « Methodologies: Waterfall, Agile
+
+XML Technologies: XML, DOM, XSL, WSDL,
+
+SOAP. XHTML
+
+Web Technologies: ReactJS, NodeJS, Flux, Redux, EcmaScript6, JavaScript, HTML5, CSS3, JSON, jQuery, Ajax, Bootstrap
+
+Servers: Apache Tomcat, WebLogic, Web sphere, JBOSS
+
+FULL STACK JAVA DEVELOPER 04/2020 to CURRENT
+
+Accenture | Austin, TX
+
+Developed web-based applications using Spring frameworks and modules such as Spring MVC, Dependency Injection, Spring Core, Spring Hibernate, and Spring Java Mail Sender Imply.
+
+Developed the Services using AWS Elastic Search, Restful Services using JAX-RS and Java.
+
+Used OWASP ESAP! to validate the input requests and encode the output responses to/from the
+service.
+
+Developed Web GUI involving HTML5, NodeJS, Java Script under MVC architecture.
+
+Used ReactUS, HTML5, CSS3 all HTML is accomplished through ReactJS directives.
+
+Exposing and consuming the services to the downstream applications using Apache CXF and Apache
+camel and achieved integration between applications using Apache Camel.
+
+Implemented OWASP CSRF Guard library, a variant of the synchronizer token pattern to mitigate the
+risk of CSRF attacks.
+
+Developing various microservices to implement independent business boundaries.
+
+Worked with NoSQL databases such as MongoDB.
+
+Used Pivotal Cloud foundry command lined interface with an HTTP Proxy Server.
+
+Used Spring MVC, JSP, JavaScript, jQuery, Bootstrap, HTML5, and CSS3 in developing mini-site
+application.
+
+Used MySQL, Oracle 10g/11g databases to do CRUD operations.
+
+Used Tomcat (local server) to deploy the application and responsible for developing integration test for
+an AWS-hosted cloud application using TDD.
+
+For analytical data used MongoDB.
+
+Implemented analytical engines that pull data from API data sources and then present data back as
+either an API or persist it back into a NoSQL platform.
+
+Test Driven Development (TTD) using JUnit & mocking by jMock.
+
+Used tools like SOAP UI for testing SOAP based Webservices.
+
+Worked on moving the production SQL server blueprint to the new AWS RDS Aurora instance.
+Implemented request and response objects using SOAP web services and created routes using Apache
+Camel.
+
+Wrote SQL, PL/SQL and stored procedures as part of database interaction and unit test cases using
+Junit.
+
+Involved in parsing JSON String using JSON parsers like GSON, Jackson.
+
+Implemented agent-server messaging dialog using Apache Camel and JMS (Active MQ implementation).
+Implemented Application backend as NodeJS Express Application Server and involved in parsing HTML
+Doc using JSOUP parser.
+
+Extensively worked in Test Driven Development (TDD) framework using JUnit.
+
+Created tasks for updating tsconfig tracked files based on glob, tslinting, and compiling typescript files.
+Deployed Spring Boot based microservices Docker and Amazon EC2 container using AWS admin console.
+
+Developed Web Applications using MongoDB and back-ground processes.
+
+Worked on web application security and worked on the security framework OWASP.
+
+Used Gradle for Dependency Management and as build tool.
+
+Built a Restful API to save and retrieve geo locations using a remote server in Java using Spring,
+Mongo DB, Apache CXF, and JAX-RS.
+
+Log4j was used to monitor the error logs and used GIT Repository as version control tool.
+
+Involved in developing internal application using ReactJS, and NodeJS connecting to Oracle on the
+backend.
+
+Used Microservices architecture, with Spring Boot-based services interacting through a combination of
+REST and Spring Boot.
+
+Worked with Jetty, Apache Tomcat web servers for deploying the web applications.
+
+Coding the persistence module using JDBC API's (Prepared Statement and Callable Interface), Springs
+SQL/PLSQL Templates.
+
+Packaging and Deployment of builds through Maven scripts and integrated with Jenkins.
+
+Used Source code repository management using GIT Stash (Bit Bucket) and Source Tree tool.
+Designed and developed using Java/J2EE, Collection frameworks.
+
+Followed TDD Test Driven Development and developed test cases by using JUnit for unit testing for
+each and every module developed.
+
+Used Microservices with the individual database and project with no dependencies. Also Used Agile/
+Scrum as the working environment for this project.
+
+Created smart navbar system in typescript that would retain a client context across multiple web apps
+using the query string. Smart nav would automatically determine selected navigation node using the
+browser URL.
+
+Maintained Interface compatibility and concurrency in the project using Java 8 new features like default,
+static methods and Concurrency API.
+
+Used Java 8 Method References feature to point to methods by their names and used functional
+Interfaces.
+
+Environment:
+
+Java/J2EE, JBOSS, JSON, XML, Spring, SQL, Apache Camel, PL/SQL, AJAX, JavaScript, jQuery, Bootstrap,
+HTMLS, CSS3, MySQL, Oracle 10g/11g, Jenkins, GIT, JUnit, JIRA, ReactJS, Jetty Server, MongoDB, Gradle,
+Restful Web Services, Log4J.
+
+JACA/J2EE DEVELOPER 05/2018 to 03/2020 Voya | Seattle, WA
+
+Involved in coding, testing and creation of functional specs of enhancement application.
+
+Performing Code reviews with the team.
+
+Preparing builds, deploy and Co-ordinate with the release management team to ensure that the proper
+process is followed during the release.
+
+Providing End to End support for the testing activities during System Testing, UAT.
+
+Maintain EAR and WAR in IBM WebSphere Apps server.
+
+Maintain source code using GIT.
+
+Used Bootstrap and AngularJS, React.js and Node js in effective web design.
+
+Providing End to End support for the testing activities during System Testing, UAT.
+
+Developing the web applications using Core Java Threading and Collection.
+
+Design dynamic and browser by CSS, HTML, JavaScript using different frameworks (AJAX, jQuery,
+DOGO).
+
+Responsible for effective communication between the project team and the customer. Provide day to
+day direction to the project team and regular project status to the customer.
+
+Review system requirements, establish specific solutions, and leading the efforts including programming
+and testing that culminate in client acceptance of the results.
+
+Designed the responsive front-end screens using Angular 2, HTML5, CSS3, JavaScript, Typescript,
+jQuery and Bootstrap.
+
+Worked on Agile methodology.
+
+Designed and developed the application using agile methodology and followed Test Driven Development (TDD ), Scrum .
+
+Interacting with the clients for the new enhancements to be done.
+
+Developing the web applications using Springs, Hibernate.
+
+Identified usability and develop functional and smooth, easy-to-operate and eye-catching web
+applications using EXT JS, Angular JS and React JS, Backbone js, Node js and Bootstrap with MySQL
+database.
+
+Preparing technical documentation of the application.
+
+Responsible for closing the backlog of production related issues.
+
+Responsible for effective communication between the project team and the customer. Provide day to
+day direction to the project team and regular project status to the customer.
+
+Interacting with the clients for the new enhancements to be done.
+
+Environment:
+Core Java, J2EE, JSP, Apache, Camel Servlets, Oracle 11g, UNIX, JIRA, ReactJS, Jetty Server, MongoDB,
+Gradle, Restful Web Services, Log4J.
+
+JACA DEVELOPER 12/2015 to 04/2018
+
+Bertelsmann | Colorado Springs, CO
+
+Involved in the study of User Requirement Specification, Communicated with Business Analysts to
+resolve ambiguity in requirements document.
+
+Have interacted with client and project stake holders in analyzing the requirements and finalizing the
+design.
+
+Worked in Agile Scrum Methodology.
+
+Used Spring MVC framework for design and development of web application and Integration with React.
+Created SOAP based web services using Spring 3.0. Also Involved in writing java API for Amazon
+Lambda to manage some of the AWS services.
+
+Developed Controllers and Service classes that support spring framework. Also Involved in developing
+DAOs (Data Access Objects) to backend Database.
+
+Developing and maintaining web application systems using NodeJS
+
+Derived best practice using OO Design patterns, TDD methodology, PMD Code analyser, Jacoco Code
+Coverage.
+
+Worked on jQuery for user interface interactions, effects and themes built on top of the jQuery
+JavaScript.
+
+Defined required mappings in xml that are supported by MVC architecture and spring framework.
+Involved in development of SOAP web services using Apache Axis 2 to extract data from databases.
+Used RESTful services to expose certain functionalities of the application.
+
+Have used JSTL Custom Tag library implementing the market specific content presentation.
+Implemented Object/relational persistence and query service using Hibernate. Developed the data layer
+using Hibernate Framework. Created Hibernate mapping files and Hibernate configuration files for
+individual modules.
+
+Involved in creating Controller using spring framework and writing JSP 2.0.
+
+Have extensively used jQuery 1.4, CSS3 and HTMLS for the front end. Also, involved in writing Junit test
+cases in unit testing.
+
+Validated web service response using SOAP UI 4.x.
+
+Developed the application under Core Java, J2EE Architecture using REST, JBoss, Node js,
+backbone.js, EXT JS, spring, Struts, Hibernate, Servlets, Web logic, Swing, Agile. Eclipse, Jenkins and
+JSP
+
+Involved in writing persistence objects using Hibernate and Involved in creating/designing WSDL.
+Inventory groups are added for Amazon Ec2 for instances and monitoring AWS hosts.
+
+Implemented AJAX for communication between JavaScript to App server without reloading the page.
+Used Maven 3.x as the build and Tortoise SVN 1.7 as the Source version controller.
+
+Have been proactive in analyzing the requirements and validation of the implementation.
+
+Used JAX-RS plus jersey Implementation for Restful web services.
+
+Designed, developed, and analyzed the front-end and back-end using Servlets and Spring 3.x.
+
+Used metadata excel sheets to dynamically update the UI for the component elements.
+
+Involved in Ul development using JavaScript, JSP, AJAX and jQuery.
+
+Used Hibernate for Object relational Mapping and Persistence. Also, Used Spring Security for user
+authentication in some modules.
+
+Worked on Encrypting AWS S3 storage Objects.
+
+Decomposed Epics into User stories and Maintained Iteration updates on JIRA.
+
+Implemented Test Driven development using frameworks like Junit.
+
+Used JAXB to parse XML files and transform them into Print Ready format.
+
+Used AJAX Controls to increase the performance of the web application.
+
+Involved in setting up the Development, staging, testing & production environments for the application.
+Involved in Analysis of the Customer requirements and understanding existing conventional system and
+process.
+
+Transformed, Navigated, Formatted XML documents using XSL, XSLT, XPath.
+
+Involved in using Spring concepts - DIOC, Batch implementation and Spring MVC Environment.
+
+Environment:
+
+Java/J2EE, JBOSS, XML, Spring, SQL, Apache Camel, PL/SQL, JSON. JavaScript, jQuery, Bootstrap, CSS3.,
+HTMLS5, MySQL, Oracle 10g/11g, Jenkins, GIT, JUnit, JIRA, ReactJS, Log4J, MongoDB, Gradle, Restful Web
+Services.
+
+6+ years of experience in development of applications using Object Oriented Programming Java and
+J2EE technologies and implementing designs into responsive HTML5/CSS3 templates, using ReactJS,
+ReactJS, Flux, Redux, NodeJS and ExpressJS to build single - page web applications, and integrating
+vanilla JavaScript to manipulate DOM elements and make use of web APIs.
+
+Experienced with Spring and Spring Modules: Spring lOC/Spring DI, Spring MVC, Spring JDBC, Spring
+React, Spring Data, Spring REST Technologies.
+
+Configured spring applications using different modules like Spring Security, Spring Boot and
+Microservices.
+
+Experienced in creating Single Page Application (SPA) using ReactJS framework.
+
+Developed scalable applications using the MEAN (MongoDB + ExpressJS + ReactJS + NodeJS) stack.
+Used Middleware, Redux-Promise in application to retrieve data from Back-End and to also perform
+RESTFUL services.
+
+Worked with Jest and Jasmine unit test framework to write unit tests for JavaScript code.
+
+Worked with backend engineers to optimize existing API calls to create efficiencies by deprecating
+unneeded API calls.
+
+Developed REST services using NodeJS, ExpressJS, Body-Parser, Mongoose and other node modules
+to serve the web application with JSON data.
+
+Developed resource using Spring with REST and Consumed resources using REST Template.
+Experienced in other front-end technologies such as SASS, LESS, Typescript, BOOTSTRAP. Angular,
+Angular1.5, Angular2, Ajax, JSON, Node js etc.
+
+Knowledge on Automation using Selenium, JBehave (BDD), Test Driven Development (TDD) and involved in UNIT test and sanity testing.
+
+Exceptional abilities in using source code analysis tools automated build process and unit testing.
+Worked on Servlets, JSP. JDBC and JavaScript under MVC Framework and implemented OOAD concept in the applications.
+
+Worked with Development and QA teams to continuously integrate software development using GitHub,
+Maven and Jenkins.
+
+Implemented Kafka producer and consumer applications on Kafka cluster setup with help of Zookeeper.
+Used Spring Kafka API calls to process the messages smoothly on Kafka Cluster setup.
+
+Expert knowledge in complete AngularJS architecture.
+
+Strong in Web designing technologies like HTML5, XHTML, CSS3, JavaScript, AngularJS, jQuery, Ajax
+and JSON.
+
+Actively involved in the DevOps streamlining process through Jenkins Cl and CD Release Automation.
+
+Bachelor’s | Computer Science 05/2018 Oklahoma State University Institute of Technology, Okmulgee, OK
+
+AsCociate | Computer Science 05/2016 Oklahoma State University, Oklahoma City, OK
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

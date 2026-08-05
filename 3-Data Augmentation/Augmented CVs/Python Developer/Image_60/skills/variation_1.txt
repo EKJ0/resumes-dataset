@@ -1,0 +1,88 @@
+HELEN MACKAY
+
+SKILLS
+------ Programming
+
+Python - SQL - JavaScript
+
+Data Skills
+
+MongoDB - + AWS - NumPy -
+
+hms - Scikit learn
+
+TRAINING / COURSES
+
+Python for Data Science & AI
+
+Complete Data Science
+Bootcamp with Python, 2019
+
+By 365 Career Team, |
+
+Ethical Hacking and Network Security By Zaid Sabih,
+
+CERTIFICATIONS
+-------------- PCAP
+
+The Python Institute, 20 STRENGTHS
+
+S| Quick Learner
+
+@ Accountability
+
+Powered by CY Enhancy
+
+Junior Python Developer
+
+» +1-271-199-8643 helen.mackay@gmail.com github.io/helen.python 9 Chicago, IL
+
+SUMMARY
+-------
+
+Junior database developer with Python Associate in Programming certification.
+Knowledgeable in data fetching and organization, data visualisation, MySQL, MongoDB and AWS. Some knowledge ML algorithms.
+
+EDUCATION
+---------
+
+B.S. in Computer Systems and Technologies 2014 - 2018 University of Chicago Chicago, IL GPA |3.9/ 4.0
+
+WORK EXPERIENCE
+---------------
+
+Junior Python Developer 2018 - Present Hudson Cloud Computing Chicago, IL
+
+Hudson is a USA-based IT Services firm specializing in Enterprise Mobility, Information Management, and Cloud-based solutions.
+Working in a team of 15 people Taken active part in all development phases of 4 new products - research, design,
+development, testing, Cl/CD Maintaining large databases and collaborating with colleagues on the reduction of
+software maintenance expenses - decreasing the costs by 15% in just 1 year Visualised over 20 datasets with MatPlotlib
+
+Python Database Developer Intern 2017 - 2018 Wolf Chicago, IL
+
+Wolf is a website with 500K unique clicks/month and with more than 8 million products in
+
+the database where customers can check the price of any product in the most famous US
+
+electronics stores.
+
+- Designed and implemented web application for new requirements in just 3-4 weeks which is production ready
+
+- Integrated 8 APis for fetching prices, product information and photos from 3rd party sources
+
+- Completed 150 hours of Data fetching and organization training
+
+PROJECTS
+--------
+
+Convolutional Neural Network Based Emotions 2017 - Present Recognition System
+
+University of Chicago
+
+A CNN based emotions recognition system, built with Scikit-Learn, Tensorflow and OpenCv - 86% degree of accuracy and confidence for real-time emotions
+recognition
+Potential applications in - Behavioural analysis, real time analysis of customer satisfaction
+in retail settings, automatic photography
+github.com/vnihit/CNN-Emotions-Recognition
+
+www.enhancv.com

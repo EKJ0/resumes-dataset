@@ -1,0 +1,85 @@
+Denver Brown
+
+com CA _in_vawwlinkedin.com/denver Python Developer
+
+SUMMARY
+-------
+
+S years experienced Python Developer & Certified Microsoft Technology Associate highly skilled in brainstorming and coding
+features & enhancements. Possesses an understanding of developing end-to-end applications as per client requirements and quality
+norms. Adept at conducting manual testing and performing regular audits to fix bugs & improve work efficiency.
+
+KEY SKILLS
+----------
+- Programming « Application Development « Coding « Auditing + Backup & Recovery « Testing & Troubleshooting
+- Performance improvement + Manual Testing « Testing Automation + Features & Enhancements « Market Research
+
+TECHNICAL SKILLS
+----------------
+- Programming: Python, HTMLS, CSS3/SASS, React)S/Vue)S, java, JavaScript, C+
+- Frameworks: Django, Flask, Boto3
+- Server-Side Languages: Jinja 2, Mako
+- Code Versioning Tools: Git, Mercurial or SVN
+
+WORK EXPERIENCE
+---------------
+
+Python Developer Apr'18 - Apr ‘20 Technovation LLP SF, CA
+An internationa! company thet provides custom software engineering & consulting services wth an employee base of 3400 employees
+Application Designing
+- Wrote codes in Python and designed & implemented 15+ low-latency, high-availability, and performant applications
+- Researched & identified best back-end practices to build efficient & reusable applications with 100% accuracy
+- Integrated the elements built by the front-end team of 25 into 15+ applications Manual Testing & Debugging
+- Conducted manual testing to identify bugs for the testing team on the floor
+- Successfully logged 20+ bugs on a weekly basis for further resolution by the development team
+- Instituted server-side logic by ensuring high performance and responsiveness to requests from the front-end team Data Protection & Back-up
+- Established & maintained sound backup and recovery policies and procedures while installing & upgrading software
+- Implemented security & data protection & integrated data storage solutions including databases, key-value & blob stores
+
+Computer Programmer Apr 16 - Apr ‘18 TheWorld Enterprise SF,CA
+A private technical company with over 3k employees servicing over millions of customers across the globe
+
+Programming
+
+- Developed & wrote 35+ computer programs, tested their functionality and documented the process for future reference
+
+- Created workflow diagrams & charts to demonstrate the functionality of programs before coding them
+
+Coding & Auditing
+
+- Drafted codes for software patches (5+ in a week) & performed software tests to spot and resolve bugs & inconsistencies
+- Performed regular audits to identify software inefficiencies and mastermind ways to improve workflow by 17%
+
+Issue Resolution & Collaboration
+
+- Laised with the programming team of 20 to find creative, innovative solutions to programming-related problems
+
+- Collaborated with other its to understand their needs & devise jes to accommodate them with software INTERNSHIP
+
+Back-end Intern Apr'15 ~ Apr 16
+
+Technical Circle Enterprise SF, CA
+
+A technology company with an employee bose of over 2k professionals
+
+Data Analysis & Coding
+
+- Compiled & analyzed data, processes, and codes to troubleshoot problems and identify areas for improvement
+
+- Collaborated with front-end Developers to design functional & cohesive codes to enhance the user experience by 17%
+
+- Generated ideas for 10+ new programs & products by monitoring industry developments. competitors and latest trends
+
+EDUCATION
+--------- B. Sc. in Computer Science Apr'l1 ~ Apr ‘15 University of New York New York, NY A public polytechnic university with @ student base of over Sk students
+- GPA4S/S.O
+
+CERTIFICATIONS
+--------------
+
+i Microsoft Technology Associate (MTA) | Microsoft | Apr ‘17
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

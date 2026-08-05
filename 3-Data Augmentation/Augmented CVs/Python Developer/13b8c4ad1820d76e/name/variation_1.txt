@@ -1,0 +1,68 @@
+Emily Walsh
+
+Python Developer
+
+Highly motivated Python Developer with 1 year of experience in developing robust and efficient software solutions.
+Proficient in Python frameworks like Django and Flask, with a solid understanding of front-end technologies like HTML,
+CSS, and JavaScript. Demonstrated ability to solve complex problems, excellent debugging skills, and a keen interest in
+learning new technologies. Committed to delivering high-quality results within stipulated timelines.
+
+jestinamangol@gmail.com
+(249) 346-3648 @) Nashville, TN @
+
+EDUCATION
+---------
+
+Bachelor of Science in Software Engineering with a specialization in Python Development at University
+of Tennessee, Knoxville, TN
+Aug 2017 - May 2022
+
+Relevant Coursework:
+Software Development, Python Programming, Data Structures, Algorithms, Object-Oriented Programming, Databases,
+Web Development, Computer Systems, Machine Learning, Artificial Intelligence, Software Testing and Quality Assurance,
+Computer Networks, and Cybersecurity.
+
+Links
+linkedin.com/in/jestinamangol
+
+SKILLS
+------ Django
+
+Flask
+
+NumPy
+
+WORK EXPERIENCE
+---------------
+
+Senior Python Developer at Asurion, TN
+Jul 2023 - Present
+
+- Led the development and implementation of a new data processing system using Python, improving data efficiency by 50% and significantly reducing the time spent on manual data tasks.
+
+- Successfully automated 5 key business processes using Python scripts, resulting in a productivity increase of 30% and an annual
+cost saving of $100,000.
+
+- Spearheaded a team project to overhaul the company's outdated website, utilizing Django framework, leading to an increase in site traffic by 40% and customer engagement by 25%.
+
+Junior Python Developer at Eventbrite, TN
+Sep 2022 - May 2023
+- Developed an automated ticketing system using Python, which improved ticketing efficiency by 35%.
+- Successfully debugged and enhanced the existing codebase, reducing system errors by 20%.
+- Leda team project to integrate third-party APIs into the Eventbrite platform, expanding functionality and increasing user engagement by 15%.
+- Implemented a new data analysis tool using Python, resulting in a 40% reduction in time spent on data processing tasks.
+
+Certificates
+
+PCEP - Certified Entry-Level Python Programmer
+Feb 2022
+
+Microsoft Certification: Introduction to Programming Using
+
+Python
+
+Jun 2020
+
+Memberships Python Software Foundation (PSF)
+
+Association for Computing Machinery (ACM)

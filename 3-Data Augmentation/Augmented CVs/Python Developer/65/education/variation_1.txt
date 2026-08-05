@@ -1,0 +1,148 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Mid-level Software and Application Developer passionate about creating cutting-edge products for companies. Strong work ethic and dedicated
+to quality assurance. Adept at working with teams or independently in fast-paced settings.
+
+SKILLS
+------
+
+- TECHNICAL SKILLS
+
+Java, Spring boot, Azure, Microservices, Struts 1.3, JSP, HTML, CSS, Servlets, SOAP. oracle, Linux, AGILE, Eclipse, MongoDB,
+MySQL, SQL, Python, XGBoost, Decision tree & Random Forest, KNN, SVM, Naive Bayes, SGD, AdaBoost, LDA, QDA, Neural
+Network, LightGBM, GBC, React JS, JSX, virtual DOM, GitHub,
+
+Data Structures and Algorithms
+
+JS Frameworks: React, Angular, Vue Software Components and Libraries Object-Oriented Programming
+Databases: Oracle, MongoDB RDMS Development and SQL
+
+Microsoft Power BI, Excel © Programming Languages: Java, C#, Net, Python
+- Technical Instruction ¢ Data Storage and Retrieval
+- Troubleshooting and Diagnosing e Source and Version Control: Git, Github
+- Microsoft Certification * Software Testing and Validation
+- Organizational Skills ¢ CRM Software
+- Interpersonal Skills © Software Deployment
+- Documentation Development © Usability and Accessibility
+- Technical Troubleshooting ¢ Data Warehousing and Analytics
+- Customer Service Support © Debugging and Troubleshooting
+- MySQL © Requirements Gathering and Analysis
+- UNIX Shell Scripting © Multithreaded Software Applications
+- Linux+ Certification e SOAP and RESTful Web Services
+- Database Management © Design Patterns and Principles
+- LAN and WAN Assessment * Scripting Languages: PHP, Python, Javascript
+- Hardware and Software Configuration
+- API Design and Development
+- Code and Quality Standards
+
+- Continuous Integration Systems
+- Agile/Scrum Methodology
+
+WORK EXPERIENCE
+---------------
+
+Technical Support Specialist, 05/2022 - Current Concordia University, Nebraska - Seward, NE
+- Documented and updated case notes for each customer and work order. Assessed issues to determine appropriate troubleshooting methods for remediation.
+
+- Maintained compliance with established and updated policies and procedures with minimal supervision.
+
+Present detailed reports to leadership and stakeholders, including recommendations to seize opportunities for technological improvement
+
+Ensure that all IT systems and processes are arranged best to support overall organizational objectives
+
+Head implementation teams during upgrade and technology migration projects, liaising with affected departments to ensure usability and
+functionality
+
+Established patterns to reoccurring issues and provided input to development teams
+
+Work with other technical support specialists to find solutions to more complex issues. Disassembled computer systems to troubleshoot and
+resolve hardware issues.
+
+Created and implemented new troubleshooting processes, improving efficiency and customer satisfaction while reducing costs.
+
+Delivered local and remote Tier 1 IT support for hardware and software to company personnel.
+Stayed abreast of latest software developments to enhance job knowledge. Collaborated with technical staff to establish goals and
+objectives for system improvements and upgrades.
+
+Software Python Developer. 01/2023 - 03/2023 Two95 International Inc. - Bethesda, MD
+- Developed company-wide technical strategy plans for Python-based assets, overseeing development, coding, debugging and [Task].
+- Introduced cloud-based technologies into Python development to expand on-premise deployment options.
+- Worked with server-side and front-end technologies and leveraged common design patterns to code dynamic and user-friendly systems.
+
+Mentored entry-level Python development personnel, providing both internal and external positions with technical guidance and education.
+
+Streamlined support requirements by designing automated platforms and tools with self-service, self-healing code.
+
+Harnessed version control tools to coordinate project development and individual code submissions.
+
+Leveraged open communication, collective decision-making and thorough reviews to create performant and scalable systems.
+- Worked closely with systems analysts, engineers and programmers to understand limitations, develop capabilities and resolve software problems.
+
+Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing and final
+implementation.
+
+Developed software for embedded systems, coding solutions for both new installations and in-situ hardware.
+- Applied security measures into systems development, supporting final products’ resistance to intrusion and exploitation.
+
+Full Stack Developer, 01/2021 - 12/2022 Ibm Corporation - Des Moines, LA
+- Programmed applications and tools using object-oriented languages with goals of code abstraction, stability and reuse.
+
+Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to enterprise-quality testing and final
+implementation.
+
+Coordinated testing and validation procedures through software development lifecycle.
+
+Designed, developed and implemented firmware to support embedded system product concepts.
+
+- Conferred with project managers and other stakeholders to fully understand software design specifications and plan optimal development approaches.
+
+Combined root-level authentication and authorization technologies with ongoing system design to harden finished solutions.
+
+Developed software for embedded systems, coding solutions for both new installations and in-situ hardware.
+- Devised automation, backup and recovery protocols to preserve and safeguard data.
+
+Integrated object-oriented design and development techniques into projects to support usability goals.
+
+Assessed code during testing stage to determine potential glitches and bugs.
+
+Recommended strategies to maximize performance and lifespan of equipment involved in software installations.
+
+Data Analyst, 07/2016 - 06/2019 JNEX Software Solutions - City, STATE
+- Generated reports and obtained data to develop analytics on key performance and operational metrics.
+
+Worked with internal teams to understand business needs and changing strategies.
+- Assisted with efforts to track, evaluate and report on impact of programs using multiple data sources. Interacted with non-technical stakeholders to deliver analyses and answer questions on deliverables.
+
+- Assisted integration of internal and external data tools and products, maintaining stability and performance across systems.
+
+Synthesized business intelligence or trend data to support recommendations for action.
+- Partnered with data scientists to support ongoing research and analytics initiatives. Maintained library of model documents, templates or other reusable knowledge assets.
+
+Identified and analyzed industry or geographic trends with business strategy implications.
+
+Created or reviewed technical design documentation to drive accuracy of reporting solutions.
+
+Collected business intelligence data from industry reports, public information or purchased sources.
+
+Identified or monitored current and potential customers using business intelligence tools.
+- Managed diverse projects for data capture, storage and forecast analysis.
+
+Created and designed business intelligence databases, spreadsheets or outputs.
+Maintained or updated business intelligence tools, databases or dashboards.
+Provided technical support for existing reports, dashboards or other tools.
+
+EDUCATION AND TRAINING
+
+Master of Applied Computer Science: 04/2022 Harvard University - Antigonish, Nova Scotia
+
+Bachelor of Computer Science: 05/2015 LK Gujral Technical University - Punjab
+
+CERTIFICATIONS
+--------------
+
+- [Area of certification], [Company Name] - [Year]

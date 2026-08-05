@@ -1,0 +1,78 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+SS Sy PYTHON DJANGO DEVELOPER RESUME
+
+Michael Watkins
+
+2587 Brown Bear Drive
+Hemet, CA 92543
+(222) 854-4879
+
+Email : [email] Career Goal:
+
+To be able to work in your organization as a Python Django Developer where | can fully utilize my skis in HTML,
+JavaScript, CSS, Python, Django and Java technologies.
+
+TECHNICAL SKILLS
+---------------- Sound knowledge of Object Oriented software development:
+
+- Python, Ruby
+- C++, PHP, Java
+
+Adept with web development technologies:
+
+- Semantic markup
+- Standards-compliant HTML
+- CSS2+CSS3
+
+Proficient in using scripting and programming languages:
+
+- JavaScript, JQuery
+- XML, Ajax, CSS, HTML
+
+Immense potential to deploy Amazon web services:
+
+- EC2 cloud computing, ELB
+- S3 storage
+
+Highly talented in managing ROBMS and NoSQL databases:
+
+- MySQL, MongoDB
+- CassandraAPI centric systems
+- Cloud Computing, Windows Server
+
+Cognitively skilled to utilize research and analytics engine:
+
+- ElasticSearch
+- Haystack search application
+
+Thorough knowledge of web development frameworks:
+
+- Django, jBoss
+- Microsoft .Net
+
+Sound capabilities to:
+
+- Code SQL outside ORM
+- Utilizing source control and defect tracking tools
+
+Relevant Experience:
+
+Python Django Developer Saven Technologies
+January 2012 - Present Hemet, CA
+
+Developed, tested and debugged software tools utilized by clients and internal customers.
+
+Coded test programs and evaluated existing engineering processes.
+
+Designed and configured database and back end applications and programs.
+
+Performed research to explore and identify new technological platforms.
+
+Collaborated with internal teams to convert end user feedback into meaningful and improved solutions.
+Resolved ongoing problems and accurately documented progress of Python project.
+
+Python Django Developer Dealertrack Technologies
+November 2010 - January 2012 Lake Success, NY
+
+eee eee

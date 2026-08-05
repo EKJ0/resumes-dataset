@@ -1,0 +1,326 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Around 3+ years of experience as a Python Developer, a proficient coder in multiple languages and environments including Python, Scala, JavaScript and SQL.
+
+- Worked on several standard python packages like Numpy, Pickle, PySide, Scipy, wxPython, PyTables etc.
+
+- Driven to architect Big Data solutions on multiple platforms using data analytics.
+
+- Developed various Python scripts to generate reports, send FIX messages (FIX Simulator), SOAP requests, TCP/IP programming and multiprocessing jobs.
+
+- Good Experience in Working on Restful Api’s.
+
+- Good experience in developing web applications and implementing Model View Control (MVC) architecture using server-side applications like Django, Flask and Pyramid.
+
+- Experience in working on BDPaaS (Big Data Platform as a Service).
+
+- Expertise in working with different databases like Microsoft SQL Server, Oracle, MySQL, PostgreSQL and Good knowledge in using NoSQL databases MongoDB
+
+- Expertise in working on data migration tools like Alembic.
+
+- Proficient in developing complex SQL queries, Stored Procedures, Functions, Packages along with performing DDL and DML operations on the database.
+
+- Hands on Experience in Data mining and Data warehousing using ETL Tools.
+
+- Excellent working knowledge in UNIX and Linux shell environments using command line utilities.
+
+- Application Stress tester created, and stress tested stand-alone, web-applications and generated graph reports.
+
+- Attentive to cyber security and data protection.
+
+- Experience in developing single-page applications using AngularJS, HTML5 and CSS3.
+
+- Motivated, proactive, innovative problem solver with excellent analytical, organizational, interpersonal, communication and written skills. Excellent team player, quick learner, keens to learn and implement new IT technologies.
+
+- Good understanding on Spark architecture and its components.
+
+- Strong knowledge of Data Structures and Algorithms, Object Oriented Analysis, machine learning and software design patterns.
+
+- Good Experience in Working on Geospatial Data.
+
+- Working Experience using AWS tools like EMR, EC2, $3 and Lambda.
+
+- Developed API endpoints in Scala used functional programming, data aggregation with pagination.
+
+- Experience working on Google Cloud Platform
+
+- Good Experience in working with Jenkins and Artifactory for continuous integration and deployment.
+
+- Expertise in Production support. Provided first, second and third level support to different organizations. Used pdb, gdb and other debugging tools and deployed production hot fixes.
+
+- Knowledge of deployment tools using Heroku, Jenkins, pylint, cppCheck and Coverity.
+
+- Expert at version control systems like Git, GitHub, svn and cvs. Migrated repos from svn to GitHub.
+
+- Experience in documenting the build and entire deployment process
+
+- Good Experience in working on Amazon Web Services.
+
+- Experience in designing and constructing the OBIEE Repository using the Semantic Model.
+
+- Good Experience in Collaborating and working with offshore resources.
+
+- Experienced in WAMP (Windows, Apache, MYSQL and Python) and LAMP (Linux, Apache, MySQL and Python) Architecture.
+
+- Experience with Agile, Scrum and Waterfall methodologies. Used ticketing systems like Jira, Bugzilla and other proprietary tools.
+
+- Experience troubleshooting software and automation issues with assistance of testing engineers
+
+- Familiarity with development best practices such as code reviews, unit testing, system integration testing (SIT) and user acceptance testing (UAT).
+
+- Highly motivated, quality minded developer, with proven ability to deliver applications against tight deadlines.
+
+- Possess good interpersonal, analytical presentation Skills, ability to work in Self-managed and Team environments.
+
+- Performed code reviews and implemented best Pythonic programming practices
+
+- Experience in writing test scripts, test cases, test specifications and test coverage.
+
+- Good experience in handling errors/exceptions and debugging the issues in large scale applications.
+
+- Extensive usage of IDE tools like Pycharm and Eclipse, and development tools like git, Bitoucket, SVN, Tibco(console).
+
+SKILLS
+------
+
+- Programming : Python, C, C++, Java script Databases : Microsoft SQL Server, PostgreSQL, Oracle, MySQL,
+
+- Python Libraries : Pandas, Numpy, Pyside, Scipy, wxPython, MS Access, Mongo Db and NoSQL database. PyTables, © Cloud Technologies : AWS ( $3, CloudWatch, APIGateway,Step Beautiful Soup, SQL Alchemy, pdb, gdb. Functions, RDS, CloudFormation, Lambda, EC2, SES, SNS,
+- Operating Systems: Ubuntu, Windows 10/XP/2000/Vista/7, Batch)
+
+RedHatlinux, Windows server 2008, 2012.
+- Development tools : Sublime Text, Eclipse, PyCharm, emacs, gvim, Notepad++, OpenGrok, Jenkins, Coverity, pylint.
+
+Big Data : Hive, Pig, PySpark, Spark Version Control : Git, GitHub, CVS, SVN.
+Methodologies : Agile, Scrum and Waterfall.
+
+WORK EXPERIENCE
+---------------
+
+Software Engineer , 11/2018 - Current
+
+Hcl Technologies Ltd. - Franklin, GA
+
+- Design and Development of sophisticated data driven software platforms using Python, Java and Scala languages
+
+- Migrated SP's from Netezza to Cloud using Scala Spark, Performed analysis and presented results using SQL, Excel.
+
+- Imported, exported and manipulated large data sets in multi-million-row databases under tight deadlines, Wrote and automated scripts to increase departmental efficiency and automate repeatable tasks.
+
+- Collaborated with project managers, legal counsel, and other team members to gather data for projects.
+
+- Collaborating on software projects with product design and backend aspects.
+
+- Analyzing data to effectively coordinate the installation of new systems or the modification of existing systems.
+
+- Managing the software development lifecycle, Monitoring system performance,Shaping the future of our systems.
+
+- Worked on Developing Airflow Dags for Job monitoring and Scheduled jobs to run everyday using python2 and Python3.
+
+- Used operators like Python Operator, Bash operator, Ansible operator to run spark commands using shell scripts.
+
+- Testing software development methodology in an agile environment and fixing bugs.
+
+- Working on technologies like Hadoop, Hive, Pig, Oozie, Map Reduce, Spark, Sqoop, Kafka, Flume, etc for data quality analysis and for monitoring production jobs.
+
+- Extensive Usage of Bitbucket to access code and usage of git for commiting changes to bitbucket, creating branches.
+
+- Usage of infrastructure automation technologies like Docker, Vagrant, etc.
+
+- Building jars for production and deployment in production servers using automation technologies like Jenkins CI/CD, Maven, etc.
+
+- Designing, building, and automating solutions utilizing AWS services such as EC2, $3, RDS, Route 53, Lambda, LAM, ECS and API Gateway.
+
+- Developed end to end application components involving business layer, persistence layer, and database and web services layer.
+
+- Documented Detailed design within a given project structure.
+
+- Developed code for http Api calls like (GET, PUT, POST, DELETE)
+
+- Worked on Ingestion Process of geospatial data using ETL techniques.
+
+- Experience in working and coordinating with offshore resources.
+
+- Used Analytical Python Libraries like Pandas, Boto3, Scipy and Numpy to work on Data Manipulations.
+
+- Successfully coordinated and developed the deployment process.
+
+- Worked on .csv, xml, -xlsx, and json files.
+
+- Worked Extensively on Python libraries like Pandas for reading .csv files and Boto3 libraries for s3 access.
+
+- Experience Working on ORM toolkits like SQLAIchemy and GeoAlchemy.
+
+- Performed development and test of system enhancements which include SQL Jobs and SQL queries.
+
+- Used Airflow for scheduling jobs and developed airflow dags using Python
+
+- Developed and executed test scripts using Selenium Webdriver and analyzed test results.
+
+- Documented the entire build and deployment process including detailed step-by-step instructions.
+
+- Worked on developing tables using alembic a data migration tool used for SQLAIchemy.
+
+- Extensively worked on Jenkins and Artifactory for Continuous Integration and Deployment.
+
+- Wrote python scripts to parse XML and CSV documents to load the data in the database.
+
+- Extensively worked on spark, Hive for DQC’s and validations.
+
+- Created SNS notifications and assigned ARN to $3 for object loss notifications and created bucket policies as a part of cost reduction.
+- Working knowledge in AWS Lambda for Server-less computing using Python
+
+- Working knowledge in Api Gateway for creating Api keys and endpoints.
+
+- Developed cloud formation scripts to create and update stacks.
+
+- Generated property list for every application dynamically using python.
+
+- Creating unit test/regression test framework for working/new code.
+
+- Debugging and testing of the applications & fine-tuning performance. Provided maintenance support in the production environment.
+- Followed Agile and Scrum Methodologies. Used Jira ticketing system
+
+Python Developer, 02/2017 - 10/2018
+
+Motion Recruitment - Grand Rapids, MI
+
+- Developed Restful APIs using Python.
+
+- Analyzed complex user requirements, procedures, and problems to improve existing System design.
+
+- Helping automate data analysis by automating pre-processing and incorporating helper functions into API codebase.
+
+- Used SQL toolkits like SQLAIchemy and Geo Alchemy.
+
+- Extensively worked on Geospatial data.
+
+- Developed end to end application components involving business layer, persistence layer, and database and web services layer.
+- Documented Detailed design within a given project structure.
+
+- Developed code for http Api calls like (GET, PUT, POST, DELETE)
+
+- Worked on Ingestion Process of geospatial data using ETL techniques.
+
+- Experience in working and coordinating with offshore resources.
+
+- Used Analytical Python Libraries like Pandas and Numpy to work on Data Manipulations.
+
+- Successfully coordinated and developed the deployment process.
+
+- Worked on .csv, xml, -xlsx, and json files.
+
+- Usage of SVN and Bitbucket for accessing code using IntelliJ
+
+- Worked Extensively on Python libraries like Pandas for reading .csv files
+
+- Experience Working on ORM toolkits like SQLAIchemy and GeoAlchemy.
+
+- Performed development and test of system enhancements which include SQL Jobs and SQL queries.
+
+- Used Selenium Grid to run the scripts in multiple platforms and browsers.
+
+- Developed and executed test scripts using Selenium Web Driver and analyzed test results.
+
+- Documented the entire build and deployment process including detailed step-by-step instructions.
+
+- Worked on developing tables using alembic a data migration tool used for SQLAIchemy.
+
+- Extensively worked on Microsoft Team city and Octopus for Continuous Integration and Deployment.
+
+- Wrote python scripts to parse XML and CSV documents to load the data in database.
+
+- Extensively worked on AWS Cloud platform and its features including EC2, VPC, RDS, Api Gateway, Cloud Watch, Cloud Formation, Step Functions, LAM, $3, SES, SNS, Batch, Lambda.
+
+- Created SNS notifications and assigned ARN to $3 for object loss notifications
+
+- Identifying and applying necessary changes to classify bank statements rules in Google's cloud-based IDE (Cider) for automatic classifications using Python.
+
+- Working knowledge in AWS Lambda for Server-less computing using Python
+
+- Working knowledge in Api Gateway for creating Api keys and endpoints.
+
+- Developed cloud formation scripts to create and update stacks.
+
+- Generated property list for every application dynamically using python.
+
+- Worked on Defect Debugging.
+
+- Creating unit test/regression test framework for working/new code.
+
+- Debugging and testing of the applications & fine-tuning performance. Provided maintenance support in production environment.
+- Followed Agile and Scrum Methodologies. Used Jira ticketing system.
+
+Python Developer, 02/2015 - 11/2015
+
+Motion Recruitment - Groveport, OH
+
+- Developed application logic using Python, Java script, Java
+
+- Used JMS for updating Mailing plans and tracking them.
+
+- Used Java Server Pages for content layout and presentation.
+
+- Created Data layer in MYSQL.
+
+- Successfully coordinated and developed the deployment process
+
+- Documented the entire build and deployment process including detailed step-by-step instructions
+
+- Supported multiple parallel projects by creating processes & procedures for reusing existing code
+
+- Extracted and loaded data using Python scripts and PL/SQL packages
+
+- Supported Java application for Media portal management.
+
+- Added Buy side and Sell side interfaces to route and receive orders over FIX as TCP/IP packets on a given port. Used FIX Simulator behind the scenes.
+
+- Migrated C and C++ tasks to Python. Generated SWIG interfaces for tasks that are good to be left in C++. Interacted with Python using SWIG interfaces.
+
+- Wrote python scripts to parse XML documents and load the data in database.
+
+- Analyzed the SQL scripts and designed the solution to implement using pySpark.
+
+- Worked on loading CSV/TXT/DAT files using Scala in Spark Framework.
+
+- Used SQL to extract the customer data from the google Universal Ticketing System (GUTS) for monthly and quarterly revenue analysis.
+
+- Implemented Spark sample programs in python using pySpark.
+
+- Automated Docker container backups and deployed Apache Networking: HTTP, applications using Ansible
+
+- Generated property list for every application dynamically using python.
+
+- Managed the configurations of multiple servers using Ansible.
+
+- Created/modified the OBIEE metadata repository including the physical, business model, and presentation areas.
+
+- Designed and Developed User Interface using front-end technologies like HTML, CSS, JavaScript, JQuery, AngularJS, Bootstrap and JSON.
+- Creating unit test/regression test framework for working/new code
+
+- Debugging and testing of the applications & fine-tuning performance. Provided maintenance support in production environment.
+
+- Developed exhaustive SQL Queries to find differences in datasets to find out whether rolled out software has fixed issues.
+
+- Involved in creating Shell scripts to simplify the execution of all other scripts (Pig, Hive. Sqoop, Impala and MapReduce) and move the data inside and outside of HDFS.
+
+- Developed scripts to migrate data from proprietary database to MySQL.
+
+- Followed Agile and Scrum Methodologies. Used Jira and other proprietary ticketing systems.
+
+EDUCATION
+---------
+
+Master of Science: Computer And Information Systems Security, 07/2018 University of Cumberlands - Kentucky
+
+Bachelor of Science: Chemical Engineering, 04/2015 Vignan University of Science And Technology - Guntur
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

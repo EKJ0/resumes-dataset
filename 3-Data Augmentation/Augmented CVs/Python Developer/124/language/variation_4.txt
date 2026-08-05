@@ -1,0 +1,485 @@
+J
+
+ESSICA
+
+CLAIRE
+
+&
+
+resumesample@example.com
+
+(555) 432-1000
+
+SKILLS
+------
+
+TECHNICAL SKILLS
+----------------
+
+Java Technologies
+
+Java/J2EE 1.4/1.5/1.6/1.7/1.8 Servlets, JSP, Struts, JDBC, Spring, Hibernate, EJB, JMS, MDBs, JNDI, JPA, JTA, FTP,
+SFTP, JAXB, JMX, MQ, Junit, Spring Boot, Maven, Swagger.
+Databases and Tools
+
+Oracle 81/10g, DB2, PLSQL Developer, Toad for Oracle, Toad for DB2, IBM DB2 Control Center.
+
+Application Servers
+
+BEA Weblogic 9.2, IBM WebSphere 6.1/7.0, Apache Tomcat v8.5
+
+Web Technologies JavaScript/AJAX, HTML, DHTML, CSS, Web Services (SOAP, WSDL), WS -BPEL.
+Java IDE
+
+Eclipse, MyEclipse Blue, BEA WebLogic workshop v8.1/v8.0, WSAD5.0, JDeveloper v1.3/ v1.4, RAD 8.0.
+
+Operating Systems
+
+Windows XP, Windows Vista, Windows 7, AIX.
+
+Other Languages
+
+C/C++, VB Script (Macros).
+XML Technologies
+
+XML, XSD, XSLT, SAX, DOM and JAXB, xStream.
+
+General Tools
+
+Microsoft Office Suite, Adobe Designer 10, MobiOne, Hyperion Designer, MyEclipse
+2015 Cl.
+
+Other Tools
+
+ANT, Log4J, ClearCase, TFS, ClearQuest, Mercury Quality
+Center 9.0/10.0, WinMerg, Beyond Compare, Dozer 3.0, J- CART, FindBug, PMD, Fortify, lETester, FireBug, SOAPUI, MS
+Script Debugger, Borland C++, XMLSpy, Edit Plus, IBM Clear case, Clear Quest, Jalopy, jQuery, jProbe, TWS, WinSCP,
+Putty, jExlorer, IBM Directory Server.
+
+EDUCATION
+---------
+
+Illinois Institute of Technology
+
+Master of Science: Computer Science
+
+Kal
+
+pataru Institute of Technology
+
+(vTU) Bachelors of Engineering:
+Electronics and Communication
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Highly motivated Sales Associate with extensive customer service and sales experience. Outgoing
+sales professional with track record of driving increased sales, improving buying experience and
+elevating company profile with target market.
+
+WORK EXPERIENCE
+---------------
+
+Deloitte Consulting - Sr. J2EE Developer/ System Software Specialist Ill
+City, STATE, USA + 06/2012 - Current
+
+The CCSAS CSE Project was formed based on child support reform legislation which required the
+Department of Child Support Services (DCSS) to work in collaboration with the Franchise Tax Board
+and the Federal Office of Child
+
+Support Enforcement to build a single, statewide child support automation system
+
+The CCSAS CSE Project represents the largest State Human Services system ever approved by the
+Federal Government
+
+CSE (Child Support Enforcement) is an enterprise based web application
+
+This application is further categorized in three parts, CSE Online application for County worker,
+CSE Batch Application for performing batch operation including generating forms, reports, notices
+and Self-Service as public facing web application for CP and NCP
+
+CSE Online application is developed to automate the whole business process, easy to use, cost
+effective, secure, fast and reliable
+
+This mainly has four modules Case, Establishment,
+
+Enforcement and Locate
+
+Responsibilities:
+
+Involved in analyzing the business requirements and designing the technical design documents for
+implementation
+
+As part of Technical Architecture Unit, understand the CSE Framework which is built on top of
+Struts-Tiles Framework
+
+Support migration of on-premises AIX based to Azure cloud-based applications on Linux environments
+
+Working on Cloud based technologies like Azure, AWS to develop and deploy micro-service to be
+used by Child
+
+Support Application
+
+Develop mobile apps using lonic Framework, Angular, Cordova and Capacitor plugins to be made
+available to users via Apple/Google Store
+
+Design and implement security solutions like reCaptcha to protect applications from security and
+brute force attacks
+
+Evaluate and design cloud-based application solutions using OpenShift, Docker and Kubernetes to
+meet the scaling and latency requirements
+
+Analyze, implement Secure Identity Management, Single Sign-on (SSO) and Multifactor
+Authentication (MFA) using Microsoft Azure, RedHat Identity Manager, RedHat SSO, Directory
+Server, Firebase and Google Cloud provider (GCP)
+
+Participated in various ADS (Analysis Design Sessions) to lead the design and implementation of
+major CSE enhancements like Adobe Form Generation Server Upgrade, Hyperion Reporting Server
+Upgrade, DB2 Driver upgrade, VIOLA, e-Docs, Self Service Mobile Web, and DCSS CAChildSup Mobile App iOS /Android
+
+Designed and developed wrapper REST framework for system on top of Apache HttpClient to be
+used for SECURE, FTB, IRS, DMV, SSM interface integration
+
+Architect and developed newly decouple form configuration application Enterprise Form Service
+(EFS) and integrated DocuSign using new software’s and tools like MyEclipse Blue, Maven, Oracle
+Java 8, Spring Boot,
+
+Spring AOP, Spring JPA, Spring JDBC, Spring Actuator, JWT, Swagger and others
+
+Design and implement integration solutions like Red Hat JBoss Fuse to provide mediating,
+transforming, and routing data across multiple applications, services, or devices for both internal
+systems and external services
+
+Evaluate and create proof of concept model for many software’s like AEM, SimliGov(Thinksmart),
+Intelledox, AdobeSign
+
+Use software project management and comprehension tools like Maven, Ant to build, manage projects and Jenkins to build continuous integration and continuous delivery pipelines
+
+Designed and developed the new framework to integrate the upgraded version of Adobe Form
+Generation Server (from Adobe Live Cycle 7 to Adobe Live Cycle ES3) software with existing
+architecture using RAD 8.0 IDE and deployed on Web Sphere 7.0 application server
+Developed/Modified form templates (XDP) to support Adobe Live Cycle ES3 software standards
+Designed and developed Single Sign On for Hyperion Reporting Server and integrated SSO with
+CSEOnline
+
+Modified CSE Architecture Server profile configuration to support DB2 driver upgrade from Type 2
+to Type 4 for all developer local workspace servers
+
+Lead the design and developed the new framework on top of existing CSE Architecture for Responsive webpages to support mobile platforms, CAPTCHA against bots, Web-Service for
+interaction between VIOLA and CSE-Online, Light weight Form Generation Service using iText in
+place of existing Adobe Form Server, File System based Document Storage Service in place of
+Content Manager, Custom Tag Libraries for VIOLA Web-based System
+
+Deploy/Manage applications on web servers like Apache, IHS and application servers like WebSphere, JBoss and Tomcat to provide application access to users
+
+Support all aspects of the software configuration management process including code compilation,
+packaging, deployment, release methodology and application configurations
+
+Ensure the project is progressing on schedule by adhering to an established set of methods and
+practices using project methodologies like Agile, Scrum and Waterfall
+
+Evaluate third party products such as AEM OSGI, Metascan to determine technical compatibility
+with the Child Support System and demonstrate with business users
+
+Manage source code using software configuration management tools like GITLab, GITHub, ClearCase for version control
+
+Track phases of development, releases and ServiceNow to process and catalog incidents, changes,
+problems, and service requests using Rally Agile Central
+
+Confer with Project Managers, Business Analysts, BI Architect, source system owners, Data Management/Data Quality team to ensure application meets business requirements
+
+Modify the existing CSE Architecture to support Struts Internationalization (Multi-Language pages),
+Multi-Language Error handling, integrate new data source, web-service producer, resource file and
+ant-script
+
+Support Configuration and Build team to modify the build script, deployment script, support
+Environment team to set up and configure the new VIOLA Application
+
+Designed and Developed the CAChildSup Android and iOS based version of Mobile Apps for DCSS
+Involved in the process of certifying and publish of Apps on iTunes and Google Play Stores
+Analyzed new mobile development tool kit MyEclipse 2015 Ci to migrate the Android Mobile App
+Source code to compile with phone gap version 3.6.3 in order to compliance with Google Play Store
+Designed and developed the mobilized version (Responsive Web Pages) of Self Service Customer
+facing web application used by a million participants
+
+Developed POC for Push-Notification and Email Notification for Mobile App to be implemented
+future
+
+Developed the presentation layer and GUI framework that are written using HTML, JSP, CSS, XHTML and client-side validations were done using JavaScript
+
+Design and developed the Encryption and Decryption Framework using AES Encryption Algorithm for
+communication between external sites like SDU
+
+Used JQuery for implementing the floating hyperlink on web pages
+
+Involved in using the J2EE design Patterns like Session Facade, DAO, Service Locator, Factory
+Extensively Used HQL (Hibernate Query Language) and SQL for querying the DB2 database
+
+Used Hibernate as ORM to persist data into database
+
+Extensively Used TOAD/DB2 Editor for Querying the DB2 Database
+
+Extensively Used Java Messaging Service (JMS) for asynchronous Processing
+
+Developed/Modified test cases for assigned test projects using JUnit on RAD 8.0 IDE
+
+Extensively used Rational ClearCase, ClearQuest for Version Controlling & Defect Tracking Extensively used Jalopy for format the source code as per project standards
+
+Created java docs and performed code reviews and peer reviews
+
+Served as key member in the production support team for application maintenance
+
+Technical Environment: Java, J2EE 1.4/1.5, EJB 2.0/3.0, Spring 1.3, JMS, MDB’s, WebSphere MQ,
+Java Beans, Struts Tiles Frame Work, WebSphere 7, Hibernate, JDBC, DB2, HQL, Log4J 1.2.8,
+JUnit, TOAD for DB2, FTP, SOAP UI, Web Services, SOA, Clear Quest, RAD 8.0, MyEclipse Blue,
+Eclipse, Clear Case, ANT, Cygwin, PuTTy, WinSCP3, AIX, Adobe Designer 10.0, TWS, Jalopy, Adobe
+Live Cycle ES3, MobiOne, MyEclipse Cl, Hyperion Intelligence Designer, IBM Directory Server,
+jExplorer, Microsoft Office Suite
+
+Accenture, Texas Medicaid, Partnership, TMHP - Lead/Sr. J2EE Developer
+City, STATE, USA + 12/2011 - 06/2012
+
+The goal of TMHP project is to Medicaid claim processing and Primary Care Case Management administrator duties for the Texas Medicaid and other state health-care programs
+
+It processes all types of medical/pharmacy files submitted by authorized health care providers and
+there members
+
+Responsibilities:
+
+Involved in analyzing the business requirements and designing the technical design documents
+Developed some of the common key modules used by the application like Business Edit Handler,
+Common Wrapper Exception, and Provider Transaction Tracking using JDeveloper IDE and deployed
+on BEA Weblogic application server
+
+Configured JMS for messaging system which is Message Oriented Middleware (MOM) and used MDB
+to process the messages sent from different modules with in application
+
+Worked in EDI messaging tearn to process Medicaid claims and forward them to other partners in
+Service oriented Architecture System (SOA)
+
+Develop/ Modified common reprocess module to invoke the process again in case of system fault
+for recovery management
+
+Developed/ Modified JAX-WS Web service, created web service proxy to invoke the service with in
+Java module and used SOAPUI to test and invoke the Web service
+
+Implemented business processes to interact with external and internal entities through Web
+Services operations defined using WSDL in Business Process Execution Language (WS - BPEL)
+Developed / Modified SQL queries in Oracle 10g using Data Administration Tool like Toad 9.2, PLSQL
+Developer and Sql Developer
+
+Used JPA as ORM to persist data into database and FileZilla for File transfer protocol (FTP)
+Developed/Modified test cases for assigned test projects using JUnit on JDeveloper IDE
+
+Used TFS for maintaining versions of the codes and used Quality Center for quality control
+management
+
+Experienced with creating java docs, code reviews and peer reviews
+
+Served in the production support team for application maintenance
+
+Extensively Java profiler for Java code profiling and performance monitoring
+
+Technical Environment: J2EE 1.6, Java 1.6, EJB 3.0, JMS, MDB’s, WebLogic 10, JPA, JDBC, Oracle
+10g, PL/SQL, Log4J 1.2.8, JUnit, TOAD, FTP, PLSQL Developer, SOAP UI, WS - BPEL, Web Services,
+Mercury Quality Center 9.0/10.0, JDeveloper 1.4/1.3, TFS, ANT, Java Profiler ,Microsoft Office
+Suite.
+
+Deloitte Consulting - Associate 5
+City, STATE, USA + 04/2008 - 12/2011
+
+Project: Court Case Management System (CCMS-V4, CCMS (Court Case Management System) is an enterprise application developed for the Association of
+
+Courts for the state of California
+
+The system automates the complete cycle of the court cases
+
+The whole idea is to make the process paperless, easy to use, cost effective, secure, fast and
+reliable
+
+This system takes care of the complete life cycle of a case from start to end
+
+Initiation of case, filing of documents, payment of fees, court room, announcing judgments and
+sending notices are some of the activities to mention
+
+The application involves interaction with various other departments using web services such as
+DMV and other agencies to get information, store and generate reports, forms and notices Responsibilities:
+
+Involved in designing the developer’s packets (guide) by transforming the functional requirements
+into real application
+
+interacted with SMEs to gather the changes required on the application’s web pages
+
+Developed web pages for Bulk Load Administration, Reference Table and others using JSP, DHTML,
+CSS and JavaScript
+
+Used different J2EE Design Patterns such as Session Facade, Front Controller, Value Object, Service
+Locator and Singleton to reduce fine grained remote call across the network
+
+Lead the team of two developers in Enhancement of Case Clocks modules
+
+Gained Subject matter expertise in the Appeals, Case Clock, Bulk Load, Admin screens, Disposition
+functionalities and served as point of contact person across the project
+
+Developed Middle Tier Stateless Session Beans, which support the GUI for retrieving, updating the
+data and incorporate business level validations
+
+Provided assistance for various complex technical problems
+
+Used Struts Tag library and also developed Custom tags to code the JSP pages
+
+Involved in development and maintenance of the framework used by the application
+
+Implemented spring framework’s dependency injection (Spring 1OC) in the Bulk load and Appeals
+Module to minimize the amount of code and provide loose coupling between different components
+Used SOAP based Web services to communicate between different environments and WSDL to describe the flow of message
+
+Developed/ Modified queries, stored procedures using PL/SQL in Oracle 10g
+
+Used JPA to develop persistence layer
+
+Extensively Used Java Messaging Service (JMS) which is a Message Oriented Middleware (MOM) for
+messaging in Bulk Load and others asynchronous Processing Modules
+
+Coded Message Driven Beans for processing the messages
+
+Used JMX for System diagnostics functionality
+
+Using the Service Oriented Architecture (SOA) involved in the development of Web services for
+data exchanges between the justice partners and CCMS application
+
+Used JAXB for Inbound Data exchange to bind the java objects with xml
+
+Implemented AJAX to enhance presentation layer and make GUI more user interactive
+
+Developed key components in the system using Weblogic workshop and Eclipse IDE
+
+Involved in fine tuning the queries and optimizing the Java code to support the Stress testing of
+the application
+
+Extensively used Oracle JRockit Mission control and Your Kit Java profiler for Java code profiling
+and performance monitoring
+
+Involved in setting up the JManage tool to monitor all the Mbeans of the application for application
+diagnostics
+
+Used FileZilla and SSH Secure Shell for file transfer protocol (FTP) and SFTP
+
+Used TIBCO Designer and TIBCO Administrator Enterprise Application Integration (EA!) tools for
+Data exchange messages work flow development and debugging the DX inbound and outbound messages from core CCMS Application
+
+Developed/ Modified SQL queries in Oracle 10g using Data Administration Tool like Toad 9.2
+Proposed, Implemented and Lead the internal testing process (Manual) within our group to ensure
+product quality and used Quality Center for quality control management
+
+Used Clear quest for operation change management
+
+Coordinated with support tearn and testing team for defect fixes across all modules of the
+application
+
+Develop and execute test plans for assigned test projects using JUnit
+
+Served as a help desk member for my team during product acceptance testing(PAT)
+
+Written ANT build scripts to automate the build process
+
+Used Clear case for maintaining versions of the code
+
+Developed documentation as per standards
+
+JDBC, Java Beans, EJB, JSP, Servlets, JMX, Custom tags, Struts Frame work, Spring, Java Script,
+Ajax, Eclipse, HTML, CSS, XML, XSLT, WebLogic 8.1/9.2/10.3, Oracle, SQL, Ant, UML, Rational
+ClearCase and Clear Quest, JMS, Web Services, JAXB, Rational Rose, Magic Draw, Your Kit Java
+Profiler, Oracle JRockit Mission Control, JManage, FileZilla, FTP, SFTP, TIBCO Administrator, TIBCO
+Designer, Adobe Live Cycle forms, Test Director, WinMerg, FireBug, IETester, MS Excel, VB
+Script(Macros), Mercury Quality Center 9.0/10.0, J-Cart, Jakarta’s BCEL, FireBug, MS Script
+Debugger, Dozer 3.0, PMD, TOAD
+
+ACCOMPLISHMENTS
+
+AWS Certified Solution Architect with more than 12 years of IT experience in Object-Oriented
+Design, Development and Maintenance of applications with Java/J2EE technologies using different
+IDEs and different Application Servers
+
+Extensive experience in all phases of software development life cycle (SDLC) which includes
+Design, Development, Testing and Maintenance using Agile and Waterfall Methodology
+
+Received two Certificate of Appreciation Awards in a row for Adobe Live Cycle ES3 Upgrade,
+CAChildSup Hybrid Mobile App and Responsive Web Design for Mobile at DCSS
+
+Excellent programming skills on JAVA/J2EE Technologies including JSP, Java Beans, EJB, JMS,
+MDB’s
+
+Having extensive experience with different Design Patterns (DAO, Singleton, Session Facade, Value
+Object, Factory and Service Locator)
+
+Strong knowledge on Form Generation and Reporting software like Adobe Live Cycle ES3, iText,
+Hyperion, AEM
+
+Strong knowledge on cloud based electronic signatures like AdobeSign, DocuSign
+
+Good understanding of cloud-based solutions like Intelledox & SimpliGov’s (ThinkSmart) for
+digitizing and automate the business processes
+
+Expertise in Web Services technologies - XML, XSLT, XSD, SOAP,REST,WS - BPEL, WSDL and related
+tool like SoapUI, Postman
+
+Strong Experience in designing & developing the web applications using Struts Framework and
+Spring Framework based on the MVC Architecture
+
+Excellent experience is developing Spring Boot application associated technologies like maven,
+Swagger
+
+Good experience on Validation Framework, AJAX
+
+Developed persistence framework using JPA, Hibernate, Spring JTA
+
+Extensive experience on different IDEs like Eclipse, MyEclipse Blue, Weblogic, RAD
+
+Excellent experience in Application Servers like WebSphere Application Server, Apache Torncat
+Server and BEA Web Logic
+
+Strong Knowledge in working with Database Oracle 10g/8i, DB2 and Data Administration Tool like
+Toad 9.2, PLSQL Developer and SqlDeveloper, IBM DB2 Control Center
+
+Experience in writing test cases using Junit and Easy Mock Test Framework
+
+Strong knowledge on Mobile App Development using MobiOne, MyEclipse Cl and Publishing process
+on iTunes and Google Play Store
+
+Experience in Version Control system like ClearCase, CVS, TFS, build tool Apache ANT, maintaining
+the log statements in code using Log4j, issue tracking system using Rational Clear Quest and
+quality management tools like Mercury Quality Center 9.0/10.0
+
+Good knowledge of open source Java Bean Mapping Frameworks like Dozer 3.0, Auto Code Review
+tool like J-CART, Find Bugs, PMD and code-coverage tool like Jakarta’s BCEL
+
+Strong knowledge of JavaScript and script debugger like FireBug, MS Script Debugger
+
+Experience in code merging tools like WinMerg, Beyond Compare and ClearCase
+
+Strong knowledge of MS-Office, VB Scripts (Macro)
+
+Excellent Analytical, Problem solving and communication Skills
+
+CERTIFICATIONS
+--------------
+
+AWS Certified Solution Architect
+
+Sun Certified Programmer for the Java 2 Platform 1.5
+
+Sun Certified Web Component Developer for Java Platform 1.5
+
+ADDITIONAL INFORMATION
+
+RECOGNITION AND AWARDS: , Received Certificate of Appreciation award for valuable contribution
+to the successful implementation of VIOLA (Virtual Interactive Online Application) - 2016 Received
+Team Appreciation award for Outstanding performance in IT Infrastructure Branch - 2014 (DCSS
+Mobile App/Responsive Web) Received Certificate of Appreciation award for Outstanding
+performance in IT Infrastructure Branch - 2013 (Adobe Live Cycle ES3 Upgrade)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

@@ -1,0 +1,49 @@
+ROBERT SMITH
+
+Python Developer/Tester
+info@qwikresume.com | Linkedin Profile | Qwikresume.com
+
+Technology and business visionary with 3+ years of Software Engineering Experience in Analysis, Designing, Developing, Testing, Automation, Customization, Bug fixes,
+Enhancement and Implementing of various stand-alone and client-server architecture based enterprise applications. Experience in Object Oriented Analysis in developing
+server side and front-end framework using various design patterns
+
+Python Developer/Tester
+Solar Turbines Inc - FEBRUARY 2015 - PRESENT
+
+Automated moving the tests from production to staging and staging to production by reading the keywords from NVbugs
+
+Consumed APIS and used Python requests to read json reports and file automatic bugs in the NVbugs (nvidias internal bug filingfAracking
+system) for intermittent tests,
+
+Designed and configured database and backend applications and programs.
+
+Developed, tested and debugged software tools utilized by clients and internal customers,
+
+Experienced in designing test plans and test cases, verifying and validating web based applications.
+
+Used test driven approach for developing the application and implemented the unit tests using Python unit test framework.
+Experience in reviewing Python code for running the troubleshooting test-cases and bug Issues.
+
+Python Developer
+ABC Corporation - APR 2010 - FEB 2015
+
+Used ajax and jquery for transmitting json data objects between frontend and controllers
+
+Django framework that was used in developing web applications to implement the model view control architecture.
+
+Having experienced in agile methodologies, scrum stories and sprints experiencein a python based environment.
+
+Utilized standard python modules such as csv, robotparser, itertools and pickle for development,
+
+Developed and tested many features for dashboard, created using bootstrap, css, and Javascript
+
+Worked on front end frame works like css bootstrap for responsive webpages.
+
+Collaborated with internal teams to convert end user feedback into meaningful and improved solutions.
+
+- This Free Resume Template 's the copyright of Qwikresume.com, Usage Guidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Member, Chess Club. Treasurer, Debate Team.

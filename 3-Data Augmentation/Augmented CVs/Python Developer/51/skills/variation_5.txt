@@ -1,0 +1,221 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+AFFILIATIONS
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor &2 (555) 432-1000 4 resumesample@example.com
+
+Used machine learning to create linear regression, logistic regression, clustering and other models.
+Created interactive dashboards in Tableau and shared it with other users.
+
+Technical Business Analyst with about 4 years of experience in Healthcare and Oracle applications.
+
+In depth knowledge of HIPAA (4010, 5010), ICD (9, 10), HL7, EDI (file formats like 837 /P/D, 835 [...]
+[...] Claims.
+
+Extensive design experience in creating process flow diagrams using IBM Blueworks Live and UML
+diagrams such as Use Cases, Activity Diagrams and Sequence Diagrams using MS Visio and Rational
+Rose.
+
+Adept at creating and transforming business requirements into functional requirements and designing
+business models using UML diagrams- Use Case Sequence and Activity Diagrams Data-Flow Diagrams
+& Data Modeling.
+
+Excel in liaising between business and technical areas to achieve on-time, on-budget and on-spec
+project completions. Good project management skills.
+
+Experience with web-based collaboration tools such as WebEx, GoToMeeting or Lync/Skype for
+Business.
+
+Good knowledge of Healthcare Revenue cycle management.
+
+Good understanding of the Oracle financial modules such as AP. GL, FA and AR.
+
+Extensive knowledge of Oracle pl/sql, Oracle reports and Oracle forms.
+
+Comprehensive knowledge of SDLC with experience in black box, regression, integration, UAT, load
+and performance testing.
+
+Experience with tracking and reporting status to supervisor per established weekly status reporting
+process.
+
+Identify issues and risks and bring them to supervisor's attention with sufficient lead-time to avert
+crises.
+
+Participate actively in weekly team status meetings and Program Management Office (PMO) meetings.
+Good experience in Release planning and management.
+
+Expertise in implementing systems Development in Agile (Scrum), RUP & Waterfall Methodologies.
+Excellent communication and presentation skills with experience in development, implementation and
+integration of strategies within a team-oriented environment.
+
+Machine learning, statistics, data mining, people « Python, Database Management,Data development, communication, strategy, management,Basic math, Analytical skills
+visualization, cross-functional collaboration,
+
+project management.
+
+DATA SCIENCE WITH PY THON 10/2018 to CURRENT
+
+Change Healthcare | Robesonia, PA
+
+Did exploratory data analysis (EDA) using python
+
+Studied about statistical Analysis and Business applications like population sample, statistical analysis
+considerations, data distributions, dispersion and histograms.
+
+Performed mathematical computation on datasets with Numpy.
+
+Used Scipy for scientific computation.
+
+Data manipulation with Pandas.
+
+Used machine Learning and natural language processing with Scikit Learn.
+
+Created data visualization models using Matplotlib.
+
+Python integration with Hadoop Map Reduce and spark.
+
+Leveraged mathematical techniques to develop engineering and scientific solutions.
+
+Tested and validated models for accuracy of predictions in outcomes of interest.
+
+Implemented randomized sampling techniques for optimized surveys.
+
+Improved data collection methods by designing surveys, polls and other instruments.
+
+Modeled predictions with feature selection algorithms.
+
+Compiled, cleaned and manipulated data for proper handling.
+
+Applied loss functions and variance explanation techniques to compare performance metrics.
+
+Did a project on Movielens Dataset Analysis with details as follows: The Group Lens Research Project
+is a research group in the Department of Computer Science and Engineering in the University of
+Minnesota. The researchers of this group are involved in many research projects related to the fields of
+information filtering, collaborative filtering, and recommender systems. So, | performed the analysis
+using the Exploratory Data Analysis technique. Applied the tools of machine learning to predict the
+survivors of the tragedy.
+
+Presented findings orally and in writing with advanced mathematical models.
+
+Ran statistical analyses within software to process large datasets.
+
+DACA SCIENTIST 01/2016 to 10/2021 University Of Kansas Medical Center | Manhattan, KS
+
+Customer Lifetime Value Model in a Non-contractual setting.
+
+Estimated the value of a customer based on the purchase behaviour using log-likelihood and MC-MC
+model
+
+Predicted churn rate, transaction frequency and expected lifespan of a customer based on rfm data.
+Produced error and accuracy plots to demonstrate the trade off between prediction quality and
+prediction duration.
+
+Visual Recommender based on a Convolutional Neural Network
+
+Modified the learning rate decay of the network to handle vanishing and exploding gradient problems
+effectively
+
+Enhanced the neural network to perform iterative logging of weights based on the maximum validation
+accuracy.
+
+Improved the performance of the recommender by implementing dropout layers to avoid over fitting.
+Market Basket Analysis to generate association rules of item bundles
+
+Calculated the support, lift and confidence of the generated association rules to generate
+recommendation
+
+Experimented on FP-growth algorithm to significantly improve the performance as compared to
+apriority.
+
+Extended the model to account for sequence of purchases to improve the quality of predictions.
+Provided comprehensive analysis and recommend solutions to address complex business problems
+and issues using data from internal and external sources and applied advanced analytical methods to
+assess factors impacting growth and profitability across product and service offerings.
+
+Developed quarterly roadmaps based on impact, effort and test coordinations, working with stakeholders to achieve short-term and long-term goals.
+
+Collaborated with internal stakeholders, identifying and gathering analytical requirements for customer,
+product and projects needs.
+
+Created and cultivated test and learn culture among CRM and digitization groups, creating and
+executing structured experimentations based on data-driven and market ideas.
+
+Developed data-gathering and reporting structures from ground up and strategized methods capitalizing on system features.
+
+Evaluated processes and data, identifying productivity gains and sales growth within digitization
+segment.
+
+Applied statistical and algebraic techniques to interpret key points from gathered data.
+
+Leveraged analytics to drive business development, productivity and process improvement and
+marketing strategies, including customer lifetime modeling, acquisition, retention, win backs and
+monetization.
+
+Implemented randomized sampling techniques for optimized surveys.
+
+Applied loss functions and variance explanation techniques to compare performance metrics.
+Compiled, cleaned and manipulated data for proper handling.
+
+Improved data collection methods by designing surveys, polls and other instruments.
+
+PHO STUDENT 06/2015 to 08/2020 Walden University | City, STATE
+
+| did my dissertation for the fulfillment of PhD study on topic of construction project management
+maturity model determination and correlation to success factor.
+
+The research grounded on theories of leadership, management, organizational behavior, and project
+management.
+
+Quantitative data were collected from 190 professional managers in from government, consultant, and
+contractors.
+
+More than 90 variables, and 20,000 data entry were used in research.
+
+Remote data collection tools and methods effectively used to complete the study.
+
+| successfully designed, apply the methods to find solutions for the most project management failures
+as related to the key project management knowledge driving project succeed or failed.
+
+| defended well and the study is released online since September as open source by the time of this
+application 580 copies were downloaded.
+
+After school, | am here to apply the fresh energy in fields of one of the critical resource.
+
+Ph.D | Management 08/2020 Walden University, Minneapolis, MN
+
+Mater of Arts | Economics 12/2019 Indra Gandhi National Open University, New, Delhi
+
+Mz_ter of Philosophy | Management 04/2019 Walden University, Minneapolis, MN
+
+ME“ | Operation Management 08/2013 Indra Gandhi National Open University, New, Dethi
+
+Bachelor of Science | Civil Engineering 07/1998 Addis Ababa University Faculty of Technology, Addis, Ababa
+
+Executive leadership Certified National Society Of Leadership and Success. Advanced leadership Certified
+National Society Of Leadership and Success. Practicing Professional Construction Management, MoC 2015 -
+Present.
+
+American National Society of Leadership and Success lifetime member. American Project Management
+Institute Member. Ethiopian Society of Civil Engineers Member.
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

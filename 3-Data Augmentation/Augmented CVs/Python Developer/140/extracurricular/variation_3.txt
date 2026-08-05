@@ -1,0 +1,329 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+
+& (555) 432-1000
+
+100 Montgomery St. 10th 9 Floor
+
+SKILLS
+------
+
+- Tableau, Power BI, SAP Business objects, Excel, SSRS, SSAS, Alteryx
+
+- Agile, Scrum, JIRA tool for tasks tracking
+
+- MS SQL Server
+2016/2014/2012/2008
+R2/2008, Oracle, MySQL, Oracle, MS Access, SQL Server Management Studio,
+
+- Jira, Confluence, Azure Dev- ops, MS Office Suite (Outlook, Word, Excel, PowerPoint),
+Microsoft 365.
+
+- Postman, Quality Center.
+
+- MS Excel, Power Point, SQL server, Service now, Agile
+
+EDUCATION AND TRAINING
+
+JNTU
+05/2008
+
+Bachelors: Electronics and Instrumentation Engineering
+
+CERTIFICATIONS
+--------------
+
+- Certified Tableau desktop
+specialist, tableau - 2022
+
+SUMMARY
+-------
+
+Insightful technology professional with deep knowledge of data analytical skills with ability to convert
+complex data findings into story telling visualizations enabling organizations to make effective data-
+driven decisions. Dedicated to deliver business results through strong cross-functional collaboration
+focusing on solving problems and addressing specific customer needs.
+
+WORK EXPERIENCE
+---------------
+
+Akken Cloud - Sr Data Analyst/ Tableau Developer
+Portland, OR + 06/2020 - Current
+
+Created a suite of Tableau dashboards that illustrated key financial metrics in a refined, easy to
+navigate format for presentation at Quarterly Business Reviews at Experian
+
+Worked with key business stakeholders to understand the Tableau Report requirements and then
+worked with Designers to create Visual Design of the Reports as well as conducted detailed multiple
+stakeholder walkthrough on each Tableau report developed
+
+Development of Key Performance Indicators (KP!) dashboards that provides internal employee
+productivity of specific period
+
+Involved in extraction, transformation and loading of data directly from different source systems
+like, Excel, Oracle, flat files, and SQL Server
+
+Created views to facilitate easy user interface implementation and triggers on them to facilitate
+consistent data entry into the database
+
+Created action filters, parameters, and calculated sets for preparing dashboards and worksheets in
+Power BI/Tableau
+
+Designed and developed Power BI graphical and visualization solutions with business requirement
+documents and plans for creating interactive dashboards
+
+As a Power BI and Tableau SME responsible for the design, development and production support of
+interactive data visualizations used across the company
+
+Implemented Groups, Sets, combine fields, and aggregated fields to compare and analyze data in
+different perspectives in Tableau
+
+Created Power BI dashboards using stack bars, bar graphs, scattered plots, geographical maps,
+Gantt charts etc
+
+Using show me functionality
+
+Designed and developed ETL workflows and datasets in Alteryx to be used for Reporting (ETL tool
+specific for creating datasets) Tableau Data Extract for BI
+
+Involved in creating data blending in case of merging different sources, used Alteryx for Data
+blending for Tableau
+
+Edit the Alias and Replace the References
+
+Create and modify Interactive Dashboards and Creating guided navigation links within Interactive
+Dashboards
+
+Used ETL (Alteryx) process to Extract, Transform and Load the data into stage area and data
+warehouse
+
+Used Tableau Desktop Data Visualization tool for reports, integrated tableau with Alteryx for Data
+& Analytics
+
+Created an aggregated report daily for the client to make investment decisions and help analyze
+market trends
+
+Involved in Configuring and Upgrading the On Premises Data gateway between various Data sources like SQL Server to Azure Analysis Services and Power BI service
+
+Processed data in Alteryx to create TDE for tableau reporting
+
+Used Alteryx for data and analytics
+
+Developed storytelling dashboards in Tableau Desktop and published them on to the Server, which
+allowed end users to understand the data on the fly with the usage of quick filters for on demand
+needed information
+
+Reviewed basic SQL queries and edited inner, left, and right joins in Power BI desktop by connecting live/dynamic and static datasets
+
+Wrote the ETL scripts and SSIS packages to load the data into the database from various source
+files
+
+Experience in error handling and troubleshooting the scripts failure, to load the data into the
+database
+
+Proficient in architecture with different RDBMS platforms like Oracle, SQL Server, and operating
+SQL Server suites like SSIS, SSRS and SSAS
+
+Administered user, user groups, and scheduled instances for reports in Power BI
+
+Executed and tested required queries and reports before publishing
+
+Mastered the ability to design and deploy rich Graphic visualizations with Drill Down and Drop-down
+menu option and Parameterized in Tableau and Power BI
+
+Created side by side bars, Scatter Plots, Stacked Bars, Heat Maps, Filled Maps and Symbol Maps
+according to deliverable specifications
+
+Created Custom Hierarchies to meet the Business requirement in Power BI
+
+Environment: Tableau, Power BI Desktop, MS Excel, Power Point, MS Project MS SQL Server, Agile,
+JIRA, Confluence, Alteryx 11.0 & 11.3
+
+Akken Cloud - Tableau Developer/Sr Business Data Analyst
+San Diego, CA + 02/2018 - 05/2020
+
+Business requirement gathering and translating them into clear and concise specifications and
+queries
+
+Creating complex SQL queries and scripts to extract and aggregate data to validate the accuracy of
+the data
+
+Experienced in Data mapping, Data transformation between sources to target data models
+
+Used Alteryx ETL process to Extract, Transform and Load the data into stage area and data warehouse
+
+Building, publishing and customizing interactive reports and dashboards, report scheduling using
+Tableau server
+
+Created action filters, parameters, and calculated sets for preparing dashboards and worksheets in
+Tableau
+
+Developed, tested, and deployed the dashboards for service now tickets by connecting to Service
+DB (SQL server)
+
+Administered user, user groups, and scheduled instances for reports in Tableau
+
+Executed and tested required queries and reports before publishing
+
+Blended data by using Alteryx
+
+Mastered the ability to design and deploy rich Graphic visualizations with Drill Down and Drop-down
+menu option and Parameterized using Tableau
+
+Creating Dashboards Scorecards, views, pivot tables, charts, for further data analysis using Power
+BI desktop
+
+Created hierarchies in Power BI reports using Data visualizations like Bar chart, Line chart, pie
+charts, forecast charts
+
+Creating DAX Expressions, create Date to yearly columns and implement partitions in Tabular
+Models for power BI
+
+Publishing Power BI reports of dashboards in Power BI server and scheduling the dataset to refresh
+for upcoming data in power BI server
+
+Generating Drill through and Drill down reports with Drop down menu option, sorting the data, and
+defining subtotals in Power BI
+
+Migrated existing self-service reports and ad-hoc reports to Power BI
+
+Consistently attended meetings with the Client subject matter experts to acquire functional
+business requirements to build SQL queries that would be used in dashboards to satisfy the
+business’s needs
+
+Created Tableau reports for Snowflake Schema for Relational and Dimensional Modeling
+
+Worked on the backend database development which was the source data for the tableau
+
+Created Custom Hierarchies to meet the Business requirement in Tableau
+
+Environment: Tableau Desktop, Tableau Server, Power BI Desktop, MS Excel, Power Point, SQL
+server, Service now, Agile, Jira, ETL.
+
+Experian - Senior Business Data Analyst / Tableau
+
+City, STATE + 08/2016 - 11/2018
+
+Willdanpoint of contact working with stakeholders to understand their systems, AS-IS process and
+business needs and worked as a trusted advisor to identify opportunities for new insights, analytics
+and reporting solutions
+
+Design visually interactive and actionable dashboards using data visualization tools
+
+Showcases ability to extract, collate, and transform data from different (HR, Finance and recruiting
+etc.) systems for reporting and analytics use
+
+Participated in Tableau installation and configuration with Standalone and Distributed environment
+Created Users, User Groups and Projects through Tableau server Web and assigned roles and permissions for Tableau Users
+
+Account creation for users and stakeholders in both JIRA and Confluence
+
+Published Tableau workbooks (.TWB) from Tableau desktop to Tableau Server
+
+Worked with Tableau data Extract (.TDE)
+
+Created Level of detail expressions (LOD Expressions) data source columns are computed for each row
+in the underlying table
+
+Applied action filters specific sheets in the dashboard and cross dashboard
+
+Experience Dual Axes and show the graph in new visualization
+
+Experience in data blending with multiple data sources also using new features multi data source
+Perform ad hoc analysis and assist in building dashboards to support management business decisions
+Analyze and understand data and identify data issues and anomalies, document them and work with
+various groups to put processes in place to correct them
+
+Strong knowledge and understanding of SQL and ability to write SQL queries
+
+Data validation after the data load
+
+Developing and executing SQL scripts to test data between different tables
+
+Played a key role in User Acceptance Testing of the reports by running SQL’s
+
+Perform ad hoc analysis in support of business analysts and future projects
+
+Involved in Testing and Data validation of Reports
+
+Worked on databases (oracle), view data, and understand relationships between data
+
+Collaborate with other teams to coordinate activities and project work in order to ensure that meets
+deliverables
+
+Developed SQL queries for ad-hoc reporting
+
+Analyze technical problems and provide solutions
+
+Assists with production issues helping to troubleshoot and isolate issues to root cause and provide
+issue resolution by interacting with senior members of the Development Team
+
+Support ad hoc requests and projects as requested
+
+Environment: JIRA, CONFLUENCE, GVAP, MAINFRAMES, MS Excel, Power Point, SQL server, Service
+now, Agile
+
+LCC Infotech - Business Analyst
+City, STATE + 05/2014 - 07/2016
+
+Analyzed the business and wrote Business Rules Document
+
+Implemented and followed a Scrum Agile development methodology within the cross functional
+team and acted as a liaison between the business user group and the technical team
+
+Gathered requirements and created Use Cases, Use Case Diagrams, Activity Diagrams using MS
+Visio
+
+Performed Gap Analysis to check the compatibility of the existing system infrastructure with the
+new business requirements
+
+Created Use Case specifications, business flow diagrams and sequence diagrams to facilitate the
+developers and other stakeholders to understand the business process according to their perspective with possible alternate scenarios
+
+Interacted with the software development team and executive team to liaison the business requirements to ensure that the application under development confines to the business
+requirement
+
+Performed data mapping from source to target
+
+Extensively used SQL for accessing and manipulating database systems
+
+Participated in Design walk-through with SMEs to baseline the business architecture
+
+Facilitated in the overall management of the project including and mitigation, status reports,
+client presentations, defining milestones, deliverables and establishing critical success factors
+Was jointly responsible for monitoring the progress of the development and QA team
+
+Worked closely with QA team and developers to clarify/understand functionality, resolve issues and
+provided feedback to nail down the bugs
+
+Environment: ,MS Excel, Power Point, SQL server, Service now, Agile
+
+Goldstone Technologies - Business Analyst
+City, STATE + 02/2012 - 03/2014
+
+Involved in gathering business requirements from the end users and management
+
+Analyzed Requirements and created Use Cases, Use Case Diagrams, Sequence Diagrams using Rose
+Extracted the business requirements for E-commerce from various sessions with business leads
+and maintained them using Requisite Pro, tracing them all the way to the system artifacts
+
+Planned, coordinated, and monitored project levels of performance and activities to ensure project
+completion in time
+
+Prioritized requirements to be developed according to Agile methodology
+
+Performed extensive requirement analysis and gap analysis
+
+Facilitated (JAD) Joint Application Development sessions to identify business rules and
+requirements and then documented them in a format that can be reviewed and understood by both
+business people and technical people.
+
+WEBSITES, PORTFOLIOS, PROFILES
+
+https: // public. tableau.com/app/ profile/JessicaClaire
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

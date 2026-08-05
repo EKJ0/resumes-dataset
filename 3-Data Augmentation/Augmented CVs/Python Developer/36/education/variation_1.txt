@@ -1,0 +1,119 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Amiable Engineering Intern talented at communicating with technical colleagues and non-technical customers alike. Deftly translates complex
+engineering ideas into laymen's terms and vice versa. Contributes to projects by providing streamlined, clear communication channels for all
+stakeholders.
+
+SKILLS
+------
+- Solidworks e Java
+- Creo e ANSYS
+- Catia « COMSOL
+- Python * ABAQUS
+
+WORK EXPERIENCE
+---------------
+
+Python Developer Intern, 09/2020 - 06/2021 Corteva, Inc. - Toledo, India
+- Prepared and submitted reports and other documentation to assist development team members
+- Produced clean, validation-ready code for project needs
+- Investigated technical challenges to identify root cause and provide expedient resolutions
+- Worked on pandas, numpy, scipy and matplotlib.
+- Wrote clean, clear and well-tested code for various projects.
+- Partnered with company mentor to learn best practices in software design.
+
+Business Analyst Intern, 06/2022 - Current Lifescape - Sioux Falls, SD
+- Exercised critical thinking to resolve Design errors in Solidworks Drawing reports.
+- Worked one-on-one with clients to improve Design specifications.
+- Assisted with engineering calculations, design drawings, preliminary cost estimates and field visits to observe construction progress.
+- Automated the reading and interpretation blueprints, technical drawings, schematics and computer-generated reports.
+- Worked on back-end development of certain Windchill (Product Life Management) types and products.
+
+Teaching Assistant, 08/2021 - 05/2022 University Of Miami Miller School Of Medicine - Hollywood
+- Formatted quizzes and final exams for two subjects, "Dynamics of Solids" and "Heat Transfer”
+- Partnered with teacher to plan and implement lessons following school's curriculum, goals and objectives.
+
+- Assisted teachers with classroom management and document coordination to maintain positive learning environment.
+
+Research Assistant, 08/2021 - 05/2022 Thermo Fisher Scientific Inc. - Plainville
+- Worked on Cell Division in an ECM/hydrogel, running the simulations on Lammps
+- Comparing the simulations to the in-vitro experiments using CNN
+- Worked both independently and collaboratively in fast-paced laboratory environment.
+- Performed statistical, qualitative and quantitative analysis.
+
+Mechanical Engineering Intern, 06/2018 - 09/2018 Sona Leather | India - City
+- Developed technical skills through training and shadowing experienced professionals.
+- Created CAD drawings using Solidworks to convey manufacturing and production configurations.
+- Created parts for machining, sheet metal fabrication and injection molding.
+- Performed analysis using ANSYS.
+
+EDUCATION
+---------
+
+Bachelor’s: mechanical engineering Harvard University - Bangalore
+Thermal Management of Li-ion batteries, Recetved CNR Rao Scholarship. Awarded First Class with Distinction for 6 semesters.
+
+Master’s: mechanical engineering, 05/2023
+
+University of Colorado - Boulder, CO
+
+Specialized in Design and Computing. Worked on Image Recognition and on IOT projects. Working on Machine Learning and concerned
+modules.
+
+SKILLS
+------
+
+- Solidworks
+- Creo
+
+- Catia
+
+- Python
+
+- Java
+
+- ANSYS
+
+- COMSOL
+- ABAQUS
+
+WORK EXPERIENCE
+---------------
+
+Python Developer Intern, 09/2020 - 06/2021 CGI - Bangalore
+- Prepared and submitted reports and other documentation to assist development team members
+- Produced clean, validation-ready code for project needs
+- Investigated technical challenges to identify root cause and provide expedient resolutions
+- Worked on pandas, numpy, scipy and matplotlib.
+- Wrote clean, clear and well-tested code for various projects.
+- Partnered with company mentor to learn best practices in software design.
+
+Business Analyst Intern, 06/2022 - Current CGI - Hartford, CT
+- Exercised critical thinking to resolve Design errors in Solidworks Drawing reports.
+- Worked one-on-one with clients to improve Design specifications.
+- Assisted with engineering calculations, design drawings, preliminary cost estimates and field visits to observe construction progress.
+- Automated the reading and interpretation blueprints, technical drawings, schematics and computer-generated reports.
+- Worked on back-end development of certain Windchill (Product Life Management) types and products.
+
+Teaching Assistant, 08/2021 - 05/2022 University of Colorado Boulder | CO - Boulder
+- Formatted quizzes and final exams for two subjects, "Dynamics of Solids" and "Heat Transfer"
+- Partnered with teacher to plan and implement lessons following school's curriculum, goals and objectives.
+
+- Assisted teachers with classroom management and document coordination to maintain positive learning environment.
+
+Research Assistant, 08/2021 - 05/2022 University of Colorado Boulder | CO - Boulder
+- Worked on Cell Division in an ECM/hydrogel, running the simulations on Lammps
+- Comparing the simulations to the in-vitro experiments using CNN
+- Worked both independently and collaboratively in fast-paced laboratory environment.
+- Performed statistical, qualitative and quantitative analysis.
+
+Mechanical Engineering Intern, 06/2018 - 09/2018 Sona Leather | India - Bangalore
+- Developed technical skills through training and shadowing experienced professionals.
+- Created CAD drawings using Solidworks to convey manufacturing and production configurations.
+- Created parts for machining, sheet metal fabrication and injection molding.
+- Performed analysis using ANSYS.

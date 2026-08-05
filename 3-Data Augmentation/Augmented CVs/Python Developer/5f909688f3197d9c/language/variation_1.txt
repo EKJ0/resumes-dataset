@@ -1,0 +1,69 @@
+Python Developer / QA Phone: (2123) 456 78 99
+
+Email: Info@qwikresurne.com
+
+Automation Tester Website; www.qwikresume.com
+
+Linkedin:
+
+ROBERT SMITH Address 1737 Marsile Road
+
+Alabarna,
+
+OBJECTIVE
+---------
+Around 5 years total IT experience as a software engineer and Python Developer and Salesforce
+
+Platform. Extensive experience In Python Django web frarne works in implernenting MVC architecture.
+
+SKILLS
+------
+
+DJANGO, JAVASCRIPT, MYSQL, PYTHON, CSS
+
+WORK EXPERIENCE
+---------------
+
+Python Developer / QA Automation Tester
+Accela Inc. - March 2014 - Present
+
+Involved In requirement gathering, analysis, design, estirnation and testing of the assigned
+tasks In openstack.
+
+Implemented rally openstack benchmarking tool on the entire cloud environment.
+
+Experience in reviewing python code for running the troubleshooting test-cases and bug issues.
+
+Configuring and managing openstack components such as Keystone, Nova, Neutron, Glance, Swift, Heat.
+
+Written Nova, Glance, Neutron, Cinder, Keystone, Hashboard, Swift, Python client api to Integrate with existing application.
+
+Create a strategic architectural design of the platform with networking (VLANs, Firewalls, Load
+Balancers), Hypervisors (KYM and VMware), workflow and orchestration (Openstack APIS, Smart Goud Orchestrator), Security (Keystone, IDAP), Inventory and monitoring, licensing,
+backup/restore,
+
+Understanding Python files in openstack environment and make necessary changes if needed.
+
+Python Developer
+ABC Corp - March 2011 - March 2014
+
+Conducted scrurn meetings and generated custom dashboards. Knowledge testing tools like bugzilla and jira.
+
+Experience in using various version control systems like git, cvs, github, heroku and amazon
+ec2.
+
+Having knowledge on aws larnbda, auto scaling, cloud front, rds, route53, aws sns, sqs, ses;
+Extensively used python modules such as requests, urilib, urllib 2 for web crawling.
+Developed a fully autornated continuous integration systern using git, gerrit, jenkins, mysql
+and custom tools developed in python and bash,
+
+The vanguard group Is an american registered investment advisor based in minneapolis, mn with over $5. 1 trilllon in assets under management.
+
+Create on-dernand daily and weekly reports by invoking scripts with custom arguments and parameters to provide actionable data to the test owners.
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

@@ -1,0 +1,83 @@
+Jose
+
+ph Russell
+
+Full Stack Python Developer
+
+SUMMARY
+-------
+
+Full Stack Python Developer with 7+ years of experience in designing, developing, and deploying
+scalable and responsive web applications. Proficient in both front-end and back-end development,
+working with frameworks such as Django, Flask, React, and Vuejs. Skilled in database management,
+server administration, and API integration.
+
+WORK EXPERIENCE
+---------------
+
+Full Stack Python Developer Company name, City, State
+
+- Designed and developed web applications using Django, Flask, React, and Vuejs, implementing responsive design and UX principles.
+
+- Worked on projects ranging fromsmall business websites to large-scale enterprise applications, collaborating with cross-functional teams to deliver high-quality software on time and within budget.
+
+- Built and maintained RESTful APIs using Django Rest Framework and Flask Restful, integrating with external services such as payment gateways and social media platforms.
+
+- Developed and maintained databases using PostgreSQL, MySQL, and MongoDB, writing optimized queries and ensuring data integrity and security.
+
+- Implemented caching strategies using Redis and Memcached to improve application performance and reduce server load.
+
+- Configured and managed web servers using Nginx and Apache, ensuring high availability and scalability.
+
+- Implemented testing strategies using tools such as Pytest and Unittest, ensuring that code is free of bugs and errors.
+
+- Conducted code reviews and mentored junior developers, improving code quality and team performance.
+
+Company Name , City, State Full Stack Python Developer, Employment Dates
+
+- Developed and maintained e-commerce applications using Django, integrating with payment gateways such as PayPal and Stripe.
+
+- Worked with front-end frameworks such as React and Vuejs, creating responsive and modern user interfaces.
+
+- Designed and implemented message queues using Celery and Rabbit MQ, allowing for asynchronous task processing and scalability.
+
+- Worked with NoSQL databases such as MongoDB and Cassandra to store and manage large volumes of data.
+
+- Implemented security measures such as CSRF protection, SSL, and user authentication and authorization.
+
+- Built and deployed applications to cloud platforms such as AWS and Heroku, ensuring high availabilty and scalability.
+
+- Collaborated with product managers and designers to translate business requirements into technical specifications.
+
+TECHNICAL SKILLS
+----------------
+
+- Python, Django, Flask
+- React, Vuejs
+- PostgreSOL, MySQL. MongoDB
+
+9 Seattle, WA
+
+\ 555-555-5555
+
+- email@ermail.com
+
+SKILLS
+------
+
+Programming: API
+
+BEEF IEE STE AF SI iE
+
+Programming: Caching Pics ffs
+
+Programming: Django AGG RAAAam
+
+Internet: CSS PLiLsSsff// ys
+
+Big Data: Cassandra SY EF LE 18 BS
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

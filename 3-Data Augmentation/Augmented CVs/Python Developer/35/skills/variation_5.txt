@@ -1,0 +1,161 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+architecture based enterprise application software.
+- Extensive knowledge in Python, MySQL, Django.
+- Experience with Design, code, debug operations, reporting, data analysis and web applications utilizing Python.
+- Worked with MVW frameworks like Django, Angular JS, HTML, CSS and JSON. Excellent working Experience in Agile (SCRUM) using Rally and TFS, RUP and Waterfall methodologies with high quality deliverables delivered on-time. Wrote Python modules to extract/load asset data from the MySQL source database. Utilized PyUnit, the Python unit test framework, for all Python applications. Evaluated potential software products based on new and existing system development and migration requirements.
+
+- Performed regression and system-level testing to verify software quality and function before it was released.
+- Experience in working with Python ORM Libraries including Django ORM.
+
+Superior Troubleshooting and Technical support abilities with Migrations, Network connectivity and Security and Database applications.
+- Assessed costs and risks associated with developing new features and products.
+
+Skilled in testing tools in JIRA.
+
+- Experienced in working with various Python IDEs using PyCharm, PyStudio, PyScripter, PyDev.
+
+- Able to analyse a requirement and act accordingly by managing the resources efficiently.
+
+Over 3+ Years of experience in Analysis, Design. Development, Management and Implementation of various standalone and client - server
+
+SKILLS
+------ Programming Languages: Python 2.5-2.7/3.4-3.6 , SQL. Application servers: Jenkins.
+Web Technologies: HTML, CSS, Java Script, AngularJS 8.0/9.0/10.0. Databases: MySQL, PostgreSQL.
+Frameworks: Django. IDE’s/ Development Tools: PyCharm, PyScripter, PyStudio and Version Control : MVC, GitHub. Sublime Text.
+Front End: Angular JS, JSON, Bootstrap, CSS, HTML. Testing Tools: PyTest and JIRA.
+
+WORK EXPERIENCE
+---------------
+
+Jr Python Developer, 08/2020 - Current
+
+Cognizant Technology Solutions - Nashua, NH
+- Worked on development of internal testing tool framework written in Python.
+- Executed scripts in Python for extracting data from HTML file.
+
+Developed views and templates with Python and Django's view controller and templating language to create user-friendly website
+interface.
+
+Used JavaScript and JSON to update portion of webpage.
+
+Worked on Source codes in websites by performing troubleshoot and fixing errors.
+
+Responsible for debugging project monitored on JIRA (Agile).
+
+Used Python and Django to interface and manage storage and deletion of content.
+Build SQL queries for performing various CRUD operations like create, update, read and delete.
+
+Developed entire frontend and backend modules using Python on Django Framework using Git.
+- Worked on front end frame works like CSS Bootstrap for development of Web applications. Created database using MySQL, wrote several queries to extract data from database.
+
+Developed Merge jobs in Python to extract and load data into MySQL database.
+
+Designed front end using HTML, CSS3, Bootstrap, Angular JS, and JavaScript.
+
+Followed AGILE development methodology to develop application.
+
+Environment:
+
+Python 3.9, Django 3.1.5, HTML5, CSS, XML, MySQL, JavaScript, Angular JS, Bootstrap, JavaScript, GitHub.
+
+Jr Python Developer, 02/2020 - 07/2020
+
+Iconic Infosys - City, STATE
+
+Built database model, Views and API's using Python for interactive web based solutions.
+Placed data into JSON files using Python to test Django websites. Used Python scripts to update content in database and manipulate files.
+
+Developed web based application using Django framework with python concepts.
+
+Generated Python Django forms to maintain records of online users.
+
+Used Django API's to access database.
+
+Skilled in using Collections in Python for manipulating and looping through different user defined objects.
+Developed efficient Angular JS for client web based application.
+
+Designed and developed UI for website with HTML, CSS, Java Script.
+
+Involved in working with Python open stock API's.
+
+Responsible for managing large databases using MySQL.
+- Wrote and executed various MySQL database queries from Python-MySQL connector and MySQL db package.
+- Associated with debugging applications monitored on JIRA using Agile methodology.
+
+Environment:
+
+Python 3.8.4,Django 3.0, HTML, CSS, Angular JS, JSON, JavaScript, GIT Hub, MYSQL, JIRA.
+
+Jr. Python Developer, 02/2019 - 01/2020 Deloitte - City, STATE
+- Worked on requirement gathering and High-level design.
+- Used HTML/CSS, XML and JavaScript for UI development. Converted Visual Basic Application to Python, MySQL. Used python scripts to update content in database and manipulate files.
+
+Modified queries, functions, cursors, triggers and stored procedures for MySQL database to improve performance, while processing data.
+Used Collections in Python for manipulating and looping through different user defined objects.
+Contributed patches back to Django.
+
+Responsible for getting teams up and running with game record features.
+
+Performed research regarding Python Programming and its uses and efficiency.
+
+- Utilized Python in handling of all hits on Django and other applications.
+
+Followed Agile Methodology and SCRUM Process.
+
+- Extensive code reviewing using GitHub pull requests, improved code quality, and conducted meetings among peer.
+
+Collaborated with Product Management and User Experience experts regarding product definition, schedule, scope and project-related
+decisions.
+
+- Managed. collaborated and coordinated work of offshore development team. Environment:
+
+Python 3.7.6, Django 2.2.17, Visual Basic, Java Script, MySQL, PL/SQL, agile.
+
+Python Developer, 02/2018 - 01/2019
+
+Keansoft - City, STATE
+
+Used Agile Methodology and SCRUM Process.
+
+Worked with Stakeholders, gathered requirements, developed High level design and Detail design documents.
+Developed UI using HTML, JavaScript.
+
+- Re-engineered various modules for implementing changes and creating efficient system.
+
+Developed rich UI web application using JavaScript.
+
+Designed and developed components using Python with Django framework. Implemented code in python to retrieve and manipulate data.
+
+Implemented database access using Django ORM.
+Used MySQL as backend database and MySQL of python as database connector to interact with MySQL server.
+Used Restful APIs to access data from different suppliers.
+
+- Used Python and Django creating graphics, XML processing of documents, data exchange and business logic implementation between servers.
+
+Associated with Restful API's to gather network traffic data from Servers.
+
+Supported Apache Tomcat web server on Linux Platform.
+- Support scripts configuration, testing, execution, deployment and run monitoring and metering.
+
+Developed and executed User Acceptance Testing portion of test plan.
+Environment:
+Python 3.7.2, Django 2.2.17, C++, HTML/XHTML, MySQL, Windows.
+
+EDUCATION
+---------
+Master of Science: Computer Science, 05/2018
+
+Fairleigh Dickinson University - Teaneck, NJ
+
+Bachelor of Science: Computer Science, 04/2015 Intuk - Kakinada
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations

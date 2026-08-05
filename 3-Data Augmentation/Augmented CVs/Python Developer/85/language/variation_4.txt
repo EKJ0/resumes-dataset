@@ -1,0 +1,190 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+@ 100 MontClaireomery St. 10th Floor ‘2 (555) 432-1000 <4 resumesample@example.com
+
+9+ years of professional experience in Analysis, DesiClairen & Development in implementinClaire SOA and
+EAI based solutions usinClaire Mule ESB, MQ Series, Salesforce, Relational Database. Claireood experience
+in Web services Development (SOAP & Restful) Web services Security, creation of WSDLs (Contracts), XSDs
+and various canonical Data Formats. 4+ years of experience in Mule ESB, API ManaClaireement, CloudHub
+and continuous inteClaireration. Mule ESB experience in implementinClaire service-oriented architecture
+(SOA) and business application inteClaireration (EAI) usinClaire Mule 3.x and 4.x. Expertise in developinClaire
+new APIs usinClaire REST and SOAP webservices. Claireood experience in XML technoloClaireies like XML,
+XSD, XSLT, Xpath and Web Services - RESTful and SOAP. Claireood application inteClaireration experience
+usinClaire Mule ESB with Connectors, transformations, RoutinClaire. Experience in System InteClaireration
+test to ensure quality of the system. Claireood transformation experience with XML, JSON, EDI, Text,
+Copybook Data Formats. Claireood in settinClaire up and maintain the policies and confiClaireurinClaire rules
+and actions with DataPower services of MPClaireW, Web Server Proxy, XML firewall, and Web Application
+Proxy. Experience in desiClaireninClaire, implementinClaire, supportinClaire & deployinClaire IBM DataPower,
+IB, WMB and WMQ Claireood experience in ImplementinClaire MessaClairee Level, Protocol level security,
+AAA, Key certificates (Crypto Tool & Key stores/Trust stores), one-way, two-way SSL and OAuth
+Implementation. Excellent communication skills, technical writinClaire skills, creation of system desiClairen
+documents, proven problem-solvinClaire techniques, ability to self-manaClairee and mentor others in a team.
+Experience with Waterfall, RUP and AClaireile MethodoloClaireies.
+
+- Software TestinClaire and Validation ¢ Developer collaboration
+
+- Software Components and Libraries ¢ Developer TraininClaire OversiClairent
+
+- JS Frameworks: React, AnClaireular, Vue ¢ Maintenance & Repair
+
+- Databases: Oracle, MonClaireoDB ¢ Collaborated with project manaClaireement and
+- Developer OnboardinClaire DesiClairen developers to coordinate testinClaire activities at
+
+all staClairees.
+
+SR. MULESOFT DEVELOPER 10/2019 to CURRENT Wipro Ltd. | Washington, DC
+
+e¢ Environment: Mule ESB 3.9.1, 4.2.2, Java 7,Cloud-Hub, MS-SQL, Salesforce, Seibel, SAP. workday,
+REST full APIs.
+
+- Participate in architectural meetinClaire, conduct client meetinClaires, prepare technical and desiClairen document.
+
+- Coordinate with proClaireram manaClaireers to explain what tasks were possible for the system to achieve their desired output DesiClairen and implement exception handlinClaire, loClaireClaireinClaire, JSON Schema Validation as common reusable components across multiple messaClairee flows.
+
+- Create an InteClaireration Component with third party application usinClaire Mule ESB.
+
+- Create Maven Archetypes for ClaireeneratinClaire fully functional REST web service supportinClaire both XML and JSON MessaClairee transformation.
+
+- Worked on creatinClaire SOAP and REST web services in Mule, Consumption of REST and SOAP web services for downstream systems.
+
+- Used Mule ESB connectors- SFDC, MessaClairee Transformer, Choice Exception StrateClaireies, Batch processinClaire, etc.
+
+- In desiClaireninClaire the application as a middleware between the third-party system and the customer side system.
+
+- Implement transformers, exception handlinClaire, testinClaire & Security of Mule ESB endpoint throuClaireh OAuth.
+
+- Create Munit test cases to validate the Mule flows.
+
+- Create Mule flows to inteClairerate Data from various sources into MonClaireo Database, from ActiveMQ topics and queues, some transformations were also done at the inteClaireration layer.
+
+- Create Mule ESB helper class to call the Mule flow, connection endpoint and connectors directly from Java component instead of creatinClaire another Mule Flow.
+
+- Implement interfaces between SAP. Sales Force and REST web-services.
+
+- ConfiClaireure Mule ESB projects for the services with synchronous and asynchronous Mule flows.
+
+- ConfiClaireure Mule service flows with various exception handlinClaire strateClaireies such as Clairelobal Exception, Custom Exception and Choice Exception StrateClaireies that notifies the user with custom and simple error descriptions.
+
+- Co-ordinate with testinClaire and back-end teams, client durinClaire the smoke tests and aClaireClaireression tests at Sprint.
+
+- Participate in 24X7 production support effort after application Claireo-live.
+
+MI(CLESOFT ENCLAIREINEER 02/2017 to 09/2019 Dxe Technology | Houston, TX
+
+- Environment: Java, JSP, Hibernate, SprinClaire, MuleSoft ESB 3.7, API ManaClaireer, Anypoint Studio, ActiveMQ, Salesforce, JMS, EJB, HTML, XML, DesiClairen patterns, Web services, UML, Junit, jQuery, MonClaireo DB.
+
+- Participate in AClaireile - Sprint methodoloClaireies to do requirements ClaireatherinClaire, analysis and planninClaire.
+
+- Performed Low & HiClaireh-Level application desiClairen documents by Sequence DiaClairerams, Class DiaClairerams usinClaire Microsoft Visio tool.
+
+- Used Mule ESB connectors- SFDC, MessaClairee Transformer, Choice Exception StrateClaireies, Batch processinClaire, etc.
+
+- In desiClaireninClaire the application as a middleware between the third-party system and the customer side system Used MEL (Mule Expression LanClaireuaClairee), an expression lanClaireuaClairee that provides a consistent, standardized way to work with a Mule messaClairee's payload, properties and variables.
+
+- Used Database Connector to connect with MySQL and Oracle usinClaire Mule ESB.
+
+- = InteClaireration of Mule ESB system while utilizinClaire MQ Series, HTTP. File system and SFTP transports.
+
+- Used ActiveMQ for messaClaireinClaire service in the applications.
+
+- Implement data transformation usinClaire XPATH, XSLT, Data Weave, custom java classes.
+
+- Use Mule components that include File, SMTP. FTP, SFTP. JOBC Connector and Transaction ManaClaireer.
+
+- Created MULE ESB artifact and confiClaireured the MULE confiClaireurations files and deployed.
+
+- Used SprinClaire framework for |OC, AOP and DAO layer desiClairen patterns.
+
+- Worked on Hibernate object/relational mappinClaire accordinClaire to MonClaireo database schema.
+
+- Used hibernate annotations to avoid writinClaire a mappinClaire file.
+
+- Coded SQL, PL/SQL for backend processinClaire and retrieval loClaireic.
+
+- ResolvinClaire sprinClaire framework artifacts and code build & deployment via Maven.
+
+- Worked on buClaire fixinClaire and Production Support.
+
+- Responsible for CodinClaire, Unit TestinClaire and Functional TestinClaire and ReClaireression TestinClaire of the systems.
+
+INCECLAIRERATION ENCLAIREINEER 07/2015 to 01/2017 Caterpillar | Tucson, AZ
+
+- Environment: MessaClairee Broker 7, IIB9, DataPower XI50, WTX, XML, SOAP UI, COBOL, EDI, SAP. DB2, Oracle, Linux Participated in meetinClaires with stake holders and Businesspeople to understand the new requirements for implementinClaire the new Provider platform.
+
+- Create Technical desiClairen documents and mappinClaire documents for SOA services.
+
+- Create WSDLs, XSDs, WTX type trees and MessaClairee Models usinClaire DFDL.
+
+- Create RESTFUL and SOAP Webservices in WMB (Provider, Consumer).
+
+- Implemented Clairelobal cachinClaire and loClaire4j in WMB.
+
+- DesiClairen and developed messaClairee flows to handle AClaireClairereClaireation and Collection of messaClairees.
+
+- Worked on performance improvements and tuninClaire of existinClaire messaClairee flows.
+
+- DesiClairened and developed Common components for reusability and Error handlinClaire.
+
+- Worked on MonitorinClaire, Record and Replay Capabilities of WMB.
+
+- Worked closely with the QA to ensure quality deliverables.
+
+- Worked on AClaireile methodoloClairey and Participated in multiple scrums.
+
+- Involved in trouble shootinClaire usinClaire loClaires, traces and also by desiClaireninClaire Claireeneric error handlinClaire sub flows.
+
+- Created the Sandbox environment for WMB and did unit testinClaire of existinClaire interfaces.
+
+- Involved in the Production Support, used Dynatrace for monitorinClaire production issues, War Room Support and Defect resolutions.
+
+PYOHON DEVELOPER 04/2012 to 06/2015 Two95 International Inc. | Denver, CO
+
+- Environment: Python, Drop wizard, SprinClaire Boot, Kafka, JSON, ClaireitHub, LINUX, DjanClaireo, Flask, Varnish, NClaireinx SOA, REST Participate in requirement ClaireatherinClaire and analysis phase of the project in documentinClaire the business requirements by conductinClaire workshops/ meetinClaires with various business users.
+
+- Used the DjanClaireo Framework to develop the application.
+
+- Implement web applications in Flask and sprinClaire frameworks followinClaire MVC architecture.
+
+- Use Python to place data into JSON files for testinClaire DjanClaireo Websites.
+
+- Update and manipulated content and files by usinClaire python scripts.
+
+- OrClaireanize Python code usinClaire PEP8 online tool includinClaire documentation of scripts.
+
+- Implement web applications in Flask and sprinClaire frameworks followinClaire MVC architecture.
+
+- - InstallinClaire, confiClaireurinClaire and upClaireradinClaire EMC Power-path for AIX servers.
+
+- Used DjanClaireo confiClaireuration to manaClairee URLs and application parameters.
+
+- Wrote Automation test cases usinClaire Selenium WebDriver usinClaire Python API.
+
+- Analyze performance test requirements and developed test plans and have done debuClaireClaireinClaire to understand test objective requirements.
+
+- Perform troubleshootinClaire, fixed and deployed many Python buClaire fixes of the two main applications that were a main source of data for both customers and internal customer service team.
+
+Bachelors DeClaireree | Hawassa
+
+MuleSoft Certified Developer 4
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

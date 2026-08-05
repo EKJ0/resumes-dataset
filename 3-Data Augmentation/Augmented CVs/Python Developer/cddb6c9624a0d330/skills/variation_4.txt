@@ -1,0 +1,103 @@
+Alexander Taylor
+
+Python Developer | Data Specialist
+
+@ help@enhancv.com @ linkedin.com
+
+9 San Antonio, Texas
+
+SUMMARY
+-------
+
+Enthusiastic Python Developer with over two years’ experience in HTML, JavaScript, and web development. Skilled in fetching and cleaning data,
+building APIs and web crawling. Seeking a challenging opportunity to utilize these skills and grow further in the field of data science.
+
+WORK EXPERIENCE
+---------------
+
+Junior Python Developer
+
+Cognizant
+@8 2019-2020 9 San Antonio, Texas
+
+Worked on HTML, JavaScript and Python development projects, with a focus on data
+
+fetching and cleansing.
+
+- Developed Python scripts for Web Crawling and Web scraping resulting in 30% increased efficiency.
+
+- Assisted in building APIs on top of cleaned data sets, which helped to automate data flow from multiple sources.
+
+- Worked on storing extracted data into SQL / No SQL data store.
+
+Web Developer
+
+Accenture
+@3 2018-2019 9 San Antonio, Texas
+
+Worked on web development projects using HTML and JavaScript. Gained Python skills on the job.
+
+- Created dynamic and interactive web pages which improved customer interaction by 40%.
+
+- Developed complex JavaScript functions to improve web page efficiency.
+
+¢« Automated HTML and CSS tasks by implementing preprocessor scripting language, decreasing production time by 25%.
+
+EDUCATION
+---------
+
+Master of Science in Computer Science
+
+University of Texas
+@§ 2016-2018 9 San Antonio, Texas
+
+Bachelor of Science in Computer Science
+
+Texas Tech University
+@9 2012-2016 9 Lubbock, Texas
+
+LANGUAGES
+
+English Spanish Native & ® oO 2 & Intermediate @ ©
+
+STRENGTHS
+
+VW Critical Thinking
+
+Effectively used critical thinking to troubleshoot and solve challenging development problems
+while at Accenture.
+
+@ Communication
+
+At Cognizant, successfully communicated technical data complications and helped the team to overcome them.
+
+@ Teamwork
+
+Collaborated with development team to deliver over 10 successful projects within given deadlines at Accenture.
+
+SKILLS
+------
+
+Python HTML JavaScript Regular expressions Web Scraping Crawling SQL/NoSOL Data Cleansing
+
+API Development
+
+CERTIFICATIONS
+--------------
+
+Python for Data Science
+
+A specialized course conducted by Coursera that focused on Python development for data science applications.
+
+Data Structures and Algorithms
+
+An intensive course offered by Udacity that targeted understanding of key data structures and algorithms.
+
+PASSIONS Vv Coding
+
+Love for coding started in college and continued professionally, always exploring new development techniques.
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

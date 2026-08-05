@@ -1,0 +1,65 @@
+Nonie Berardelli
+
+Python Developer
+
+& Profile
+
+Python Developer with 1 year of professional experience in developing robust, efficient, and user-friendly web applications, Possesses strong
+knowledge of Python, Django, and Flask frameworks, Proven ability
+
+to integrate databases and work on full-stack development projects.
+Demonstrates a clear understanding of data structures and algorithms, Skilled in problem-solving, troubleshooting, and timely delivery of
+projects. Adept at working both independently and collaboratively within a team setting. Committed to continuous learning and staying updated
+with the latest industry trends.
+
+i Employment History
+
+Senior Python Developer at Genesys, IN
+Jul 2023 - Present
+
+- Developed a new data processing application using Python, which increased data processing speed by 45% and saved the company over
+$200,000 annually in labor costs.
+
+- Leda team to successfully refactor a critical software system, reducing the code base by 30%, improving system performance, and enhancing maintainability.
+
+- Implemented an automated testing framework for Python applications that reduced testing time by 50% and improved code quality, leading to a decrease in post-deployment bugs by 35%.
+
+- Streamlined the integration of a third-party API into the current system, improving data retrieval efficiency by 40% and saving approximately 10 hours of work per week.
+
+Junior Python Developer at Eli Lilly and Company, IN
+Sep 2022 - May 2023
+
+- Developed a Python-based data analysis tool that improved data processing speed by 30%, leading to increased efficiency in the team's workflow.
+
+- Automated the generation of bi-weekly reports using Python, reducing the time spent on report preparation by 50%.
+
+- Successfully debugged and improved an existing Python application, resulting in a 20% reduction in application errors and enhancing overall software performance.
+
+® Education
+
+Bachelor of Science in Software Engineering with a focus on Python Programming at Purdue University, IN
+
+Sep 2018 - May 2022
+
+Relevant Coursework: Software Development, Advanced Python Programming, Algorithms and Data Structures, Web Development,
+Database Management, Cybersecurity, Computer Architecture, Operating Systems, Machine Learning, Artificial intelligence, Software Quality
+Assurance, and Software Project Management.
+
+8 Certificates
+
+Details
+
+nonie. berardelli@gmail.com
+(886) 670-3840 Indianapolis, IN
+
+Links
+linkedin.com/in/nonieberardelli
+
+Hobbies
+
+Coding personal projects Reading tech-related books Playing video games
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

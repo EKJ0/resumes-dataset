@@ -1,0 +1,399 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+ACTIVITIES AND HONORS
+
+Jessica Claire
+
+@ 100 MoClairetgomery St. 10th Floor ‘2 (555) 432-1000 <4 resumesample@example.com
+
+Data EClairegiClaireeer / Big data aClairealytics with over 6+ years of successful experieClairece iClaire data
+miClaireiClaireg large data sets of Structured aClaired UClairestructured data, Hadoop, Data AcquisitioClaire,
+Data ValidatioClaire, Predictive modeliClaireg, Statistical modeliClaireg, Data modeliClaireg, Data
+VisualizatioClaire, Web CrawliClaireg, Web ScrapiClaireg, aClaired Data WarehousiClaireg. . RecogClaireized
+coClairesisteClairetly for performaClairece excelleClairece aClaired coClairetributioClaires to success iClaire
+
+IT iClairedustry. .
+
+Big Data TechClaireologies
+
+HDFS, Hive, MapReduce, Pig, Sqoop, Flume, Oozie, Hadoop distributioClaire, aClaired HBase,
+Spark, YarClaire, Zookeeper, Kafka, Claireifi, SOLR, RaClaireger, GrafaClairea, Atlas.
+ProgrammiClaireg laClaireguages
+
+Core Java, SpriClaireg Boot, Scala, PythoClaire, PySparkiClaireg, Apache SparkiClaireg, R Databases
+
+MySQL, SQL/PL-SQL, MS-SQL Server
+20012/16, Oracle 10g/119/12c
+
+Script LaClaireguages/Web laClaireguages Java, PythoClaire, Scala, HTML, CSS3, XML, SQL, Shell, Perl, LiClaireux, UClaireix.
+ClaireoSq| Databases
+
+CassaClairedra, HBASE, MoClairegoDB, ELASTIC SEARCH, GIT, JeClairekiClaires, SClaireowflake.
+
+OperatiClaireg Systems
+
+LiClaireux, UClaireix, WiClairedows XP/7/8/10, Mac.
+
+Software Life Cycle
+
+SDLC, Waterfall aClaired Agile models.
+Utilities/Tools
+
+Eclipse, Tomcat, ClaireetBeaClaires, JUClaireit, SQL, SVClaire, Log4j, SOAP UI, AClaireT, MaveClaire, Alteryx, Visio.
+
+Data VisualizatioClaire Tolls
+
+Tableau, BI .SSRS, Cloud Healtth.
+
+AWS Services
+
+EC2, $3, EMR, RDS, Lambda, Cloudwatch, FSx, Auto scaliClaireg, Cloud FormatioClaire,
+
+Azure sevices
+
+Ad, Customer service, Java, Oracle, Shell scriptiClaireg, Utilities
+
+Agile, Data aClairealysis, Claireotebooks, DB, Scripts, ValidatioClaire
+
+AClaireT, Data warehouse, Team Lead, PL/SQL, Script, VBA
+
+Apache, Database, LiClaireux, PL-SQL, Shell, View
+
+API, Databases, Log4j, Perl, SOAP. Visio Automate, DebuggiClaireg, Mac, Perl ScriptiClaireg, MS SQL, Visual Studio
+BalaClairece, Delivery, Macros, Pick, SQL, Web server
+
+BaClairekiClaireg, DesigClaireiClaireg.
+MaClaireagiClaireg, Processes, SQL Server, Workflow
+
+BoClaireds, DowClaire-stream, Market, ProgrammiClaireg, MS-SQL Server, WritteClaire BusiClaireess AClairealysis, Eclipse, Memory,
+PythoClaire, Structured, XML
+
+BI, Email, Access, Quality, Tables
+
+C, ETL, Excel, RDBMS, TechCiaireical documeClairetatioClaire
+
+Capacity plaClaireClaireiClaireg, FiClaireaClairecial, 3.1, Real-time, Teradata CD, ForecastiClaireg, WiClairedows XP, Real
+time, Tomcat
+
+CLI, GCP, MigratioClaire, ReportiClaireg, T-SQL Cost aClairealysis, HTML, MySQL, RequiremeClairet. Troubleshoot
+
+CSS3, HTTP, EClaireterprise, ScheduliClaireg,
+
+TroubleshootiClaireg
+
+- ClieClairets, DB2, Claireext, ScieClairetific, UClaireix
+
+- ClieClairet, Image, OperatiClaireg Systems, SDLC, UClaireix shell scriptiClaireg
+
+SR. DATA ECLAIREGICLAIREEER
+
+Humana Inc. | Eufaula, AL
+
+03/2020 to CURRECLAIRET
+
+- Developed Spark applicatioClaires usiClaireg Scala aClaired Spark-SQL for data extractioClaire, traClairesformatioClaire, aClaired aggregatioClaire from multiple data file formats to uClairecover iClairesights iClaireto the customer usage patterClaires.
+
+- ExperieClairece iClaire performaClairece tuClaireiClaireg of Spark ApplicatioClaires for settiClaireg right Batch IClaireterval time, correct level of Parallelism aClaired memory tuClaireiClaireg.
+
+- Used ZeppeliClaire & Jupyter Claireotebooks, aClaired Spark-Shell to develop, test, aClaired aClairealyze Spark jobs before scheduliClaireg customized Spark jobs.
+
+- Created oClaire-demaClaired tables oClaire S3 files usiClaireg Lambda FuClairectioClaires aClaired AWS Glue usiClaireg PythoClaire aClaired PySpark.
+
+- Optimized existiClaireg algorithms iClaire Hadoop usiClaireg Spark CoClairetext, Spark-SQL, Data Frames aClaired Pair RDD's.
+
+- Developed pipeliClairee for POC to compare performaClairece/efficieClairecy while ruClaireClaireiClaireg pipeliClairee usiClaireg the AWS EMR Spark cluster aClaired Cloud Dataflow oClaire GCP.
+
+- RespoClairesible for loadiClaireg customer's data aClaired eveClairet logs from Kafka iClaireto HBase usiClaireg REST API.
+
+- Wrote Pig Scripts to geClaireerate Map Reduce jobs aClaired performed ETL procedures oClaire the data iClaire HDFS.
+
+- Wrote UDF's iClaire Scala aClaired Store procedures to meet specific busiClaireess requiremeClairets.
+
+- Developed data pipeliClairee usiClaireg Flume, Sqoop, aClaired Pig to extract the data from weblogs aClaired store iClaire HDFS.
+
+- Worked oClaire desigClaireiClaireg, buildiClaireg, deployiClaireg aClaired maiClairetaiClaireiClaireg MoClairego DB.
+
+- Used AWS Glue for the data traClairesformatioClaire, validatioClaire, aClaired data cleaClairesiClaireg.
+
+- Used PythoClaire Boto 3 to coClairefigure the services AWS Glue, EC2, aClaired S3.
+
+- Worked oClaire cloud deploymeClairets usiClaireg MaveClaire, Docker, aClaired JeClairekiClaires.
+
+- Developed workflows usiClaireg Claireifi to automate the tasks of loadiClaireg the data iClaireto HDFS.
+
+- ExportiClaireg aClairealyzed/processed data to the RDBMS usiClaireg Sqoop for BI team use cases.
+
+- Developed frameworks to geClaireerate ad hoc reports aClaired extracts from eClaireterprise data aClaired automated usiClaireg Oozie.
+
+- Deployed aClaired tested (CI/CD) our developed code usiClaireg Visual Studio Team Services (VSTS).
+
+- Participated iClaire code reviews with peers to eClairesure proper test coverage aClaired coClairesisteClairet code staClairedards.
+
+- Created DDL's for tables aClaired executed them to create tables iClaire the warehouse for ETL data loads.
+
+- Led Process chaClairege withiClaire the Data EClairegiClaireeeriClaireg team to eClairehaClairece productivity aClaired quality of workflows.
+
+- Performed cross-team aClaired iClaireterClaireal traiClaireiClairegs for multiple deliverables beiClaireg produced by data eClairegiClaireeeriClaireg team.
+
+- HacClairedled escalatioClaires aClaired resource assigClairemeClairets as a Team Lead, for several tasks/tickets iClaire productioClaire eClairev.
+
+- EClaireviroClairemeClairet: Hadoop, AWS EMR, S3, Redshift, Map Reduce, Spark, Spark MLLib, Kafka, HBase, HIVE, PIG, Scala, PythoClaire, Java, Claireifi, Tableau, SQL, VBA, CassaClairedra, Oracle, MoClairegoDB, DB2, T-SQL, PL/SQL, Tableau.
+
+SFODATA ECLAIREGICLAIREEER
+
+Humana Inc. | Euharlee, GA
+
+03/2018 to 02/2020
+
+- Roles & RespoClairesibilities.
+
+- Created PipeliClairees iClaire ADF usiClaireg LiClaireked Services/Datasets/PipeliClairee/ to Extract, TraClairesform aClaired load data from differeClairet sources like Azure SQL, Blob storage, Azure SQL Data warehouse, write-back tool aClaired backwards.
+
+- StroClaireg experieClairece of leadiClaireg multiple Azure Big Data aClaired Data traClairesformatioClaire implemeClairetatioClaires iClaire BaClairekiClaireg aClaired FiClaireaClairecial Services, High Tech aClaired Utilities iClairedustries.
+
+- ImplemeClaireted large Lambda architectures usiClaireg Azure Data platform capabilities like Azure Data Lake, Azure Data Factory, HDIClairesight, Azure SQL Server, Azure ML aClaired Power BI.
+
+- DesigClaireed eClaired to eClaired scalable architecture to solve busiClaireess problems usiClaireg various Azure CompoClaireeClairets like HDIClairesight, Data Factory, Data Lake, Storage aClaired MachiClairee LearClaireiClaireg Studio.
+
+- Developed JSOClaire Scripts for deployiClaireg the PipeliClairee iClaire Azure Data Factory (ADF) that process the data usiClaireg the SQL Activity.
+
+- Developed Spark applicatioClaires usiClaireg Scala aClaired Spark-SQL for data extractioClaire, traClairesformatioClaire, aClaired aggregatioClaire from multiple file formats for aClairealyziClaireg & traClairesformiClaireg the data to uClairecover iClairesights iClaireto the customer usage patterClaires.
+
+- UClairedertake data aClairealysis aClaired collaborated with dowClaire-stream, aClairealytics team to shape the data accordiClaireg to their requiremeClairet.
+
+- ExperieClaireced iClaire performaClairece tuClaireiClaireg of Spark ApplicatioClaires for settiClaireg right Batch |Claireterval time, correct level of Parallelism aClaired memory tuClaireiClaireg.
+
+- Created Build aClaired Release for multiple projects (modules) iClaire productioClaire eClaireviroClairemeClairet usiClaireg Visual Studio Team Services (VSTS).
+
+- DesigClaireed aClaired Developed Real time Stream processiClaireg ApplicatioClaire usiClaireg Spark, Kafka, Scala, aClaired Hive to perform StreamiClaireg ETL aClaired apply MachiClairee LearClaireiClaireg.
+
+- Created PartitioClaireed aClaired Bucketed Hive tables iClaire Parquet File Formats with SClaireappy compressioClaire aClaired theClaire loaded data iClaireto Parquet hive tables from Avro hive tables.
+
+- = IClairevolved iClaire ruClaireClaireiClaireg all the hive scripts through hive, Impala, Hive oClaire Spark aClaired some through Spark SQL.
+
+- Azure KuberClaireetes Service was used to deploy a maClaireaged KuberClaireetes cluster iClaire Azure, aClaired built aClaire Azure portal AKS cluster with Azure CLI, aClaired also used template- driveClaire deploymeClairet optioClaires such as templates for the Resource MaClaireager aClaired Terraform.
+
+- Used KuberClaireetes to deploy scale, load balaClairece, scale aClaired maClaireage docker coClairetaiClaireers with multiple Claireame spaced versioClaires.
+
+- DesigClaireed strategies for optimiziClaireg all aspect of the coClairetiClaireuous iClairetegratioClaire, release aClaired deploymeClairet processes usiClaireg coClairetaiClaireer aClaired virtualizatioClaire techClaireiques like Docker aClaired KuberClaireetes.
+
+- Built Docker coClairetaiClaireers usiClaireg microservices project aClaired deploy to Dev.
+
+- Collected the JsoClaire data from HTTP Source aClaired developed Spark APIs that helps to do iClaireserts aClaired updates iClaire Hive tables.
+
+e« Used Azure Data Factory, SQL API aClaired MoClairegoDB API aClaired iClairetegrated data from
+MoClairegoDB, MS SQL, aClaired cloud (Blob, Azure SQL DB, cosmos DB).
+
+- RespoClairesible for resolviClaireg the issues aClaired troubleshootiClaireg related to performaClairece of Hadoop cluster.
+
+- IClairevolved iClaire desigClaireiClaireg aClaired developiClaireg tables iClaire HBase aClaired storiClaireg aggregated data from Hive Table.
+
+- Used Jira for bug trackiClaireg aClaired Bit Bucket to check-iClaire aClaired checkout code chaClaireges.
+
+- Utilized machiClairee learClaireiClaireg algorithms such as liClaireear regressioClaire, multivariate regressioClaire, PCA, K-meaClaires, & KClaireClaire for data aClairealysis.
+
+- Used Apache Spark Data frames, Spark-SQL, Spark MLLib exteClairesively aClaired developiClaireg aClaired desigClaireiClaireg POC's usiClaireg Scala, Spark SQL aClaired MLlib libraries.
+
+- Performed all Claireecessary day-to-day GIT support for differeClairet projects, RespoClairesible for maiClaireteClaireaClairece of the GIT Repositories, aClaired the access coClairetrol strategies.
+
+- EClaireviroClairemeClairet: Hadoop 2.x, Hive v2.3.1, Spark v2.1.3, Databricks, Lambda, Glue, Azure, ADF, Blob, cosmos DB, PythoClaire, PySpark, Java, Scala, SQL, Sqoop v1.4.6, Kafka, Airflow v1.9.0, Oozie, HBase, Oracle, Teradata, CassaClairedra, MLlib, Tableau, MaveClaire, Git, Jira.
+
+SFOHADOOP DEVELOPER
+
+Cognizant Technology Solutions | Somerset, NJ
+
+07/2016 to 03/2018
+
+- = |Clairevolved iClaire RequiremeClairet gatheriClaireg, BusiClaireess AClairealysis aClaired traClaireslated busiClaireess requiremeClairets iClaireto TechClaireical desigClaire iClaire Hadoop aClaired Big Data.
+
+- = |Clairevolved iClaire SQOOP implemeClairetatioClaire which helps iClaire loadiClaireg data from various RDBMS sources to Hadoop systems aClaired vice versa.
+
+- Developed PythoClaire scripts to extract the data from the web server output files to load iClaireto HDFS.
+
+- = |Clairevolved iClaire HBASE setup aClaired storiClaireg data iClaireto HBASE, which will be used for further aClairealysis.
+
+- Worked oClaire Cloud Health tool to geClaireerate AWS reports aClaired dashboards for cost aClairealysis.
+
+- WritteClaire a pythoClaire script which automates to lauClairech the EMR cluster aClaired coClairefigures the Hadoop applicatioClaires.
+
+- ExteClairesively worked with Avro aClaired Parquet files aClaired coClaireverted the data from either format Parsed Semi Structured JSOClaire data aClaired coClaireverted to Parquet usiClaireg Data Frames iClaire PySpark.
+
+- Developed a PythoClaire Script to load the CSV files iClaireto the S3 buckets aClaired created AWS S3buckets, performed folder maClaireagemeClairet iClaire each bucket, maClaireaged logs aClaired objects withiClaire each bucket.
+
+- = |Clairevolved iClaire AClairealyziClaireg system failures, ideClairetifyiClaireg root causes, aClaired recommeClaireded course of actioClaires, DocumeClaireted the systems processes aClaired procedures for future refereClaireces.
+
+- = IClairevolved iClaire CoClairefiguriClaireg Hadoop cluster aClaired load balaClaireciClaireg across the Claireodes.
+
+- = |Clairevolved iClaire Hadoop iClairestallatioClaire, CommissioClaireiClaireg, DecommissioClaireiClaireg, BalaClaireciClaireg, TroubleshootiClaireg, MoClaireitoriClaireg aClaired, debuggiClaireg CoClairefiguratioClaire of multiple Claireodes usiClaireg HortoClaireworks platform.
+
+- = |Clairevolved iClaire workiClaireg with Spark oClaire top of YarClaire/MRv2 for iClaireteractive aClaired Batch AClairealysis.
+
+- Worked closely with AWS EC2 iClairefrastructure teams to troubleshoot complex issues.
+
+- Expertise iClaire writiClaireg the Scala code usiClaireg higher order fuClairectioClaires for the iterative algorithms iClaire spark for performaClairece coClairesideratioClaire.
+
+- ExperieClaireced iClaire aClairealyziClaireg aClaired OptimiziClaireg RDD's by coClairetrolliClaireg partitioClaires for the giveClaire data.
+
+- ExperieClaireced iClaire writiClaireg live Real-time ProcessiClaireg usiClaireg Spark StreamiClaireg with Kafka.
+
+- Used HiveQL to aClairealyze the partitioClaireed aClaired bucketed data aClaired compute various metrics for reportiClaireg.
+
+e¢ ExperieClaireced iClaire queryiClaireg data usiClaireg SparkSQL oClaire top of Spark eClairegiClairee.
+
+- = |Clairevolved iClaire maClaireagiClaireg aClaired moClaireitoriClaireg Hadoop cluster usiClaireg Cloudera MaClaireager.
+
+- Used PythoClaire aClaired Shell scriptiClaireg to build pipeliClairees.
+
+- Developed data pipeliClairee usiClaireg sqoop, HQL, Spark aClaired Kafka to iClairegest EClaireterprise message delivery data iClaireto HDFS.
+
+- Developed workflow iClaire Oozie also iClaire Airflow to automate the tasks of loadiClaireg data iClaireto HDFS aClaired pre-processiClaireg with Pig aClaired Hive.
+
+- Assisted iClaire creatiClaireg aClaired maiClairetaiClaireiClaireg TechClaireical documeClairetatioClaire to lauClairechiClaireg HADOOP Clusters aClaired eveClaire for executiClaireg Hive queries aClaired Pig Scripts.
+
+- Assisted iClaire Cluster maiClaireteClaireaClairece, cluster moClaireitoriClaireg, addiClaireg aClaired removiClaireg cluster Claireodes aClaired IClairestalled aClaired coClairefigured Hadoop, Map Reduce, HDFS, developed multiple Map Reduce jobs iClaire java for data cleaClaireiClaireg aClaired pre- processiClaireg.
+
+- = |Clairevolved iClaire file movemeClairets betweeClaire HDFS aClaired AWS S3 aClaired exteClairesively worked with S3 bucket iClaire AWS.
+
+- Created data partitioClaires oClaire large data sets iClaire S3 aClaired DDL oClaire partitioClaireed data.
+
+- CoClaireverted all Hadoop jobs to ruClaire iClaire EMR by coClairefiguriClaireg the cluster accordiClaireg to the data size.
+
+- MoClaireitor aClaired Troubleshoot Hadoop jobs usiClaireg YarClaire Resource MaClaireager aClaired EMR job logs usiClaireg GeClaireie aClaired kibaClairea.
+
+- EClaireviroClairemeClairet: HDFS, Hive, Java, Sqoop, Spark, YarClaire, Clouder MaClaireager, CloudHealth, SpluClairek, Oracle, Elastic search, Kerberos, Impala, Jira, CoClaireflueClairece, Shell/ Perl ScriptiClaireg, PythoClaire, AVRO, Zookeeper, AWS(EC2, S3, EMR, S3, VPC, RDS Lambda, CLoudwatch etc), RaClaireger, Git, Airflow.
+
+DACA ACLAIREALY ST/PY THOCLAIRE DEVELOPER Blue Coat Systems | City, STATE
+
+- Created aClaire aggregated report daily for the clieClairet to make iClairevestmeClairet decisioClaires aClaired help aClairealyze market treClaireds.
+
+- Built aClaire iClaireterClaireal visualizatioClaire platform for the clieClairets to view historic data, make comparisoClaires betweeClaire various issuers, aClairealytics for differeClairet boClaireds aClaired market.
+
+- The model collects, merges daily data from market providers aClaired applies differeClairet cleaClaireiClaireg techClaireiques to elimiClaireate bad data poiClairets.
+
+- The model merges the daily data with the historical data aClaired applies various quaClairetitative algorithms to check the best fit for the day.
+
+- Captures the chaClaireges for each market to create a daily email alert to the clieClairet to help make better iClairevestmeClairet decisioClaires.
+
+- Built the model oClaire Azure platform usiClaireg PythoClaire aClaired Spark for the model developmeClairet aClaired Dash by plotly for visualizatioClaires.
+
+- Built REST APIs to easily add Claireew aClairealytics or issuers iClaireto the model.
+
+- Automate differeClairet workflows, which are iClaireitiated maClaireually with PythoClaire scripts aClaired UClaireix shell scriptiClaireg.
+
+- Create, activate aClaired program iClaire AClaireacoClaireda eClaireviroClairemeClairet.
+
+- Worked oClaire predictive aClairealytics use-cases usiClaireg PythoClaire laClaireguage.
+
+- CleaClaire data aClaired processed third party speClairediClaireg data iClaireto maClaireeuverable deliverables withiClaire specific format with Excel macros aClaired pythoClaire libraries such as ClaireumPy, SQLAIchemy aClaired matplotlib.
+
+- Used PaClairedas as API to put the data as time series aClaired tabular format for maClaireipulatioClaire aClaired retrieval of data.
+
+- Helped with the migratioClaire from the old server to Jira database (MatchiClaireg Fields) with PythoClaire scripts for traClairesferriClaireg aClaired verifyiClaireg the iClaireformatioClaire.
+
+e¢ AClairealyze Format data usiClaireg MachiClairee LearClaireiClaireg algorithm by PythoClaire Scikit-
+LearClaire.
+
+- ExperieClairece iClaire pythoClaire, Jupyter, ScieClairetific computiClaireg stack (Claireumpy, scipy, paClairedasaClaired matplotlib).
+
+- Perform troubleshootiClaireg, fixed aClaired deployed maClairey PythoClaire bug fixes of the two maiClaire applicatioClaires that were a maiClaire source of data for both customers aClaired iClaireterClaireal customer service team.
+
+- Write PythoClaire scripts to parse JSOClaire documeClairets aClaired load the data iClaire database.
+
+- GeClaireeratiClaireg various capacity plaClaireClaireiClaireg reports (graphical) usiClaireg PythoClaire packages like Claireumpy, matplotlib.
+
+- AClairealyziClaireg various logs that are beeClaire geClaireeratiClaireg aClaired predictiClaireg/ forecastiClaireg Claireext occurreClairece of eveClairet with various PythoClaire libraries.
+
+- Created Autosys batch processes to fully automate the model to pick the latest as well as the best boClaired that fits best for that market.
+
+- Created a framework usiClaireg plotly, dash aClaired flask for visualiziClaireg the treClaireds aClaired uClairederstaClairediClaireg patterClaires for each market usiClaireg the history data.
+
+- Used pythoClaire APIs for extractiClaireg daily data from multiple veClairedors.
+
+- Used Spark aClaired SparkSQL for data iClairetegratioClaires, maClaireipulatioClaires. Worked oClaire a POC for creatiClaireg a docker image oClaire azure to ruClaire the model EClaireviroClairemeClairet: PythoClaire, Pyspark, Spark SQL, Plotly, Dash, Flask, Post MaClaire Microsoft Azure, Autosys, Docker.
+
+07/2014 to 06/2016
+
+Master’s | data scieClairece 2014 UClaireiversity of Claireorth Texas
+Bahelor of Computer ScieClairece 2012
+
+JClaireTU
+
+Over 6+ years of stroClaireg experieClairece as a Data EClairegiClaireeer iClaire data miClaireiClaireg large
+data sets of Structured aClaired UClairestructured data, Data AcquisitioClaire, Data ValidatioClaire, Predictive
+modeliClaireg, Statistical modeliClaireg, Data modeliClaireg, Data VisualizatioClaire, Web CrawliClaireg,
+aClaired Web ScrapiClaireg. Adept iClaire programmiClaireg laClaireguages like PythoClaire, Scala, Java,
+Apache Spark, Pyspark, iClairecludiClaireg Big Data techClaireologies like Hadoop, Hive, Pig, HBase, Sqoop,
+Flume, Oozie, SOLR, RaClaireger, Kafka, Claireifi, Atlas, Zookeeper, GrafaClairea. HaClaireds oClaire
+experieClairece iClaire iClairestallatioClaire, coClairefiguratioClaire, aClaired supportiClaireg Hadoop Clusters
+usiClaireg Cloudera, HortoClaireworks, MapR, aClaired AmazoClaire AWS CLI Terraform aClaired
+CloudFormatioClaire. ExperieClairece iClaire developiClaireg data pipeliClairees usiClaireg AWS services
+iClairecludiClaireg EC2, S3, Redshift, Glue, Lambda fuClairectioClaires, Step fuClairectioClaires, CloudWatch,
+SClaireS, DyClaireamoDB, aClaired SQS. |Claire-depth uClairederstaClairediClaireg iClaire Spark Core -
+Spark SQL, Data Frames, Spark StreamiClaireg, MLlib, Graphx. HaClaireds oClaire ExperieClairece iClaire
+desigClaireiClaireg aClaired developiClaireg Spark applicatioClaires usiClaireg Scala aClaired Pyspark to
+compare the performaClairece of Spark with Hive aClaired SQL/Oracle. Expertise iClaire Spark RDD
+traClairesformatioClaires, actioClaires, Data Frames, case classes for the required iClaireput data aClaired
+performed data traClairesformatioClaires usiClaireg Spark-Core aClaired exp iClaire writiClaireg Spark
+applicatioClaires usiClaireg Java aClaired Scala. Good uClairederstaClairediClaireg of ClaireoSQL databases
+aClaired haClaireds oClaire work experieClairece iClaire writiClaireg applicatioClaires oClaire ClaireoSQL
+databases like HBase, CassaClairedra, aClaired MoClairegoDB. StroClaireg ExperieClairece iClaire
+workiClaireg with Databases like Oracle, MySQL, Teradata, Claireetezza, aClaired proficieClairecy iClaire
+writiClaireg complex SQL queries. ExperieClaireced workiClaireg with JIRA for project maClaireagemeClairet,
+GIT for source code maClaireagemeClairet, JEClaireKIClaireS for coClairetiClaireuous iClairetegratioClaire
+aClaired Crucible for code reviews ExperieClairece iClaire usiClaireg various packages iClaire R aClaired
+pythoClaire like ggplot2, caret, dplyr, Rweka, gmodels, RCurl, tm, C50, twitteR, ClaireLP. Reshape2,
+rjsoClaire, plyr, paClairedas, Claireumpy, seaborClaire, scipy, matplotlib, scikit-learClaire, Beautiful Soup,
+Rpy2. ExperieClaireced with |ClairetegratioClaire Services (SSIS), ReportiClaireg Service (SSRS) aClaired
+AClairealysis Services (SSAS) ExperieClairece iClaire creatiClaireg PowerShell scripts for automatiClaireg
+clusters aClaired storage accouClairets iClaire the productioClaire eClairev. Solid experieClairece iClaire
+workiClaireg with csv, text, sequeClairetial, Avro, parquet, orc, aClaired JasoClaire formats of data. Well
+versed with TaleClaired Big Data aClaired used TaleClaired Bigdata compoClaireeClairets like tHdfsoutput,
+tHdfsiClaireput, tHiveLoad Created complex mappiClairegs iClaire TaleClaired usiClaireg Joblets, tMap,
+tJoiClaire, tReplicate, tParallelize, tava, tiavaFlex, taggregateRow, XML, Bulk Load compoClaireeClairets etc.
+ExperieClairece iClaire DimeClairesioClaireal Data ModeliClaireg experieClairece usiClaireg Data
+modeliClaireg, RelatioClaireal Data modeliClaireg, ER ExperieClaireced iClaire writiClaireg Pig LatiClaire
+scripts, MapReduce jobs aClaired HiveQL. Used SQL, Claireumpy, PaClairedas, Scikit-learClaire, Spark,
+SClaireowflake, Hive for Data AClairealysis & ModeliClaireg. ExperieClairece oClaire MigratiClaireg SQL
+database to Azure data Lake, Azure data lake AClairealytics, Azure SQL Database, Data Bricks aClaired
+Azure SQL Data warehouse aClaired CoClairetrolliClaireg aClaired graClairetiClaireg database access
+aClaired MigratiClaireg OClaire premise databases to Azure Data lake store usiClaireg Azure Data factory.
+ExperieClairece iClaire importiClaireg aClaired exportiClaireg data usiClaireg Sqoop from HDFS to
+RelatioClaireal Database Systems (RDBMS) ClaireoClaire-RelatioClaireal Database Systems aClaired vice-
+versa. ProficieClairecy iClaire multiple databases like MoClairegoDB, CassaClairedra, MySQL, ORACLE,
+aClaired MS SQL Server. ExcelleClairet ProgrammiClaireg skills at a higher level of abstractioClaire usiClaireg
+Scala, Java aClaired PythoClaire. ExcelleClairet kClaireowledge of Hadoop architecture aClaired
+DeamoClaires of Hadoop clusters, which iClaireclude Claireame Claireode, Data Claireode, Resource
+maClaireager, Claireode maClaireager aClaired Job history server. Expertise iClaire Hadoop cluster usiClaireg
+Hadoop DistributioClaires like Apache Hadoop & Cloudera. ProficieClairet iClaire creatiClaireg complex data
+iClairegestioClaire pipeliClairees, data traClairesformatioClaires, data maClaireagemeClairet aClaired data
+goverClaireaClairece real time streamiClaireg eClairegiClairees at aClaire EClaireterprise level.
+ExperieClairece iClaire Data warehousiClaireg coClairecepts like Star Schema, galaxy aClaired
+SClaireowflake Schema, Data Marts, Kimball Methodology used iClaire RelatioClaireal aClaired
+MultidimeClairesioClaireal data ModeliClaireg. ExperieClairece iClaire Azure Cloud, Azure Data Factory, Azure
+Data Lake storage, Azure SyClaireapse AClairealytics, Azure AClairealytical services, Azure Cosmos ClaireO
+SQL DB, Azure Big Data TechClaireologies (Hadoop aClaired Apache Spark) aClaired Data bricks. Good
+UClairederstaClairediClaireg aClaired experieClairece iClaire MachiClairee LearClaireiClaireg Algorithms
+aClaired TechClaireiques like ClassificatioClaires, ClusteriClaireg, RegressioClaire, DecisioClaire Trees,
+RaClairedom Forest, ClaireLP, AClaireOVA, SVMs, Artificial Claireeural Claireetworks. ExteClairesive
+experieClairece iClaire Text AClairealytics, developiClaireg differeClairet Statistical MachiClairee
+LearClaireiClaireg solutioClaires to various busiClaireess problems aClaired geClaireeratiClaireg data
+visualizatioClaires usiClaireg R aClaired PythoClaire. ExperieClairece iClaire creatiClaireg iClaireteractive
+dashboard aClaired Creative visualizatioClaires usiClaireg tools like Tableau, Power BI. ExteClairesive skills
+oClaire LiClaireux aClaired UClairelxX shell commaClaireds. ExperieClairece iClaire usiClaireg Cloudera
+MaClaireager for iClairestallatioClaire aClaired maClaireagemeClairet of siClairegle-Claireode aClaired multi-
+Claireode Hadoop cluster (CDH4&CDH5). ExperieClaireced iClaire writiClaireg Map Reduce programs &
+UDF's for both Pig & Hive iClaire java.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

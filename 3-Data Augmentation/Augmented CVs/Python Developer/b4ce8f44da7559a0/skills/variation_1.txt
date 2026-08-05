@@ -1,0 +1,45 @@
+ROBERT SMITH Hadoop / Python Developer
+
+Phone: {(0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Extensive experience as a Web/Application Developer and coding with analytical programming using Python, Django, Flask and C++, Big Data/Hadoop technology,
+Expertise in HDFS, MapReduce, Hive. Pig. Sqoop, HBase and Hadoop ecosystem.
+Experienced on major Hadoop ecosystems projects such as Pig, Hive, HBase and monitoring them with Cloudera Manager & Hortonworks. Expertise in writing HIVE
+queries, Pig and MapReduce scripts and loading the huge data from local file system and HDFS to Hive,
+
+HADOOP Ecosystem Hadoop And MapReduce, Sqoop, Hive, PIG, HBASE, YARN, HDFS
+
+Hadoop / Python Developer
+Hadoop - September 2015 - Present
+
+Key Deliverables:
+
+- Working as a Python/Hadoop developer on integration and analytics based on Hadoop, SOLRand web methods technologies.
+
+® Developed a custom AVRO framework capable of solving small files problem in Hadoop and also extended pig and hive tools to work with it.
+
+- Working on data using sqoop from HDFS to relational database systems and yice versa.
+
+- Created and maintained technical documentation for launching Hadoop clusters and for executing Hive queries and pig scripts,
+
+- Developed Sqoop scripts to handle change data capture for processing incremental records between new arrived and existing daia in RDBMS.tables-
+
+- Installed Hadoop, map reduce, HDFS. AWS and developed multiple mapreduce Jobs in PIG and HIVE for data cleaning and pre-processing,
+
+- ${job_description7}
+
+Python Developer
+ABC Corp - 2014-2015
+
+Key Deliverables:
+
+- Wrote python scripts to parse xml documents and load the data in the database,
+
+- Used pandas api to put the data as time series and tabular format for east timestamp data manipulation and retrieval,
+
+- Was involved in the environment, code installation as well as the svn implementation.
+
+- Cleaned data and processed third-party spending data into maneuverable deliverables within specific formats with excel macros and python Hbmries,
+
+2259 Oak Street, Old Forge, New York, 13420
+- Thi; Free Resume Template is the copyright of Quileesume.com, Usage Guidelines

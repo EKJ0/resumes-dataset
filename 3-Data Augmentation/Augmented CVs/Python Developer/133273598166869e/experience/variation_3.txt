@@ -1,0 +1,100 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+PESKOV SERGEY
+
+Python Developer
+
+\. +7 7771096895 @peskovdev@proton.me <2 https://peskov.dev 9 Kazakhstan Karaganda
+
+SKILLS FIND ME:
+
+Main Stack
+
+- Telegram: https://t.me/peskovdev
+Python Flask Linux = Git. ~+~=Ss«sHTTP.~ - ~PostgreSOL_-~=Ss«OOP * GitHub: https://github.com/peskovdev
+i e GitLab: https://gitlab.com/peskovdev
+
+Redis Docker | SQLAlchemy Aiogram = HTML & CSS * Linkedin: linkedin.com/in/peskovdev
+eee eC e Twitter: https://twitter.com/peskovdev
+
+JavaScript Unittest & Pytest Poetry
+
+za MY TIME Familiar with
+
+Django Vue MongoDB Basic Go
+
+PYTHON-PROJECTS
+
+Flask-blog
+
+@ https://github.com/peskovdev/flask-blog yo
+
+Tools used:
+- Flask
+- Different Flask-Extensions
+- SQLAlchemy, Alembic
+- Vanilla JS
+
+- Docker
+
+EDUCATION
+---------
+
+Programming
+
+@
+
+@ Pheidippides ©] communication
+
+{DJ
+
+cE)
+
+@
+
+BS / as ye
+
+@ https://github.com/peskovdev/pheidippides Sport Telegram bot for sending cryptocurrency rates. Tools used: Rest
+
+- Alogram
+
+- Telegram api Sleep
+
+- Redis
+
+- Async, ailoschedule
+
+LANGUAGES JWT-Auth | | | - Russian Native
+
+@ https://github.com/users/peskovdev/projects/3 JWT authentication between microservices. Tools used:
+
+- oo English Intermediate
+- =)
+
+> Djoser & JWT-Tokens
+
+- Vue
+
+PASSIONS
+
+EDUCATION
+--------- @ WEB3.0
+
+Bachelor: Computer engineering and software
+
+Karaganda University Of Kazpotrebsoyuz f 2020 - 2023
+
+8B Cryptocurrencies
+
+.NET Learning Program
+
+Epam Training Center fA 2019
+
+</> Open Source
+
+Vocational School: Computer engineering and software
+Karaganda Higher Polytechnic College fA 2016 - 2020
+
+www.enhancv.com Powered by
+
+CX? Enhancy

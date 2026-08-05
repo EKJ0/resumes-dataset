@@ -1,0 +1,60 @@
+Philip Higginbottom | Python Developer
+
+@ Wakef
+
+& philip@philiphiggin
+
+Professional Profile
+
+PCPP2 certified Python Developer with over 9 years’ experience working with Python frameworks
+focused on data. Well-acquainted with database engineering. improving database
+performance, developing custom data and cloud solutions, and server-side technology. High y
+skilled in Python coding and scripting. and working with web frameworks including Django, HTM|
+
+and CSS.
+
+Core Skills
+- Web frameworks * Code versioning tools
+- Event-driven programming * Object relational mappers
+- Machine leaming and Al * Multi-process architecture
+- Data structures * OOPs concepts
+- Exception handling * PCPP2 certified
+
+Career Summary
+
+May 2019 - Present Digital Consultants Inc, Wakefield
+
+Python Developer Outline
+Working for a successful digital transformation consultancy based in Wakefield. Responsible for
+software development projects and initiatives including building solutions using industry best
+practice and delivering quality solutions for clients.
+
+Key Responsibilities
+
+. Translate functional project requirements to meet the specified technical requirements Design programs and systems that match the complex project requirements
+Record the specifications that are involved in the development and coding process Code, test, implement, debug and document each program
+Verify and validate end deliverables Lead troubleshooting events and communicate solutions and resolutions to the team
+Complete projects and development activities within the timeframe expected Provide documented operation and user procedures when required, and provide
+training for respective users . Maintain an up-to-date knowledge of the latest technology and tools to improve the
+
+software development process
+
+eee eee
+
+Key Achievements . Improved client database performance by 20% using materialised views and stored
+procedures.
+
+. Developed several in-house packages with over 75% test coverage.
+
+. Optimised client back-end microservices and lowered the service request time from 800ms to 130ms.
+
+. Improved client data protection and security, increasing the security rate by 30%.
+
+. Developed and configured client database and backend applications and programs, contributing to operations continuity and increasing program efficiency by 18%.
+
+Page |
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

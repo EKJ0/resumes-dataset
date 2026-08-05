@@ -1,0 +1,155 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+Driven results business Intelligence professional with 9+ experience in data modeling and visualization tools like Power BI, OBIEE/
+OAS (12c, 11g, 10g) etc. I have extensively worked in Power Bi creating reports/visualization, developing data models, building
+relationships, writing Dax, configuring gateway and implementing, implementing RLS (row level security) with strong knowledge in
+power query editor. I also have experience in Obiee RPD and dashboards development including BI Publisher. I am currently
+seeking a Business intelligence position in a company where technical efficiency, data governance and proven analytical solution will
+contribute to company growth and professional advancement. Hardworking individual with a proven track records of providing
+enterprise solutions including upgrading, maintenance and general production support.
+
+SKILLS
+------
+
+- TOOLS: * Oracle DBMS, Tableau 10.2, Infomatica 10.2, OBIEE/OAS (11g & 12c) and BI Publisher ,ODI, Power BI, Erwin, SQL, SharePoint, Windows, Linux, Hyperion Financial, EBS, Excel, Smart view, EPM Cloud.
+
+WORK EXPERIENCE
+---------------
+
+Power BI Developer, 05/2016 to 04/2019 First International Bank & Trust - Minneapolis, MN
+
+- Set connection pool properties to move database dimension tables into the physical layer to model into the RPD
+
+- Define time series functions using facts table column as AGO, TO DATE & Period for analysis efficiency
+
+- Define Repository and Session variables using initialization blocks to control user access
+
+- Created Alias table in the physical layer to maintain entity integrity in dimension table in the database
+
+- Set cache mechanism strategy for query optimization and performance tuning
+
+- Build hierarchy between similar (parent-child) and non-similar data sets (level based) in the BMM layer and defined level-based hierarchy at the lowest granularity level
+
+- Develop many Reports and Dashboards with different Analytics Views (Drill-Down / Dynamic, Cascading Style Sheets, Pivot Table, Chart, Column Selector, Tabular with global and local Filters) using OBIEE Analytics
+
+- Follow Service Request requirement via BRD to deliver scheduled BI publisher reports templates and Data Model
+
+- Write SQL script used to populate columns presents within tables in the database based on the BRD which will be used in building the data model
+
+- Generate an RTF template used to save sample XML files used to populate the scheduled report in excel, PDF, text file e.t.c
+
+- Use ibots to schedule jobs to be delivered based on preset criteria
+
+- Create local and global filters to be used with different analysis and dashboard
+
+- Create executive level dashboards with drilldown capabilities, prompt, filters including bar chart, graph, histography
+
+- Heat view visualizations
+
+- Create level based measures to be held at a certain level in the hierarchy
+
+- Implemented hierarchy to address a one to many relationships in the BMM layer.
+
+OBIEE Developer, 02/2015 to 02/2016 Cognizant Technology Solutions - Accord, NY
+- Use waterfall and Agile-scrum methodologies for workflow and project management to ensure on time delivery of project from development to production
+- Develop and maintain cache mechanism for performance tuning for reports and dashboards
+- Set up data level and object level security in OBIEE 10g, 11g & 12c
+- Create session variables to invoke permission privileges to users
+- Use the foreign key link in the physical layer and the new complex joint key in the Business Model and Mapping layer to form relationships between fact and dimensional tables
+- Build hierarchy between similar (parent-child) and non-similar data sets (level based) in the BMM layer and defined level-based hierarchy at the lowest granularity level
+- Developed many Reports and Dashboards with different Analytics Views (Drill-Down / Dynamic, Cascading Style Sheets, Pivot Table, Chart, Column Selector, Tabular with global and local Filters) using OBIEE Analytics
+- Used agents/iBots for scheduled reports to be delivered to users based on a set of conditions that automatically generates a report when the trigger conditions are met
+- Use repository, session variables and initialization blocks for configuring user's security.
+
+Obiee Developer, 03/2013 to 01/2015 Cognizant Technology Solutions - Albany, CA
+
+- Requirement and systems specifications gathering from clients through face to face meetings to understand project stages and implementation procedures
+
+- Understanding source systems and data migration tools and techniques to be used in having data available for reports and dashboards
+
+- Manage workflow using agile-scrum development methodologies for on time project delivery to end users
+
+- Conduct relevant research, data analysis, in creating reports and dashboards with different views (Drill-Down, Pivot Table, Chart, Column Selector, and Tabular with global and local filters)
+
+- Designing and developing reporting semantic layers (OBIEE Metadata Repository) by importing metadata from a database or XML files and applying multidimensional data modeling techniques (OLAP/MOLAP, star and snowflake schemas) for enhanced reporting efficiency
+
+- Maintaining responsibility for completion and accuracy of work products
+
+- Validating business data models by performing consistency check, validating logical tables’ structures, and validating repository level calculation done in the business model layer
+
+- Implementing Time comparison and calculation measures in the business models using Time Series Wizard
+
+- Set up object level and data level security
+
+- Using repository session variables and initialization blocks for configuring the data and user's security
+
+- Install, upgrade, and configure business intelligence and OBIEE 11g
+
+- Created/modified the OBIEE metadata repository including the physical, business model, and presentation areas
+
+- Created star schemas in the repository
+
+- Used the foreign key link in the physical layer and the new complex joint key in the Business Model and Mapping layer to form relationships between fact and dimensional tables
+
+- Analyzed and validated the business model by performing consistency check, validated logical table source tables and logical
+
+columns.
+
+OBIEE/OAS, Power BI Developer, 04/2019 to Present The Select Group/General Dynamics Information Technology VA, Obiee OAS - City, STATE
+- Provide support in the development of OBIEE components and solutions to GDIT
+- Understand project requirements and work towards design and development of the plan layout
+- Base on new requirements, created new version of executives dashboards and , analytics and reports properly
+- Build testing codes and ensure execution from UAT team members
+- Migrated reports and executives dashboards on UAT and production instances
+- Adjust and set dashboards user access roles upon management demand
+- Design and develop data modeling concepts using various data modeling tools like star schema and dimensional modeling
+- Design and place data in layers varying to physical, business and presentation
+- Update User Guide and Technical documents to reflect the changes made all time
+- Work permanently with the Hyperion and financial teams to ensure data on dashboards reflect exactly the data from the source (Essbase)
+- Build new variables
+- Successfully upgrade from OBIEE 12c to OAS including new documentation
+- Participate to the OAS existing executive dashboards conversion to EPM Cloud Executives dashboards
+- Work with Financial team, users and analysts to maintain exchange of reporting requirements
+- Always apply the best practices of business intelligence to meet project and company objectives
+- Identify production errors and critical issues followed and troubleshoot them
+- Fix production issues or process failure
+- Train the end users on understanding the dashboards functionalities and navigation
+- Prepare monthly reports and present them for data validation
+- Created HR reports in Power BI
+- Connecting to various data source like Oracle, SQLserver, share point, excel etc, and creating reports
+- Data cleansing/modification in power query editor
+- Building relationship in tables
+- Configuring gateway and scheduling refresh in service environment
+- Creating calculated column and measures using dax
+- Configuring row level security
+- Created reports based on bookmarks, page navigation, drill through and tooltip
+- Publishing and share reports in service environment
+- Developing Obiee reports to power bi
+- Developed, documented and revised system design procedures and quality standards.
+- Documented requirements through functional specifications and technical design documents.
+- Developed, tested and deployed standard reports and dashboards based on business requirement document specifications.
+- Created complex SQL queries and database objects to pull and manage data.
+
+Education and Training
+Bachelor of Science: Information Technology, 01/2003
+
+Vaal University of Technology
+
+Diploma Of business Insurance: Business
+
+Insurance College of Yaoundé - Cameroon
+
+CERTIFICATIONS
+--------------
+
+Certified Oracle Implementation Specialist
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

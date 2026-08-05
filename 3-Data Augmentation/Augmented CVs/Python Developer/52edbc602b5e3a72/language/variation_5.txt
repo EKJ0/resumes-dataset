@@ -1,0 +1,61 @@
+ROBERT SMITH Java/Python Developer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+3 years of SOFTWARE DEVELOPMENT EXPERIENCE in Python, Java, and IDEs - Sublime
+text, PyCharm, Eclipse, PyDev. Highly experienced in all phases of Software Development Life
+Cycle(SDLC), Expert in Web application development.
+
+CORE COMPETENCIES
+
+Technical : Frameworks Django, Web2py, Flask, Struts, Pylons And CSS Bootstrap, TurboGears,
+Web2py, Openstack Web Technologies HTML, CSS, DOM, SAX, Java Script, JQuery, AJAX, XML, Angular.JS Programming Languages Python, Java, SQL And PL/SQL. J2EE Technologies
+JSP, Java Servlets, JDBC And JMS, Version Control Git (GitHub)
+
+WORK EXPERIENCE
+---------------
+
+Java/Python Developer
+Computek Solutions - March 2015 = Present
+
+Key Deliverables:
+
+- Written with object-oriented Python, Flask, SOL, Beautiful Soup, HTTPLIB2, JINJA2, HTML/CSS, BootStrap, Jquery, Linux, Sublime Text, GIT.
+
+- Developed the mquired XML schema documents and implemented the framework for parsing XML documents.
+
+- Bulkt application and database servers using AWS EC2 and create AMIS also using ADS for Oracte DB.
+
+- Developed web applications in DJango frameworks Model View Control (MVC) architecture.
+
+- Developed custom tags to simplify the template code. Designed UI screens using templates, Ajax, Himl, and JSon, Used Javascript for cliant side validation,
+
+- Involved in the analysis, design, and development and testing phases of software development life cycie (SDLC),
+
+- Scheduling tasks on windows task scheduler to run the Python scripts to generate repons for traquent interval of times and also send email alerts
+
+Python Developer
+ABC Corporation - Mar 2010 - Mar 2015
+
+Key Deliverables:
+
+= Worked on windows server vm to run reporting scripts each day and make the reports available via http using an iis virtual directory,
+
+» Create on-demand daily and weeily reports by invoking scripts with custom arguments and parameters to provide actionable data to the tes! owners.
+
+- Managed datasets using pandas dataframes and mysql database queries from python using python-pyodbe connector package to retrieve information.
+
+- Wrote programs for performance calculations using numpyand sqlaichemy,
+
+- <$_$_$$$____
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

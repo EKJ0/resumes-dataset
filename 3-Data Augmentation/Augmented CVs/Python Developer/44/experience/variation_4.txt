@@ -1,0 +1,198 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- 7 years of professional experience as a Python Developer, proficient coder in multiple languages and experience in Design, Development, Implementation of Python, Django, Flask, Pyramid and client - server technologies-based applications, RESTful services, AWS, C, C++, and SQL.
+
+- Software Testing Automation With solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting & Tracking.
+
+- Extensive experience in developing and deploying appilications using Python on Amazon Wed Services(AWS) cloud platform.
+
+- Designed and developed continuous integration using Python, Flask, GitHub and Jenkins.
+
+- Extensively used Spark, Numpy, Pandas, and SQL for Data Analysis and Model Building.
+
+- Experienced in creating and developing web-based applications using Python, Django, C++, XML, CSS, HTML, JavaScript, and JQuery.
+
+- Excellent knowledge of OOPS, Multi-Threading and Collections concepts in Python, Used Pandas library for Statistical Analysis.
+
+- Developed web applications and RESTful web services and APIs using Python Flask, Django, Pyramid.
+
+- Proficient in SQL databases MYSQL, PostgreSQL, Oracle and NoSQL databases MongoDB, Cassandra.
+
+- Experienced in MVC frameworks like Django, HTML, CSS, XML, Java Script, jQuery. Bootstrap, JSON.
+
+- Participated incode reviews, contributed to the FASTAPI community through ope-source contributions and stayed up to date on the latest best practices and developments in the FASTAPI and Python communities.
+
+- Proficient in building and deploying AWS resources such as EC2, $3, Lambda, DynamoDB, CloudFormation, CloudWatch, and Elastic Beanstalk.
+
+- Experience in using Version Control Systems like GIT, SVN, and CVS to keep the versions and configurations of the code organized.
+
+- Proficient in setting up and configuring continuous integration and deployment (CI/CD) pipelines using AWS codePipeline, CodeCommit, and CodeBuild.
+
+- Having experience in Agile Methodologies, Scrum stories and sprints experience in a Python based environment and Excel data extracts.
+
+- Experience in building RESTful APIs using AWS API Gateway and deploying serverless functions using AWS Lambda.
+
+- Having Experience in Agile methodologies, Scrum stories and Sprints experience in a Python based environment and excel data extracts.
+
+- Experienced in creating the Docker containers and Docker consoles for managing the application life.
+
+- Experienced in working with Operating Systems like Windows, Linux, and UNIX.
+
+- Possess good interpersonal, and analytical presentation Skills, and the ability to work in self-managed and Team environments.
+
+TECHNICAL SKILLS
+----------------
+
+- Languages: Python, SQL, HTML, XML, C, C++, Shell Script, © Versioning Tools: GIT, CVS, SVN, Bitbucket
+
+JavaScript, PHP, Machine Learning © Tools & IDE: PyCharm, Sublime, Eclipse, NetBeans, Atom,
+- Frameworks: Django, Flask, AngularJS, Node.js, jQuery, Jupyter, SeeTest, Selentum WebDriver
+
+Bootstrap ¢ Libraries: Pandas, NumPy, Scikit-Learn, PySpark, Matpotlib,
+- Databases: MYSQL, PostgreSQL, NoSQL, MongoDB, Oracle, Seabor, Docker, Jenkins, Ansible
+
+Cassandra © Operating Systems: Windows, Linux, Unix
+
+- Web Services: REST, SOAP, Apache
+- Cloud Services: AWS, Lambda, $3, EC2, Amazon EMR
+
+WORK EXPERIENCE
+---------------
+
+09/2021 to Current Sr Python Developer Cumming Llc - Columbia, SC
+
+- Participated in the requirement gathering and analysis phase in documenting the business requirements by conducting meetings with various business users.
+
+- Involved in Business logic implementation, data exchange, XML processing, and graphics creation have been done using Python and Django.
+
+- Designed and developed a scalable web application using Python on AWS, leveraging services such as EC2, $3, Lambda, DynamoDB, API Gateway, and CloudFront.
+
+- Implemented MVC architecture using server-side applications, Django, for developing web applications.
+
+- Created a Django dashboard with a custom look and feel for the end user after a careful study of the Django admin site and dashboard.
+
+- Used Python and Django to interface with the jQuery UI and manage the storage and deletion of content.
+
+- Developed RESTful APIs using Python and Flask, and integrated with various AWS services such as DynamoDB, $3, and Lambda.
+
+- Used AWS EC2 command line interface with Python to automate repetitive work.
+
+- Worked on Flask to connect front-end to back-end, CherryPy to build the server, and word clouds to visualize movies.
+
+- Configured CloudFront to improve performance and provide secure access to the web application.
+
+- Created SQL Alchemy table definition and used Oracle database which was integrated into the PyCharm IDE.
+
+- Developed Micro services using Go language and worked on test cases and also experience of various python application development and CI/CD pipelines tools like GitHub, Jenkins, AWS and Unix shell scripting.
+
+- Worked on Python Open stack APIs using Python scripts to update content in the database and manipulate files.
+
+- Implemented monitoring and logging using AWS Cloudwatch, providing real-time visibility into the performance and health of web application.
+
+- Experience in agile environment using CI/CD model methodology.
+
+- Implemented CI/CD pipeline using jenkins, Ansible playbooks and Ansible Tower.
+
+- Responsible for implementing monitoring solutions in Ansible, Terraform, Docker, and Jenkins.
+
+- Implemented Data tables to add, delete, update, and display patient records and policy information using PyQt.
+
+- Used Test Driven Approach for developing the application and implemented the unit tests using the Python Unit Test framework.
+
+- Used Bash and Python, included Boto3 to supplement automation provided by Ansible and Terraform for tasks such as Scheduling Lambda functions for routine AWS tasks.
+
+- Developed company-wide technical strategy plans for Python-based assets, overseeing development, coding, debugging and [Task].
+
+05/2018 to 07/2021 Python Developer Cumming Lic - Reno, NV
+
+- © Managing PostgreSQL production databases, Applying PostgreSQL patches and schema changes.
+
+- Analyzing and implementing new technologies with PostgreSQL server.
+
+- Used Python, Django, and Pyramid frameworks to develop applications and was responsible for both back-end programming and front-end functionality using Ajax, Angular.JS, and other technologies.
+
+- Developed and maintained microservices using Python FastAPI, implementing RESTful APIs to support a variety of business use cases.
+
+- Involved in building database Models, APIs, and Views utilizing Python, in order to build an interactive web-based solution.
+
+- Built a FedRAMP-complaint DevOps pipeline for a defense contrator's cloud intfrastructure, utilizing python, jenkins, and Docker.
+
+- Developed Business Logic using Python on Django Web Framework.
+
+- Utilized the FastAPI built-in support for OpenAPI to automatically generate API documentation, making it easy for other developers to understand and use the APIs.
+
+- Develop programs to automate the testing of controller in CI/CD environment using python, Git, Linux command line, Java Script.
+
+- Successfully migrated the Django database from SQLite to MySQL with complete data integrity.
+
+- Key responsibilities include setting up PostgreSQL database with replication and implementing in house backup solutions.
+
+- Used FastAPI's built-in support for asynchronous programming and the asyncio library to improve the API's responsiveness and scalability.
+
+- Developed views and templates with Python and Django's view controller and templating language to create a user- friendly website interface.
+
+- Integrated FastAPI with various data storage systems, including MySQL. PostgreSQL, and MongoDB., to persist and retrieve data from within the microservices.
+
+- Extensively worked on jenkins to implement Continuous integration (CI) and Continuous deployment (CD) processes.
+
+- Experience to build CI/CD pipeline to automate the code release process using integration tools like Git/SVN, GitHub, Jenkins.
+
+- Developed SQL Queries, Stored Procedures, and Triggers Using Oracle, SQL, PL/SQL.
+
+- Maintained version control of Python by using GIT. (Merge, Branch, Push, and Commit).
+
+- PostgreSQL implementation, customization to run the database in line with the customer expectations.
+
+- Implementing High availabilty solutions using PostgreSQL migrating from different databases to PostgreSQL.
+
+05/2016 to 04/2018 Python Developer Client - Fastly - City, STATE
+
+- Attended Scrum meetings to provide project status demonstrations every two weeks, thus implementing Agile Methodology (Scrum) with Test Driven Development.
+
+- Developed predictive models on large scale datasets to address various business problems through leveraging advanced statistical modeling, machine learning and deep learning.
+
+- Developed a high-performance API using Python FastAPI, capable of handling a large number of requests with minimal latency.
+
+- Preprocessed the data by handling missing values, encoding categorical variables, and scaling numerical features.
+
+- Used R programming language fro graphically critiquing the datasets and to gain insights to interpret the nature of the data.
+
+- Built and optimized several machine learning models such as logistic regression, decision tree, and random forest, to identify the best performing one.
+
+- Worked with Python along with JavaScript to create scalable and common components which can be used across the whole framework.
+
+- Performed database queries from Python using Python-MySQL connector and MySQL package to retrieve information.
+
+- Designed the API using the OpenAPI standard, providing detailed documentation and making it easy for clients to interact with the API.
+
+- For the extraction of data from the database various queries were written and a database was created using MYSQL.
+
+- Written with Object-Oriented Python, Flask, SQL, HTML/CSS, Bootstrap, jQuery, Linux, Sublime Text, Git.
+
+- Having knowledge on AWS Lambda, Auto Scaling. RDS, AWS SNS, SES.
+
+- Implemented automated testing using Pytest, ensuring that the API was always functioning as expected.
+
+- Worked closely with front-end developers and product owners to ensure that the API met business requirements and delivered the desired functionality.
+
+- Contributed to the FastAPI community by sharing knowledge and resources through blog posts, open-source contributions, and participation in online forums and meetups.
+
+- Deployed the model as a web application using Flask to allow the client to interact with the model and obtain predictions in real time.
+
+- Exposure on Multi-Threading factory to distribute learning process back-testing and the into various worker processes.
+
+- Implemented and enhanced CRUD operations for the applications using the MVC architecture of Django framework and also conducted code reviews.
+
+Epucarion Bachelor of Science: Computer Science & Engineering
+
+Acharya Nagarjuna University
+
+Master of Science: Information Sciences Trine University

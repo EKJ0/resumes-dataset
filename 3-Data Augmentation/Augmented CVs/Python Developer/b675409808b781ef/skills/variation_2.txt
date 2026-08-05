@@ -1,0 +1,50 @@
+TIMOTHY DUNCAN
+
+Python Developer
+\ 229-828-1284 lily.williams@gmail.com - ~ github.io/lily.williams 9 San Francisco, CA SUMMARY SKILLS
+Python developer with 8 years of experience in finance and fintech. Well- Programming acquainted with database engineering, data warehouses, and data processing.
+Knowledgeable in Python frameworks related to data such as SciPy, NumPy, Python SciPy NumPy Matplotlib
+Matplotlib. Cloudera certified Data analyst, PCPP-1 certification and Spark/Hadoop developer certification.
+i Django Flask saq_ Java et Databases & Servers B.S. Software Engineering aaa AWS Django ORM MySQL ETL
+University of California, San Fransisco 3.8/4.0
+@& 2008-2012 @ SanFrancisco, CA Cassandra MongoDB Hadoop Spark
+
+WORK EXPERIENCE
+--------------- Python Developer Development
+Revolut & 2015-2018 SanFrancisco,CA
+Revolut is a financial technology company that offers banking services. We offer GIT SVN PyCharm
+accounts featuring currency exchange, debit cards, virtual cards, and vaults.
+- Collaborated with Web Application Engineers, used Python scripts to load the data into AWS Cloud Cassandra database Visualised over 40 datasets with Matplotlib Involved in processing the streaming data as well as batch data using Apache CERTIFICATION Spark Delivering projects with 1-2 days turn around time or even within hours CCA Data Analyst
+Cloudera, 2017 Python Developer
+Bank of America & 2012-2015 SanFrancisco,CA CCA Spark and Hadoop Developer
+Lauzon is a finance firm based out of San Fransisco, CA. They cater to over 30 local Cloudera, 2015
+businesses and startups by providing custom finance software. .
+- Developed internal tools for text mining (sentimental analysis), and web crawler for collecting data by Python and SQL PCPP1 Used AWS Elastic Beanstalk service for deploying and scaling web applications
+and services developed with Java, Python The Python Institute, 2014 Developed shell scripting and Python programs to automate the data flow on
+day-to-day tasks Analyzed the SQL scripts and designed the solution to Developed a custom ETL
+pipeline by using Python STRENGTHS Junior Python Developer © Ena management i Pe , Prioritizes essential tasks so they are not
+Streich & 2018-Present SanFrancisco,CA rushed. Sets deadlines that ensure reaching
+Lauzon is a finance firm based out of San Fransisco, CA. They cater to many local milestones on time.
+
+businesses and startups by providing custom finance software.
+» Made over 800 insertions and 150 deletions to 4 central Firmware repositories
+
+in less than 3 months ee Adaptability
+
+Participated in more than 4 projects per year from initial research and | remember that change is not personal and is
+conceptual design through testing and implementation phases inevitable. | break my projects into multiple
+Developed data quality portal using Python scripting, increasing data quality by parts so that if something goes wrong, | can
+30% quickly fix it.
+
+Communicated and coordinated with the project manager and coworkers to resolve 30+ build breaks a month
+
+Accountability
+
+| take ownership of my mistakes. By doing that | learn what | did wrong so that it does not happen again.
+
+www.enhancv.com Powered by (CX? Enhancy
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

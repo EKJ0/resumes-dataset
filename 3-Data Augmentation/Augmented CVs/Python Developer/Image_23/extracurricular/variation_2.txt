@@ -1,0 +1,42 @@
+JOHN GONALEZ
+
+Python De
+
+CONTACT CAREER OBJECTIVE
+
+Pittsburgh, PA Experienced Python developer with extensive Django experience
+(123) 456-7890 looking to continue to develop my skill set on the back-end at a
+
+john1652@gmail.com company driven to addressing the climate crisis.
+
+Linkedin Github
+
+WORK EXPERIENCE
+---------------
+
+Python Developer
+EDUCATION DoorDash / September 2018 - current / Chicago IL MS. ¢ Worked on building new Angular components for the customer-
+
+facing web app which improved the time on page for the
+
+Computer Science average user by 2 minutes
+
+University of Chicago
+Chicago, it / 2014-2016 Worked within an agile team and helped prioritize and scope feature requests to ensure that the biggest impact features were
+worked on first B.S. Built extensive test coverage for all new features which reduced Computer Science the number of customer complaints by 7%
+University of Pittsburgh
+Pittsburgh, PA / 2010 - 2014 Python Developer
+Knewton / April 2016 - September 2018 / Pittsburgh PA SKILLS ¢ Worked alongside another developer to implement RESTful APIs
+in Django that enabled our internal analytics team to increase HTMU/ CSS reporting speed by 24%
+SQL (PostgreSQL, Oracle) Using Selenium built out a unit testing infrastructure for a client
+JavaScript (Angular) web application that reduced the number of bugs reported by Python (Django) the client by 11% month over month
+
+REST APls (GraphQL) AWS (Redshift, $3) Git PROJECTS
+
+Cryptocurrency Price Tracker Creator
+- Incorporated API calls to several applications and stored data efficiently in in our PostgreSQL backend Utilized D3.js to allow users to dynamically visualize price movements over time periods of their choosing
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

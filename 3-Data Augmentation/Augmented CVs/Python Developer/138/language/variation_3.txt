@@ -1,0 +1,245 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+AREAS OF EXPERTISE
+
+- Windows NT/XP/2007, UNIX, MS-DOS
+
+- ETL Tools: Informatica Power Center 9.1/8.1/7.1 (Designer, Workflow Manager, Workflow Monitor, Repository manager and Informatica Server)
+
+- Databases: Oracle 11g/10g/9i/ 8i, Sybase
+
+- Languages: SQL, PL/SQL, UNIX, Shell scripts, Perl, HTML5, Java Scripting, PHP
+
+- Scheduling Tools: Autosys, Control-M
+
+EDUCATION
+--------- VTU
+2005
+
+Bachelors: Telecommunication Telecommunication
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Proactive, performance-driven professional with 10.5 years of experience in IT industry in
+Investment Banking domain.
+
+Proficient in the Integration of various data sources with multiple relational databases like
+Oracle11g /Oracle10g/9i, Sybase into the staging area, Data Warehouse which includes developing
+PL/SQL Procedures, Packages, Triggers, Bulk collections, Cursors, Views, Objects and Performance
+Tuning of Data Warehouse environment.
+
+Data Warehousing ETL experience of using Informatica PowerCenter Client tools - Mapping Designer, Repository manager, Workflow Manager/Monitor and Server tool -Repository Server
+manager.
+
+proficient in UNIX shell scripting in automation of various processes. Hands on experience in server
+setup to host files to automate the database refresh with help of Perl/cgi scripts. Developing web
+page applications using HTML5, CSS3 and Javascript for form validations. Also using Ajax and PHP
+scripting to get back data from Oracle DB.
+
+Experience in using Automation Scheduling tools like Autosys and Control-M.
+
+Knowledge and hands on in Informatica (ETL Tool) for loading huge data files.
+
+Hands-on experience across all stages of Software Development Life Cycle (SDLC) including
+business requirement analysis, data mapping, build, unit testing, systems integration and user
+acceptance testing.
+
+Experience working in On-Shore/Off-shore Development Models.
+
+Strong time management skills in leading multiple projects and deadlines under minimal supervision.
+
+Recognized and highly appreciated for consistent success, knowledge and flexibility.
+
+WORK EXPERIENCE
+---------------
+
+22Nd Century Technologies - Data Warehouse Developer
+Bothell, WA + 03/2015 - Current
+
+Customer Warehouse Environment (CWE) is a group in Fidelity focusing on providing analytical
+data to various business groups.
+
+This data helps the business community in increasing the Fidelity business in Retail and Institutional areas.
+
+The data constitutes of various customers accumulated from various sources.
+
+Major responsibilities include impact analysis, support production support activities, install
+planning, and help answer business adhoc requests.
+
+Role and Responsibilities: Providing resolution to the issues raised by users.
+
+Monitoring and providing batch support for the daily and monthly batches.
+
+Conduct regular meetings to check for weekly and monthly install.
+
+Provide month end batch support and provide on-call support.
+
+Enhancement of the existing application to provide more functionality.
+
+Identify long running process and tune the same.
+
+Unix scripts is used to ftp the files from vendor sites update the data files before loading the data
+using ETL/Informatica to process data from various vendors.
+
+Used SQL*Developer/Toad for creating all types of PL/SQL objects like tables, Indexes, packages,
+triggers, sequences and stored procedures.
+
+Optimized the existing long running processes to run faster with usage of Bulk Loader, Hints and
+limits on bulk loader Used Explain Plans to analyze long running queries and degree of Parallel to
+make queries run faster.
+
+Create new web applications from HTML5 and CSS & Javascript for form validation Host the web
+applications on windows server 2012 R2 machine Used PHP as the server side language to psftp the
+files from user's machine.
+
+Call oracle client functions ODBC to connect to db and get back the results on HTML forms.
+
+22Nd Century Technologies - ETL/Data Warehouse Developer
+Burkeville, VA + 07/2012 - 03/2015
+
+The Strategic Investment Product team works on providing investment plans for individuals,
+investment plan and guidance tool for retailers, retirement plans (401k) for organizations.
+
+The tasks involved as part of this are loading and processing the stocks and mutual fund details
+from different sources, categorize and customize such that retail and individual investors get the
+accurate details which would help in investments.
+
+Role and Responsibilities: Understand and analyze requirements, follow up with business analysts
+and subject matter expert team for any clarification, if required.
+
+Design/Review the Test Cases for Integration testing, System testing and User Acceptance testing
+Unix scripts is used to ftp the files from vendor sites update the data files before loading the data
+using ETL/Informatica to process data from various vendors.
+
+From staging area, data is processed and modified as per the requirement and then loaded to
+integration area through stored procedures and ETL/ Informatica mappings.
+
+Use Toad for developing all types of PL/SQL objects like tables, Indexes, packages, triggers,
+sequences and stored procedures.
+
+Developed and modified Oracle packages, stored procedures, functions, Scripts, synonyms, tables
+and indexes to implement business requirements and rules.
+
+Applied optimizer hints to tune the queries for faster performance.
+
+Worked on Performance tuning by using Explain plans and various hints.
+
+Worked on Table Partitioning and deploying various methods of indexing like local Indexes and
+Global Indexes on partitioned tables.
+
+Organize and analyze the behavior of each Investment Instrument like Stocks, Bonds etc for a
+certain period and provide the complete detailed analysis to investors which would help them in
+planning their portfolio and the investments.
+
+Evaluate the performance of different funds which would be ideal for long term investing which is
+the primary requirement of a retirement plan (401k) aimed at institutions.
+
+Project Title: PARA reporting for an Investment Bank.
+
+22Nd Century Technologies - Data Warehouse Developer
+Columbia, MO + 2009 - 06/2012
+
+Location: Bangalore, Tokyo and NY Description: The department division deals in reporting profit
+and loss to back to the central system.
+
+It also involves doing the daily adjustments and sending the feed to different streams which will do
+further processing at their end.
+
+The data involved capital markets data like Securities’, Bonds, Funds, Repos etc.
+
+Role and Responsibilities: Handling all user support requests from across the regions (APAC, UK &
+USA).
+
+Automating frequent process with shell scripting and Autosys scheduler.
+
+Handling major UAT's independently & representing client from offshore office.
+
+Responsible for all Production Release across regions.
+
+Generate reports required by Japanese and US Federal Gov.
+
+Developed and modified Packages, Functions, Synonyms, tables and indexes to implement business
+requirements and rules.
+
+Bulk loading of data done using utilities like BCP and Sybase Central.
+
+Code tuning or Query Optimization done using Explain Plans, Hints.
+
+Analyzing and monitoring system performances using DBCC Trace on commands, query plan outputs, system.
+
+Handling various enhancements to the system, this entailed writing new codes and changing some
+existing codes.
+
+Wrote new complex stored procedures in Sybase and optimized the existing code written in Sybase.
+Debugging the scripts and jobs in Production environment written in Shell and PERL.
+
+Handling and creating various Autosys jobs in Production environment.
+
+Providing daily status reports to the clients.
+
+Provided production support and 24/7 support for resolving the critical production issues.
+
+Involved in the solving the tickets that are raised by the end users.
+
+Responsible for creating PLSQL Programs and UNIX Scripts for Data Validation and Data Conversion.
+Project Title: Basel 2 Risk Platform, UK based bank.
+
+Royal Bank Of Scotland - Data Warehouse Developer
+City, STATE + 01/2006 - 11/2008
+
+Location: Bangalore Description: FMIT is a dedicated IT division within RBS and we provide a fully
+managed service for Finance IT Business As Usual (BAU) team.
+
+Designed the tables, indexes, triggers, stored procedures, functions and packages to implement
+the requirement.
+
+Unix scripts is used to ftp the files from vendor sites update the data files before loading the data
+using ETL/Informatica to process data from various vendors.
+
+informatica Mappings are used in loading the target databases which is usually on different schema
+and the data is transformed in the process before loading to target.
+
+Analysis of Source data, Oracle Source Objects and identifying the methods for loading data to
+target.
+
+Created and used External Tables for migrating flat file data into target.
+
+Responsible for the creation of Packages, Functions and Procedures.
+
+Performed Testing of the Packages, Procedures and Functions.
+
+Wrote scripts for creating tables, Indexes, Grants and Synonyms in different schemas and made
+modifications for the existing tables as per business logic.
+
+Preparation of test scripts for System and Integration Testing, and Traceability Matrix for the
+assurance of complete coverage of system requirements.
+
+Develop bug fixes and enhancements.
+
+Production support of some of the applications of the bank which includes resolving issues of the
+overnight batch processes and daily users’ queries.
+
+PROFESSIONAL AFFILIATIONS
+
+SKILLS
+------
+
+Bonds, capital markets, CSS, client, clients, Data Conversion, Data Validation, Databases, Debugging,
+ETL, Finance, forms, ftp, Funds, Grants, HTML, HTML5, PHP, indexing, Informatica, investments,
+Japanese, Javascript, Java Scripting, logic, meetings, office, Windows NT, works, MS-DOS, ODBC,
+Operating Systems, Optimization, Oracle, db, Developer, PLSQL, PL/SQL, PERL, processes, profit and
+loss, reporting, requirement, Retail, Scheduling, Securities, Shell, Scripts, Shell scripts, shell
+scripting, SQL, Strategic, Sybase, Tables, user support, Toad, UNIX, Unix scripts, utilities, validation,
+web applications, windows server, Workflow, written
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.
