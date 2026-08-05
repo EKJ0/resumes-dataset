@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Automobile
+Folder: Automobile  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_46.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Lauryn Leuschke | 2170 Forrest Turnpike, Boston, MA @ Phone: +1 (555) 196 5711
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 315 words, 47 lines (~0.6 pages)
+
+CANDIDATE 2  (source file: Image_57.txt)
+----------------------------------------------------------------------
+Name: Carl Stewart
+Ethnicity: Not stated in source (not inferred)
+Age: ~63 (estimated from earliest date/grad year 1985, not stated)
+Nationality: USA DRIVING LICENSE Full
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 283 words, 35 lines (~0.6 pages)
+
+CANDIDATE 3  (source file: 50d8024aa7f8617f.txt)
+----------------------------------------------------------------------
+Name: Doris Robbs
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. established
+Resume Length: 193 words, 25 lines (~0.4 pages)
+
+CANDIDATE 4  (source file: 2ec04634b0b5c5ae.txt)
+----------------------------------------------------------------------
+Name: Marcus Hall
+Ethnicity: Not stated in source (not inferred)
+Age: ~26 (estimated from earliest date/grad year 2022, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 394 words, 40 lines (~0.8 pages)
+
+CANDIDATE 5  (source file: f7922fadb70b34cc.txt)
+----------------------------------------------------------------------
+Name: Roscoe Becker
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Educational Institution XYZ | Associate Degree in Automotive Technology | 11/2021
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 385 words, 37 lines (~0.8 pages)
+
+CANDIDATE 6  (source file: e3e56253eac5783a.txt)
+----------------------------------------------------------------------
+Name: Doug Heath
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: @ Automotive Technology Community College | 2017 - 2021
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 187 words, 35 lines (~0.4 pages)
+
+CANDIDATE 7  (source file: e6f8d27eac1dc430.txt)
+----------------------------------------------------------------------
+Name: Automotive Mechanics Certification
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 181 words, 25 lines (~0.4 pages)
+
+CANDIDATE 8  (source file: Image_13.txt)
+----------------------------------------------------------------------
+Name: Edmund Watson
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Examined vehicles to determine the extent of damage or malfunctions. | Followed checklists to verify that all important parts were examined. | Fixed or put in new belts, hoses, and steering systems.
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 263 words, 37 lines (~0.5 pages)
+
+CANDIDATE 9  (source file: Image_53.txt)
+----------------------------------------------------------------------
+Name: Marshwille Road Alabama
+Ethnicity: Not stated in source (not inferred)
+Age: ~54 (estimated from earliest date/grad year 1994, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High School Diploma in General Education - 1994( Sylmar High - Sylmar, CA)
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 275 words, 30 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: Image_64.txt)
+----------------------------------------------------------------------
+Name: Oscar Clemens
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. led, lead
+Resume Length: 354 words, 36 lines (~0.7 pages)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University
