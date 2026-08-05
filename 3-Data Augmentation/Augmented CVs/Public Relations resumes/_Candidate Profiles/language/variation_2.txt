@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Public Relations resumes
+Folder: Public Relations resumes  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 62d77fe7049b8890.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~49 (estimated from earliest date/grad year 1999, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. established
+Resume Length: 393 words, 23 lines (~0.8 pages)
+
+CANDIDATE 2  (source file: 2fdef72cd8379f66.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Liberal Arts in Liberal Arts Sociology - 2012(University of Texas at Brownsville - Brownsville, TX)
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. headed, established
+Resume Length: 308 words, 43 lines (~0.6 pages)
+
+CANDIDATE 3  (source file: Image_29.txt)
+----------------------------------------------------------------------
+Name: Emily Prosser
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. supervised, lead, managed
+Resume Length: 343 words, 38 lines (~0.7 pages)
+
+CANDIDATE 4  (source file: 67ef50127196ce0a.txt)
+----------------------------------------------------------------------
+Name: Sophie Arquette
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Fashion photography
+Education: 2016 Bachelor of Arts, Public Relations, USC Annenberg School for Communication and Journalism, LA | GPA: 3.9 Relevant coursework: | - Effective Writing for Strategic Public Relations | - Social, Legal, and Ethical Foundations of Public Relations
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed, oversaw
+Resume Length: 301 words, 52 lines (~0.6 pages)
+
+CANDIDATE 5  (source file: deb7dfe0d26a2577.txt)
+----------------------------------------------------------------------
+Name: Personal Info
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. supervised, lead, managed
+Resume Length: 373 words, 65 lines (~0.7 pages)
+
+CANDIDATE 6  (source file: 25f5e2d3d3445b0a.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: - - - - ee ee | 2259 Oak Street, Old Forge, New York, 13420 ‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 283 words, 34 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: Image_45.txt)
+----------------------------------------------------------------------
+Name: Work Exterience
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 275 words, 29 lines (~0.6 pages)
+
+CANDIDATE 8  (source file: ddee46fd777e54b5.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~47 (estimated from earliest date/grad year 2001, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2001
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. oversaw, coordinated, mentored
+Resume Length: 272 words, 39 lines (~0.5 pages)
+
+CANDIDATE 9  (source file: 7d024cdd49ae8861.txt)
+----------------------------------------------------------------------
+Name: Payton Webster
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: High (10 instances) — e.g. led, managed, leading, mentored
+Resume Length: 414 words, 63 lines (~0.8 pages)
+
+CANDIDATE 10  (source file: aaa2b9bed063c25c.txt)
+----------------------------------------------------------------------
+Name: Kristofer Wiza
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. managed, oversaw, mentored, drove, established
+Resume Length: 324 words, 41 lines (~0.6 pages)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).
