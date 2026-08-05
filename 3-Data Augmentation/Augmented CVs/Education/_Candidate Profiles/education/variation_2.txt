@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Education
+Folder: Education  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 125.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Educational Specialist: Special Education & Building Level Administration, 12/2016
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. managed, coordinated
+Resume Length: 565 words, 67 lines (~1.1 pages)
+
+CANDIDATE 2  (source file: 7fa7375514cdd33e.txt)
+----------------------------------------------------------------------
+Name: Robbin Simmes
+Ethnicity: Not stated in source (not inferred)
+Age: ~30 (estimated from earliest date/grad year 2018, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: in.simme: mailcom - 4
+Education: Master of Science in Physics Education at New Mexico State University, Las Cruces, NM
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. leading, mentored, led, supervised
+Resume Length: 405 words, 60 lines (~0.8 pages)
+
+CANDIDATE 3  (source file: 69.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~42 (estimated from earliest date/grad year 2006, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. supervised
+Resume Length: 631 words, 60 lines (~1.3 pages)
+
+CANDIDATE 4  (source file: 102.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: American Physical Therapy Association- Member Ohio Physical Therapy Association- Member
+Education: Franklin University
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. managed, lead, oversaw, supervised, drove
+Resume Length: 931 words, 93 lines (~1.9 pages)
+
+CANDIDATE 5  (source file: 140.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~60 (estimated from earliest date/grad year 1988, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- University of Connecticut | Storrs, CT + 1988
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 745 words, 77 lines (~1.5 pages)
+
+CANDIDATE 6  (source file: Image_86.txt)
+----------------------------------------------------------------------
+Name: Rachel Schull
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. supervised
+Resume Length: 284 words, 40 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: Image_25.txt)
+----------------------------------------------------------------------
+Name: Chad Davies
+Ethnicity: Not stated in source (not inferred)
+Age: ~59 (estimated from earliest date/grad year 1989, not stated)
+Nationality: American
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Reading, walking, cooking
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 366 words, 51 lines (~0.7 pages)
+
+CANDIDATE 8  (source file: bd6d86937320ebb7.txt)
+----------------------------------------------------------------------
+Name: High School Math Teacher
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2010 - 2014
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 247 words, 38 lines (~0.5 pages)
+
+CANDIDATE 9  (source file: Image_16.txt)
+----------------------------------------------------------------------
+Name: Bethany Graves
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor’ s Degree in Education, Saint Anselm College, Manchester, NH
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed
+Resume Length: 256 words, 32 lines (~0.5 pages)
+
+CANDIDATE 10  (source file: 127.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~50 (estimated from earliest date/grad year 1998, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: National University | La Jolla, CA + 10/2022
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, supervised
+Resume Length: 666 words, 70 lines (~1.3 pages)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan
