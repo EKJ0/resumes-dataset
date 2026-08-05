@@ -1,0 +1,214 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Knowledgeable SAP Consultant with experience taking ownership of SAP solutions and related software and services.
+
+- Over 6 years of experience in software industry as an SAP ABAP consultant In SAP ECC EHP7 / EHP 8 support / implementation / upgrade projects.
+
+- Extensively worked in ABAP developing REPORTS, BDC’S, Smartforms, SAP Scripts, ALV’S.
+
+- Extensive experience on Smart forms, ADK (Data Archiving Kit).
+
+- Worked on BADI
+
+- Having Knowledge on BAPI, USER-EXIT, IDOC’s.
+
+- Successfully involved in implementations and supports projects.
+
+- Exposure to the Sales and Distribution & Material Management & FI/CO, HR.
+
+- Expert at understanding the SAP ECC system & Experience in ABAP/4 Programming techniques.
+
+- Good analytical and communication skills and ability to work independently with minimal supervision and also perform as part of a team.
+- Outstanding organizational skills including ability to multitask prioritize and manage increasingly complex issues.
+
+- Clear understanding of the technical concepts, supported by excellent analytical thinking and relevant experience. Motivated to learn, grow and excel in the IT industry.
+
+- Proficient in complete SDLC (Software Development Life Cycle), STLC (Software Testing Life Cycle) using both Waterfall and Agile methodology.
+
+- Strong work ethic, taking ownership of duties and responsibilities.*
+
+- Experienced in creating Business Requirement Document, Functional Requirements Specifications Documentation, and Scope Documents.
+- Exclusive analytical, problem solving, Leadership Proficiency, interpersonal communication skills and quick learning abilities.
+
+- Exceptional ability to quickly acquaint with new concepts and technology.
+
+SKILLS
+------
+
+- ERP: ECC 6.0 EHP6 / EHP7 / EHP8, SAP S/4 HANA, SAP NW © Databases PL/SQL, SQL Server 2000/2005, Oracle 9g/10g/11
+
+Gateway © Operating Systems: WINDOWS 2000/8/10, UNIX
+- SAP Modules : SD.MM_AFS,FICO,QM.PM,.PP e Other Tools: MS Office, MS Word, MS Excel, MS PowerPoint,
+- Languages: ABAP/4, C, C++, Java 1.5/1.6/7/8, HTML, -NET, Java MS Visio, Rational Rose
+
+Script, XML, VC++, PL/SQL. © Defect Tracking Tools: HP Quality Center, JIRA
+
+- GUI: SAP GUI, VC++, WD ABAP. Fiori
+
+WORK EXPERIENCE
+---------------
+
+SAP ABAP Developer, 08/2015 - Current Accenture - Louisville, TN
+Adaptiv ERP LLC is one of the prominent Houston-based SAP software implementor in the area of human resources & manufacturing industry.
+Adaptiv ERP was contracted by a couple of oil and gas clients based in Houston for supporting existing and new SAP custom software
+solutions. The project was chartered to standardize processes & retire legacy applications and enhance functionalities available in latest ERP
+application.
+Customer: CITGO Corporation, Inc Project Description:
+Worked on a Support Project at CITGO, which is a leading oil & gas exploration & production company, based in Houston, Texas
+Roles & Responsibilities:
+- Worked as an Onsite ABAP Developer in areas of SD, MM & FICO, responsible for supporting, developing RICEFW objects and ABAP programs for background processing.
+
+Perform prototyping, design, development, testing, debugging and documentation of ABAP based software applications.
+
+Perform program performance optimization and tuning where necessary.
+
+- Continuous improvement and optimization of support activities. Established compatibility with third party software products by developing program for modification and integration.
+
+Coordinated with systems partners to gather business requirements,
+
+finalize designs and perform technical analysis.
+
+Analyzed technical feasibility of solutions for new functional
+
+requirements, performed gap analysis and suggested options for performance improvement of technical objects.
+
+Analyzed architectural changes required for new business
+
+requirements, performed gap analysis and reported back to the functional team.
+
+Provided deliverable estimates, prioritized meeting with functional leads.
+
+Participated in code and document reviews and maintained review logs.
+
+Created SAP OSS Messages and Support Tickets, as well as Application of OSS Notes.
+
+- Verified and validated system operation, including writing and
+
+executing test procedures and test scripts, correcting defects and providing technical support.
+
+Organized weekly status meeting to discuss Technical incidents, development status, challenges and progression details.
+
+Implemented company policies, technical procedures and standards for preserving the integrity and security of data, reports and access.
+
+Performed and documented impact analyses and development estimates for change requests.
+
+Participated in team activities and team planning in regards to improving team skills, awareness and quality of work.
+Customer: Anadarko Petroleum Corporation Project Description:
+
+Worked on a Support Project at Anadarko, which was a leading oil & gas exploration & production company, based in The Woodlands, Texas
+
+Responsible for business requirement gathering of the current business facilities by interacting with the key business users and converting
+it into technical design specifications.
+
+Developed Webdynpro applications for supplier services portal an internet-based solution for selecting materials and also service suppliers
+
+to collaborate on high-value business processes and transactions.
+
+Developing highly used customized Webdynpro screens in the supplier portal, for the creation of invoice, goods receipt on the purchase
+orders generated from sap.
+
+- Experience in development of customized powl screens in webdynpro to display the list of purchase orders, invoices and goods receipt independently.
+
+Developing the logic to send the data and navigate from one webdynpro screen to another and also to populate the drop down values in the
+
+screens with the appropriate values.
+
+Developing the Webdynpro application for dynamic property change of screen elements for display and hide.
+
+Skilled on preparing the technical documentation including Webdynpro use case diagrams, webdynpro screen flow diagrams, webdynpro
+technical design specification,.
+
+Designing and development of RICEFW objects, formulating unit test plans for RICEFW objects and deployment of solutions.
+Used BAPI function call, BAPI_salesorder_createfromdata for creating sales order in sap system from the external system.
+Worked with BAPI_po_getdetail to get the details of delivered quantity of each items in the po and also worked with bapi_po_change to
+
+change the po.
+
+Business Analyst, 08/2014 - 07/2015 Vista Equity Partners - Virtual, VA
+Credexo provides strategic consulting using Cloud First, Mobile First methodology. Their customer profile includes organizations who are
+strategically adopting the elasticity of the cloud to gain competitive advantage over their peers while maintaining control over their business
+data.
+Customer: RICOH Project Description:
+Ricoh produces electronic products, primarily cameras and office equipment such as printers, photocopiers, fax machines, offers Software as a
+Service (SaaS) document management solutions and also offers Projectors. The project was to act as a liaison between Client and Customer and
+gather requirements, create required documents and provide the Client with updates.
+Responsibilities:
+
+- Gathered business requirements and understood the goal
+
+- Used Mockup screens to convey the look and feel of GUI screens for the end users to developers.
+
+- Worked closely with Project Manager and created project plan, project risk document.
+
+Prepared the Functional Design Document with Use cases and Activity diagram covering all the business needs.
+
+Used Unified Modeling Language (UML) to prepare Use Cases diagrams, process flow diagrams, sequence diagrams from the gathered
+requirements and created diagrams using MS Visio
+
+Assist with the Project Manager to define project milestones, schedules, monitoring progress and updating plans using MS Project.
+
+Created the Requirement Traceability matrix.
+Identified Gaps in the system and Performed Gap analysis for new requirements, as well as prioritized them based on actual business needs
+
+so as to align them with the product release roadmap.
+
+- Documentation of system and business requirements and specifications, design and development of use and test-case scenarios using Visio.
+
+Created Proof of Concept (POC), Mapping Documents, Meeting Minutes Document
+
+Established Requirements Traceability Matrix (RTM) using Rational Requisite Pro to trace the completeness of requirements
+
+Used various SQL commands like Create, Delete, Update, and Inner, Outer, Left, and Right Joins to update the database and retrieve data
+for data analysis and validation
+
+Coordinated and Handed Offshore team. Updated project progress
+
+Customer: ACE Hardware
+
+Project Description:
+
+Ace Hardware Corporation is a hardware retailers' cooperative based in Oak Brook, Illinois, United States. It is the world’s largest hardware
+retail cooperative, and the largest non-grocery American retail cooperative. The project was to gather requirements from the client and prepare
+the required documents and updates to the client.
+
+Responsibilities:
+
+Developed Business Requirement Document (BRD) that supported overall strategy, goals and objectives.
+
+Documented and delivered Functional Specification Document (FSD) to the project team.
+
+Involved in gathering and documenting the requirements that were critical to the business process and using those requirements to design
+application software using a Use Case approach.
+
+Created Vision and Scope Document
+
+Provided status update reports on requirement gathering process
+
+Developed Design Document
+- Created screen mockups
+
+Collaborated with team to provide the functional and domain related inputs for creation of Test scenarios and Test cases
+
+Created process flows, diagrams and functional flows with Visio
+
+- Attended all weekly meetings
+
+Created Test Plans, wrote Test Cases and Test Scripts using HP Quality Center.
+- Communicate and Collaborate with the team in India
+
+Worked with the development team to get the updates on the progress and communicate it to the client.
+
+EDUCATION
+---------
+
+Bachelor of Science: Computer Science, 07/2011 Osmania University - Hyderabad, INDIA
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

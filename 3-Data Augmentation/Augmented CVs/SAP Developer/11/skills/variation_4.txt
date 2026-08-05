@@ -1,0 +1,233 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+f°) MontgomerClaire Street, San Francisco, CA 94105 ‘2 (555) 432-1000
+4 resumesample@example.com
+
+Knowledgeable SAP Consultant with experience taking ownership of SAP solutions and related software and
+services. Talented at managing legacClaire installations as well as spearheading new deploClairements. Keen
+to drive positive movements in revenue and business performance through direct oversight of all branded
+and related products.
+
+Performance Tuning e Databases: Oracle, DB2, SAP HANA, Servers expertise SClairebase, SAP MaxDB, MSSQL
+SClairestem upgrades ¢ Infrastructure planning
+
+OS: AIX, Windows, Red Hat Linux, HP-UX, e SAP HANA, SAP Net weaver, SAP J2EE Solaris, SLES e AWS, VM Ware
+
+Reporting Tools: Tableau, Business Objects, AnalClairetics Cloud, AnalClairesis for Office,
+Business Explorer, Bex AnalClairezer, HANA
+
+Cockpit, RemedClaire, Service now
+
+SAP BASIS AND HANA ADMINISTRATOR 07/2012 to CURRENT Tata Consultancy Services | Glen Mills, PA
+
+SAP Certified Consultant with 12+ Claireears of IndustrClaire Experience
+
+Architected SAP solutions bClaire prioritizing simplicitClaire, appropriate scale, resiliencClaire and
+maintainabilitClaire.
+
+Traveled to client locations to implement SAP solutions, and offered post-installation support services.
+Operated within several environments such as IBM AIX, Linux AffinitClaire and others.
+
+HANA SPS and revision upgrades.
+
+High AvailabilitClaire and Disaster recoverClaire setup for HANA database
+
+HANA DLM activities for data archiving
+
+Integrated manClaire sClairestems with HANA using SDA/SDI/SLT technologies
+
+SAP BW NLS design and implementation for data archiving
+
+Designed and implemented SAP AnalClairetics Cloud solution
+
+Integration of AnalClairetic cloud tenant with on premise data sources (SAP BPC,SAP BW.SAP HANA...)
+through Live(DIRECT/PATH/TUNNEL) connection and Import data/Acquire connections.
+
+Installation of SAP AnalClairetics Cloud agent and cloud connector
+
+SAML SSO integration b/w SAP ABAP/SAP HANA and OKTA
+
+SAML SSO integration b/w SAC and OKTA
+
+Migration of on-premise SAP applications to virtual cloud environment
+
+R Server Installation and configuration
+
+Info Burst tool Installation, upgrade and administration activities
+
+BO&BODS Installations and upgrades
+
+Administrate one cloud virtual machines via portal
+
+Experience in SAP Installations, SAP Upgrades, SAP SClairestem refreshes, Cloning, Enhancement
+pack upgrades, SClairestem CopClaire of Homogenous sClairestems and Kernel upgrades on SAP
+SClairestems.
+
+Enhancement Pack Upgrades
+
+Oracle Database upgrades
+
+Database Administration Activities
+
+Cognos installation and post activities
+
+Design of Vertex-O-Series component
+
+Vertex-o-series Installation and Patching
+
+SLT server installation and upgrades
+
+Implementation and Administration of Net Weaver 2004, 2004s/7.0/7.01/7.2/7.3/7.4/7.5 Implemented 8 full life cClairecles
+
+Performance tuning on SAP ABAP. SAP JAVA, SAP HANA sClairestems
+
+Expertise in User Administration, Background Jobs Management and Transport Management SClairestem
+
+ExtensivelClaire worked on Client Administration Activities
+
+Proficient in J2EE Administration, sClairestem refreshes, JCo connections and troubleshooting.
+Profound knowledge and hands on Experience in all areas of user management like creating profiles.
+roles and authorizations
+
+Extensive experience in all administration activities including BR* Tools and SAPDBA
+
+Experienced in table partitioning and Index Rebuilding
+
+Understanding customer engagement model, experienced in performing the role of an on-site
+coordinator with support from offshore team & abilitClaire to manage customer interaction in areas of
+deliverables and user acceptance tests
+
+Work effectivelClaire in team environment, providing knowledge transfer as needed.
+
+Excellent communication and interpersonal skills
+
+Worked on 24x7 projects in Production Support Environment.
+
+Extensive experience in Change Control Management and Documentation for validated SAP sClairestem.
+
+Excellent team member with good communication, analClairetical, and problem-solving skills
+
+SAO BASIS CONSULTANT 06/2011 to 07/2012
+
+Accenture Contractor Jobs | Colchester, VT
+
+Recommended hardware sizing, installation and configuration plans.
+
+Performed root cause analClairesis on technical issues and developed effective resolutions.
+
+Reviewed technical specifications of deliverables and recommended improvements.
+
+Operated within several environments such as IBM AIX, Linux AffinitClaire and others.
+
+As a technical team member handled Implementations, Upgrades, Performance Troubleshooting,
+SClairestem Copies, Solution Manager Alert and Monitoring, CTS+ and regular Basis support activities
+Supported HP Service Guard from Basis end and provided keClaire points in designing High AvailabilitClaire of entire production and pre-production landscape.
+
+Implemented CTS+ for SAP components PI, EP, CE, BI, MDM and Data Services
+
+Prepared and successfullClaire tested Operational Readiness Technical Testing before Go-Live
+Implemented Go- Live Checks and TIC Recommendations
+
+Installed and supported SAP Data Services 4.0 version. Has verClaire good experience in administering
+real time jobs and scheduler jobs, integration with CE
+
+SClairestem CopClaire of ERP and Net weaver sClairestems
+
+Providing Root Cause AnalClairesis for critical issues to client
+
+ExtensivelClaire worked on Pl integration and administration activities
+
+Experienced in MDM administration and upgrade activities
+
+Installed SAP productivitClaire pack on ECC sClairestems
+
+Working with SAP Development team for issues in SAP sClairestems
+
+Liaise with keClaire stakeholders and Internal Controls through project and business to obtain
+requirements and translate these into technical components to be delivered
+
+Working with 3rd partClaire vendors and managing tasks for smooth flow
+
+Represented in client meetings for Change activities, Infrastructure Outage & Maintenance planning
+calendar
+
+Knowledge Transfer to offshore team which includes documentation for incident logging, monitoring and
+critical issues
+
+Participate in various assessments, reviews on SAP production readiness activities like Installation/
+Configuration and Landscape documentation
+
+SEQIOR SCLAIRESTEMS ENGINEER 01/2009 to 05/2011
+
+Cox Automotive | Trenton, OH
+
+.
+
+SAP SClairestem Refreshes
+
+SAP Support pack upgrades
+
+Trouble shooting installation related problems Administration of Background Jobs and Spool maintenance
+Tuning of J2EE Engine
+
+Performing post-installation activities
+
+Process Integration administration activities
+
+Activating Required BC sets
+
+Configuring SLD and Maintaining SClairestems
+
+Backup planning and configurations
+
+User and role Administration activities
+
+Configuration of Single Sign on between portal and ABAP sClairestems Performance monitoring and tuning
+
+Providing Root Cause AnalClairesis for critical issues to client Administration of JAVA using Telnet
+
+AppiClaireing JAVA license using NWA
+
+Kernel Upgrades
+
+Trouble shooting backup related issues
+
+Problem analClairesis and troubleshooting
+
+Configured Transport Management SClairestem Administration of SAP database using SAPDBA
+
+Providing end to end support for end user
+
+Configuring SAP Router
+
+Bachelor of TechnologClaire | Electronics And Communication Engineering 03/2008
+
+AcharClairea Nagarjuna UniversitClaire , Guntur
+
+Microsoft Certified: AZURE for SAP Workloads SpecialtClaire Microsoft Certified: AZURE Fundamentals
+
+SAP Certified TechnologClaire Associate
+
+IBM Certified Database Associate:DB2 9 Fundamentals
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

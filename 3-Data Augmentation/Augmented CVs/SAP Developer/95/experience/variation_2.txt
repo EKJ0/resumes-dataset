@@ -1,0 +1,129 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE Senior Manager - Finance Systems (SAP)
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+Seasoned Financial Management professional with proven expertise in accounting processes, systems oversight and compliance reporting.
+Knowledgeable about AP/AR. contract administration, budgeting and all other aspects of successful financial operations. Talented team
+builder and supervisor with expertise to develop and maintain consistent, accurate and legal accounting structures. Branch Manager with
+exceptional drive and dedication to accomplishing business objectives and exceeding customer expectations. [Number]+ year history of
+success in [Industry]. Innovative [Job Title] brings track record of success in delighting customers with top-notch applications for diverse
+needs. Analytical, intellectually curious and always seeking out ways to improve code and designs. Expert in multiple programming
+languages, applications and development frameworks.
+
+SKILLS
+------
+- SAP Finance and Controlling Configuration © Communication/Interpersonal
+- Project Management ¢ Mentoring and training
+- Peoples management and managing big teams .
+
+WORK EXPERIENCE
+---------------
+
+07/2016 to Current Senior Finance Systems Manager, SAP Qlik - Miami, FL
+
+SME/architect on SAP and business process
+
+- Reported to IT and Finance leadership in different positions
+
+- Implemented, led and managed complex systems transformations from Oracle, JDE, MXP into SAP systems and rationalized dozens of Finance applications
+
+- Streamlined and built a robust Sustainment model by empowering collaboration between business and IT
+
+- Accelerated Month End Close by 2 days
+
+- Hired and supervised Senior SAP Finance Analyst & Associate Manager - Finance Master Data Governance, unleashed their potential through multiple cross-training programs
+
+- Leading Finance Digital Transformation through Robotic Process Automation (RPA)
+
+- Provided insights to leadership and set Finance Systems roadmap until 2026
+
+- Handling Director responsibilities for more than a year and reports to VP-Finance
+
+11/2012 to 06/2016 IS Manager -RTR Informatica - Delaware, OH
+
+- Led the design, development and delivery of Finance transformation (Record to Report) through multiple projects! sustainment
+
+- Managed internal resources and 10+ team of external resources
+
+- Responsibilities included from submission of Appropriation Request to Vendor evaluation to Final delivery
+
+- Implemented a thorough template governance through SOLMAN and Revtrac tools
+
+- Implemented many process improvement initiatives like Park and Post workflow through GLSU tool, BS reconciliation with BL, Calendar switch from 4-4-5 to Gregorian, Intercompany reconciliation and workflow through BPM, Capital spend through IM, EBS, Vertex returns module, DART for IRS submissions, detailed margin analysis through COPA assessments and top down distribution models, etc
+
+- Received multiple awards including values in action for leadership
+
+11/2011 to 10/2012 Senior Principal Consultant NTT Data - City, STATE
+- Successful implementation of SAP ECC 6 Global template for North America and subsequent roll out to other geographic regions for Orion Engineered Carbons
+- Managed Finance team and took additional responsibility as Integration Lead on the project
+- The implementation included New GL, AR, AP, Fixed Assets, Banking, Tax, IM, Product Costing, COPA and integration with procurement, production, inventory management and customer service
+
+06/2008 to 11/2011 Senior Application Consultant SAP America, Inc - City, STATE
+
+- Advisory consultant (New GL) in End to End SAP ECC6 implementation for Walmart Stores Global Finance Transformation Project
+
+- Advisory consultant and lead (COPA) in End to End SAP ECC6 implementation for Loblaws Inc, Canada
+
+- Advised and guided Customers and strategic integrators - Deloitte and Accenture on nuances on the SAP product offerings and their application to business processes
+
+- Continuous evaluation of the solution with reference to business requirements and improvement of SAP product
+
+08/2004 to 06/2008 Senior Consultant Intelligroup Inc - City, STATE
+- Implemented Two End to End SAP projects and Six process improvement projects
+- Shell (Josloc) Riyadh: SAP ECC 5 all modules - End to End
+- Hershey, PA: Prod. Costing distribution, Freight Accounting and Pick up Allowance
+- Hubbell, CT: Re-engineering of BOMs and Recipes, Prod Costing Reports
+- Ajinomotto, IL: Process re-engineering, new plants, Shipment Costs to COPA and top down distribution of costs
+- NFCL India: SAP 4.7 all modules including upgrade - End to End
+- Invensys, IN: Payroll integration with Finance
+- NFCL, IN: Finance Reporting package
+- STM Electronics, IN: Payroll integration with Finance
+
+09/2003 to 07/2004 Advanced Consultant IBM - City, STATE
+- Controlling Consultant in Ericsson Global Implementation, Stockholm, Sweden
+- Played a key role in completing the configuration, development and testing of Controlling functions Cost Center planning and allocations, Product Cost Planning, Cost object controlling. distribution of variances to COPA and integration with MM and PP
+
+06/1996 to 08/2003 Multiple Positions SC Railway - City, STATE
+
+- Worked in multiple managerial and inspectorial positions involving systems implementations
+
+- Core user and Business process manager in PRS (passenger reservation system) and SPTS (self printing ticketing system) implementations
+
+- Business Process Manager for Rake Management Systems implementation
+
+- Contractors and Suppliers payments implementation
+
+- Worked in finance, administration, traffic accounts, budgeting, costing and internal audit areas in supervisory/ management positions
+
+EDUCATION AND TRAINING
+
+Bachelor of Commerce: Advanced Accountancy & Costing S.V.University - Tirupati, India
+
+MBA: Finance
+
+Dr.B.R.A.O.University - Hyderabad, India
+
+LANGUAGES English: Telugu:
+Negotiated: Negotiated:
+Hindi:
+Negotiated:
+
+Activities AND Honors
+
+- Leadership award at Ortho
+- Two Encore Platinum awards and One Endore Gold award
+- Values in Action award in Mondelez International and 3 MVP awards
+
+- Multiple awards/recognitions from previous employers
+
+CERTIFICATIONS
+--------------
+
+- SAP Finance and Controlling
+- SAP Solution Manager

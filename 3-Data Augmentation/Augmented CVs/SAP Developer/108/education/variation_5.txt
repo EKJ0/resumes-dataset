@@ -1,0 +1,177 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+CAREER OVERVIEW
+
+Highly skilled SAP Security Consultant seeking a career within an organization to apply my skills and continue my technical and professional
+growth.
+
+Around 6 years' experience in SAP Security and Authorization.
+
+Extensive knowledge in SAP security concepts and User/Role administration across ECC, BW, BI, HR, CRM, SRM and Solution Manager
+Systems.
+
+Experience in working for Go-Live, Post Go-Live, Implementation, Enhancement and Production support projects.
+
+Experience in Requirement gathering, Design, Build and Test roles for a SAP Roll out project.
+
+Familiar and hands on experience in SAP GRC tools like compliance calibrator, fire fighter and customized version of access enforcer.
+Highly skilled to support security authorization problems in line with segregation of duties (SOD) adhering to service level agreements.
+Strong experience on Central User Administration (CUA).
+
+Knowledge on SAP GRC 10.0
+
+Worked in Canada and single point of contact (SPOC) for entire North American region on Security relates issues.
+
+Close coordination with client to understand and develop solutions to meet customer business needs. Dedicated team player.
+
+Mentor Team member on SAP Security.
+
+TECHNICAL SKILLS
+----------------
+
+SAP Security 6 2015
+
+ACCOMPLISHMENTS
+
+Acted as a first and single point of contact for all major technical issues.
+Actively mentored , trained and supervised new team members for better understanding of systems.
+Prepared and improved the content of training material for SAP Security for organization worked.
+
+WORK EXPERIENCE
+---------------
+
+Senior Associate Consultant - SAP Security, 04/2010 - 03/2015 Accenture Contractor Jobs - Colchester, VT
+
+Perform SAP Security monitoring and support.
+
+Supports SAP application users by resolving security related issues in a timely and effective manner.
+
+Resolved huge number of incident tickets as per established process, in adherence with Segregation of Duties(SOD)requirements.
+Extensive experience with SAP authorizations in SAP ECC, BW, HR, CRM, SRM systems.
+
+Participated in SAP Security analysis, design and Implementation efforts.
+
+Troubleshoot and resolved security issues escalated from customer and other users with 100% success rate.
+
+Basic User and Role Maintenance activities implementing SOD tools.
+
+Works closely with SAP technical and functional teams to ensure success of SAP solution.
+
+Maintained transports between development and target systems.
+
+Position Based Security - Setting up users and positions with appropriate roles and authorizations.
+
+Provide support for HR model - Analyzed and provision Structural authorization for HR users.
+
+Provide support for BW models - Analyzed and provisioned analysis authorization for reporting users.
+
+Portal Security - User creation, assigning portal roles and groups to users.
+
+Experienced in SAP GRC Components including Compliance Calibrator, Access Enforcer, Role Expert and Fire Fighter.
+Working knowledge in Single Sign on concept(SSO)
+
+Central User administration (CUA) - User administration and role assignment to position.
+
+Setting up OSS user id's for consultants and providing OSS connections.
+
+Create and assign Firefighter access.
+
+Compliance Calibrator (CC Check) - Performs Segregation of Duties (SOD) analysis and manages the mitigation process.
+Access Provisioning to users using User Access Provisioning tool.
+
+Close coordination with client and subject matter experts (SME) in providing timely support for the issues raised by them.
+Handling High Priority incidents and providing an immediate fix.
+
+Provided high touch and weekend support for two major business units Go-Live.
+
+Extensive User and Role maintenance experience.
+
+BW and HR access provisioning via rule sets.
+
+Assist colleagues in troubleshooting when problem arises.
+
+Ticketing tool - HP Open View, Service Now.
+
+Worked from Canada - Single Point of Contact (SPOC) for North American region (Rio Tinto) for all security related issues.
+
+Infosys Limited - Rio Tinto Solution Delivery - SAP Security
+
+Involved in SAP Security analysis, design and implementation efforts.
+
+Development, testing, and implement SAP Security roles, profiles and authorizations across SAP system landscape using Profile Generator.
+Held Role Design meetings with Business and functional teams to gather requirements.
+
+Implement SAP Security Policies and procedures for customers.
+
+Design, Develop and Implementation of BI Security Roles using RSECADMIN.
+
+Interact with Functional and Technical teams to define and gather requirement for security design.
+
+Experienced in adhering to the Change Management Process for transporting roles, security objects and maintaining the change documents.
+Clean up activity of all invalid users in active directory.
+
+Update roles for major/muinor releases with appropriate access based on requirement.
+
+Experience with SOX compliance analysis.
+
+SAP security Consultant, 2008 - 04/2010 Igate Patni - City, STATE
+
+Requirement gathering, Design, Development and Maintenance of SAP applications Security.
+
+Create Users and assign Roles within SAP.
+
+Create and modify roles as per the Performa raised by Business Process architect.
+
+Implement SAP Security policies and procedures for customers.
+
+Responsible for Development.
+
+Testing and Administration of roles in SAP R/3 and BW3.5.
+
+Transport Management - Transport of newly created roles after successful testing.
+
+Provided technical support for role Implementation and Redesign of Roles.
+
+Provide Production support including ongoing support and maintenance of roles.
+
+Close coordination with other functional teams related to role based transactions authorization verification.
+
+Perform SOD conflicts and propose options and solution to implement mitigating controls and eliminate risks.
+
+Coordination with customer basis lead for the business critical requests, approvals.
+
+Performed Role defect updates in development.
+
+Performing Role Comparison between Development and production Systems and stabilizing them.
+
+Maintenance activity for roles during cut over of Systems.
+
+User administration using Central user administration (CUA).
+
+Generation of month end reports from SAP system.
+
+GeSeaco SOD Rollout Summary: This project included redesigning of composite roles based on transactions which are executed by the
+user.
+
+Responsibilities: Preparation of Business Blueprints for Security Requirement Gathering Role Design, Build and Testing Redesign of
+Composite role Provide defect resolution Patni Internal Systems Maintenance and provided support for all internal SAP systems.
+
+EDUCATION AND TRAINING
+
+Bachelor of Science: Electronics & Communication, 2007
+
+R.M_National American University - Chennai
+
+SKILLS
+------
+
+SAP ECC, BI/BW, HR, CRM, SRM Security.
+CUA and SOLMAN systems
+
+SAP GRC
+
+Portal and OSS.
+
+Ticketing tools - OVSD and Service Now Virsa Tools - Firefighter, compliance calibrator

@@ -1,0 +1,49 @@
+Sap Business Objects Developer Letra lal ites Mnbill bt
+
+Email: Info@qwikresurne.com
+
+ROBERT SMITH semen
+
+linke din.com/qwikresume
+Address; 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+Over 7+ Years of experience in decision support systerns using Business Intelligence tools SAP
+BOB) 4.0/3.1 / XI R3 / X!1 R2. Experience in gathering requirements from the business users and
+prioritizing those requirements, which have the highest business impact in terms of analysis and
+decision-making. Worked with Business users to analyze the business process and made necessary changes to the schema objects.
+
+SKILLS
+------
+
+Project Management, Business Objects 5.1, 6.5, BOX! R2, BOX! R3, Oracle 10g, SQL Server, DB2,
+Cognos 10, Qik.
+
+WORK EXPERIENCE
+---------------
+
+Sap Business Objects Developer
+Macys - july 2014 - 2020
+- Worked on several development projects that includes critical Universes and reports for various user populations.
+- Interacted with Business Users and owners to know their day to day Business views reflecting thern in the Universes and Reports. » Created the Universes for different user populations such as BARS, Business Resource Center, ClaimFacts and Consolidated Group Renewal System. » Created canned and ad-hoc reports meeting user requirements over the top of Universes and freehand sql queries. » Made modifications to existing Universes as part of the support.
+- Created, maintained and modified the business reports using the Business Objects Reporting Module.
+- Created users, Groups, Folders and assigned privileges for various access levels i.e Viewers, Power Users and Desk! Users,
+
+Sap Business Objects Developer
+Delta Corporation - 2012 - 2014 » Kaiser CSBIO Project provides Business Intelligence solutions to Kaiser for all ROC and
+California Regions.
+- We develop solutions for BI reporting using SAP Business Objects.
+- Involved in requirement gathering Samp; status meetings with client,
+- Developed Business Objects (XI R2) Universes in Sql Server 2005/CA Service Desk environment Wrote SQL Queries to create SQL Views to provide .
+- Involved inthe below activities 1) Creating a security model and proposing to the client.
+- Validating three layered security architecture(Location, object, application level) 3) Editing Universe for applying class level filter , managed.
+- This is Dummy Description data, Replace with job description relevant to your current role,
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

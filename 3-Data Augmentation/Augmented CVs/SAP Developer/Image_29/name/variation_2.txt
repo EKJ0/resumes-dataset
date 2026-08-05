@@ -1,0 +1,63 @@
+Greg Baker
+
+Robert Smith Phone (123) 456 78 99
+
+Email: info@qwikresume, corm
+
+Website > www. qwikresume,com
+
+Sap Business Objects Developer | iliAcadin: inkacktecorneelioesurre:
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+-------
+
+Around 8 of Experience working with Business Objects 4.1, 4.0, Web Intelligence Rich Client, Info
+View, Security Design, Performance Manager, Dashboard Manager, Lifecycle Manager, Central
+Management Console, Crystal Reports/X/10-8, Crystal Xcelsius 4.5 - 2008, Query as a Web
+Service, Import Wizard, Central Configuration Manager, Live Office, Oracle SQL Server Experience
+of Installing (Clustered environment), Configuring and upgrading Business Objects XIR3,
+
+SKILLS
+------
+
+Excel, Excellent communication and consulting skills Ability to work independently.
+
+WORK EXPERIENCE
+---------------
+
+Sap Business Objects Developer |
+ABC Corporation - May 2013 - January 2015
+
+- Worked in Installation of BI 4.0 successfully, also involved in unpacking the software files, setting up the environment files and CMS repository Database.
+
+- Involved in business requirernent analysis for reporting and analytics requirernents for data quality and legacy systems migration,
+
+- Designed, developed and implemented solutions with data warehouse, ETL, data analysis, and Bi reporting technologies.
+
+- Developed Analytical Reports with multiple pararneter fields, multiple expressions and multiple grouping for hierarchy levels and published them using the Business Objects Enterprise Developed Universes using Designer for different business groups applying business intelligence for quality data,
+
+- Worked on Import and Export of the Universes on the BI server, with the changes in Database Objects by using Import wizard and Designer module,
+
+- Checked the Universes for Integrity and exported to the Repository to rnake resources available to the users and groups.
+
+- Created Ad-hoc Reports by accessing the Universe.
+
+Sap Business Objects Developer
+Delta Corporation - 2010- 2013
+
+- Responsibilities Interacted with business users to analyze the business process and requirements and transforming requirernents into prototypes.
+
+- Worked with ETL team to translate business requirements into ETL processes while developing the data mart.
+
+- Participated In Data Mapping workshops and follaw-up meetings with the client business and IT tears Coordinate with business on specifying rules required to cleanse, standardize existing legacy Master data to meet universal standards using industry proven unique Cleansing Methodology.
+
+- Involved in Designing, Developing and Maintaining Universe by defining joins, and cardinalities between tables.
+
+- Applied contexts or created aliases to address cyclic dependencies issue,
+
+- Created complex Webl and full cllent reports (used multiple data providers, Sub Queries, Master/Detail, cross tab, Charts) which includes special field, user variables and cornplex calculations using report level contexts (in context &amp; Out Context) Leveraged the use of indexed and primary key columns in the where clause of the report to improve the performance of the query.
+
+- This is Dummy Description data, Replace with job description relevant to your current role,
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines

@@ -1,0 +1,249 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+Having 9 years of experience as a SAP Basis Administrator with exposure to SAP Security as well. *Good skills as Basis Consultant in SAP
+Netweaver, SAP Solution Components & MYSAP Business suite with the goal of providing high system reliability, performance and
+optimization. *Strong client facing skills with effective communication and coordinating skills with Client and team members. *Hands-on exp
+in both System Administration & Maintenance tasks. *Done System Installations, Configuration, Upgrades using SUM tool, System Refreshes
+using System copy, Database backup/restore methods and DSM tool by EPIUSE labs. *Done BI system migration from Oracle to HANA using
+DMO. * Worked on Client administration tasks like Client copy (Local, Remote & Import/Export), new Client creation, and Client deletion and
+maintaining client settings. *Experienced in System Monitoring & Health Checks, Kernel Upgrade, Spool Administration, Applying Patches
+(SPAM). Add-ons (SAINT), SAP Notes (SNOTE), SSO Configuration, Language Installs, JAVA SPLIT from dual-stack environment (using
+SWPM), SAP Host Agent Install & Upgrade, Job scheduling, Parameter changes, Operation mode settings, SSH key exchange, etc.
+- Configured Federation between BI portal and Enterprise Portal. *Good skills in Portal environment and experienced in Administration of j2ee engine with Configtool & NWA. *Performed System Refreshes for ABAP and JAVA stacks for ECC,BI ,GRC, GTS, SABRIX, E-Sourcing systems. *Experience in Upgrading the Support Pack Stack (using SUM) for both ABAP & Java environments. *Good Experience with SOLMAN, performed tasks like Managed System Configuration, SMD Install and experienced with LMDB, SLD, Maintenance Optimizer, EWA , SAP ChaRM. etc. *Experienced in handling transports, setting up Transport Management system and imports through STMS & OS level, local transports and changes in domain controller. *Good experience on Oracle and db2 database. *Performed activities like Oracle patching (o-patch & mo-patch), Oracle Client Upgrade & tasks like Table Re-orgs, Tablespace maintenance using BRTOOLS, temp file movement on Oracle db, etc *Strong working experience on OS platforms- IBM AIX & HP-UX. *Performed Security Administration tasks like Creating users, Mass user creation (SU10, LSMW), Role Creation & Assignment, Role transports & deletion and resolving issues based on authorizations. *Have knowledge of MDM (Master data Management). *Proven accomplishments in roles with hands-on technical and configuration skills. *Ability to work in a time-constrained and team-oriented environment.
+
+Skill set:
+
+SKILLS
+------
+- Guest services © Loss prevention
+- Inventory control procedures © Cash register operations
+- Merchandising expertise © Product promotions
+
+WORK EXPERIENCE
+---------------
+
+Senior SAP Basis Consultant, 01/1 - 01/1
+
+Albany International Corporation - - NH
+
+6C, ECC6.0 .NW 2004s, NW 7.31, EHP2 & higher, EP 6.0 SAP SOLMAN 7.1, GRC10 Operating Systems IBM AIX (5.1, 5.3, 5.6), HP-
+UX 11.31, SUSE LINUX Enterprise Server 11.3 Database Oracle 9.2, 10.2, 11g, IBM DB2 V8.0 &V9.0, HANA SPS08,09 Merck & Co.,
+Inc is an American pharmaceutical company and is one of the largest pharmaceutical companies in the world.
+
+Merck headquarters is currently located in Whitehouse Station, New Jersey, though in 2013 the company announced it would be relocating
+to Kenilworth, New Jersey by 2015.
+
+- The company was established in 1891 as the United States subsidiary of the German company now known as Merck KGaA.
+
+Merck & Co.
+
+- was confiscated by the US government during World War I and subsequently established as an independent American company.
+
+It is currently one of the world’s seven largest pharmaceutical companies by market capitalization and revenue.
+- Responsibilities:.
+
+Done System Refreshes using EPISUSE, GRC10 Installations, SABRIX NW7.3 install, etc.
+
+Done Green light RTADS integration with GRC & E-Sourcing systems.
+
+Performed SPS Upgrades using SUM tool.
+
+Done BI system Migration from Oracle to HANA using DMO.
+
+Done JAVA Split from dual stack environments.
+
+Done Language Install (importing multiple languages in a single go).
+Performed System Build activities, SMD Agent install, Host Agent install & Upgrade, Managed System Configuration for SOLMAN
+
+system.
+
+- Other activities include applying SAP Notes, importing transports, resolving daily issues etc.
+
+Performed Portal activities like SSO configuration, administration tasks, etc.
+
+Environment: HP-UX 11.31, Oracle11.2.0.3.0, SAP ECC6.0, GRC10, SAP SCM7.02.SAP Netweaver 7.31, BI/BW, PI/XI, SAP SRM 7.02,
+SAP SOLMAN 7.1, SAP EP 7.31, SAP HANA SLT 7.02, HANA Studio- 1.0.6, SUSE LINUX Enterprise Server (SLES) 11.3.
+
+SAP Basis/Security Consultant, 01/1 - 01/1 Cognizant Technology Solutions - Oakland, CA
+- DuPont is a leader in chemical industry and is a diamond client for SAP in Accenture.
+- SAP has done a number of pilot projects with them before launching their key products in market.
+- DuPont has a separate business unit DPC (DuPont Performance Coating) expanding to Europe and Asia regions and is presently in Design Build Phase.
+- DuPont is now to migrating to Netweaver Platform.
+
+Responsibilities:.
+
+Performed business activities like System Refreshes ABAP & JAVA, Dialog Installations, and SAP Host Agent Installations.
+Client Copies & new client creation (Remote, local & Import/Export Method).
+
+- Maintenance of SAP System parameters, db & OS level parameters on analysis.
+
+Applied support packs (SPAM), add-ons/plug-ins (SAINT).
+
+Applied SAP Notes manually as well as using SNOTE transaction.
+
+- Administration of J2EE Engine using Configtool, Visual Administrator, NWA.
+
+- Applying java patches through JSPM, Updating JVM and done kernel patching for both ABAP & JAVA stack.
+
+- Configured Federation (FPN) btw BI Portal & EP.
+
+- Configured CCMS Alert Monitoring set up in SOLMAN and resolving issues based on incidents and alerts on daily basis.
+
+- Maintained profiles parameters (RZ10), Operation mode settings, SSH key exchange, activating trace, done live cache monitoring. Have done Mail configuration in SAP system & SAPCONNECT administration in SCOT.
+
+- Perform transports which include TR Creation, TR Import (STMS) or mass import in cut-over activities from OS level, TMS set up, &
+
+making changes in domain controller.
+
+Job scheduling, variant creation and other monitoring activities as a part of daily activities.
+
+- Configured Single-Sign On (SSO) between systems.
+
+Performed database refreshes using Backup & Restore Method.
+
+Have knowledge of database performance tuning.
+
+Carried out database administrator tasks like DB2 Native log file Management Switch from SAP Log file Management, Resolving Table-
+space and Log space issues , Setting Reorgs . Online Table Move . Performing ORT at SAP level etc.
+
+Creating daily Monitoring Report for Production systems, OS level monitoring and taking actions on daily basis.
+- Analyzing the EWA report and provide corrective measures based on the recommendations in the report for errors.
+- Environment: IBM AIX, DB2, SAP NW04s BW (7.0), SAP APO/SCM 2007, ECC 6.0, SAP SRM 6.0 , CRM 2007.
+
+SAP Basis Administrator, 06/2011 - 05/2012 Applied Medical Distribution Corporation - Thousand Oaks, CA
+- Sysco is the global leader in selling, marketing and distributing food products to restaurants, healthcare and educational facilities, lodging establishments and other customers who prepare meals away from home.
+
+Its family of products also includes equipment and supplies for the foodservice and hospitality industries Responsibilities:.
+
+- System Maintenance activities on Daily, Quarterly and Business requests basis.
+- Daily activities: Daily Monitoring of the production systems, SAP alert monitoring and On-call Support (CAT 1/2/3).
+- Quarterly activities: System Parameters changes, Support pack apply, Applying add-ons and Kernel Upgrade.
+
+Recommend changes for the production system as well as take corrective actions to avoid possible system bottlenecks and performance
+
+issues.
+
+Database performance tuning , DB2 Native log file Management Switch from SAP Log file Management, Resolving Table-space and Log
+space issues , Setting Reorgs , Online Table Move , Performing ORT at SAP level etc.
+
+Business requests: System Refreshes.
+
+- Environment: AIX5.3, 5.6, I]BM DB2 V8.0 & V9.0, SAP R3 4.6, SAP APO3.1.
+
+VODAFONE-EVO, Noida (India.
+
+SAP Basis Consultant, 03/2010 - 05/2011
+- EVO stands for Evolutionary Vodafone Project and is a part of Vodafone.Project EVO is a 3 year business transformation program to implement a single integrated operating model, consolidating the ERP packages from a total of 20 Operating Companies (OpCos) and key business functions of the Vodafone Group into a single instance global enterprise solution.
+- This single enterprise system will be based on SAP, other non SAP package solutions and will be integrated with OpCo legacy systems. SAP will replace totally or partially the ERP solutions run by the OpCos.
+
+- Responsibilities:.
+- System Maintenance activities on Daily basis which includes daily Report creation of the production systems and analyzing issues and taking actions, SAP alert monitoring and resolution.
+
+Learnt the HP-Open View Monitoring (pro-active monitoring) concept to counter Major and critical issues in production just before the
+occurrence and gave KT to the entire team to get familiar with the tool, served as a team lead for the HP-OV & Monitoring team.
+
+- Performed activities like JVM upgrade, FPN Configuration and applied patches to JAVA Stack using JSPM.
+
+Done System Refreshes (both ABAP and Java stack).
+
+Done Oracle Patching (o-patch &mo-patch), Kernel Patching, applying support packs (SPAM), Applying Add-ons (SAINT) etc on
+business requests.
+
+Done Dialog Installation and was involved in System Build for NW 7.0 (ABAP).
+
+Done SAP System Parameters changes, database parameter changes.
+
+Done Application Server Redesign as part of cut-over activities.
+
+Done activities like SSH Key exchange, Activate Trace, Creation and maintenance of Background jobs which included Variant Creation,
+Setting Operation Modes, CCMS agent, RFC administration, and related issues, etc.
+
+Carried out tasks for Oracle DBA like performed database refresh using Backup & Restore method.
+
+Worked on BRTOOLS which includes adding data files, maintaining Tablespace Autoextend, resolving issues related to table space
+
+extension, tempfiles movement, performing Re-orgs, etc.
+
+Done transports which include Creation of transports, importing transports (both SAP and OS level) in Development, Quality and
+Production systems.
+
+- Analyzed the Early watch reports and based on the recommendations took necessary actions, thus enhancing the performance.
+
+- Gained knowledge in MDM thru intemal training sessions.
+
+Environment: HP-UX11.23, Oracle 10g (10.2.0.5), SAP NW04s BI, SAP APO/SCM 5.0, my SAP ERP 2005, SAP NW04s Enterprise
+Portal.
+
+SAP Security Administrator, 06/2008 - 02/2010 Albany International Corporation - City, India
+- BHP Billiton is The World's Largest Diversified Natural Resources Company.
+- BHP businesses, including aluminum, energy coal and metallurgical coal, copper, manganese, iron ore, uranium, nickel, silver and titanium minerals, and have substantial interests in oil, gas, liquefied natural gas and diamonds.
+- Currently we are supporting the Security areas in SAP.
+
+Responsibilities:.
+
+- Worked as a security administrator in BHP-Security.
+
+- Experience in User Creation, Mass User Creation, User Access Change, Role Creation and Role Modification (both single and composite roles), Transport Requests, OSS ID Creation in SAP Service Market Place, Developer Key access.
+
+Have worked on the concepts of Role, child role, authorization objects, User compare etc.
+
+Have knowledge in transporting Roles using CTS between boxes in the transport path.
+- In addition to this, was also a part of Service Management which included the reporting (Client, weekly, daily).
+- Environment: SAP R3 4.6C, ECC 6.0, BI7.0, CRM 5.0, DB2 v8, IBM AIX.
+
+SAP Basis Administrator, 04/2008 - 05/2008 BHP-Billiton - City, India
+- APP Pharmaceuticals is a leading manufacturer of multi-source and branded inject able pharmaceutical products for acute medical care both in patient and ambulatory settings.
+
+Its’ broad portfolio of products covering a wide array of therapeutic categories, APP’s products provide ongoing affordable healthcare
+helping millions of people in the United States and Canada fight critical illnesses Responsibilities:.
+Provide 24.
+
+7 support for all development, testing, training and production environment.
+
+Done System Refreshes, Client Copies & Client creation, etc.
+
+Applying patches (SPAM) & Add-ons (SAINT).
+
+Kernel patching for ABAP and Java Stack along with JAVA Stack upgrade using JSPM and manual upgrade.
+Performed System Build and carried out DI installations separately as well for already installed systems.
+Applied SAP Notes from SNOTE tcode.
+
+Spool administration tasks from SPAD, SPO1 and resolving issues related to spool.
+
+- Performing transports, imports thru STMS and mass import thru OS level during cut-over activities.
+
+- J2ee administration using Visual admin, Configtool & NWA.
+
+Performed refreshes for JAVA STACK of Portal systems and activities like JVM update.
+
+Perform daily maintenance activities like Monitoring, Report creation, EWA report analysis and resolving daily issues.
+- Environment: SAP R/3 4.6C, Oracle 9.2, ATX 5.3, Solution Manager 7.0.
+
+EDUCATION AND TRAINING
+
+Bachelor of Technology: Electronics & Communication Engg From Mody Institute of Technology & Science, Lakshmangarh. (Deemed University
+
+Electronics & Communication Engg
+
+Certification Certification Status Year Certified ITIL-v3 Foundation: 2009
+
+ACTIVITIES AND HONORS
+
+SKILLS
+------
+
+ABAP. IBM AIX, IBM AIX, AIX5.3, ATX 5.3, Backup, BI, C, concept, controller, CRM 5.0, CRM, Client, database administrator, Database,
+Dialog, ERP, file Management, German, government, HP, Open View, HP-UX, IBM, DB2 v, DB2, ITIL, J2EE, Java, team lead, LINUX, Notes,
+marketing, Market, prepare meals, Access, exchange, Mail, Migration, my SAP. natural gas, Natural Resources, Enterprise, ons, oil, Operating
+Systems, OS, Oracle 9.2, Oracle, Oracle DBA, db, Developer, OSS, Quality, reporting, selling, SAP, SAP R/3 4.6, SAP APO. SAP APO3.1,
+SAP R3 4.6, scheduling, SSH, SPS, Switch, System Configuration, Upgrades, Upgrade
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

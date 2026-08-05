@@ -1,0 +1,73 @@
+Robert Smith Phone (123) 456 78 99
+
+Email: info@qwikresume, corm
+
+Website > www. qwikresume,com
+
+Sap Abap Develop e Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+-------
+
+an experienced SAP technical Consultant with 9 years of software development as SAP ABAP /CRM
+Technical Consultant. During this period, involved in multiple phases of SAP lifecycle process such
+as Implementation, Support, upgrade and enhancernent projects. Good Experience on SAP ABAP -
+Data dictionary objects, Classical Reports, ALV Reports, Forms (Scripts and Smart forms), User
+exists, BADI 'S, BAPI'S , CAMS, Function modules , Pricing Routines , Data Migration Techniques -
+LSMW (Legacy systerns migration workbench) & BDC (Batch Data Cormmunication),Module pool programming, RFC'S ,Enhancement framework, IDOC'S and Object Oriented ABAP.
+
+SKILLS
+------
+
+SAP ABAP, SAP Workflow, SAP WebDynpro, SAP ALE/EDL.
+
+WORK EXPERIENCE
+---------------
+
+Sap Abap Developer
+ABC Corporation - April 2011 - Decernber 2013
+
+- Worked on enhancernerits and developments, by getting requirernents directly from the business users, and designing the Technical specifications,
+
+- Worked on reports, BAPIs, ALE, IDOCs, Interfaces, Conversions, BDC, LSMW, SAP Script/SAP Smart forms and User exits Coordinated with basis team regarding OSS, Support Packs and Transport management,
+
+- Expertised in Performance techniques STOS, STL2, SE30 and SAT.
+
+- Created clear technical docurnents with all the logic and methodologies used,
+
+- Knowledged transfer to the client&rsquo;s IT tearm.
+
+- Optimized the code using Perforrnance Analysis tools,
+
+- Responsible for creating and maintaining sap security roles and users ina sox environment using saps.
+
+Sap Abap Developer
+Delta Corporation - 2006 - 2011
+
+» Client Description SPP Pumps and systems are installed in all continents providing valuable
+high integrity services for diverse industries, such as oil and gas production, water and waste
+water treatment, power generation, construction, mines and for large Industrial plants.
+
+- Itis no wonder that since SPP Fire was formed in 1875, it has built a reputation for quality and. value that has made it unquestionably the leading supplier of Approved Fire Protection Purnping Packages throughout the World.
+
+- Roles and Responsibilities Analyzing the Functional Inputs and developrnent of Technical specification docurnents for the developments assigned.
+
+- Object developrnent and review of the development requests assigned,
+
+- Interacting with functional tearn to resolve the issues in the given objects.
+
+- Designed the Unit test cases and done testing for other objects developed by the tearn,
+
+- Resolving the tickets and Defects,
+
+EDUCATION
+---------
+MS In IT Management - August 2013(University Of Texas At Dallas - Dallas, TX)
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

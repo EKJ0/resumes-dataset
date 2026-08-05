@@ -1,0 +1,216 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+CAREER OVERVIEW
+
+Five (5) years of IT experience with Four (4) years of work experience in major aspects of SAP BW/BI implementation.
+
+Two full life cycle projects (ASAP methodology) implementations in BW with proven results in meeting reporting requirements, analysis, as
+well as design, construction and delivery of end user reports.
+
+Good knowledge of BI 7.0 configuration requirements, processes, and tools.
+
+End-to-End BW Development: Data Extraction, Transformation, Staging and Reporting using BEx and Web Application Designer.
+
+Extensively worked in Data Extraction from Multiple SAP and Non SAP (Legacy) Systems using Business Content, LO, CO-PA, FI-GL, Flat
+File, and Generic Extraction Methods for legacy data.
+
+Strong hands on Extraction (LO-Cockpit, FI/CO, SD, and MM) of Master data and transactional data.
+
+Experience in FIGL, Accounts Receivable and Accounts Payable, Cost Center Accounting, Internal Orders, Profitability Analysis.
+
+SAP BW technical expertise in Data modeling of DSOs, InfoCubes, MultiProviders and Infosets.
+
+Experience in the creation InfoPackages, Datasource, DTPs, Transformation and Process Chains.
+
+Extensive experience in design and development of reports/queries with BEx Analyzer, Query Designer, Web Application Designer.
+
+Extensive knowledge of BEx Analyzer, and BEx Query Designer for developing reports, analysis and Web reporting using BEx Web Publisher
+and BEx Web Application designer.
+
+Solid knowledge of System Administration, Security, Data Loading (Full ‘Delta Up-Load), Scheduling, and Monitoring.
+
+Experience in Performance Tuning (Query and Data Loading): Aggregates, Compression, Roll-Up, Re-modeling, Indices, and Statistics.
+
+Hands on experience in Maintenance, installation and Enhancement of Business Content objects and worked extensively with process chain for
+automation of process and better performance.
+
+Leadership, critical thinking, and excellent verbal skills.
+
+Strong problem-solving, analytical abilities and aptitude to rapidly pick-up new technologies, ideas and propositions.
+
+QUALIFICATIONS
+
+SAP R/3 (ECC), BW: Strong background in Enterprise Data Warehouse.
+
+Reporting Tool : SAP Business Explorer.
+
+Environments: SAP NetWeaver 7.0, ECC5.0, 6.0, BEx Analyzer and Web Application Designer.
+
+Microsoft Tools: PowerPoint, Project Management, Excel and Word.
+
+WORK EXPERIENCE
+---------------
+SAP BI Consultant, 2013 - Current
+
+AMTRAK - City, STATE
+
+WORK EXPERIENCE
+---------------
+
+Client : AMTRAK, Houston-TX January, 2013- Present
+
+Role : SAP BI Consultant.
+
+Capacity: BI implementation and Reporting.
+
+Provided recommendations for overall system design and involved in dialog with Project team regarding new requirements and related issues.
+
+Interfaced with Business Community to obtain reporting requirements that were converted to functional and technical specifications.
+
+Enhanced the extract structures by adding new fields and populating them with the user/function exits in CMOD.
+
+Involved in the Modeling, building and customizing InfoObject, DSO, InfoCubes, InfoSets and Multiproviders as per the functional
+specifications.
+
+Created Process Chains to schedule the data loads into data targets, infocubes and Rollups.
+
+Performed and setup multiple extractors in LO cockpit.
+
+Executed load balancing and data packet sizing for Performance Enhancements.
+
+Created various reports on the Material master data material, mat_plant and mat_sales.
+
+Created both technical and functional designs for BEx queries.
+
+Trained IT team on details of the ETL process and OLAP in BI 7.0. Also covered data modeling (Star schema concepts), strategic reporting and
+analytic, performance tuning etc.
+
+Client : Mallory Alexander International Logistics, ND. June 2012 - October 2012
+
+Role : SAP BW Developer Consultant.
+
+Capacity: SAP BW 7.0
+
+Created custom queries using variables and structures. Worked on RRI Jump queries and worked on Web Reporting and Broadcasting.
+
+Involved in a fresh BW implementation. Using ASAP methodology, actively involved in requirement gathering and gap analysis to translate
+findings into BW.
+
+Created and configured InfoObject, DatastoreObjects, InfoCubes, Multiproviders and InfoSets based on Client Business requirements.
+
+Created Datasources, InfoPackages, Transformations and DTPs to extract data from multiple sources such as FlatFiles and using DB and UD
+connect to extract data from relational databases and multidimensional database respectively.
+
+Worked with system administration teams to define specifications for frequency and mode of data transfers and setup batch jobs.
+
+Activated Business content Objects and Datasources in R/3 for FIGL, Accounts Receivable and Accounts Payable, and Profitability Analysis.
+
+Created aggregates, compression and roll up manual and process activation.
+
+Worked on performance tuning to improve data loading and query performances.
+
+Worked on the remodeling of InfoCubes.
+
+Perform cost-benefit and return on investment (ROI) analysis for proposed changes to aid management in making implementation decisions
+
+Verified adherence and performance to standard plans and procedures.
+
+Generated queries for reports using BEx query designer, to do drill-down analysis and formatted these reports with web application designer
+(WAD) for publishing over web.
+
+Configured use of restricted key figures, structures, variables and calculated key figures in BEX reporting queries.
+
+Setup flat file extraction for legacy data, assigned data sources to the info source, defining transfer structure, and meta data maintenance for the
+
+info source and source system.
+
+Client : Logic Gate, Nebraska. May, 2011 - April 2012
+
+Role : SAP BW Developer.
+
+Capacity: SAP BW 7.0 Implementation and Data Warehousing.
+
+Assisted in the documentation of all design build activities.
+
+Analyzed business requirements, performed GAP analysis with respect to the data models needs and available business content.
+
+Conducted Testing (Unit, Functional, Integration, Regression and User Acceptance).
+
+Activated standard Business Content DataSources FI-AP, FI-AR, FI-GL and logistics datasources for SD, PP and MM.
+
+Activated infocubes and other data targets for these datasources FI-AP, FI-AR, FI-GL and logistics datasources for SD, PP and MM.
+
+Installation of Business Content in Sales & Distribution, Material Management and Finance functional areas. Developed generic transactional
+and master data datasources to fill gaps.
+
+Created process chain to schedule the data loads into infocubes and aggregates.
+
+Developed web templates for use with queries and deployment in Portal.
+
+Developed queries, variables, structures, restricted key figures, calculated key figures, conditions and exceptions.
+
+Client : Apple Energy Corp. December 2009 - August 2010 Role : SAP BW Developer/Consultant
+
+Capacity : SAP BW 7.0 Implementation and Data Warehousing.
+
+Involved in complete life cycle implementation of SAP BW using ASAP methodology as a team member, converting Functional Specifications
+into Technical Specifications and then to realization.
+
+Analyzed the requirements and identified the suitable business content and had the standard infocubes, DSO’s, Multiproviders and various other
+relevant objects installed and activated.
+
+Used full features of BI 7.0 (DTP, Transformations, and DSO).
+
+Developed BW Queries, Testing and transporting through landscape.
+
+Involved in testing extractors, data loads and reports before transporting into production.
+
+Enhanced extract structures by adding new fields and populating them with the user/function exits in CMOD.
+
+Created the process chains to automate the data loads for transaction, master, text, hierarchies, currency exchange rate tables.
+
+Performed standard, application specific and generic extractions such as LO Cockpit, LIS, and FI/GL extractions.
+
+Extensively worked with PSA in Monitoring the Data Transfer from Source Systems into BW.
+
+Extensive work on Design & Development of Custom Cubes, DSO/ODS Objects.
+
+Modeled Data targets according to the reporting requirements.
+
+Client : Perot Systems Corp, Nebraska. November, 2008 - September 2009
+
+Role : Junior SAP BW Developer.
+
+Capacity : SAP BW 7.0 Implementation and Data Warehousing.
+
+Involved in a fresh BW implementation.
+
+Created and configured InfoObject, DatastoreObjects, InfoCubes, Multiproviders and InfoSets based on Client Business requirements.
+
+Created Datasources, InfoPackages, Transformations and DTPs to extract data from multiple sources such as FlatFiles and using DB and UD
+connect to extract data from relational databases and multidimensional database respectively.
+
+Worked with system administration teams to define specifications for frequency and mode of data transfers and setup batch jobs.
+
+Activated Business content Objects and Datasources in R/3 for FIGL, Accounts Receivable and Accounts Payable, and Profitability Analysis.
+
+Created aggregates and compression.
+
+Worked on performance tuning to improve data loading and query performances.
+
+Maintained InfoCube operation by employing various techniques such as Optimizing dimension size, compression, aggregates, logical
+partitioning and line item dimensions.
+
+Worked on the remodeling of InfoCubes.
+
+Created both excel and web based reports for FIs.
+
+EDUCATION AND TRAINING
+
+Bachelor of Arts: Business Administration, 2013
+
+San Francisco State University - San Francisco, CA

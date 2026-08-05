@@ -1,0 +1,130 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+LANGUAGES
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor ‘2 (555) 432-1000 4 resumesample@example.com
+
+5 years of professional experience in SAP with 1 full life cycle implementations. Experience in Financial
+accounting with extensive knowledge in the implementation and configuration of SAP FICO modules with
+emphasis on business process analysis including blueprinting, gap analysis and creating AS-IS and TO-BE
+documentation. Functional expertise in SAP FICO ECC & S4 HANA including Organizational Structures,
+Organizational Units & Enterprise Structures General Ledger Accounting (GL), Accounts Payable (AP),
+Accounts Receivable (AR), Finance (Fl) integration with Sales and Distribution (SD) and Materials
+Management (MM) Production Planning (PP), Ariba, and Concur. Special emphasis on Data Migration
+specifications using, LSMW and LTMC for data uploads for various SAP Projects. Experience in treasury
+module such as EBS, Lockbox processing, Cash Management. Participated in multiple end-to-end
+implementations and roll-out projects using Agile and Activate methodologies, and in various support roles.
+Experience with Tax configuration in SAP and integration with Vertex. Client and Consulting facing experience
+with leading onshore and offshore teams.
+
+- Hands on experience in designing and « Understanding of “As Is “Business processes, implementing Fl (GL/AP/AR/AA), Banking Testing Blue-Print, Realization, Configuration, Final and validation workflow programs and variants Preparation-Unit Integration Testing, User with Automatic Payment Program (APP), CO Acceptance Testing. (CCA/IO/PA) and heavy integration with e Preparation of Test Scripts, Authorization design SD,MM,PP.BPC. for Roles with Security team & developing BPPs.
+
+- MS Word, Outlook, PowerPoint, Visio, Access. e End Users User Training and Post Go Live Excel, and Word. Support.
+
+- Excellent understanding of business analysis, e Integration with various modules and systems financial management and business operations. like ARIBA, Concur.
+
+- Experience with order to cash and source topay e Experience with the other SAP ECC 6.0/ design and processes. S4Hana.
+
+- Good understanding of integration points e Strong functional experience in Migration, up- between SAP and non-SAP Systems. gradation, Implementation, Customization,
+
+- 1 full life cycle implementations using ASAP Configuration, Integration, Testing, User Training methodology & Activate Methodology. and Support.
+
+SAP FICO CONSULTANT 06/2019 to CURRENT
+
+Infosys Ltd | Owings Mills, MD
+
+- Analyzed the existing legacy system, gathered functional requirements through user meetings, did gap analysis, participated in process improvement and produced FSD per need.
+
+- Configured General Ledger by creating master records, accounts groups, number ranges and G/L accounts for each company code, account and prepared master files Migrated master and transactional data using Migration Cockpit.
+
+- Customized screen layouts for document entry at account/document levels Defined fiscal year variant, posting period variant, customized field status variant, etc.
+
+- Configured and customized Asset Accounting from acquisition to retirement, (depreciation areas, assets classes, account determinations and scrapping of an asset).
+
+- Designed Lockbox for processing customer payments through check in cash application; Designed and configured Automatic Payment Program for various payment methods Prepared master data for AR and AP along with Open Item processing settings, Incoming Invoices/Credit Memos (terms of payment), Outgoing Payment, Incoming Payment, Dunning, Open item Clearing, Down-payment received, and Down-payment made.
+
+- Setup Cost Center Accounting including Enterprise organization, Master data, Cost Centers, Activity types Tested the solution on the QAS and migrated the solution for UAT Led the S4 HANA migration and did the readiness checks per need Trained End-Users and ensured documentation is done as per the company's standard.
+
+- Worked on period-end-closing, fiscal-yearend-closing, material ledger, actual costing, profitability analysis, profit center accounting, and reconciliation issues.
+
+SAO FICO CONSULTANT 03/2017 to 06/2019 Infosys Ltd | Parsippany Troy Hills, NJ
+
+- Provided business analysis and SAP SD configuration for the implementation of a new global Cloud services program that introduced customer PO tracking capability via Value Contract document types with focus in Usage based billing.
+
+- Developed functional specifications to detail SAP collection of daily usage data and translated it into monthly customer and internal billing processes via SAP ABAP programs.
+
+- Worked with SAP technical team in developing SAP reporting for PO tracking analysis and communication which included the update of customer invoice forms.
+
+- Managed unit and quality assurance testing of the newly developed business processes to ensure regional implementation.
+
+- Provided knowledge transfer and assistance to SAP production support team as required.
+
+- Enhanced Payment forms and worked on EDI with vendors communication.
+
+- Account Receivable: Built AR Business module, Configured and Customized Customer master data, Debtor management, Customer payments, Customer invoice processing, Order to cash process, Finance documents Global settings (Posting Keys, payment terms), Dunning.
+
+- Accounts Payable: Built AP Business module, Configured and Customized vendor master data, vendor account groups, defined sensitive fields for dual control, House banks, Invoice processing, Document parking, Outgoing payment, Reporting, Check printing, Voiding checks, matching invoice with purchase.
+
+- Configured Controlling Area Settings, Number ranges, and Maintained Versions.
+
+- Configured and Customized CO - General Controlling, Cost and Revenue Element Accounting, Overhead Cost Controlling, Cost Center Accounting: and Internal Orders.
+
+- Responsible for supporting and independently completing project tasks; Identified key drivers of defined, straightforward problem and proposed solutions. Identified and solved problems using analysis, experience, and decision making.
+
+- Worked closely with team members to deliver project requirements, develop solutions and meet deadlines.
+
+BUSINESS ANALYST 02/2015 to 03/2017 Alta Equipment Group Inc. | Jamestown, NY
+
+- Worked with a cross functional team to understand the business issues or identify opportunities and gathered system requirements.
+
+- Provided support to business users by answering SAP related questions and provided guidance and ad-hoc data as required in a timely manner.
+
+- Evaluated current system capabilities and identified system modifications or changes that need to be made to current business processes.
+
+- Translated business requirements into solutions that utilize standard SAP functionality where possible.
+
+- Worked with users to develop functional specifications for system enhancements or reporting requirements.
+
+- Conducted knowledge transfer and trained end-users, including sharing best practices.
+
+- Helped to develop and maintain system related documentation.
+
+- Evaluated current system capabilities and identified system modifications or changes that need to be made to current business processes.
+
+- Organized and tracked the progress of SAP implementations and application changes by applying project management techniques. Identified issues that will delay on-time solution delivery and assisted in resolving them.
+
+- Utilized standard and custom-built programs to convert legacy data files into SAP and generated reports to verify loaded information is accurate and complete.
+
+- Performed tests of new and updated functionality to verify desired results are achieved.
+
+- Evaluated results and coordinated changes to improve system performance, and created test plans as required.
+
+- Worked closely with business function areas to understand business processes, reviewed current systems, and defined data requirements.
+
+Bachelor of Science George Mason University, Fairfax, VA
+
+CeéQificate in Information Technology George Mason University, Fairfax, VA
+
+French: English:
+Negotiated: Negotiated:
+
+Certified Revenue Cycle Specialist (CRCS) Certified Scrum Master (CSM) CompTIA Security +CE
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

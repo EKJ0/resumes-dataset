@@ -1,0 +1,42 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+EDUCATION
+---------
+
+JOB EXPERIENCE
+
+Bachelor's Degree in
+Computer Science, 2012 Gibbs College, Norwalk, CT
+
+SAP Developer, 2016 - Present TBC Corporation
+- Developed functional specifications based on identified gaps in the system, Developed testing strategies and test cases to test the system, Maintained close contact with the business and business processes.
+- Maintained effective and cooperative working relationships with business owners, functional teams, project consultants, and vendors.
+
+INTERESTS
+---------
+
+SAP Developer, 2014 - 2016
+
+Sehike Consulting
+
+- Modified system screens to provide default values and eliminate unnecessary fields using transaction variants.
+
+- Analyzed and corrected SAP module problems by using ABAP Programming language to implement OSS Notes.
+
+- Assisted in defining technical requirements for on-going systems maintenance and future functionality.
+
+- Created specialized reports for SAP modules using ABAP programming language. *
+
+SAP Developer, 2012 - 2014
+
+Binary Tech Consulting Corp
+
+- Performed detailed analysis of complex business process requirements
+
+- Provided appropriate system solutions.
+
+@ Maintained an accurate understanding of the SAP system and enhancement points that were utilized within it.
+
+- Followed applicable AIG Standards, Procedures, Guidelines and Methodologies in the implementation and maintenance of fa finance applications. ¥
+
+- = Interfaced with business analysts to ensure the proper a integration of business processes and procedures.

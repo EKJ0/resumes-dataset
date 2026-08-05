@@ -1,0 +1,94 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 @ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Around 11 years of experience as a SAP ABAP Technical Consultant. Extensively worked in ABAP, ABAP CDS Views , AMDP , Odata,
+OOABAP. Reports & Workflow.
+
+Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight
+schedules while producing impeccable code.
+
+Have strong knowledge in Data science with Python.
+
+SKILLS
+------
+- ABAP on HANA Consultant, e CDS Views & SADL,
+- OO ABAP. RICEF e ABAP Consultant
+- Odata Gateway ABAP e HR ABAP
+- AMDP Procedures & Table Functions © Workflow Consultant
+- HANA SQL Script © Webdynpro ABAP
+
+WORK EXPERIENCE
+---------------
+
+SAP ABAP on HANA CONSULTANT, 11/2017 - Current Accenture Contractor Jobs - Houston, TX Client : Apple Inc
+Event Management Central :
+- This project is used to to create Event for which Forecasting, Shipment process will be done. Event can be created for Factory Direct and Apple Own Use process. Once Event creation is completed, Forecasting for materials in that Event will be done and then Shipment process will be completed.
+- Created Odata Service for Forecast and Factory Build process. Used CDS Views and AMDP Functions and Procedural calls for data manipulation.
+- Forecasting and Shipment data will be Encrypted and Stored in Table.
+- Apple uses AES 256 Bit Encryption logic. Material will be processed based on Purposes and Milestone.
+- FD Process will have Purpose, Forecast and Shipment.
+- AOU Process will have Forecast and TDM.
+- Used Pivot/Un pivot in HANA SQL (AMDP Procedure) for handling performance in dynamic loops.
+
+SAP ABAP Consultant, 10/2014 - 10/2017 Accenture Contractor Jobs - Florham Park, NJ Client. : KPMG, Bangalore.
+Role. : Webdynpro ABAP + Workflow consultant HR -E-Separation Implementation Project Business Process Implemented :
+E-Separation Request Creation / Withdraw ( Workflow Approval ).
+Due Clearances ( Multiple Department Approval with Workflow Approval ).
+Full and Final Settlement
+- Function Modules creation for Manger Level such as CEO, CASHIER, CHRO etc.
+- Created Webdynpro screen for E-Separation request creation screen. Once employee raises request, it will go Approval Process.
+- Created Workflow which involves approval process.
+- E-Separation Submission will trigger work item and it is configured in POWL inbox. For each level of approver, on click of work item ID will open Webdynpro screens for approval. Client: Attune consulting pvt ltd, bangalore. Role: ABAP consultant Worked in AFS Module. Created Reports, smart forms, Excel Output for Packing List.
+- XML way of Excel output for various packing list report (Colombia International Packing list, Sears Packing List.
+- Created exception report for BOM consumption based on sales order & material.
+- Suspended Tax invoice smart form output for each commercial invoice and Customer Invoice Heide smart form.
+- Architected SAP solutions by prioritizing simplicity, appropriate scale, resiliency and maintainability. Client: SAP GDC, Bangalore. Role: ABAP consultant
+- Background Report for linking sales order to intercompany order line item during T-3 ERO process. Will Validate only Sales Order for Document type ‘YBFD’ and do Pre validation and then if it belongs to T-3 Country then create Intercompany PO and Outbound Delivery against each Line Item of Purchase. Background Report for Creating Outbound Delivery against ERO sales Order for T1, T2 Country and Obsolete Sales Order. For above report BAPI are used to Create Intercompany PO and Update PO to Sales Order and PO to Sales Order. Once Outbound delivery is created IDOC will Trigger and Push data to PO system and it will further push it to DHL (3rd Party) system through web methods. Created custom Info type for Employee Reporting Structure with subtype 01, 02. Worked on custom Tables Table Maintenance report For Staging Tables using Object Oriented ALV Created Custom Report & Workflow which will pick the record from Staging Table with Process ‘R’ and send it for Approval Process .On Final Level of Approval it will Update the Process with status “U’. Project details: femsa implementation - Coca-Cola
+Client: sap gdc, bangalore. July 2014 - December 2014 Role: Webdynpro abap consultant
+- Enhanced Standard Component for External Candidate Profile, by adding New Steps Such as Detailed Personal. Webdynpro component: HRRCF_C_ROADMAP, ERC_C_REQ MGMT.
+- FEMSA History, Family Members. Once the External Candidate Edits his/her Profile and Saves, it will update Business Partner details and Custom Info types.
+
+- Enhance the Dashboard Requisition wherein , when the Recruiter clicks on the Candidate name which will open the Overview Screen with the
+- Candidate Information, where the newly added Steps should be configured. Enhanced the Component Configuration (ERC_A CAND OVERVIEW).
+- Done Powl Query in the Dashboard by adding new fields from 9002 Info type Such as Business unit, Sub Unit and Division by enhancing the methods CL_POWL_MODEL and Added the Field Catalogue in class CL_HRRCF_M REQUISITION POWL_UL Have added Concept of Former Employee and Overview button in the Candidate Select Screen by Enhancing the Methods.
+
+SAP Webdynpro ABAP Consultant, 07/2013 - 10/2014 HCL Technologies - City, STATE Project Details: HR Transformation
+Client: Lloyds Banking Group , UK. July 2013 - July 2014 Role: Webdynpro abap consultant , HCM Process & forms
+- Have knowledge and developed Forms in FPM, OO ABAP and Generic Services.
+- Working in HCM PROCESS and FORMS.
+- Involved in creating Employment Colleague Data Change Form Processing for Line Managers with Approval Stages.
+- Contractual change in form processing for Salary related change and allowances.
+- Good knowledge in Process and Forms, user events and standard generic services.
+- Enhanced FPM Feeder class to get link to action in Process and Forms. CL_HRASROOO_FPM_FEEDER.
+- Worked on popup in Webdynpro abap.
+- Involved in Implementation, go live & support of HR Transformation.
+
+SAP ABAP Consultant, 09/2010 - 06/2013 ITEANZ Technologies Private Limited - City, STATE Project details: HR Compensation management implementation + Enhancement
+Client: ABB, Bangalore.
+Role: HR ABAP + Webdynpro abap consultant
+- Development and modifications in implementing HCM Compensation System for Level5 Process.
+- Worked on UI elements: Tab strip , Table , View container Element , Time triggered.
+- Developed Org Unit Report and Download the report and upload it to 9051 customized report which maintains managers for the employee.
+- Created extemal application from Webdynpro abap page when clicked on a employee number and passed the values to another Webdynpro application.
+- Now the Level has increased to 5 levels of approvers and dynamic screens for L2, L3, L4, L5 and all the levels has edit operations and Communication manager screen is enhanced.
+- Created Time management Report for ESS and MSS with Detailed and summarized report.
+- Developed Insurance Management with beneficiary change in Webdynpro abap and Update in 168, 21,213 info type. Data Freezing: Maintain the data required for Compensation Review Process Pre-Compensation Process: Check the key information and previous year compensation data is correct and inform HR center for any correction Budget Process: Allocate the budget given for the respective division to their compensation Authority Levell managers: Will have option to allocate ACR, NON-ACR, SI and Others. Compensation Allocation Process:
+- Once the Budget is allocated to Level 1 Managers.
+- Managers to allocate the ACR or SI percentage of increase to his/her employees.
+- Once Levell manager given recommendation then the process will go to Level2 manager for his approval/rejection.
+- Level2 manager will have an option to edit and save the recommendation givenLevell manager.
+- Once Level2 Manager approved then it goes to level3 managers for Approval/Rejection. Communication Process
+- Upon Level3 manager's approval the levell manager will get an option to release the recommendation to his employees. Flexible Allocation
+- Employees can view their CTC Reference letter and Flexible allocation through Cafe HR. Voluntary Provident Fund
+- Employees can login to portal and they can either allocate or Stop allocating VPF-. Development For Score Card Process Bonus Score Card : Will Display the details with declarations from Customized Info type and there are two Options for Employee , Agree and Need Clarification and comments will stored as and additional Data. For this 1 have enhanced the Info type by Adding Text Editor. All the above processes are developed in Webdynpro Abap.
+
+EDUCATION
+---------
+
+Bachelor of Engineering: Electronics & Instrumentation, 08/2006 Satyabama Institute of Science & Technology - Chennai

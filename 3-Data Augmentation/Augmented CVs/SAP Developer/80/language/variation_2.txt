@@ -1,0 +1,148 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- 4+ years’ experience as SAP (SD/MM/OTC) Functional Consultant.
+
+- Exposure in business processes which includes Sales and Distribution (SD), Material Management (MM), Finance and Controlling (FICO), Production Planning (PP) and Warehouse Management (WM).
+
+- Experience in handling full cycle implementation, which includes project preparation, Integration testing, UAT Scenario preparation, Documentation and Train the Trainers pre-go-live.
+
+- Experience in handling Global projects and diversified teams across the globe which includes NA, EMEA, LAR and APAC.
+
+- Data Migration: Expertise in migrating and converting data from legacy system to SAP using LSMW.
+
+- Excellent communication and presentation skills, and have demonstrated the ability to work with senior level business clients to understand the fundamental business drivers.
+
+- Configuration experience in SD: Master data such as Customer, Material, Master data & Conditional Master Data, Enterprise Structure Definition & Assignment, Order to Cash Cycle such as Order Management, Delivery, Shipping & billing, intercompany process.
+
+- Experienced in Shipping Point Determination, Route Determination.
+
+- SD: Inquiry, Quotation, Sales Orders, Shipping, Delivery, Billing. third party orders, consignments, Returns, subsequent free of charge deliveries, credit! debit memo.
+
+SAP Hybris C4C/C4S
+
+- Developed C4C custom objects in cloud application studio and Experienced in implementation of full life cycle of C4C Service.
+
+- Interacted with business leads and users to understand the AS-IS and TO-BE process.
+
+- Involved in structuring the service ticket process with and without contracts in C4C.
+
+e¢ Worked on Master Data such as Customer, Vendor Master, Material, and Condition master. Also, worked on master data and
+transactional data replication between two systems which includes Service Orders, Contract, and confirmation, Warranty, Claim and
+Equipment's.
+
+- Experience in setting up security roles, business roles settings, and UI adaptation.
+
+- Provided the list of fields need to be updated while updating the existing data in the cloud by data workbench.
+
+- Have experience in gathering functional requirements, prototyping, configuration, testing, resolution and escalation of defects, status updates, and assistance with test and conversion planning activities to drive quality results.
+
+WM AND LE EXPERTISE:
+
+- Have strong experience in setting up Warehouse Structures (Storage Types, Bins, and Sections), Placement and Removal Strategies, KANBAN, Batch Management, SLED in WM, Posting Changes, and Replenishment procedures in WM, Physical Inventory in IM, Delivery processing in WM.
+
+- Experienced in configuration of WM, P2P and IM movement types and linking IM movement's types with WM movement types via reference movement types. Have configured special movement type indicators for warehouse stock as well as Production BOMs.
+
+- Involved in Stock transfers such as from Plant to Plant, Storage location to Storage location (WMS system to non-WMS System and Vice-Versa) and Storage Bin to Bin, posting change and Physical Inventory.
+
+SKILLS
+------
+- SAP ECC © Unix OS & Linux OS
+- SAP C4C © Cross-functional communications
+- Microsoft 365 | Enterprise e Daily transaction summarizing
+- IBM Lotus Notes e Common core standards
+- C, C++ programming language e SAP implementation techniques
+- Oracle SQL e Excellent written and oral communication
+- Windows OS Worx History
+
+04/2019 to Current SAP SD Functional Consultant Carestream America Inc. - City, STATE
+
+- Created new Plants, Company code, Shipping point, Storage location, Transportation planning point
+
+- Configured Sales document types, Delivery types, Billing types, Item Categories and Schedule Line Categories as per business requirements
+
+- Configured order to cash (OTC) process flow
+
+- Experience in data migration for Customers, vendors, Z- tables, Materials, condition records and setting up partner profile and loading purchase info records, source list
+
+- Experience in interface technology through IDoc, Configuration of Partner Profile, IDoc Mappings and SD/MM Output Processing
+
+- Expertise in providing production support in SD and MM modules Worked on ALE/EDI interfaces
+
+- Set up partner profiles and required output configuration
+
+- Created new routes and loaded all into route determination using program
+
+- Configuration of MM, STO transfer process, Replenishment Deliveries, Goods Receipt
+
+- Worked on Purchase Requisitions, Purchase Order, Invoice receipts, Inventory Valuation and Accounting for different Movement types
+
+- Experience in data conversion using tools like LSMW, EDI/IDOC
+
+- Advanced knowledge on third party sales process and intercompany sales
+
+- Good understanding of intercompany pricing and billing procedures
+
+- Pricing Experience: Configuration of Condition Types, Condition Tables and Access Sequences, Determining and Maintaining Pricing Procedure, Creation of Condition Records, Special Pricing Functions such as Condition Exclusion and Analysis of Pricing
+
+01/2018 to 04/2019 SAP SD/SAP MM Functional Consultant Carestream Dental LLC - City, STATE
+
+- Worked on business process validation, functional specification documents, developed Process flow design, providing customer service and backend support for smooth flow of operations
+
+- Designed and configured enterprise structure by creating new sales organizations, Distribution channels, divisions and subsequent sales areas and sales offices
+
+- Provided Level 2 Production Support resolving issues, questions, and requests from end users and managers related to Configuration, Integration and Training
+
+- Involved in various business meetings to analyze and document business requirements related to Supply Chain Management
+
+- Defined and designed Order to Cash inter-company business process
+
+- Loaded Master Data (Customer Master Records/Material Master Records) from Legacy system into SAP by using LSMW
+
+- Resolved production issues in OTC cycle, due to pricing, plant, and shipping point determination, material extension, revenue recognition, purchase order (PO) and customer extension
+
+- Solve day to day issue to perform GAP analysis and fill up GAPS of Inventory any Handling Unit (HU)
+
+- Work on Route determination that includes modes of transport, shipment types, routes and stages, transportation connection points and transportation groups
+
+- Worked on Purchase Requisitions, Purchase Order, Invoice receipts, Inventory Valuation and Accounting for different Movement types
+
+06/2013 to 12/2015 SAP SD Functional Consultant ABB - City, STATE, India
+
+- Participated in business requirement sessions and Documented business requirements, reviewed and obtained approval
+
+- Expertise in Material Management (MM) integration functionalities like third party order
+
+- Processing, inter-company invoicing, intra~-company stock transport order, inter-company stock
+
+- Working Functional specifications, Test Scripts, performing Unit testing, Integration testing, UAT,
+
+- Workshop in Sales order processing, Pricing, Delivery and Billing
+
+- Created process documentation to help new hires and Involved in SD/LE/MM/PP integration testing and configuration
+
+- Worked on configuring route determination process, also Responsible for master data configuration (making fields mandatory, optional, or suppressed) and Partner function determination
+
+- Conducted daily and weekly status meetings to track progress and report critical issues to the steering committee
+
+- Rapidly prototyped new data processing capabilities to confirm integration feasibility into existing systems
+
+- Tested troubleshooting methods, devised innovative solutions, and documented resolutions for inclusion in knowledge base for support team use
+
+Epucation
+12/2017 Master of Science: Computer Science
+
+Virginia International University - Fairfax, VA
+04/2015 Bachelor of Science: Computer Science
+
+Jawaharlal Nehru Technological University - AP
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

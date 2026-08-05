@@ -1,0 +1,262 @@
+CANDIDATE LEVEL: Junior-Level Candidate
+
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+SUMMARY
+-------
+Financial Accounting (FI) Enterprise Structure: Configuration and customizing Company code, Creating GL account codes and Chart
+of Accounts, Configuration of Global settings *New General Ledger / Classical GL: Activation of New GL Accounting, Define ledger
+for GL, Migration to New GL, and Migration Cockpit *Accounts Receivable: Building AR Business module, Configuring and
+Customizing Customer master data, Customer payments, Customer invoice processing, Oder to cash process, Finance documents
+Global settings (Posting Keys, payment terms), Dunning and Reporting *Accounts Payable: Building AP Business module,
+Configuring and Customizing vendor master data, Vendor account groups, House banks, Procurement to pay process, Vendor
+invoice processing, Document parking, Outgoing payment, and Reporting *Asset Accounting: Configuring Chart of Depreciation,
+Depreciation Areas, Depreciation Keys, Creation of Asset Classes, Asset Number Ranges, Account Determination, and Managing
+acquisition of new Asset with Asset Under Construction (AUC)
+
+WORK EXPERIENCE
+---------------
+
+SAP FICO Consultant, 10/2014 to Present Apex Systems - Fort Collins, CO
+- Internal Orders: Internal order configuration, order settlement configuration, PA settlement structure, Order planning and Budgeting.
+- Cost Element/Cost Center Accounting: Planning, cost centers, cost center hierarchy, cost elements, statistical keys, activity type, assessment, distribution, reposting and integration with MM. Project Systems: Worked in the area of Project Structuring, Project Coding, WBS elements, Milestones, Result Analysis for
+
+Projects and Project Reporting.
+- Costing: Product costing (CO-PC), integration with PP, Costing Variants, valuation variant, milestone-billing, Overhead Costing Sheet. Profitability Analysis (COPA): Configuring and Customizing the operating concern, characteristics, value fields, maintaining the derivation rules and valuation, creating Drilldown Reports and Planning.
+
+Profit Center Accounting: Configuring and Customizing the basic settings, maintaining profit center hierarchy, assignments, CO-
+Objects to Profit Centers, distribution and assessment of costs, budgeting, planning and development of Reports.
+
+FSCM: Building and configuring Collection Management, Dispute Management, Cash Management and Liquidity Forecasting.
+
+Treasury: Building treasury related part of the project including Bank Master Data, Automated Payment Processing, EBS, and
+Lockbox Environment: SAP ECC6.0, FI, GL, AP, AR, FI/MM, FI/SD, CRM, MM, SD, HANA.
+Designed and configured FI-MM and FI-SD configuration for new Plants and Distribution Centers.
+
+Designed and configured all settings for PTP including inventory, GRIR, PPV, tolerances, payments for new plants and
+Distribution Centers.
+Configured PTP settings for Automatic Payment Program F110 configuration to allow for automatic clearing of Vendors.
+
+- Worked on creating smartforms for checks printers at various client sites. Assisted the business in capturing all required business processes to be built in VIM OpenText.
+
+Worked on PO, NPO custom function modules to support business requirements.
+Maintained the email notification for OpenText Vendor Invoice Management 7.0.
+- Maintained users, roles, Notification Receiver list using transaction OPT/VIM_8CX1.
+
+- In master data maintained screen layout for asset master data defined evaluation groups, valuation keys, period control as well as defined calculations key.
+
+- Experienced massive system enhancements in product costing and COPA.
+
+Designing Sales Operation Planning (SOP) Process by integrating Sales and Profit Plan in COPA, Cost Center Planning, Input
+
+and output activity planning, Production planning, and Investment Project Planning.
+
+Integrating Product Costing with Project Systems and investment program.
+
+- Acting as the main point of contact for all CO-PC Product Costing Solution and COPA. Conducted detailed core CO-PC training and COPA for end users.
+
+- Maintained overhead cost element, defined calculation bases, and defined overhead rates.
+
+- Defined credits, origin groups, costing sheets, overhead keys, costing types, valuation variants and cost component structured.
+
+Designed different Product Costing Processes like MTS and MTO.
+
+- Checked order types, defined good receipt valuation for delivery, defined result analysis keys, defined cost element calculation for WIP, defined line Ids, created settlement profile, and created PA transfer structure.
+
+- Enhancing state of the art solution for Transfer Price.
+
+Design a solution for multiple valuation costing Regional, Global & Profit Center valuation.
+
+Configured assignment, costing rules, target cost versions.
+Used Product Costing for Estimates with Multiple-Sourced Materials (from different plan)-Mixed Costing.
+Created product cost collectors at production version level in repetitive manufacturing, defined order types, results analysis
+
+keys, configured costing and valuation variant for preliminary and simultaneous costing.
+
+Created and analyzed costing runs, customized quota arrangements in determining the vendors, maintained repetitive
+manufacturing profile and created cost object hierarchies.
+- Configured all COPA (Costing Based) design and used as an OLTP base for analytics.
+
+Re-designed the OTC process and design.
+
+- Enhanced customer invoicing and integrated Barcode invoicing.
+
+- Enhanced Billing Reporting with price conditions break down report.
+
+- Enhanced transfer price solutionsWorked on EBS, check encashment, BAI file from bank, BAI codes processing.
+
+- Maintained settings for PTP (Procure to Pay) business requirements.
+
+- Configured Accounts Payable - Incoming Invoices/Credit Memos, Maintained Terms of Payments, EDI invoice posting, Screen Layout for invoice posting, Outgoing Payments, Open Item Clearing, Bank Accounting, Closing, Vendor Group and Vendor Master Data.
+
+Configured Outgoing Payments - Outgoing Payments global settings, Manual Outgoing Payments, Automating outgoing
+Payments, Define Tolerances per vendor, Check Payment Blocking Reason Code, Define House Bank, Define Payment Method
+per Company Code, Bank Determination for Payment Transactions, Bank Ranking order, Bank Accounts, Available Amounts per
+Bank.
+
+Worked with LSMW for loading multiple master data and data conversion from legacy to SAP.
+Mapped legacy order numbers to SAP PO numbers.
+
+Created vendor invoices from these POs and updated the legacy invoice numbers on SAP invoices so users are able to cross
+
+reference.
+
+Created LSMW to convert legacy master data, create new master data and update existing master data in SAP.
+- Configured settings for P2P, FI-MM integration.
+
+Designing the entire corporate fixed assets solutions: Revaluation, Impairments, Capitalization interest, Capitalizing using
+Investment measure, Leased assets, Low value assets and others.
+
+- Configuring fixed assets for various deployments in different countries: US, UK, Italy, Spain, Canada, Poland and others.
+
+- Managing depreciation policies differences across different accounting principles.
+
+- Leading several Fixed Asset enhancement: Asset History Sheet report by month, Asset Balance Report for a period in closed year, New depreciation area for AUC and retired assets and others.
+
+Designed the entire Parallel Ledger Accounting within SAP FI for Dual Reporting and Revenue Recognition following IFR15.
+
+- Define various GAAP as accounting principles and assigning them Ledgers.
+
+Designed Fixed Assets using different Depreciation Areas for various GAAP and using Delta Depreciation Areas.
+
+Created step-by-step tasks list for month-end and year-end closing.
+
+- Configuring Fixed Assets module by configuring: Chart of depreciation, Define Depreciation Area, Define Zero tax code, setup account determination, design the screen layout, define asset classes, Determining Depr.
+
+- Area in asset class, specifying interval of posting rules, defining depreciation keys and period control, setting the account assignment object.
+
+- Configuring parallel posting of asset values to GL, Parallel depreciation methods, parallel fiscal year variant and parallel
+
+currencies.
+
+- Configured Down payment processing in SAP.
+
+Configured Invoices processing, credit memo, debit memos and invoice processing.
+- Configured Accounts Payable F110 -Invoices/Credit Memos, Maintained Terms of Payments, EDI invoice posting, Screen Layout for invoice posting, Outgoing Payments, Open Item Clearing, Bank Accounting, Closing, Vendor Group and Vendor Master
+
+Data.
+- Configured Outgoing Payments - Outgoing Payments global settings, Manual Outgoing Payments, Automating outgoing Payments, Define Tolerances per vendor, Check Payment Blocking Reason Code, Define House Bank, Define Payment Method per Company Code, Bank Determination for Payment Transactions, Bank Ranking order, Bank Accounts, Available Amounts per Bank. Enhanced Costing Sheet to allow allocating to the material level.
+
+- Enhanced the entire product costing solution to capture actual manufacturing quantities without the use of actual costing material ledger (due to client process conflict).
+
+Developed a solution to generate cost estimate in weekly basis and transfer them to COPA for weekly margin reporting (only for
+highly volatile priced materials).
+Designed a process and system enhancement for Downgraded and Rebranded Materials Costing.
+
+Developed a solution for subcontracted material costing.
+
+Re-designed some of the existing production process config, like manufacturing with alternative production versions within the
+same period, manufacturing campaigns for by products, and cross plants manufacturing outsourcing.
+Created Supply chain transparency reports to show the breakdown of the freight cost into inbound, outbound, duties,
+
+warehousing, shuttling and more.
+
+Configured all product costing solution: Costing Variants, Cost component structures, Costing Sheet, Projects & Investment
+Management, Assessment Cycles, Variance Calc, WIP and others.
+
+Acted as the owners for Controlling Master Data: Product cost collector, production cost centers costing view of Material master,
+
+overhead cost elements, PC related Activity Types.
+
+Acted as the stakeholder for shared Master Data: Sales related customer master, BOM and Routings, Production versions,
+Projects, and IM program.
+- Setup partner profiles, ports for EDI/Idoc interfaces.
+
+Worked on legacy to SAP interfaces using EDI mapping.
+
+Worked in the implementation of Taxware Software for calculating taxes externally and involved in testing and writing test
+scripts after configured this interface.
+- Configured FI-MM account determination for all purchasing scenarios, plants and Distribution Centers for sales activities
+
+including tax including commissions, accruals, rebates processing.
+
+SAP FICO Lead, 09/2012 to 09/2014 Capgemini Holding Inc - South East, CA
+- Worked extensively on configuration of AP and Treasury modules.
+- Configuring for different Payment Methods and Payment terms, with day limits where required and baseline date specifications.
+- Set up interest indicator and created report variant for late payment charges.
+- Used HP QC to streamline IT service processes as well as manage the IT service life cycle (SDLC) through comprehensive service level management capabilities.
+- Perform manual data testing.
+- Tested ABAP programs, created test data and documented results for ABAP programs.
+- Created test steps for testing custom ABAP programs, including ABAP interface programs, ABAP reports and user exits.
+- Tested EDI configuration and setup.
+- Created test scripts and tested BI/BW reports.
+- Configured New GL, designed document splitting, and Parallel Ledgers design.
+- Set up customer back end for customers clients.
+- Design Currency translation and currency valuation.
+- Set up initial Tax Vertex integration.
+- Set up Contract sales process.
+- Trained users on testing BI/BW reports.
+- Testing P2P, SCM Supply Chain, scenarios including FI-MM integration.
+- Tested interfaces using Biztalk middleware.
+- Identified defects in Biztalk mapping and created defects in HP QC.
+- Performed end to end testing of P2P scenario including idoc processing for PO creation and idoc processing for invoices.
+- Created test scripts on idoc processing and idoc error resolution.
+- Worked on EDI 810 for Vendor Invoice Processing from legacy to SAP.
+- Worked on EDI, 820, 823 for Payment Advice and Remittance files.
+- Worked on EDI 850, 860 for PO creation and acknowledgement.
+- Extensive knowledge and experience in EDI 810, 820, 850, 860 files.
+- Worked on Intercompany payments and intercompany clearing.
+- Worked on ABAP debugging to identify and fix ABAP program errors.
+- Experience in EDI configuration and setup.
+- EDI partner profile setup and EDI port definition for legacy AP systems and Banks.
+- EDI inbound and outbound interface expertise.
+
+SAP FI/AP Consultant, 08/2011 to 07/2012 Chase Bank - City, STATE
+- Worked extensively on configuration of AP and Treasury modules.
+- Configuring for different Payment Methods and Payment terms, with day limits where required and baseline date specifications.
+- Set up interest indicator and created report variant for late payment charges.
+- Used HP QC to streamline IT service processes as well as manage the IT service life cycle (SDLC) through comprehensive service level management capabilities.
+- Perform manual data testing.
+- Tested ABAP programs, created test data and documented results for ABAP programs.
+- Created test steps for testing custom ABAP programs, including ABAP interface programs, ABAP reports and user exits.
+- Tested EDI configuration and setup.
+- Created test scripts and tested BI/BW reports.
+- Trained users on testing BI/BW reports.
+- Testing P2P, SCM Supply Chain, scenarios including FI-MM integration.
+- Tested interfaces using Biztalk middleware.
+- Identified defects in Biztalk mapping and created defects in HP QC.
+- Performed end to end testing of P2P scenario including idoc processing for PO creation and idoc processing for invoices.
+- Created test scripts on idoc processing and idoc error resolution.
+- Worked on EDI 810 for Vendor Invoice Processing from legacy to SAP.
+- Worked on EDI, 820, 823 for Payment Advice and Remittance files.
+- Worked on EDI 850, 860 for PO creation and acknowledgement.
+- Extensive knowledge and experience in EDI 810, 820, 850, 860 files.
+- Worked on Intercompany payments and intercompany clearing.
+- Worked on ABAP debugging to identify and fix ABAP program errors.
+- Experience in EDI configuration and setup.
+- EDI partner profile setup and EDI port definition for legacy AP systems and Banks.
+- EDI inbound and outbound interface expertise.
+- Defined workflow for parked documents.
+- Worked on FI integration with PM, MM and IM.
+- Resolved errors with PM and MM/IM integration.
+- Expertise in EDI setup for AP Payment files sent to Bank for further processing.
+- Maintained settings for Supply chain, MM, PTP (Procure to Pay) per business requirements.
+- Worked with security team to identify security roles and transactions to be assigned to users.
+- Created custom transactions and assigned to specific security roles for user access.
+- Created reconciliation accounts for account receivables and accounts payables.
+- Configured settings for P2P Procure to Pay cycle including FI-MM integration.
+- Defined settings for Vendor Invoice approval workflow and posting.
+- Maintained Payment method configuration including wire transfers, EDI, and invoice processing via workflow.
+- Performed FI-MM integration including inventory, GRIR, revaluation and inventory close.
+- Configured settings for logistics invoice verification, including 2 way and 3 way match.
+- Designed functional specification for user exit enhancement and worked with developer through coding and testing.
+- Worked on the enhancement like positive pay, legal entity payment through different profit center as an entity using the document splitting.
+
+SKILLS
+------
+
+ABAP, Accounting, accounts payables, Accounts Payable, accruals, streamline, AP, AR, art, Balance, basic, Billing, Biztalk, Budgeting,
+
+BI, business processes, Cash Management, Closing, config, Costing, Credit, CRM, client, clients, data conversion, debit, debugging,
+delivery, Designing, EDI, email, Fixed Assets, Forecasting, functional, GL, HP, Ids, inventory, Investment Management, Invoice
+Processing, invoicing, Layout, Ledger, legal, logistics, Managing, Materials, access, PP, middleware, MTS, developer, Payment
+Processing, policies, POs, printers, Processes, Profit, Coding, Project Planning, purchasing, reporting, Revenue Recognition, Sales,
+SAP FI, SAP, SD, SDLC, scripts, SOP, specification, structured, Supply Chain, Tax, taxes, translation, Treasury, type, valuation,
+
+Vertex, view, warehousing, workflow, year-end
+
+Education and Training
+
+BACHELOR: INFORMATION TECHNOLOGY UNIVERSITY OF SCIENCE AND ARTS OF OKLAHOMA INFORMATION TECHNOLOGY

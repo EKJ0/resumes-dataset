@@ -1,0 +1,143 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+SUMMARY
+-------
+
+SAP Solution Architect, leader, mentor, motivator and coach with crafted customer service forte and a strong track record in custom
+business improvements. A technical, analytical, problem-solving individual with vast experience in the biopharmaceutical, beverage
+co-packer, automotive, retail and manufacturing industries. Proven ability to design, build, test and deliver given objectives. A Team
+player and business advocate that succeeds and helps maintain consistent growth by making a difference and able to secure an
+impeccable record of performance in ERP implementations and support. Qualifications Over 15 years of consultant, business analyst
+and team lead, experienced in 2 full life cycle implementations and support of SAP ECC 6.0 and SAP Suite on HANA. Successfully
+managed and troubleshoot Retail Master Data (MD), Materials Management (MM) Sales and Distribution (SD) and Transportation
+Management (TM) with integration with FI. Presently in a Solution Architect role leading and delivering multiple innovative
+business initiatives. Proactively lead the collaboration and engagements with the IS and business process teams driving solutions
+based on business & industry best practice. Assume global template governance responsibilities across the complete SAP landscape
+and currently provide SME leadership to strategic initiatives in the Plan to Stock domain with good understanding in the areas of
+Finance, Order to Cash, SAP IDOC integrations, Workflow, and ABAP programming. Effectively and successfully partnering with
+corporate and site supply chain counterparts establishing new processes and implementing new solutions. Detail and follow-through
+skills, which include ability to implement decisions, handling a variety of tasks and responsibilities efficiently with a high degree of
+
+dedication and self-motivation
+
+WORK EXPERIENCE
+---------------
+
+Specialist SAP Architect, 11/XXX7 to Current Good Shepherd Hospice - Springfield, MO
+
+- Responsible for solving complex problems at a global scale and to contribute in the design, configuration, test, and documentation necessary to deliver the right solution within a highly regulated environment
+
+- Routinely interact with all levels of business users, subject matter experts, business and IS leaders, functional and technical piers to identify and document business requirements for innovative solutions, new product launches, and or system maintenance
+
+- Lead multiple quarterly change requests to drive growth and improve system performance
+
+- Lead in the design through delivery of the most advanced and automated Tolling solution in the industry. Partnered with the implementor and business subject matter experts in automating all non-valued movements to support financial alignment
+
+- Lead role in the design, build, test, and deployment of Tolling Phase II which enabled the sales and distribution of the final drug product to the first economic customer
+
+- Lead Architect in new market and product launches responsible to assess business requirements and determine if there are potential tolling scenario risks and or opportunities
+
+- Lead architect on minor enhancements, service request, and incidents for PTS and end to end supply chain tolling related changes
+
+- Lead Architect for all new demands of SAP requests of new plants, external warehouses, contract manufacturers virtual plants, and logistic service providers with and without EDI capabilities
+
+- Lead Architect for all direct procurement and planning innovative change requests
+
+- Created business case for delivering virtual plants as a service request which otherwise were built as a demand costing $35K per plant with an immediate savings of ~$112K per year as well as additional cost avoidance by leveraging Robotic Processing Automation
+
+- Assess complexity and costs of assigned Plan to Stock demands to ensure estimates meet requested deliverables
+
+- Worked successfully with diverse cross functional group to accomplish goals and address issues related to products and services
+
+- Demonstrate leadership by making improvements to work processes and helping to train others
+
+- Provided excellent service and attention to the business when face-to-face and or phone conversations
+
+- Travel domestically and internationally to assist with end user training, product launches, and blue printing workshops
+
+Enterprise Systems Analyst, 01/XXX6 to 11/XXX7 Brady Corporation - Chicago, IL
+- Responsible for solving complex problems and design, configure, test and implement solutions for the SAP Sales & Distribution and Logistics Execution
+- Lead in an SAP Transportation Management System integration with 4PL Lean Logistics (Blu Jay)
+- Responsible for the design, build, test, deployment and maintenance of all inbound/ outbound interfaces to and from the 4PL system
+- Interact with the business users, subject matter experts, customers, and collaborate with functional and technical piers to document requirements and identify the right solution
+- Transform business requirements into system specifications and provide estimates to meet deliverables
+- Configure the system in accordance with the solution design
+- Identify EDI requirements and help work towards standardization and consistency across all customers
+- Coordinate with the business for user acceptance testing
+- Help document and coordinate go-live activities and helpdesk transitions
+- Provide Production Support to the business after release and or project go-live
+- Travel 20% domestically
+
+System Analyst, 08/XXX4 to 01/XXX6 Publix Super Market - City, STATE Facilitate requirements and design sessions with large groups of senior stakeholders
+- Lead in the design through deployment of multiple assigned projects
+- Plan, execute and deliver small to large scale IT projects using software development life cycle
+- Work closely with the IT development team to lead the design and development of IT solutions that met business requirements
+- Work with IT testing team to plan test strategy and ensure test coverage meets business requirements
+- Lead SAP HCM Benefits team with maintenance and enhancement projects
+- Lead in Finance project to allow dynamic discounting within SAP leveraging a third-party vendor, Taulia, projected to save 30 million dollars in the first-year post implementation
+- Lead in the efforts of implementing a solution to automate the procurement process for the Facilities Purchasing team to send
+
+their SAP purchase orders via EDI.
+
+Business and System Integration Consultant, 09/XXX0 to 08/XXX4 Accenture - City, STATE Role - SAP Order to Cash Consultant (Ralph Lauren)
+- Assist the OTC team lead with defining requirements for new change requests
+- Conduct workshops to gather business requirements for new developments
+- Write functional designs, assist with technical designs, perform functional unit tests, coordinate user acceptance testing, adhere to SOX controls and CAB controls
+- Serve as a liaison to the business client and participate in user and task analysis to maintain the business community number perspective
+- Troubleshoot logistical issues related to inbound and outbound deliveries, the posting of goods receipts and goods issues
+- Worked on redesign of WMS interface to SAP via EDI in relations to order confirmations with partial and final shipments to address billing discrepancies
+- Lead in the performance improvement initiatives under the OTC umbrella working with client and Accenture leadership in determining, executing, and testing materialized improvements in critical business processes
+- Participated in business solution design process for client to understand and define functional project requirements
+- Interpreted and advocated company vision and direction by turning business goals into actionable plans of system enhancement.
+- Promoted business and engagement by building relationships with key stakeholders, surfacing opportunities and driving opportunities through to delivery
+- Served as facilitator for product and process owners, cross functional team members and stakeholders to bring discipline to agile approaches and drive sustainable improvements
+- Troubleshot malfunctions with systems and programs to pinpoint root cause of issues and restore
+- Determined areas in need of enhancements and identified relevant and feasible systems to address concerns
+- Trained end-users in best practices to minimize errors and protect key data. Role - SAP Materials Management Consultant (Chrysler)
+- Worked with the direct purchasing business owners, subject matter experts, technical and functional leads to capture business requirements necessary to produce the assigned RICEFWs
+- Responsible for the design, configuration, build and test components of 11 RICEFWs within the delivered direct procurement solution
+- Designed a custom program for purchasing which uses a mechanism to automatically adjust production part purchase order pricing for cost changes ups or downs known as Simulator. It provides an efficient means of updating production part purchases in commodity pricing
+- Procurement lead for the indirect purchasing team overseeing 4 functional consultants during the wave II rollout
+- Part of the project team responsible for a January 2, XXX3 Chrysler (Fiat) successful SAP Go Live
+- Post go live support working on new business improvements identifying and resolving system defects Role - Jr. Solution Architect (Best Buy) Facilitated impact assessment efforts, producing, and reviewing estimates of client work requests
+- Partnered with Business Relationship Managers to drive the work initiation process from client demand to successful commencement of IT services delivery
+- Utilize factor based estimating practices and ADM estimating capabilities to produce estimates for new work
+- Work with business analysts, technical leads, and functional leads as necessary to understand requirements and generate estimates and solution blueprint creation
+- Performed test cases of enhancements related to outbound shipments via SAP WMS pick/pack processes of goods issue from WMS and goods receipts into stores
+- Worked closely with the client and business partners in the realization of system testing and ensuring defects were addressed and corrected quick enough to meet scheduled go live
+
+SAP Business Analyst, 04/1993 to 09/XXxX0 Kenneth Cole Productions, Inc - City, STATE
+- Liaison between client, IT resources, and local management, defining solution to business issues, suggestions, and requests
+- Established and maintained good working relationship with clients, vendors, users, service providers, product managers and engineering team
+- Generate detail specifications from which programmers use to write, design, code, test, and debug the most complex programs
+- Provided guidance in the master data and materials management designs and development within ECC 6.0
+- Partnered with external SAP consulting and development teams in the architecture and design of new comprehensive solution that met business requirements
+- Lead in the design of a Gap Console used for parts creation via an interface with third party business partners
+- Responsible for the design and configuration in areas of SAP Master Data and Materials Management including but not limited to site master, article master, purchasing, and inventory management
+- Created and executed LSMWs to provide recording functions that allowed generating data migration objects to enable migration from any required transaction
+- Partnered with the internal audit team in order to ensure SOX guidelines are kept
+- Followed ASAP methodology to meet a successful go live of SAP IS Retail ERP2005 ECC 6.0 July 2007
+- Lead a separate implementation involving the interface with e-commerce solution partner GSI in the development,
+configuration, testing and conversion meeting the scheduled go live of July 2008
+- Lead third implementation of new distribution channel to manage newly acquired business of the Le Tigre brand with a
+successful go live in 2009 While in my tenure at Kenneth Cole I also held the following positions and promotions
+- Operations and Customer Service Manager
+- Merchandising Manager (Buyer) Sr. Traffic and Distribution Manager
+- International Traffic Manager
+- International Traffic Coordinator
+
+Education and Training
+
+Bachelor of Arts Degree: 01/1995 Montclair State University - Upper Montclair, New Jersey
+
+CERTIFICATIONS
+--------------
+
+SAP Certification - Certified Associate, SAP S/4HANA Sourcing and Procurement 1909
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

@@ -1,0 +1,55 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+Sap Abap Developer I Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+ROBERT SMITH eee eacanccaleonemere
+
+Address: 1737 Marshville Road, Alabama
+
+OBJECTIVE
+---------
+
+Secking a challenging and rewarding carecrin ERP where can contribute knowledge and skills for
+growth, development of the organization and to be able to implement solutions that. meet the
+custamer requirements using variety of Software development skills and Technical expertise.
+
+SAP ABAP, SAP LSMW, SAP Data Dictionary, Technical Writing.
+
+WORK EXPERIENCE
+---------------
+
+Sap Abap Developer I
+ABC Corporation - April 2007 - August 2007
+- Analyzed the Functional Specifications to design the technical specification and code,
+- Helped in gathering the process related data and giving the master data required for MM and SD.
+- Designed an ALV list to display the Service Level Report.
+- Created custom tables with maintenance dialogs for dummy employees. After receiving the carriers invoices, files were sent to sap containing the breakdown by cast center for cach.
+- Designed and coded the sap interface to the tangoc telecommunications system which.
+- Developed, maintained and documented forms (sapseript, smartiorms and adobe) reports,
+- Interfaced, enhancemented and workflowed in an sap environment having over 60 active company.
+
+Sap Abap Developer
+Delta Corporation - 2003 - 2007
+
+- High Noon Corp.
+
+- Duration July 2006 - March 2007 SAP Version /Project Type ECC 5.0 /Implementation SAP Modules PM (Plant Maintenance) Client Profile SOMC is a UK based plant maintenance company with lis rich clientele in middle-cast.
+
+- For one of its Oman based plant SOMC ts implementing SAP R/3.
+
+- The overall scope of the project involves FI-CO, MM and PM-WCM (Work Clearance Management} modules.
+
+- Role and Responsibilities My Scope of work involved io design/develop SAP RICEF for PM module.
+
+» Analyzing the Functional Specifications to design the technical specification and code.
+
+- Objects Developed /Custamized Developed a report to print Notification long texts.
+
+EDUCATION
+---------
+
+Bachelor of Engineering in Information Technology - 2002(Duration &amp: University}
+
+- This Free Resume Template ts the copyright of Qwikres umecom. Usage Guidelines

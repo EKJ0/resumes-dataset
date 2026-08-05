@@ -1,0 +1,270 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Experienced IT professional with 23 years of experience in various leadership roles involving the delivery of technology-based
+solutions and capabilities across various business industries and information technology verticals including core business processes,
+data warehousing and business intelligence, data integration, and master data maintenance. 15 years of experience in data
+warehousing and reporting with SAP Business Warehouse (BW). Environment Build Plan *Transport Strategy based on the use of
+SAP Solution Manager *Reporting Strategy *BWA strategy and implementation *Release management and support pack upgrade
+strategy “BI Strategy for dual production support and new release work including periodic system refresh from production to lower
+life cycle environments *Overall BI implementation approach for retail project including FI, SD, POSDM, SCM, and SAP Portal
+
+SKILLS
+------
+- SAP BW on HANA * Solution Manager (Solman)
+- SAP BW on Oracle and DB2 ¢ SAP System upgrades
+- BEx Reporting * SAP Financials
+- Tableau Reporting ¢ SAP Sales and Distribution
+- EPM on HANA e SAP Project Systems
+- SAP Query (SQVI) e Excellent communication skills
+- RevTrac Change Control ¢ Excellent diagnostic skills
+
+- SAP Business Objects
+
+WORK EXPERIENCE
+---------------
+
+SAP BW Platform Architect, 08/2010 to Current Amazon.Com, Inc. - Portland, OR
+
+- Successfully planned and executed multi-year BW Roadmap that included security migration to Analysis Authorizations, BW
+Upgrade from NW 7.0 to NW 7.30, and BEx migration from 3.x to 7.x.
+
+- Established IT based and Business based business cases, budget estimates and scope for IT projects, multiple implementation options, and vendor ranking and comparison for vendor selection for various IT initiatives.
+
+- 2007 SAP NetWeaver/BI Portals and Administration conference speaker, Las Vegas, Nevada.
+
+- Accountable and responsible for the enterprise architecture and strategy of SAP- BW at the Coca-Cola Company.
+
+- Accomplishments include:.
+
+- Successfully planned and led initiative to migrate a 17 TB Corporate BW Platform from on premise Data Centers to a Cloud Provider's Data Centers while migrating the database from Oracle to HANA, and migrating from Non-unicode to Unicode.
+
+- Over 60 applications on the platform were successfully migrated and validated by the Business.
+
+- Migration resulted in significant reduction of IT cost and improvement of speed of delivery of data for Business reporting and analytics.
+
+- Developed and implemented reporting solutions for on-going Data Volume Management included DB sizing and growth on Oracle and HANA, Data Load Performance, Reporting Usage and Performance, and Data Distribution.
+
+- Planned and executed multiple upgrades include and migrations included BEx 3.x to 7.x, BW Analysis Authorizations, and BW
+7.0 to 7.30.
+
+- Managed the transition of Reporting and Analytics from Extended Analytics to EPM Business Objects Financial Consolidations.
+
+- Translated business goals, feature concepts and customer needs into prioritized product requirements and use cases.
+
+- Gathered detailed use cases and requirements through regular on-site visits, virtual meetings and customer advisory board sessions.
+
+- Led communication with stakeholders regarding product goals and progress made.
+
+- Led communication with stakeholders regarding product goals and progress made.
+
+Business Analyst - Procurement, 07/2009 to 08/2010 Expeditors International Of Washington, Inc. - Keasbey, NJ
+- Project management responsibilities for SAP procurement reporting initiative including developing and updating project charter, business requirements, and PMO deliverables such as production readiness, project plan, and project roadmap documentation.
+- Direct liaison between business stakeholders and IT team.
+- Additional responsibilities include facilitating requirements gathering workshops and interviews with various business stakeholders across operational, management, and executive teams.
+- Assisted and documented recommendations for BI design, logical and physical and roadmap for P2P reporting based on BI best practices and SAP BI capabilities.
+- Responsible for planning and delivery of fixes and improvements to P2P BI reporting based on time, budget, and dependency constraints.
+
+- Developed and facilitated SAP BI training sessions for business users for reporting.
+
+BI Developer, 04/2009 to 07/2009 Cognizant Technology Solutions - Chesapeake, VA
+- Dual maintenance of Back-end and Front-end development objects to support the successful upgrade from BI 3.x to BI 7.0.
+- LO Cockpit enhancements and BI development to support Sales reporting.
+- BEx Front-end development for Sales and Financial reporting.
+- Post upgrade cleanup strategy for front-end objects including Queries, Key Figures, and Variables.
+
+BI Architect, 07/2007 to 04/2009 Verisk Analytics - Houston, TX
+- Managed BI functional and technical workstreams during phased rollout of SAP retail solution for Canadian stores.
+- Managed transition from go-live to production support steady state after the successful rollout to all Canadian stores.
+- Managed transition from project team support structure to offshore support model.
+- Developed strategy and standard operating procedures for the Enterprise SAP BI landscape to be used during current initiatives and the future state.
+- Leverage key technologies including Solution Manager, BWA, Enterprise Portal, and Advanced BEx capabilities including Report Designer.
+- Key deliverables include
+- Led communication with stakeholders regarding product goals and progress made.
+- Established criteria for each milestone within the product roadmap as a means to measure developmental progress.
+
+- Translated business goals, feature concepts and customer needs into prioritized product requirements and use cases.
+
+BW Manager, 2007 to 07/2007 Ats - Naperville, IL
+
+- Lead SAP BW team in the analysis, design, build and implementation phase of large scale Enterprise Data Warehouse project.
+
+- Work with the client in determining the optimal utilization and integration of different reporting and ETL applications including SAP BW, Hyperion, Informatica, and SQL.
+
+- Develop multi-tiered Enterprise Data Warehouse incorporating full ETL aspects of SAP BI to extract and transform data from SAP applications and send the data to additional Data Warehouse applications using the Open Hub functionality.
+
+- Design, test, and implement solutions in NW 2004s to meeting Sales Reporting, Financial Reporting, and Management Reporting requirements utilizing data extracted from Sales and Distribution, Profitability Analysis, General Ledger, CO Cost Center Accounting, CO Internal Orders, and CO Projects.
+
+- Develop and maintain key deliverables including BW Sizing, Project Plan, Knowledge Transfer Plan, and Cutover Plan for SAP BW.
+
+BW Manager/Deloitte Consulting, 01/2004 to 11/2006 Coca-Cola Enterprises - City, STATE
+- BW Manager and development Lead for large-scale re-design and rollout for Accounts Receivable centralization and SAP R/3 implementation.
+- Led team in re-design efforts for data modeling, ETL, and data archiving.
+- Planned and conducted UAT, Stress and Performance testing, Performance monitoring, and Regression testing for database upgrade.
+- Key responsibilities included
+
+BW Project Manager, 02/2003 to 01/2004 Advanced Energy - City, STATE
+
+- Analyzed business requirements for Worldwide Implementation of Enterprise Controlling-Consolidations, Sales Backlog, Project Systems, Internal Order, and Cost Center reporting in BW.
+
+- Developed detailed BW Implementation workplan for the Business Blueprint, Realization, Final Preparation, and Go-Live and Support phases of the project.
+
+- Managed team of 3 BW developers.
+
+- Created custom InfoCubes for EC-CS reporting (transactional data from table ECMCT), Controlling (Project Systems, Internal Orders, and Cost Center data) based on business content InfoCubes ODECCS C01, 0COOM_CO02, and OPS_C04.
+
+- Created R/3 DataSource enhancements for the extraction Controlling data (incorporated Purchasing and Asset settlement data).
+
+- Created and maintained custom transfer rules and update rules for EC-CS and Controlling data.
+
+- Conducted various report requirements gathering workshops and defined BW reporting scope for project.
+
+- Created complex queries for Income Statement, Balance Sheet, and Statement of Cash Flow reporting incorporating drill-down functionality to PCA ODS and R/3 Financial transactions.
+
+- Created complex queries for Cost Center and Project Systems reporting leverage Column and Row structures and multiple hierarchies in queries and workbooks.
+
+- Created, organized, and transported configuration request from development to quality test environment (development to production transports managed by infrastructure group).
+
+- Loaded non-SAP data into Ascential to validate and cleanse data.
+
+- Subsequently loaded data into SAP R/3 and BW using Ascential.
+
+BW Project Team Member, 07/2002 to 08/2002 Adobe Systems - City, STATE
+- Analyzed business requirements for Project Systems (Service Provider Solution) and Cross Application Timesheet (CATS) reports.
+- Development of data modeling deliverables for project management team.
+- Documented InfoCube and data flow for Project Systems - Controlling (OPS_C04) and Cross Application Timesheet Approved (OCATS C01).
+- Also investigated the use of other Controlling and Human Resource InfoCubes to meet user report requirements.
+- Traced and documented data flow in SAP R/3 for capturing Plan/Actual Project Cost and Hours.
+- Prepared detailed business scenarios illustrating the source system tables in R/3 and the staging and extraction of data to BW included data transformations through Transfer Rules and Update Rules.
+- Developed detailed BW report specifications including field mappings and sample output, based on business report requirements.
+- Developed technical specifications for enhancements to BW standard content (new Info Objects, modified Transfer Rules, modified Update Rules, Navigable attributes).
+- Activated Business Content in BW and SAP R/3 for the OCATS_CO1 InfoCube.
+- Performed data extraction and reconciliation activities.
+
+BW Project Team Member, 05/2000 to 2002 Avaya, Inc - City, STATE
+- Worked with client project team to implement an International, Company-wide Data Warehouse system to replace Financial, Project Systems, Product Management, and Sales legacy reporting systems, eliminate manual reporting methods, and enhance overall efficiency and reliability of reporting.
+
+The 5 implementations for this client included BW standard content as well as the development of various BW Generic
+Extractors and BW Custom InfoCubes with integration to SAP FI-GL, EC-PCA, CO-CCA, LO-MM, and Siebel CRM.
+
+- SAP environments included BW versions 1.2B, 2.0A, 2.0B, and 2.1C as well as R/3 versions 3.1H and 4.6C.
+
+Implemented BW extraction and reporting for Profit Center Accounting, Cost Center Accounting, Project Systems, Product
+
+Management, Sales and Distribution, and Siebel CRM (5 releases/implementations).
+
+Designed and Implemented BW Queries for Siebel InfoCube.
+
+Including key data elements Opportunity Number, Revenue Recognition Date, Opportunity Status and Phase.
+- Modified standard and create custom Info Source/Data Source.
+
+- Maintained custom InfoCubes.
+
+- Maintained and assisted in creating Aggregates and Hierarchies (both external and internal).
+
+Maintained data load configuration (Metadata Load), Global and Parameter Settings, IMG, and Business Content Activation.
+Maintained InfoPackages for data loads via IDOC or PSA.
+
+Created and Maintained custom InfoObjects based on Master and Transactional data from SAP and external systems.
+
+Extended Standard Business Contents based on client requirements using User Exits and Function Modules.
+
+Created and maintained Variables, Key Figures, and Queries for users.
+
+- Trained Users and Support team members on utilizing, developing, and administering BW queries.
+
+- GAP Analysis of BW queries to pre-existing reports.
+
+- Extracted and Reconciled between BW and SAP tables key data elements in FI, PS, MM, SD, CCA, and PCA.
+
+Developed and maintained monthly, quarterly, and annual financial reports including Income Statements and Balance Sheet
+using the BW BEX Analyzer.
+
+Configured and enhanced FI-CO and SD DataSources in R/3 versions 3.1H and 4.6C to integrate with Siebel data, support data
+extraction, reconciliation, and reporting in BW.
+
+- Customized SIS reports to reconcile SD data at header and detail line item level.
+
+Performed data extraction (ETL) using Logistics Cockpit (LO) for SD, LIS/SIS, standard content data extractors for Project
+Systems (PS), and custom extractors for Profit Center Accounting (PCA) master and transactional data.
+
+Developed BW Batch job schedule for the daily loading of master data and transactional data.
+
+Participated in data modeling and data architecture design utilizing the Extended Star Schema approach.
+
+Reviewed and recommended FI, PCA, and CCA configuration and master data changes to support enhanced data integrity in
+
+BW reporting.
+- Synchronized and maintained currency tables in BW with the R/3 Financial consolidations environment.
+
+Principal Consultant, 01/1997 to 05/2000 PriceWaterhouseCoopers, LLC - City, STATE
+
+- Conducted internal SAP methods and tools consultation to PricewaterhouseCoopers (PwC) and client resources.
+
+- Responsible for providing functional and technical support, providing feedback on ways to effectively utilize the tools, and assisting with PwC proposal efforts.
+
+- Managed the rollout, usage, training, and upgrading of SAP methods and tools to support project teams at Texaco and other project sites.
+
+- Conducted method and tools demonstrations for prospective clients at PwC's state of the art demonstration facility in Philadelphia.
+
+- Conducted internal awareness sessions to increase the knowledge and usage of PwC's ascendant SAP method and tools on client projects.
+
+- Developed business cases to support method and tool development requirements for pharmaceutical clients.
+
+- Worked on Global SAP rollouts for various clients including Hoffman-LaRoche and Lucent Technologies.
+
+- Worked with client project management team to ensure that deliverables and deadlines were met for SAP Production Planning (PP), FI-CO, FI-GL, FI-AP/Purchasing, FI-AR and SD implementation.
+
+- Assisted in organizing and reviewing project documentation for Quality Assurance reviews.
+
+- Managed the creation and integration of the system, unit, security and user acceptance testing strategies.
+
+- Developed, maintained and tracked conversion and implementation activities utilizing Microsoft Project.
+
+- Utilized planning techniques to maximize system and resource usage.
+
+- Reviewed alternative project plans to determine resource needs using cost benefit analysis techniques.
+
+- Implemented a 24-hour hotline to support client and project team resources during system cutover.
+
+- Assisted the client in the planning and preparation of post implementation support procedures and policies.
+
+- Performed post implementation support functions for multiple client sites.
+
+- Led team in the design, configuration, and testing of Costing-based CO-PA including (characteristics, key figures, derivation tules, cost settlement, reporting).
+
+- Resolved critical issues involving the integration of Costing-based CO-PA with a complex pricing structure and resource related
+
+- Designed and tested Profit Center Accounting integration with the Quote-Cash process.
+
+- Assisted in planning and implementing improvements in the monthly and quarterly financial closing procedures and sequences leveraging SAP functionality with existing legacy systems.
+
+- Assisted in the maintenance of General Ledger accounts, Primary and Secondary Cost Elements, Profit Centers, and Cost Centers.
+
+- Resolved key issues in the Integration of FI and SD including accounts assignment for customer billing, goods issue/receipt, and
+
+credit management.
+
+It Consultant, 05/1994 to 1997 Ernst And Young, LLC - City, STATE
+- Worked on Global SAP rollouts for various clients including The Monsanto Corporation and The NutraSweet Company.
+- Worked as Accounts Receivable team lead in full life-cycle SAP global implementation.
+- Developed long-term and short-term design and construction stage workplans, staffing requirements, configuration requirements and deliverable documents for the Accounts Receivable team.
+- Coordinated implementation activities for members at three sites
+
+EDUCATION
+---------
+
+Bachelor of Business Administration: Accounting, 1994 Hampton University - Hampton, Virginia
+
+- Emphasis in Accounting
+
+- Student Body Treasurer
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

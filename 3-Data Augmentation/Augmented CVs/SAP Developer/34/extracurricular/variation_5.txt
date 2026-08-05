@@ -1,0 +1,234 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+Career Overview
+
+Mr. Claire is a Consultant in the one of the large Oil & Gas Corporation in the USA. He has 20 years’ experience working with
+Commercial and Public Sector clients. His experience focuses on SAP Plant Maintenance/Customer Services/MRO (Maintenance
+Repair & Overhaul), Linear Asset management in Utilities/Oil & Gas as well as configuration/Testing and functionality (Pipeline,
+Electric distribution line, Road Operation). In addition to his functional expertise, Mr. Claire also has deep understand of SAP
+technology such as Netweaver Technology development, including ABAP programming RICEFW (Dialog Programming, EDI/IDOC
+configuration, BAPI Interface, Customer exits, Reporting, HR Info type, Work flow), SAP Enterprise Portals, Internet Transaction
+Server (ITS). Mr. Claire has been working with SAP system since SAP release R/2. Mr. Claire has experience in all phases of SAP
+implementations and is certified in the ASAP project management methodology.
+
+Qualifications
+- SAP S/4 HANA Business suite simple finance/logistic
+- SAP Enterprise Asset Management / Plant Maintenance
+
+- SAP Material Management
+- SAP ABAP programming (RICEFW)
+
+TECHNICAL SKILLS
+----------------
+
+SAP EAM/PM/ETM/MRO Advance 20 Current SAP ABAP Programming Advance 6 Current MS Office Advance 20 Current
+Accomplishments
+
+SAP ERP Implementation: Oryx Oilfield support, Dominion power, Chesapeake Energy, Hess corporation, Cameron Cooper, Coca-
+Cola fleet maintenance, Freeport McMoran Gold & copper Mining, Amoco-Mitsui PTA Chemical Plant (Purified terephthalic acid), Honeywell, Henkel Corp.
+
+WORK EXPERIENCE
+---------------
+
+SAP ETM/PM Consultant, 01/2016 to Current
+
+Deloitte - Concord, NH
+
+SAP S/4 HANA implementation for ORIX Oilfield Support in Grapevine, TX.
+
+Integration of SAP ETM Equipment Tool Management.
+
+Setup/configuration for Fleet Equipment, maintenance process (Notification, Work Order, Maintenance Planning/Preventive
+Maintenance) as well as PM Master data conversion (Equipment/Equipment BOM, Task list, Classification, Maintenance Plan.
+
+SAP PM Consultant, 01/2015 to 01/2016 Carlisle Companies Incorporated - Annapolis Junction, MD
+- Integration of SAP Enterprise Asset Management (SAP PM) to GIS GE-Smallworld. Mr. Claire is a EAM lead to designed interface for SAP PM to be connected to GIS software (Smallworld) this including: Gas Leak Survey Management, Pipeline and Transmission line GIS coordinate.
+- SAP EAM Implementation of Regulator Inspection Management of Gas distribution. Mr. Claire is involved in design and configure of SAP PM to be replaced a legacy regulator inspection software, this including: Master data conversion (Functional Location for Station, Equipment for Regulators and Fire gate valves), maintenance processes: scheduling maintenance,
+
+maintenance notification and work order, catalog profile and GIS integration.
+
+SAP PM Consultant, 07/2014 to 01/2015 Carlisle Companies Incorporated - Greenville, IL
+
+- SAP Linear Asset (LAM) design and configuration for Pipelines, Operation Roads and Utility distribution system. Maintenance Master Data conversion: Functional location, Equipment, Bill of material, PM assembly, task list, Work clearance management, EH&S.
+
+- Design and Configured of SAP Enterprise Asset Management/Plant Maintenance Operation including Order processing (Notification & Work order management), Preventive maintenance (Time based, Condition based), Capital work order and Refurbishment.
+
+- Business Blue print workshop & documentation, Functional Design Document, Functional Specification development.
+
+- EAM Master Data conversion mapping, LSMW development.
+
+SAP Senior Consultant, 04/2013 to 07/2014 Agreeya Solutions - Sunnyvale, CA
+- Design, configuring and production support of SAP Plant Maintenance including maintenance technical objects (Equipment, Functional location, BOM, Assembly, Work centers, task list), maintenance processes (notification/work order/refurbishment), Preventive maintenance, master data loading/extraction, work order settlement.
+- Involved in the Hess project One for Process improvement of SAP as well as production support.
+- Worked as Hess SAP PM advisor to maintenance group to globally support all Hess sites (worldwide).
+
+SAP PM Senior Consultant, 09/2012 to 04/2013
+
+Agreeya Solutions - Temple Terrace, FL
+
+Mr. Claire’s role in this project engagement is design and configuring of SAP Plant Maintenance including maintenance technical
+objects (Equipment, Functional location, BOM, Assembly, Work centers, task list), maintenance processes (notification/work order),
+enhancements for all Business Unit (Refinery, Pipeline, Marine, Terminal, and Speedway) within Marathon Petroleum. He has been
+involved in project activity such as workshop, master data gathering, functional specification building, test scripts building and end-
+user training. The project is centrally held in Findlay, OH.
+
+SAP PM Consultant, 2012 to 09/2012
+
+Cameron - City, STATE
+
+Mr. Claire’s role in this project engagement is configuring of SAP Plant Maintenance and Customer Service including master data
+load using LSMW/Winshuttle (equipment, functional location, spare parts, long text, and production order). He has been involved in
+project activity such as blue print workshop, master data gathering and end-user training. The SAP projects go-live was first week of
+August 2012. In addition to that role, Mr. Claire also involved in supporting Product Lifecycle Management area for Cameron, this
+support including: Document Management, Product innovation/ Enhancement as well as Design and engineering. Cameron (http://
+www.c-a-m.com) is a leading provider of flow equipment products, Oil rigs, systems and services to worldwide oil, gas and process
+industries. Leveraging its global manufacturing, engineering and sales and service network, Cameron works with drilling
+contractors, oil & gas producers, pipeline operators, refiners and other process owners to control, direct, adjust, process, measure and
+
+compress pressures and flows.
+
+SAP PM Consultant, 03/2011 to 10/2011
+
+Coca-Cola Company - City, STATE
+
+Mr. Claire’s role in this project engagement is configuring of SAP EAM Fleet Maintenance including: PM Organization: Plant,
+Maintenance Plant, Technical objects: Functional location, Equipment, Fleet Objects, Serial number, VMRS Vehicle Maintenance
+Repair System, Tires management, Task lists, work centers, Bill of Material, Warranty master, Technician user interface, Spare-parts
+check-in. Warranty management. Coca-cola enterprise has more than 50,000.00 fleet vehicles to support their operation/delivery of
+their finish product (beverages/soft drinks) throughout North America. Mr. Claire was architect and configuration of SAP Enterprise
+Asset Management EAM/SAP Plant maintenance that is specifically configured for Fleet. The project was went live successfully on
+October 2011. The SAP system was run on SAP ECC6.0 EHP 5.0
+
+SAP PM Consultant, 04/2010 to 02/2011
+
+Freeport McMoran Gold & Copper - City, STATE
+
+Mr. Claire’s role in this project engagement is configuring of SAP Plant Maintenance including: PM Organization: Plant, Maintenance
+Plant, Technical objects: Functional location, Equipment, Fleet management, Serial number, Catalog, Task lists, work centers, Bill of
+Material, Warranty master, Objects number ranges. Maintenance process: Notification, Work order, Preventive Maintenance strategy,
+Maintenance Plan, Maintenance Report, Job card: Cost, Breakdown, And Activity. Data Conversions using LSMW: Functional
+location, Equipment, task list, BOM, Work center, work order, Documents, etc. The SAP Application is running on ECC6.0 with
+EHP4. Freeport is international Mining Corporation that has multiple locations in North America, South America, Europe and Asia
+(Indonesia). His tasks including design and produce functional design specification document for all SAP PM Configuration items in
+SAP Solution Manager, design conversion specification document, integration test with other business process, manage defects and
+
+end user training.
+
+SAP PM Consultant, 09/2009 to 03/2010
+
+Henkel Corporation - City, STATE
+
+Mr. Claire’s role in this project engagement is configuring data transfer for SAP Plant Maintenance including: Functional Location,
+Equipment, Work center, Task List, Bill of Material, Document Management, Work Order, Maintenance Planning as well as PM
+
+Master data conversion.
+
+SAP Technical Lead, 02/2009 to 05/2009
+
+State Of South Carolina - City, STATE
+
+Working in an advisory capacity with the Bearingpoint at Hattiesburg GDC team on the client’s SAP HCM (Human Capital
+Management) module implementation, assisting development staff in review and implementation of SAP functional specifications;
+working on set up of Adobe server components and supporting development process conformance for the team. The scope of HCM
+area includes: Personal Administration, Payroll, Organization Management and ESS. Reviewing functional design specification and
+
+provides recommendation and solutions to be implemented in technical design document, code review and unit testing.
+
+SAP Technical Developer Lead, 2009 to 02/2009
+
+Howard County - City, STATE
+
+Working in an advisory and developer capacity with the Hattiesburg GDC team on the client’s SAP ABI (Accelerated Business
+Integration) for local government implementation. SAP ABI (Accelerated Business Integration) is solution package for state and local
+government developed and design by BearingPoint, ABI is base on SAP ECC and SAP SRM (Supplier Relation Management)
+applications. Delivered SAP development objects such as Budget Interface, Purchase Order and Contract Conversions, General
+
+Ledger Balance conversions and Purchase order and Contract Adobe form.
+
+SAP Development Lead, 2008 to 2009
+
+State Of California - City, STATE
+
+Managing the SAP development team and the development for the client’s SAP HCM (Human Capital Management)
+implementation. The SAP Application is running on ECC6.0. ABAP development of custom RICE (Reporting, Interface, Conversion,
+and Enhancement) objects, team assistance in creating technical specifications, unit testing and peer reviews and transport
+management. The HCM areas that Mr. Claire assigned to are Personal Administration (PA), Payroll, Organization Management and
+ESS. The development objects that he supported and developed were: Inbound/Outbound interface to legacy system, ALV reporting
+with logical database PMP, data conversion to SAP HCM, Enhancement on standard HCM application and developed ABAP proxies
+on PI/XI system.
+
+SAP Development Lead, 02/2008 to 05/2008
+
+NY-NJ Port Authority - City, STATE
+
+Managing the development of SAP Flexible Real Estate of (NY-NJ-PA) Port Authority and Workflow development business adds-in
+(BADI for SAP Flexible Real Estate. SAP REFX is base on SAP FICO, FM, SD and MM modules and the SAP Application are running
+on ECC6.0 version.ABAP Development of Custom RICE (Reporting, Interface, Conversion, and Enhancement) developments,
+creating technical specification, unit testing, manage transport requests and ABAP codes review. There are more than 20
+development objects that he managed and developed. The project was delivered on time to the client.
+
+SAP Functional MRO/Technical Lead, 05/2007 to 01/2008
+
+Honeywell - City, STATE
+
+Mr. Claire’s role in this project engagement was configuring and managing the development of custom MRO application for
+Honeywell Aerospace including workflow development within MRO application. The SAP Application is running on ECC6.0
+version.
+
+The scope of worked that Mr. Claire involved in this project are:
+
+- Configuring and managing the development of custom MRO application for Honeywell Aerospace including workflow development within MRO application.
+
+- The SAP Application is running on ECC6.0 version. SAP MRO package is industry solution for Aerospace, it based on SAP PM, MM, WM, OM, SD, FICO and PS modules.
+
+- The custom MRO application that was developed is specific application that running by aerospace industry.
+
+- The custom MRO application package divided by the MRO business process such as Receiving Workbench (RWB): integrates and simplifies the multiple complex transactions required to receive and prepare units for the MRO process. It combines 13 transactions into one to streamline the dock-to-induction process. This helps improve process efficiency and accuracy.
+
+- Inspector's Workbench (IWB): automates the creation of the complex SAP order structure and significantly streamlines the induction, inspection and disposition steps for each end item, component or subcomponent to be repaired. The system goes through several maintenance and preparation steps in an integrated and standardized manner. In addition, it serves asa complete tool for maintenance execution, including obtaining parts and determining the status of the repair, staging and final assembly.
+
+Completion Workbench (CWB): This process directly addresses potential quality and documentation issues that plague
+
+companies as they close out their MRO work. The component solution combines nine SAP transactions into one customized
+screen, providing a comprehensive view of all remaining items for work events. Completion Workbench speeds the time from
+final inspection to shipment by combining closeout transactions and verifying data accuracy.The development of the whole
+process is done and delivers in 7 months.
+
+- All applications was developed using latest SAP NetWeaver ABAP technology. MRO configuration such as configuring functional location, Equipment, work centers, maintenance order and confirmation process. Beside PM configuration, He also managing and developing of the ABAP Enhancements, design of the Smart Form for variety of applications, team assistance for creating functional and technical specification, Unit testing, manages transport requests as well as code review.
+
+SAP Developer, 08/2006 to 08/2006
+
+Jefferson County - City, STATE
+
+Developing some custom ABAP reports/programs for Jefferson County SAP Project. The ABAP report program is base on ALV
+programming for procurement order process, and an enhancement for budgeting transactions.
+
+The program enhancement was implementing using a new SAP enhancement framework technology on SAP ECC5.0. Creation of
+technical specification, ABAP development, unit testing and ABAP code review.
+
+SAP Composite Application Framework development (CAF) lead, 03/2006 to 08/2006
+
+Bearingpoint - City, STATE
+
+Assisting the BE CAF team in developing of SAP Industry Solution for SAP Project approval CAF. The development was using SAP
+NetWeaver development studio that is connected to SAP ECC6 Project System as the beck-end system. The development is base on
+Java 2 EE on SAP NWDI (NetWeaver Development Infrastructure) system. The front end of this application is SAP Portal.
+
+SAP Developer, 07/2004 to 08/2005
+
+US Department Of Interior - City, STATE
+
+Execute the SAP development for SAP ECC implementation for US Department of Interior. ALV Reporting, Interface to legacy
+system (Gelco and PRISM Purchasing), XI ABAP proxy, conversions for purchase order, Material master, enhancements for FICO
+(Charge card reallocation cost), MM (purchase order) and FM (Budget) and background job programs (BDC) for vendor master.
+
+Education and Training
+
+Bachelor of Arts: Electrical Engineering, 1994 Universitas Tirtayasa - Cilegon, West Java
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

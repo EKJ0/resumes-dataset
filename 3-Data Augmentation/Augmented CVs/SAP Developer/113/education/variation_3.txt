@@ -1,0 +1,224 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 ¢ resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+Highly-skilled software development professional bringing more than 9 years in software design, development, integration and testing.
+Advanced knowledge of SAP SD, GTS and Business Analyst roles.
+
+WORK EXPERIENCE
+---------------
+
+SAP GTS Consultant, 05/2013 to 2017 Accenture - Phoenix, AZ
+
+- Experienced in GTS Configuration, Export /Import Compliance, SPL/Embargo, classification, Customs Export and import process.
+
+- Excellent skills to comprehend Functional Design Document especially for SAP GTS functionality.
+
+- Hands On experience with the integration with data service providers for denied party and classifications.
+
+- Good expertise on Microsoft GTS interfaces like Shield, Fortress, BizTalk, and Feed Store etc.
+
+- Working on GTS 10.1 upgrade impact analysis and solution approach.
+
+- Expertise in SAP Sales and Distribution module & understanding the business process and mapping the same in SAP SD.
+
+- Configuration of Account Groups and Partner Determination.
+
+- Expertise of Sales document types such as Order types, Delivery document types and Billing document types.
+
+- Expertise on various Pricing techniques, configuration and Determination Procedures.
+
+- Customization of Material Determination, Material Listing and Exclusion, Free goods Determination.
+
+- Configuration of Basic functions such as Pricing Procedure and Revenue Account Determination Involving in all types of new enhancements on quarterly release basis.
+
+- Worked on Sanctioned Party List Screening & Embargo Screening (Screening of Business Partners and Screen documents at every step of Order to Invoice process).
+
+- Provide functional Solution Development and Integration across the SDLC including requirements, functional specs, design, custom development, integration, testing, and deployment.
+
+- Worked on Export/Import Legal Control.
+
+- Worked on Product Classification (Assign correct tariff numbers to product master and automation of re-classification capabilities).
+
+- Involved in GTS 10.1 upgrade project, which include impact analysis of all Interfaces like Shield, Screen Manager, Biztalk, FeedStore etc.
+
+- Very good exposure on SAP FI Proposal and Payment screening.
+
+- Provided custom solution design for FI Payment screening in order to overcome the Performance issues.
+
+- Data migration of Customers, Vendors, Banks and Payees to GTS system.
+
+- Non-SAP master data and transactional data transfer configuration in GTS.
+
+- Different types of Legal regulations configuration for screening i.e.
+
+- one and two way screening platforms.
+
+- Worked with SAP Germany team for few screening enhancements.
+
+- Helping development team in creating in RICEF documents.
+
+- Resolving all SIT and UAT tickets during the new enhancement release phase.
+
+- Knowledge on Risk Management.
+
+- Good hands on Product Classification, HTS, GATT codes and FDA codes.
+
+- Worked on FI-GTS integration for ECC Payment screening.
+
+- Worked on FI-GTS integration for RMCA Payment screening.
+
+- Good exposure on MS tools like VSTF, SharePoint, MIM, CPM etc.
+
+- Case Management functional Sales and Payment transactions process.
+
+- Streamlined deployment process by developing continuous integration tools.
+
+- Strengthened developmental methodologies by introducing a code quality document.
+
+- Wrote and implemented scripts to enhance user experience and integrated scripts with the CMS.
+
+- Evaluated multiple software solutions during early software architecture plotting and system migration planning stage.
+
+SAP SD & GTS Consultant, 03/2012 to 05/2013 University Of California - Berkeley, CA
+Merck Sharp & Dohme Limited (MSD) is a US based leading pharmaceutical company that discovers, develops, manufactures and markets a
+wide range of innovative pharmaceutical products to improve human health.
+- Roles & Responsibilities
+- Stress-tested server code to validate code changes.
+- Reviewed and approved all engineering, product and project scope documents prior to delivery.
+- Built, tested and deployed scalable, highly available and modular software products.
+- Wrote and implemented scripts to enhance user experience and integrated scripts with the CMS.
+- Designed and developed transactional and analytical data structures.
+
+Business Analyst, 03/2011 to 08/2011 Carlisle Interconnect Technologies - Elk Grove Village, IL
+- Working as a bridge between Mobile Apps development team and client to understand the clear requirement and develop the applications accordingly.
+- Work including Develop reports and slide sets.
+- Ability to plan, arrange and control meetings, workshops and relations with client/user staff during system investigations and throughout subsequent development work.
+- Regular interaction with Mobile Apps development team and client to resolve any development issues/clarifications to deliver what exactly client need.
+- Ability to gather requirements and provide quality documentation of detailed user requirements to Development for the design and development of Mobile applications.
+- Ability to create and deliver elegant visual user interfaces utilizing user-centered design principles to development teams.
+- Ability to design wire frames, graphics, screen mock-ups and participate in usability evaluations.
+- Business Problem identification & problem solution skill.
+- Understanding of DFD & project life cycle.
+
+Business Development Manager, 02/2010 to 03/2011 Carlisle Interconnect Technologies - Sacramento, CA
+
+- Meetings with Business owners and gathering the requirements.
+
+- Delivery of proposals based on the client requirement.
+
+- Good exposure in dealing with clients.
+
+- Involved in Project Management related activities like .MPP updates etc.
+
+- Provided user training for end users.
+
+- Act as the liaison between the business users and the IT implementation core team and Conducting Regular meetings with the Team and motivating them.
+
+- Designing Systems using Use cases, Data Flow Diagrams, As Is & to Be Process Analysis, Gap Analysis, Solution Designing, Preparing Functional Spec Docs, and Key End User Training.
+
+- Conducted Joint Application Development (JAD) Sessions for Development Team and helped the technical team to understand the functionality of every module.
+
+- Closely associate with onsite project team to report the project status.
+
+- Develop relationship with client personnel.
+
+- Ensure issues are identified, tracked, reported on and resolved in a timely manner.
+
+- Continually seeks opportunities to increase customer satisfaction.
+
+- Review of project activities on day to day basis.
+- Getting project related clarifications from clients.
+
+- Giving assistance to the Project Manager on Project planning and Resource allocation.
+
+- Coordinating with all departments and Keep informed of project status to the Manager.
+
+- High energy, self-motivation and integrity.
+
+- Having good experience in handling database and supporting sales team for cold calling and Email campaign.
+
+Business Development Manager, 05/2008 to 08/2009 University Of California - - Santa Cruz, CA
+
+- Extensively participated in the Business requirement and Functional specification review sessions.
+
+- Participated in client business meeting and technical meeting to capture the requirements.
+
+- Created screen mockups for the system Graphical user interface (GUI).
+
+- Created the Business Process Flow diagram and detailed Activity Diagram to understand and gathering accurate requirements in Enterprise Architect.
+
+- Used questionnaire, surveys, JAD sessions, Brainstorming sessions as a part of requirement elicitation techniques.
+
+- Align IT with business strategies through Agile Methodologies that leverage business and technical architectures, information workflow, use case analysis, and risk assessment to verify fitness-for-
+
+- Performed Gap Analysis to identify the deficiencies of the current system and to identify the requirements for the change in the proposed system.
+
+. Participate as SME's in different area and product lines.
+
+- Actively involved in Requirement Gathering, Creating Use Cases and other project related documents.
+
+- Coordinate with QA team in Testing; also help them to create Test Case, Test Plan, Test Script and UAT.
+
+- Resolve complex requirements.
+
+- Mapping, Managing and adding new requirements in Enterprise Architect.
+
+- Involving in pre-sales activities as well as interacting with the clients in gathering their requirement and then preparing FRS & SRS documents as per the clear requirement to suite all expectations of clients.
+
+- Business analyst duties, including meeting with system users, and end users to gather and analyze business functional requirements and understanding "pain points” for enhancements to existing and design for new systems.
+
+- Conducting requirements gathering sessions and provided functional documents to the Development Team for further clarifications.
+
+- SDLC involvement to provide the qualitative solutions to our clients as per the requirement analysis.
+
+- Decision making while dealing and also preparing the budget and milestone schedules according to the project specification.
+
+- Testing the applications in order to meet stakeholders expectations.
+
+- Proficiency with Microsoft Office Suite including MS Word, Visio and Excel.
+
+Business Analyst, 09/2007 to 04/2008 Oregon State Credit Union - Albany, OR
+- Responsibilities included budgets, proposals, promotion, and working with Project Management for delivering the projects on time and within the allocated budget.
+- Involving in bidding through the Elance and also interacting with the clients to provide web solutions for their requirements.
+- Collaborate the planning, design, and deployment of applications with Project Managers and stake holders.
+- Involvement in all modes of Business requirement communications.
+- Demonstrated standard techniques like interviewing, use case modeling, gap-fit analysis, process definition, requirements management, and Pfioritization for gathering requirement.
+- Experience in documenting use cases and creating requirement artifacts like FRS & SRS.
+- Demonstrate creativity in problem solving and new approaches.
+- Responsible for translating high-level business requirements into detailed functional specifications.
+- Responsible for timely delivery assigned modules.
+- Used strong communication, negotiation, and presentation skills at the executive level.
+- Strong Communication & Facilitation skills.
+- Focus was creating the business development methodology, and solution development to sell and implement Full IT solutions.
+- Updating work status to the clients on daily basis.
+
+Financial Services Consultant, 10/2006 to 2007 ICICI Prudential Life Insurance FSC - City, STATE
+- Involving in demonstrating the Company services and promoting financial services.
+- Scheduling the appointment with the client and meeting them personally to explain about the financial services.
+- Regular follow ups with the customers and understand their requirements.
+- Reaching the company targets with better performance as well as meeting the customer requirements.
+- Preparing Quotation based on client's requirements.
+- Maintaining good relation with clients for ongoing business.
+
+- Page
+
+SKILLS
+------
+SAP Functional Consultant in Sales and Distribution and GTS (Global Business Analyst for Web and Mobile applications.
+Trade Services) ¢ E-commerce background
+- Advanced problem solving skills
+
+EDUCATION
+---------
+
+MBA: Marketing and Finance, 2006 Arizona State University - Hyderabad, India
+I completed Master of Business Administration from Osmania University in 2006 where my Major was Marketing and Finance was minor.
+
+Bachelor of Science: Computer Science , 2004 Osmania University - Hyderabad, India
+Ihave completed my Bachelor's in Computer Science from Osmania University in 2004.
+- Coursework in Web Design and Development
+- Computational Science and Engineering coursework
+- Software Process Improvement webinar

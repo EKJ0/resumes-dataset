@@ -1,0 +1,288 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+ACCOMPLISHMENTS
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION AND TRAINING
+
+SKILLS
+------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+| am a SAP developer/analysis that has worked in the industry of retail, gas and light as well as
+manufacturing. | have exposure to both the FI/CO and BI/BW environments. | have learn technics that | know
+to work but still very adaptable to learning new technology. My overall efforts are to complete a successful
+project that is appreciated by the end users and gives exposure to new and innovative technology
+
+- SAP FI/CO configuration e¢ SAP BI Developer 7.0 .ETL of data from the ECC
+
+- blue priting to BI/BW.Data Modeling and performance
+
+- SAP FI/CO IMG Customizations GL, AR, AP tuning.
+
+- Vendor/Customer master ¢ Team Leader and Project Management,
+
+- Clearing invoices Functional consultant.
+
+- Financial statements and P&L ¢ Creating Documents with BEx reporting, Business Objects Web Intelligence XI, Xcelsius dashboards
+
+- SAP System Analysis with more than 7 years of professional experience, which includes both SAP FI/CO and BI/BW
+
+- Involved in two life cycle implementations involving design and development of BW objects. transformations, and loading.
+
+- Business Content configuration, SAP ASAP methodologies.
+
+- Have good functional knowledge of SAP R/3 application areas such as COPA, Fl AR, AP. and GL.
+
+- SAP/BI 7.0 data modeling, Performance tuning, PSA deletions, DSO and info cube data modeling, extractions, transformation and loading of data (ETL).
+
+- Configure the Fl/CO module with IMG customizations blue printing and organizational structure.
+
+- Configured Company Codes, Chart of Accounts, Fiscal Year Variants, and Credit Control Area.
+
+- Define Master Records for customers and vendors G/L, A/R and A/P.
+
+- Configure the payment program for automatic payment to vendor.
+
+- Establish chart of account LSMW, creating invoices and posting parking and reversing documents to the general ledger.
+
+- Generating customize financial reports after full life cycle implementation.
+
+SAP Fl CONSULTANT 01/2016 to 2017 Canndescent
+
+- Required to assist with the implementation of legacy to SAP FICO upgrade.
+
+- Required to configured AR/AP and GL accounts test by posting parking and reversing documents to the general ledger.
+
+- Setup reconciliation accounts as well as account assignment model.
+
+- Setup customer master records as well as vendor master records.
+
+- Posting customer and vendor invoices.
+
+- Established cash discount accounts and payment tolerances.
+
+- Set up the configuration of Automatic Payment.
+
+SAO FICO INSTRUCTOR 11/2015 to 01/2016 Agreeya Solutions
+
+- Published book on the Step-by-Step Configuration process of the Fl/CO module with video tutorials.
+- Established blue printing examples.
+
+- Testing of chart of account, GL Posting, AR/AP sub ledgers.
+
+- Posting parking and reversing as well as establishing customer discounts.
+
+- Setup Recurring payments and account assignment models.
+
+- Created customer and vendor master records, Define tolerance groups and number ranges.
+
+- Set up house banks and configured financial statement versions.
+
+SAO SYSTEM ANALYSIS 03/2013 to 11/2015 Wipro Technologies
+
+- Assisted with the implementation of the Fl and CO module.
+
+- Involved with development, user acceptance and production installs.
+- Established the chart of accounts and made sure account could write to the GL.
+- Tested invoices and established user discounts.
+
+- Created tolerance groups for vendors and employees.
+
+- Created vendor and customer master data.
+
+- Conducted posting parking and reversing document to the GL.
+
+- Established recurring entries.
+
+- Account assignment models.
+
+- Posting invoices and clearing invoices.
+
+- Running reports.
+
+- Configured Financial statement versions and execution of version.
+
+SAO TRAINER 03/201 2 to 02/2013 SAP World Online
+
+- Published three books on SAP FICO step by step configurations, Data modeling and Data extractors.
+
+- Created social networking site for SAP industry professionals.
+
+- Promoting book publication and networking site.
+
+- Provided online training to users looking to learn SAP Business Intelligence.
+
+- Mentor new users on both modules FICO and BI/BW.
+
+- Train users on data modeling in Net weaver 7.0.
+
+- Provided training in ECC 6.0 (Blue printing and configuration of company code, chart of accounts, posting, parking and reversing documents to the GL as well as ad hoc reporting and financial statements.
+
+SAO SYSTEM ANALYSIS 01/2011 to 02/2012 CABELAS CORP
+
+- Performed data modeling, installation of business content.
+
+- Data extractions and process chains responsible for monitoring data loads, repairing broken process chains and making modification to info cubes.
+
+- Require to maintain BEx reports and user enhancements.
+
+- Manage PSA data deletion for space recovery.
+
+- Adjust Hierarchy structure changes and ensure the changes are reflected in BW reports.
+
+- Conduct production install request and ensure transports request is tested on development and QA before moved into production.
+
+- Replicate data and make sure the reports are generating the current data for daily reports.
+
+- Monitor (Sales, Purchasing, inventory, and financial cubes) for functionality.
+
+- Perform production install requests.
+
+SYOTEM ANALYSIS 01/2010 to 09/2011 Home Depot
+
+- Moved data from a legacy system into BI info cubes.
+
+- Participated in requirements gathering to document the business process and GAP analysis.
+
+- 1-30-2010 /4 Week contract) Focused on consolidating 100 reports into 50 user friendly reports using Web Intelligence XI.
+
+- 10-2009 /11-2009) Obtained formal training on Web Intelligence and Xcelsius reporting tools.
+
+SAO APPLICATIONS CONSULTANT 04/2008 to 09/2009 HORIZON SOFTWARE
+
+- Environment: SAP BI 7.0, SAP R/3, Fl CO, CO-PA, Business Objects XI, Xcelsius dashboards.
+
+- Involved in design, development, and implementation of SAP BI/BW applications.
+
+- Experience in leading technical/functional team for technical realization of BI solution.
+
+- 2 full life cycle implementation, data extractions for Sales and Distribution, created reports for sales analysis and product evaluations.
+
+- BI 7.0 Configuration includes:.
+
+- Requirements Gathering, GAP Analysis.
+
+- Expertise in extractions from SD using LO Cockpit, CO-PA, Fl AR, and AP.
+
+- Data loading from the flat files and non SAP data sources.
+
+- Configuring Dimension table and Star Schema for SD, Fl, and CO data extractions and info cubes.
+
+- Created document using Business objects XI and Xcelsius dashboards.
+
+- FICO- Configuration includes: GL accounts, Chart of accounts. Account Assignment models, AP and AR subledgers, GL reports and financial statements.
+
+- Groups, Enterprise Structure - Credit Control Area and Business.
+
+- Account Groups, Document types, Customer and Document.
+
+- Number ranges, Terms of payment, Clearing functions - Posting Keys, Codes, Automatic clearing. Account assignment, and Tolerance groups, Bank master data, Closing & reporting, Interest calculation, Statements User Support.
+
+- Setup the Validations and Substitutions for G/L postings.
+
+- Configure the payment program for automatic payment to vendors.
+
+- Configure the terms of payment and dunning program for A/R.
+
+- Configure the interest calculation on unpaid invoices.
+
+- Configure the Employee Tolerance groups for clearing against a customer account.
+
+- Maintain Tax Codes for US Jurisdictions.
+
+- Customize accounting transactions for G/L, A/P. and A/R such as Account.
+
+- Set up the integration of MM and SD modules with G/L.
+
+- Performed User acceptance testing.
+
+SAO APPLICATIONS CONSULTANT 2006 to 03/2008 AT&T
+
+- Environment: SAP BI 7.0, BEx Analyzer, SAP R/3..
+
+- Gathered requirements from functional team.
+
+- Completed full life cycle implementation, focusing on extraction, transformation and Loading of data (ETL) from Flat files, Lotus notes and Open Text.
+
+e« Conducted extractions from ECC and BI contents.
+
+- Extraction from Sales and Distributions for product analysis.
+
+- Experience in creating Views, Data Sources in SAP R/3.
+
+- Experience in creating Info Package to create Process chains and Scheduling of data loading with Full/ Initialization/Delta upload method.
+
+- Designed queries in BEx Query Designer and created workbooks in the BEx Analyzer using conditions, structures, calculated and restricted key figures, character variables, formula variables and text variables.
+
+- Experience in Reporting Agent & Web reporting/publishing using Web Application Designer.
+
+- Expertise in Data Modeling using Entity Relationship (ER), Multi Dimensional/Star Schema and Extended Star Schema models.
+
+- Strong knowledge of SAP BW architecture and SAP BW data model Extraction from CO-PA.
+
+SAO DEVELOPER 2003 to 10/2005 HOME DEPOT
+
+- SAP BW 3.0, BEx Analyzer, SAP R/3, Fl CO.
+
+- Requirements analysis and data warehousing.
+
+- Lead a team of technical/functional consultants for implementing the SAP BI solution and migration.
+
+- Gathered requirements from functional users in Sales and Purchasing for cross functional analysis.
+
+- Defined work packages and technical specifications for design, development, testing and roll-out.
+
+- Monitored the development of data model to satisfy the various functional requirements by implementing queries and cubes using business content.
+
+- The main cubes developed are Customer (OSD_C01), Sales Overview (OSD_C03), Delivery Service (OSD_C04), Purchasing Data (OPUR_C01) and Vendor Evaluation (OPUR_C02).
+
+- Worked with functional consultant for mapping the source data (R3/non R3) to target Data Sources in BI.
+
+- Conducted Inventory management to determine product on hands, and replenishment needs.
+
+- Created overview of different delta and data staging source systems.
+
+- Establish process chain management.
+
+PROJECT MANAGEMENTI/NETWORK ENGINEER 09/2000 to 09/2003 ARGENBRIGHT SECURITY
+
+- Responsible for product migrations and system implementation.
+
+- Conducting a system upgrade to Windows 2000, CSS 4.0, and Lawson applications.
+
+- Published Software packages to update at user logon Generated reports on site software and hardware to determine upgrade possibility.
+
+- Determined proper procedure for system upgrade Connected wireless networks and routers, Set priorities, roles and responsibility and implementation parameters.
+
+- Communicated to information technology staff to develop systems parameters that would meet client deliverables.
+
+- Implemented project tracking to determine timelines and scope.
+
+- Scheduled meeting to outline goals and progress levels.
+
+- Determined Hardware Setup, Configuration, and Installation.
+
+- Constructed a disaster recovery plan for user data.
+
+BS computer sciences) *Radium Soft Technology (Formal SAP (BI and FICO) training) University of North Florida
+
+accounting, ad, product analysis, AP. A/P. AR, book, BI, Business Intelligence, BI 7.0, Business Objects,
+business process, Closing, com, Hardware, consultant, content, Credit, CSS 4.0. client, Data Modeling, data
+warehousing, Delivery, disaster recovery, ETL, Financial, financial statements, full life cycle, Functional,
+general ledger, GL, http, information technology, Inventory management, inventory, Lawson, Team Leader,
+Lotus notes, Mentor, Windows 2000, migration, Enterprise, networking, networks, Developer 7.0, progress,
+Project Management, publication, Purchasing, QA, repairing, reporting, Requirements analysis, Requirements
+Gathering, routers, Sales, sales analysis, SAP BW, SAP. SAP BW 3.0, SAP R/3, SD, Scheduling, Tax, User
+Support, upgrade, video, Web Intelligence

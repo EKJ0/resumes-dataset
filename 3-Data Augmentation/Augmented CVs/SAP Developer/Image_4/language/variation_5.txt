@@ -1,0 +1,80 @@
+Robert Smith
+
+Jr. SAP Consultant
+
+PERSONAL STATEMENT
+
+Currently employed with Cognizant Technology Solutions as a SAP Consultant . Well experienced in different Cross Application technique. Have
+experience and knowledge on handing SAP Master Data Objects.
+
+WORK EXPERIENCE
+--------------- Jr. SAP Consultant
+
+ABC Corporation -
+
+August 1997 - December 1997
+
+Responsibilities:
+
+Created a Batch Input program to load GL-Account Posting Header data using transaction F-02 Developed Classical BDC programm.
+
+Report that lists all customers, the materials ordered and the net price for a given customer by sales area Report that lists.
+
+Developed a report of all the Fast roving iterns listing material number, quantity, plant, and delivery date,
+
+Created a new Order Confirmation Layout set and print programm.
+Created a print program to generate transfer orders.
+
+Inserting a company logo, company address, order number, sold to, ship to, product no, net price,
+
+Modified invoice print program to get the narne of the person who created the sales document Created sales order and purchase orders.
+Actively worked In master data, order types, contract types, basic function, pricing, availability check, route determination,
+
+SAP Consultant
+
+ABC Corporation -
+
+1994 - 1997
+
+Responsibilities:
+
+Client SEL, STIL, SWIL, SWECO Suzlon Energy Limited is Worlds Sth largest wind turbine manufacturer with operations in Australia, China,
+Europe, India & USA with International business headquarters in Denmark.
+
+Suzlon is having own ERP division for implernenting SAP R3 for in house project for own Group Cornpany & proving support to existing
+implemented cornpanies.
+
+Worked as a Projects tearn rember Salient feature of my work onthe project were as follows - | was responsible for Implementation & Post
+Implementation support for Suzlon group of companies.
+
+Involved in Customer Project Mapping.
+
+Configuration In Project structure, Std. Ternplates, CATS for hours booking & Claim - Authorization and role management.
+
+Online support to end users for day to day activities through service desk.
+
+End user training and training material developrnent,
+
+- This Eree Resume Template is the copyright of Quikresume. corn. Usage Guiielines
+
+CONTACT DETAILS
+1737 Marshwille Road, Alabarna
+
+(123)-456-7899
+info@qwikresume.com
+
+SKILLS
+------
+
+Worked On SD, Fl, EWM; Data Archiving SD, MM, 1S-O1L.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Basic English proficiency; primary language other than English.

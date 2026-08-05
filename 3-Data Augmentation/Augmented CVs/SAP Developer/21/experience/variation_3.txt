@@ -1,0 +1,268 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 100 Montgomery St. 10th Floor
+
+SKILLS
+------
+
+- Client communication
+
+- Business solutions
+
+- SAP enterprise system
+
+- Advanced SAP HCM knowledge
+- Solutions deployment
+
+EDUCATION
+---------
+
+Florida Institute of Technology- Melbourne
+Melbourne, FL + 12/2009
+
+Master of Science: computer information systems University of Mumbai
+Mumbai, India + 10/2001
+
+Masters in Management: Human Resources Management
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Manager with over 10+ years of successful experience in Managing, Leading and designing.
+Recognized consistently for performance excellence and contributions to success in Enterprise
+management space. Strengths in SAP, Human Resources and Finance business process backed by
+training in Management degree. Excellent communication skills and extensive experience working
+with clients and partners. Strong Experience in Utility and Airline industry
+
+WORK EXPERIENCE
+---------------
+
+Enel - SAP Solution Architect
+Bogota, NJ + 08/2019 - Current
+
+- Single point of contact for any design changes to Finance and HR systems
+
+- Responsible for $4 Roadmap for Finance and workday roadmap for HCM.
+
+- Guided and influenced existing partners on recommended upgrades and enhancements to integrated solutions of SAP and Workday
+
+- Worked with customers or prospective customers to develop integrated solutions and lead detailed architectural dialogues to facilitate delivery of comprehensive solution in Human Resources space using SAP
+
+- Presented roadmap and technology infrastructure to customers, demonstrating deep familiarity with APIs, platform infrastructure, security and integration capabilities.
+
+- Worked with business team on Cost Benefit analysis for solutions
+
+- Providing Technical Guidance on SAP Security, GRC and Solution Manager.
+
+- Mentoring SAP team
+
+- Architect for Workday integration project.
+
+- Architect for SAP ARIBA and CIG/Cloud Connector
+
+Deloitte & Touche L.L.P. - Manager SAP
+Arlington, VA + 11/2017 - 03/2019
+
+- Responsible for SAP S/4 HANA implementation and support team after go-live
+
+- Controlled costs and optimized spending via restructuring of budgets for labor, Hardware purchases and technology upgrades.
+
+- Communicated best practices among on-site and off shore personnel to align efforts and goals.
+
+- Maximized performance by monitoring daily activities and mentoring team of 2 fulltime and 8 contract associates.
+
+- Applied customer feedback to develop process improvements and support long-term business needs.
+
+- Maintained team efficiency by strategically delegating daily activities, monitoring output and rewarding positive contributions.
+
+- Cross-trained existing employees to maximize team agility and performance.
+
+- Achieved or exceeded financial goals on regular basis by controlling expenses and optimizing schedules.
+
+- Onboarded new employees, including training, mentoring and new hire documentation.
+
+Federal Mogul Motor Parts - SAP Analyst Lead
+City, STATE + 06/2017 - 11/2017
+
+- Collaborated closely with upper management to drive strategy through development and implementation of Cloud based CRM Sales module (C4C)
+
+- Oversaw installation of software programs and hardware systems to meet business requirements.
+
+- Lead offshore team on CRM related production support issues.
+
+- Worked on implementation of SAP C4C
+
+- Conversion from SAP CRM ON premise to C4C.
+
+- Integration with SAP Hybris (external facing) with SAP CRM on Premise Backend.
+
+- Designed and implemented SAP Hybris.
+
+City National Bank - SAP Lead
+City, STATE + 06/2013 - 05/2017
+
+- Leading SAP projects
+
+- Work on SAP audit activities
+
+- Working with Vice president to manage budget
+
+- Working with vendors on SOW’s.
+
+- Mentoring Junior resources
+
+- Managing Technical interface development.
+
+- Designed and implemented Security model for CRM users.
+
+- Conduct detailed analysis sessions with end users and business subject matter experts (SMEs).
+- Working on Leading efforts on implementing DNB360.
+
+- Managed/Lead end to end interface project.
+
+Southern California Edison - SAP Lead
+City, STATE + 07/2009 - 06/2013
+
+- Responsible for solution delivery of multiple SAP projects.
+
+- Responsible for SDLC process.
+
+- Provide SAP-HR design solutions for Benefits and payroll, including full life-cycle implementation.
+- Lead project to implement various parts of onboarding process including e-recruiting.
+
+- Served as the Lead Architect for all SAP related Developments.
+
+- Managed Rebate programs on technical capacity
+
+- Single point of contact for SAP design changes.
+
+- Assist on Resource planning and budgeting.
+
+- Monitor SLA’s, Progress on projects / Support work.
+
+- Prioritize enhancements/Change requests during development life cycle.
+
+Warner Bros. Entertainment Co - SAP ABAP Lead
+City, STATE + 08/2006 - 07/2009
+
+- Reporting to the Director MIS, responsible for providing expert knowledge for software development on customer projects and for live site support projects for Fl, SD and MM functions.
+
+- Leading Release Management area by coordinating with technical and functional teams getting transports validated.
+
+- Managed resources to support day to day activities on ABAP and Portal.
+
+- Maintained Validations and substitutions related enhancements.
+
+- Assisted in Configuring Special Purpose Ledgers.
+
+- Meet with process/functional team to determine their needs, gather and document requirements,.
+
+- Communicate with business partners throughout the development project to manage customer expectations, resolve issues and update project status to management.
+
+- Responsible for customization of Solution Manager.
+
+- Single point of contact for design changes in FI-CO area.
+
+- Performed hands on development on various critical objects in FI-CO and SD functions of SAP.
+
+- Performed lead role/activities in several in-house Upgrade projects.
+
+- Conducted workshops for HR transformation project.
+
+Fujitsu - SAP HCM Delivery Manager/ Sr.Consultant
+City, STATE + 02/2006 - 08/2006
+
+- Worked closely with the Functional and Technical tearm Leads to keep a check on Team progress and monitoring the deliverables as per the requirements.
+
+- Managed project budget.
+
+- Providing Project status reports and monthly plan vs.
+
+- Actual variance analysis.
+
+- Managed Payroll merge of two companies.
+
+- Hands on Payroll configuration.
+
+- Conducted weekly meeting with onsite team and offshore lead to keep a track on meeting the object deliverables and deadlines.
+
+- Ensured the quality of the deliverables by overseeing the team lead conduct periodic reviews on couple of objects.
+
+- Single point of contact for the for any status reporting, client escalations, scheduling different project activities, providing effort estimation and resource planning etc.
+
+- Created a proposal and later implemented an automated process for full conversion cycle, having checks implemented in every phase of conversion for further validation.
+
+- Handled development object allocation to team members, determining delivery schedules and keeping a track on object statuses in meeting quality and timely object deliverables.
+
+- Implemented end to end process including MQ Series middleware.
+
+- Managed ED! developments to ensure the HIPAA formats were maintained for benefits related interfaces.
+
+- Managed highly complex conversion cycles for Master data (Employee, Organization) from legacy systems to ECC 6.0.
+
+- Managed other Complicated HR related design as on of the client was acquiring another manufacturing firm and we were involved in bringing in the Payroll of the acquired company.
+
+- Handled conflict situations during merger/Acquisition.
+
+- Coordinated with other technical partners of client to jointly implement the project.
+
+Deloitte Consulting - Specialist / Lead SAP HCM
+City, STATE + 11/2001 - 01/2006
+
+- Traveled to client locations to implement SAP solutions, and offered post-installation support services.
+
+- Architected SAP solutions by prioritizing quality.
+
+- Applied widely-accepted SAP best practices to HCM implementation.
+
+- Worked as a Specialist handling team of onsite and offshore developers.
+
+- Single point of contact for the Client onsite.
+
+- Conducted daily calls with the client to gather requirement and discussing possible approaches towards attaining the solution.
+
+- Provided HR related solutions in Payroll, time Management and Benefits.
+
+- Workflows implemented involve the whole approval process in Engineering Change Management and further related approvals in Document Management System.
+
+- Configured system to handle ALE communication frorn HR to Various internal systems.
+
+- Worked as part of EDI team for a client during implementation.
+
+- Designed integration of customer payroll with ADP for multiple clients.
+
+- Developed Specs for Payroll related reports.
+
+Atos Origin - Client Procter And Gamble - SAP Payroll consultant
+City, STATE + 08/1996 - 10/2001
+
+- Handling team of onsite and offshore HCM consultants and developers.
+
+- Worked on implementation with Procter and Gamble and supported the client for 5 more years post go-live support.
+
+- Single point of contact for payroll and Benefits at the client site.
+
+- Conducted daily calls with the client to gather requirement and discussing possible approaches towards attaining the solution.
+
+- Provided HR related solutions in Payroll and Benefits.
+
+- Conducted Functional Workshops.
+
+- Hands on experience configuring postings in Fl from HR.
+
+- Hands on experience with Wage type configuration.
+
+- Hands on experience with payroll schema creation.
+
+- Assisted in creation of functional specs.
+
+- Designed Specs for forms using SAP Scripts.
+
+- Worked extensively on Internal and External Interface designs.
+
+- Participated in several in-house upgrade projects.

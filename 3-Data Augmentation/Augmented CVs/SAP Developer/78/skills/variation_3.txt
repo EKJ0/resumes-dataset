@@ -1,0 +1,171 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+15 years of SAP experience, including 8 months of SAP SuccessFactors, 7 years of SAP ECC 6.0 experience in 9 different project comprising
+of 4 full life implementations (2 - Project Lead and 2 - Lead SAP HCM Functional Lead). 7 years of Lead SAP Human Capital Management
+(HCM) Functional experience, consisting of facilitating international Employee Self Service (ESS), Manager Self Service (MSS) and End-user
+training. Varied experience on challenging SAP Implementations for clients in different industries such as Energy, Oil & Gas, Manufacturing,
+Technology, Drilling and various countries, such as Europe, Australia, Malaysia, Canada and Singapore.
+
+SKILL HIGHLIGHTS
+
+SAP Success Factor ADP Workforce SAP R/3 4.6, ECC 6.0, HR Implementation/SAP ECC 7.0 ADP Global View
+PeopleSoft - Oracle SAP (6.0) ESS, MSS, Implementation Project Management OrgPublisher KRONOS Access
+ACCOMPLISHMENTS
+
+- 4 full cycle implementation of SAP-HR/HCR module including business process analysis, conceptual design, blue printing, configuration, testing, production support.
+- Expertise in integration of various payroll sub-modules such as PA-OM, TM-PY, BN-PY etc.
+
+Excellent understanding of all aspects of the HR business process with experience in gathering and analyzing business requirements for
+conceptual design.
+
+Strong SAP HCM functional background with excellent communication and interpersonal skills, facilitate the communication of detailed
+technical information, provide technical assistance to customers, systems, and management.
+
+Successfully introduce process improvements and staff-development initiatives to drive corporate goal attainment.
+
+Manage SAP implementation training for a 4.6B enterprise value.
+Develop departmental handbooks which presented criteria and information on SAP Terminology, Enterprise Structure, OM, PA Actions
+
+and navigation.
+Employee of the Month 2007
+Employee of the year 2010
+
+CLIENTS
+
+Worley Parson
+
+Atwood Oceanics
+
+Air Liquide
+
+Infinite Technical Resources Hostess
+
+BP
+
+Metroworth Consulting
+
+WORK EXPERIENCE
+---------------
+
+Lead SAP HCM Functional Consultant, 10/2012 - Current
+
+Independent Consultant - City, STATE
+- Maintain corporate responsibility by staying up-to-date with laws that affect human resource training programs
+- Led training workshops for up to 75 employees on a weekly basis
+- Maintain Positions, Job descriptions in SuccessFactor
+
+- Process actions via SAP SuccessFactor, i.e. new-hires, terminations
+
+Coordinate SAP support packs testing
+
+Facilitate process improvements, process/data mapping, identifying and executing system enhancements according to SAP functionality
+best practices/processes
+
+Facilitate global training for ESS, MSS, and End-user training for maintenance and support of SAP
+
+Implement SAP HCM Modules integration of all the HR sub modules
+
+Collocate business requirements, facilitated Blue Printing, Configuration, Testing, Go Live, Production,Support phases
+
+Transform business requirements into functional specifications
+
+Document Business Process Procedures and End User Training Material
+
+- Imperative part of SAP Go-Live and Data Migration process for PA/OM
+
+SAP Table Maintenance, OM, Position Maintenance (Creation, Delimiting, Deletions)
+
+Work collaboratively with HR Business Partners, HR Operations, and the various HR Centers of Expertise to advice on MSS/ESS
+
+transactions
+- Maintain new Personnel Structure from the Administrative and Organizational Perspective
+- Maintain Payscale-related Structure, Payscale Group, Payscale Level
+
+Analyze each departments training needs and develop new training programs based on the analysis
+- HR Lead liaison between HR, CapGemini, St. Management, and Steering committee inquires and resolve escalated issues Provide specialize training sessions to help workers improve knowledge and skillet, for MSS, ESS, T&E, TM
+
+Present training information via role playing, simulations and team exercises
+
+Mentor team members to succeed and advance within the department and company
+
+SAP HCM Functional Team Lead, 01/2012 - 10/2012 Atwood Oceanics - City, STATE
+- Actively involve in leading data conversion strategy,configuration within SAP PA, Organizational Management modules, Unit testing. Integration testing, Cut-over, Go Live activities
+- Create, update Organizational Charts, SharePoint, HR dashboards for HR business partners/senior leadership
+- Communicate and execute detailed project task across global HR function (US, Australia and Malaysia) Coordinate HR stakeholder input from local and remote HR personnel Coordinate data cleansing activities for remote offices and execute data cleansing for Houston office
+- Leverage the basic functionality of OrgPublisher
+- Extract additional information for customized reports and visibility of data in OM
+- Assist in change management approach definition and manage execution (with training and communication)
+- Inputs, maintains, audits, extracts, manipulates, and analyzes confidential HR data from SAP Systems
+- Identify project risk factors and manage risk mitigation plans within HR Escalate project issues to Project Manager; escalate HCM issues
+
+Lead SAP HCM Solution Architect, 06/2011 - 01/2012 Accenture - City, STATE
+- Involved in setting strategic direction to establish near term goals for area of responsibility
+- Supervise a staff 10 employees (5 located in India and 5 located in US)
+- Support the programming, management and maintenance services required to implement and support new installations or maintain and improved existing SAP system for clients
+- Managed the SAP transports and Support pack testing
+- Responsible for planning, analyzing and defining software design strategies and solutions
+- Plan, define and support the delivery of future functional and technical capabilities for SAP and group of applications
+- Coach other team members to develop stronger functional and technical skills for the applications which they are aligned to support
+- Document HCM ESS MSS business requirements using interviews, document analysis, requirements workshops, surveys, business process descriptions, use case scenarios, task and work-flow analysis Collaborate with Project Mangers, other Architects, Developers and Testers to define the intended business and technical capabilities that the team needs to deliver as part of a project
+
+Lead SAP HCM Functional Consultant, 06/2010 - 06/2011 Independent Consultant - City, STATE
+- Skillfully prioritize all aspects of the payroll process.
+- As Project Manager performed project planning, estimation, budgeting and providing leadership to teams of various sizes including functional and technical resources in different local and international locations
+- Experience in Requirement Gathering, Business Process Analysis, Blue Printing, Configuration, Testing, Go Live and Production Support phases
+
+- Experience in documenting Business Process Procedures and End User Training Material
+
+Played an important role in Go-Live and Data Migration process for PAYOM
+- Inputs, maintains, audits, extracts, manipulates, and analyzes confidential HR data from SAP Systems
+
+Help map existing Master Data elements to SAP Master Data elements Document specifications for reports and data mapping
+Advocated, training/development of other HR OM,PA, T&E, BW specialists on the processes and skills needed for their roles)
+
+- Performs activities related to master data management
+- Analyze each departments training needs and developed new training programs based on the analysis
+- Manage training calendar for the entire fiscal year
+
+Create effective training course objectives, course content and materials
+
+HRIS Functional Lead, 08/2007 - 05/2010 Statoil ASA - City, STATE
+- Ensure SAP systems and automated processes are accurately and adequately meeting the needs of the HR Department, Shared Services and Payroll
+- Redesigned Enterprise, Personnel and Organizational structure globally to leverage SAP best practice and make the foundation for global ESS/MSS roll-out SAP ESS/MSS hands-on configuration & implementation experience (ECC 6.0) full life-cycle SAP (HR, Payroll & Time Management) global implementation project experience implementation planning, fit analysis, configuration, testing, roll-out and post-implementation support
+- Conduct data audits within HRIS system, research audit findings, and recommend and implement corrections required for data integrity
+- Develop and document processes, functions, and procedures involving the SAP HCM Collaborated with users in the organization to
+
+determine their report needs Implement data standards, system audits and corrective action processes to ensure data remains accurate
+
+HRIS Lead Analyst, 09/2001 - 08/2007 Reliant Energy - City, STATE
+- Successfully introduce process improvements and staff-development initiatives to drive corporate goal attainment.
+- Support HR Shared Services initiatives to meet established targets through continuous evaluation, quality assurance and focused improvement efforts
+- Administer all transactional duties relating to human resources/payroll activities troubleshoot and respond to queries from employees and Senior managers on various HR and payroll related issues Maintained SAP human resources system
+
+Provide data for compensation departments for surveys and budget reports to departmental managers and VPs Updated changes and
+employee information
+
+Assist employees with benefit, payroll and other related questions
+- Assist Senior Generalist in facilitating tactical implementation of HR Strategy including employee relations, payroll activities, compensation, recruitment, turnover/retention, benefits, performance and other activities
+
+Perform quality assurance checks
+
+Supervise a staff of 5-7 employees
+
+EDUCATION
+---------
+Graduate ERP Certification: Concentration in SAP. 2014
+
+Central Michigan University Global Campus - Mount Pleasant, MI
+
+BBA: Human Resource Management, 2009 American Intercontinental University - Hoffman Estates, IL
+
+Associate of Arts: Business, 2008 Houston Community College - Houston, TX
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

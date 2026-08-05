@@ -1,0 +1,43 @@
+ROBERT SMITH
+
+Sap Abap Developer Ill
+info@qwikresume.com | Linkedin Profile | Qwikresume.com
+
+Seeking an SAP ABAP Developer in Seattle, WA Must be local or willing to relocate at own expenses, 3-5 years SAP ABAP experience developing RICEFW objects for
+assigned modules using supporting technologies such as: BAPI, BADI, IDoc, BODS, AIF, and EM,
+
+Sap Abap Developer Ili
+ABC Corporation - AUGUST 2008 - MAY 2012
+
+Developed a Smart form for Excise, commercial invoice, order confirmation, Post shipment Document and .
+
+Developed BDC for Master and transaction data upload for SD, HR and MM Modules Developed LSMW to update and upload the
+transaction data for HR, SD .
+
+Worked on BADI to check the Number range for Billing Number.
+Debugged 2 application programs in support of PVHs production implementation.
+
+Delivered reports for batch management of 1 million+ materials in sap and legacy systems for materials conformity management.
+Enhanced sap business applications to incorporate client specific packaging and shipment attributes to optimize packing process.
+Collaborated with multicultural teams of up to SO members.
+Accomplishments understanding and implementing client requirements, testing, launch and post-launch support, interacting
+with clients and functional consultants, team coordination and documentation,
+
+Sap Abap Developer
+Delta Corporation - 2006 - 2008
+
+As a SAP technical developer, implemented SAP ERP ECC 6.0 full Life Cycle Implementation for company High Point facility.
+
+Developed numerous Forrns, Interfaces, Reports, Enhancements, Data Conversions for SAP OTC, SD, QM, WM, PP, PTS, MM modules with SAP
+ABAP programs.
+
+Developed Deivery Pick List form, Certificate of Analysis form (COA), Pallet Label form, Invoice form, etc.
+
+with SAP Smartforms technology.
+
+Up-loaded master/raw data Into SAP system with LSMW technology.
+Responsible for daily SAP technical support for plant production process after go-live.
+
+Reports (ALV Object, Function Modules, Internal Table, Inner Join) Direct to Market (DTM) Report (SD) Report is used to review
+
+- This Free Resume Template 's the copyright of Qwikresume.com, Usage Guidelines

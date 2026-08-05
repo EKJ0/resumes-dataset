@@ -1,0 +1,625 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+CORE QUALIFICATIONS
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+SKILLS
+------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco, CA 94105 %2 (555) 432-1000 <4 resumesample@example.com
+
+Over 9 years of experience with SAP in MM-PP & WM functional area with excellent knowledge and
+experience with SD/FI modules.
+
+Over 7+ years of experience in root cause analysis in MM/PP/SD/WM modules.
+
+Over 7+ years of experience in providing expertise to support functional and technical teams in the
+remediation of production clients.
+
+Over 4 years of experience in large merger and acquisition projects.
+
+Over 5 years of configuration support in Logistics and Execution (LE).
+
+Over 4 years of working in MMPP-SCM module.
+
+Experienced in all phases of ASAP Methodology with 4 Full- life cycles experience of a project as a team
+lead right from Business Process, realization, IMG configuration, unit and integration testing, final
+preparation, training, go-live and post-implementation support.
+
+Over 5 years of Experience in pulling data into HANA from legacy systems. Over 6 years of Extensive
+experience in SAP MM data integration in 3 different projects.
+
+Worked extensively in two projects on SDLC and its 7 phases such as Feasibility, Requirement
+Gathering, Design, Development, Testing, Implementation and Maintenance.
+
+Assimilated expert in SME level knowledge of SAP MM and PP business experience
+
+Also worked extensively on data conversion in order to set up master data in ECC.
+
+Hands on experience in implementation of RICEFW that are required according to business process,
+and extensively worked on it as a team lead. Strong communicator and creative problem-solver skilled
+at analyzing business needs and transforming them into technical designs, applying technical skills and
+business knowledge to achieve sound results.
+
+Performed Gap analysis, SWOT analysis, Risk analysis, and Cost/Benefit analysis.
+
+Coordinated various technical and managerial teams at all levels and Worked on both Standard and
+customized reports for the business process needs.
+
+Efficient team leader with excellent work/time management or managerial skills, communications and
+interpersonal Skills, ability to work under strict deadlines.
+
+Experienced in working on long term and large scale projects and supported during the implementation
+and post implementation of the project. Organized and maintained Material Master Data for various
+clients for efficient business process representation.
+
+Expertise in the Release Procedures creating the customized settings for approvals, by creating the
+Characteristics, classes, Release indicators, release strategies, approval strategies and check release
+strategies.
+
+Worked on Material master, Vendor master, purchase info records, purchase orders, purchase
+requisitions, RFQ, Vendor returns, External service management, Outline agreements, Source lists,
+Release procedures and MRP-CBP procedures.
+
+Excellent knowledge of Organization structure configuration (Plant, Storage Location, purchasing
+organization, purchasing group, Valuation areas).
+
+Well versed in Configuration of pricing conditions, Number assignment, Scales, Field Selection,
+Configuration of New Movement Types and Account assignment.
+
+Hands on experience in configuration of pricing procedures such as maintain condition tables, define
+access sequence, and define condition types. Worked extensively on most of the core MM tables &
+Article Master for wholesale, retail, automobile and mfg industries.
+
+Hands on working experience in defining and configuring all schema groups.
+
+Configuration of PP-MRP processes, production orders, process orders, repetitive manufacturing,
+classification, batch management, capacity planning, demand planning management.
+
+Good knowledge of PP-Pl, Master recipes, PI sheets. Implemented Capacity Scheduling, Capacity
+planning, Long Term Planning, Sales & operation planning.
+
+Implemented deterministic & Consumption based MRP.
+
+Implemented MTS, MTO, and ETO processes in different SAP projects assignments.
+
+Having working experience in both Repetitive & Discrete Manufacturing industries.
+
+Hands on configuration working experience in QM module: In process inspection, Basic data like
+defining catalogs, inspection characteristics (MICs), sampling procedures, Inspection plan.
+
+Strong knowledge of end-to-end supply chain management (SCM).
+
+Experience in conducting Joint Application Development (JAD) sessions, project meetings and reviews
+for on-site and offshore teams.
+
+Excellent experience and extensive knowledge of complete P2P (Procure to Payment) cycle along with
+Optimized Purchasing, Quota arrangement, Framework order, procurement of External services,
+Pipeline Materials, Consumable materials, Consignment and Outline agreements (Contracts/Scheduling
+Agreements), Consumption Based Planning (CBP), MRP. and various Release strategies.
+
+Experience in Inventory Management (IM) module with thorough knowledge in configuring Movement
+types, Goods Receipt, Goods Issue, Stock transfers, Transfer postings, Reservations and in configuring
+Valuation and Account Assignment categories.
+
+Worked extensively on few ares of Fl module with emphasis on Material Valuation, major tables,
+Automatic account determination.
+
+Worked on Price variances, Invoice blocks, Tolerance limits, Invoice reduction in two projects.
+
+Well versed in Inventory management with emphasis on Stock management (Quality/Value), Stock
+Transfer Order (STO), Transfer Posting, Reservation, Physical Inventory, Batch Management,
+Subcontracting, and Maintenance of Bill of materials (BOM).
+
+knowledge in Implementation of PP module and its related interfaces with other modules (SD, FI/CO,
+MM).
+
+Hands on experienced and deeply involved Customer/ Material Master Data.
+
+Worked on SAP EDI Configurations in MM/PP modules such as Various inbound/outbound standard/
+custom MM/FI IDOC types, EDIFACT mapping and ANSIX12 transactions.
+
+Assisted ABAP XI developers for XI middleware integration using technical, application and non-SAP
+adapters in last two projects.
+
+Excellent knowledge of Evaluated Receipt Settlement (ERS) for auto clearance of Invoice and Electronic
+Data Interchange (EDI) for PO, GR and IR.
+
+Having strong ability to use LSMW for data migration to SAP system.
+
+ERP e SAP SKILL SET
+
+SAP 4.0B, 4.6B, 4.6C, 4.7 « SAP Materials Management (MM)Module
+ECC 5.00, ECC 6.00, Net Weaver MDM, EhP 6. including Procurement Process, Master Data Operating System (Material & Vendor Master), Account
+
+Windows NT/2000/XP/7, UNIX. Determination & Valuation of Material, Inventory Languages Management, Invoice Verification and Material
+C, C++, SQL Requirement Planning, MDMSAP
+
+Database « Warehouse Management (WM) Configured
+Oracle 8i, SQL Server 2000. Module including Storage Bin Management, Tools Goods Movements, Planning and Monitoring, RF
+LSMW (Legacy System Migration Workbench), connections
+
+SAP Personas, GUI, HPSM, HPQC. « SAP Production Planning (PP) including Ticketing tools Material Master, Bill of Material (BOM), Router,
+SAP Solution Manager, remedy, clarify, OVSD. Work Center, Production Planning Cycle, EARS, peregrine Demand Management, MRP. shop-floor and
+Office Tools production orders
+
+Microsoft Visio, Share Point, MS Office (Word, ° SAP Sales and Distributions (SD) including
+Excel, PowerPoint), Advanced Proficiency in Master Data, Sales Support, Shipping Billing.
+EXCEL. and Sales Order such as availability check, Interfaces order block for credit, delivery block.
+
+SAP to Non-SAP. Non-SAP to SAP such as * Quality Management (QM) Quality planning,
+
+Basic data for Quality Management, Inspection planning, Quality assurance, Quality inspection.
+
+Oracle, Tally, Tibco, Informatica, Kanban, JIT to SAP systems, IDOC'S, EDI message interface
+mapping, Red Prairie, Road net, Web Services, WebSphere Trading Manager & Transformation Extender
+
+SAP Integration: MM to PP.WM,SD,FI and QM
+
+SENIOR ASSOCIATE SAP MM-PP CONSULTANT 01/2015 to CURRENT Deloitte | Wichita, KS
+
+Implementation and Support.
+
+SAP E.C.C 6.0
+
+Integration: MM-PP,WM,SD and FI
+
+Involved extensively in full-cycle implementation of Materials Management and Production Planning
+module and post implementation support.
+
+Participated in the 'AS IS' study, design of the 'TO BE’, preparation of 'Gap Analysis' and Blueprinting
+for Enterprise structure.
+
+Involved in all phases of ASAP implementation, user training and post-Implementation operational
+support provided and Solved related issues during and after the implementation.
+
+Operational support provided, designed cross team solutions for RICEF objects.
+
+Worked on six step data conversion and migration.
+
+Developed data dictionary objects- custom MM and PP tables, views, search helps, table maintenance
+generator using Events, indexes.
+
+Performed Unit Testing, Integration Testing and assisted end users in User Acceptance Testing to
+validate the business scenarios.
+
+Resolving issues which raised through ticketing system (BMC Remedy & HP Manager 9) based on their
+priority such as P2, P3, P4 tickets.
+
+Handling and resolving day-to-day issues on MM Procurement, Purchasing, Inventory Management,
+SAP Migration issues, SRM migration issues, Inbound Transportation and WM.
+
+Attending SAP L1 support tickets on SAP Purchasing and SAP Inventory Management modules
+Coordinate with SAP Technical team on modifications to forms and reports Business process mapping
+with SAP for new sites
+
+Extensive knowledge of CRM and its functionality.
+
+Configured the Material Master with Classification and the various Master data such as Info record,
+Source List, Quota arrangement.
+
+Extensively worked on the configuration of Materials Management Module for complete procure to pay
+(P2P) cycle.
+
+Executed Purchasing functions such as Purchase Requisition (PR), Quotation, Purchase order (PO),
+Subcontracting procedure. Quota arrangement, Release strategy, approval strategy and Output
+Determination.
+
+Configuring and resolving issues related to Inventory Management (IM) Process including Goods
+Receipt, Damaged Goods/Discrepancy Goods Receipt from Production, Inter/Infra-warehouse transfer,
+Storage Location to Storage Location Transfer, Provision for Stock.
+
+Worked extensively and having Hands on knowledge in Stock Transfer Order Including Plant-Plant,
+Intercompany and Intra-company.
+
+Defined and configured STO from Sales and Distribution (SD) point of view. Defined and configured
+STO from Material Management point of view.
+
+Defined various Goods movement types such as Inter-plant stock transfer, Transfer postings, and
+Material to material transfer.
+
+Hands on experience in logistics and execution (LE) such as LE shipping and LE warehouse management.
+
+Worked on special procurement such as Cross Plant Planning for External Procured Material in MRP
+with their stock Worked in discrete manufacturing, production process industry (PP-Pl) and repetitive
+manufacturing environment.
+
+Knowledge of Mapping between CRM to MM, for Vendor pricing.
+
+Involved in Configuration of PP-MRP processes, production orders, process orders. repetitive
+manufacturing, classification, batch management, capacity planning, and demand planning management.
+
+Working extensively in PP cycle, deep manufacturing(MFG), beverages and consumer good product
+(BCG) industry experience along with their functions, configurations and movement types.
+
+Expertise in PP-Pl cycle in broad point of view such as sales and operations planning, demand
+management planning, MRP. shop floor control.
+
+Worked extensively on change management in order to include existing procurement elements such as
+production orders, planned orders, purchase orders.
+
+Also partly responsible for the Business Process Mapping, Configuration in PP and PP-P! modules.
+Implemented all functionality of Variant Configuration related to Production Planning, Purchasing, Sales
+& distribution, Costing & Pricing.
+
+Developed implementation plans for the SAP modules PP and PP-Implemented Material Variant, Object
+dependencies, Variant Table, Functions, Variant Pricing, Order BOM and also managed implementation
+of PP and PP-PI design on SAP 6.0 release
+
+Worked on MTO, MTS & ETO scenarios.
+
+Material master setup related to PP. Super Bill of Materials/ BOM & Super Routing/ routing. SAP MRP,
+scheduling and Capacity Requirement Planning & capacity leveling, Production order execution.
+Maintained Bills of Materials (BOM) for Finished Materials and Semi-Finished Materials as per
+requirement.
+
+Implemented Inventory Management activities such as GR/GI, Goods movements, Transfer Postings,
+and maintenance of Non-valuated stock.
+
+Configured Release Strategies for various purchasing documents as per the business requirements
+such as approval strategy.
+
+Worked with Fl team for setting up Automatic account determination and parameters for Invoice
+verification like Price variances, customizing tables, Invoice blocks, Tolerance limits, Invoice reduction,
+and creation of Subsequent Credit/Debit accounts.
+
+Worked with supply chain management (SCM) teams, and involved in demand planning to inventory
+management.
+
+Implemented and supported Invoice verification cycles against PO, for Consignment, and for
+procurement of External Services in assistance with Fl team.
+
+Developed new ALV reports and modified existing reports using Function Modules and Methods
+exclusively in MM module like Batch and Warehouse stock status reports.
+
+specialized in writing design documents Worked on Electronic Data Interchange (EDI) complete
+processes, Such as outbound process, and inbound process
+
+Configuration Testing and Integration Testing performed and data uploaded using LSMW.
+
+Worked extensively on Extracting material master data in excel fro different tables.
+
+Performed exhaustive Unit Test runs on test director for different scenarios. Provided manual for End
+User Training.
+
+Given the End-user training, prepared user manual and provided post Go-live support.
+
+SEQIOR ASSOCIATE SAP MM-PP CONSULTANT 07/2013 to 2015 Walmart | City, STATE
+
+Implementation and support.
+
+SAP E.C.C 6.0.
+
+Integration: MM-PP,QM,SD,WM.
+
+Involved in full cycle implementation and resolved the post implementation issues.
+
+Worked extensively on ASAP methodology.
+
+Performed data conversion as lead in order to set up master data in ECC and worked with basis team to
+carry out this process.
+
+Good experience in working environment of complete Material Management configurations skills,
+testing, implementations and rollout experience. Configured and implemented procure to pay (P2P) and
+supported.
+
+Resolved P2, P3, P4 level tickets in timely manner and appreciated.
+
+Performed second-level support for all workstation and server class systems
+
+Tested features across various browsers.
+
+Fixed bugs as they were encountered.
+
+Developed training materials and procedures.
+
+Provided recommendations for resolving defects.
+
+Analyzed and created new configuration for packaged software to meet business and system requirements.
+
+Actively suggested operational improvements to enhance quality, improve production times and reduce
+costs.
+
+Maintained proper stock levels on a line.
+
+Developed production tracking and quality control systems, analyzing production, quality control,
+maintenance and other operational reports, to detect production problems.
+
+Drafted a timescale for all jobs, Ensured the most cost-effective production methods were employed.
+Monitored and adjusted production processes or equipment for quality and productivity and Monitored
+the production processes and adjusted schedules.
+
+Worked extensively on MM-MDM integration to reduce costs, and helped technical team to efficient data
+for better support of business processes and key requirements, such as meeting compliance standards.
+Assisted Configuration and implementation of SAP MDM and its applications by accessing SAP Solution
+Manager.
+
+Gathered the information related to Enterprise structure, Business process and Business requirements
+Defined and configured the Enterprise elements such as Plants, Storage locations, Valuation areas,
+purchasing organizations and Purchasing groups to meet the organizational structure as per the
+Client's specifications.
+
+Defined and created Material type attributes, Valuation class, purchasing documents, and field selection
+groups, and assigned the number ranges as per the business requirements.
+
+Implemented Split valuations of material based on valuation category.
+
+Involved in complete Procure to Pay process right from Determination of requirements, Quotation
+maintenance, Vendor allocation, Processing of PO, Goods Receipt and Logistic Invoice Verification (LIV)
+against PO.
+
+Hands on experience in customizing and maintaining the most of the MM tables.
+
+Downloaded the SAP purchase order details on EXCEL file through ME2N T.Code and EKKO Tables.
+Defined and configured various Goods movement types such as Inter-plant stock transfer, Transfer
+postings, and Material to material transfer.
+
+Extensively worked on the design details included in the area of Handling Units, Equipment master data,
+RF Scanners, S.T.O and Inventory Management.
+
+Involved in both discrete and repetitive manufacturing processes in depth_Lead time & replenishment
+lead time, basic scheduling & lead time. Involved in scheduling Handling Unit Management, Storage Unit
+Management, Batch Management, Serial Number Management.
+
+Worked extensively in all areas of Inventory management such as inbound processes, Outbound
+processes, internal inventory management processes, Physical inventory, management processes,
+Vendor returns processes.
+
+Performed configurations of LE-Shipping, LE-WM and LE-Direct store delivery
+
+Performed STO process completely from MM and SD point of view.
+
+Worked and assisted Supply Chain Management team, and well known to its end-to-end process.
+Hands on experience in configuration, implementation and resolving issues of Consumption Based
+Planning (CBP) and MRP.
+
+Assisted Implementing PP -PI module and its related interfaces with other modules (SD, FIl/CO, MM, and
+PS).
+
+Implemented MTS scenario for auto component manufacturing facility and MTO Manufacturing plants.
+Implemented Demand Planning using planning strategy 40 (plug w/ final Assembly).
+
+Worked on change management, provided training to the junior consultant, end users and super users
+on it.
+
+Implemented Manual changes to the production order such as read master data and use of assembly
+orders in Change management.
+
+Configured deterministic SAP MRP & Consumption based MRP.
+
+Worked extensively on all types of BOMS and different routing procedures.
+
+Implemented Scheduling, Capacity Planning & levelling using planning table.
+
+Implemented SOP: Flexible planning based on customized info structure.
+
+Configured various Release strategies |mplemented Physical Inventory and Batch determination
+process in inventory management.
+
+Defined Tolerance limit in invoice verification, created and demonstrated the use of Invoice reduction,
+supported the Subsequent debit/credit procedure.
+
+Defined put away and Picking strategies, configured system for automatic generation and TR and TO.
+Recently assisted implemented SAP barcode system using SAP Console (SAP's native RF solution) for
+the Warehouse.
+
+Designed and developed ALV Grid program for multiple functional areas, latest involving customer
+freight rate listings for that department.
+
+Configured account determination for Unplanned delivery costs.
+
+Deeply involved in EDI process such as MM/FI Idoc's outbound and inbound process.
+
+Hands on experience of sap 46c Idoc's configuration, monitoring and processing.
+
+Developed Utilities to find Idoc's based on standard searches, Idoc's content, or errors on Status
+records and then allow for mass Status changes (such as delete or set for reprocessing) as well as
+reprocessing via foreground or background.
+
+Setup ALE to move master data between various systems.Worked on integration between sap systems
+to vendor business systems such as Kanban and JIT.
+
+Conducted the End-use training and prepared training manuals.
+
+Resolved the Post-implementation issues.
+
+SFOSAP MM-PP CONSULTANT 07/2011 to 06/2013 Radisys Corporation | City, STATE
+
+Implementation and support.
+
+SAP ECC 6.0.
+
+Integration: MM to PP,SD,WM and QM
+
+Involved in ECC upgrade, implementation and post implementation support.
+
+Implemented Complete ASAP Methodology.
+
+Identified RICEF's that are required according to business process.
+
+Defined and Acquired System Application Requirements from Business point of view.
+
+Translated Business Requirements into Technical Specifications.
+
+Defined requirements and translated into Technical Specifications travel and Training Applications.
+Served as mentor to junior team members.
+
+Defined strategy and business plan for MM and PP.
+
+Collected the business process information about the Purchasing Cycle, Inventory Management and
+Stock Transfer Cycle.
+
+Mapped and executed purchasing functions such as Purchase Requisition (PR), Quotation, Purchase
+order (PO), Subcontracting procedure, Quota arrangement, Release strategy, and Output Determination.
+
+Performed Setting up the Consumption Based Planning and Price determination procedure to suite the
+business needs.
+
+Extended purchase documents like Contracts, Scheduling Agreements, Procurement of External
+services, Consumable materials and Framework orders.
+
+Involved in complete inventory management process. Worked extensively on STO process.
+
+Performed programming and development of customer specific Material Master Workbench to create
+new materials and change existing materials other than MMO1 / MMO2.
+
+Configured Material Master Data to accommodate Shelf Life Expiration Date (SLED) check Processed
+and demonstrated use of Material Master, Vendor Master, Info record, Purchase Requisitions, RFQ,
+Quotation, Purchase Order, and Maintenance of Source List.
+
+Configured the Release Strategy with Classification for the purchase documents.
+
+Created and implemented Quantity Contract, procurement of External services Maintained existing
+customized workflow for Purchased materials and Purchase Requisitions.
+
+Processed Transfer postings, Reservations and Goods Movement in Inventory Management.
+Implemented the Physical inventory procedure and the Settlement of inventory differences and
+Inventory Controlling Development of new reports as per the client requirement.
+
+Assisted ABAP programmers in developing a Batch Input Program to upload Material Master Data from
+legacy system to SAP R/3 database.
+
+Processed the procurement of materials from One-time vendor. Implemented and supported Invoice
+verification cycles against PO, for Consignment, and for procurement of External Services in assistance
+with Fl team.
+
+Configured MTO process with assembly order processing Maintained all VC objects like dependencies,
+Super BOM, Super Routing.
+
+Configured Material variant functionality.
+
+Implemented MRP, CRP & Capacity Leveling.
+
+Implemented Batch Management, Batch derivation & Batch determination strategy.
+
+Configured Plant Maintenance Module Break down Maintenance: Notification, Maintenance order, spare
+consumption, spare planning.
+
+Preventive maintenance: Single cycle maintenance/ strategy plan, scheduling, capacity and availability
+check.
+
+Worked on Idoc's transfer, inbound and outbound monitoring, ALE and Bapi data migration.
+
+Hands on experience in Third party Electronic data interchange (EDI) implementaionn , configuration
+and resolving Idoc's related issues.
+
+Prepared the user manuals and conducted training sessions for the end users Conducted Integration
+testing and addressed Go-Live issues.
+
+SAO PP-MM CONSULTANT 2010 to 05/2011 Glaxo Smith Kline Pharmaceutical Ltd | City, India
+
+Implementation and Support SAP ECC 6.0 Integrations: PP/IM/SD/PP-PI/WM/FI-CO Responsibilities:
+Joined the project as a part of ASAP methodology implementation and "Up gradation consultant" from
+R/3 4.7 to ECC 6.0.
+
+Involved in preparing functional and technical specifications as per the user requirements Customized
+MM functionalities: Master Data Material Master, Service Master, info records, source lists, Consumption
+Based Planning, purchasing, and Inventory Management.
+
+Configured purchasing organization, purchasing groups and pricing & other Purchase functions.
+Configured the Inventory management of goods at the points of receipt and issue for all stock
+categories and special stocks viz.
+
+consignment, third party, and sub-contracting.
+
+Created physical inventory settings, documents, posting differences, inventory sampling and cycle
+counting.
+
+Configured vendor master partner functions.
+
+Worked on quality contracts, value contract for purchase requisition, contracts and purchase orders.
+Material planning: MRP (MRP types. MRP profiles), planning run, lot size calculation, reorder point
+planning.
+
+Configured Batch Management creating class and characteristics master data, condition table, access
+sequence, strategy type and define batch search procedure.
+
+Customization of Batch Management by defining batch strategy for inventory management.
+Implemented Capacity Scheduling, Capacity planning, Long Term Planning, Sales & operation planning.
+Implemented deterministic & Consumption based MRP.
+
+Implemented in Variant Configuration with Engineering Change management (ECM).
+
+Implemented MTS, MTO, and ETO processes on different SAP projects assignments.
+
+Configures BOMs and Routers.
+
+Configured tolerances and limits in purchase orders and created scheduling agreement and contracts.
+Configured warehouse management settings with various storage types, sections, storage bins and
+quants.
+
+Configured Inventory Management Parameters for all goods movements like goods receipts, goods
+issues, reservations, GR for blocked stock, goods returns Configured release strategy for purchase
+requisition and purchase orders as per the approval hierarchy of the client Unit test for distribution
+process pricing, delivery outputs and reports.
+
+Configuring document types for purchasing documents like RFQ, purchase requisition, purchase
+orders.
+
+Assisted in system settings that are relevant to the maintenance of conditions and price determination
+in the purchase of materials Automatic determination of GL accounts, mapping valuation classes to GL
+account Designing Core User and End User Training strategies and training documentation with tools
+like RWD U-perform Assisted the project lead in preparing various documentations and also conducted
+seminars and training sessions Developed and worked upon various test cases and scripts and tested
+various scenarios using various quality tools such as HPQC Performed Unit testing and Integration
+testing's.
+
+Responsible for providing the necessary documentation and knowledge transfer for the implementation.
+
+SAO MM CONSULTANT 05/2007 to 11/2009 Hyundai Motor India Ltd | City, India
+
+Collected the business information about the Organization Structure and Business Process Modified
+plants, Valuation area, Storage locations, Warehouse and Purchase organization as per the Enterprise
+Structure and Business Process.
+
+Defined and Acquired System Application Requirements from Business Community.
+
+Translated Business Requirements into Technical Specifications Defined requirements and translated
+into Technical Specifications Travel and Training Applications Configured the Material types, Number
+ranges and Material groups.
+
+Created new Material types, Field references and Field selection groups and Classification Created and
+Configured Masters that included Materials with classification, Vendor, and Purchase Info records per
+the client's requirements.
+
+Created and Configured Purchasing groups, Source list, Purchase Requisition, Purchase Order and
+Stock Transport orders Created and supported Purchase requisition, Quotations and Purchase orders,
+Demonstrated the use of Release Orders from a Contract Configured and created Subcontracting
+document Configured Bill of Materials, Revision Levels for Materials and Change process with Release
+Procedure.
+
+Implemented various goods movement types for Goods receipt and Goods issue Created and supported the process of Invoice verification against PO.
+
+Worked on various reports in MM module with the ABAP Consultants.
+
+Bachelors of Engineering in | Computer Sciences 2007
+
+JNTU, Hyderabad, Telangana
+
+ABAP. Go-Live, Basic, Business Process Understanding,C, C++, Capacity Planning, Change management,
+Contracts, Conversion, Conducting Seminars, Costing, Credit, CRM, Client Interaction, Cycle Counting, Data
+Conversion, Data Dictionary, Data migration, Database, Delivery On-time, Designing, Differentt Operating
+Sysytems, Documentation, Electronic Data Interchange,HP Service Manager 9, Informatica to SAP. Inspection,
+Inventory management, Logistics Management, Manufacturing processes, Materials Management, EXCEL,
+MS Office, PowerPoint, Production Planning, Share Point, SQL Server 2000, Microsoft Visio, MS Word, MRP.
+MTS, Oracle, Oracle 8i, organizational, Purchase Requisition. Pricing Procedures, Procurement,
+Programming, Project lead, Purchase Requisitions, Purchasing, Quality Management, Quality Assurance,
+Requirement Fullfilment, Retail Industry, PP Routers, Routing, SAP R/3, SAP 4.0, SAP 6.0, SD, Scanners,
+Scheduling, Variant Scripts, Shipping Settings, SOP, SQL, Strategy Planning, Supply Chain Management,
+Major MM.PP.FI Tables, User Training, User Manuals, Test Director, Tibco, Training Manuals, Transportation
+Issues, UNIX, Upgrade, Utilities, Valuations, Various View, WebSphere, Workbench
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

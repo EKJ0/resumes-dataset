@@ -1,0 +1,59 @@
+ROBERT SMITH Sr. Sap Abap Developer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+ABAP/MDG (10+ years) expert accountable for Solution developments, technical leadership in the
+zones of application management, infrastructure, application integration, transport movements,
+security & authorizations, User Acceptance Testing & cutover activities for SAP implementation &
+Production Support projects in Health care, consumer goods , Apparel, Fashion , Manufacturing &
+logistics sector,
+
+CORE COMPETENCIES
+
+ABAP, ABAP WebDynpm, RICEF's [ALV Reports, Module.
+
+WORK EXPERIENCE
+---------------
+
+Sr. Sap Abap Developer
+ABC Corporation - May 2007 - April 2020
+
+wa Deliverables:
+
+Modified ABAP programs to add an email option to the sell and repon programs,
+
+» Created ABAP program Charge Paragon Credit Cards thru JatPay program to send Credit Card authorization to JetPay,
+
+- » Mentored a team of developers to track and validate their developments and reinforce the quality ot doliverables,
+
+- Formulated requirement and pricing routines to calculate sales representative commissions:
+
+- Enhanced the billing document defined tor replenishing deliveries and consignments between european union countries:
+
+- Developed sap data migration tools tor materials, customers and sales orders&rsquo; data to.streamline client& squo;s procurement process.
+
+- » Communicated with functional consultants and key stakeholders to improve supply chain management, demand tulliliment, and.
+
+Sap Abap Developer
+Delta Corporation - 2004 - 2007
+
+Key! Deliverables:
+
+Developer Manager (SAP ABAP) Functional/Technical Specs coordination Create inbou nd/outbound interfaces lor SAP (HA/SD/MM/FVCO) implementation .
+
+- Leadership role responsbie for development objects review and Transaction code maintenance Create inbound/outbound interfaces for SAP 4.6D (SD/MM/FI/,
+
+» Florida Crystals Corp Project Responsible for maintenance, analysis, and development af on line and Interactive reporting, SAP 4.6, SD, MM, and HRA/.
+
+- Developed interlace for loading HR Payroll master data between legacy system and SAP Drill down and interactive reports HR (PA/PD), Fl (GL/AP/AR), .
+
+SS
+2259 Oak Street, Old Forge, New York, 13420 ‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

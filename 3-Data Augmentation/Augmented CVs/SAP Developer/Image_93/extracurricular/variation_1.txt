@@ -1,0 +1,59 @@
+Ss A * Certified Certified SAP ABAP Consultant Associate
+
+Case Study:
+
+Case study accompanies fundamentals for Solutions Consultant. The case study implementation is part
+of Full time Training in 'ABAP with SAP Net Weaver 7.31’ with Global Certification from SAP AG,
+Germany.
+
+PROJECT EXPERINCE
+
+1). Client : Fedral Mogul Role : Developer.
+Duration : Oct 2016 to till now Environment : SAP ECC 7.3
+
+Client Description : Federal-Mogul Powertrain is a leading global supplier of technologies
+and components in the passenger car, light and heavy-duty commercial and off-highway vehicle markets, and also operates in the power generation,
+aerospace, marine, rail and industrial sectors.
+
+Responsibilities:-
+
+ABAP/4 Reporting: Classical and interactive reports with ALV.
+
+Working in Support Areas in SD, MM modules of SAP R/3.
+
+Working as Data Dictionary objects like Tables, Views, Structures, Table maintenance Working Experience in generation of Reports (Classical, Interactive, ALV ).
+
+Good Working Experience in Enhancements-User exits, BADI’s.
+
+Developed Various Layouts: SMARTFORMS.
+
+Interfaces: BAPI’s, RFC’s for interface between SAP and othersystems.
+
+Debugging techniques ~ Break Points .
+
+2). Client : Cardiff Role : Developer.
+Duration jan 2016 to oct 2016 Environment : SAP ECC 6.0
+
+Client Description : The County Council of the City and County of Cardiff is the governing body for
+Cardiff, one of the Principal Areas of Wales. The council consists of 75 councilors, representing 29 electoral wards. The authority is properly styled asThe County
+Council of the City and County of Cardiff or in common use Cardiff Council.
+
+Responsibilities:
+
+Creation of custom Infotypes and Enhancements to standard Infotypes.
+Good knowledge in working wih INFOTYPES
+
+Uploading of data using HR function modules
+
+Analyzing the functional inputs
+
+Master Data uploading Background Jobs scheduling
+
+Customize Infotypes andCreated Function modules.
+
+a
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

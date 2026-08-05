@@ -1,0 +1,196 @@
+Lakisha Washington
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+Seeking a position SAP FICO with good academic standing seeking a responsible position in SAP FICO Functional where I can use my
+knowledge to ensure the delivery of all financial and accounting activities. Over 3 years of experience working in SAP FICO as Functional
+Consultant. Sound SAP Financial Knowledge and configuration with excellent expertise of SAP R/3 FICO versions from 4.6 to ECC 6.0.
+Extensively worked on gathering Functional Business Requirements, Analyzing business requirements, Mapping Business Process
+Requirements in SAP System, Implementation/ Customization’ Configuration, Integrating with other sub modules within SAP. Testing,
+Documentation and End User Training. Full life cycle implementation using ASAP methodology, Understanding of "As Is " Business
+processes, Blue Print, Realization - Configuration, Final Preparation-Unit & Integration Testing, User Acceptance Testing , Preparation of
+Test Scripts ,Authorization design for Roles with Security team & developing BPP’s, End Users User Training Pre & Post Go Live Support.
+Strong knowledge in handling Issue Resolution Process, Tools viz., SD4, COPS. Strong Knowledge on AR Accounts Receivable Process with
+SD Sales Distribution Module. Strong knowledge with all aspects of Configuration and Customization of SAP FI-GL, FI-AP. with additional
+working knowledge in FI-AR, FI-AA, FI-GL (New GL) CO-CCA, CO-PCA, CO-PA, CRM Customizing screen layouts for asset master data,
+asset sub ledgers and asset depreciation areas. Defining transaction types and account assignments for asset acquisitions and retirements.
+Excellent communication skills, exceptional ability to perform individually, good interpersonal relations, motivated & hard working
+individual.
+
+HicuHiicutTs
+- Guest services e Loss prevention
+- Inventory control procedures © Cash register operations
+- Merchandising expertise © Product promotions
+
+WORK EXPERIENCE
+---------------
+
+04/2015 to 01/2016 SAP FICO Functional Consultant
+
+Deloitte - New York, IL
+
+- Financial Accounting (FI) Enterprise Structure: Configuration and customizing Company code, Creating GL
+
+account codes and Chart of Accounts, Configuration of Global settings, Configuration of GL automatic clearing,
+Configuration of Foreign currency valuation, Sales Tax/Purchase Taxes (Vertex).
+New General Ledger / Classical GL: Activation of New GL Accounting, Define ledger for GL Accounting,
+Integrating the GL with subcomponents, Document splitting, Segmentation and Parallel Accounting, Controlling
+Component Transfer postings, Integration with Asset accounting.
+Accounts Receivable: Building AR Business module, Configuring and Customizing Customer master data, Debtor
+management, Customer payments, Customer invoice processing, Oder to cash process, Finance documents Global
+settings (Posting Keys, payment terms),.Dunning, Reporting Accounts Payable: Building AR Business module,
+Configuring and Customizing vendor master data, vendor account groups, Define sensitive fields for dual control,
+
+House banks, Invoice processing .Document parking, Outgoing payment .Reporting.
+
+Asset Accounting: Configuring of Asset Accounting, Structuring Fixed asset design, integration with the GL,
+Defining asset classes, depreciation areas, Configure (Base, Balance and Multilevel) depreciation methods.
+
+Cost Element/Center Accounting: creation of Primary and secondary cost elements, creation of cost center standard
+Hierarchy, Activity Types and Statistical Key Figures, Assessments, Distributions, plan price calculation, periodic
+allocations in plan.
+
+Internal Orders: Creation of settlement cost element, configuration of the Settlement structure, settlement profile,
+real and statistical postings, Configuration of order planning, Budgeting, Defining status profile, Defining order
+types.
+
+CO-Profitability Analysis: Configuring and Customizing Costing based CO-PA and Account based CO-PA
+including setting up of the operating concern, characteristics, value fields, Closing and Reporting: Run and
+reconcile all incoming interface, start control and clearing reconciliation, run customer billing and vendor
+
+payments, approval of all parked documents, Run final sales figure and dunning reports, Open new period ,close
+old sales and material periods, Run all settlements in CO, Creating management accounting reports with Report
+painter.
+
+Integration with MM, PP and SD: Integration of FI with MM, PP and SD modules, Inventory movement related
+account, Billing and Revenue account determination, Interfaces design and testing.
+
+Migration to New GL: Activating New GL, Migration Cockpit.
+
+Technical Skills: ERPs: SAP ECC 6.0, SAP ECC 5.0, SAP R/3 4.5b/4.6C / 4.7 , SAP Solution manager 4.0, SAP
+Web Application Server 6.40.
+
+OPERATING SYSTEMS: HP-UX, AIX, Solaris, Linux, Windows NT/ 2000/ 2003.
+
+Professional job experience Environment: ECC 6.0 AP, AR, AA. COPA FMC Corporation is a diversified chemical
+company serving agricultural, industrial and consumer markets globally.
+
+- Project involved customization of SAP ECC 6.0 and implementation across all enterprises in US, I was Involved in analyzing the requirements of clients and configuration in Financial and Controlling modules.
+
+- Interacted with client for requirements gathering and analysis.
+
+- Reviewed and updated the functional design documents for FI/CO developments, Full lifecycle implementation.
+
+- Involved in developing detailed functional specifications documents.
+
+- Configured Account Payables Starting with Purchase Requisition, Purchase Order, Goods Receipt, Invoice Verification, Vendors credit memo and Check clearing sub-processes, Advance paid or down payment made to vendors Configuration for the creation of Account Receivables invoices and posting of manual incoming payments with differences, clearing and reversals, interest calculation.
+
+- Developed AR custom report for month end closing to capture the every detail of Closed and Open Customer invoices Configured Fixed Asset Master Data - acquisitions, retirements, revaluation of fixed assets, customized depreciation keys for depreciation run - planned, special, unplanned depreciation.
+
+- Customizing screen layouts for asset master data, asset sub ledgers and asset depreciation areas.
+
+- Defining transaction types and account assignments for asset acquisitions and retirements.
+
+- Involved in integration of Fixed Asset accounting with internal orders, maintaining settlement profiles for internal orders, Configuring capitalization of assets under construction, assigning cost elements.
+
+- I was involved in Integration of New general ledger with Controlling for reconciliation activity through real time integration variant.
+
+- Involved in Cost center assessments to segments, COPA reporting, forms, Planning, Derivation rules and structures, Product and customer hierarchy, PA settlement, realignments and integration issues with SD.
+
+- Involved in data migration from legacy systems to SAP system using LSMW.
+
+01/2015 to 03/2015 SAP FICO Consultant
+
+Deloitte - Orlando, KY
+
+- Environment: ECC 6.0, AP, AR, AA, IO, COPA AT&T is a premier communications holding in the United States
+
+and worldwide.
+Recently AT&T started to implement CFM (Customer Financial Management) which is post-billing application of
+SAP that supports the Financial and Operational processes for the recording of all Customer transactions for
+revenue, tax and accounts receivable and for managing the consolidated financial results of the Customers.
+I was involved as a part of Implementation team for AP, AR, GL and CO module.
+Involved in Migration of data from Classic GL to New GL through different phases of migration cockpit.
+Configured the settings in G/L area, such as creating G/L master data, cross-company code transactions, with
+multiple currencies and multiple company codes, and open item clearing.
+Configured GL transactions for business processes such as fast-entry screens, posting, parking, reversals and month
+end closings.
+Configured and maintained House banks with multiple bank accounts, Alternate bank selections for payments,
+assigned check lots and defined void reason codes.
+
+Configured Vendor Down payment, Installment payment, Automatic payment program, Check management, and
+recurring entries.
+
+- Configured Fixed Asset: Defined the chart of depreciation which includes the list of depreciation areas.
+
+- Created Different Asset classes and defined the screen layout rules for the corresponding asset classes.
+
+- Worked on integration of FI/CO with MM and SD for Inventory valuation, Movement types, damaged stocks and functions such as GR and Invoice verification, order management, pricing, delivery and transportation and billing.
+
+06/2014 to 12/2014 SAP FICO Consultant Motion Recruitment - Manhattan Beach, CA
+
+- Environment: SAP R/3 4.6, 4.7, AP, AR. CO Pet Smart, Inc.
+
+is the largest specialty pet retailer of services and solutions for the lifetime needs of pets.
+
+- Pet Smart is the largest retail chain in North America to implement all SAP Financial and retail software solutions.
+
+- I was Involved in providing production support to end user as well as actively involved with upgrade team (4.6 to 4.7).
+
+- Responsibilities: Worked on day to day support issues and implementation related issues which comprise Accounts Payable, Account Receivable, Cost center accounting, internal orders and Profitability analysis.
+
+- Supported day to day issues like creating new payment terms, creating new banks, investigating payment program issues on weekly basis.
+
+- Also worked on interfaces for printing checks from third party application and developed functional specs to create interface to provide check status to external legacy system.
+
+- In Account Receivable, worked on various support issues like investigating blocked billing document from SD and identifying the root cause of it.
+
+- Created new correspondence types for Payment advices, customer account statement and rebate document which enabled business to communicate efficiently with Customers.
+
+- Supported in the area of Internal Order Settlement to Asset under Construction and respective asset (settlement profile, etc.).
+
+- Modifications of functional specifications and user exits to make them compatible with the new version Conducted various meeting with key Management in the Financial Management department to discuss various needed development strategies.
+
+06/2010 to 12/2013 Assistant manager Chefs Warehouse - Detroit, India
+
+- Meet with individuals (Vendors, Suppliers, and Franchisees), special interest groups and others on behalf of executives, committees and boards of directors Prepare all mandatory documents per the requirement of statutory bodies like SEBI, ROC, etc.
+
+- in consultation & co-ordination with the Company Secretary Managed Banking & Accounting operation which involved meeting with designated Bank, authorities for any requirement, negotiation, and compliances Preparing Financial Projection for new projects.
+
+- Developing business alliances nationally and internationally.
+
+- Setup and oversee administrative policies and procedures for offices or organizations Developed budgets for new projects of the company - New Business lines Maintaining daily accounts with inflows and outflows.
+
+10/2009 to 04/2010 Management Trainee Terracon - Topeka, India
+- Managing corporate BTL - Below the Line Marketing Activities.
+- Providing Solutions to Banking Corporates for NRI business.
+- Creating tie-ups with other segment industries for promotional activities.
+
+10/2009 to 10/2009 Intern LG Financial Services - City, India
+- Involved in Rural Banking, microfinance.
+- Finding sources of finance - Banks, NBFCs, Financial institutions.
+
+EpucaTIon
+
+1 Certified Management Accountant (CMA) Institute of Management Accountants - Montvale, NJ
+
+Master of Business Administration (MIBA)
+
+Bachelor: Commerce Commerce
+
+B.Com: Accounting & Auditing Gujarat University - Ahmedabad Accounting & Auditing
+
+SKILLS
+------
+
+Accounting, Accountant, Accounts Payable, Accounts Receivable, acquisitions, administrative, premier, AIX, AP. AR. Balance, Banking,
+Billing, Budgeting, budgets, Developing business, business processes, C, Closing, consultation, Costing, credit, client, clients, data migration,
+delivery, fast, Finance, Financial, Financial Accounting, Financial Management, fixed assets, forms, functional, General Ledger, GL
+Accounting, GL, HP-UX, Inventory, Invoice processing, layout, ledger, Linux, Managing, Marketing, PP, 2000, Windows NT, Migration,
+month end closing, negotiation, Enterprise, OPERATING SYSTEMS, order management, painter, Payables, policies, pricing, processes, real
+time, recording, reporting, requirement, requirements gathering, retail, Sales, SAP. SAP R/3 4.5, SAP R/3 4.6, SD, settlements, Solaris, Tax,
+Taxes, transportation, upgrade, valuation, Vertex

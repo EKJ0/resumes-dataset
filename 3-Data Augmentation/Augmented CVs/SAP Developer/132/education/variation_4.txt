@@ -1,0 +1,177 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Seeking a full-time SAP HANA or Basis position at a company that values dedicated employees and is committed to enhancing my
+career. Excellent analytical and problem solving skills in complex, multi-tiered environments while adhering to the process. *Proven
+track record of working under high-pressure with technical and functional teams to resolve critical issues. *Proven ability of working
+with the project teams and other partners, with minimal supervision. *Works well and respects other disciplines of the project teams.
+Able to thrive in a fast-aced, team-oriented environment. *Strong written and interpersonal skills with ability to communicate well at
+all levels *Willingness to mentor junior resources and share intricacies of new technology *Ability to prioritize individual and team
+tasks and projects so that deadlines are met *Deep exposure working in different teams; Operations, Scheduling, Software
+Development, Database Administration, Business Warehouse, SAP Basis Administration and HANA Administrations. “Extensive
+experience of HANA implementation from first generation sidecar HANA 1 SP3 to 4-node 4TB HANA systems BW/HANA
+- Implemented all Production HANA database to high-availability using single dedicated host. Increased capacity by adding additional host and redistributing impacted tables. *Performed auditing gap analysis and developed plan to mitigate risks. Developed, shared and trained security team on new security policy, managing implementation thru go-live. *Basis representative at global weekly, cross-team Quality Process Improvement Initiative where we discussed exceptions/violations and propose ways to narrow the procedural or technical gap. Recommendations would then be shared with managers and stakeholders for review and implementation. *Experienced in system copy using DB refresh. “Extensive exposure to implementing SNOTES and migrating thru the production landscape. *Adept at configuring Transport Management System (TMS) including root cause analysis for CTS or buffer issues. Participated in several major lifecycles using dual production path for project go-live. *4 year participant as Accenture high school mentor, helping candidates prepare for the workplace via writing skills workshop and mock interview . Worked one-on- one with mentee outside business hours to counsel and support students on the reward of finishing the tuition-free 4 month program Veteran systems architect with expertise in coding, application design, defined architectures and successful project leadership. Network Administrator with extensive experience with Oracle High Availability environments, implementation and management. Professional, detail-oriented Network Administrator motivated to drive projects from start to finish as part of a dynamic team.
+
+SKILLS
+------
+
+- SAP R/3 4.6c, ECC 6.00, BW/ BWA//BI 7.3, 7.0, 3.5, 2.1c, APO ¢ Excellent problem-solving abilities
+
+3.0/4.0 e Network maintenance
+- Operating System: IBM-AIX, Sun Solaris, Linux SUSE9, HP- ¢ System upgrades
+UX 10, VMWare, Windows 2000/NT/XP/7 ¢ Excellent communications and diagnostic skills
+
+- Databases: HANA, IBM DB2 V9, Oracle 8i, 10g
+
+- Networking: NFS, DNS, SSH/SNC/SSO, TCP/IP protocols, Gateway
+
+- Tools: Control-M job scheduling, Remedy, TREX, SAPGUIL, SAP HANA Studio
+
+WORK EXPERIENCE
+---------------
+
+SAP HANA Administrator, 07/2011 to 05/2016 Albany International Corporation - Kaukauna, WI
+- Implemented trigger-based Replication from multiple ERP sources(R/3, ECC) and BODS into a single HANA database appending Source_Id to uniquely identify data origin, leveraging a single ABAB server as replication server.
+- Configured and documented RFC’s between HANA, replication server and ERP/BW sources. Created multiple schemas for data in HANA. Dropped/recreated schemas in Development, QA and Production to facilitate data reloads.
+
+Developed and implemented security policy to adhere to business and auditing guidelines.
+
+Shared gap analysis with management and developed plan for offshore team to implement.
+
+Managed daily backup and executed manually upon failure or prior to upgrade.
+Worked with 3rd party to resolve backup conflicts from HANA to Veritas offline storage.
+Added additional hosts to accommodate data growth, redistributing data for impacted tables. Ensured visibility of new host to
+
+nameserver before transitioning system.
+- Configured Production HANA systems with high-availability by adding standby host.
+
+Created new databases, schemas and users per project requirements.
+
+Migrated HANA content from Development, Test to Production.
+Successfully migrated HANA SP9 to SP10.
+Facilitated multiple training sessions on HANA technology and administration to our global basis team.
+
+- Subject matter expert on HANA and in-memory technology across or global, 57 member basis team.
+Mentored junior resources on Environment: BW 7.3, 7.4, HANA 1.X SP5/9/10, R/3 4.6c, ECC 6.0.
+Established compatibility with third party software products by developing program for modification and integration.
+
+Diagnosed and troubleshooted UNIX and Windows processing problems and applied solutions to increase company efficiency.
+
+- Ensured network, system and data availability and integrity through preventative maintenance and upgrades.
+
+- Implemented company policies, technical procedures and standards for preserving the integrity and security of data, reports and access.
+
+- Streamlined and enhanced the corporate accounting and operations system.
+
+- Designed strategic plan for component development practices to support future projects.
+
+- Organized and created shooting schedules for graphic design team, supervising the progress of projects from production to post production.
+
+- Consistently met deadlines and requirements for all production work orders.
+
+- Managed creative projects from concept to completion while managing outside vendors.
+
+- Aligned office departments and increased inter-department communication and data sharing.
+
+Supervised and provided direction for six technical direct reports regarding network activities.
+
+- Recommended network security standards to management.
+
+Monitored network performance and provided network performance statistical reports for both real-time and historical
+measurements.
+
+- Trained junior members of IT team regarding network security and troubleshooting of data circuits.
+
+Managed firewall, network monitoring and server monitoring both on- and off-site.
+- Proposed technical feasibility solutions for new functional designs and suggested options for performance improvement of technical objects.
+
+- Designed and implemented new server standards for core business services.
+
+SAP Basis Administrator, 05/2008 to 05/2016 Alakaina Family Of Companies - Silver Spring, MD
+- Daily monitoring of all Prod and QA system, RFC connections, printers and buffers using Solman and CCMS.
+- Resolve critical issues, escalating when necessary.
+- Batch/scheduling resolution of 20k daily jobs managed by Control-M 6.2.
+- Assist project team activate new jobs.
+- Support emergency migration of batch jobs and or variants to Production.
+- Administration of printer configuration for 3500 printers worldwide enforcing change process for any new request.
+- On-call rotation between 57 onshore/offshore basis resources supporting over 175+ individual SIDs.
+- Worked closely with offshore teams comprising of 2 shifts to cover our 24 X 7 coverage.
+- Performed Kernel upgrades Tuned R/3 database and buffer pool for optimum performance.
+- Performance tuning of 30TB BW system during extraction/activation using a myriad of tools; trexadmin, log/gateway/buffer analysis to identify and resolve issue.
+- System Refresh support - Participate in planning/execution of quarterly system refresh of multiple concurrent ProdQA refresh.
+- Built execution plan from template (R/3, ECC, APO, CRM, SRM and BW) assigning on/offshore resources. Drove delivery by daily transition calls and status reporting.
+- Managed logistics of shipping export data from Production to QA sites.
+- Load data onto server before initiating recovery.
+- Established compatibility with third party software products by developing program for modification and integration.
+- Established compatibility with third party software products by developing program for modification and integration.
+- Coordinated with systems partners to finalize designs and confirm requirements.
+
+- Managed firewall, network monitoring and server monitoring both on- and off-site.
+
+SAP BW Batch Network Lead, 05/2005 to 05/2008 Accenture - City, STATE
+- Managed on/offshore team in support of our daily Master Data and Transaction loads.
+- Collaborated with Basis and DBA team to resolve load issues.
+- Provided daily metrics to leadership on batch status and availability.
+- Conducted Info cube reloads to support project team and data recovery often over the entire weekend.
+- Assigned resources to distribute workload.
+- Created info objects to support new functionality.
+- Performed annual review for staff and participated in rating/ranking.
+- Had monthly one-on-one with staff to discuss performance and solicit feedback.
+- Made recommendations to leadership on promotions.
+- Supported quarterly Prod/QA maintenance by draining /starting LIS extractors prior to stopping/starting BW system.
+- Designed and managed multiple queues to facilitate R/3 data being sent to BW 2.1c and BW 3.5 to minimize disruptions to original system (BW 2.1c) while the new system was being loaded.
+- Performed Statistical setup in R/3 before loading to PSA , ODS and Info cubes.
+- Documented optimal settings for very large LIS (SD and Inventory).
+- Tuned packages to BW for minimal delay.
+- Designed parallel processing based on acceptable tolerance.
+
+Database Administrator, 2002 to 05/2005 Oracle Accenture LLC - City, STATE
+- Migrated 57 databases from release 7.2 to 8i, for 150% better throughput via SGA redesign and better layout of data/indexes.
+- Migrated Production systems to more efficient recovery using Hot backups.
+- Extended and moved datafiles when appropriate and worked with business to ensure adequate space prior to each month-end.
+- Created tables, indexes to augment better performance.
+- Used Oracle's OEM tool to manage and tune SGA for better performance.
+- Worked with Oracle Support to resolve critical issues.
+- Designed and implemented new server standards for core business services.
+- Designed and implemented new server standards for core business services.
+- Developed data architecture design to enable analysts to perform targeted customer analysis.
+- Recommended architectural improvements, design solutions and integration solutions.
+
+Manugistics Software Developer, 05/1999 to 07/2002 Accenture LLC - City, STATE
+- Used 3rd party tool to manage our client's supply chain at global sites.
+- This allowed client to better manage their inventiory.
+- Configured software to update railcar sightings for in-transit raw materials and finished products en route to factory or distributor.
+- Wrote and automated UNIX scripts to run on Control-M job scheduler.
+- Worked with other vendors to implement scheduling tool.
+- Managed demand for forecasting.
+
+- Ensured network, system and data availability and integrity through preventative maintenance and upgrades.
+
+Deputy Shift Manager - Mainframe Operations, 07/1982 to 05/1999
+
+Citicorp N.A - City, STATE
+- Managed a operations staff of 8 to run nightly batch for investment Banking and foreign exchange division.
+- Reboot of IBM 3090 LPARs to facilitate maintenance or implement emergency change.
+- Production support via JCL changes to facilitate batch reruns and fixes.
+
+- Conducted annual performance review of staff members.
+
+INTERESTS
+--------- New Castle, Delaware Flexibility: 50% Travel
+
+EDUCATION
+---------
+
+118 credits towards MIS degree: Management Information Systems
+
+City University of New York - Community College of Denver - Jamaica, Queens New York
+- Emphasis in database adminstration
+- Outstanding Achievement Award
+
+Additional Information
+
+- Location: New Castle, Delaware Flexibility: 50% Travel

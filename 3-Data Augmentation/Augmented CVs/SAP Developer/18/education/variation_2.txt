@@ -1,0 +1,220 @@
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+--------- AND TRAINING
+
+LANGUAGES
+
+CERTIFICATI ONS
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor e (555) 432-1000 <4 resumesample@example.com
+
+- 7+ years of SAP experience, working with Implementation, rollout and Support projects.
+
+- Very good knowledge on order to cash (OTC) processes.
+
+- Closely Worked with MM and Fl on integration with SD.
+
+- Well versed with the usage of ASAP methodology - scoping, project preparation, business blue printing, realization, final preparation, go-live and continuous support.
+
+- Expertise in document types, condition techniques, Pricing Procedures, Output Determination, Item Category determination, Schedule line determination, Partner determination, Revenue Account determination, Credit Management and Billing documents.
+
+- Pricing Experience: Configuration of Condition Types, Condition Tables and Access Sequences, Creation of Condition Records.
+- Configuration of Customer Master, Material Master, Pricing, and Bill of Material {BOM}, and creating the required Number Ranges for further processing when processing the Sales Document Types.
+
+- “Good understanding of Availability check and Transfer of Requirements.
+
+- Experience in different types of order processes like Rush order, Cash Sale, Return Order, Credit memo, debit memo and Free Goods.
+
+- Extensive knowledge on Special Sales Scenarios Viz., Consignment Sale, Stock Transfers, Third Party Order, Inter & intra Company Sales.
+
+Integrated the Customer EDI requirements and created partner profiles for different EDIs.
+
+- Created Partner functions and assigned them to the existing Partner determination procedure as per business requirement
+- Designed and developed standard IDOC changes to custom IDOC to meet the customer requirements, tested the changes and involved in addressing the go live issues.
+
+- Worked extensively on configuration, Unit & Integration Testing, End-User Training, User Acceptance Test, Documentation and Production Support.
+
+SAP Sales and Distribution SAP Customer master
+
+SAP Order to Cash Pricing Condition Techniques
+
+SAP ECC IDocs
+
+SAP SD CONSULTANT 03/2016 to CURRENT
+
+Accenture Contractor Jobs | Farmington, CT
+
+Title - Hallmark IT development/support offshore for Hallmark Card's, Inc.
+
+Period - Offshore {March 2016 - April 2018)
+
+Onshore [April 2018 - till date}
+
+Client Name - Hallmark Card's, inc.,
+
+Position SAP SD Consultant
+
+Responsibilities
+
+- Active feam member
+
+- Application support and maintenance
+
+- Providing permanent fixes for recurring abnormal ends.
+
+Carried out the following activities:
+
+End to End appiication support on a 24*7 support.
+
+Incident monitoring in ticketing tool.
+
+Analyze defects and track them and identify the root cause of the issue.
+
+Provided permanent fixes for recurring abnormal ends.
+
+Identifying GAPS in different SAP OTC/MTI areas and initiate Process improvement as a GAP analysis.
+Regular discussion with the client and co-ordinate with offshore team to deliver 100% error free delivery.
+Delivering the project as per schedule deadlines and maintenance support to the client.
+
+Co-ordinate with the respective stakeholders and drive the project to successful completion
+
+Compiling and writing Functional documentation of new requirements and changes and subsequent revisions.
+
+SAP SD CONCULTANT 07/2013 to 02/2016 Accenture Contractor Jobs | Fort Dix, NJ
+
+Title - PRI Patching Project
+
+Period - June 2015 - February 2016
+
+Client - British Petroleum
+
+Location - Kolkata, India
+
+Position - SAP SD Consultant
+
+Responsibilities
+
+- Active team member
+
+- Testing new Changes in different environment
+
+- Interface testing with SAP with third-party Applications
+
+Canmied out the following activities:
+
+Baseline Configuration for OTC process.
+
+Coordinating tickets/defects & assign to the process team in the marvel tool.
+Output Configuration- Output Determination using Condition Technique.
+Pricing Configuration - Create Condition Table, Maintain Access sequence.
+Maintain Base Price Report.
+
+Configuring Incompletion Log
+
+Unit Testing of the newly implemented changes
+
+Title “Voyager” Heineken
+
+Period November 2014 - May 2015
+
+Client Name - Heineken
+
+Carried out the following :
+
+Baseline Configuration for OTC process.
+
+Coordinating tickets/defects & assign to the process team in the marvel tool.
+Output Configuration- Output Determination using Condition Technique.
+Pricing Configuration - Create Condition Table, Maintain Access sequence.
+Maintain Base Price Report.
+
+Configuring Incompletion Log
+
+Unit Testing of the newly implemented changes
+
+Position - SAP SD Consultant
+
+Responsibilities
+
+- Active Team member
+
+- Defect Analyst
+
+Title - Friesland Campina
+
+Period - July 2013 to October 2014.
+
+Client Name - Friesland Campina
+
+Position - SAP SD Consultant
+
+Responsibilities
+
+Requirement analysis of the application to be developed.
+Understanding and Designing of Use Case, Class & Sequence Diagram.
+Building application.
+
+Unit Testing.
+
+System Testing.
+
+Canied out the following
+
+End to End Scenario testing of the OTS/OTD tests Scripts.
+
+Identifying proper master data in different markets/Systems for the Test Scripts.
+
+Performing Environment Checkup for new Environment & Analyzing defects in ITC Testing.
+
+Performed Environment Health Checkup for ECC & EWM Interface.
+Master Data Validation before & after Technical GO-Live.
+
+SAP SD CONOJLTANT 11/2010 to 07/2013 Accenture Contractor Jobs | Gaithersburg, MD
+
+Providing the solutions for user making mistakes
+
+Participating the month end & year end activities in country version India
+
+As a SD Consultant with the live implementation core team.
+
+Involved in the AS4S study of Organization structure and business re-engineering process.
+
+Configured the baseline configuration of the Organization structure and prepared documentation.
+
+Worked with the Gap Analysis, suggesting alternative solutions for the gaps in the form of developments.
+
+Defining and assigning the Enterprise structure with documentation.
+
+Creation and customization of customer master records.
+
+Configuration of relevant Sales Documents like Inquiry, Quotation, Sales Order and customized their utilities as per End user request
+Configuration of Various Basic Functions in Sales and Distribution like Incompletion logs, Text determination, Partner determination,
+Material determination.
+
+Worked with Pricing [Condition Records, Condition Types, Condition Tables, Access Sequence and Pricing Procedures}.
+Formulating the end user training for SD module in SAP R/3, which included preparing End user Manuals and imparting classroom
+training.
+
+Bachelor of Information Technology | Information Technology 07/2010 Vidya Jyothi Institute of Technology, Hyderabad, India
+
+English: Hindi:
+Negotiated: Negotiated:
+Assamese: Bengali:
+Negotiated: Negotiated:
+
+SAP Certified Application Associate - Sales and Distribution, ERP 6.0 Enp7
+
+
+EDUCATION (INSTITUTION)
+------------------------
+University of Michigan

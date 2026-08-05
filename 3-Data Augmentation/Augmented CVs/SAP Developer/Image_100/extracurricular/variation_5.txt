@@ -1,0 +1,55 @@
+SIVAREDDY
+
+SAP HANA CONSULTANT
+E-Mail: msreddy. bm @gmail.com Mobile: +91- 7286852018 PROFILE SUMMARY » Having 4 Years of experience in analysis, Design, development and implementation of
+
+NE OS OF OO OA OE OO Oy Oy OF
+
+Vv
+
+VYvVV Vv
+
+v
+
+HANA with strong knowledge in BODS and BOBI.
+
+Exposure on HANA Modeling Row store and Column store Tables Exposure on HANA Schemas Synonyms, Sequences and Triggers
+Exposure on HANA Schema Views
+
+Exposure on Package Views
+
+Working on Attribute views type standard and derived
+
+Working on Hierarchies creation on Attribute views
+
+Working on Calculated columns in Attribute views
+
+Working on Analytic views with Attribute views Hierarchies Working on Calculated and Restricted Columns in Analytic views
+Working on Calculationviews with Attribute and Analytic views Working on Calculation views with variables
+
+Working on Decision Tables
+
+Working on Analytic Privileges
+
+Working on HANA - DS data extraction
+
+Working on HANA - SLT data extraction
+
+Working on HANA - BO reporting
+
+Exposure on SAP BOBI 4.1 Tools BO Analysis, Lumira and BO Design Studio Exposure on SAP BOBI 4.1 Tools Webi and Dashboard Reports
+
+Having Good Knowledge RDBMS concepts and experience in Oracle and SQL Server Data base.
+
+Strong Understanding of Data warehousing concepts and data modeling.
+
+TECHNICAL SKILLS
+---------------- RDBMS : SAP HANA Data Replication Methods : SLT, BODS, SDA Reporting Tool : SAP BOBI 4.1
+Reports : Web Intelligence , Crystal and Dash board Reports ,
+
+Story boards and Analysis Applications Programming language : SAP ABAP
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

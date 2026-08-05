@@ -1,0 +1,64 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+Sap Abap Developer Phone: (123) 456 78 99
+
+Email: Info@qwikresurne.com
+
+R O B E RT S M IT H Website: cammemmery
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+Experienced .NET, JAVA and ABAP developer also a versatile application developer helping design,
+
+develop, maintain, and enhance client server and Web-enabled applications. Leaded development
+tears in the SAP FICO, MM, PP and SD modules based on the PW and ASAP methodologies,
+
+SKILLS
+------
+
+7+ years of extensive experience in developing, ABAP Developer.
+
+WORK EXPERIENCE
+---------------
+
+Sap Abap Developer
+ABC Corporation - August 2007 - March 2009
+
+Developed reports and interfaces resulting in financial stability and positive cash flow.
+Configured and cross-trained CFM Transaction and Cash Mgmt Electronic bank statement, intra-day bank statement polling, cash position, liquidity forecast, money markets
+(lending/borrowing), foreian exchange deals, AP F110 payment program, TR F111 payment program, and cash concentration,
+
+Mapped and setup interfaces for electronic payment and bank staternent/lockbox processing with banks using SWIFT MT101 and BAI2 standards,
+
+Wrote ABAP specs for special auto-clearing of ACH payments,
+
+Created SAPSCRIPT forms for dunning notices to be sent to the clients.
+
+Developed of enhancements, user exits, badis, coding standard, and financial and hr reports.
+Developed bapis with abap to json conversion, sending data by http to nor-sap system,
+
+Sap Abap Developer
+Delta Corporation - 2002 - 2007
+
+Environment AIX UNIX Skills/Tools SAPScript, ABAP, R/3 Created forms for dunning notices to
+be sent to the clients,
+
+Also supplement manifests form, fax confirmation with client and financial Information form,
+Developed ticket vouchers to be shipped to clients with itinerary information.
+
+Applied SAP notes to correct run time errors in standard SAP programms,
+
+Developed an interface to communicate Apple Vacation central booking engine with the Hotel
+Riu and other hotels booking engines,
+
+Developed a mirror engine inside R/3 to allow the AMResorts to have thelr own separate inventory.
+
+This prevented major issues and simplified the process.
+
+EDUCATION
+--------- Bachelors in Computer Systern Engineer - (UNAPEC University)
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines

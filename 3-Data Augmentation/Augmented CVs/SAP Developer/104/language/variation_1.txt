@@ -1,0 +1,117 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Having 10+ years of experience as a SAP Basis administrator which involves experience in SAP Security as well. Strong client facing
+skills with effective communication and coordinating skills with client management and team members. Hands-on exp in both
+Administration & System Maintenance tasks. Done Installations, SPS Upgrades using SUM tools, System Refreshes using both
+system copy & database restore methods for both db2 and Oracle database and using EPIUSE tool. Have been a part of BI system
+migration from Oracle to Hana. Worked on client administration tasks like Client copy (Local, Remote & Import/Export), new client
+creation, and Client deletion and maintaining client settings. Good troubleshooting skills in Portal landscape environment and good
+experience in administration of j2ee engine with Visual admin, configtool & NWA monitoring. Performed System Refreshes for
+ABAP and JAVA stacks for R3, ECC & BI systems. Strong exp in system Monitoring and issue resolving and carried out maintenance
+activities like job scheduling, parameter changes, operation mode settings, SSH key exchange, applying SAP notes using SNOTE
+transaction. Applied patches on EP NW7.0 stack and configured Federation btw BI portal and Enterprise Portal. Strong working
+knowledge on OS platforms IBM AIX & HP-UX. Set up operation modes and configured logon load balancing across the application
+servers. Experience in upgrading the support packages, stacks and Kernel on both ABAP & Java environments. Experienced in
+handling transports, setting up Transport Management system and imports through STMS & OS level, local transports and changes
+in domain controller. Good experience on Oracle and db2 database. Performed activities like Oracle patching (o-patch & mo-patch),
+activities like Table Re-orgs, Tablespace maintenance using BRTOOLS, tempfile movement on Oracle db. Carried out DBA activities
+like database refreshes using Backup & Restore Method for Oracle database & db2 database and other activities using SOLPLUS.
+Performed security administration tasks like creating users, mass user creation (SU10, LSMW), Role Creation & Assignment, Role
+transports & deletion and resolving issues based on authorizations. Good skills as Basis consultant in SAP Netweaver, SAP Solution
+Components & MYSAP Business suite with the goal of providing high system reliability, performance and optimization. Have
+knowledge of MDM (Master data Management). Proven accomplishments in roles with hands-on technical and configuration skills.
+
+Ability to work in a time-constrained and team-oriented environment. Skill set:
+
+SKILLS
+------
+- Guest services e Loss prevention
+- Inventory control procedures * Cash register operations
+- Merchandising expertise ¢ Product promotions Accomplishments
+
+- Certifications:.
+
+WORK EXPERIENCE
+---------------
+
+SAP Basis Administrator, 2014 to Current Amazon.Com, Inc. - Chantilly
+- 6C, ECC6.0 ,NW 2004s, NW 7.31, EHP2 & higher, EP 6.0 SAP SOLMAN 7.1, GRC10 Operating Systems IBM AIX (5.1, 5.3, 5.6), HP-UX 11.31 Database Oracle 9.2, 10.2, 11g, IBM DB2 V8.0 &V9.0 Merck & Co., Inc is an American pharmaceutical company and
+
+is one of the largest pharmaceutical companies in the world.
+
+Merck headquarters is currently located in Whitehouse Station, New Jersey, though in 2013 the company announced it would be
+relocating to Kenilworth, New Jersey by 2015.
+
+The company was established in 1891 as the United States subsidiary of the German company now known as Merck KGaA.
+Merck & Co.
+
+- was confiscated by the US government during World War I and subsequently established as an independent American company. It is currently one of the world’s seven largest pharmaceutical companies by market capitalization and revenue.
+
+Responsibilities: Done System Refreshes using EPISUSE, GRC10 Installations, SAP Mobility Installs, SABRIX NW7.3 install.
+Green light RTADS End to End implementation.
+
+SPS Upgrade using SUM tool/JSPM.
+
+Installation, Patching and configuration for a Sybase Unwired Platform- SUP(version 2.2.2) JAVA Splits from dual stack
+
+environments.
+
+- Language Installs.
+
+Performed System Build activities, SMD Agent install and other maintenance activities.
+- Other activities include applying SAP Notes, importing BI & BOBJ transports, etc.
+
+Involved in Portal activities, DBA tasks, troubleshooting issues, etc.
+
+Involved in BI system Migration from Oracle to HANA.
+
+- Environment: HP-UX 11.31, Oracle11.2.0.3.0,SAP ECC6.0, GRC10, SAP SCM7.02,SAP Netweaver 7.31, BI/BW, PI/XI, SAP SRM
+7.02, SAP SOLMAN 7.1, SAP EP 7.31, SAP HANA SLT 7.02, HANA Studio- 1.0.6.
+
+SAP Basis/Security Administrator, 05/2012 to 11/2013 Amazon.Com, Inc. - Philadelphia, PA
+- DuPont is a leader in chemical industry and is a diamond client for SAP in Accenture.
+- SAP has done a number of pilot projects with them before launching their key products in market.
+- DuPont has a separate business unit DPC (DuPont Performance Coating) expanding to Europe and Asia regions and is presently in Design Build Phase.
+- DuPont is now to migrating to Netweaver Platform.
+- Responsibilities
+
+SAP Basis Administrator, 05/2011 to 04/2012 Cognizant Technology Solutions - India
+- Sysco is the global leader in selling, marketing and distributing food products to restaurants, healthcare and educational facilities, lodging establishments and other customers who prepare meals away from home.
+
+- Its family of products also includes equipment and supplies for the foodservice and hospitality industries Responsibilities
+
+SAP Basis Consultant, 02/2010 to 04/2011 Applied Medical Distribution Corporation
+- EVO stands for Evolutionary Vodafone Project and is a part of Vodafone.Project EVO is a 3 year business transformation program to implement a single integrated operating model, consolidating the ERP packages from a total of 20 Operating Companies (OpCos) and key business functions of the Vodafone Group into a single instance global enterprise solution.
+- This single enterprise system will be based on SAP, other non SAP package solutions and will be integrated with OpCo legacy systems.
+- SAP will replace totally or partially the ERP solutions run by the OpCos.
+- Responsibilities
+
+SAP Security Administrator, 05/2008 to 01/2010 Amazon.Com, Inc. - Sterling, VA, India
+- BHP Billiton is The World's Largest Diversified Natural Resources Company.
+- BHP businesses, including aluminum, energy coal and metallurgical coal, copper, manganese, iron ore, uranium, nickel, silver and titanium minerals, and have substantial interests in oil, gas, liquefied natural gas and diamonds.
+- Currently we are supporting the Security areas in SAP.
+- Responsibilities
+
+SAP Basis Administrator, 2006 to 04/2008 APP Pharmaceuticals
+- APP Pharmaceuticals is a leading manufacturer of multi-source and branded inject able pharmaceutical products for acute medical care both in patient and ambulatory settings.
+- Its’ broad portfolio of products covering a wide array of therapeutic categories, APP’s products provide ongoing affordable healthcare helping millions of people in the United States and Canada fight critical illnesses Responsibilities
+- Developed front-end and back-end of web applications.
+
+CERTIFICATIONS
+--------------
+Certification Certification Status Year Certified ITIL-v3 Foundation Passed 2009
+
+EDUCATION
+---------
+
+Bachelor of Technology: Electronics & Communication Engg From Mody Institute of Technology & Science, Lakshmangarh. (Deemed University
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

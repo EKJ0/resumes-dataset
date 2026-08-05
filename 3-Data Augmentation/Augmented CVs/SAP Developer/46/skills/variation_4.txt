@@ -1,0 +1,371 @@
+PROFESSIONAL
+
+SUMMARY
+-------
+
+SKILLS
+------
+
+WORK EXPERIENCE
+---------------
+
+EDUCATION
+---------
+
+CERTIFICATIONS
+--------------
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 ‘2 (555) 432-1000 4 resumesample@example.com
+
+Versatile core banking technology professional with 11+ years of IT, Program Management, Project
+Management, application development, SAP implementation, core banking applications, financial Business
+understanding, banking operation responsibilities. Full life cycle development experience focused on
+enhancing project development, building stronger client relationships, POC, Risk management, RO! and
+increasing company revenues. Detailed analysis of complex problems and achieving long-term effective
+banking solutions. Successful track record of Global IT Project Management, Project team building, Cross-
+Functional Teams Interactions, Management Collaboration, Release Management, Process Improvement,
+Quality Assurance, Vendor Management, Conflict Resolution, Application/Product Development, Business
+Analysis Skills and Customer Relations.
+
+Multiple project full life cycle of implementation of new Citi banking sites for fixed income, investment banking,
+cash management, cards, retail, lockbox, private banking, capital market traders and cloud data centers.
+
+Three project full life cycles of joint venture implementation for banking infrastructure, business transition and
+migration. The smith barney capital market join venture with JP Morgan Chase, HSBC cards services and First
+Data/Remitco cash management.
+
+As a program manger managed Several SAP upgrade projects for core banking needs to bring out highest
+point of ROI. Managed horizontal projects overview for multiple SAP and other applications upgrade projects
+for diverse banking platform. Excellent in relationship management, manage stressful projects, On-time
+delivery, analysis on ROI, understanding clients banking technology program requirement and self-motivated/
+starter.
+
+| have received several awards for project performances, on-time delivery, relationship management, project
+saver and disaster recovery site tests.
+
+Java/C/C++ ¢ ProgranvProject Management
+
+Database design ¢ Banking Governance Risk & Compliance Excellent problem-solving abilities ¢ SAP System Implementation
+
+Data privacy applications ¢ SAP Security & Authorization
+
+Network maintenance « SAP GRC 10.0 (ARA, ARM, BRM, EAM, SOD System backups and BRF+)
+
+Technical specifications creation e¢ Team Training & Mentoring
+
+Network upgrades e Global SAP / ERP Solutions
+
+Remote access technology e SAP ECC, BI, Pl, GRC & Financial solutions Excellent communication skills ¢ Quality Assurance Standards
+
+QA tools e Project complete Life cycle Executive Business analysis Management communication and reports
+Enterprise technologies « Core Banking Regulatory Compliance & auditing Excellent diagnostic skills ¢ Citi Transaction Services Operation Work Flow
+MS Office & MS project ¢ Citi Capital Market IT Solutions and
+
+MS Visio implementation
+
+HP quality center ¢ Strategy Planning Controlling Monitoring & ServiceNow 2.0 Execution
+
+IBM Tivoli * Business Analysis
+
+Release & Change management * Microsoft project’ Office
+
+Cisco lOS
+
+; e PM Tools/Testing Tools
+
+DHCP, TCP/IP & domain * Core banking join venture projects and Windows servers OS integration.
+
+Check point security * Project timeline in Planview interface McAfee systems * Citi cards site implementation
+
+SAP SPRO configs ¢ Team leadership skills Bloomberg application
+
+Fact-set application NCR terminal software
+
+SAP ERP PROGRAM MANAGER 10/2013 to CURRENT Lam Research | Austin, TX
+
+Managing Client relationships and SAP consulting service expectations.
+
+Managing project stakeholders and project sponsors requirement, project billing, finances and
+deliveries. Communicate with executive level management for project status.
+
+Managed program in MS projects and distribution of hours, scheduled delivers and other program
+manager tasks.
+
+Implement SAP ECC, Fl, CO, Pl, Xl, CRM, HCM, HANA and GRC 10 solution.
+
+Managing multiple upgrade projects for SAP ERP systems.
+
+Managing SAP Security, GRC , BRF and technical teams.
+
+Provide guidance to new employees and train users on PM tools.
+
+Implement SAP modules global Workflow as per clients business requirement.
+
+Work with sales team to demonstration of SAP products functionality, solution and presentation to new
+clients.
+
+Create Statement of work, project budgets, billing, PM best practices and Auditing.
+
+Manage multiple clients portfolio and multiple SAP project at a time.
+
+Manage consultant staff performance as per clients expectation.
+
+Working with SAP software Sr sales teams and provide a demonstration on SAP products, presentations, functionality for new clients.
+
+PR2GRAM/PROJECT MANAGER 03/2008 to 08/2013 Exelon | Millsboro, DE
+
+Communicated effectively to manage Stakeholder expectations on multiple projects. (professional CRM
+awarded)
+
+Supported project negotiation by providing SME expertise, negotiated for appropriately skilled human
+resources for project.
+
+Lead and mentored cross functional teams (20+) for a multi-site IT Program.
+
+Established compatibility with third party software products by developing program for modification and
+integration.
+
+Managed Development and implemented core banking complex Internet and Intranet applications on
+multiple platforms.
+
+Primary contact for external clients providing the role of trusted advisor for ERP technology, consultant
+and market industry expert for core banking services.
+
+Supervised the programs of 28 team members, offering constructive feedback on their work performance for multiple projects.
+
+Drive the development of banking Client's thought leadership on strategic industry and business issues.
+This includes creating and validating Client's proof of concept (POC) in the market, as well as
+incorporating the POC into new/revised offerings and client engagements.
+
+Managed banking technology infrastructure design meetings and decisions across internal departments.
+
+Plan and execute the entire engagement with responsibility for multiple project management, client
+relations, billing, staffing and team leadership.
+
+Work with practice leaders to ensure that project managers are communicating with clients on Project
+Scope, Timelines and Budgets, including Integration, Change Management, Teams, Cost, and Risk
+Management and managed PM on internal banking clients.
+
+Development and implementing staffing plans and performance measurement systems for a production
+based operation from internal project system (Planview).
+
+Lead in implementing/applying banking standard processes for change management, risk management,
+issue management, quality assurance and project communications. (Lessons learned from past
+projects)
+
+Minimized time required for project by effective Scope & Time Management.
+
+Managed at a time multiple project scope and change through Knowledge Transfer .
+
+Reduced risk of failure through Project Risk Management
+
+Minimized and Monitored issues using Project Controlling
+
+Program manager of SAP ERP workflow process. BRF workflow for core banking clients, design and
+implemented for GTS, cards, finance DPT and lockbox.
+
+Program leader for disaster recovers sites implementation and Go-live for critical banking clients: capital
+market, lockbox, Lava traders, futures market, fixedincome and operations. (On-
+
+time delivery project award)
+
+Member of banking technology Governance Council program. My team develop new standards for the
+organization to support Development and Business Teams responsible for delivering software
+applications to customers globally as per governance council.
+
+Managed Bank analyzer ERP system implementation project and supported go-live by my team.
+Program manager for Midwest team of joint venture project for JP Morgan behalf of Citi to migrate to
+JPM capital market ERP platform. (creativity and project saver awarded by both side)
+
+Program manager of joint venture for Citi cash management portfolio and First Data Remitco (FDR).
+Accounts migration from Citi ERP system to FDR ERP system. Retire Citi infrastructure from FDR site
+without compromising production. (awarded 5 Star employee).
+
+Managed multiple application upgrade projects for financial services: J&B soft, Micr capture, transit
+system, servers OS 2012 and other small scale tools.
+
+BACIKING TECHNICAL PROJECT MANAGER 10/2006 to 02/2008 li-Vi Incorporated | Dallas, TX
+
+Managed banking business leaders/sponsors expectations and understand business requirement and
+deliver SAP project.
+
+Managed core banking clients SAP implementation projects for Fixed income, Trading, investment
+banking, Private banking, consumer banking, Citi transaction services, Cash management lockbox and
+Citi private/consumers credit card business.
+
+Developed and implemented training programs that provide guidance and direction for the execution of
+system validation processes, tools and techniques to IT Projects - technical, business, and quality
+groups from a global perspective.
+
+Establishing the IT Project Groups as a Global Center of Excellence for Banking Client in the areas of
+system development, validation, data integrity, and system reliability.
+
+Critical Banking financial Electronic Data, Systems, and Services Quality, Compliance Master Plan &
+communicate the plan with IT, Legal, and client organizations that serve as system owners/users or
+sponsors external data systems or services. (protect Citi from government audit fines)
+
+Develop and implement Project Management strategies, processes, tools and techniques to identify
+areas for improvement within the electronic data, systems, and services environment. Implemented
+action plans for improvements on ROI. Work with IT, Legal, and business organizations as appropriate
+to effectively execute action plans for global finance clients.
+
+Lead and participate in cross-functional activities to integrate information and systems that may have a
+quality or regulatory impact.
+
+Sr Technical contributor to the product walk through of the high level design (HLD).
+
+Subject matter expert of clients architecture and SAP banking infrastructure.
+
+Developed detailed Technology work plans, schedules, project estimates, resource plans and status
+reports, interfaced with senior project sponsors, senior management, director of business analysts on
+status of projects.
+
+Provided in-depth and sophisticated analysis with interpretive thinking to define problems and develop
+innovative solutions.
+
+Influenced strategic functional decisions through advice, counsel or provided services which directly
+impact the business.
+
+Worked effectively and efficiently under tight deadlines, high volumes and multiple interruptions.
+Ensured effective project closure all the way from pre-planning through production turnover,
+documentation of lessons learned and provision of feedback on project resource performance
+Technology Manager of Midwest business division of Lockbox cash management. (Everyday approximately $25+ mil transaction to clients accounts and treasury)
+
+Implemented a Citigroup CBOT/CBOE capital market technology infrastructure and supported until
+client was satisfied with up-time technology services. ( approximately daily $100 million trades)
+Implemented SAP critical roles, Functions, SOD rule sets BRF, MSMP workflow and GRC systems.
+Integrated to Business objects, databases, ECC systems and other applications.
+
+SFCBUSINESS ANALYST 01/2006 to 10/2006 Applied Systems, Inc. | Tampa
+
+Managed Citi transaction services cash management technology projects.
+
+Manage/Monitor Cash management Business workflow for wholesale and retail accounts.
+
+Manage ERP system productivity and operation users productivity by keystrokes in a application system
+for entire pass1-Pass2-transit to funds balance.
+
+Manage lockbox cash management technology work flow process.
+
+Manage background banking Technology operations
+
+Implement new accounts in the ERP system and work with product management and implement accounts AR workflow.
+
+implemented creative business productivity databases.
+
+Created several change management procedures for accounts setups, upgrades, changes, and production performance issues recovery.
+
+Managed several major production/performance issues and met accounts AR/AP deadlines.
+Manage/implemented Several banking software upgrades, UAT process, testing, pre-production setups
+and Go-live.
+
+Very good understanding background banking, cash management, Lockbox, Capital market, transaction
+services.
+
+SFCNETWORK AND SYSTEM ADMINISTRATOR 04/2005 to 01/2006 Sure Payroll | City, STATE
+
+Oversight of finance/accounting software validation activities for IT Projects with primary emphasis on
+global systems, projects, and network strategies.
+
+Worked in collaboration with Onshore / Offshore global teams and business groups development to
+support finance clients needs for creation, transmission, and storage of electronic data, regional, group,
+and site levels.
+
+Developed and implement training programs that provide guidance and direction for the execution of
+system validation processes, tools and techniques to IT Projects - technical, business, and quality
+groups from a global perspective.
+
+Lead and participate in cross-functional activities to integrate information and systems that may have a
+quality or regulatory impact.
+
+Assisted in production support activities including problem determination and impact analysis in addition
+to coding and testing duties.
+
+Identified and communicated risks and impacts and also proposed risk mitigation options.
+
+Subject matter expert and ensured understanding of system architecture & infrastructure.
+
+Managed TCP/IP and sub netting, private IP for internal network and Cisco VPN clients.
+
+Managed the Cisco Call managers for user administration VoIP and PBX switches for analog lines.
+Experienced in Project Management tools, e.g. MS Project Visio & Clarity.
+
+Persuaded and influenced stakeholders through strong and comprehensive communication and diplomacy skills.
+
+Implemented several banking/finance new technology products with business teams.
+
+Managed global technology support team for entire organization.
+
+Implemented Change management procedure for technology upgrade and new products.
+
+Managed organization servers OS, network gears, security products and other applications.
+
+SYOTEM AND NETWORK ADMINISTRATOR 07/2004 to 04/2006 DePaul University | City, STATE
+
+Project lead for implementation of LAN for business school division. interconnect LAN with a centralized
+WAN, test connection and bandwidth.
+
+Managed Windows Mass builds over the network and validate after builds are completed. Add to
+domain, group policy and Test the domain connectivity.
+
+Maintain LAN networks for Lincoln park campus.
+
+Implement monthly security patches, develop in dev - > test on QA systems and deploy to a production
+systems through a analyzer tool.
+
+Active directory administrator (users, groups, roles and security policy)
+
+Train Interns on desktop technologies and help them understand procedure to resolve tech support
+issues for level |.
+
+Implementation of 2nd generation of Wireless network (B&G). Installation of W-antennas, configure,
+connect to LAN/WAN, signal strength trough Cisco analyzers devices, test and go-live support.
+Managed upgrade project for windows systems from NT to XP. Tested application for new education
+PRD platform.
+
+Servers administration tasks - > patches, upgrades and auditing. Application server administrator.
+Managed production support tickets for level II and Ill.
+
+Installed several hardware for network gears, firewalls, servers, fiber optic, data center setup, patch
+panels, analog lines and water/temperature sensors.
+
+DEOKTOP ENGINEER 01/2001 to 07/2004 American Computer Institution | City, STATE
+
+Build desktop and laptop by using different vendors hardware and install Windows OS.
+
+Client on-site setup of computer system package and first time user training.
+
+Computer systems Sales call
+
+On-site and On-phone tech support for application, internet services, AOL, MS office products and
+technical troubleshooting.
+
+Upgrade hardware on a 2nd generation routers, desktops, laptops, printers and legacy systems.
+Sr shipping manager task to maintain customers order for out going and incoming. Maintained a MS
+SQL database.
+
+Installed very complicated application and understand manuals to troubleshoot app issues.
+Configure the NIC cards and good understanding of TCP/IP.
+
+Technology support customer service calls and contact vendors for warranty related services.
+
+MBA | MS in IT Project Management 2011 DePaul University, Chicago, IL
+
+Baohelor of Science | BS in Network Security 2006 DePaul University, Chicago, IL
+
+Backing Program Management 2010
+
+Internal Citigroup training , E-learning
+
+SAP GRC AC 10
+
+Bloomberg Application
+
+Certified Information System Security Professional CCNA Routing, Switching & security
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

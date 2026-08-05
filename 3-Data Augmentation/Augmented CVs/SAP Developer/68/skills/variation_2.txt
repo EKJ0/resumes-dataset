@@ -1,0 +1,156 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+ACCOMPLISHMENTS
+
+- CERTIFICATIONS: SCRUM Master, ITIL - HP Service Management
+- Awards : Service Award, Simplicity Award, Outstanding commitments and contribution award.
+- Boosted performance for company's B2B application 70% by streamlining ITS upgrade projects.
+
+PROFESSIONAL SUMMARY
+--------------------
+
+Talented IT professional specializing in leading high-performing and multi-disciplinary teams from service and product development through
+successful product launches. Accustomed to managing multiple projects and priorities in fast-paced environments. Managing many SAP and
+other implementation projects globally. Innovative and solutions-focused IT Project Lead with more than 10+ years experience in numerous
+
+different business functions and organizations.
+
+SKILLS
+------
+
+- Agile/Scrum Methodology e SAP - FI MM PP SD Modules
+- Collaboration tools e Business Process Improvement
+- Result Oriented e¢ LSMW, Winshuttle Studio, Load Runner, Win Runner, SQVI
+- System Development Life Cycle(SDLC) e Change Management
+- MS Project e Requirement Gathering
+- Team Player e Mitigation Plan development ® proactivity and self motivation
+
+WORK EXPERIENCE
+---------------
+
+Sr. SAP Consultant/MDM Lead, 10/2016 - Current Koch Industries, Inc. - Asheboro, NC
+- Led data migration team responsible for data extracting, cleansing, data loading, and data validation for master data.
+- Conducted daily stand up meetings to discuss daily progress and issues.
+- Translated business goals, feature concepts and customer needs into prioritized product requirements and use cases. Worked with the SME (Subject Matter Expert) and business users to prepare business rules and values for each of material master fields and created standardize template to use for data extraction from source system.
+
+Developed custom scripts to extract and load the data into the target system. Worked with business to come up with mapping conversion
+tules and based on the requirement create standardize template for data extraction.
+- Assigned the tasks of analyzing, designing and configuring material management functions to meet client requirements.
+
+Prepared and maintained documents on how to load, validate and do end-to-end testing once data into the target system.
+- Performed cut over activities and maintained detailed documentation to be shared by the whole team.
+
+Master Data Migration Lead Consultant, 04/2015 - 07/2016 E-Business International - Princeton, NJ, America
+
+Led data migration team responsible for data cleansing, data loading, and data validation for master data.
+
+Conducted daily stand up meetings to discuss daily progress and issues.
+Performed cut over activities and maintained detailed documentation to be shared by the whole team.
+
+Collaborated with the business users to procure and prepare data for migration to the enterprise system.
+
+Standardized processes for different transactions and implemented automation during data migration for the efficiency.
+
+Coached and mentored users providing data management training on how to execute data loading tools and how to create new product into
+the system.
+- Assigned the tasks of analyzing, designing and configuring SAP material management functions to meet client requirements.
+
+Developed custom scripts using winshuttle and other data loading tools to load data into the target system.
+Worked with the SME (Subject Matter Expert) and business users to prepare business rules and values (Migration/transition Rule) for each
+of material master fields and created standardize template to use for data extraction from source system.
+
+Prepared and maintained documents on how to load, validate and do end-to-end testing once data into the target system.
+
+IT Project Lead, 04/2005 - 04/2015 Abbott Laboratories - Honolulu, HI
+- Managing many SAP and other implementation projects globally working as a project lead.
+
+Direct and lead development team from project initiation through delivery of final product.
+
+Led weekly meetings to develop team strategies and define project goals.
+
+- Experience in leading and managing offshore teams to co-ordinate the work and resource.
+
+Performed project plan, schedule, timeline and estimation effort for all the project related objectives.
+- Dynamic and versatile professional exposed to complete Software Development Life Cycle over 10+ years of experience in numerous different business functions and organizations.
+
+Worked with business area team leaders and gathered detailed use cases and requirements through the daily meetings.
+
+Translated detailed product requirements into technical specifications for development team.
+
+Strong understanding of business change needs, assessing the business impact of those changes, capturing, analyzing and documenting
+requirements and supporting the communication and delivery of requirements with relevant stakeholders.
+
+Work closely with project owner in backlog management and continuous delivery of features.
+
+Performed code review, Quality check for the system and approved change requests for next level. Allow finalized technical objects to be
+transported to Production.
+
+Coached and mentored assigned developers through technical requirements, business logic and with coding to meet business deadlines.
+
+Resolving critical issues in production like performance issues, application related issues or job scheduling issues.
+
+Interviewed prospective consultants for project resource.
+
+As a part of audit team, provide technical support and direction of business activities related to SOX compliance and ICS controls.
+
+Performed Go-Live and post go live support after implementation.
+
+Excellent communication, interpersonal skills, quick learner, highly motivated, results oriented and enthusiastic team player.
+
+Sr. Programmer Analyst, 04/2000 - 03/2005 MI Homes - Dallas, TX
+- Extensively supported custom applications for SAP's different module like FI, MM and SD. Developed interfaces that exchanged data from various legacy systems to SAP system. Implemented many custom applications and developed SAP Script and Smart Forms like BOL(Bill of Leading), Invoice and Sales Order etc.
+
+- As apart of Implementation team, supported many Go-Live and Post Go-Live activities for the projects.
+
+Developed and evolved the customer-facing web applications.
+
+Translated business goals, feature concepts and customer needs into prioritized product requirements and use cases.
+
+Developed standard guideline for IT way of working and for how to use HO - ITLE service tool for CRs and incident.
+
+Mentored new hires and trained them with company’s way of working (WOW).
+
+Perform onboarding process for new hires and created and maintained developer's key or object key's for SAP user on SAP service market
+
+place.
+
+Co-coordinated and performed support upgrade activity.
+
+Web Developer, 1997 - 04/2000 Exelon - City, STATE
+- Designed & developed Intranet, Internet and client-server based applications including Visual Basic, Visual Studio , VISIO, JavaScript’s and Visual Source Safe as front end and used SQL server database as back end to extract and store data.
+- Developed secured web application providing billing information for the corporate customers using Oracle, ASP Script, VBScript, HTML.
+- Developed an application to move from Mainframe environment to Client Server using Visual Basic and SQL.
+- Created Software Evaluation web application using HTML, ActiveX Control, IDC, VB Script for the Intranet projects.
+- Researched, tested and documented the use of the potential tools needed for the company.
+
+Programmer Analyst, 03/1996 - 11/1996 Kellogg School Of Management - City, STATE
+- Built databases using Microsoft Access 2.0, 7.0.
+- Developed student's registration web application using HTML 3.0, IDC.
+- Developed online course catalog for student.
+- Coded Visual Basic modules using CGI script.
+
+- Prepared documentation for several applications.
+
+Programming Advisor, 08/1994 - 04/1995 Loyola University Of Chicago - City, STATE
+- Assist students with debugging of programs.
+- Developed and held training sessions on the use of the internet.
+- Helped students use different software packages.
+- Fixed software and hardware related problems using various tools.
+
+- Managed on-line support for the students.
+
+EDUCATION
+---------
+
+Master of Science: Computer Science, 1996 Loyola University - Chicago, IL
+- Completed study in Computer science and Technology.
+
+Bachelor of Science: Computer Science, 1991 L.D. Engineering College - Gujarat, India
+- Completed study in Computer Science.
+
+
+ADDITIONAL SKILLS
+------------------
+Leadership, Team Management, Public Speaking

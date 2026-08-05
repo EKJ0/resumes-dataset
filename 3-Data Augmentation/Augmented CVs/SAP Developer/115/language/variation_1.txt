@@ -1,0 +1,156 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+Career Overview
+
+Results-driven Sap Security Administrator with two full life cycle implementation, supporting Go-live, Post Go-live and Production
+support .
+
+Extensive experience in Requirement gathering, Design, Development, and Maintenance of SAP applications security.
+
+Extensive User and Role maintenance experience. Broad experience in maintaining single, composite, and derived roles using Profile
+Generator (PFCG). Central User Administration (CUA) experience to create users, assign roles, and maintenance across all SAP
+modules ( ECC, SRM,CRM, SD/MM XI/PI, BW/BI including Solution Manager).
+
+Very good knowledge of producing and analyzing reports in SAP using SUIM, and security related tables (AGR*, USR*, etc), and
+
+customized Query reports.
+
+Qualifications
+
+- Experienced with SAP IT security principles, methods and © Risk, Control & Compliance Approva Bizright and GRC 5.3 procedures. (CUP, RAR, SPM)
+
+- Experienced with information systems/software development ¢ Experienced with IT Audit compliance which FDA and SOX
+standards ,policies, procedures, regulations, rules and guidelines 404 regulations
+
+- SAP Security Manager Roles Central User Administration ¢ Experienced with Segregation of Duties (SOD) with GRC 10.0 (CUA) tools (GRC- AC , GRC-EAM, GRC- PC).
+
+- Extensive Profile Generator (PFCG) experience e Excellent Communication skills written and verbal Accomplishments
+
+- Created and modified Single, Composite and Derived roles and secured by setting organizational filters such as Company Code, Plant, Cost Center, Profit Center, and Purchasing Organization.
+
+- Continuously improved security configuration to reflect best practices and prepare for system audits.
+
+- Assigned and monitored assignments for Fire Fighter roles/access to functional team members.
+
+- Participated in reviewing team work products/deliverables for quality and completeness and defect resolution management.
+
+- Reviewed critical and sensitive authorizations and implemented improvements to meet audit requirements.
+
+WORK EXPERIENCE
+---------------
+
+Sr. Application Security Support Specialist (SAP), 07/2012 to Current
+
+Novelis
+
+- Planned and implemented all Security phases of SAP functional releases for ECC 6.0 (Order Management, Inventory Management, Planning, Procurement, Quality Management, Material Master Data, and Finance), SRM, PDMI, CRM and SAP Business Warehouse
+
+working with the SAP functional Team to implement security changes to control access; also working with Process Owners to gather
+business requirements and translate them into technical solutions.
+
+- Supported the functional team responsible for the implementation and roll out of SAP business process, specifically in the areas of governance, risk and compliance (GRC 10.0) (AC, PC, EAM).
+
+- Coordinated with basis team and release management team to troubleshoot and resolve systems and sap role (s) related issues and
+
+also troubleshoot of End Users authorizations related issues using SU53/ST01 tools.
+
+- Responsible for the creation of user's accounts, provision sap job roles using the Account Management and Provisioning System
+
+(AMPS) to customers to ensure that they have the correct access to perform their duties in a timely manner.
+
+- Used Central User Administration (CUA) tool Suite to create R/3 and CRM and BW user accounts, monitor user's role (s), profile (s) authorizations and activities via PFCG tool.
+
+- Worked on critical authorization Objects like S_ TABU_DIS, S. DEVELOP, S TABU_NAM, S_ADMI_FCD and S_ TRANSPRT.
+
+- Designed and implemented security using SU24 to maintain Check Indicators for the Transaction Codes.
+
+- Extensively Used SUIM (User Information System) to generate various reports for audit monitoring, Performed reconciliation of user master record and roles using PFUD and SCUL.
+
+- Assigned and monitored assignments for Fire Fighter roles/access to functional team members.
+- Participated in reviewing team work products/deliverables for quality and completeness and defect resolution management.
+
+- Reviewed critical and sensitive authorizations and implemented improvements to meet audit requirements.
+
+SAP Security Analyst, 07/2011 to 07/2012
+
+Agreeya Solutions
+
+- Involved in full cycle global implementation of SAP Version ECC6.0 with over 10,000 users.
+
+- Designed, implemented, and modified Security roles using Profile Generator (PFCG). As the ERP program moves through implementation phases, some responsibilities my responsibilities included: Identification and evaluation of SOD risks generation by Access permissions.
+
+- Generated monthly SoD reports for Roles, Users and custom functions and authorization objects, advising project teams and process owners on changes needed to ensure Access and Security designs are SOD compliant.
+
+- Recommended and advised for Role owner and Compliance personnel regarding SOD Rules and assisted with process definition for provisioning requests (including emergency access process and authorization workflows).
+
+- Performed SAP application security and Governance Risk Compliance (GRC) application production support by handling tickets for end users provisioning, End users accounts locked/unlocked and sap roles changes requests. Involve in testing, documentation of GRC Access Control and work closely with the Business process to ensure any risks/issues are addressed;
+
+- Provided a day to day remediation, rule set maintenance and control support in the Risk Analysis and Remediation (RAR) application maintain master data in the Compliant User Provisioning (CUP) and Enterprise Role Management (ERM) application and Solid understanding of Segregation of Duties (SoD), critical access and other regulatory guidelines.
+
+Senior SAP FSP Security Analyst, 06/2007 to 05/2011 Cardinal Health Inc - City, STATE
+
+- Primarily responsible for Analysis, Design, Development, Testing and Implementation of about 500 roles redesign in BI, ECC, SRM, PI, Portal and CUA applications for audit readiness project.
+
+- Performed risk analysis in GRC 5.3 RAR, CUP, SPM tools for SoD Analysis, to meet SOX and FDA requirements for Medical and pharmaceutical business segment and checks for Role modification,
+
+- Supported GRC 10.0 EAM, GRC-AC and GRC- PC implementation and use SoD matrix to Role Access simulation.
+
+Worked with Business users and functional team to understand business requirements and to design and build end users roles for
+various processes with appropriates restrictions.
+
+- Performed analysis, design and implementation of security for the Order Fulfillment (OF), Materials Management (MM) and Procure To Pay (P2P), Sales and Distributions (SD) modules.
+
+Acts as liaison with SAP users for troubleshooting security issues including investigating, analyzing, and solving software problems
+and mapping user business requirements, processes and objectives; developing necessary product modifications to satisfy user and
+business needs
+
+Cisco Network Engineer , 02/2004 to 01/2006 Verizon Business - City, STATE
+
+Responsible for configuring Cisco routers as well as working in conjunction with Field Techs to activate new sites (turn up layers 1-3).
+Troubleshoot Telco / routing issues, build VPN tunnels with proprietary tools, and execute customer acceptance testing and billing
+procedures.
+
+Remote support function--As the Field techs attempt to perform turn up and re-configure the router when the Field Technicians calls
+
+in. Identified Security issues, recommended and implemented solutions to problems
+
+Education and Training
+
+Bachelor of Science: Bachelor Computer Science, 2001 University - Gif-sur Yvette
+
+CERTIFICATIONS
+-------------- CompTia Security+ Cisco Certified Network Associate CCNA
+
+Microsoft Certified Professional MCP
+
+Security Clearance: » NAC, PIT1
+
+TECHNICAL SKILLS
+----------------
+
+SAP-Security Admintration Senior 8 Current GRC Access Control 10.0 Senior 5 Current IT Compliance (SOX) Senior 5+ Current
+SDLC, Change Management and Operations Senior 8 Current Management
+
+SKILLS
+------
+
+- Ability to analyze problems and provide clear recommendations.
+
+- Strong organizational skills.
+
+- Able to collaborate with users and a strong desire to excel.
+
+- Excellent communication skills- written and verbal.
+
+- Good interpersonal skills.
+
+- Able to work independently as well as a team player and can manage own workload.
+
+- Able to multi-task and work under tight deadlines.
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

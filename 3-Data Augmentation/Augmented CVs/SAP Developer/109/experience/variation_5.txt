@@ -1,0 +1,101 @@
+CANDIDATE LEVEL: Lead / Principal-Level Candidate
+
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+-------
+
+Motivated SAP Analyst bringing 5 years experience of functional expertise in SD and Logistics Execution. Effective problem solver and
+proven team player with a demonstrated history of working in the automotive industry seeking to obtain career opportunities to utilize and
+further grow my SAP expertise in the Sales & Distribution and Warehouse Management Functional Areas.
+
+SKILLS
+------
+- Functional Expertise with SAP Sales and Distribution e Debugging with SAP ABAP
+- Functional Expertise with MM, WM. and FICO Integration Points © Project Management within SAP Sales and Distribution e Business Process Improvement
+- Ecommerce Integrations with SAP e Business Process Mapping with Microsoft Visio
+
+- Salesforce Integrations with SAP
+
+WORK EXPERIENCE
+---------------
+
+11/2019 to Current SAP Analyst, Sr Cantel Medical - Stratford, CT
+
+- Direct and Execute IT and business driven projects on the Sales & Distribution side of the business as a project lead and Subject Matter Expert to simplify and optimize system use and improve customer satisfaction and business processes for the goal of improving revenue and reducing costs of sales for the many different sects of the business.
+
+- Ensure optimal transition and adoption of new changes by the business users through adequate User Acceptance testing for the business requested changes and improvements that involve Configuration and Development in the Sales and Distribution Functional Area of SAP.
+
+- Optimize integration points through collaboration with the SAP ISC team on the WM functionality within our SAP Outbound Logistics processing as an additional means towards the “Target Zero” initiative of ensuring zero downtime for the business.
+
+- Achieve the “Target Zero” initiative of ensuring zero downtime for the business through Steady State maintenance for SAP system configurations, and the interfaces between SAP and other CRM, Ecommerce platforms, and Outbound Shipping software platforms such as Salesforce, Magento, and Process Weaver.
+
+- Facilitate system changes and improvements for the Consumer and PTV business by serving as the IT Business Partner and the main IT Point of Contact for Aftermarket Logistics and Shipping support in SAP.
+
+- Drive system and business process improvement to achieve shipping and freight costs reduction by serving as the Subject Matter Expert for Aftermarket Logistics and Shipping within SAP
+
+08/2018 to 11/2019 SAP SD Analyst Textron Specialized Vehicles - City, STATE
+
+- Executed IT and business driven projects on the Sales & Distribution side of the business as a primary SAP SD resource to simplify and optimize system use and improve customer satisfaction and business processes for the goal of improving revenue and reducing costs of sales for the many different sects of the business
+
+- Ensured optimal transition and adoption of new changes by the business users through adequate User Acceptance testing for the business requested changes and improvements that involve Configuration and Development in the Sales and Distribution Functional Area of SAP
+
+- Executed towards achieving the “Target Zero” initiative of ensuring zero downtime for the business through Steady State maintenance for SAP system configurations, and the interfaces between SAP and other CRM, Ecommerce platforms, and Outbound Shipping software platforms such as Salesforce, Magento, and Process Weaver
+
+- Facilitated system changes and improvements for the Consumer and PTV business by serving as the IT Business Partner and the main IT Point of Contact
+
+08/2017 to 08/2018 IT LDP-SAPSD Textron Inc - City, STATE
+
+- Executed IT and business driven projects on the Sales & Distribution side of the business as a contributing SAP SD resource to simplify and optimize system use and improve customer satisfaction and business processes for the goal of improving revenue and reducing costs of sales for the many different sects of the business
+
+- Utilized the Change Control Process to apply additional configurations or enhancements as needed for the business in a way to balance the expected SLAs from the business as well as be in optimal compliance with defined IT Audit standards
+
+Facilitated system changes and improvements for Parts, Garments, and Accessories (PG&A) section of the
+business
+
+07/2016 to 08/2017 IT LDP - SAP Security Textron Inc. - City, STATE
+
+- Utilized Transport Management System (TMS) tools to facilitate the SAP Change Management Process for Single Role and Composite Role changes within the SAP environment to be in optimal compliance with defined IT Audit standards
+
+- Accessed Segregation of Duties validation of all Role Changes and SAP Access Requests through SAP GRC and Approva functionalities to ensure optimal SAP access for the business users across the many business units and minimize volume of access request and emergency access needs
+
+EDUCATION AND TRAINING
+
+2016 Bachelor of Business Administration: Information Systems Georgia Southern University - Statesboro, Georgia
+GPA: 3.60, GPA: 3.49
+
+Activities AND Honors
+
+CERTIFICATIONS
+-------------- SAP Certified Associate in Business Process Integration using SAP ERP 6.0 EhP 6.
+
+ACCOMPLISHMENTS
+
+Process Weaver Implementation for GSE TUG (Mar 2020 - Nov 2020)
+- Ledthe implementation of the Process Weaver bolt-on in SAP for the GSE TUG facilities as part of the GSE TUG SAP Implementation.
+- This piece of the pie is effectively streamlined the shipping process on the Aftermarket Parts side as well as providing visibility to the freight costs incurred
+- On the vehicles shipping side, it has replaced the use of InSource for BOL printing purposes and allows the necessary processing for Logistics be handled in one system
+- Parallely contributed to the WM implementation for GSE TUG as the SD/LE liaison from the SAP SD team and was able to lead the charge on a bulk of the Label and Printer Determination logic to improve operational efficiency, as well as I was able to setup automation on the Outbound Delivery processing and picking processes for the Aftermarket Parts fulfillment from the Kennesaw location
+Demo Process Redesign (Sep 2019 - Nov 2020)
+- Completed a redesign of the Demo Ordering process in SAP as a means to reduce misleading production demand with the SAP, as well as to add accountability to the different steps within the process that previously had zero visibility
+- Reduced iInadequacies in this process have led to high costs of inventory that have had to be written of due to lack of visibility.
+- Interfaced receipts and transfers of the units with Salesforce to add more self-sufficiency for our Sales Reps, as well an additional level of visibility and processing to limit more manual SAP transacting
+Hauler 4x4 Ordering Automation (Feb 202 - Jun 2020)
+- Led the implementation of the intra-SAP Automation for Hauler 4x4 and PG&A Intercompany Order-To-Cash processes as an effort to reduce manual transacting in dual SAP systems through automation of Order Creation in SAP system 2 and Goods Receipt in SAP system 1 based on the systematic Deliveries in SAP system 2
+- This improved customer satisfaction due to timelier invoicing for these Sales Orders and will also reduce intercompany inconsistencies from the dual transaction for these orders in both SAP systems.
+Techforce Turf Addition (Textron Specialized Vehicles) (Jun 2019 - Jan 2020)
+- Eliminated manual SAP processing of the Work Order processing for the Turf business by Integrating them into the Techforce environment, which allows our Jacobsen service techs the ability to process Work Orders through the Techforce application on top of Salesforce as a precursor for our move on the standard Salesforce Field Service application at a later date
+- Optimized existing integration points between Salesforce and SAP to provide a more seamless framework for the future move to the Salesforce Field Service application Process Weaver Implementation for Calif. Parts Warehouse (Textron Specialized Vehicles) (Sep 2019 - Dec 2019)
+- Eliminated an out-of-date server and the roughly $1,200 annual server maintenance expenses associated with the legacy server for our Parts Warehouse in Mira Loma, CA
+- Collaborated heavily with the same Process Weaver technical team from Augusta implementation as we leveraged much of the existing functionality with some more out-of-the-box setup compared to our previous implementation to reduce implementation expenses by
+roughly $8,000
+- Ensured it’s successful and seamless transition for our business users through timely Steady State support for this bolt-on during the Post Go-Live Support period Process Weaver Implementation for Augusta Parts Warehouse (Textron Specialized Vehicles) (Sep 2018 - Jan 2019)
+- Optimized shipping efficiency and contributed to the 900 lines average increase in daily shipping volume for the Parts Warehouse in Augusta through successfully implementing an SAP Bolt-On shipping software known as Process Weaver that replaced our legacy Shipping Software
+- Eliminated an out-of-date server and the roughly $1,200 annual server maintenance expenses associated with the legacy server
+- Collaborated heavily with the SAP ISC team for this project as it was worked parallel with our WM implementation, and many or the requirement coincided with upcoming process changes relate to the WM implementation
+- Ensured it’s successful and seamless transition for our business users through timely Steady State support for this bolt-on during the Post Go-Live Support period
+Magento B2C Ecommerce (Textron Specialized Vehicles) (Jan 2018 - May 2018)
+- Participated as the main SAP resource for this project and provided extensive IT Testing for the interface between SAP and Magento Ecommerce Site for our B2C business for Aftermarket Parts and Accessories for EZGO to ensure seamless integrations with our SAP environment.

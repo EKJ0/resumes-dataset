@@ -1,0 +1,265 @@
+JESSICA CLAIRE
+
+@& resumesample@example.com
+& (555) 432-1000
+
+9 Montgomery Street, San
+Francisco, CA 94105
+
+SKILLS
+------
+
+SAP Core Skills:
+
+SAP Sales and Distribution - 7 Yrs SAP Service Management/ Customer Service - 15 Yrs
+
+SAP Work management (PM) - 15 Yrs
+
+SAP Project Systems - 7 Yrs
+
+SAP Project Management - 3 Yrs SAP Compatible Units - 2 Yrs
+
+S/4 HANA Simple Logistics - 4 Months
+
+SAP cProjects - 5 Months
+
+SAP Archiving - 3 Months
+
+SAP Integration Skills with:
+- SAP MM, PP
+
+- SAP Controlling
+
+- SAP HR/CATS
+
+Non SAP Functional Skills:
+
+- Microsoft Project and Microsoft Office
+
+- Solution Manager
+
+- ASAP and SAP Activate methodology
+
+EDUCATION
+---------
+
+Capella University
+Minneapolis, MN + 2003 MBA: International Business International Business
+
+NITIE
+
+Mumbai, India + 1990 Masters:: industrial Engineering Industrial Engineering
+
+SVU College of Engineering
+Tirupathi, India + 1989 Bachelors:: Mechanical Engineering
+
+Mechanical Engineering
+
+ESC Government Polytechnic
+Nandyal, India + 1984 Diploma: Civil Engineering Civil Engineering
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- 25 years of work experience spanning SAP Consulting, Project Management and Automotive industry.
+
+- 13 SAP Full Life Cycle Implementations, out of this 7 Projects in SAP CS
+
+- Worked in all phases: Project Management, Individual phases, production support, enhancements.
+
+- Customer Service Skills: Master Data objects, PM objects, PM processes, Repair Orders, PM reports.
+
+- Industry experience in Automotive, Utility, Chemical, Engineering, Oil & Gas, Energy, Electronics, Manufacturing, A&D.
+
+- Working experience in USA, Europe, Middle East, Latin America, India and Australia.
+
+WORK EXPERIENCE
+---------------
+
+Cognizant Technology Solutions - Senior SAP CS Consultant
+Providence, RI « 07/2016 - Current
+
+- Providing SAP CS training remotely on part time basis.
+- Received training in S$/4 HANA Simple Logistics and preparing for certification.
+
+Dxc Technology - Senior SAP CS/PS/SD Consultant
+Sacramento, CA + 09/2014 - 07/2016
+
+- Worked on designing solutions and creating Functional Specifications for complex requirements. Coordinated with developers and performed unit testing.
+
+- Provided CS training for the newly developed functionality. Lead SAP CS/PS consultant in the LEAP Engine project.
+
+- Customer Service areas worked in this project: Master Data objects (Equipment, Work Center, BOMs, Task Lists), Notifications, Work Orders, Corrective Maintenance Process, Planning/ Scheduling/ Execution of Orders, Classes,Characteristics, Materials, Serial Numbers, Procurement of parts/services, Confirmations.
+
+International Trucks - Senior SAP IS-U/CS/PS Consultant
+CA, State + 04/2014 - 09/2014
+
+- Worked on the deployment of Electric Polyphase meters. Design changes to existing SAP PS project setup for planning meter deployment and meter consumption values on Network
+
+- Worked on Device Management, data upload programs, custom reports, training to the end users for the functionality developed.
+
+- (CS objects worked in this project: Master Data objects (Device, Equipment, Task Lists, Work Centers, BOMs, Maintenance Items etc), CS objects (Notifications/Orders).
+
+NRG Energy - Senior SAP CS/PS Consultant
+City, STATE + 2014 - 04/2014
+
+- Worked as senior EAM consultant to implement Resource Related Billing Process on SM orders and PS projects and configuration of PM Refurbishment/Repair orders.
+
+American Styrenics - Senior SAP PM/MM Consultant
+City, STATE + 08/2013 - 2014
+
+- Worked as lead consultant to implement PM/MM modules with primarily focus in data conversion of PM/MM objects. Handled 7 SMEs and 3 sites for implementation. Imparted Training, Supported Go- live/Post Go-live activities.
+
+- Plant Maintenance areas worked in this project: Master Data objects (FL, Equipment, Work Center, BOMs, Task Lists), Notifications, Work Orders, Corrective/ Breakdown/ Refurbishment/ Preventive Maintenance Process, Planning/ Scheduling/ Execution of Orders,Maintenance Strategy/ Item/ Plan, Classes, Characteristics, Measuring Points/Documents, Materials, Serial Numbers, Procurement of parts/services, Warehouse Management, Inventory Management, Confirmations, PMIS.
+
+Cameron - Senior SAP SD/CS Consultant
+City, STATE + 11/2012 - 04/2013
+
+- After Market Services (SM) lead for pre-developed solution deployment of SM to their UK subsidiary for their newly founded joint venture (One Subsea).
+
+- Cross functional integration between SD and CS, Inter-company PO/SO process, Master Data objects for SD and /CS.
+
+Transfield Services - Senior SAP CS/PS Consultant
+City, STATE + 10/2011 - 11/2012
+
+- Worked as Senior Consultant for implementing SAP for their Infrastructure division and Resources Energy division. End-To-End implementation frorm Requirement gathering, Training to Post Go-live
+
+support.
+- Focus on Cost Capture using CATS for Labor and Complex billing using Resource Related Billing
+
+feature.
+
+Saudi Electric - SAP Project Manager
+City, STATE + 05/2009 - 07/2011
+
+- Managed day-to-day operations and overseeing delivery of the required applications in order to meet the agreed upon business requirements including planning, coordination for training the end users and data conversion.Provided leadership in the implementation of SAP solution, which includes SAP MM/PM/PS.
+
+- Successfully implemented in Generation/Transmission/ Distribution and Facilities Management divisions within the time / budget / scope limits.
+
+Brock Group - Senior SAP CS/SD Consultant
+City, STATE + 04/2008 - 05/2009
+
+- Instrumental in complete re-design of the process which had many issues with too many custom tables and complicated processes. He moved the design into SAP SD/CS/PM's standard processes with tight integration with other areas.
+
+Basic Energy Services - Senior SAP CS Consultant
+
+City, STATE + 01/2008 - 02/2008
+
+- Carried out fit Gap Analysis of their business process compared to SAP’s processes.
+- Configured and recommended the right solution for their processes.
+
+Pacific Gas And Electric - Senior SAP CU/EAM Consultant
+
+City, STATE + 11/2005 - 2008
+
+- End-to-End implementation (including training) of SAP CU functionality along with SAP PM functionality at this utility company. Also worked with Click Software integration to PM module and integration with SAP SRM/MM/FICO modules with SAP PM.
+
+Fresenius Medical Care - SAP PM Consultant
+
+City, STATE + 10/2005 - 11/2005
+
+- Carried out demo, Proof of Concept and imparted training in SAP PM functionality Tellabs - SAP PS Consultant
+
+City, STATE + 07/2005 - 12/2005
+
+- Handled Inter-company billing on Projects, Project Summarization, Labor Cost Postings. Nordam Group - SAP PM/PS Consultant
+
+City, STATE + 09/2005 - 09/2005
+
+- Involved in studying the existing process, performing fit gap analysis for switching over to SAP PM and A&D solution from their legacy system and recommended proposed solution for MRO & PS Project management
+
+Tyco Electronics - SAP SD/PS Consultant
+
+City, STATE + 07/2004 - 03/2005
+
+- End-to-End implementation (including training) of SAP PS. Used ETO approach to build Projects. Honeywell - SAP cProjects Project Manager
+
+City, STATE + 2004 - 06/2004
+
+Lead Architect and Project Manager in the implementation of cProjects. Managed the project time
+line, budgets, resources, coordination with offshore resources, discussions with business reps for
+
+data, process information, implementation status, training, coordination with the other team
+members and client representatives.
+
+Collier County - SAP PS/IM/AA Consultant
+City, STATE + 10/2003 - 2004
+
+- Resolved the configuration issues related to integration with Investment Management and Asset Management to Project system module in the areas of Settlement
+
+Timet - SAP PM/CO Consultant
+
+City, STATE + 03/2003 - 05/2003
+
+- Provided expert help in costing and settlement aspects of PM module, custom reports, designed interface with legacy system for Payroll cost transfer to PM module.
+
+G-Tech Corporation - SAP PS/CO Consultant
+
+City, STATE + 03/2003 - 04/2003
+
+- Resolved the issues related to copying of cost plan versions, Provided consulting service in the areas of Hierarchical cost planning, cost element planning, CO versions, planning templates.
+
+Vivendi Universal - SAP PS Trainer
+
+City, STATE + 11/2002 - 12/2002
+
+- Trained 15 SMEs in SAP PS module for about 2 weeks.
+
+Armstrong World Industries - SAP PM/MM Consultant
+
+City, STATE + 06/2001 - 07/2002
+
+- End-to-End implementation (including training) of SAP PM and MM module and Go-live support. Edison O&M Services - SAP PS/CO/CS Consultant
+
+City, STATE + 11/1999 - 06/2001
+
+- End-to-End implementation (including training) of SAP CS/PS Modules. Supported them with Archiving after Post Go-live.
+- Carried out Resource Related Billing, Results Analysis of Projects.
+
+Testwell Laboratories - SAP SM Consultant
+City, STATE + 08/1999 - 11/1999
+
+- Carried out Demo and Proof-of-concept of SM module.
+
+Idexx Laboratories - SAP SM Consultant
+
+City, STATE + 11/1998 - 1999
+
+- Helped the client in settings LIS related to information structures, field catalogs, evaluation structures, evaluations and report writer reports
+
+Siemens Electrocom - SAP PS/PP Consultant
+
+City, STATE + 10/1997 - 11/1998
+
+- End-to-End implementation (including training) of SAP PS module and integration with SAP PP module for Cost tracking.
+
+Dover Elevators - SAP PS/SD/PP Consultant
+City, STATE + 04/1997 - 10/1997
+
+- End-To-End implementation (including training) of SAP PS module. Used Engineer-To-Order functionality to build SAP PS structures from Sales orders in SD module. Integrated with PP module for Production Orders.
+
+Lucent Technologies - SAP PS/VC Consultant
+City, STATE + 02/1997 - 04/1997
+
+- Designed configurable Networks using Variant Configuration.
+
+Transportadura De Gas Del Sur (TGS) - SAP PM Consultant
+
+City, STATE + 1997 - 01/1997
+
+- Performed Dero, Proof Of Concept and Training of SAP PM module. CyberTech Systems - SAP CS/PS/MM/FI Consultant
+
+City, STATE + 09/1995 - 04/1996
+
+- Obtained training in SAP CS/PS/MM/FI modules.
+
+Premier Automobiles Ltd - Senior Engineer
+
+City, STATE + 01/1991 - 08/1995
+
+- Reported and handled the information pertaining to Service activities, Procurement, Sales, Marketing, Finance, Personnel Management, Information Technology and Recruitment for CEO\'s briefing.
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Volunteer, Local Food Bank. Member, Community Service Club.

@@ -1,0 +1,148 @@
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- Senior IT Professional with 14 years of experience in implementation, operation and support of business technology
+
+- Lead multi-cultural project teams in different roles providing strategic direction & solution expertise
+
+- Experienced in engaging both IT & Business leadership to prioritize and align technology roadmap with strategic objectives of
+
+the organization and industry standards
+
+- Experienced in Value Capture, ROI & TCO analysis for multi-phased programs with focus on key business drivers such as Time-
+
+to-Market, Efficiency & Automation
+
+- Experienced in rapid deployments using Agile Methodologies
+
+SKILLS
+------
+
+- SAP Technology: ECC, Ariba, CRM, PI, Enterprise Portal, Solution Manager, BW, Business Objects
+
+- Platform: Cloud & On-Premise systems on HANA, Oracle or
+
+SQL databases
+
+- Project Methodology: Agile - Scrum, Kanban; Traditional - Waterfall
+
+- IT Operations: Application support and continuous process improvements, Backup & disaster recovery, Batch Process management, Critical System Monitoring and Alerting, Support of Key Business Milestones and Business Calendar
+
+Events
+
+WORK EXPERIENCE
+---------------
+
+IT SAP Manager, 07/2013 to Current Alston & Bird - Los Angeles, CA
+
+- Industry Expertise: Retail, Manufacturing, Wholesale
+
+- Line of Business: Finance, Supply Chain, E-Comm, Store Operations, Manufacturing, Production Planning, Sales &
+
+- Other Skills: Solution & Enterprise Architecture, Product Life- Cycle Management, Software Solution Evaluation, Solution Integration
+
+- Implementation, Operations & Production Support of SAP Business Systems with Finance and Retail functionalities.
+- Define and deliver SAP Portfolio and Roadmap to drive business & technology transformation
+- Maintenance and Up-Keep of SAP Technology platform per Industry standards and trend. Defined roadmap for Cloud up-lift of
+
+SAP system landscape.
+
+- Define and maintain 24/7 Production Support of system functionalities for undisruptive business operations with SLAs and
+
+SOPs. Put in place a support team of external onsite and offsite consultants to manage and drive support activities
+- Defined and setup SAP Center of Excellence with Business & IT cross-functional team.
+
+Technology Project Manager, 11/2011 to 07/2013 Caterpillar - Irving, TX
+
+- Manage and deliver multiple technology projects in parallel
+
+- Implementation of full life-cycle ERP projects with pre-configured Industry-Specific for Retail, Manufacturing, Finance,
+
+Wholesale Distribution line of business.
+
+- Architect End-End solutions with integration of cross-platform applications in an IT Eco-System
+
+Technology Team Lead, Current to 10/2011 Aktify - Irvine, CA
+
+- Lead technology development team to plan, deliver and maintenance a Global ERP template solution to cover business process
+
+operations in Americas, Europe and Asia.
+
+- Technical solution architecture and rollout to multiple countries with focus on country-specific localizations and government
+
+regulations.
+
+- Formalization of a Core Competency Center for production support and continuous process improvement.
+
+Senior Software Engineer, 07/2005 to 01/2008 Belvedere Trading - New York, NY
+
+Provide technology expertise and lead a team of developers and system configurators in multiple ERP projects. Hands-on design and
+
+development of critical & complex business process.
+
+Software Engineer, 2004 to 07/2005 Shellsoft Inc. - City, STATE
+
+Provide technology expertise in multiple ERP projects. Hands-on design and development of business processes
+
+EDUCATION
+---------
+
+Master of Science: Computer Science, 2004
+
+University of North Carolina - Charlotte, NC
+
+Bachelor of Science: Computer Science and Engineering, 2001 University of Madras - Chennai, India
+
+Accomplishments
+
+SAP Enterprise Solution Implementation & Support:
+
+- Implemented SAP Retail Solution for operations of 200+ stores and corporate head office
+
+- Solution covered Order-to-Cash, Procure-to-Pay, Data-to-Report business processes
+
+- Asa part of the project implementation, performed vendor evaluation and selection to put in place a team to ‘keep-the-lights-on’
+
+and to perform minor system enhancements
+
+Cloud Adoption Program - Strategy & Roadmap
+
+- Developed a phased-approach for Cloud Adoption at Enterprise level
+
+- Put in place a comprehensive process to plan, assess, migrate/implement a cloud system with proper operational controls and
+
+security governance.
+
+- IT teams were also empowered with the concept of Minimum Viable Cloud to quickly deliver cloud platforms using cloud
+
+factory models & playbooks.
+
+- AnIT roadmap was developed to lift & shift existing platforms as required and to implement new solution platforms
+
+Global Template Rollout for Core ERP and BW
+
+- Rolled out core ERP solution to multiple global locations using SAP best-practice solution methodology
+- Engaged subject matter and technical experts in each country to handle localization and government regulations
+
+- Anintegrated BW system was implemented to meet reporting requirements for business planning & forecasting and financial
+
+consolidation
+
+Center of Excellence for Business Technology
+
+- Championed an initiative to put in place a Center of Excellence with team of Cross-functional experts and executives from IT &
+
+Business for Governance, Operations and Development of Business Technology.
+
+- The COE worked closely with Leadership and Business Units by creating appropriate forum to strategize, prioritize & deliver
+
+business objectives
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

@@ -1,0 +1,130 @@
+Greg Baker
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+PROFESSIONAL SUMMARY
+--------------------
+
+SAP ABAP development executive with 17 years of rich experience. Visionary and results-driven with expertise envisioning and
+leading technology-based revenue and growth initiatives. Impressive, fast track business career marked by demonstrated ability to
+deliver peak-performing solutions and achieve cross-functional IT business objectives. Experience in both process and technical
+aspects of SAP related technology. Create pragmatic strategies and implementation plans designed for maximum return at the lowest
+costs.
+
+SKILLS
+------
+
+ABAP, RICEFW WEB DYNPRO
+
+ADOBE INTERACTIVE FORMS SD,MM,FI,CO,PP,HR,ISU BSP, HTMLB,HTML5 JQUERY/JUQERY MOBILE QLIKVIEW PHP,C#, VISUAL BASIC
+
+WORK EXPERIENCE
+---------------
+
+SAP ABAP Development Architect, 03/2009 to Current Deloitte - Newton
+- Designed and Developed Custom VWR SAP portal using BSP and JQUERY. Developed Portal Application using C#.
+- In this portal I built many web applications like Web Quotes, Stock Checker, Contact Person Maintenance, Stock room management.
+- Integrated JQUERY Mobile with BSP.
+- Developed SAP shipping solution and integrated with SD pricing.
+- This shipping solution handles package shippers (UPS, FedEx), Czarlite carriers, and Local carriers.
+- Developed Stock Room Management using BSP technology and Adobe flex.
+- Created Adobe interactive forms for Sales Quotes Confirmation and integrated with BSP application.
+- Developed a Materials Planning (MRP) tool based on Sales history.
+- Designed and developed BAPI Monitoring tool(BDOC), this tool can be used to call any BAPI in asynchronous mode.
+- Successfully integrated 850 incoming Customer PO EDI and Incoming invoice(810).
+- Developed 846-Custom Inbound IDOC for Vendor Stock Management Created lots of BDC upload programs using EZUpload program generator tool.
+
+ABAP Technical Consultant, 11/2008 to 02/2009 Deloitte -CO
+- SAP Vistex BSP Development contractor.
+- Developed and managed MVC BSP application for Vistex Agreement request tool for cooper industries in Atlanta.
+- Developed Sales Agreement request for Cooper industries payback system.
+- Also integrated with Cooper's Portal system.
+- Did many project related activities which includes scheduling, task assignment, execution, and testing.
+
+ABAP Development Manager, 08/2007 to 10/2008 Ssi Schaefer Systems International North America - MI
+- Directed Accenture clients on SAP Net weaver technology and represented as SME for many clients.
+- Ensured TCO reduction by adopting SAP net weaver tools.
+- Developed many solutions using netweaver tools. Managed onsite and offshore teams on RICEFW development objects. Designed and developed many Net weaver solutions, and extended standard solutions using Webdynpro and BSP solutions. Designed Geostan Address valuator solution by using C# Web service and XI integration. Worked on SRM 6.0 as a Web dynpro SME and directed client on SRM solutions Created many Technical templates and methodology for Web dynpro and BSP objects.
+- Trained Accenture and client development resources on BSP and Webdynpro tools.
+- Checked every day on the status of RICEFW objects from both onsite and offshore teams Developed Work plan, Project Activity tasks on RICEFW objects.
+- Participated in Request for proposal on Netweaver solutions.
+- Participated in all complex development solutions.
+
+SAP Solution Architect / Senior Developer, 11/2000 to 08/2007 SAP AMERICA - STATE
+
+- Developed many custom solutions and worked with executive leadership on some solutions.
+
+- Represented active SME on solutions for SAP-America's day-to-day activities.
+
+- Worked as a solution architect and senior developer for IT organization.
+
+- Developed many complex tools, which includes Sales commission tool, Commission web flow, and Tax information system.
+- Actively participated in all global projects at SAP-AG, Walldorf. . . .
+
+Handled global development team on many projects & implementation.
+Designed sales commission's dashboard using SAP portals.
+Designed and developed a Complex Sales commission system.
+
+SAP Technical Consultant, 07/2000 to 10/2000 ALPHA SAPIENCE - STATE
+- Worked with SAP America’s Education and training department.
+- Developed many Reports, Conversion and Forms objects.
+- Converted all SAP standard reports into ALV reports.
+- Created many conversion programs.
+- Developed SD ITS web applications.
+SAP Technical Consultant, 11/1999 to 05/2000 SAP INDIA - STATE
+- Worked with TATA motors for their global SAP implementation SD development team.
+- Developed many interactive reports for sales orders, delivery due list, sales reports, and transfer posting for various stocks.
+- Developed remittance letter to bank using layout set, printing of sales documents, order confirmation, purchase order, export invoice and packing list, shipments available for diversion, receipt printing for both cash and check types.
+- Developed many layouts designed on pre-stationary Printing.
+- Worked on outbound Sales order IDOC and output determination.
+ABAP Consultant and Gap analyst, 11/1998 to 10/1999 CitiPower - City, STATE
+- Developed many user-exits, events, screens, field-exits & interactive reports to cover specific IS-U/CCS functionality as well as interface with MM, SD and FI. Also supported heavily gaps resolution for a number of gaps in the core R/3 functionality as well as IS-U/CCS functionality. Interacted with SAP standard development on gap resolutions
+- Modified the core R/3 system as well as IS-U/CCS to accommodate specific functionality demanded by the user community. Also enhanced the system to cover functionality that was mandatory to run the business, e.g. premise search, a very basic to identify the customer based on address. Optimized the system code to enhance the system performance for on-line processing.
+- Through various programming techniques enabled appropriate use and optimization of the sensitive system functionality including service order processing, classification of material, Development of a field-exit for connection objects validation. This made sure that the connection object properly maintained to avoid future data discrepancy.
+- Wrote a number of complex reports to support business processes and to validate results of many postings and transactions.
+
+SAP Development ABAP Consultant, 07/1998 to 10/1999 MASTECH ASIA PACIFIC - STATE
+- Worked as a SAP RICEFW Developer for WMC Client and as a SAP Gap Analyst for Citipower client.
+
+ABAP Consultant, 07/1998 to 10/1998 Western Mining Company Group - City, STATE
+- ABAP programming for various tasks in the core R/3 system designed and developed many complex layout sets, extensive reporting and other developments.
+- WMC - Fertilizer Organization: Created layout sets for delivery note, pick list, sales letter and direct mail. In addition, modified invoice, created a user-exit for delivery due list in which the due list will also display customer order apart from other display fields.
+- WMC-TALC Organization: Created layout sets for invoice, pick list, packing List, quotation, delivery note & sales letter.
+- ¢ WMC Precious Metals: Created an invoice for precious metals, delivery notice & gold swap instructions.
+- WMC -- Uranium Organization: Created layout sets for invoice and delivery notice. Reporting requirements covering shipping schedule report, uranium batch packed summary, uranium unallocated batch summary, uranium summary container pack report, U308 lot history, external radiation dose rate, U308 monthly movement summary, uranium batch details , uranium summary of shipment.
+- WMC-Copper Organization: Created layout sets for provisional & final invoice, delivery notice, analysis details report, analysis details certificate, order confirmation, picking list. Many reports similar to the above ones.
+SAP SD ABAP Technical lead, 07/1996 to 06/1998 KIRLOSKAR Electric Company - STATE
+- Worked as a SD Technical consultant for Kirloskar and implemented SAP SD module.
+- Support in SD customization, user training, analysis and development of various reports to meet Indian standards using ABAP query and standard reporting. Written a complex upload program for FERT with class and characteristics for material master. Implemented custom goods issue register for transportation department.
+
+- Developed custom tool on Goods Register for transportation department.
+- Developed payroll system using UNIX Oracle Pro-c and PL/SQL.
+
+Software support engineer, 1995 to 06/1996 MAYUR SOFTWARE LIMITED - STATE
+- Worked as a support engineer for Mayur's accounting package.
+- Supported an accounting package for various customers for their day-to-day activities.
+- Changing the software based on customer requirements using Clipper 5.2 and C language.
+- Imparted 30 fresh engineers on Micro focus COBOL
+
+EDUCATION
+---------
+
+BACHELOR OF SCIENCE WITH DISTINCTION: Information Technology, 1992 Bangalore University
+
+Associate of Science: BUSINESS ADMINISTRATION, 1996 Bangalore University - Bangalore, India
+Accomplishments
+
+At SAP America I awarded best IT tool for Sales commissions system. It was written completely in ABAP and replaced costly PC
+based sales commission tool.
+
+AT VWR International I developed a custom portal using BSP and C#. This tool replaced SAP Portal and developed many
+applications. This tool installed in more than 1500 laptops and saved many 1000's of dollars.
+
+CERTIFICATIONS
+-------------- Certified Project Management Professional (PMP)
+
+Additional Information
+- Other Info Visa Status: US Citizen
+- Marital Status: Married
+- Ready to travel: 100%
+- Worked in Germany, USA, Singapore, India, Brazil, Japan, and Australia

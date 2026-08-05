@@ -1,0 +1,191 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+SUMMARY
+-------
+
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.com
+
+- A Certified Material Management Professional over 10 years of experience in Material Management,Procurement/Contracts,Inventory control,vendor Development, including implementation ,support experience & key end user experience in SAP ERP & SAP S/4 HANA.
+
+- Excellent Domain knowledge in Material Management/contracts/Procurements.
+
+- Skillful in developing & streamlining systems with proven ability to achieve cost saving & meet production targets within the cost &
+
+time parameters.
+
+- Effective communicator with excellent negotiation skills, with strong analytical power & problem solving & organizational abilities in
+
+planning & managing resources.
+
+SKILLS
+------
+- Domestic Procurement © Supplier Relationship Management
+- Material Management e Master data Maintenance of Vendor Master & Material Master
+- Inventory Management © Release Procedure
+- Negotiations e Material Requirement Planning
+
+- Vendor Management
+
+WORK EXPERIENCE
+---------------
+
+07/2017 to 10/2018 SAP MM Team Lead
+
+Infosys Ltd - Oakland, CA
+
+- Working with E&Y on GST returns for Tata Global Beverages & Tata Coffee Ltd.IFB Industries & Honda Motors.
+
+- Development of extractor program as per govt.
+
+- Provided format & facilitating GST returns for Tata Global Beverages Ltd.
+
+- Tata Coffee.
+
+- Validation of Inward supplies, HSN/SAC code, Supply types etc.
+
+- As per required govt.
+
+- Rules.
+
+- Looking after MM validation of the extractor program designed for GST returns.
+
+- Interfacing with client for business related clarifications and building logic for correct data fetching in the extractor program.
+
+- Dealt with business scenarios like STO, Domestic and Imports purchases of goods and services.
+
+- MM and FI table validations which includes header and line item data fetching from tables for Procurement processes.
+
+07/2016 to 07/2017 SAP MM Consultant
+
+ZIETA Technologies - City, STATE
+
+- Analyzed the Business requirements / and performed AS-IS, TO-BE analysis, documenting the operating procedures.
+
+- End to end Blue printing of all the procurement process.
+
+- Prepared required document such as Visio, User Manual & Test scripts.
+
+- Configuring and maintaining the Material Master & Vendor Master.
+
+- Maintaining the Source lists, Info Records.
+
+- Customized IMG activities in procurement and inventory management processes, such as Sourcing Process , Vendor Return Process, Stock transfer from Plant to Plant and Storage Location to Storage Location, Transfer Posting .RFQ, Contract, Schedule Arrangements, Good Receipts, Good Issues,, reservation and transfer orders.
+
+- Definition of Release Procedures for Purchasing documents with & without Classification.
+
+- Creating and configuring the approval Procedures and providing the level of authorization.
+
+- Configuration of Number range for Material Master, Vendor Master, Service Master and document types for Purchasing Requisitions, Request for Quotation, Purchase Order, RFQ's etc.
+
+- Maintenance of Excise Master Data, Maintenance of Tax Codes, Condition Records Tables and access sequences.
+
+- Worked on all CIN Scenarios: Procurement of RAW Material, Procurement of Capital Goods, Import Process & Sub Contracting Process.
+
+08/2013 to 11/2015 SAP MM & SRM Consultant
+
+Vedanta Aluminium Limited - City, STATE
+
+- Deep understanding of the principles of Vendor Management.
+
+- Provide Production support to users in issues pertaining to Purchase order,Service PO.Contract.
+
+- Work with supplier enablement team to support the supplier on boarding process & provide training to suppliers.
+
+- Troubleshoot the workflow related issue between buyers and higher management.
+
+- Responsible for Organization structure maintenance and role Modification and providing Authorization for Procurement Department.
+
+- Preparation of Functional & Technical specification document.
+
+- Carrying out all configuration changes as applicable.
+
+- Handling Tickets, tasks and responsible for closing the same within defined SLAs(Service Level Agreements).
+
+- Working with application developers for delivering the requirements and creation of custom objects whenever necessary.
+
+- Analyzed the Business requirements / studied the TO-BE flows .documenting the operating procedures.
+
+- End to end Blue printing of all the procurement process with respect to Smelter-2 and Sterlite Energy Limited.
+
+- Configuring and maintaining the Material Master & Vendor Master.
+
+- Maintaining the Source lists, Info Records and Quota arrangement.
+
+- Worked on Purchase requisitions, Contracts, Scheduling agreements, Source lists, Request for quotations, purchase orders, and source list determination.
+
+- Maintained and worked on Inventory management with Physical inventory.
+
+- Customized IMG activities in procurement and inventory management processes, such as Purchasing of Non stock and Stock materials, RFQ, Contract, Schedule Arrangements, Good Receipts, Good Issues,, reservation and transfer orders.
+
+- Creating and configuring the approval Procedures and providing the level of authorization.
+
+- Configuration of Number range for Material Master, Vendor Master, Service Master and document types for Purchasing Requisitions, Request for Quotation, Purchase Order, RFQ's etc.
+
+- Tested Successfully for all configuration settings by Unit and Integration testing Methods.
+
+07/2007 to 07/2013 Associate Manager (Procurement)
+
+Vedanta Aluminium Limited - City, STATE
+
+- Expertise in Procurement terms & Purchase related to Civil, Mechanical_Electrical.
+
+- Prepare and manage RFQ proposals, purchase agreements, and scope of work.
+
+Initiates bid/quote process; writes bid specifications & prepares bid forms; manages the bidding process; analyzes
+bid results; makes recommendations & awards.
+
+- Determines & develops supplier portfolio strategy; Identifies suitable suppliers based on price, quality, availability,
+
+reliability, and technical capabilities; Maintains cooperative supplier working relationships.
+
+Key team member in finalization of Annual Rate Contract (ARC) for spares and consumables for 2400MW IPP &
+
+1.75MTPA Smelter Plant.Complete end to end sourcing for all spares & contract management of all mayor O&M
+
+contracts, Manpower contracts,Employee engagement related contracting.
+
+Participated as an core team member in implementing e-procurement (e-NFA,e-RFQ.e-Registration etc.) *Team
+Lead for implementation of “Supplier Relationship Management” (SRM) module integrated with organizational
+ERP (SAP) system.
+
+Functioned as a key member for introducing the service master in SAP & assisting to create Service code.
+Adroit in using SRM for each process from floating of enquiry to finalization of contract.
+
+- Prepares contract documentation, Reviews documentation for completeness, accuracy, risks.
+
+Track and communicate status of overdue materials: seek out substitutions when needed.
+
+Work with warehouse team to conduct the inventory counts to ensure that all inventory 1s properly recorded in SAP
+system.
+
+Create and maintain spreadsheets reports such as supplies spending, inventory, raw material, requisitions,
+purchasing orders, etc.
+
+Ensuring the cost of a Material/Service contract by preparing & verifying the cost break up, evaluation,
+negotiations to ensure 100% quality.
+
+Co-ordinating with various cross functional team like user dept, stores dept, finance team, stores team to meet the
+
+customer requirements & resolve customer service issues, concems.
+
+Monitor Open PO report, proactively identify and address possible delivery expedite issues, implement corrective
+
+actions to achieve desired results.
+
+- Primary point of contact for day to day supply chain service activities to internal employees and external clients.
+
+- Highly proficient in SAP, Excel and other Microsoft applications «Basic understanding of blueprints and drawings, dimensions and tolerances, and the ability to interpret and understand written material specifications.
+
+EDUCATION AND TRAINING
+
+2007
+
+CERTIFICATIONS
+--------------
+
+B.Tech: Civil Engineering Biju Patnaik University of Technology
+
+SAP Material Management Certification ID : 0010380696

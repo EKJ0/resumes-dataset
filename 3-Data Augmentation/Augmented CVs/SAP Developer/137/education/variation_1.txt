@@ -1,0 +1,202 @@
+JESSICA CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 @ resumesample@example.com
+
+SUMMARY
+-------
+
+A well rounded professional carrying knowledge spanning Creating Master Data for customers, material Master, G/L Master, Profit Center
+Master, Bank Master, Cost Center Master and customer Master - material info records and Purchase Order 3 full life cycle SAP implementation
+experience including Business Process Re-engineering, Custom Reporting, Interfacing, Conversions, and Enhancements and developing Forms
+(RICEF). Good Understanding of feasibility analysis, configuration, testing and integration of FI/CO with SD and MM. Master Data for
+Material Master, Vendor Master, Info Records, Source List, Quota Arrangement, Procure to Pay (P2P) process like Purchase Requisition,
+Request for Quotation, material Requisition, goods receipt, production receipt, release procedure in FI-MM Performed creation of sales order,
+distribution channel, delivery document, warehouse transfer order, goods issued and billing document in FI-SD Effectively interacted with the
+clients to understand business processes for GAP analysis and proposed long term and short-term strategic solutions. Configuration expert of
+New GL to meet requirements to report multiple accounting methods including US GAAP and IFRS. 1+ years of experience as an SQL
+developer including Retrieving data, sorting data, Manipulating data and insert data.
+
+HIGHLIGHTS
+----------
+
+SAP R/3 4.6C, ECC 6.0, 7.2 SAP R/3/ECC FI/CO/MM, Project Systems, SAP IDOC, SAP EDI, Bugzilla, Report Painter, Report
+Writer, MS Visio, MS Project, MS Access, Mercury Test Director, QTP, MS Office, Vertex, Win Shuttle, Lotus Notes, Workflow, Open Text.
+SAP R/3/ECC FI
+
+WORK EXPERIENCE
+---------------
+
+SAP FICO Support Analyst, 01/2014 - 02/2016 Eaton Corporation - India SAP R/3/ECC FI/CO Integration with SD, MM and BW.
+
+Project Overvie Data Migration from Legacy system to SAP for new implementation / integration, import of data from any other external
+system to SAP Assisted in uploading master data and configuring the pre-requisites which includes Creation of Chart of Accounts, Account
+groups, and Retained earnings accounts, etc.
+
+- Assisted in creating and maintaining of field status groups, document types, open and close posting periods , reconciliation account Conducted mapping of Legacy system Account groups to SAP system Accounts Managed and led the General Ledger testing team through Integration Process Testing and User Acceptance Testing phases Configured ERP structure and Financial Accounting global settings: key settings being company code, Business area, fiscal year variants, field status variant, open and close posting periods, document types and document number ranges and validations.
+
+- Performed automatic payment and dunning program Conducted the periodic closing process and manage the financial closing cockpit.
+
+- Managed asset master data, asset transactions, periodic processing and valuation.
+
+- Performed standard reporting in financial and management accounting and drilldown reporting.
+
+Conducted Procure to Pay (P2P) process, Release Procedure, Pricing Procedure, Inventory Management, purchase order, good receipt and
+production receipt in FI-MM.
+
+Performed Stock Transport Order, Automatic Account determination, Bill of Materials, Reorder Point Planning, material master creation,
+material ledger in FI-MM.
+
+- Managed Source determination and Vendor selection, Goods Receipt and Invoicing, Scheduling Agreement.
+
+- Assisted in creation of sales order, distribution channel, delivery document, billing document, defining of shipping point in Fi-SD integration.
+
+Creating acquisition, fixed assets and posting acquisition.
+
+Performed transfer within company code intercompany asset transfer.
+
+- Representing, Distributing, and settling assets under construction.
+
+- Maintaining special general ledger transactions and performed integrated down payment process.
+
+- Maintaining and execution of validations and substitutions, Document splitting.
+
+Performed Interface Testing by verifying data of its accuracy and validity Provided training to the Training team and the end users
+Validated SAP system outputs to meet the business process requirements Knowledge of full life cycle implementation, Reporting and SOX
+Compliance Partnered with peers when testing functionalities across applications and modules (VIM) Environment: SAP ECC 6.0, 7.2,
+Modules: GL, P2P/AP, O2C, MM/SD INTEGRATION, Fixed Asset, CC/PCA: Project type: Full Life Cycle Implementation; Ariba, and
+Open Text (VIM), SAP Workflow (FI, CO and MM modules).
+
+Sap FI consultant, 01/2012 - 12/2013 Apex Systems - San Diego, India
+- Configuration of chart of accounts, account groups in General Ledger and master data, incoming payments, reason codes in accounts
+
+receivable and master data, outgoing payments, open item clearing in accounts payable.
+
+Creation and maintenance of field status groups, posting keys, document types, open and close posting periods and created G/L account
+
+master records.
+
+- Configuration of Vendor and Customer master data, business transactions, tolerance parameters, payment terms, Credit Management and Dunning processes.
+
+- Configuration of house banks for bank accounts, G/L structure, posting rules for automatic assignment.
+
+Created automatic payment program with clearing of open items.
+
+Configured incoming payments, including full payment, partial payment and residual payment.
+- Configuration of payment terms for dunning, for over-due interest calculations for down payments and automatic clearing of line items.
+
+Verification of the balance of the retained earnings account.
+
+Reconciliation of vendor and customer statements with company records.
+
+- Configuring integration points between FI and MM & SD.
+
+- Maintained material requisition, Purchase groups, Purchasing info records, Source list, Quota arrangement, Purchase requisition, Purchase order, Release procedure in FI-MM integration.
+
+Creation and maintenance of Master Data for Material Master, Vendor Master, Info Records, Source List, movement type ,valuation
+
+classes, goods receipt, invoice verification, production receipt in FI-MM integration.
+- Configuration and creation of sales organization, sales area, sales order, distribution channel, warehouse transfer order, and goods issued ,creation of SD customer master and finished good material master, maintaining condition types in FI-SD integration. Defining of controlling area and configuration of controlling area.
+
+- Assigned company codes to the controlling areas.
+
+- Assigning chart of depreciation to a company code and define depreciation area Creating and changing master data in asset accounting. creation of asset master record.
+
+- Maintaining screen layout of Asset master data , asset depreciation areas , time-dependent data Environment: SAP ECC 6.0, Modules: GL, P2P/AP. O2C, FICO, MM/SD INTEGRATION, Fixed Asset, CC/PCA; Project type: Full Life Cycle Implementation;.
+
+SAP FICO/Master Data Support Analyst, 08/2010 - 11/2011 Anupam Industries- Anand - India
+Implemented, General Ledger, Accounts Payable, Fixed Assets, Cost Center Accounting, Profit center Accounting and Internal Orders.
+
+Conduct Business Requirement gathering sessions with business and IT teams.
+
+Implemented payment solution for vendors with in the country and across countries.
+
+- Defined and configured chart of accounts, account groups.
+
+Defined templates for configuring recurring entries in GL postings.
+
+Defined tolerance groups, number ranges, posting keys, document types, fiscal year variants, field status groups.
+
+Worked with creations and restructuring of Cost Center and Profit Center hierarchies.
+
+Customized the screens for document entry, document reversals, invoices, and payments.
+Defined house banks, bank accounts, reason codes, check lots.
+- Defined customer/vendor account groups and created customer /vendor master data.
+
+Configured automatic payment program for outgoing payments for company Codes in Accounts Payable (AP).
+Design and blue printing of solution for Credit Management, Accounts Receivable, Cash Application, COPA, Material Ledger, Asset
+Accounting, Inventory Management.
+
+Implementing SAP based solution for Fixed Assets (Including necessary configuration required for creation of Asset classes, depreciation
+types, depreciation areas, Automatic Account Assignments to link asset master data to G/L accounts, depreciation keys with assignment to
+depreciation areas).
+
+Integrated AP and AR modules with MM and SD respectively.
+
+Maintained bank directory, bank data, and defined relationship of G/L accounts to the bank accounts.
+
+- Maintained House bank settings, display settings, bank statement, check deposits, payment transaction etc.
+
+Configured cost elements, revenue elements, cost center, profit center and hierarchies.
+Environment: SAP ECC 6.0.
+Module: GL, AP, FICO, Banking: Project type: Global Full Life Cycle Implementation; Documentum, Win Shuttle.
+
+SQL DBA, 06/2009 - 05/2010 Expert Solutions- Nadiad - India
+- Project overvie web portal for city search is a website that provides information about the business in the various categories available in the city.
+- Here the category involves business like hotels, hospitals, education, theme parks, and famous tourist spot in each city.
+
+Responsibilities: Retrieving data using the SQL select statements.
+Restricting and sorting data.
+
+- Reporting aggregated data using the group functions.
+
+Displaying data from multiple tables.
+
+Use of sub-queries to solve query.
+Use of DDL statements to create and manage table.
+
+Managing objects with data dictionary view.
+
+Use of single-row function to customize output.
+
+Controlling user access.
+
+Manipulating large data sets.
+- Generating reports by grouping related data.
+
+Managing Data in different time zone.
+
+Retrieving data using sub-queries.
+Hierarchical retrieval.
+
+Specified user access level for each segment of one or more data items, such as insert, replace, retrieve, or delete data.
+- Environment: windows 7, MS visual studio, front end - NET, back end - MS SQL 5.0.
+
+EDUCATION
+--------- Master of Business Administration
+
+Harvard University - Anand
+
+Bachelor's: computer engineering
+
+computer engineering
+
+Certification in SAP FI module Functional Roles SAP R/3 FI CO Functional consultant Business Solutions SAP R/3 Financial (FI) and
+Controlling (CO) modules implementation
+
+CERTIFICATIONS
+--------------
+
+FI Enterprise Structure, General Ledger, Accounts Payable, Accounts Receivable, Asset Accounting, Bank Accounting, Financial Supply Chain
+Management (FSCM), Financial Statements SAP R/3/ECC CO CONFIGURATION SKILLS: Cost Element Accounting, Cost Center
+Accounting, Profit Center Accounting, Profitability Analysis, Investment Management.
+
+SKILLS
+------
+
+NET, Accounting, accounts payable, Accounts Receivable, AP, AR, balance, Banking, billing, business process, Business Solutions, C, closing,
+consultant, Credit, data dictionary, Data Migration, delivery, Documentum, EDI, ERP, Financial, Financial Accounting, financial and
+management, Financial Statements, Fixed Assets, Full Life Cycle, Functional, General Ledger, GL, Inventory Management, Investment
+Management, Invoicing, layout, Ledger, Lotus Notes, Managing. Materials, access, MS Access, MS Office, MS Project, Win, windows 7,
+Enterprise, Painter, Pricing, processes, Profit, Purchasing, QTP, Report Writer, reporting, Requirement, sales, SAP FI, SAP Workflow, SAP,
+SAP R/3 4.6, SAP R/3, SD, SOX Compliance, Scheduling, shipping, sorting. MS SQL 5.0, SQL, Supply Chain Management, tables, Test
+Director, type, valuation, Vertex, view, Visio, MS visual studio, web portal, website, Workflow

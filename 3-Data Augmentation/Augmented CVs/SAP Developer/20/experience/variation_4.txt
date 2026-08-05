@@ -1,0 +1,152 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+Jessica CLAIRE
+
+Montgomery Street, San Francisco, CA 94105 @ (555) 432-1000 © resumesample@example.com
+
+SUMMARY
+-------
+
+Versatile IT professional with vast knowledge of SAP over 16 years which covers six lifecycle implementations. Resourceful in
+making outcome-based decisions that drive business process improvements, and organization-wide standardization. Successful FI-
+CO lead well versed in various types of projects including global implementations, technical upgrades, regional roll-outs and support
+
+& maintenance.
+
+HIGHLIGHTS
+----------
+- Conducted global process modeling sessions
+- Led global architecture design and compiled global templates solutions
+
+Business process re-engineering and elimination of bespoke
+
+- Experience in working diverse cultures and regions Cost reduction and containment by effective use of offshore (Singapore, Hong Kong, China, Japan, Australia, Europe, resources North America, India)
+
+- Ability to propose solutions under pressure and managing harmonizing solutions across regions
+
+Excellent ability to embrace new technologies and expert in
+
+situations to remain focused on priorities in project Involved in various phases of the SAP Implementation
+
+including planning, design, Testing, Go-Live and support
+
+EDUCATION
+---------
+
+Bachelor of Science
+
+Master of Computer Applications
+
+Certifications and Credentials
+
+Certified in Financial and Controlling modules of SAP (SAP AG)
+
+ORACLE R11i Financials - - General Ledger, Receivables, Payables, Assets and Cash Management (ORACLE University - Singapore,
+2003)
+
+APO - Core Interface, Demand Planning and GATP (Sapient College - Singapore, 2003)
+
+SAP BW - Configurations, Extractions and Reporting (Sapient College - Singapore, 2001)
+
+Controlling - Profitability Analysis (CO-PA) (Sapient College - Singapore, 2001)
+
+WORK EXPERIENCE
+---------------
+
+ERP Manager / SAP Solution Architect, 09/2013 to Current Sony Electronics Inc - City, STATE
+Global Primo West project aims to implement SAP in the two major regions in Sony namely Europe and North America based on the
+global process model sessions and global architecture design.
+- Managed the Major stream Order To Cash (OTC) Team in Implementation phase of the 79.9 Million Euro Global Primo West
+
+PROJECTS
+--------
+- Responsible for tracking, reviewing and reporting project progress of the OTC track to management on a weekly basis
+- The areas handled include Accounts Receivable, Credit Management, Electronic Bank statement, Lockbox processing, Dispute Management, Collections Management, Biller Direct, Master Data Governance and finance Integration with SD-MM
+- Retiring the bespoke solutions and legacy systems existing in both regions and replacing them with industry standard SAP harmonized solutions
+- Developed presentations for demonstrating new processes to the business team and executed proof of concept to validate product feasibility
+- Engaging with external vendors and SAP AG in getting their services delivered in schedule and under budget (SLO, MDG etc)
+- Managed a diverse team of people from various countries like USA, Europe, India etc and at the same time exceeding the management expectation of 70% offshoring
+- Key person responsible for the successful Go-LIVE of the Global Primo West project for the first region Europe in April 2014 and Managing the Hypercare support for the three months following Go-Live
+- Training the BAU team to take over the support and maintenance after the Hypercare
+- Concurrently managing the team to successful Go-Live of the second region North America in July 2014 under tight schedule
+
+Global System Architect, 04/2012 to 09/2013 Sony Global Solutions Inc - City, STATE
+Global PRIMO project is a headquarter initiative from Sony Corporation to implement One System and One Process in Finance,
+Accounting and Controlling organizations across various regions around the world.
+- Driven Global Process Modeling Sessions in defining one process for finance and accounting organizations
+- Led the requirements Definition Documentation and Architecture design document compilation for implementing SAP as one System across the organization globally
+- Provided recommendations to management based on current and emerging technologies
+- Engaging architecture Design with various regions and presenting at CEO, CFO and Senior management levels
+- Engaged in resource planning for implementing the project and subsequent travel to India and Singapore to recruit team members
+- Conducting Regional Process Modeling workshops in Europe and North America to explain the Global Process Model
+
+established inside the organization
+
+IT Consultant / SAP Team Lead / Lead FI-CO Consultant, 03/2000 to 04/2012 Sony Electronics Pte Ltd - City
+SIMPLE SAP Implementation Project
+Regional SIMPLE SAP Implementation aims to bring the whole Asia Pacific region of Sony under one SAP platform.
+- Managed the business requirements by conducting workshops with business users and compiled blueprint for system development and configurations
+- Ensured proper and adequate resource leveling required for the FI-CO modules and managed a team of functional leads and developers during the implementation
+- Managed the configuration and development in General Ledger, Accounts Payable, Special Purpose Ledger, Accounts Receivable, Fixed Assets, Controlling and Profitability Analysis modules
+- Monitored and summarized progress of project to management on a weekly basis
+- Instrumented and coordinated unit, integration and user acceptance tests to improve software quality and reliability.
+- Responsible for preparing Key User Manuals and conducting Key User Training
+- Coached, developed and trained team members for handling the support and maintenance
+- Managed support and maintenance issues by establishing workarounds and proactively resolving issues with the team by sharing ideas and vast sony knowledge accumulated over the years
+- Managing the enhancement requests required in the production system and estimating the effort/costing for the same SOAR SAP Implementation Project SOAR SAP Implementation project aims in retiring numerous legacy systems and bringing the North American operations of Sony Electronics under one SAP platform.
+- Building up of offshore development teams in Singapore and India
+- Configuration of General Ledger, Accounts Receivable and Profit Center Accounting modules
+- Participated in SAP Platinum review of the solutions implemented
+- Co-ordination between the SAP and legacy teams for the transmission of interface files and testing
+- Drafted detailed functional designs and developed solutions by managing offshore team
+- Building up of System test scripts
+- User Acceptance testing, System Testing and Integration testing
+- Coordinated with QA testers for end-to-end unit testing and post-production support
+- Designed custom Cash Applications Module in SAP to facilitate the matching of EDI remittances and ACH Payments and integration of it with SAP's standard Lockbox Processing
+- Resolved customer issues by establishing workarounds and solutions and by debugging and creating defect fixes.
+
+- Managed support and maintenance of the system after Go-Live Early Career Projects
+
+Quality Audit Lead: SAP Quality Auditing Project - Europe
+Led a team of technical consultants to drive continual improvement to ABAP Codes before getting transported to production
+
+environment
+
+SAP Lead Consultant : S-Galaxy Roll-Out - Singapore
+Led a team of consultants to implement new company codes for Sony Global Treasury in the existing SAP system
+
+SAP Team Lead : Automation of Financial Reports - Hong Kong
+Led a team of consultants to automate the financial reports from the Special purpose ledger of SAP
+
+SAP Team Lead : Interfacing SAP with E-Accounting - Shanghai Responsible for designing interfaces with the external system and implementing them
+
+SAP Team Lead : FI-SL Implementation - Hong Kong
+Sony Hong Kong's Special Purpose Ledger module was based on pool tables. Since SAP does not support the pool tables in the latest
+versions, the module had to be re-implemented using transparent tables
+
+FICO Consultant : SAP Version Upgrade from 3.1H to 4.6C - Hong Kong Technical upgrade of the SAP R/3 system from 3.1H to 4.6C
+
+SAP Team Lead : Budget Implementation- Beijing Implemented the budget functions in CCA and COPA modules for Sony China
+
+SAP FICO Consultant : Additional Company Code Setup- Shanghai
+Additional 8 company codes and related configuration settings done in the existing SAP system
+
+SAP Team Lead : S-Galaxy Implementation - Singapore
+Sony Precision Engineering center wanted to scrap their existing SAP R/3 system and then join the newly implemented S-Galaxy
+system which is a single SAP instance for all the SONY companies in Singapore. Played the role of the SAP team lead in the project.
+
+SAP FICO Consultant : Rainbow Implementation - Shanghai
+Sony China implemented Finance, Controlling, Sales & Distribution and Materials Management modules of SAP R/3. Played the role
+of the FICO consultant in the project
+
+SAP Technical Consultant : VOB Implementation - Singapore Played the role of the technical consultant in the implementation project
+
+SAP Technical Consultant : Unicorn Implementation - Singapore Played the role of the technical consultant in the implementation project
+
+SAP Technical Consultant : SAP Kao - Thailand Developed financial and management reports using report painter
+
+SAP Technical Consultant : Asset Barcoding - Singapore
+Sony wanted to implement bar-coding for all their assets and then interface it with the SAP R/3 for Asset Taking exercise
+
+SAP Technical Consultant : Company Code Currency Change - Hong Kong
+Played the technical consultant role when Sony corporation wanted to change the company code currency from HKD to USD
