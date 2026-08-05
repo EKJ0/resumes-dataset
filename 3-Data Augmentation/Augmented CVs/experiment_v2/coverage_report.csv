@@ -1,0 +1,2 @@
+job_position,eligible_source_cvs,duplicate_source_cvs,ineligible_source_cvs,selected_cvs,expected_variation_files,actual_variation_files_on_disk,qa_pass,qa_review,qa_fail,status
+BPO resumes,28,1,1,10,550,550,455,95,0,complete

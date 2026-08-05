@@ -1,0 +1,551 @@
+job_position,file_stem,category,variation_index,transform_type,status,detail
+BPO resumes,Image_29,name_gender,1,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,name_gender,2,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,name_gender,3,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,name_gender,4,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,name_gender,5,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,ethnicity,1,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,ethnicity,2,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,ethnicity,3,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,ethnicity,4,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,ethnicity,5,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_29,age,1,age_replace,PASS,targeted replace of '2003' -> '2025' at offset 510; rest of document byte-identical
+BPO resumes,Image_29,age,2,age_replace,PASS,targeted replace of '2003' -> '2020' at offset 510; rest of document byte-identical
+BPO resumes,Image_29,age,3,age_replace,PASS,targeted replace of '2003' -> '2008' at offset 510; rest of document byte-identical
+BPO resumes,Image_29,age,4,age_replace,PASS,targeted replace of '2003' -> '1998' at offset 510; rest of document byte-identical
+BPO resumes,Image_29,age,5,age_replace,PASS,targeted replace of '2003' -> '1988' at offset 510; rest of document byte-identical
+BPO resumes,Image_29,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_29,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_29,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,name_gender,1,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,name_gender,2,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,name_gender,3,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,name_gender,4,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,name_gender,5,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,ethnicity,1,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,ethnicity,2,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,ethnicity,3,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,ethnicity,4,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,ethnicity,5,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_80,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_80,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_80,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_80,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_80,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_80,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_80,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_80,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,name_gender,1,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Emily Walsh' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,name_gender,2,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Michael Walsh' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,name_gender,3,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Ashley Walsh' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,name_gender,4,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Brian Walsh' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,name_gender,5,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Jordan Walsh' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,ethnicity,1,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Emily Baker' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,ethnicity,2,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Lakisha Washington' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,ethnicity,3,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Maria Hernandez' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,ethnicity,4,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Mei Chen' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,ethnicity,5,identity_replace,PASS,targeted replace of 'Alvin F. Stamper' -> 'Fatima Al-Sayed' at offset 34; rest of document byte-identical
+BPO resumes,Image_53,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_53,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_53,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_53,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_53,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_53,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_53,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_53,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,name_gender,1,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Emily Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,name_gender,2,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Michael Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,name_gender,3,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Ashley Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,name_gender,4,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Brian Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,name_gender,5,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Jordan Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,ethnicity,1,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Emily Baker' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,ethnicity,2,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Lakisha Washington' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,ethnicity,3,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Maria Hernandez' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,ethnicity,4,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Mei Chen' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,ethnicity,5,identity_replace,PASS,targeted replace of 'EDWARDO PRICE' -> 'Fatima Al-Sayed' at offset 0; rest of document byte-identical
+BPO resumes,Image_70,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_70,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_70,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_70,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_70,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_70,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_70,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_70,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,name_gender,1,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,name_gender,2,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,name_gender,3,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,name_gender,4,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,name_gender,5,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,ethnicity,1,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,ethnicity,2,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,ethnicity,3,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,ethnicity,4,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,ethnicity,5,identity_replace,REVIEW,"no reliable candidate name detected (method=none, confidence=NONE); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_68,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_68,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_68,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_68,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_68,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_68,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_68,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_68,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,name_gender,1,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,name_gender,2,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,name_gender,3,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,name_gender,4,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,name_gender,5,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,ethnicity,1,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,ethnicity,2,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,ethnicity,3,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,ethnicity,4,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,ethnicity,5,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_36,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_36,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_36,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_36,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_36,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_36,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_36,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_36,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,name_gender,1,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Emily Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,name_gender,2,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Michael Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,name_gender,3,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Ashley Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,name_gender,4,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Brian Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,name_gender,5,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Jordan Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,ethnicity,1,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Emily Baker' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,ethnicity,2,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Lakisha Washington' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,ethnicity,3,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Maria Hernandez' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,ethnicity,4,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Mei Chen' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,ethnicity,5,identity_replace,PASS,targeted replace of 'ABBEY BECKER' -> 'Fatima Al-Sayed' at offset 0; rest of document byte-identical
+BPO resumes,Image_76,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_76,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_76,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_76,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_76,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_76,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_76,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_76,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,name_gender,1,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,name_gender,2,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,name_gender,3,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,name_gender,4,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,name_gender,5,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,ethnicity,1,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,ethnicity,2,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,ethnicity,3,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,ethnicity,4,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,ethnicity,5,identity_replace,REVIEW,"no reliable candidate name detected (method=heuristic_top_line, confidence=LOW); left source text untouched; synthetic header prepended; original body byte-identical (not replaced)"
+BPO resumes,Image_24,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_24,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_24,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_24,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_24,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_24,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_24,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_24,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,name_gender,1,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Emily Walsh' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,name_gender,2,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Michael Walsh' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,name_gender,3,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Ashley Walsh' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,name_gender,4,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Brian Walsh' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,name_gender,5,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Jordan Walsh' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,ethnicity,1,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Emily Baker' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,ethnicity,2,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Lakisha Washington' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,ethnicity,3,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Maria Hernandez' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,ethnicity,4,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Mei Chen' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,ethnicity,5,identity_replace,PASS,targeted replace of 'Jewell Wiza' -> 'Fatima Al-Sayed' at offset 69; rest of document byte-identical
+BPO resumes,Image_26,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_26,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_26,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_26,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_26,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_26,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_26,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_26,resume_length,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,name_gender,1,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Emily Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,name_gender,2,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Michael Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,name_gender,3,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Ashley Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,name_gender,4,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Brian Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,name_gender,5,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Jordan Walsh' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,ethnicity,1,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Emily Baker' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,ethnicity,2,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Lakisha Washington' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,ethnicity,3,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Maria Hernandez' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,ethnicity,4,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Mei Chen' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,ethnicity,5,identity_replace,PASS,targeted replace of 'DOROTHEA WATSICA' -> 'Fatima Al-Sayed' at offset 0; rest of document byte-identical
+BPO resumes,Image_65,age,1,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_65,age,2,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_65,age,3,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_65,age,4,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_65,age,5,age_replace,REVIEW,no safe education-year field found (employment/certification/project dates are protected); appended a synthetic field instead of editing body text; appended block only; original body byte-identical
+BPO resumes,Image_65,nationality,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,nationality,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,nationality,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,nationality,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,nationality,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,languages,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,languages,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,languages,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,languages,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,languages,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,volunteering,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,volunteering,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,volunteering,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,volunteering,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,volunteering,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,extracurricular,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,extracurricular,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,extracurricular,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,extracurricular,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,extracurricular,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,education,1,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,education,2,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,education,3,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,education,4,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,education,5,institution_replace,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,leadership_language,1,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,leadership_language,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,leadership_language,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,leadership_language,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,leadership_language,5,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_65,resume_length,2,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,resume_length,3,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,resume_length,4,append_block,PASS,appended block only; original body byte-identical
+BPO resumes,Image_65,resume_length,5,append_block,PASS,appended block only; original body byte-identical

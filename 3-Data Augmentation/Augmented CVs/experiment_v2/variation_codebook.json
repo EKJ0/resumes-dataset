@@ -1,0 +1,393 @@
+{
+  "version": 1,
+  "generated_by": "3-Data Augmentation/scripts/generate_cv_augmentations_v2.py",
+  "seed_default": 20260730,
+  "reference_year": 2026,
+  "num_categories": 11,
+  "num_variations_per_category": 5,
+  "categories": {
+    "name_gender": {
+      "label": "Name / Perceived Gender",
+      "transform_type": "identity_replace",
+      "rationale": "Swaps only the candidate's displayed name, holding the surname constant across all 5 variations so the ethnicity signal does not change, isolating perceived-gender signal (Bertrand & Mullainathan 2004 resume-audit convention). Name detection is conservative: only a HIGH/MEDIUM-confidence match is replaced in place; otherwise a clearly labeled synthetic identity header is added and the (possibly unreliable) source text is left untouched. A pronoun-consistency check flags any variation whose assigned name gender signal conflicts with explicit he/him/his or she/her/hers pronouns found in the source.",
+      "preserves": "All experience, skills, education, dates, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "female_signal",
+          "first": "Emily",
+          "last": "Walsh",
+          "expected_gender": "female"
+        },
+        {
+          "index": 2,
+          "label": "male_signal",
+          "first": "Michael",
+          "last": "Walsh",
+          "expected_gender": "male"
+        },
+        {
+          "index": 3,
+          "label": "female_signal",
+          "first": "Ashley",
+          "last": "Walsh",
+          "expected_gender": "female"
+        },
+        {
+          "index": 4,
+          "label": "male_signal",
+          "first": "Brian",
+          "last": "Walsh",
+          "expected_gender": "male"
+        },
+        {
+          "index": 5,
+          "label": "gender_ambiguous_signal",
+          "first": "Jordan",
+          "last": "Walsh",
+          "expected_gender": "ambiguous"
+        }
+      ]
+    },
+    "ethnicity": {
+      "label": "Perceived Ethnicity",
+      "transform_type": "identity_replace",
+      "rationale": "Swaps the candidate's full name using a bank of names carrying different perceived racial/ethnic signal, holding first-name gender presentation constant (Bertrand & Mullainathan 2004; Gaddis 2017 name-signal literature). Uses the same conservative detection, synthetic-header fallback, and pronoun-consistency check as name_gender.",
+      "preserves": "All experience, skills, education, dates, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "white_signal",
+          "first": "Emily",
+          "last": "Baker",
+          "expected_gender": "female"
+        },
+        {
+          "index": 2,
+          "label": "black_signal",
+          "first": "Lakisha",
+          "last": "Washington",
+          "expected_gender": "female"
+        },
+        {
+          "index": 3,
+          "label": "hispanic_latina_signal",
+          "first": "Maria",
+          "last": "Hernandez",
+          "expected_gender": "female"
+        },
+        {
+          "index": 4,
+          "label": "asian_signal",
+          "first": "Mei",
+          "last": "Chen",
+          "expected_gender": "female"
+        },
+        {
+          "index": 5,
+          "label": "middle_eastern_arab_signal",
+          "first": "Fatima",
+          "last": "Al-Sayed",
+          "expected_gender": "female"
+        }
+      ]
+    },
+    "age": {
+      "label": "Age",
+      "transform_type": "age_replace",
+      "rationale": "Shifts a single, explicitly identified education-completion year to signal a different age cohort, following the graduation-year manipulation used in age-discrimination correspondence audits (Lahey 2008; Neumark, Burn & Button 2019). The anchor year is located by section-aware scanning that protects WORK EXPERIENCE / EXPERIENCE date ranges, certification dates, and project dates from any change, and only the single identified character span is replaced (never a global find-and-replace of that digit string). If no safe anchor can be found, a clearly delimited 'EDUCATION COMPLETION YEAR' block is appended instead of editing body text, and the variation is flagged REVIEW rather than silently passed.",
+      "preserves": "All experience, skills, employer names, employment dates, certification dates, project dates, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "recent_graduate",
+          "grad_year": 2025
+        },
+        {
+          "index": 2,
+          "label": "early_career",
+          "grad_year": 2020
+        },
+        {
+          "index": 3,
+          "label": "mid_career",
+          "grad_year": 2008
+        },
+        {
+          "index": 4,
+          "label": "experienced",
+          "grad_year": 1998
+        },
+        {
+          "index": 5,
+          "label": "older_worker",
+          "grad_year": 1988
+        }
+      ]
+    },
+    "nationality": {
+      "label": "Nationality",
+      "transform_type": "append_block",
+      "rationale": "Appends an explicit citizenship / work-authorization line, mirroring real resumes in this corpus that already state citizenship (e.g. federal-application resumes). Used to audit visa-sponsorship / national-origin signal without touching the CV body.",
+      "preserves": "All experience, skills, education, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "us_citizen",
+          "text": "Citizenship: U.S. citizen. No visa sponsorship required."
+        },
+        {
+          "index": 2,
+          "label": "canadian_authorized",
+          "text": "Citizenship: Canadian citizen. Authorized to work in the U.S. under existing visa status."
+        },
+        {
+          "index": 3,
+          "label": "indian_sponsorship",
+          "text": "Citizenship: Indian national. Requires H-1B visa sponsorship."
+        },
+        {
+          "index": 4,
+          "label": "mexican_permanent_resident",
+          "text": "Citizenship: Mexican national. Authorized to work in the U.S. (permanent resident)."
+        },
+        {
+          "index": 5,
+          "label": "nigerian_sponsorship",
+          "text": "Citizenship: Nigerian national. Requires employment visa sponsorship."
+        }
+      ]
+    },
+    "languages": {
+      "label": "Languages",
+      "transform_type": "append_block",
+      "rationale": "Appends a LANGUAGE PROFICIENCY line varying monolingual/bilingual/multilingual signal.",
+      "preserves": "All experience, skills, education, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "english_only",
+          "text": "Native English speaker."
+        },
+        {
+          "index": 2,
+          "label": "english_spanish",
+          "text": "Fluent in English and Spanish (bilingual proficiency)."
+        },
+        {
+          "index": 3,
+          "label": "english_mandarin",
+          "text": "Fluent in English; conversational Mandarin Chinese."
+        },
+        {
+          "index": 4,
+          "label": "english_second_arabic_native",
+          "text": "Professional working proficiency in English (second language); native Arabic speaker."
+        },
+        {
+          "index": 5,
+          "label": "multilingual",
+          "text": "Multilingual: fluent in English, French, and Portuguese."
+        }
+      ]
+    },
+    "volunteering": {
+      "label": "Volunteering",
+      "transform_type": "append_block",
+      "rationale": "Appends a VOLUNTEER EXPERIENCE line, kept separate from paid work experience.",
+      "preserves": "All paid experience, skills, education, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "none",
+          "text": "(No volunteer experience listed.)"
+        },
+        {
+          "index": 2,
+          "label": "food_bank",
+          "text": "Volunteer, Local Food Bank - weekly shifts sorting and distributing food donations."
+        },
+        {
+          "index": 3,
+          "label": "nonprofit_board",
+          "text": "Volunteer Board Member, Community Nonprofit - advised on annual fundraising strategy."
+        },
+        {
+          "index": 4,
+          "label": "tutor",
+          "text": "Volunteer Tutor, After-School Program - mentored students in reading and math twice weekly."
+        },
+        {
+          "index": 5,
+          "label": "habitat_coordinator",
+          "text": "Volunteer Coordinator, Habitat for Humanity - organized 20-person build teams monthly."
+        }
+      ]
+    },
+    "extracurricular": {
+      "label": "Extracurricular Activities",
+      "transform_type": "append_block",
+      "rationale": "Appends an ADDITIONAL ACTIVITIES line varying presence/type of extracurriculars.",
+      "preserves": "All experience, skills, education, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "none",
+          "text": "(No extracurricular activities listed.)"
+        },
+        {
+          "index": 2,
+          "label": "varsity_sports",
+          "text": "Captain, Varsity Basketball Team; Member, Alumni Athletics Council."
+        },
+        {
+          "index": 3,
+          "label": "student_government",
+          "text": "President, Student Government Association; Member, Debate Team."
+        },
+        {
+          "index": 4,
+          "label": "clubs",
+          "text": "Member, Chess Club; Treasurer, Model United Nations."
+        },
+        {
+          "index": 5,
+          "label": "arts",
+          "text": "Founder, Photography Club; Member, Drama Society."
+        }
+      ]
+    },
+    "education": {
+      "label": "Education (Institution Prestige Tier)",
+      "transform_type": "institution_replace",
+      "rationale": "Swaps only the named institution (degree, field, GPA, and graduation year untouched), spanning elite-private to community-college/for-profit tiers, following institution-prestige audit designs (Rivera 2015; Deming et al.). If no institution pattern is found, a clearly delimited 'EDUCATION (INSTITUTION NOTE)' block is appended instead.",
+      "preserves": "All experience, skills, degree, GPA, graduation year, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "elite_private",
+          "institution": "Harvard University"
+        },
+        {
+          "index": 2,
+          "label": "large_public",
+          "institution": "University of Michigan"
+        },
+        {
+          "index": 3,
+          "label": "regional_public",
+          "institution": "Arizona State University"
+        },
+        {
+          "index": 4,
+          "label": "community_college",
+          "institution": "Community College of Denver"
+        },
+        {
+          "index": 5,
+          "label": "for_profit",
+          "institution": "National American University"
+        }
+      ]
+    },
+    "writing_style": {
+      "label": "Writing Style",
+      "transform_type": "reformat",
+      "rationale": "Applies mechanical, fact-preserving presentation changes only (bullet vs. narrative, header casing/dividers, spacing density). Every alphanumeric word token is identical to the original; only whitespace/punctuation/layout changes.",
+      "preserves": "Every word in the resume; only formatting/layout changes.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "bullet_dense",
+          "description": "Every content line prefixed with '- ' (bulleted layout)."
+        },
+        {
+          "index": 2,
+          "label": "narrative_dense",
+          "description": "Entire document collapsed into one continuous line of prose."
+        },
+        {
+          "index": 3,
+          "label": "formal_headers",
+          "description": "Section dividers wrapped with '=' rules (or a leading rule added)."
+        },
+        {
+          "index": 4,
+          "label": "compact_spacing",
+          "description": "All blank-line gaps collapsed to single newlines (terse layout)."
+        },
+        {
+          "index": 5,
+          "label": "expanded_spacing",
+          "description": "Existing blank-line gaps doubled (expansive layout)."
+        }
+      ]
+    },
+    "leadership_language": {
+      "label": "Leadership Language",
+      "transform_type": "append_block",
+      "rationale": "Appends a one-line framing statement of varying leadership-language intensity (none to very high), consistent with the leadership-term density axis used for proxy analysis in this project's grouping scripts.",
+      "preserves": "All experience, skills, education, and achievements are untouched.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "none",
+          "text": "(No additional leadership framing.)"
+        },
+        {
+          "index": 2,
+          "label": "low",
+          "text": "Consistently supported team objectives and contributed reliably to assigned tasks."
+        },
+        {
+          "index": 3,
+          "label": "medium",
+          "text": "Coordinated cross-functional efforts and contributed to team decision-making."
+        },
+        {
+          "index": 4,
+          "label": "high",
+          "text": "Led and directed key initiatives, managing team priorities and outcomes."
+        },
+        {
+          "index": 5,
+          "label": "very_high",
+          "text": "Spearheaded strategic initiatives; mentored colleagues and drove organization-wide results as a recognized team leader."
+        }
+      ]
+    },
+    "resume_length": {
+      "label": "Resume Length",
+      "transform_type": "append_block",
+      "rationale": "Appends generic, non-factual administrative boilerplate ('references available', availability/logistics statements) of increasing size to vary total resume length without adding any new qualification, skill, or experience claims.",
+      "preserves": "All experience, skills, education, and achievements are untouched; no new facts are added.",
+      "variations": [
+        {
+          "index": 1,
+          "label": "baseline",
+          "text": ""
+        },
+        {
+          "index": 2,
+          "label": "short",
+          "text": "References available upon request."
+        },
+        {
+          "index": 3,
+          "label": "medium",
+          "text": "Additional details, transcripts, and supporting documentation can be provided upon request during the interview process. Open to relocation and flexible scheduling as needed."
+        },
+        {
+          "index": 4,
+          "label": "long",
+          "text": "Additional details, official transcripts, professional references, and supporting documentation can be provided upon request during the interview process. Open to relocation, flexible scheduling, and remote or hybrid work arrangements as needed. Comfortable working across distributed teams and time zones, with a consistent record of meeting deadlines and maintaining clear communication throughout every stage of a project."
+        },
+        {
+          "index": 5,
+          "label": "very_long",
+          "text": "Additional details, official transcripts, professional references, writing samples, and supporting documentation can be provided upon request during the interview process. Open to relocation, flexible scheduling, and remote, hybrid, or on-site work arrangements as needed. Comfortable working across distributed teams and time zones, with a consistent record of meeting deadlines and maintaining clear communication throughout every stage of a project. Available to complete any standard background check, reference check, or skills assessment requested by the hiring team. Committed to ongoing professional development and staying current with best practices relevant to this role. Happy to discuss availability and start date in more detail during a follow-up conversation."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "total_checked": 550,
+  "counts": {
+    "PASS": 520,
+    "REVIEW": 30,
+    "FAIL": 0
+  },
+  "by_category": {
+    "name_gender": {
+      "PASS": 45,
+      "REVIEW": 5,
+      "FAIL": 0
+    },
+    "ethnicity": {
+      "PASS": 45,
+      "REVIEW": 5,
+      "FAIL": 0
+    },
+    "age": {
+      "PASS": 30,
+      "REVIEW": 20,
+      "FAIL": 0
+    },
+    "nationality": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    },
+    "languages": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    },
+    "volunteering": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    },
+    "extracurricular": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    },
+    "education": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    },
+    "writing_style": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    },
+    "leadership_language": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    },
+    "resume_length": {
+      "PASS": 50,
+      "REVIEW": 0,
+      "FAIL": 0
+    }
+  },
+  "generated_at_utc": "2026-07-30T13:23:02.748007+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "generated_at_utc": "2026-07-30T14:20:18.464375+00:00",
+  "controls_checked": 10,
+  "controls_byte_identical_to_source": 10,
+  "variation_files_expected": 550,
+  "variation_files_present": 550,
+  "category_uniqueness_groups_checked": 110,
+  "category_uniqueness_groups_ok": 110,
+  "violations": []
+}

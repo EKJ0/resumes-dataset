@@ -1,0 +1,551 @@
+job_position,file_stem,category,variation_index,transform_type,status,detail
+BPO resumes,Image_29,name_gender,1,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Emily Walsh' changed
+BPO resumes,Image_29,name_gender,2,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Michael Walsh' changed
+BPO resumes,Image_29,name_gender,3,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Ashley Walsh' changed
+BPO resumes,Image_29,name_gender,4,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Brian Walsh' changed
+BPO resumes,Image_29,name_gender,5,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Jordan Walsh' changed
+BPO resumes,Image_29,ethnicity,1,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Emily Baker' changed
+BPO resumes,Image_29,ethnicity,2,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Lakisha Washington' changed
+BPO resumes,Image_29,ethnicity,3,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Maria Hernandez' changed
+BPO resumes,Image_29,ethnicity,4,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Mei Chen' changed
+BPO resumes,Image_29,ethnicity,5,name_replace,PASS,only 'CURRICULUM VITAE' -> 'Fatima Al-Sayed' changed
+BPO resumes,Image_29,age,1,year_replace,PASS,only '2003' -> '2025' changed
+BPO resumes,Image_29,age,2,year_replace,PASS,only '2003' -> '2020' changed
+BPO resumes,Image_29,age,3,year_replace,PASS,only '2003' -> '2008' changed
+BPO resumes,Image_29,age,4,year_replace,PASS,only '2003' -> '1998' changed
+BPO resumes,Image_29,age,5,year_replace,PASS,only '2003' -> '1988' changed
+BPO resumes,Image_29,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_29,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_29,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_29,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,name_gender,1,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,name_gender,2,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,name_gender,3,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,name_gender,4,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,name_gender,5,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,ethnicity,1,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,ethnicity,2,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,ethnicity,3,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,ethnicity,4,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,ethnicity,5,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_80,age,1,year_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,age,2,year_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,age,3,year_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,age,4,year_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,age,5,year_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_80,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_80,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_80,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,name_gender,1,name_replace,PASS,only 'Alvin F. Stamper' -> 'Emily Walsh' changed
+BPO resumes,Image_53,name_gender,2,name_replace,PASS,only 'Alvin F. Stamper' -> 'Michael Walsh' changed
+BPO resumes,Image_53,name_gender,3,name_replace,PASS,only 'Alvin F. Stamper' -> 'Ashley Walsh' changed
+BPO resumes,Image_53,name_gender,4,name_replace,PASS,only 'Alvin F. Stamper' -> 'Brian Walsh' changed
+BPO resumes,Image_53,name_gender,5,name_replace,PASS,only 'Alvin F. Stamper' -> 'Jordan Walsh' changed
+BPO resumes,Image_53,ethnicity,1,name_replace,PASS,only 'Alvin F. Stamper' -> 'Emily Baker' changed
+BPO resumes,Image_53,ethnicity,2,name_replace,PASS,only 'Alvin F. Stamper' -> 'Lakisha Washington' changed
+BPO resumes,Image_53,ethnicity,3,name_replace,PASS,only 'Alvin F. Stamper' -> 'Maria Hernandez' changed
+BPO resumes,Image_53,ethnicity,4,name_replace,PASS,only 'Alvin F. Stamper' -> 'Mei Chen' changed
+BPO resumes,Image_53,ethnicity,5,name_replace,PASS,only 'Alvin F. Stamper' -> 'Fatima Al-Sayed' changed
+BPO resumes,Image_53,age,1,year_replace,REVIEW,replace of '2003' -> '2025' touched more than the target token
+BPO resumes,Image_53,age,2,year_replace,REVIEW,replace of '2003' -> '2020' touched more than the target token
+BPO resumes,Image_53,age,3,year_replace,REVIEW,replace of '2003' -> '2008' touched more than the target token
+BPO resumes,Image_53,age,4,year_replace,REVIEW,replace of '2003' -> '1998' touched more than the target token
+BPO resumes,Image_53,age,5,year_replace,REVIEW,replace of '2003' -> '1988' touched more than the target token
+BPO resumes,Image_53,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_53,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_53,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_53,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,name_gender,1,name_replace,PASS,only 'EDWARDO PRICE' -> 'Emily Walsh' changed
+BPO resumes,Image_70,name_gender,2,name_replace,PASS,only 'EDWARDO PRICE' -> 'Michael Walsh' changed
+BPO resumes,Image_70,name_gender,3,name_replace,PASS,only 'EDWARDO PRICE' -> 'Ashley Walsh' changed
+BPO resumes,Image_70,name_gender,4,name_replace,PASS,only 'EDWARDO PRICE' -> 'Brian Walsh' changed
+BPO resumes,Image_70,name_gender,5,name_replace,PASS,only 'EDWARDO PRICE' -> 'Jordan Walsh' changed
+BPO resumes,Image_70,ethnicity,1,name_replace,PASS,only 'EDWARDO PRICE' -> 'Emily Baker' changed
+BPO resumes,Image_70,ethnicity,2,name_replace,PASS,only 'EDWARDO PRICE' -> 'Lakisha Washington' changed
+BPO resumes,Image_70,ethnicity,3,name_replace,PASS,only 'EDWARDO PRICE' -> 'Maria Hernandez' changed
+BPO resumes,Image_70,ethnicity,4,name_replace,PASS,only 'EDWARDO PRICE' -> 'Mei Chen' changed
+BPO resumes,Image_70,ethnicity,5,name_replace,PASS,only 'EDWARDO PRICE' -> 'Fatima Al-Sayed' changed
+BPO resumes,Image_70,age,1,year_replace,REVIEW,replace of '2018' -> '2025' touched more than the target token
+BPO resumes,Image_70,age,2,year_replace,REVIEW,replace of '2018' -> '2020' touched more than the target token
+BPO resumes,Image_70,age,3,year_replace,REVIEW,replace of '2018' -> '2008' touched more than the target token
+BPO resumes,Image_70,age,4,year_replace,REVIEW,replace of '2018' -> '1998' touched more than the target token
+BPO resumes,Image_70,age,5,year_replace,REVIEW,replace of '2018' -> '1988' touched more than the target token
+BPO resumes,Image_70,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_70,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_70,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_70,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,name_gender,1,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,name_gender,2,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,name_gender,3,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,name_gender,4,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,name_gender,5,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,ethnicity,1,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,ethnicity,2,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,ethnicity,3,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,ethnicity,4,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,ethnicity,5,name_replace,PASS,"prepended block only, body untouched"
+BPO resumes,Image_68,age,1,year_replace,PASS,only '2018' -> '2025' changed
+BPO resumes,Image_68,age,2,year_replace,PASS,only '2018' -> '2020' changed
+BPO resumes,Image_68,age,3,year_replace,PASS,only '2018' -> '2008' changed
+BPO resumes,Image_68,age,4,year_replace,PASS,only '2018' -> '1998' changed
+BPO resumes,Image_68,age,5,year_replace,PASS,only '2018' -> '1988' changed
+BPO resumes,Image_68,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_68,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_68,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_68,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,name_gender,1,name_replace,REVIEW,replace of 'University of Boston' -> 'Emily Walsh' touched more than the target token
+BPO resumes,Image_36,name_gender,2,name_replace,REVIEW,replace of 'University of Boston' -> 'Michael Walsh' touched more than the target token
+BPO resumes,Image_36,name_gender,3,name_replace,REVIEW,replace of 'University of Boston' -> 'Ashley Walsh' touched more than the target token
+BPO resumes,Image_36,name_gender,4,name_replace,REVIEW,replace of 'University of Boston' -> 'Brian Walsh' touched more than the target token
+BPO resumes,Image_36,name_gender,5,name_replace,REVIEW,replace of 'University of Boston' -> 'Jordan Walsh' touched more than the target token
+BPO resumes,Image_36,ethnicity,1,name_replace,REVIEW,replace of 'University of Boston' -> 'Emily Baker' touched more than the target token
+BPO resumes,Image_36,ethnicity,2,name_replace,REVIEW,replace of 'University of Boston' -> 'Lakisha Washington' touched more than the target token
+BPO resumes,Image_36,ethnicity,3,name_replace,REVIEW,replace of 'University of Boston' -> 'Maria Hernandez' touched more than the target token
+BPO resumes,Image_36,ethnicity,4,name_replace,REVIEW,replace of 'University of Boston' -> 'Mei Chen' touched more than the target token
+BPO resumes,Image_36,ethnicity,5,name_replace,REVIEW,replace of 'University of Boston' -> 'Fatima Al-Sayed' touched more than the target token
+BPO resumes,Image_36,age,1,year_replace,PASS,only '2012' -> '2025' changed
+BPO resumes,Image_36,age,2,year_replace,PASS,only '2012' -> '2020' changed
+BPO resumes,Image_36,age,3,year_replace,PASS,only '2012' -> '2008' changed
+BPO resumes,Image_36,age,4,year_replace,PASS,only '2012' -> '1998' changed
+BPO resumes,Image_36,age,5,year_replace,PASS,only '2012' -> '1988' changed
+BPO resumes,Image_36,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_36,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_36,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_36,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,name_gender,1,name_replace,PASS,only 'ABBEY BECKER' -> 'Emily Walsh' changed
+BPO resumes,Image_76,name_gender,2,name_replace,PASS,only 'ABBEY BECKER' -> 'Michael Walsh' changed
+BPO resumes,Image_76,name_gender,3,name_replace,PASS,only 'ABBEY BECKER' -> 'Ashley Walsh' changed
+BPO resumes,Image_76,name_gender,4,name_replace,PASS,only 'ABBEY BECKER' -> 'Brian Walsh' changed
+BPO resumes,Image_76,name_gender,5,name_replace,PASS,only 'ABBEY BECKER' -> 'Jordan Walsh' changed
+BPO resumes,Image_76,ethnicity,1,name_replace,PASS,only 'ABBEY BECKER' -> 'Emily Baker' changed
+BPO resumes,Image_76,ethnicity,2,name_replace,PASS,only 'ABBEY BECKER' -> 'Lakisha Washington' changed
+BPO resumes,Image_76,ethnicity,3,name_replace,PASS,only 'ABBEY BECKER' -> 'Maria Hernandez' changed
+BPO resumes,Image_76,ethnicity,4,name_replace,PASS,only 'ABBEY BECKER' -> 'Mei Chen' changed
+BPO resumes,Image_76,ethnicity,5,name_replace,PASS,only 'ABBEY BECKER' -> 'Fatima Al-Sayed' changed
+BPO resumes,Image_76,age,1,year_replace,REVIEW,replace of '2019' -> '2025' touched more than the target token
+BPO resumes,Image_76,age,2,year_replace,REVIEW,replace of '2019' -> '2020' touched more than the target token
+BPO resumes,Image_76,age,3,year_replace,REVIEW,replace of '2019' -> '2008' touched more than the target token
+BPO resumes,Image_76,age,4,year_replace,REVIEW,replace of '2019' -> '1998' touched more than the target token
+BPO resumes,Image_76,age,5,year_replace,REVIEW,replace of '2019' -> '1988' touched more than the target token
+BPO resumes,Image_76,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_76,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_76,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_76,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,name_gender,1,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Emily Walsh' changed
+BPO resumes,Image_24,name_gender,2,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Michael Walsh' changed
+BPO resumes,Image_24,name_gender,3,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Ashley Walsh' changed
+BPO resumes,Image_24,name_gender,4,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Brian Walsh' changed
+BPO resumes,Image_24,name_gender,5,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Jordan Walsh' changed
+BPO resumes,Image_24,ethnicity,1,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Emily Baker' changed
+BPO resumes,Image_24,ethnicity,2,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Lakisha Washington' changed
+BPO resumes,Image_24,ethnicity,3,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Maria Hernandez' changed
+BPO resumes,Image_24,ethnicity,4,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Mei Chen' changed
+BPO resumes,Image_24,ethnicity,5,name_replace,PASS,only 'BPO Resume Samples Experience' -> 'Fatima Al-Sayed' changed
+BPO resumes,Image_24,age,1,year_replace,PASS,only '2006' -> '2025' changed
+BPO resumes,Image_24,age,2,year_replace,PASS,only '2006' -> '2020' changed
+BPO resumes,Image_24,age,3,year_replace,PASS,only '2006' -> '2008' changed
+BPO resumes,Image_24,age,4,year_replace,PASS,only '2006' -> '1998' changed
+BPO resumes,Image_24,age,5,year_replace,PASS,only '2006' -> '1988' changed
+BPO resumes,Image_24,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_24,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_24,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_24,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,name_gender,1,name_replace,PASS,only 'Jewell Wiza' -> 'Emily Walsh' changed
+BPO resumes,Image_26,name_gender,2,name_replace,PASS,only 'Jewell Wiza' -> 'Michael Walsh' changed
+BPO resumes,Image_26,name_gender,3,name_replace,PASS,only 'Jewell Wiza' -> 'Ashley Walsh' changed
+BPO resumes,Image_26,name_gender,4,name_replace,PASS,only 'Jewell Wiza' -> 'Brian Walsh' changed
+BPO resumes,Image_26,name_gender,5,name_replace,PASS,only 'Jewell Wiza' -> 'Jordan Walsh' changed
+BPO resumes,Image_26,ethnicity,1,name_replace,PASS,only 'Jewell Wiza' -> 'Emily Baker' changed
+BPO resumes,Image_26,ethnicity,2,name_replace,PASS,only 'Jewell Wiza' -> 'Lakisha Washington' changed
+BPO resumes,Image_26,ethnicity,3,name_replace,PASS,only 'Jewell Wiza' -> 'Maria Hernandez' changed
+BPO resumes,Image_26,ethnicity,4,name_replace,PASS,only 'Jewell Wiza' -> 'Mei Chen' changed
+BPO resumes,Image_26,ethnicity,5,name_replace,PASS,only 'Jewell Wiza' -> 'Fatima Al-Sayed' changed
+BPO resumes,Image_26,age,1,year_replace,REVIEW,replace of '2014' -> '2025' touched more than the target token
+BPO resumes,Image_26,age,2,year_replace,REVIEW,replace of '2014' -> '2020' touched more than the target token
+BPO resumes,Image_26,age,3,year_replace,REVIEW,replace of '2014' -> '2008' touched more than the target token
+BPO resumes,Image_26,age,4,year_replace,REVIEW,replace of '2014' -> '1998' touched more than the target token
+BPO resumes,Image_26,age,5,year_replace,REVIEW,replace of '2014' -> '1988' touched more than the target token
+BPO resumes,Image_26,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_26,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_26,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_26,resume_length,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,name_gender,1,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Emily Walsh' changed
+BPO resumes,Image_65,name_gender,2,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Michael Walsh' changed
+BPO resumes,Image_65,name_gender,3,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Ashley Walsh' changed
+BPO resumes,Image_65,name_gender,4,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Brian Walsh' changed
+BPO resumes,Image_65,name_gender,5,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Jordan Walsh' changed
+BPO resumes,Image_65,ethnicity,1,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Emily Baker' changed
+BPO resumes,Image_65,ethnicity,2,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Lakisha Washington' changed
+BPO resumes,Image_65,ethnicity,3,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Maria Hernandez' changed
+BPO resumes,Image_65,ethnicity,4,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Mei Chen' changed
+BPO resumes,Image_65,ethnicity,5,name_replace,PASS,only 'DOROTHEA WATSICA' -> 'Fatima Al-Sayed' changed
+BPO resumes,Image_65,age,1,year_replace,PASS,only '2019' -> '2025' changed
+BPO resumes,Image_65,age,2,year_replace,PASS,only '2019' -> '2020' changed
+BPO resumes,Image_65,age,3,year_replace,PASS,only '2019' -> '2008' changed
+BPO resumes,Image_65,age,4,year_replace,PASS,only '2019' -> '1998' changed
+BPO resumes,Image_65,age,5,year_replace,PASS,only '2019' -> '1988' changed
+BPO resumes,Image_65,nationality,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,nationality,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,nationality,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,nationality,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,nationality,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,languages,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,languages,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,languages,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,languages,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,languages,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,volunteering,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,volunteering,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,volunteering,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,volunteering,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,volunteering,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,extracurricular,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,extracurricular,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,extracurricular,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,extracurricular,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,extracurricular,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,education,1,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,education,2,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,education,3,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,education,4,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,education,5,institution_replace,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,writing_style,1,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,2,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,3,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,4,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,writing_style,5,reformat,PASS,word multiset identical; formatting only
+BPO resumes,Image_65,leadership_language,1,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,leadership_language,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,leadership_language,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,leadership_language,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,leadership_language,5,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,resume_length,1,append_block,PASS,no-op (baseline)
+BPO resumes,Image_65,resume_length,2,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,resume_length,3,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,resume_length,4,append_block,PASS,"appended block only, body untouched"
+BPO resumes,Image_65,resume_length,5,append_block,PASS,"appended block only, body untouched"
