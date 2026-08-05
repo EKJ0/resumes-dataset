@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Banking
+Folder: Banking  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_16.txt)
+----------------------------------------------------------------------
+Name: First Last
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Resume Worded University, New York, NY 06/2005
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. led, spearheaded
+Resume Length: 335 words, 33 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: 05ea8cc778e8a823.txt)
+----------------------------------------------------------------------
+Name: Kramer Jansen
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. directed, spearheaded
+Resume Length: 305 words, 28 lines (~0.6 pages)
+
+CANDIDATE 3  (source file: 136b42e63a7b13b6.txt)
+----------------------------------------------------------------------
+Name: Hartford Ct
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: High School Diploma, Wallingford High School, Wallingford | September 2008 - May 2012
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, established
+Resume Length: 308 words, 45 lines (~0.6 pages)
+
+CANDIDATE 4  (source file: 1d22f4cc635f3a2d.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. established
+Resume Length: 353 words, 33 lines (~0.7 pages)
+
+CANDIDATE 5  (source file: 88.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~52 (estimated from earliest date/grad year 1996, not stated)
+Nationality: Not stated in source
+Languages: Bilingual: English / Spanish Intermediate: Portuguese
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Arts: Accounting and Finance, 2000 San Martin University - Lima
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. oversaw, supervised, coordinated, established
+Resume Length: 932 words, 78 lines (~1.9 pages)
+
+CANDIDATE 6  (source file: 41.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~43 (estimated from earliest date/grad year 2005, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed
+Resume Length: 435 words, 51 lines (~0.9 pages)
+
+CANDIDATE 7  (source file: Image_82.txt)
+----------------------------------------------------------------------
+Name: Lucy Cheng
+Ethnicity: Not stated in source (not inferred)
+Age: ~47 (estimated from earliest date/grad year 2001, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. initiated, directed, spearheaded
+Resume Length: 307 words, 28 lines (~0.6 pages)
+
+CANDIDATE 8  (source file: 43.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~26 (estimated from earliest date/grad year 2022, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, first-person tone
+Leadership Language: Moderate (4 instances) — e.g. established, managed, founded
+Resume Length: 622 words, 44 lines (~1.2 pages)
+
+CANDIDATE 9  (source file: 1d7000ad4afe3d59.txt)
+----------------------------------------------------------------------
+Name: James Sullivan Pace
+Ethnicity: Not stated in source (not inferred)
+Age: ~65 (estimated from earliest date/grad year 1983, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. managed
+Resume Length: 253 words, 27 lines (~0.5 pages)
+
+CANDIDATE 10  (source file: 22.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~54 (estimated from earliest date/grad year 1994, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Master: Management, 1995 University of Central Texas - USA, TX
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 403 words, 44 lines (~0.8 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis
