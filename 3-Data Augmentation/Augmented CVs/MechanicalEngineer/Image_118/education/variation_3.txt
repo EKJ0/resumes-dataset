@@ -1,0 +1,51 @@
+Robert Smith
+
+Staff Mechanical Engineer/Manager
+
+PERSONAL STATEMENT
+
+Ahighly effective Engineering Professional (dual US/Canadian citizen) with more than 25 years of experience, who meets challenges head-on and
+creates positive change, A creative and detail oriented Individual with a record of success in management, engineering, and design/developrnent. A
+strong leader with a solid technical foundation who develops and leads teams, while achieving outstanding results in fast-paced, dynamic business
+environments.
+
+WORK EXPERIENCE
+---------------
+
+Staff Mechanical Eng ineer/Manager
+ABC Corporation- November 2009 - july 2013 Responsibilities:
+= Designed and developed of mechanical parts and assemblies per marketing requirernents, UL, and FCC standards,
+= Created 3-D models in SolidWorks to perform assembly interference checking and tolerances stack-up analysis per design intent and to
+generate STEP or IGES files for vendors on tooling design and CNC machining, = Designed and created Mechanical Keep Out (MKO) drawings for EE tearn
+to design PCB layout and fabrication.
+= Performed finite element analysis (FEA) for plastic parts in Solidworks Simulation for design integrity and part optimization which reduced the
+design verification process from 8 to 3 weeks.
+= Wrote test protocols and plans.
+- Coordinated with lab technician to run tests and collect data for evaluation. = Conducted DOE on enclosure cooling design and draw the best conclusion based on the experimental test data,
+
+Staff Mechanical Engineer
+Delta Corporation - 2008 - 2009 Re sponsibilities:
+- Optima Ultracentrifuge - Eliminated a high-pitched noise that had been plaguing the drive design for many years. » Used FEA and experimental methods in the optimization of this patented design. = Optimized airflow for efficient cooling and quiet operation using CFD.
+- Stiffened instrument frame to eliminate undesirable vibration using FEA.
+- Characterized thermal perforrnance of test chamber. = Designed mechanical layout of rotor drive inverter board,
+- Analytical Centrifuge - Designed 8 new interferorneter to replace one based on an obsolete camera.
+
+- This Eree Resume Template ts the copyright of Quikresume com. Usage Guidelines
+
+1737 Marshville Road, Alabama
+
+(123)-456-7899 info@qwikresume,.com
+www.qwikresume.com
+
+Modal Analysis, FEA, NVH, Noise And Vibrations Analysis And Control Technologies, Sound And Vibration,
+
+LANGUAGES English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Arizona State University

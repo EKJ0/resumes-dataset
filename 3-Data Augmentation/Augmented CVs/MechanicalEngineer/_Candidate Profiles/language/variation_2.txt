@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — MechanicalEngineer
+Folder: MechanicalEngineer  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 7dde627ed6442019.txt)
+----------------------------------------------------------------------
+Name: Zion O'connell
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science in Mechanical Engineering at Educational Institution XYZ Noy 2011
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. managed, mentored
+Resume Length: 368 words, 32 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: Image_49.txt)
+----------------------------------------------------------------------
+Name: Mechanical Engineer
+Ethnicity: Not stated in source (not inferred)
+Age: ~48 (estimated from earliest date/grad year 2000, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 489 words, 43 lines (~1.0 pages)
+
+CANDIDATE 3  (source file: Image_61.txt)
+----------------------------------------------------------------------
+Name: Sally Littel
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: OKLAHOMA STATE UNIVERSITY - TULSA 2007 - 2011 Engineer's Degree in Mechanical Engineering
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 353 words, 37 lines (~0.7 pages)
+
+CANDIDATE 4  (source file: 214fb9f4e3834b4d.txt)
+----------------------------------------------------------------------
+Name: Aiden Kelly
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. led, lead, managed
+Resume Length: 400 words, 49 lines (~0.8 pages)
+
+CANDIDATE 5  (source file: 3467cd9da05c7920.txt)
+----------------------------------------------------------------------
+Name: Jagadeesh Konuru
+Ethnicity: Not stated in source (not inferred)
+Age: ~50 (estimated from earliest date/grad year 1998, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: B.Tech Mechanical Engineering in 2022 from Vasavi College of Engineering, Hyderabad with GPA 8.2
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 207 words, 33 lines (~0.4 pages)
+
+CANDIDATE 6  (source file: dfd3e1f38da1948d.txt)
+----------------------------------------------------------------------
+Name: Mechanical Project Engineer Pb
+Ethnicity: Not stated in source (not inferred)
+Age: ~44 (estimated from earliest date/grad year 2004, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: - This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 303 words, 40 lines (~0.6 pages)
+
+CANDIDATE 7  (source file: Image_5.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science in Mechanical Engineering - (Northern Arizona University - Flagstaff, AZ)
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, leading
+Resume Length: 344 words, 39 lines (~0.7 pages)
+
+CANDIDATE 8  (source file: 37bafa849f0d67bc.txt)
+----------------------------------------------------------------------
+Name: Michelle Sanders
+Ethnicity: Not stated in source (not inferred)
+Age: ~26 (estimated from earliest date/grad year 2022, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. led, managed
+Resume Length: 304 words, 28 lines (~0.6 pages)
+
+CANDIDATE 9  (source file: Image_2.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~50 (estimated from earliest date/grad year 1998, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: - CU Automotive Association of Chicago | - Students Union of Engineers, USA
+Education: --------- COWELL UNIVERSITY Chicago, IL
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 248 words, 30 lines (~0.5 pages)
+
+CANDIDATE 10  (source file: Image_26.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: SKILLS
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 249 words, 36 lines (~0.5 pages)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Fluent in English (bilingual proficiency).

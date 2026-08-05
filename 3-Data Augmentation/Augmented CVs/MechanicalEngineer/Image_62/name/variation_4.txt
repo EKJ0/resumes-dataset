@@ -1,0 +1,45 @@
+Jamal Jackson
+Main Town, ST 60436
+(666) 777-2345 | edhill@aol.com
+www. linkedin.com/in/edgar-hill
+
+Mechanical Engineer
+
+Dedicated Mechanical Engineer with R&D experience designing products for companies ranging from
+start-ups to world-wide manufacturers. Proficient in using state-of-the-art tools and methods, certified
+in welding processes and equipment. Solid leadership and applied knowledge to competently
+communicate with external and internal customers and corporate stakeholders. Bilingual English and
+Spanish.
+
+WORK EXPERIENCE
+---------------
+ABCinc - Main Town, ST May 2013 - April 2019 Mechanical Hardware Engineer
+Ink-jet printer design, most recently on the PageWide A3 Color MFP family of products. Worldwide
+travel to support product prototype builds at manufacturing sites. Paper path and finisher design
+and development:
+
+injection-molded plastic, machined metal and sheet-metal part and assembly design.
+Solid modeling & 2-D drafting documentation using PTC Creo.
+
+Use of ANSI/ASME Y14.5GD&T to communicate tolerance & inspection requirements.
+Coordination and approval of production part first article & Cpk metrology inspections.
+Prototyping of designs using local Model Shop and 3D-printing resources.
+Creation of test and assembly fixturing.
+
+Test and characterization of components and assemblies to quantify failure, including accelerated|ife, fatigue, environmental.
+
+Collaboration with EEs, firmware engineers, technicians & test operators in the design, troubleshooting & resolution of issues.
+
+Collection and inspection of servo metrics and test data from local and remote locations Troubleshooting of test-related issues toroot cause and solution implementation.
+assist withserviceability testing and documentation for release with new product.
+Coordination of product dynamic shock and vibration / drop testing to reduce failures in shipping and handling.
+
+- Perform FEA analyses to identify and resolve part weaknesses.
+
+- Product support and customer interaction at delta test sites.
+
+ABCCompany Nov 2010 = May 2013 Mechanical Engineer
+Contract employee at ABC, in ink-jet printer design. Roles and responsibilities essentially identical
+tothose listed above.
+
+Education and Certification Bachelor of Science, Mechanical Engineering State University Fundamentals of Engineering (E1T) Exam
