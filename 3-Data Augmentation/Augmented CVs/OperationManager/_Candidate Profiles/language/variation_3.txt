@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — OperationManager
+Folder: OperationManager  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 0d5576d8451bd7cd.txt)
+----------------------------------------------------------------------
+Name: Austin Krause
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: MAY 2014 B.S. IN ADVERTISING, THE UNIVERSITY OF TEXAS - AUSTIN, TX
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. managed, directed
+Resume Length: 365 words, 33 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: d5d8501cce25f59f.txt)
+----------------------------------------------------------------------
+Name: Shaun Parvelu Operations Manager
+Ethnicity: Not stated in source (not inferred)
+Age: ~53 (estimated from earliest date/grad year 1995, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. lead, initiated
+Resume Length: 245 words, 43 lines (~0.5 pages)
+
+CANDIDATE 3  (source file: Image_82.txt)
+----------------------------------------------------------------------
+Name: Boris Charles
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 272 words, 29 lines (~0.5 pages)
+
+CANDIDATE 4  (source file: 19c1322e9a59b8e0.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. coordinated, managed, supervised
+Resume Length: 222 words, 26 lines (~0.4 pages)
+
+CANDIDATE 5  (source file: 24124ec9ed78a146.txt)
+----------------------------------------------------------------------
+Name: Aiden Kelly
+Ethnicity: Not stated in source (not inferred)
+Age: ~26 (estimated from earliest date/grad year 2022, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. led, leading, managed, established
+Resume Length: 359 words, 52 lines (~0.7 pages)
+
+CANDIDATE 6  (source file: Image_60.txt)
+----------------------------------------------------------------------
+Name: First Name Last Name
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (7 instances) — e.g. oversaw, managed, leading, coordinated
+Resume Length: 429 words, 36 lines (~0.9 pages)
+
+CANDIDATE 7  (source file: Image_95.txt)
+----------------------------------------------------------------------
+Name: Farrah Caldemer
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science Computer Science
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. led, leading, coordinated, initiated, launched
+Resume Length: 349 words, 46 lines (~0.7 pages)
+
+CANDIDATE 8  (source file: Image_63.txt)
+----------------------------------------------------------------------
+Name: John F. Davis
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead, directed, oversaw, established
+Resume Length: 430 words, 36 lines (~0.9 pages)
+
+CANDIDATE 9  (source file: f6259296dc55bbdb.txt)
+----------------------------------------------------------------------
+Name: Jenna Chapin
+Ethnicity: Not stated in source (not inferred)
+Age: ~40 (estimated from earliest date/grad year 2008, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 281 words, 21 lines (~0.6 pages)
+
+CANDIDATE 10  (source file: Image_52.txt)
+----------------------------------------------------------------------
+Name: Aneesa Haq
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. directed, oversaw
+Resume Length: 379 words, 34 lines (~0.8 pages)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.
