@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Sales
+Folder: Sales  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: a07c883fa78d2f88.txt)
+----------------------------------------------------------------------
+Name: Timothy Duncan
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. managed, lead, drove
+Resume Length: 359 words, 53 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: cc0342e6871cdad8.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. coordinated
+Resume Length: 436 words, 29 lines (~0.9 pages)
+
+CANDIDATE 3  (source file: Image_113.txt)
+----------------------------------------------------------------------
+Name: Shane Vilmer
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 147 words, 20 lines (~0.3 pages)
+
+CANDIDATE 4  (source file: 38b024f672061b68.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: English
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: BA Sales and Commerce Wardiere University | 2011 - 2015
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. lead
+Resume Length: 211 words, 44 lines (~0.4 pages)
+
+CANDIDATE 5  (source file: 957844d7110f0c5b.txt)
+----------------------------------------------------------------------
+Name: New York Usa
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: 2011-2015
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 190 words, 34 lines (~0.4 pages)
+
+CANDIDATE 6  (source file: 82f266be2a2c8386.txt)
+----------------------------------------------------------------------
+Name: Uttar Pradesh
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: - MBA Marketing from Brindavan Group of Institutions in 2022 with CGPA 8.1 | - Intermediate (MPC) from BBMP Junior College in 2020 with CGPA 8.5 | - 10 Class from Presidency School in 2018 with CGPA 8.2
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 230 words, 28 lines (~0.5 pages)
+
+CANDIDATE 7  (source file: 8abdccdd835b90cc.txt)
+----------------------------------------------------------------------
+Name: Mandy Town
+Ethnicity: Not stated in source (not inferred)
+Age: ~31 (estimated from earliest date/grad year 2017, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 401 words, 45 lines (~0.8 pages)
+
+CANDIDATE 8  (source file: Image_121.txt)
+----------------------------------------------------------------------
+Name: Jesse Kendall
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 330 words, 27 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: Image_51.txt)
+----------------------------------------------------------------------
+Name: Christa Mueller
+Ethnicity: Not stated in source (not inferred)
+Age: ~45 (estimated from earliest date/grad year 2003, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 409 words, 45 lines (~0.8 pages)
+
+CANDIDATE 10  (source file: 00b43a8970245cbf.txt)
+----------------------------------------------------------------------
+Name: International Sales Engineer
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. managed
+Resume Length: 314 words, 29 lines (~0.6 pages)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+National American University
