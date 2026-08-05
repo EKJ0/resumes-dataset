@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — Digital Media
+Folder: Digital Media  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: 103.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: MBA: Business Administration and Management, 06/2019 Walden University - Minneapolis, MN
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (5 instances) — e.g. lead, leading, coordinated, established
+Resume Length: 830 words, 79 lines (~1.7 pages)
+
+CANDIDATE 2  (source file: d2a94aa92edd7353.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~28 (estimated from earliest date/grad year 2020, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. leading
+Resume Length: 131 words, 14 lines (~0.3 pages)
+
+CANDIDATE 3  (source file: Image_76.txt)
+----------------------------------------------------------------------
+Name: Verla Connelly
+Ethnicity: Not stated in source (not inferred)
+Age: ~33 (estimated from earliest date/grad year 2015, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 144 words, 22 lines (~0.3 pages)
+
+CANDIDATE 4  (source file: 98.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Science: Music Business, 05/2021 Hofstra University - Hempstead, NY | - Dean's List Fall 2017, Spring 2018 | - Current Overal GPA: 3.45 | - Elected President for Makin’ Treble, the only all female acapella group on campus in 2018 | - Member of Phi Eta Sigma Honors Society
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. lead, managed, oversaw
+Resume Length: 795 words, 72 lines (~1.6 pages)
+
+CANDIDATE 5  (source file: 124923d5b059c221.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: - BA (hons) Digital Marketing (IN PROGRESS) | London University | Sep 2020 - Jun 2023 | Modules include: Digital Marketing, Content Creation, Marketing In Action, Marketing Principles and Practice, Marketing Communications, Social Media Marketing, Digital Marketing Strategy.
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Moderate (3 instances) — e.g. leading, managed
+Resume Length: 315 words, 37 lines (~0.6 pages)
+
+CANDIDATE 6  (source file: 0.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Jessica Claire
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. oversaw, coordinated
+Resume Length: 477 words, 47 lines (~1.0 pages)
+
+CANDIDATE 7  (source file: a1eaa64087d38286.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~30 (estimated from earliest date/grad year 2018, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: BACHELORS IN ADVERTISING | 2018-2020
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (4 instances) — e.g. led, lead, coordinated, established
+Resume Length: 207 words, 38 lines (~0.4 pages)
+
+CANDIDATE 8  (source file: 50.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~46 (estimated from earliest date/grad year 2002, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Tecnolégico de Monterrey | Monterrey, Nuevo Ledn + 2006
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. directed
+Resume Length: 356 words, 54 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: 35.txt)
+----------------------------------------------------------------------
+Name: Jessica Claire
+Ethnicity: Not stated in source (not inferred)
+Age: ~44 (estimated from earliest date/grad year 2004, not stated)
+Nationality: Not stated in source
+Languages: English: French: | Negotiated: Negotiated: | Arabic:
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: --------- Open University OU
+Writing Style: bullet-driven, moderate sentence length, third-person/resume-style tone
+Leadership Language: Moderate (6 instances) — e.g. led, managed, spearheaded, oversaw, coordinated
+Resume Length: 1186 words, 129 lines (~2.4 pages)
+
+CANDIDATE 10  (source file: Image_36.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Bachelor of Arts in Communications- 2010(Ohio State University - Columbus,
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. lead, leading
+Resume Length: 279 words, 26 lines (~0.6 pages)
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations
