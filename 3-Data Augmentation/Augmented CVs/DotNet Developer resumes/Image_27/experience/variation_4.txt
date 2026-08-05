@@ -1,0 +1,54 @@
+CANDIDATE LEVEL: Senior-Level Candidate
+
+Robert Smith
+
+Lead Dotnet Developer
+
+PERSONAL STATEMENT
+
+Certified Senior System Architect (PEGACSSA), Scrum Master, Agile Methodology. Competent professional having around 10 years of experience
+with around 3+ years of application development using PEGA PRPC BPM tool and 6+ years of work experience using C#.Net, Java, C++, VC++,
+
+MFC, VB.NET, SQL Server 2008, WCF,
+
+WORK EXPERIENCE
+---------------
+
+Lead Dotnet Developer
+ABC Corporation- September 2012 - August 2013 Responsibilities:
+= Involved in the SDLC phase of requirement analysis, design, and development of the web based intranet application tool using ASRNET
+and C#.
+- Graphical User Interface (GUI) designed using Views and the business logic was coded in C#. = Developed business use cases, sequential, collaborative, activity and class diagrarns for the enterprise presentation, and business and data access Components of the systern using UML, = Designed the source and applications under agile process. = Designed classes following OOP principles and implemented therm in snet in framework 3.5, = Responsible for unit testing and functional testing of application EnvironmentC# 2.0.
+- Interacted with the client during requirement gathering phase.
+
+Dotnet Developer
+Delta Corporation - 2008 - 2012 Responsibilities:
+
+- SSC is one of the nations leading health care providers.
+
+= |tis comprised of hospitals, medical centers.
+
+= Developed custom User Controls to reduce the complexity in UI coding and provide better look &amp; feel Implemented the business logic in
+the middle tler using C#,.NET Used Master Pages ternplates, CSS&amp;Themes to define unified look and feel for the application
+Creating and Managing Virtual Machines In Windows Azure and setting up communication with the help of Endpoints and also VM Migrations
+frorn Transitional hosts on Canada Boxes.
+
+= Adding the New Co-Admin and Managing the Co-Admins for all the Subscriptions in the Windows Azure Platform,
+
+= Reengineered existing applications to N Tier web based application using ASP Net with C# as back end,
+
+- Used Design Patterns to separate the User Interface and the Business Logic Involved in writing complex SQL Staternents, UDFs and Stored Procedures, Indexes to validate data and ensure systern Integrity and
+security In SQL Server 2005(T-SQL) Implemented exception handling and developed custorn error pages Developed the back end layer for
+- This Eree Resume Template is the copyright of Quikresume. com. Usage Gukielines
+
+1737 Marshville Road, Alabama
+(123)-456-7899 info@qwikresume,.com
+www.qwikresume.com
+
+PEGA PRPC 6.X 7.X, C++ C# JAVA.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company Name) Reference - 2 (Company Name)

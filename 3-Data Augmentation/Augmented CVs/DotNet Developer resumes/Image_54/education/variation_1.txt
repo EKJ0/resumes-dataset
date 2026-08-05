@@ -1,0 +1,67 @@
+Dot Net Developer Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+ROBERT SMITH Jiao cast caateptieeioes
+
+Address: 1737 Marshville Roacl, Alabama
+
+OBJECTIVE
+---------
+
+Dot Net Developer with around 4 plus years of experience in design. development, coding and
+testing of business/commercial applications using C#, ASP. Net, ADO. Net, Microsoft Enterprise
+Library, SOAP, Web Services, Windows Service, WCF Services, MVC and SQL Experience in Object
+Oriented Programming with Microsoft NET technologies such as .NET ASP.NET, C#, VB_NET.
+1IS.DOM, XSL, XSLT, HTML 5, Java Seript, JSON, Razor. Bootstrap, Visual Studio. Net NHibermate,
+ADO. Net. TFS and Entity Framework
+
+ASP.NET, ADO.NET. WPF, WCF, LINQ Languages: C. C++, C#. PL/SQL, TSQL Database: SQL Server Oracle 91/ 10g Frameworks: NET MVC Web Technology: HTML, XML. JavaScript.
+AngularJS, AJAX, CSS, SOAP, Web Services, Windows Service Server Platiorms: IIS Windows
+Server SPI IDE: Microsoft Visual Studio .NET Reporting Services: Crystal Reports Version Control:
+Tortoise SVN, MS-Team Foundation Server. Microsoft Visual Source Safe Operating Systems Windows Unix
+
+WORK EXPERIENCE
+--------------- Dot Net Developer
+
+Nutrisystem - September 2015 - Present
+
+Analyzing the business requirements and proposed asp. Net based front end and sql based backend solutions.
+
+Interacting with the system users to identify and gather data required for processing.
+Designing and developing various abstract classes, interfaces. classes using object oriented
+principles to construct the business logic using C#.
+
+Performing design and development of Asp.Net 4.5 web application using c# and separate user
+Interface logic from the business logic.
+
+Implementing Asp.Net 4.5 validation controls to validate the user input on the server-side.
+Extensively using the CSS to proyide flexible presentation, enabling multiple pages to share
+formatting and reduce complexity and redundancy of the html pages.
+
+Enhancing pages with different Ajax controls which provided responsive user Interfaces to display the data on the web page.
+
+Dot Net Developer
+Blackboard - February 2014 - August 2015
+
+Implemented crud functionality with entity framework in Asp.Net MVC 4.0.
+
+Responsible for developing the reusable components on Ulivtews) by developed the partial views. view starts, and reusable components.
+
+Supported the deployment and upgraded of other related modules and applications.
+Regression testing of the application in case of any upgrade and outages.
+
+Responsible to get sign-off from the customer for software fixes in case of support tickets and
+design In case of minor enhancements:
+
+Replaced existing infragistics 7. 1 controls with 15. 1 and supported (le, chrome and firefox)
+browsers,
+
+Developed partial classes and custom action filters for exception handling.
+
+- This Pree Resume Template ts the copyright of Qwilcresume.com. Usage Guidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

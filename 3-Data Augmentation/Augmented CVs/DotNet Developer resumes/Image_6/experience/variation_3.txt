@@ -1,0 +1,68 @@
+CANDIDATE LEVEL: Mid-Level Candidate
+
+Dotnet Developer Phone: (123) 456 78 99
+
+Email: Info@qwikresurne.com
+
+ROBERT SMITH emmy)
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+Byears' experience in analysis, design, development, research and implementation of Software
+Development Life cycle (SDLC), object oriented software systerns and development of Windows
+Based, Web based, Client/Server and n-tier distributed applications Strong Technical expertise in
+using Web Technologies like C#, ASP.
+
+SKILLS
+------
+
+C#, Asp.Net, MVC, Sql Server, Javascript, JQuery, AJAX, WCF,
+
+WORK EXPERIENCE
+---------------
+
+Dotnet Developer
+ABC Corporation - August 2013 - August 2014
+
+Responsible for Development of screens for capturing, retrieving and manipulating of data using Sitecore (CMS).
+
+Created server controls using C# and .NET frarnework classes,
+
+Designed and developed middle tier database access objects using the Microsoft .NET framework with C# .NET and ADO.NET,
+
+Developed User controls and Custorn controls.
+
+Designed, developed user interface look and feel and functionality for web users using XML,
+HTML, JavaScript, DHTML, XHTML, CSS and using ASRNET and C#.NET.
+
+Developed and designed Use Cases and Design documents,
+
+Implemented MVW pattern in front-end using jQuery and Angular.js.
+
+Dotnet Developer
+Delta Corporation - 2012 - 2013
+
+Description Micron Technology is 4 global leader in the serniconductor industry,
+
+For more than 35 years, Micron has dedicated itself to collaborating with custorners and partners to engineer technology that drives innovation and transforms whats possible.
+Micron offers the industrys broadest portfolio of silicon-to-serniconductor solutions - starting
+with foundational DRAM, NAND, and NOR Flash memory, and extending to SSDs, modules, MCPs, HMCs, and other semiconductor systerns.
+
+This best-in-class technology powers leading-edge computing, consumer, enterprise server
+and storage, networking, ernbedded, automotive, industrial, and mobile products.As the only
+US,
+
+Based DRAM manufacturer, Micron leverages an expansive global footprint and proven
+technology leadership to make it easier for custorners to try new things and gain cornpetitive
+advantages in their markets.
+
+Description Hill Physicians Is one of the oldest medical groups founded In 1984, has a long
+history in managed healthcare.
+
+With more than 3,500 physicians and other healthcare providers, Hill Physicians has the largest network of independent physicians in northern California,
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines

@@ -1,0 +1,65 @@
+Syed Basharath Alam
+
+- Net Developer basharathalam! @outlook.com
+(443/995-7854
+
+PROFESSIONAL SUMMARY
+--------------------
+
+- AnLT. Professional with 3+ years of experience in IT industry as a Dot Net Developer.
+
+- Hands on experience in software design, analysis, de velopment, testing and implementation of web and client server applications using Microsofi .Net Technologies.
+Hands on experience in multiple SQL Server versions - 2005, 2008, and 2012.
+Participated on all the phases of Software Development Life Cycle (SDLC) including
+Requirements Gathering, Analysis, Design, Development, Testing, UAT, deployment, Production
+and Post-production Support and maintenance.
+
+- Handkdand resolved many complex issues and received appreciation from clients.
+
+- Excellent interpersonal skills and teamwork, excellent analytical and problem solving.
+
+- Prioritize tasks/assignments based on the client priorities/se verity.
+
+- Quick karner, Creative thinker and Analytical probem-solver with demonstrated ability to manage projects from planning stage through execution/completion under the pressure of fast- paced, time-sensitive environments.
+
+TECHNICAL SKILLS
+----------------
+
+Programming : .Net,C#, ASP.NET, ADO.Net, MVC Framework.
+
+Database : MS SQL Server 2005/2008/2012, T-SQL.
+
+WebDe velopment : ASP.NET Silverlight,log4Net, TFSStact, HTML CSS Javascript. HT ML.CSS XSLT,
+JQuery, JavaScript, Visual Studio SQL Server Data Tools (SSDT) Projects .
+
+Others: Microsoft Visual Studio 2008, 2010, Microsoft Team Foundation Server (TFS), Microsoft Office,
+Excel
+
+EDUCATION
+---------
+- Pursuing Master in Software Engineering from Stratford University, VA,USA.
+- Masterof Technology (M.S) in Computer Science from JNTU, Hyderabad, India in 2015,
+- Bachelor of Engineering (B.E) in Computer Science from Osmania University Hyderabad, India
+in 2011.
+
+WORK EXPERIENCE
+---------------
+
+Senior .Net Developer November 2011 to August 2015.
+E-Ce ntric solutions, Pvt Ltd
+
+Hyderabad
+
+Website: www .e-centricsolutions.com
+
+Software and Web Developer August 2015to January 2016.
+Community Force
+
+Ashburn, Virginia, USA.
+
+Website: www.communilyforce.com
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

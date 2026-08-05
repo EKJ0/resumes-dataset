@@ -1,0 +1,60 @@
+CANDIDATE LEVEL: Entry-Level Candidate
+
+ROBERT SMITH
+- Net Developer
+
+E-mail: info@qwikresume.com Phone: (0123)-456-789
+
+A sell-motivated IT developer with 7+ years of professional experience in software unalysis, design and
+development using Microsoft Visual Studio, project management anc customer-focused implementation.
+Capable of deyeloping beth client and server portions of large or small applications,
+
+SKILLS
+------
+
+Full Stack .Net Developer Web Designer SQL Seryer Troubleshooting Issues Entity Framework .Net
+Framework WCF, ResVSoap User Interface Test Driven Development Agile/Scrum Strong Experience In
+Developing Various Application (Windows, Web, XML Web Services And SOA) Using Microsoft NET
+Technologies C#, ASP.NET, VB.NET, ADO.NET, Web Services, WCF (Windows Communication Foundation). Hands On Experience In Web Technology Using ASP.NET, HTML, DHTML, XML, XSLT,
+Angular JS, CSS, Knockout JS, AJAX, VB Seript, Kendo UI, JavaScript And AngularJS,
+
+WORK EXPERIENCE
+---------------
+
+- Net Developer
+CGI - March 2012 - Present
+
+- Involving in the software development life cycle (SDLC) for the documentation, designing. development phase of the system.
+
+- Scheduling meetings and coordinating the deployment process with business users to understand the
+
+user stories and creating the technical/functional documentation as per the business needs.
+
+Working on Agile methodology this includes daily scrum, retrespectives:
+
+- Implementing ASP MVC 5.0 framework for the development of the application:
+
+- Building the distibuted and scalable web appheution using Visual Studio 2013-
+
+- Creating the data access layer, business logic layer classes using C# and Net 4+.0/4.5_
+
+- Using role based security functionality in MVC to restrict users to certain pages read only.
+- Net Architect
+
+ABC Corp - 2011 - *2012
+
+Analyzed ancl recommended architecture solutions,
+
+Lead ether developers in development of system in accordance with defined architecture.
+
+Ensured compliance with standards.
+
+Analyzed and recommended solutions for Web and mobile applications.
+
+Analyzes business practices and processes to determine best practice stralegics to ensure maximum
+effectiveness and efficiency,
+
+- Assistws with Strategic planning, including applications integration and legacy application strategy.
+- Analyzes the hardware and software to assist in the stanclards determination and setting of processes.
+
+- This Knee Resume. Template + the copyright of Qwikresume.corn, Usage Cmidetines

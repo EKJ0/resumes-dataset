@@ -1,0 +1,49 @@
+ROBERT SMITH Dotnet Developer I
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+A Net Professional with 7+ years of diverse experience in all phases of Software Development Life Cycle process{SDLC}) involving Analysis, Design, Development,
+Deployment, Testing and Implementation of Client/Server applications using Microsoft NET. Experience in Agile Software development process using SCRUM
+Jamal Jackson
+
+‘CORE COMPETENCIES
+
+Experience in Agile Software development process using SCRUM Jamal Jackson
+
+WORK EXPERIENCE
+---------------
+
+Dotnet Developer f
+ABC Corporation - February 2014 - April 2015
+
+Key Deliverables:
+
+- Involved in developing ASP.NET application using MVC 3 design pattem.
+
+- Developed the application using C#, ASP.Net, and JavaScript with SQL Server as the back end.
+
+- Created and used Stored Procedures, Views, Joins, Triggers and Indexes in SQL Server.
+
+- Defined end points. contracts; configured bindings while creating WCF services.
+
+- Responishle for Building a room scheduling website for a college, it allows clients from outside to request for rooms in the college for their events and also allows scheduling courses going on campus,
+
+® Developed this website in ASP.NET and used error logging techniques to capture exceptions and handle it.
+
+- Actively involved in gathering and analyzing requirements.
+
+Dotnet Developer
+Delta Corporation - 2010 - 2014
+
+Key Deliverables:
+
+- Humana provides health insurance plans and products for individual using the Human One application.
+
+- Human One application is a web based application mainly deals with the generation of the reports, product sell and Data process for the end users Responsibilities Involved in Maintenance / Enhancements of the application which includes developing the new reports.
+
+- Involved in application development using Visual C#, ASP.NET 3.5 / Microsoft Enterprise Pattems and Practices Framework/ SQL Database, LINQ. WCF,
+
+- Used.JSON Serialize in data contract of WCF to generate the data in JSON format,
+
+2259 Oak Street, Old Forge, New York, 13420
+- Thi Free Resume Template t the copy rigin af Quikresume.com, Usage Guidelines

@@ -1,0 +1,44 @@
+Greg Baker
+
+Dotnet Developer II
+info@qwikresume.com | https://Qwikresume.com
+
+More than 8 years of experience in Requirement Analysis, Design, Documentation, Devd opment and Implementation in Client/Server and Web Technologies for
+various Finance and Retail domains. Extensive experience in MS ,NET Technologies using ASP.NET Web Forms, ASP.NET MVC, C#.NET, ADO.NET, LINQ to SOL, LINQ to
+Objects, VB.
+
+JANUARY 2014 - 2020
+- DEVELOPER iI - MAYO CLINIC
+
+Effectively used C#,NET for coding the business logic.
+
+Ensured that the proposed investments are appropriate for the clients financial circumstances and goals.
+
+Designed and devdoped various abstract classes, interfaces classes to construct the business logic using C#.
+
+Worked efficiently in all the phases of SDLC and Involved in developing 3- tier architecture for the web application,
+
+Fixed the issues reported by client and supported them quickly
+
+Designed and devdoped the real time and historical market data handling by using CQG API.
+
+Created Win Forms for admin application, scheduled the process for the updated market data,
+
+2012 - 2014 DOTNET DEVELOPER - DELTA CORPORATION
+
+Responsibilities Gathering Client requirements and converted them Into the technical specifications and developed Windows forms using C#.
+
+Involved in research and analysis of business problems and developing Technical solutions.
+
+Created WPF (Windows Presentation Foundation) for inputting and displaying data using C#.
+
+Implemented ground transportation Samp; Workflow Scheduler using Microsoft provider pattern, C# &amp; WPF.
+
+Worked on framework dements, the layout system; Visual Tree, User Controls, data binding, control template styles and dynamic resources.
+
+Developed custom controls to enable reusability and user rich graphic controls of WPF and WinForms.
+
+Used WPF in creating windows and different animated scenes using the combination of transforms, animation controls (storyboard, double animation)
+and color effects.
+
+- Ths Free Resume Template # the copyright of Qwikres wme.com. Usage Guidelines

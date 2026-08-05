@@ -1,0 +1,65 @@
+Robert Smith
+
+Dot NET Developer I
+
+PERSONAL STATEMENT
+
+Dot Net Developer | with around 7years of experience in IT industry with Software Development Life Cycle (SDLC) including design, development,
+testing and implementation of the projects. Experience in interacting with business analysts, gathering project requirements and discussing
+implementation strategy with project managers,
+
+WORK EXPERIENCE
+---------------
+
+Dot NET Developer |
+Sprint Corporation Overland Park- February 2009 - Present Responsibilities:
+= Using model view controller (MVC 4) architectural design patterns for the development of the product,
+= Understanding existing applications and accreditation business rules in order to accurately implement existing business rules in SharePoint
+portal.
+= Designing, developing and deploying the responsive web design (RWD) functionality in CGX using MVC 4.0 with Razor, kendo Ul, KnockoutJs,
+jasrnine, Ajax, jQuery, C#, HTMLS,
+- Implementing the client-side validations using jQuery and ASP.Net MVC validation implemented at controller level, = Involving in migrating the data from SOA to restful services using ASPNet Web API. = Implementing the interface whenever possible to enhance usability, testability and to increase performance.
+- Designing front end using Bootstrap, HTML, CSS, jQuery, Javascript and Angular|s,
+
+Application Developer
+ABC Corp- 2007 - 2009 Responsibilities:
+
+» Developed and prepared the documents for the general design of solutions that met system and security requirements, including the
+selection of alternative approaches,
+
+= Developed the specifications for databases, cornmunication systems, hardware, network, security, storage and software configurations,
+
+» Developed structured diagrams for the specifications of databases, communication systems, Computer or storage area networks, security
+or network programs,
+
+= Developed, compiled, maintained and documented the configurations of the databases, servers, computers, security and network monitor
+systems, packaged programs, macros, utilities, and cormmunication systems,
+
+» Worked on developing rich ui/ux pages using jquery, java script, ajax,
+
+= Developed mvc web apis (rest services) as a service layer, asp, Net web forrns for front end.
+
+» Thisis Dummy Description data, Replace with job description relevant
+- This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines
+
+1737 Marshville Road, Alabarna
+(123)-456-7899
+info@qwikresume.com
+www.qwikresume.com
+
+C, C++, C# Stylus Studio,MS-FrontPage, Zend Studio IDE, Dreamweaver 4.x, Flash CS4/C53, Flex
+3.x/2.x,|BM Rational Modeler Web Technologies/Tools MVC, ASP.NET, WCF, Web- Services, XHTML, HTML,
+HTMLS, CS53, SignalR, Microsoft Active Directory, iS, MVC Razor Scripting Languages XML, CSS, JavaScript,
+Databases MS SQL Server ORACLE, MS- Access,DB2 UDB V8.1, V9.1, V9.5, V9.7, V10.1, Tera Data- 14, Natural/
+ADABAS Platforms &amp; Servers lS (internet Information Server), Visual Studio Windows NT/2K/XP,Unix,APACHE
+3.x/2, X, Programming Area Web Applications, Desktop (Windows) Applications, Software Integration, Database
+Design &amp;
+Programming Components Web Mobile ASP.NET, MVC, Web API, HTMLS5,OHTML.CSS, Javascript, JQuery,
+Angularjs, JSON, AJAX, Bootstrap, XML, XSLT, XAML, SOAP, REST
+
+English (Native) French (Professional) Spanish (Professional)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

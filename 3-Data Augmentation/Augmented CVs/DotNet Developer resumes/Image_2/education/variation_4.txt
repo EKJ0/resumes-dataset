@@ -1,0 +1,68 @@
+Robert Smith
+
+Asst. Dotnet Developer
+
+PERSONAL STATEMENT
+
+Total experience of 10+ years on Dotnet, worked as senior/lead Experience in developing applications using MVC 4.0 and MVC 5.0. Experience in
+Creating and Consuming RESTful web services using WebApi2.0 Experience in Windows Cornmunication Foundation (WCF) Experience in Web Forms
+prograrnming Experience in Windows Forms programming Experience in Windows Presentation Foundation (WPF) Experience in using Structure map
+for Dependency Injection.
+
+WORK EXPERIENCE
+---------------
+
+Asst. Dotnet Developer
+Wayne County Treasurer's Office - July 2015 - 2020 Re sponsibilities-
+- Followed the N-Tier Pattern, separating the business, presentation and data models. = Implemented Single Sign-On (SSO) Solutions to provide common gateway for login. = Developed the project in agile methodology.
+- Involved in design the application by using various design patterns, = Worked with ETL (Extract, Transform, Load) with the SOL database. = Worked on designing and developing many excel based applications called Macros in VB.net.
+- = Made changes to existing user controls to add new fields (text boxes and drop down controls) In Ul.
+
+Dotnet Developer
+Delta Corporation - 2014-2015 Re sponsibilities:
+= Project Bank of America (Remediation) Description Client is one of the worlds largest Financial Service Provider.
+
+= Remediation project includes development of a Ul based application and
+
+a workflow to translate the Instructions into actionable data’ schedule for BAU teams to capture additional inforrnation needed for
+Remediation.
+
+= Project used the latest Microsoft .Net technologies as much as possible to engineer sophisticated systern needs of the client,
+
+= Project was developed on the .Net 4,0 frarnework using web services,
+
+- SSIS was used for moving the data between the end user and the client databases.
+
+- Responsibilities Involved inthe development and implementation cycles
+
+of the project in C#. NET, = Consumed WCF services to validate the logged in users Effectively
+
+created easy to use, reusable controls and integrated then into ASRNET
+
+web pages using C#.NET.
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marshwille Road, Alabarna
+
+(123)-456-7899
+info@qwikresume.com
+
+SKILLS
+------
+
+Presentation Foundation (WPF) Experience in using Structure map for Dependency Injection.
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding Cooking Reading
+
+Reference - 1 (Company
+
+Name) Reference ~ 2 (Company Name)
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Community College of Denver

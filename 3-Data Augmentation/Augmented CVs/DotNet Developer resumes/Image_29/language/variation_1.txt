@@ -1,0 +1,59 @@
+Phone; (123) 4567899
+Dot Net Developer Email: info@qwikresume.com
+
+ROBERT SMITH aS
+
+linkedin.conyqwikresume
+Address; 1737 Marshville Road, Alabama.
+
+OBJECTIVE
+---------
+
+Highly motivated graduate with experience and education in Computer Technology. Having 3
+years of experience in IT industry with good experience in various Web Based Applications and
+Client/Server Applications using C#, VB.NET .NET Framework (4.5, 4.0, 3.5, 3.0), ADO.NET, MVC3,
+
+XML, HTML, DHTML, CSS, Angular js, Bootstrap 3 and jQuery, JavaScript. Experience in working
+with LINQ to SQL and LING to XML and Good knowledge related to jQuery and JSON.
+
+SKILLS
+------
+
+c, C++, C#,Net, Asp.Net, V.B,NET, JavaScript, SQL, T-SQL. Web Designing Tools: Visual Studio [ ]
+
+V.B.NET, ASP.NET, Reporting Tools: SSIS, SSRS, Crystal Reports. Version Control Tools: SVN, TFS,
+
+GIT. Operating Systems: Windows10/7/XP, DOS Database: Oracle 11g, MS-Access, MS-SQL Server
+
+[ ]2008/ 2012R2, MySQL, Web Services: REST, SOAP, WCF, MVC. Unit Testing Tools: N Unit-GUI.
+
+Technologies: ASP.NET 3.5/4.0, MVC 4/5, Web API 1.0/2.0, Entity Framework, HTML, CSS, AJAX,
+
+Ee err Web Controls, NHibemate, |QUERY, Type-Script, Bootstrap, Node |S, Angular |S, verlig!
+
+WORK EXPERIENCE
+---------------
+
+Dot Net Developer
+Deutsche Bank - December 2016 - 2018
+- Involved in designing and developing the application using Visual Studio 2015, |Net
+framework 4.5, C#, ASP/Net MVC, SOL server 2014, and Ling entity framework.
+- Designed the complete solution using N-tier architecture model and applied design patterns mainly abstract factory, singleton and oop.
+- Involved in the development of the web forms and web pages according to the specifications; Extensive experience on Ajax, HTML, XHTML, SAML, XACML,
+- Created webpages (web forms) for various works streams by using Asp.Net, Ajax, Javascript, jQuery, and CSS and connected ther with business logic layer.
+- Extensively used CSS3 and bootstrap for styling the HTML5 elements, Worked extensively with Javascript frarnework,
+- Designed dynamic and multi-browser compatible pages using HTML, CSS, jQuery, Javascript, require Angular|s and Kendo Ul.
+- Worked with Ado.Net entity framework datasets through xml web service. Presenting the data frorn the xm file by using xsit.
+
+Dot Net Developer
+ABC Corp - 2015 - 2016 » Developed next-generation web applications and products.
+- Participated in all phases of the software engineering life cycle, » Provided technical troubleshooting and debug support.
+- Developed and implemented new products and provide information and support when required,
+- Evaluated new design proposals, and investigate and recommend solutions and process improvements that deliver greater efficiency or performance benefits.
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

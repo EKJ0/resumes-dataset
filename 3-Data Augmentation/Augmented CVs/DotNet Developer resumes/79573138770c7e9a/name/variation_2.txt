@@ -1,0 +1,72 @@
+Greg Baker
+
+Robert Sm ith Phone (123) 456 7899
+
+Email: info@qwikresurme.com.
+
+Website : www, qwikresume, com
+
+Dot Net Developer (Retail) LinkedIn: linkedin, com/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+Dot Net Developer with around 5 plus years of experience in the Retail dornain, experience the in
+design, development, coding and testing of business/commercial applications using C#, ASP. Net,
+ADO. Net, Microsoft Enterprise Library, SOAP, Web Services, Windows Service, WCF Services, MVC
+and SQL. Proven ability in understanding system requirernents, system architecture design,
+development, testing/QA and production environment setup and support.
+
+SKILLS
+------
+
+ASP.NET, ADO.NET, WPF, WCF, LINQ Languages: C, C++, C#, SQL Database: SOL Server Oracle
+9j/109 Frameworks: NET MVC Web Technology: HTML, XML, JavaScript, AJAX, CSS, SOAP, Web Services, Windows Service Server Platforms: IIS Windows Server SPI IDE; Microsoft Visual
+Studio .NET Reporting Services: Crystal Reports Version Control: IBM Clear Case, Tortoise SVN,
+MS-Team Foundation Server Operating Systems MS-DOS, UNIX, MVS, Sun Solaris, Windows
+
+WORK EXPERIENCE
+---------------
+
+Dot Net Developer (Retail)
+Walgreens - September 2014 - 2018
+
+» Involved in the development of web forms, classes using Asp.Net that incorporates both N-tier
+architecture, and database connectivity,
+
+» Involved in gathering the requirements, analysis, design Samp; developrnent of the project.
+
+- Designed, developed and enhanced the application using. Net framework 4, 5 and visual
+studio 2012.
+
+- Used dependency injection pattern to reduce the dependency coupling between classes and in front end using angularjs,
+
+- Experienced in developing and enhancing web forms, master pages, user controls and custorn controls by using html, css, and asp, Net controls,
+
+- Implemented server and client side validations using asp. Net validation controls and javascript,
+
+. Develonedl agile software development methodologies to enable efficient and effective high-
+quality software development.
+
+Dot Net Developer
+Xerox - April 2013 - August 2014
+
+- Implemented crud functionality with entity framework in Asp,Net MVC 4.0,
+
+- Designed and coded the applications based upon detail specifications of business and/or user requirements,
+
+- Ensured the effective integration of software across products, platforms and environments.
+
+» Analyzed the existing applications to determine where problems occur and developed possible solutions.
+
+» Assisted in creating the documentation of designs and solutions for assigned task,
+
+- Involved in creating the crm application front end using c#, asp. Net, myc. javascript, jquery, bootstrap, entity framework, web services and ajax,
+
+- Involved in executing Ssis packages, powershell scripts, console apps, command line scripts and stored procedures,
+
+EDUCATION
+---------
+
+- This Free Realtime Template Is the copyright of Qwikresume.com. Uzage Guldelines

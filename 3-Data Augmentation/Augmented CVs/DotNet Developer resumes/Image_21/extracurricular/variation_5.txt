@@ -1,0 +1,57 @@
+ROBERT SMITH Jr. Dotnet Developer
+
+il: info @qwikresume.com Phone: (0123)-456-789
+
+7+ years of strong professional Net Development experience in vanons applications based on Object
+Oriented Progmmming (OOP), Client/Server, N-tier architecture, Web based and Internet Technologies.
+
+SKILIS
+
+Excellent Skill In Writing Stored Procedures, T-SQL Queries, Functions, Triggers, Views And Schemas.
+
+WORK EXTERIENCE
+
+Jr. Dotnet Developer
+Micron Inc - November 2014 - 2020
+
+- Developed GUI using MS VISUAL STUDIO, ASP.NET Web Forms with Ajax cantrols.
+
+- Deployed applications into test and production environments by using web server (IIS).
+
+® - Responsnible for Client Engagement Acceptance Continuance (CBAC) project analyzes the risk and
+provides ruting for the engagements.
+
+Responsible Application design based on N-tier Architecture.
+
+Involved in the Database design,
+
+Worked with MSSOL, developed stored procedures, written queries, created triggers and indexes,
+involved in writing Technical use cases fora given functional use cases.
+
+Dotnet Developer
+Delta Corporation - 2009-2014
+
+- Key Responsibilities Participated in meetings with Business users and with other project teams to ensure that the volatile business requirements reflect in the project development.
+
+® Involved in the design of the Use Case Diggmims and class diagrams using Microsoft Visio.
+
+- Reworked on a part of the GUIs to improve interface without affecting the performance of the
+
+® Extended ASP.NET MVC 3 application by creating Views, Controller actions and Model classes.
+
+- Created unit tests to test action methods using Visual Studio testing framework.
+
+® Used Microsoft Entity Primework Code First appmach forthe Data Access Layer and defined entities that are used for data access MVC application.
+
+- Used C#.NET as language to develop code behind business logic.
+
+SCHOLASTICS
+
+- Bachelors of Technology in Technology - June 2004(Jawaharlal Nehro Technological University)
+
+- This Ens Remus Tomphats = the copyright of Qwiknewimecom, Usage Galdsfines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+(No extracurricular activities listed.)

@@ -1,0 +1,46 @@
+ROBERT SMITH
+
+Dot Net Developer (Internship)
+info@qwikresume.com | Linkedin Profile | Qwikresume.com
+
+Dot Net Developer with 1 plus years experience in designing, developing and implementing .Net applications, Extensive experience In hand coding user interface
+using HTML, DHTML, XHTML and CSS and Scripting languages Ilke JavaScript.
+Experience In developing applications using Visual Studio .NET Frameworks using C#.Net, VB.Net, ASP.NET for developing Web Applications Samp; Windows
+Applications. Knowledge on Tableau desktop application.
+
+WORK EXPERIENCE
+---------------
+
+Dot Net Developer (Internship)
+= Energy - NOVEMBER 2017 - PRESENT Involving in interface design of web application from design to
+implementation.
+- Working in an Agile environment to deliver higher-quality software far more rapidly.
+- Creating CSS files to be applied to various web forms on the web pages.
+- Creating business entities and configuring xml files for database mapping In the business layer using C#.Net language.
+- Developing custom controls and user controls for reusable part of the web pages using C#.Net with Asp.Net.
+- Used C#.Net Asp.Net web application in Ling to SQL for database connectively.
+- Creating Model View Controller (MVC) design pattern to create reusable code,
+
+Dot Net Developer
+ABC Corp - 2016 - 2017
+
+- Created custom directives and controllers in Angular JS for reusable components where the custom directives are in the form of custom HTML elements.
+
+- Implemented the routing for the web application using Angular JS routing.
+
+- Used data binding In Angular JS for automatic synchronization of data between model and view components,
+
+- Created CSS3 background, layouts, positioning and text, border, padding, pseudo-classes, elements, behaviors and constants for reusability,
+
+- Developed user interactive web pages using HTML, CSS, Javascript. Kendo Ul, jQuery and AngularjS as per the company standard,
+
+- Worked on the development of the middle tler, developed data access layer using Microsoft entity framework 5.0.
+
+- Developed partial classes and custom action filters for exception
+
+- This Free Resume Temptate is the copyright of Qwikresume.com, Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

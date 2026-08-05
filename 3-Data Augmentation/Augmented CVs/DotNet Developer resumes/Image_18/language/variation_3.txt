@@ -1,0 +1,54 @@
+ROBERT SMITH Senior .Net Developer
+
+Phone: {0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Senior .Net Developer with 8+ years of experience in designing and developing collaborative solutions using various Microsoft Technologies. Strong knowledge in
+Software Life Cycle process and development methodologies with strong expertise in building windows and web-based solutions. Worked on ADO.NET Entity Framework to
+associate with a database for CRUD operations,
+
+‘CORE COMPETENCIES
+
+- NET, ASP. ASP.NET, C#, IS. INTERNET INFORMATION SERVICES, JAVASCRIPT, WPF. Wet
+
+WORK EXPERIENCE
+---------------
+
+Senior .Net Developer
+Kelloggs - April 2013 ~ Present
+
+Key Deliverables:
+
+- Worked on software development life cycle starting from requirements gathering and performing object-oriented analysis. design, and implementation and developing new WCF service interface layer.
+
+- Designed MVC design pattern for asp. Net application development using the ASP.Net MVC framework.
+
+- Developed web services for administrative services; configuration services, and pricing services
+
+- Worked on ditabase modeling and database schemas and also created stored
+procedures in SQL server 2008,
+
+- Developed user controls using asp. Net and c# and used them dynamically in the web pages using master pages and CSS.
+
+- Implemented object-relational mapping using NHibernate and ORM tools;
+
+- Designed and developed user interfaces using ASP.Net on Visual Studio 2008.
+
+Senior .Net Developer
+ABC Corp - 2010 - 2013
+
+Key Deliverables:
+- Responsible for planning and designing new software and web applications.
+- Analyzed, tested, and assisted with the integration of new applications
+- Oversaw the documentation of all development activity,
+- ‘Trained non-technical personnel. Assisted with tricking performance metrics.
+- Integrated the knowledge of business and functional priorities,
+- Acted as a key contributor in a complex and crucial environment.
+- Lead the teams or projects and shares expertise.
+
+2259 Oak Street, Old Forge, New York, 13420
+- Thi Free Resume Template t the copy rigin af Quikresume.com, Usage Guidelines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Professional working proficiency in English.

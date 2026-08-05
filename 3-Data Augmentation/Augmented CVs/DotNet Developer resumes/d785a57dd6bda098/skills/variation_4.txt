@@ -1,0 +1,45 @@
+ROBERT SMITH Dot Net Developer (Healthcare)
+
+Phone: (0123}-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+Dot Net Developer with around 5 years of experience in Healthcare domain, experience in various applications based on Object Oriented Programming (OOP), Client/Server, N-tier
+architecture, Web based and Internet Technologies. Worked closely with business analysts and converted the requirements into Dot Net code.
+
+CORE COMPETENCIES
+
+VB.NET, C#, T- SQL, PL/SQL, HTML, UML, XML. RDBMS: Oracle MS Access MS SQL Server Methodologies Agile. Scrum, Test Driven Development (TDD) And Waterfall
+Seripting Language JavaScript. JQuery, VB Script, DHTML/HTML, CSS, XML, And JSON Web Services XML [XSL/XSLT), SOAP, WSDL, UDDI. HTTP, WCF Networking
+TCP/IP, UDP. SNMP, SMTP Testing Tools Manual Testing. NUnit Testing, Quick Test Pro {QTP). Version Control; VSS, TFS, CSV. Development Tools VisualStudio.NET SQL Server
+Management Studio, MS Visio, Adobe Photoshop
+
+WORK EXPERIENCE
+---------------
+
+- Involving in agile methodology and undergone in all phases of software development life cycle and proposed solutions to the business problems.
+
+- Using jQuery Ul API for the animation and U1 development of Asp.Net MVC 4 application
+
+- Creating model classes, nazor views and controller action methods to-compose data using models.
+
+- Writing jQuery functions to manipulate and validate dom elements in views.
+
+- Creating models using entity framework that is used as properties by application
+
+- Improving logging mechanism by adding new fields to existing tables to provide deseription of errorand exception messages.
+
+- Creating jQuery functions to post data to controller methods using json and ajax
+
+Analyst 1
+ABC Corp - 2013 - 2014
+
+Key Deliverables:
+- Participated in the research of latest industry practices and technology trends as requested by senior team members:
+- Assisted in the development of solutions (hardware, software, processes) that support business requirements.
+
+2259 Oak Street, Old Forge, New York, 13420
+- This Bree Resume Template ls the copyright of Gaikrestune.com, Usage Guidelines
+
+
+ADDITIONAL SKILLS
+------------------
+Project Management, Agile, Stakeholder Communication

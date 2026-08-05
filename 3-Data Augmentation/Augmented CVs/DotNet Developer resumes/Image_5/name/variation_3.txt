@@ -1,0 +1,50 @@
+Lakisha Washington
+
+ROBERT SMITH Junior DOT Net Developer
+
+Phone: (0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Junior .NET Developer having over 3 years of extensive experiance in complete softwara
+development life cycle (SDLC) involving Requirements Gathering, Analysis, Design, Development,
+Tasting, Packaging, Deploying and Supporting of Windows Applications, Web Applications and
+Mobile Applications on Microsoft platform. Experience in Agila Methodology for full life-cycle of the
+Project.
+
+C#, VB.NET, Java .Net Technologies .Net Framework .Net Core, ADO.NET, ASP.NET, .Not Stack, ASP.NET MVC, SharaPoint, Web Services, Web Technologies XML, HTML, XHTML,
+WSDL, CSS, JavaScript, JQuery, JSON, AJAX, Bootstrap, Angular JS. Databases MS-SQL Server Oracle, MS Access, T-SQL, PL/SQL Design And Devalopment Tools MS Visual Studio,
+Microsoft Visio, MS Office, SOL Server Management Studio, Web Servers &amp; Protocols Tomcat 7.0/8, Apache, TCP, HTTP, UDP, SOAP Operating Systems Windows Linux Reporting
+&amp; Integr
+
+Junior DOT Net Developer
+XL Soft Tech - August 2013 - August 2015
+
+Key Deliverables:
+
+- Involved in various phases of the development life cycle by gathering requirements, analysing, design and development.
+
+- Followed Agile methodology with daily sorum meetings and provided user story updates.
+
+- Worked on routing to load controller type using Asp.Net MVC for reaching appropriate action in the wab application.
+
+- Used MVC razor-view engine for re-using the individual user controls by not coupling them with underlying data eloments,
+
+- Used Asp.Net MVC framework to support the use of dependency injection to Inject objects into a class; Instead of relying on the class to craate the object itself,
+
+= Created application using HTMLS5, React.Js, AnguilarJS, and Bootstrap for responsive design.
+
+= Heavy use of knockout, Js view models for separation of ul, data, and logic concerns,
+
+- Net Developer
+ABC Corp - 2012 - 2013
+
+Key Deliverables:
+- Designed and coded applications based upon detail specifications of business and/or user requirements.
+- Ensured effective integration of software across products, platforms and environments
+
+Sh hv hv
+2259 Oak Street. Old Forge, New York. 13420
+
+‘© This Free Resume Template 1s the copyright of Qwikresume.com. Usage Guidelines

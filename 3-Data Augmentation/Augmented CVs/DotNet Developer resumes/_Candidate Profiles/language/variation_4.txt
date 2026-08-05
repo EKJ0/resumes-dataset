@@ -1,0 +1,151 @@
+CANDIDATE PROFILES — DotNet Developer resumes
+Folder: DotNet Developer resumes  |  Profiled 10 randomly sampled CVs from this role.
+Note: Ethnicity is not stated in these resumes and is not inferred (no name/photo-based
+guessing) — recorded as 'Not stated' for every candidate. Age is only shown where explicitly
+stated, or as a labeled estimate derived from an education timeline where available.
+======================================================================
+
+CANDIDATE 1  (source file: Image_73.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~39 (estimated from earliest date/grad year 2009, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: - This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 352 words, 38 lines (~0.7 pages)
+
+CANDIDATE 2  (source file: Image_71.txt)
+----------------------------------------------------------------------
+Name: Derrick Barrett
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 341 words, 28 lines (~0.7 pages)
+
+CANDIDATE 3  (source file: Image_25.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: Not stated in source
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: = Master's degree in Computer Science
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 224 words, 35 lines (~0.4 pages)
+
+CANDIDATE 4  (source file: 3ec9e43108342526.txt)
+----------------------------------------------------------------------
+Name: Alton Fallie
+Ethnicity: Not stated in source (not inferred)
+Age: ~38 (estimated from earliest date/grad year 2010, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Class of 2010 B.A. in Computer Science
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 228 words, 26 lines (~0.5 pages)
+
+CANDIDATE 5  (source file: 8c51bd8c1a358293.txt)
+----------------------------------------------------------------------
+Name: James Chang
+Ethnicity: Not stated in source (not inferred)
+Age: ~36 (estimated from earliest date/grad year 2012, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Pittsburgh University, May 2012
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 123 words, 34 lines (~0.2 pages)
+
+CANDIDATE 6  (source file: 4b753f3f7695cd3c.txt)
+----------------------------------------------------------------------
+Name: Jane Fis Net Developer
+Ethnicity: Not stated in source (not inferred)
+Age: ~32 (estimated from earliest date/grad year 2016, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 257 words, 41 lines (~0.5 pages)
+
+CANDIDATE 7  (source file: daced111413c1a3e.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. coordinated
+Resume Length: 373 words, 37 lines (~0.7 pages)
+
+CANDIDATE 8  (source file: Image_59.txt)
+----------------------------------------------------------------------
+Name: Unable to parse cleanly (name not clearly present in header)
+Ethnicity: Not stated in source (not inferred)
+Age: ~37 (estimated from earliest date/grad year 2011, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: bullet-driven, long, dense sentences, third-person/resume-style tone
+Leadership Language: Low (1 instances) — e.g. coordinated
+Resume Length: 370 words, 35 lines (~0.7 pages)
+
+CANDIDATE 9  (source file: 00bd3d6f4fd4fe21.txt)
+----------------------------------------------------------------------
+Name: Robert Smith
+Ethnicity: Not stated in source (not inferred)
+Age: ~41 (estimated from earliest date/grad year 2007, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, long, dense sentences, third-person/resume-style tone
+Leadership Language: None detected
+Resume Length: 443 words, 44 lines (~0.9 pages)
+
+CANDIDATE 10  (source file: 81146b61e0f31e22.txt)
+----------------------------------------------------------------------
+Name: Mary R. Alvis
+Ethnicity: Not stated in source (not inferred)
+Age: ~34 (estimated from earliest date/grad year 2014, not stated)
+Nationality: Not stated in source
+Languages: Not stated in source
+Volunteering: Not stated in source
+Extracurricular Activities: Not stated in source
+Education: Not stated in source
+Writing Style: narrative/paragraph-style, moderate sentence length, third-person/resume-style tone
+Leadership Language: Low (2 instances) — e.g. oversaw, mentored
+Resume Length: 206 words, 26 lines (~0.4 pages)
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

@@ -1,0 +1,59 @@
+ROBERT SMITH Sr. Dotnet Developer
+
+Phone: (0123)456-789 | Emad: info@qwikresume.com | Website: Qwikresume.com
+
+SUMMARY
+-------
+
+Around 7+ years ot experience in sottware development life cycle which includes Requirement
+Study, Analysis, Design, Development, Integration, Re-Engineering, installation, implementation,
+testing, configuration management, maintenance and production support of various client/server,
+N-tier and web applications.
+
+CORE COMPETENCIES Testing, configuration management, Maintenance,
+
+WORK EXPERIENCE
+---------------
+
+Sr. Dotnet Developer
+ABC Corporation - January 2012 - February 2013
+
+Key Deliverables:
+
+- Participated in System Specification meetings, analysed user requirement, coordinated with coders and team members
+
+- Followed Agile Methodology to produce high Quality software and satisfy the customers.
+
+- = Worked with Visual Studio 2012/10 NET Framework 3.5 for the development of Web Pages.
+
+- Developed Business Logic layer by implementing Object Oriented Programming Language (OOPs) leatures like Inheritance, Polymorphism, Abstraction and Encapsulation in C#.
+
+- Extensively worked on User Interlace pages (.aspx) using HTML and Java Script and to implement complex Business Rules and Validation of front end forms:
+
+- Involved in designing and developing the GUI with various controls (Data Grid, Data List, Textbox, Calendar, List Controis, Dropdown box, Validation Controls etc).
+
+» KPMG provided audit, tax and advisory services and industry insight to help ormanizations
+negotiate risks and perform in the dynamic and challenging environments in which they do business,
+
+Dotnet Developer
+Delta Corporation - 2008 - 2012
+
+Key Deliverables:
+
+» Humana provides health insurance plans and products tor individual using the HumanOne application,
+
+- HumanOne application is a web based application mainly deals with the generation of the reports, product sell and Data process far the end users Responsibilities Involved in Maintenance / Enhancements of the application which includes developing the new reports,
+
+- Involved in application development using Visual C#, ASP.NET 25/ Microsoft Enterprise Patterns and Practices Framework’ SOL Database, LINO, WCF,
+
+- Used JSON Serialize in data contract of WCF to generate the data in JSON format.
+
+- _ - _ - _ - - - - - - _.. - _ - nXn nn
+2259 Oak Street. Old Forge, New York, 13420
+
+‘0 This Eree Resume Template ts ihe copyright of Qwikresume.com. Usage Guidelines
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+President, Sorority Philanthropy Committee. Captain, Cheerleading Squad.

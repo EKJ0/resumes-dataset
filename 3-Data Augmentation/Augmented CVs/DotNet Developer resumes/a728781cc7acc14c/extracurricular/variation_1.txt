@@ -1,0 +1,66 @@
+MAGED SAMAAN
+1000 North 4th Street MR #636 « Fairfield. lowa 52557
+418.416.0273 » maged.samaangoutlook.com + yirw.nkedin.cominimagedsamaan
+
+Full stack .NET developer
+
+Savvy. self-motvated, and results-driven full stack NET in turning ideas into software
+selutions, Over 5 years of experience serving as key contributor across af software Me cycle phases
+inctuding working with big companies and succeeding in many roles in startups. analytical skulls, able to
+
+Exceptions!
+issues and provide prompt, effective solutons. Strong passion for learning new technologies.
+
+CORE COMPETENCIES / TECHNICAL SKILLS
+
+NET Framework ¢ Web Development « Full Stack « Back-End ¢ DevOp * SOL Development
+
+Debugging & Deployment + Robust Coding « Agila Methodologies (Scrum & Kanban) Problem Solver « Team Player » Fast Learner
+
+Oatabasos: SOL Server, EO, RENCE: RAS Tools: TFS, GIT, Visual Studio Other Stills: Strong knowledge of Gesign pattern. Basic knowledge of Project Management
+
+WORK EXPERIENCE
+---------------
+
+CAREER NOTE: Completed on-campus studies and currently taking distance education courses to complete a
+Masters Degree in Computer Science (Avetabie for tuhtine. W-2 employment).
+INTEGRANT, Cairo, Egypt « 2015
+
+U.S. based development & testing outsourcing company.
+
+Principle Software Developer
+
+Key member of outsourced Checkout team for www profiowers.com whose roles were to performed detailed
+analyses on chent needs and provided new feature eshmates and design, in accordance with desired specificatons.
+Developed and maintained new ASP NET MVC Checkout pages for end-users and customer support.
+
+Empowered profiowers com checkout & admin sites to work on IE & by analyzing CSS bugs and page crashes.
+- - Coltaboratied on team tat re-wrote old web-forms checkout admin sito to ASP.NET MVC.
+
+- Promoted project success by writing Seleniurn test cases for new admin site pages.
+
+Technologies:
+- CB, ASP.NET, MVC, JavaSenpi, SOL, Web Services, Web API, SQL Server, Visual Studio, TFS, HTML, CSS. LESS, SASS.
+
+ORBRIDGE, Cairo, Egypt + 2012-2015
+
+Technology integration company focused on medical & healthcare service provider IT solutions.
+
+Senior Software Engineer
+
+Top performing contriputor. performing analysis, estimates, design, and new feature implementation. Merged and
+mantained TFS & source code version Conducted data migration actwities of SOL Server trom lower versions to
+current one. Served as 2nd tine of support. Implemented aulomated reporting system for marketing team. Teamed
+to build front end/back end and ensured synchronicity.
+
+- Oversaw ec party integration, Two, Resaity NET, TechEG (SMS providers). Parse.com, and MasiGun.
+
+- Designed performance enhancements for messaging Windows service using threading/SOL tuning techniques.
+- Facilitated keyword search by applying SoundE.x algorshm and tuning it for Arabic language
+
+- Enabled interaction between cal center agents by integrating SignaiR to allow Real Time Data interaction. Technologins:
+
+
+ADDITIONAL ACTIVITIES
+---------------------
+Captain, Varsity Basketball Team. Member, Fraternity Alumni Council.

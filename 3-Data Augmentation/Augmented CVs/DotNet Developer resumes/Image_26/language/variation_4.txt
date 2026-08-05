@@ -1,0 +1,72 @@
+Robert Smith Phone (123) 456 78 99
+
+Email; InfoG@awikresume,cor
+
+Dotnet Developer Website : wont, quikresuime, com
+
+LinkedIn: linkedin.com/qwikresume
+Address; 1737 Marshville Road, Alabarna
+
+SUMMARY
+-------
+
+8+ years of extensive experience In designing and developing web applications, web services,
+client/server applications by using Microsoft .NET technologies. Having strong knowledge Software
+Development Life Cycle (SDLC) including requirements definition, design, programming / testing
+and implementation of major systems.
+
+SKILLS
+------
+
+Microsoft ,NET , Programming / testing.
+
+WORK EXPERIENCE
+---------------
+
+Dotnet Developer
+ABC Corporation - November 2010- August 2011
+
+Analyzed requirements in order to determine and provide realistic estimates and Solutions,
+Designed dynamic web pages with C# using RAZOR in ASP NET,
+
+Developed Presentation layer using ASP.NET, HTML, JavaScript.
+
+implemented MVC design pattern to develop the application and to reduce the complexity and to get full control over the behavior of the application.
+
+Worked with Telerik Controls to display huge arnount of data.
+
+Used Ajax Controls for client side validations with asynchronous data execution using threads
+when needed to Increase the performance.
+
+Developed Cascading style sheets (CSS) for consistent look and feel of the website.
+
+Dotnet Developer
+Delta Corporation - 2006- 2010
+
+Created ASP.NET pages with web server controls for the presentation layer.implermented validation using validation controls, |Query and JavaScript client side validations.
+
+Developed web applications using ASP.NET and AJAX Extensions under MVC architecture, Created Web Forms for developing the applications using webserver controls and HTML
+controls.Using Entity Framework, connected to relational data by writing LING to SQL queries,
+Involved in all the phases of the Software Development Life Cycle including Systern Analysis,
+Design and Development.implemented Page level security and permissions based on the authentication details.
+
+Developed administrative functions such as assigning property viewing permissions and addingsystem users.Using Windows Forms for GUIs with some test work with Crystal Reports
+html for reporting.Written Web Service for Messaging module passing user data from Manager
+to Sales Team andvice versa using C#.Net. Send ADO.NET datasets through XML Web service.Presenting the data frorn the XML file by using XSLT.Designed reports and written
+some dynamic calculations for reports using SQL Server ReportingServices.
+
+Provided technical support and Updates to customers and partners in a timely manner and documented technical and programming specifications.Data Formatting was done using
+HTML, CSS and client side scripting using Angular|S and JQuery.iInvolved In the developrnent
+of business logicin C#,
+
+NET.Created web custorn controls and web user controls where necessary.
+
+EDUCATION
+---------
+
+- This Free Resume Template is the copyright of Qwikresumne com. Usage Guukde lines
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Conversational English; English as a second language.

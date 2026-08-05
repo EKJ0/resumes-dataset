@@ -1,0 +1,56 @@
+Bradford Schmidt, Phone: 038.560.8163 x44207, Email: bradford32@gmail.com
+
+BRADFORD SCHMIDT
+
+Inspired Dot Net Developer with 12+ years of professional Phone: 038.560.8163 x44207
+experience in Infrastructure as a Service, Single Page Apps Email: bradford32@gmail.com areas with willingness to learn and master RDBMS & SQL LinkedIn: @bradford32
+and UI/UX & Design. Scrum & Agile expert. GitHub: @bradford32
+
+KEY SKILLS
+---------- Front End Databases
+
+@e Aurelia, BabylonJS, CSS3 @ CRUD, DynamoDB, ETL
+
+- ExtJS, JSP, LESS e MariaDB, NHibernate, ORD
+
+@e OOOCSS, Polymer, SCSS
+
+- Sass, Spring, Web Components DevOps Back End e Ansible, CircleCl, Kubernetes
+
+@ Octopus, SVN, TeamCity
+
+@ Bitrix, GlassFish, Iris, JVM e Vagrant
+
+- Joomla, Magento, Rails/Ruby on Rails, SSRS
+
+- Seneca, WebLogic, Zend SDLC Testing @ 12 Factor App, Asana, Basecamp, GoF Design
+
+Patterns @ Blanket, Chai, Cucumber, Jest e Jira, SOLID principles, Waterfall
+
+- MStest, Nock, TestNG
+
+WORK EXPERIENCE
+---------------
+
+Senior .NET Developer 03/2014 - 02/2017 Schmeler - Crona North Floridaview, AL
+
+- Collaborating with stakeholders as a part of implementation of the high-profile customers- facing portal that helped to develop clear, unambiguous technical requirements and establish consistent feed-back loop.
+
+- Design and implementation of the 99.99% up-time REST API for the business-critical external web app, that provided critical connectivity channel for distributed functionality and increase system cohesion keeping manageable code complexity.
+
+- Handling full stack programming tasks for the development of the high-profile external web app (Kubernetes, SCSS and Nock). As a result 10 bugs-free releases have been deployed just- in-time.
+
+- Improving product aesthetic and UX of the high-profile single page application, resulting in 83% increase in sales and product revenue.
+
+- Performing unit & load testing for the critical single page application using Chai and Cucumber eliminating system's failure rate by 79%
+
+.NET Core Developer 01/2011 - 02/2014 Von - Sawayn Nashmouth, CT
+
+- Collaborating with stakeholders as a part of implementation of the mission-critical progressive web application that helped to develop clear, unambiguous technical requirements and establish consistent feed-back loop.
+
+Bradford Schmidt, Phone: 038.560.8163 x44207, Email: bradford32@gmail.com
+
+
+LANGUAGE PROFICIENCY
+---------------------
+Native English speaker.

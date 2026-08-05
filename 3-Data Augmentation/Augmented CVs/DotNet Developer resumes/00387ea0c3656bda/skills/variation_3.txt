@@ -1,0 +1,35 @@
+SIRIUS BLACK
+
+Microsoft Technologies- ASP.NET, VB.NET, ADO.NET, C#.NET, ASP.
+
+Programming Languages: Java
+
+Web Technologies: JSF, HTML, JavaScript Databases: Oracle 10g.
+
+Web / Application Server: Tomcat, Glass Fish 2.1.
+Java Technologies: JDBC, J2EE, JPA
+
+DOT NET DEVELOPER- XYZ CREATIONS, NY
+(from 2018-Present)}
+
+Analyzed and designed several program changes.
+Updated requirements documentation and wrote design documents (PRD, FRD, UIRD, and SDD).
+Recognized and improved code inefficiencies leading to a 40% increase in app stability.
+Effectively Applied strong technical skills to deliver specifications, program changes, and
+documentation.
+
+Documented and executed tests ensuring code changes met requirements and specifications.
+
+Volunteered during summers for ABC Homeless Children Shelter. Taught them Programming and MS
+Office.
+
+Designing Software
+
+Social Media Management Excellent Communicator
+
+_] Web Development
+
+
+ADDITIONAL SKILLS
+------------------
+Python, SQL, Data Analysis

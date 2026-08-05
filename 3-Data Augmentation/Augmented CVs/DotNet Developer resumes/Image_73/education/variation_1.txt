@@ -1,0 +1,62 @@
+Senior .Net Developer Phone: (123) 456 78 99
+
+Email: Info@qwikresurne.com
+
+R O B E RT S M iti H Website: cammemmery
+
+linke din.com/qwikresume
+Address: 1737 Marshville Road, Alabarna,
+
+OBJECTIVE
+---------
+
+Senior Net Developer with over Nine years of IT experience in all phases of software development
+life cycle (SDLC) - Project Analysis, Requirements, Design, Development, Testing, and Deployment
+and Docurnentation. Extensive experience in .NET Framework Web based application development
+using Microsoft. NET technologies including ASP.NET, C#, ADO.NET, WCF, WPF, Silver light, AJAX,
+ADO.NET, XML, COM, COM+, DCOM, VB, Java and VB scripts and ASP,
+
+SKILLS
+------
+
+C++, VB.NET, TSql, PL/SQL Web Technologies .NET Framework ASP.NET, MVC 2/3, Silverlight 4.0/3.0, ASP.Net Ajax 3.0/2.0, JavaScript, JQuery
+
+WORK EXPERIENCE
+---------------
+
+Senior .Net Developer
+Bed Bath & Beyond, Nj - june 2012 - Present
+
+- Designed and developed various abstract classes, interfaces, classes to construct the business logic using C# with OOPS implementation.
+
+- Developed the reusable frarnework for the application using the ASP.Net MVC framework 3,0.
+
+- Designed and developed graphical user interfaces using silver light XAML and C#.
+
+- Developed new user interface camponents for different modules using Kendo UI,
+
+- Created custom, general use rnodules, and cornponents which extend the elements and modules of core Angular]S,
+
+- Extensively used silver light data grid, items control and many other controls with paging and sorting for displaying various data onto the page.
+
+- Participated in making responsive web designs using Twitter Bootstrap.
+
+Senior .Net Developer
+ABC Corp - 2009 - 2012
+- Worked with web services, caching features, configuring optimizations and securing the web application.
+- Conducted detailed risk assesernents by analyzing docurnents, statistics, reports and market trends.
+- Developed module which deals with validating user, changing passwords and searching of information depending upon priority of user in the site using ASPNet.
+- Involved in solving moderately complex problerns and/or conduct moderately complex analysis
+- Provided explanation and inforrnation to others on difficult issues.
+- Coached, provided feedback and guided others,
+- Maintained the knowledge of current dornains and strategic roadmaps.
+
+EDUCATION
+---------
+
+- This Free Resume Template is the copyright of Qwikresume.com. Usage Suidelines
+
+
+EDUCATION (INSTITUTION)
+------------------------
+Harvard University

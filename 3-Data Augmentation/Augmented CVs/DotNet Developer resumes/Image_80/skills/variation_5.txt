@@ -1,0 +1,60 @@
+Robert Smith
+
+Sr .Net Developer
+
+PERSONAL STATEMENT
+
+Sr .Net Developer with over 7+ years of experience in all the phases of SDLC, working through Analysis, Design, Development, Testing,
+Maintenance, and Documentation of Enterprise-level web and windows applications using Microsoft Technologies. .Net professional with above 7
+years of extensive experience developing applications using a Microsoft.Net framework, C#, ASP.Net, ADO.Net, MS-SQL Server Web Services, Win Forrns
+and Reporting Services.
+
+WORK EXPERIENCE
+---------------
+
+Sr .Net Developer
+Vertex Solutionsinc- April 2015 - Present Responsibilities:
+- Involved in all the phases of Software Development Life Cycle (SDLC) including analysis, design, prograrnming, testing, and deployment. = Designed and developed an application using Angularjs, HTMLS, CSS3,
+SQL server 2034 and ASP.Net web API.
+= Created the application in .Net framework 4.5 and implement logic using C# and oops concepts.
+= Created the application Ul using client-side technologies like Javascript Jquery, Angular JS, CSS3, HTMLS5, and Ajax.
+- Used AngularjS and typescript for control validations and data forrnat checking. = Developed forrn validations on the server side and client side using Angular}S, = Developing multiple new applications from scratch and supporting multiple existing applications.
+
+Senior .Net Developer
+ABC Corp- 2011-2015 Responsibilities:
+- Researched new software development practices and use advanced technologies in creating better tools for the company. » Served as the support developer for application requirernents. = Developed server-side code for internal and external web applications. = Wrote unit tests, automated regression tests and tracking defects as they occur, = Developed applications using both C# .NET, utilizing the .NET MVC frarnework.
+- Maintained a high level of security and code reusability. = Worked with clients to develop requirements documents and project schedules,
+
+EDUCATION
+---------
+Bachelors- (2010)
+
+- This Eree Resume Template is the copyright of Quikresume.com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marshwille Road, Alabarna
+
+(123)-456-7899
+info@qwikresume.com
+
+SKILLS
+------
+
+JavaScript, VB Script, HTML, DHTML, XML, CSS, JQuery, Bootstrap, JSON,
+
+Angular}S Application Servers
+
+English (Native) French (Professional) Spanish (Professional)
+
+Climbing Snowboarding
+
+Reading
+
+so 1 (Cornpany
+
+Reference - 2 (Company Name)
+
+
+ADDITIONAL SKILLS
+------------------
+Bilingual, Cross-cultural Communication, Client Relations
