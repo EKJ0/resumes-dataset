@@ -1,0 +1,47 @@
+[
+    {
+          "job_id": "Management-1",
+          "source": "LinkedIn",
+          "url": "",
+          "company": "",
+          "title": "",
+          "industry": "",
+          "location": "",
+          "employment_type": "",
+          "experience_level": "",
+          "description": "",
+          "requirements": "",
+          "responsibilities": "",
+          "benefits": ""
+      },
+      {
+        "job_id": "Management-2",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    },
+    {
+        "job_id": "Management-3",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    }
+    ]

@@ -1,0 +1,47 @@
+[
+    {
+          "job_id": "Operations Manager-1",
+          "source": "LinkedIn",
+          "url": "",
+          "company": "",
+          "title": "",
+          "industry": "",
+          "location": "",
+          "employment_type": "",
+          "experience_level": "",
+          "description": "",
+          "requirements": "",
+          "responsibilities": "",
+          "benefits": ""
+      },
+      {
+        "job_id": "Operations Manager-2",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    },
+    {
+        "job_id": "Operations Manager-3",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    }
+    ]

@@ -1,0 +1,47 @@
+[
+    {
+          "job_id": "Human Resources-1",
+          "source": "LinkedIn",
+          "url": "",
+          "company": "",
+          "title": "",
+          "industry": "",
+          "location": "",
+          "employment_type": "",
+          "experience_level": "",
+          "description": "",
+          "requirements": "",
+          "responsibilities": "",
+          "benefits": ""
+      },
+      {
+        "job_id": "Human Resources-2",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    },
+    {
+        "job_id": "Human Resources-3",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    }
+    ]

@@ -1,0 +1,47 @@
+[
+    {
+          "job_id": "Public Relations-1",
+          "source": "LinkedIn",
+          "url": "",
+          "company": "",
+          "title": "",
+          "industry": "",
+          "location": "",
+          "employment_type": "",
+          "experience_level": "",
+          "description": "",
+          "requirements": "",
+          "responsibilities": "",
+          "benefits": ""
+      },
+      {
+        "job_id": "Public Relations-2",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    },
+    {
+        "job_id": "Public Relations-3",
+        "source": "LinkedIn",
+        "url": "",
+        "company": "",
+        "title": "",
+        "industry": "",
+        "location": "",
+        "employment_type": "",
+        "experience_level": "",
+        "description": "",
+        "requirements": "",
+        "responsibilities": "",
+        "benefits": ""
+    }
+    ]
